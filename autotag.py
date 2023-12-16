@@ -162,16 +162,9 @@ def openai(prompts=[],model="gpt-3.5-turbo-1106"):
    )
     return response.choices[0].message.content
 
-def google(prompts=[],model="gemini-pro"):
-    genaiPro = genai.GenerativeModel(model)
-    merged_prompt = f"{prompts[0]}\n{prompts[1]}" 
-    response = genaiPro.generate_content(merged_prompt)
-    return response.text
 
 def send_request(system_prompt,user_prompt,model):
-    if("openai" == model):
-        return openai([system_prompt,user_prompt])
-    return google([system_prompt,user_prompt])
+    return openai([system_prompt,user_prompt])
 def main():
     for file in os.listdir('sbs_json'):
         if file.startswith('qa_volume_') and file.endswith('.json'):
