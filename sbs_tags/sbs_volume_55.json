@@ -1,0 +1,851 @@
+[
+    {
+        "qa": [
+            {
+                "number": 1,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello, Odacchi! I wanted to send a letter, so I sent a letter.",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes. Thanks a lot. Let's move on.\n\n[[File:SBS55_1_T-Bone.png|right|100px]]",
+                        "matches": [
+                            [
+                                35,
+                                74,
+                                "File:SBS55_1_T-Bone.png|right|100px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS55_1_T-Bone.png",
+                        "size": "100",
+                        "start": 35,
+                        "end": 74
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "D sends a letter to Oda, who acknowledges it and moves on to the next question."
+            },
+            {
+                "number": 2,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Captain T-Bone is in page 42 of volume 54, in panel 6 - but how did he survive after the fight with Zoro?",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Ah! You're right. He's definitely there. That's captain T-Bone, who should have been unmistakably defeated in the Water Seven arc. As to how he survived, well, it just happened. It just happened in a manly way.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "captain_tbone",
+                        "zoro"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "survival",
+                        "manliness"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Captain T-Bone's survival after the fight with Zoro is unexplained, Oda simply says it happened in a manly way."
+            },
+            {
+                "number": 3,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Don! I've gotta question! On page 110 of volume 52, when Capone's opening the gates in his stomach, isn't the \"wandabadabadaba\"-melody the same melody they played in the scenes when the members of \"Ultraman\" sailed from their machine?",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Oh, is it? So that's what it was, huh. Yes. This is something we've received postcards about from various people, so if that's what everyone's saying, it's probably true. That is to say, when I was drawing I could clearly hear a melody in my head, and it was some kind of background music I'd heard as a kid, but - what exactly is it, I wondered as I drew. (Laugh) Incidentally, that melody is also used in volume 33 when the Groggy Monsters make their entrance.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "background_music",
+                        "mystery_melody"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda confirms that the 'wandabadabadaba' melody in Capone's scene is the same as in Ultraman, and it's a background music from his childhood."
+            }
+        ],
+        "page": "26",
+        "chapter_number": "533",
+        "page_header": "SBS55 Header 1.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 4,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei, I recently saw this on the news: \"Power generated by cola! Bio-battery!\"! When I saw that news, I naturally thought of Franky-aniki and Sunny-go! If they're making your ideas reality, so the next thing that will be realized is... what? According to you, what do you think will become real?",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Hahaa. Oh, really...? With cola... they make batteries... Ah! Um, um, um, um, o-o-of course, I k-k-knew about it. Right, so, next maybe the Sea Train will become reality. Yep. When it's done, I want to go for a ride~.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "franky",
+                        "sunny_go"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "nervous",
+                        "playful"
+                    ],
+                    "topics": [
+                        "technology",
+                        "transportation"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda suggests that the next One Piece concept to become reality might be the Sea Train, and he expresses a desire to ride it when it's completed."
+            },
+            {
+                "number": 5,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Have the CP9 ever sprained their fingers when they've failed at the Shigan? I HAVE.",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "What are you doing!?? Don't do that! It did happen to the CP9 back when they were in training, though. But please everyone, don't imitate them. Because if you do, the PTA will get mad at me!\n\n[[File:SBS55_2_Pandawoman.png|right|120px]]",
+                        "matches": [
+                            [
+                                192,
+                                235,
+                                "File:SBS55_2_Pandawoman.png|right|120px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS55_2_Pandawoman.png",
+                        "size": "120",
+                        "start": 192,
+                        "end": 235
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "cp9",
+                        "pandawoman"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "concerned",
+                        "playful"
+                    ],
+                    "topics": [
+                        "CP9_training",
+                        "imitation_warning"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "CP9 did sprain their fingers when failing at Shigan during training, but please don't imitate them to avoid angering the PTA."
+            },
+            {
+                "number": 6,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Nice to meet you. Everyone in my family's into One Piece. Right, here's the real question. Luffy was sent flying to the Island of Women in volume 53. Even though it's the Island of Women, this \u2192 was there on page 101, panel 3; page 140 panel 2; page 153 panel 1 etc. Who is this guy who looks like Pandaman?",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "So you found it, huh... It's not Pandaman! Of course it isn't, since the Island of Women is forbidden to men. The answer is... it's Pandawoman-mi! [-mi is a common kanji in girl names. -N] It's said that Pandaman loves her. But it isn't known whether the feelings are mutual or not.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "luffy",
+                        "pandaman",
+                        "pandawoman-mi"
+                    ],
+                    "places": [
+                        "island_of_women"
+                    ],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "character_design",
+                        "island_of_women",
+                        "pandaman_love"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Luffy was sent to the Island of Women in Volume 53, and Pandawoman-mi, not Pandaman, appears there; Pandaman supposedly loves her, but it's unclear if the feelings are mutual."
+            }
+        ],
+        "page": "46",
+        "chapter_number": "534",
+        "page_header": "SBS55 Header 2.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 7,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Greetings. Very pleased to meet you! We are the Panda Pirates from China. By the way, China has the largest crew~! People from all over the world have gathered in pirate crews through the Internet, and counting the registered users, we are about 40,000 people! (What's that?! Since it's China, you're not surprised? Well, well...)\n(Question) The buildings and landscape of the Island of Women feels a little Chinese in their character. Did you make it that way on purpose?\n\n[[File:SBS55_3_Panda_Pirate.png|right|100px]]",
+                        "matches": [
+                            [
+                                474,
+                                519,
+                                "File:SBS55_3_Panda_Pirate.png|right|100px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes, yes. The model for Amazon Lily is China. There are lots of movies and stories about Amazons, but I thought there were very few with an elegant setting. I wanted to make them a country of women with have an high cultural standard. Speaking of which, Chinese women are HOT! I love China dresses! Says Sanji.  \nBy the way, the representatives of the Internet group called the \"Panda Pirates\" who sent me this letter also sent me a a THICK envelope filled with messages from the members. There was a list of names, too, and there were One Piece fans from all over the world gathered together... Mmm, it made me really happy~! Please keep up your easy-going support!",
+                        "matches": []
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS55_3_Panda_Pirate.png",
+                        "size": "100",
+                        "start": 474,
+                        "end": 519
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "sanji"
+                    ],
+                    "places": [
+                        "china",
+                        "amazon_lily"
+                    ],
+                    "emotions": [
+                        "happy"
+                    ],
+                    "topics": [
+                        "amazon_lily_culture",
+                        "community_interaction"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Amazon Lily's setting is inspired by China, and Oda appreciates the support from the Panda Pirates online group and their international fan base."
+            },
+            {
+                "number": 8,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei, Chopper is cute, so I want him as my pet! Huh? No way? Then - PLEASE MAKE ME NAMI'S PET.",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Hey, what are you saying, you!! Ah! Excuse me, officer, you came at the right time. It's about this little pervert. Yes. He's causing trouble. Wee-oo-wee-oo... ah! No, I'm not - it's not me, really!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "tony_tony_chopper",
+                        "nami"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "playful"
+                    ],
+                    "topics": [],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "A reader asks to be Nami's pet, Oda responds humorously and pretends to call the police on the 'perverted' reader."
+            },
+            {
+                "number": 9,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchi! \u2665 Won't you come over tomorrow~?",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Oh, alright - wait, WHERE?",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "happy"
+                    ],
+                    "topics": [],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader invites Oda over, and he responds with a playful confusion about the location."
+            }
+        ],
+        "page": "66",
+        "chapter_number": "535",
+        "page_header": "SBS55 Header 3.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 10,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchi! DON'T WORRY.",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Okay, thank you. I think even I can go and live a strong life.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "reassured"
+                    ],
+                    "topics": [],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "D reassures Oda, and Oda thanks them, feeling encouraged to live a strong life."
+            },
+            {
+                "number": 11,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "What's the mark used by Magellan and the others in Impel Down? Is it \"strength (\u529b)\"? What's this \u2190 thing?",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Oh, I got this question from Toei Animation too. If you look carefully at the mark on the armbands and collars of the soldiers, you'll notice that the insignia is slightly different, right? There are two different marks, but really, they share the same base. Both marks symbolize the \"I\" and \"D\" of Impel Down. They overlap like this: \n[[File:SBS55_4_ID_Symbol.png|left|200px]]\nAnd so you get this mark, and if you cut it differently you get this mark. It doesn't really matter, though.",
+                        "matches": [
+                            [
+                                336,
+                                377,
+                                "File:SBS55_4_ID_Symbol.png|left|200px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS55_4_ID_Symbol.png",
+                        "size": "200",
+                        "start": 336,
+                        "end": 377
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "magellan"
+                    ],
+                    "places": [
+                        "impel_down"
+                    ],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "impel_down_mark",
+                        "toei_animation",
+                        "symbols"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "The mark on Impel Down uniforms represent the 'I' and 'D' of Impel Down, with two slight variations, and the shape is not significant."
+            },
+            {
+                "number": 12,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello, Oda-sensei! I've been thinking about this for three days and three nights without sleeping, but - looking at your name, shouldn't your birthday would be the sixth of January? [Number-pronunciation logic: Ei-ichi-rou, where \"ichi\" is \"one\", and \"ro\" is the first syllable of \"six\".]",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yeah, that works. [Yes, this is a continuation of the long-running tradition of readers suggesting birthdays for characters based on their names. ...and, no, Odacchi's birthday isn't January 6. It's January 1 -N ]",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "oda's_personal_life"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader points out that Oda's name suggests a January 6 birthday, but Oda clarifies it's January 1, debunking the name-pronunciation logic."
+            },
+            {
+                "number": 13,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "\"In Whereupon We Ask Odacchi A Question\". [The letter writer is sounding like Sweet Pea, so this is my approximation of how Sweet Pea would sound like in English. It goes on through the letter. -N] Inside Sunny-go, there's a splendid bookshelf, isn't there? And in that bookshelf are \"everyone except Luffy's books\"! But! There's one person in the crew that I simply cannot imagine reading. And that is... Zoro. What sort of books could he possibly be reading? Please tell me!",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "It certainly does seem like books don't suit Zoro very well. But rather than reading books, you could say that he views them. Diagrams from books on martial arts, illustrations of weapons, collections of high-level bounties and so on. He looks at them.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy",
+                        "roronoa_zoro"
+                    ],
+                    "places": [
+                        "sunny_go"
+                    ],
+                    "emotions": [
+                        "curious"
+                    ],
+                    "topics": [
+                        "reading_habits",
+                        "zoro_interests"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Zoro doesn't read books, but views them, such as diagrams of martial arts, weapon illustrations, and high-level bounties."
+            }
+        ],
+        "page": "106",
+        "chapter_number": "537",
+        "page_header": "SBS55 Header 4.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 14,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchi! Congratulations! They're doing another One Piece movie. But this time, it's your script, right? I'm really looking forward to it!! ...and, when I was watching the movie trailer on my computer I heard the word \"Kinjishi\" come up - but isn't that the flying pirate who broke out of jail 20 years ago that Sengoku mentioned in chapter 530!? There has to be some connection, right!?",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes. \"Kinjishi\". Actually, I really wanted to have his name come up in the scene where Shirohige talks to Shanks in volume 45. But I thought at the draft level that I was handing out too much information and confusing the readers, so I took it away - but in my mind, I have determined that he is one of the legendary pirates who played a big part during Roger's time. Though I didn't think I'd make a movie about him. In any case, \"Kinjishi\" escaped from Impel Down, and now that 20 years have passed, he's finally starting to make a move, and that's what the movie is about. There's an announcement on page 192.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [
+                        "Impel Down"
+                    ],
+                    "emotions": [
+                        "excited"
+                    ],
+                    "topics": [
+                        "One Piece movie",
+                        "Kinjishi",
+                        "Roger's time",
+                        "Impel Down"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda initially planned to include 'Kinjishi' in the manga, but removed it to avoid confusing readers; 'Kinjishi' escaped from Impel Down and is the focus of the upcoming movie."
+            },
+            {
+                "number": 15,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Would you like to be whipped by Sadi-chan together with me? Shimizu Chagero",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "What are you saying!!!? You bastard, are you back? A 21-year-old from Aichi! Excuse me, officer, this kid is a pervert. Nono, not me!! Eh? Why aren't you wearing panties?",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "perverted",
+                        "funny"
+                    ],
+                    "topics": [],
+                    "importance": "hight",
+                    "isCharacterInsertion": true
+                },
+                "summary": "Oda hilariously deflects a question about being whipped, and shifts focus to a cheeky request, pretending to call out a perverted reader."
+            },
+            {
+                "number": 16,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "When Oars fell down and the bridge was destroyed in volume 48, Franky repaired the bridge, but where does Franky keep his hammer (and stuff)? Please ask Franky!",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Inside your briefs, right?\n\nFranky: Yup.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "franky"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "franky's hammer",
+                        "repairing the bridge"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "Franky keeps his hammer and stuff inside his briefs."
+            }
+        ],
+        "page": "126",
+        "chapter_number": "538",
+        "page_header": "SBS55 Header 5.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 16,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "N/A",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "What's up with that style? \"Dramatizer\" - you mean \"liar\", right?\n\nK: Not a liar! A dramatizer!",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Alright, fine. So, do you know what SBS stands for?\n\nK: Of course. (S)Feel free to take (B)Us in your staff as we're (S)Unemployed right now!",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I've got no use for you.\n\nK: That's horrible! We have no appearances now that we reached the Separation arc in the Anime",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "You're busy anyway, aren't you! And that's not the meaning of SBS!\n\nK: It's not? Then what about something like (S)Let's (B)Start with a (S)Beer or (S)Let's (B)End it with a (S)Beer! That seems fine.",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Do I look like a pub? Never mind. You don't want to get it right anyway. So, let's do this!\n\nK: ''I'll work hard to defeat you with stupidity!! YEAH!''",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "You're working hard in the wrong way!\n\nK: Oh, I got it, SBS! It's (S)Let me (B)Make you (S)Really stupid!",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "STOP IT",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "oda_eiichiro"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "SBS",
+                        "comedy"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda and K are joking about the meaning of SBS, with K coming up with humorous suggestions while Oda tries to clarify."
+            }
+        ],
+        "page": "166",
+        "chapter_number": "540",
+        "page_header": "SBS55 Header 6.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 28,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I have a question for Yamaguchi Kappei-san. Please tell me what other seiyuus you really respect! And seriously, please. \u2665 \n\nK: I'll answer seriously. Everyone of the Straw Hats. And, and Nozawa Masako-san and Master Kimotsuki Kaneta.",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "...When is that?\n\nK: and when I don't want to be recognized, I am.",
+                        "matches": []
+                    },
+                    {
+                        "type": "question",
+                        "text": "Is there any line in the script so far that Usopp (Yamaguchi Kappei-san) has really struggled with?\n\nK: Indeed there is. \"I'm a Nikyuu-human with the NikyuNikyu no mi\" [Bartholomew Kuma's Devil Fruit. Literaly \"meatball\"] was difficult to say~ (distant eyes) ''---It's not even my own line!!!''",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "usopp",
+                        "bartholomew_kuma"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "playful",
+                        "funny"
+                    ],
+                    "topics": [
+                        "voice_acting",
+                        "struggles",
+                        "devil_fruit"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Kappei respects the Straw Hats, Nozawa Masako, and Kimotsuki Kaneta; struggled with a line from Bartholomew Kuma's Devil Fruit."
+            },
+            {
+                "number": 29,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Would you care to show me your panties?\n\nK: Of course! (''V-sign'')",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "''Wah! What are you doing? It stinks... Well, Kappei-san, we're going to end here! But first, there's one final kid who wants to challenge you. Please stand tall and lend him your chest!''",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "kappei_san"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "perverted"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "D: Reader asks to see panties, Oda responds humorously and then ends the conversation."
+            },
+            {
+                "number": 30,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hasn't Kappei-kun of the Yamaguchi family been a bit strange lately?\n\nK: That's rude! He's always been strange!",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "He ran away! What freedom! Such amazing speed... Ah, he fell (laugh)... Eh? He flew... He's flying!! What's happening? Well, everyone, see you next volume! Hey~!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "kappei",
+                        "yamaguchi_family"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "surprised",
+                        "funny"
+                    ],
+                    "topics": [
+                        "freedom",
+                        "strangeness"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": true
+                },
+                "summary": "A reader asks about a strange character, and Oda jokes about the character running away and flying, ending the Q&A with humor."
+            }
+        ],
+        "page": "186",
+        "chapter_number": "541",
+        "page_header": "SBS55 Header 7.png"
+    }
+]

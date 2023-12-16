@@ -1,0 +1,949 @@
+[
+    {
+        "qa": [
+            {
+                "number": 0,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "N/A",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Gaah!! (shock) (\u2190 Noticed it started) uuuh... (\u2190 couldn't start it this time either) ugh... (\u2190disappointed)",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "shock",
+                        "disappointed"
+                    ],
+                    "topics": [],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda expresses frustration at not being able to start the Q&A session"
+            },
+            {
+                "number": 1,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I really, really want to be Inazuma. -by a 31-yr old housewife\n\n[[File:SBS61 1 Inazuma & Jozu.png|right|65px]]",
+                        "matches": [
+                            [
+                                64,
+                                110,
+                                "File:SBS61 1 Inazuma & Jozu.png|right|65px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes.",
+                        "matches": []
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS61 1 Inazuma & Jozu.png",
+                        "size": "65",
+                        "start": 64,
+                        "end": 110
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "inazuma"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "character_identity"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A 31-yr old housewife expresses her desire to be Inazuma and Oda simply responds with 'Yes'."
+            },
+            {
+                "number": 2,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchi~ a question for you. Is the 3rd division commander of the Whitebeard pirates, Diamond Jozu's penis a diamond? Please tell me. Pen Name Family jewel Negio",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes, Jozu's penis is a diamond penis.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "diamond_jozu"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "whitebeard_pirates",
+                        "anatomy"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "D: Asks if Diamond Jozu's penis is made of diamond and Oda confirms it to be true."
+            },
+            {
+                "number": 3,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Question 1: Since it all seems to be becoming dirty, SBS will end. P.N. PATAN",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "NO DON'T!!! (shock) Whaddya mean dirty! Look at the question above! OF COURSE THINGS GET DIRTY HERE! HOW AM I SUPPOSED TO ANSWER!! Ah, I see you wrote me another question, Mr. P.N. PATAN...\n\n[[File:SBS61 1 Poop.png|right|53px]]",
+                        "matches": [
+                            [
+                                191,
+                                227,
+                                "File:SBS61 1 Poop.png|right|53px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS61 1 Poop.png",
+                        "size": "53",
+                        "start": 191,
+                        "end": 227
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "shock",
+                        "funny"
+                    ],
+                    "topics": [
+                        "SBS_end",
+                        "dirty_content"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader worries SBS will end due to dirtiness, but Oda dismisses the concern and humorously addresses the issue."
+            },
+            {
+                "number": 4,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Question 2: Oda sensei, do you poop? P.N. PATAN",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Since I'm an idol, I don't do those things <3 Ehe <3 WHO YA CALLING AN IDOL!!!! (shock) Ha.. haa... sorry.. that was probably childish. I answered and even got all angry... That time.. my bad... Buri!! (* sound effect when pooping)",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "shock",
+                        "funny"
+                    ],
+                    "topics": [
+                        "personal_life",
+                        "toilet"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda jokingly denies pooping, then apologizes for childish behavior and adds a sound effect for pooping."
+            }
+        ],
+        "page": "28",
+        "chapter_number": "595",
+        "page_header": "SBS61 Header 1.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 5,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "If Sanji becomes the president, what would his politics be? P.N. Kenichi (Aichi area)\n[[File:SBS61 2 Sanji Pre-Timeskip.png|right|61px]]",
+                        "matches": [
+                            [
+                                86,
+                                136,
+                                "File:SBS61 2 Sanji Pre-Timeskip.png|right|61px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes, let's see-. First would be \"ladies first\". He'd make the whole political organization be composed of beautiful women. There would be a law that only ladies can eat good food, in movie theaters, the # of ladies' days would increase to 6 days a week, there would be total discrimination toward men, and the men would form a rebellion, and he would fail, losing his position.\n\n[[File:SBS61 2 Namur.png|right|57px]]",
+                        "matches": [
+                            [
+                                379,
+                                416,
+                                "File:SBS61 2 Namur.png|right|57px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS61 2 Sanji Pre-Timeskip.png",
+                        "size": "61",
+                        "start": 86,
+                        "end": 136
+                    },
+                    {
+                        "file": "SBS61 2 Namur.png",
+                        "size": "57",
+                        "start": 379,
+                        "end": 416
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "sanji",
+                        "men",
+                        "women"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "politics",
+                        "gender_discrimination"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Sanji's politics would prioritize women, leading to rebellion and his eventual failure as the president."
+            },
+            {
+                "number": 6,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello Oda sensei. No matter how many times I look at Volume 57's cover, I don't see the 8th division commander <u>Namur</u>. Did something happen to him?! Give him a chance in the SBS! P.N.Jozu",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Ah-, that's true-. But in reality, I did draw him. Looks like he got cut off because of a printing problem. In the original I drew, he's right here-. Sometime in the future, I'll make sure he is on the color walks, etc. My apologies, commander Namur!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "namur"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "apologetic"
+                    ],
+                    "topics": [
+                        "art_issue",
+                        "volume_57",
+                        "character_design"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Namur, the 8th division commander, was actually drawn on Volume 57's cover but got cut off due to a printing problem, so Oda apologizes and promises to feature him in the future."
+            },
+            {
+                "number": 7,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "If you take away the cuteness from Chopper, what would happen?! Please attempt to draw him!! Ah, and what do your curtains smell like, Mr. Oda?\u00a0 --Our Curtains Stink.\n\n[[File:SBS61 2 Uncute Chopper.png|left|200px]]",
+                        "matches": [
+                            [
+                                168,
+                                214,
+                                "File:SBS61 2 Uncute Chopper.png|left|200px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Well yes-. The curtains in my workplace are lavenderish... or floralish... or rosy-ish, or crappy-ish...\n\n(Chopper is saying \"Idiot, how can I by munchin' on sweets. Where's the beer, eh? The beer\" and in the speech bubble, it says \"Hey, your curtains smell like crap...\")\n\n[[File:SBS61 2 Justice Coats.png|right|156px]]",
+                        "matches": [
+                            [
+                                274,
+                                320,
+                                "File:SBS61 2 Justice Coats.png|right|156px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS61 2 Uncute Chopper.png",
+                        "size": "200",
+                        "start": 168,
+                        "end": 214
+                    },
+                    {
+                        "file": "SBS61 2 Justice Coats.png",
+                        "size": "156",
+                        "start": 274,
+                        "end": 320
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "tony_tony_chopper"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "chopper_cuteness",
+                        "curtains_smell"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda describes his workplace's lavender, floral, and rosy-ish curtain scents and presents a drawing of an un-cute Chopper asking for beer."
+            },
+            {
+                "number": 8,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "You know the coat that all those commissioned Marine officers wear on their backs? The one that says \"Justice\". That thing never falls of no matter how much the guy wearing it moves, but how does it stay on? A snap stopper? Or maybe super glue? My husband says \"it's rubber\" (making it a circle and passing it through another circle). P.N. Koteni-",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Too bad, nothing is on there. That is a coat that has \"Justice\" on the back. It never falls off, because to them, Justice never \"falls\"!! As long as that feeling stays in their hearts, THE COAT WILL NEVER FALL!!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "motivational"
+                    ],
+                    "topics": [
+                        "marine_coat",
+                        "justice"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda explains that the coat with 'Justice' written on it never falls off because as long as the feeling of justice stays in the Marine officers' hearts, the coat will never fall."
+            }
+        ],
+        "page": "48",
+        "chapter_number": "596",
+        "page_header": "SBS61 Header 2.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 9,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Greetings, Odacchi sensei. Good afternoon(?). This is a question, but the marks on the hat Portgas D. Ace was wearing; do they mean: \n[[File:SBS61 3 Ace's Hat.png|right|150px]]\n\n\u2639: Was it okay for me to be born into this world?\n\n\u263a: Meeting Pops, Luffy, and loving me so much, I'm glad I was born. Thanks.\n\n...or something like that to indicate Ace's question and the \"Answer\" he found? No, it's gotta be that! When Ace said his quotes before dying, his expressions were the same as his hat. P.N. Nara's K(Kuuki) Y(Yomeru) (Can read atmosphere)",
+                        "matches": [
+                            [
+                                134,
+                                176,
+                                "File:SBS61 3 Ace's Hat.png|right|150px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Hmm, I see. I've received quite a number of postcards on this one. Those \"marks\" and \"the last expressions\", hm. They are the same. I, also, was shocked when I had this pointed out at first. (Haha) What's funny is that much to coincidence, that happened to become true. Back then, when Ace made his first introduction, there was sort of an idea of what this dude's destiny would be inside me, but those marks were just plain old accessories, and so I never thought of a deep meaning. And the expressions of Ace when he was dying, well I just thought that would be relevant and drew those two panels next to each other. Realistically, the face of pain, burning, hurting, feeling bad, and not wanting to die. Still, the feeling of having no regrets. He probably tries to tell that is how he truly feels to Luffy. And that's what his smile is. When a person cradles a crying baby, he/she always smiles, right? Same as that. Because he wants the person to smile, he dies with a peaceful smile in the end, and I think that shows us his kindness. Thinking that, I drew those panels. Ah- the explaination got kinda long-. Well anyhow- it's amazing, how you all notice this stuff.",
+                        "matches": []
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS61 3 Ace's Hat.png",
+                        "size": "150",
+                        "start": 134,
+                        "end": 176
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "portgas_d_ace",
+                        "luffy"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "shocked",
+                        "sad",
+                        "peaceful",
+                        "kind"
+                    ],
+                    "topics": [
+                        "ace's destiny",
+                        "meaning of ace's hat",
+                        "ace's expressions",
+                        "ace's kindness"
+                    ],
+                    "importance": [
+                        "high"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda explains that the marks on Ace's hat and his expressions were not intentionally connected, but he appreciates the observant fans who noticed the connection."
+            },
+            {
+                "number": 10,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Tell me why do conveyer-belt sushi restaurants have to rotate the sushi around. P.N. Marukoh the Phoenix",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Oh, I think it's the same as the rotation of the ages.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "sushi_restaurants",
+                        "rotation_of_ages"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Conveyer-belt sushi rotates like the ages, according to Oda."
+            }
+        ],
+        "page": "104",
+        "chapter_number": "598",
+        "page_header": "SBS61 Header 3.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 11,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Watch closely Oda! This is the entire Yonko group! (instinct) YOU'D BETTER PUBLISH IT!\n\n[[File:SBS61 4 Yonko.png|left|144px]]\n\nP.N. Mammoth shrine's little brother\n\n*Lables from left to right say: Shanks, Whitebeard, Kaido, Chappy",
+                        "matches": [
+                            [
+                                88,
+                                125,
+                                "File:SBS61 4 Yonko.png|left|144px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "...I published it... but what am I supposed to do... My only choice is to ignore...",
+                        "matches": []
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS61 4 Yonko.png",
+                        "size": "144",
+                        "start": 88,
+                        "end": 125
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "shanks",
+                        "whitebeard",
+                        "kaido",
+                        "chappy"
+                    ],
+                    "places": [
+                        "mammoth_shrine"
+                    ],
+                    "emotions": [
+                        "frustrated"
+                    ],
+                    "topics": [
+                        "yonko_group",
+                        "publication",
+                        "decision"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "The reader urges Oda to publish the Yonko group illustration, which Oda reluctantly agrees to, despite feeling overwhelmed."
+            },
+            {
+                "number": 12,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Dear Odacchi, ah, just because I wrote in english doesn't mean I'm a foreigner, just in case. By the way, when I was watching TV, they were talking about this place called the \"BERMUDA TRIANGLE\". Could it be that the \"Florian Triangle\" was taken from here? from Below Street\n\n[[File:SBS61 4 Florian Triangle.png|106px|right]]",
+                        "matches": [
+                            [
+                                276,
+                                325,
+                                "File:SBS61 4 Florian Triangle.png|106px|right"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Well, obviously, yes. Is this too vague? The Bermuda Triangle is a place that actually exists in the North Atlantic known as the \"Zone of Demonic Triangle\". I'm not sure about now, but in the past, it was said that every year about 100 or more vessels suddenly disappeared in the scary area. Since the mystery is still unsolved, I'm guess there probably still are many accidents. As for the reasons, there's stuff like electrical problems or methane gas myths and so on forever, so interested people can look it up. There are lots of ghost ship witness stories too.",
+                        "matches": []
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS61 4 Florian Triangle.png",
+                        "size": "106",
+                        "start": 276,
+                        "end": 325
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [
+                        "bermuda_triangle",
+                        "florian_triangle",
+                        "north_atlantic"
+                    ],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "mystery",
+                        "bermuda_triangle",
+                        "florian_triangle"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda confirms that the Florian Triangle in One Piece was inspired by the real-life Bermuda Triangle, known for mysterious disappearances of vessels."
+            },
+            {
+                "number": 13,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "It automatically came to me when I watched the movie \"STRONG WORLD\". Why there was one place in the dangerous island of [[Rusukaina]] that was completely safe. The tree in the background is the critical point, correct? Still, the tree in the movie called Daft Green is probably not the exact same [[File:SBS61 4 Daft Green.png|right|68px]]species, so YOU ARE ALLOWED TO explain to the core here, you know? P.N. TAKAAKI . T",
+                        "matches": [
+                            [
+                                120,
+                                133,
+                                "Rusukaina"
+                            ],
+                            [
+                                297,
+                                339,
+                                "File:SBS61 4 Daft Green.png|right|68px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "As you have noticed. I figured it wasn't worth explaining because I didn't have enough pages anyway and skipped it all, but when I made the movie storyline, I presented the tree called Daft Green. This is a tree that emits an odor that animals dislike (poison), which explains why they never approach this tree, and so I used it here too. Still, the species is not exactly the same and the setting is \"same shape; no poison emitted\".",
+                        "matches": []
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS61 4 Daft Green.png",
+                        "size": "68",
+                        "start": 297,
+                        "end": 339
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Rusukaina",
+                        "link_title": "/wiki/Rusukaina",
+                        "is_wikipedia": false,
+                        "start": 120,
+                        "end": 133
+                    }
+                ],
+                "tags": {
+                    "characters": [],
+                    "places": [
+                        "Rusukaina"
+                    ],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "STRONG_WORLD_movie",
+                        "Daft_Green",
+                        "tree_emitting_odor"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "The safe spot on Rusukaina is near the Daft Green tree, emitting an odor that animals dislike, explaining its safety, despite not being the same species as in the movie."
+            }
+        ],
+        "page": "124",
+        "chapter_number": "599",
+        "page_header": "SBS61 Header 4.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 14,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello Odacchi, I figured out the tank top you were talking about in Volume 60 about Chapter 589\u266a It's[[File:SBS61 5 Bound Tanktop.png|right|80px]] \"Bound\". It's \"Dog\" and \"ND\" for Bound. I also love the Odacchi that forgets things he wrote himself. P.N. Burdock (* Dogs say \"Bau!\" instead of \"Bark\" in Japan, and Bau sounds like Bou.)",
+                        "matches": [
+                            [
+                                101,
+                                146,
+                                "File:SBS61 5 Bound Tanktop.png|right|80px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "OHHHHH~~!!!! I see~. That's it!! It's gotta be that! Whew--- how could you tell? Man-, I thought really hard too, but I couldn't figure it out. Thanks!!",
+                        "matches": []
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS61 5 Bound Tanktop.png",
+                        "size": "80",
+                        "start": 101,
+                        "end": 146
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "happy"
+                    ],
+                    "topics": [
+                        "tank_top",
+                        "fan_interaction"
+                    ],
+                    "importance": "hight",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda is amazed that a reader figured out the tank top design he mentioned, and acknowledges the clever deciphering of the 'Bound' tank top."
+            },
+            {
+                "number": 15,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "ODACCHI, TELL US YOUR FEELINGS (WILL) AS OF NOW IN 3 LETTERS!! Pen name, Monkey D. Emi",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "IDK (*Note he is answering at the same time by using 3 letters.)",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "monkey_d_emi"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "D asks Oda for his feelings in 3 letters, Oda responds with 'IDK' in the same manner."
+            },
+            {
+                "number": 16,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "My chest is hurting, and my stomach feels like it's about to puke, but is this the rumored \"Haki\"?\u3000[[File:Haki Infobox.png|right|122px]]P.N.vlue",
+                        "matches": [
+                            [
+                                99,
+                                136,
+                                "File:Haki Infobox.png|right|122px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I see that is \"Hakike\". (Hakike means Nausea)",
+                        "matches": []
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "Haki Infobox.png",
+                        "size": "122",
+                        "start": 99,
+                        "end": 136
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "nausea"
+                    ],
+                    "topics": [
+                        "haki",
+                        "rumor"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader asks if their symptoms are 'Haki,' but Oda clarifies it's actually 'Hakike,' meaning nausea."
+            },
+            {
+                "number": 17,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "There's something that ReAaaaaLy bothered me so I took a pen for the first time! And so, the [[File:SBS61 5 Sanji Post-Timeskip.png|right|100px]]question is Sanji's *BAM*! 2 years later.... IT'S JUST PLAIN OUT THERE!!! And why hide the *GGGGG*?? Please chouse out of my speculations below!\n\n\u2460 Illustration mistake \u2461 Image change \u2462 He's actually a twin named Yonji. P.N.Aoya\n\n(*San in Sanji is 3 so this person changed it to Yon, 4.)",
+                        "matches": [
+                            [
+                                93,
+                                145,
+                                "File:SBS61 5 Sanji Post-Timeskip.png|right|100px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I apologize. I couldn't really hear because of the construction nearby, but Sanji hasn't changed at all, has he? From 2 years ago.. ah! Oh, the goatee, right? Looks like he let his goatee grow. It looks pretty wild and pirate-like and I like it a lot. What else.. he has always hidden an eye and... curled his brows.. didn't say anything new to Luffy and the co. when they were reunited... Nothing has changed! If I have to chose, I guess \u2460 if you found anything.\n\nAnd now from page 182, the seiyu SBS! I will return in the next volume!",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Okay, now. Please make your appearance. This is Mr. Yao~.\n\nY: Hello this is a full-body snake man. I am a snake man from head to toe. Each evening, at the harbor building, I take a bottle of Tequila and (*BEEEEEEEEPPPPP~~!!!!!*) and drink it.",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Hey, hey, hey, HEYYYYYYY~~!!!!! (vein pops) That's not allowed to be said in public!! How am I supposed to publish what you said!! Geez!!! This dude is scaring me~! (sweat)\n\nY: Even if I look like this, I'm actually pretty sensible.",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "SENSIBLE MY FOOT!! (Shock) Now, let's quickly move on. Well if you're sensible, do you know this? What does \"SBS\" stand for, Mr. Yao?\n\nY: I know (\u2190in dialect) (S) Shounenyo (B) Bee-chiku wo (S) Sueh! (Boy, suck the nipples!)",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "FUCK YOU!! (Shock) GO HOME!! Ah... aah excuse me, I lost myself there.\n\nY: Calm yourself, Eiichiro.",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "SHADDAP!! WHOSE FAULT IS THIS!! ...ah, excuse me... now then, there are lots of postcards waiting, so please do the SBS.\n\nY: Alrighty! Leave it to me!! Bring the booze---!",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "YOU'RE GONNA DRINK WHILE DOING IT~~!?",
+                        "matches": []
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS61 5 Sanji Post-Timeskip.png",
+                        "size": "100",
+                        "start": 93,
+                        "end": 145
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "sanji",
+                        "luffy"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny",
+                        "irritated"
+                    ],
+                    "topics": [
+                        "speculation",
+                        "appearance change",
+                        "SBS"
+                    ],
+                    "importance": [
+                        "high"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "A reader complains about Sanji's appearance, Oda responds, but gets interrupted by a fictional character, leading to a comedic exchange."
+            },
+            {
+                "number": 30,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "This is a question to the voice actor, Mr. Kazuki Yao. IS THIS WEEK'S MR. YAO SUPER? by Shining butter\n\nY: YES!! I'M SUPER SUPER SUPER THIS WEEK TOO.",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "HEY, HOLD IT, STOP-!! (Shock) Hold it Mr. Yao! What the hell were you trying to say!! \"A story that's too grotesque\"! This is a book for young boys you know?!\n\nY: Yeah, It's fine.",
+                        "matches": []
+                    },
+                    {
+                        "type": "question",
+                        "text": "Mr. Yao, after you glug down a bottle of cola, what sound comes out of your throat? (P.N. Beads Maniac)\n\nY: RIGHT AT THE SPOT, A SCREAM OF MAH SOUL.\n[[File:SBS61 7 Japan Map.png|right|75px]]",
+                        "matches": [
+                            [
+                                149,
+                                190,
+                                "File:SBS61 7 Japan Map.png|right|75px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "question",
+                        "text": "After pushing Northwards throughout the Japanese Islands, does Hurricane Franky change to *a ''metamorphic low pressure''? P.N. Patchon III\n\n(A metamorphic low pressure is called a ''hentai-teikiatsu'', which is a pun with \"''low pressure pervert''\".)\n\nY: No, it stays at 1000 hectopascals, takes a lap around the earth, and then EVOLUTES INTO A SUPER-PERVERT.\n[[File:SBS61 7 Yao's Characters.png|right|75px]]",
+                        "matches": [
+                            [
+                                361,
+                                409,
+                                "File:SBS61 7 Yao's Characters.png|right|75px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "kazuki_yao",
+                        "franky"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "shock",
+                        "funny"
+                    ],
+                    "topics": [
+                        "fan_theory",
+                        "joke"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "Voice actor Kazuki Yao jokes around and answers humorous questions about his characters and actions in a playful manner."
+            }
+        ],
+        "page": "144",
+        "chapter_number": "600",
+        "page_header": "SBS61 Header 5.png"
+    }
+]

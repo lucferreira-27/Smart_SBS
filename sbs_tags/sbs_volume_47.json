@@ -1,0 +1,1535 @@
+[
+    {
+        "qa": [
+            {
+                "number": 1,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "When reading the SBS, please make sure the room is well-lit and that you are not too close to the page. When finished reading, please close your eyes and move them up, down, left and right to give them some exercise. (You too, Oda-sensei) by Tada-san",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Aaack!! It's the usual \"takeover squad\"! Wait... huh? No... Oh! Now that I read closer... Such kind words. I'm sorry, I thought I was being screwed over once again! Thank you for thinking of everyone's health and well-being, Tada-san! There's plenty this volume to make up for last time, so here we go!! ST-START!! THE S-B-S...!! ( \u2190 stuttered)\n\n\n[[File:SBS_Vol_47_14.png|right|120px]]",
+                        "matches": [
+                            [
+                                347,
+                                385,
+                                "File:SBS_Vol_47_14.png|right|120px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS_Vol_47_14.png",
+                        "size": "120",
+                        "start": 347,
+                        "end": 385
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "surprised",
+                        "grateful",
+                        "humorous"
+                    ],
+                    "topics": [
+                        "SBS",
+                        "health",
+                        "well-being"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Tada-san advises readers to take care of their eyes while reading SBS, to which Oda appreciates the concern and jokes about a 'takeover squad'."
+            },
+            {
+                "number": 2,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "What should one do if [[Enel]] shot down lightning bolts? by Pacchon",
+                        "matches": [
+                            [
+                                22,
+                                30,
+                                "Enel"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "First, guard yourself by ducking at light speed, then give him that golden right with a bit of rotation!! If you can't hit him, cover your bellybutton, cry and surrender! He's tough, folks!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Enel",
+                        "link_title": "/wiki/Enel",
+                        "is_wikipedia": false,
+                        "start": 22,
+                        "end": 30
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "enel"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "combat_techniques"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Duck at light speed and deliver a golden right with rotation, if unable to hit, cover your bellybutton, cry, and surrender - Enel is tough!"
+            },
+            {
+                "number": 3,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Question for Oda-sensei! Tell us the ages of the members of CP9. Please, Shigan! (I'm sorry! Don't dodge, Sensei!) P.N. No. 1",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yow! ... whew, that was close. Good thing I dodged, wahaha!! You can't touch this!!\n*[[Rob Lucci|Lucci]]: 28\n*[[Kaku]]: 23\n*[[Jabra]]: 35\n*[[Blueno]]: 30[[File:SBS_Vol_47_19.png|right|180px]]\n*[[Kumadori]]: 34\n*[[Fukurou]]: 29\n*[[Kalifa]]: 25\n*[[Spandam]]: 39",
+                        "matches": [
+                            [
+                                85,
+                                104,
+                                "Rob Lucci|Lucci"
+                            ],
+                            [
+                                110,
+                                118,
+                                "Kaku"
+                            ],
+                            [
+                                124,
+                                133,
+                                "Jabra"
+                            ],
+                            [
+                                139,
+                                149,
+                                "Blueno"
+                            ],
+                            [
+                                153,
+                                191,
+                                "File:SBS_Vol_47_19.png|right|180px"
+                            ],
+                            [
+                                193,
+                                205,
+                                "Kumadori"
+                            ],
+                            [
+                                211,
+                                222,
+                                "Fukurou"
+                            ],
+                            [
+                                228,
+                                238,
+                                "Kalifa"
+                            ],
+                            [
+                                244,
+                                255,
+                                "Spandam"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS_Vol_47_19.png",
+                        "size": "180",
+                        "start": 153,
+                        "end": 191
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Lucci",
+                        "link_title": "/wiki/Rob Lucci",
+                        "is_wikipedia": false,
+                        "start": 85,
+                        "end": 104
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Kaku",
+                        "link_title": "/wiki/Kaku",
+                        "is_wikipedia": false,
+                        "start": 110,
+                        "end": 118
+                    },
+                    {
+                        "text": "Jabra",
+                        "link_title": "/wiki/Jabra",
+                        "is_wikipedia": false,
+                        "start": 124,
+                        "end": 133
+                    },
+                    {
+                        "text": "Blueno",
+                        "link_title": "/wiki/Blueno",
+                        "is_wikipedia": false,
+                        "start": 139,
+                        "end": 149
+                    },
+                    {
+                        "text": "Kumadori",
+                        "link_title": "/wiki/Kumadori",
+                        "is_wikipedia": false,
+                        "start": 193,
+                        "end": 205
+                    },
+                    {
+                        "text": "Fukurou",
+                        "link_title": "/wiki/Fukurou",
+                        "is_wikipedia": false,
+                        "start": 211,
+                        "end": 222
+                    },
+                    {
+                        "text": "Kalifa",
+                        "link_title": "/wiki/Kalifa",
+                        "is_wikipedia": false,
+                        "start": 228,
+                        "end": 238
+                    },
+                    {
+                        "text": "Spandam",
+                        "link_title": "/wiki/Spandam",
+                        "is_wikipedia": false,
+                        "start": 244,
+                        "end": 255
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "rob_lucci",
+                        "kaku",
+                        "jabra",
+                        "blueno",
+                        "kumadori",
+                        "fukurou",
+                        "kalifa",
+                        "spandam"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "cp9_members",
+                        "ages"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "CP9 members' ages: Lucci 28, Kaku 23, Jabra 35, Blueno 30, Kumadori 34, Fukurou 29, Kalifa 25, Spandam 39."
+            },
+            {
+                "number": 4,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I have a question, Oda-sensei. What would happen if you picked your nose with Shigan? Please test out this query. by Prince",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Okay. AAAAAAGGGGHHH!!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "Oda"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "pain",
+                        "funny"
+                    ],
+                    "topics": [
+                        "nose_picking",
+                        "Shigan",
+                        "humor"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda screams in agony after trying out the reader's suggestion of picking his nose with Shigan."
+            }
+        ],
+        "page": 26,
+        "chapter_number": 450,
+        "page_header": "SBS Vol 47 header.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 5,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I always love reading One Piece, Oda-sensei. By the way, about those 200 Marine HQ captains and commanders that fought the Straw Hats in Volume 44. One of them had a Devil Fruit ability that made him become like a bunch of balls, remember? What's the name of that fruit, and what is the ability, exactly? It showed up in the anime, but I didn't hear what it was. Also, I would like you to explain the \"Sabi Sabi no Mi\" that showed up in the same scene. P.N. Mugi-mugi",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Okay. Well, these abilities were all described in the fanbook called \"[[One Piece Yellow: Grand Elements|One Piece Yellow]]\", but for those of you who don't have it, I'll explain! There were three Devil Fruit users revealed in that battle scene.\n\n{| class=\"wikitable\" width=100%\n|[[File:SBS Vol 47 01.png|left|68px]] Captain [[Very Good]] ([[Beri Beri no Mi]]): Grapeman. The parts of his body turn round and puffy like grapes, which he can rearrange as he likes.\n|[[File:SBS Vol 47 02.png|left|68px]] Captain [[Shu]] ([[Sabi Sabi no Mi]]): Rustman. He can rust any metals he touches. This is the man who ruined Zoro's sword, Yubashiri.\n|[[File:SBS Vol 47 03.png|left|68px]] Captain [[Sharinguru]] ([[Shari Shari no Mi]]): Wheelman. Parts of his body turn into wheels and spin wildly. High attack strength.\n|}\n\n''(Note: Beri stands for \"berry\", sabi means \"to rust\", and sharin means \"wheel\".)''\n\n[[File:SBS Vol 47 04.png|right|150px]]",
+                        "matches": [
+                            [
+                                70,
+                                123,
+                                "One Piece Yellow: Grand Elements|One Piece Yellow"
+                            ],
+                            [
+                                280,
+                                316,
+                                "File:SBS Vol 47 01.png|left|68px"
+                            ],
+                            [
+                                325,
+                                338,
+                                "Very Good"
+                            ],
+                            [
+                                340,
+                                359,
+                                "Beri Beri no Mi"
+                            ],
+                            [
+                                465,
+                                501,
+                                "File:SBS Vol 47 02.png|left|68px"
+                            ],
+                            [
+                                510,
+                                517,
+                                "Shu"
+                            ],
+                            [
+                                519,
+                                538,
+                                "Sabi Sabi no Mi"
+                            ],
+                            [
+                                638,
+                                674,
+                                "File:SBS Vol 47 03.png|left|68px"
+                            ],
+                            [
+                                683,
+                                697,
+                                "Sharinguru"
+                            ],
+                            [
+                                699,
+                                720,
+                                "Shari Shari no Mi"
+                            ],
+                            [
+                                897,
+                                935,
+                                "File:SBS Vol 47 04.png|right|150px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS Vol 47 01.png",
+                        "size": "68",
+                        "start": 280,
+                        "end": 316
+                    },
+                    {
+                        "file": "SBS Vol 47 02.png",
+                        "size": "68",
+                        "start": 465,
+                        "end": 501
+                    },
+                    {
+                        "file": "SBS Vol 47 03.png",
+                        "size": "68",
+                        "start": 638,
+                        "end": 674
+                    },
+                    {
+                        "file": "SBS Vol 47 04.png",
+                        "size": "150",
+                        "start": 897,
+                        "end": 935
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "One Piece Yellow",
+                        "link_title": "/wiki/One Piece Yellow: Grand Elements",
+                        "is_wikipedia": false,
+                        "start": 70,
+                        "end": 123
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Very Good",
+                        "link_title": "/wiki/Very Good",
+                        "is_wikipedia": false,
+                        "start": 325,
+                        "end": 338
+                    },
+                    {
+                        "text": "Beri Beri no Mi",
+                        "link_title": "/wiki/Beri Beri no Mi",
+                        "is_wikipedia": false,
+                        "start": 340,
+                        "end": 359
+                    },
+                    {
+                        "text": "Shu",
+                        "link_title": "/wiki/Shu",
+                        "is_wikipedia": false,
+                        "start": 510,
+                        "end": 517
+                    },
+                    {
+                        "text": "Sabi Sabi no Mi",
+                        "link_title": "/wiki/Sabi Sabi no Mi",
+                        "is_wikipedia": false,
+                        "start": 519,
+                        "end": 538
+                    },
+                    {
+                        "text": "Sharinguru",
+                        "link_title": "/wiki/Sharinguru",
+                        "is_wikipedia": false,
+                        "start": 683,
+                        "end": 697
+                    },
+                    {
+                        "text": "Shari Shari no Mi",
+                        "link_title": "/wiki/Shari Shari no Mi",
+                        "is_wikipedia": false,
+                        "start": 699,
+                        "end": 720
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "very_good",
+                        "shu",
+                        "sharinguru",
+                        "zoro"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "informative"
+                    ],
+                    "topics": [
+                        "devil_fruit",
+                        "marine_hq",
+                        "sabi_sabi_no_mi"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Three Devil Fruit users were revealed in the battle: Captain Very Good with Beri Beri no Mi, Captain Shu with Sabi Sabi no Mi, and Captain Sharinguru with Shari Shari no Mi."
+            },
+            {
+                "number": 6,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "What are those THINGS on [[Kokoro|Kokoro-san]]'s chest, shells? Or an evolved form of scale? A NuBra? Pen Name: I Love Grandma",
+                        "matches": [
+                            [
+                                25,
+                                46,
+                                "Kokoro|Kokoro-san"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Hmmm... ummmm... Oh!! I'm sorry, I was groaning without realizing it. This is quite a question. I suppose I can't just answer \"I don't want to think about it\"? All right, here's your answer. It's KIND of like a \"NuBra\". And you'd better believe that suction is bearing the fate of world peace! Hang in there, shell \"NuBra\"!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Kokoro-san",
+                        "link_title": "/wiki/Kokoro",
+                        "is_wikipedia": false,
+                        "start": 25,
+                        "end": 46
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "kokoro"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "silly"
+                    ],
+                    "topics": [
+                        "clothing",
+                        "funny"
+                    ],
+                    "importance": "hight",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda humorously responds that the chest ornaments on Kokoro are a type of 'NuBra' and may bear the fate of world peace with their suction."
+            }
+        ],
+        "page": "46",
+        "chapter_number": "451",
+        "page_header": null
+    },
+    {
+        "qa": [
+            {
+                "number": 7,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "To Oda-sensei. By the way, yeah. My question is, why does [[Tony Tony Chopper|Chopper]] say, \"I'm not interested in naked women\", in [[Chapter 446]] (Volume 46)?! Your approximate age is 15, Chopper! Please ask him that for me, please. (18, Female)",
+                        "matches": [
+                            [
+                                58,
+                                87,
+                                "Tony Tony Chopper|Chopper"
+                            ],
+                            [
+                                133,
+                                148,
+                                "Chapter 446"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I see. Well, you might want to read it closer. He says, \"I'm not interested in naked HUMAN women\". He can speak human words, but he's still a reindeer! Which means, he can fall in love with a human because of his mind, but he won't be aroused by her looks. He just might be smitten with a really beautiful reindeer, though.[[File:SBS Vol 47 06.png|right|100px]]",
+                        "matches": [
+                            [
+                                323,
+                                361,
+                                "File:SBS Vol 47 06.png|right|100px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS Vol 47 06.png",
+                        "size": "100",
+                        "start": 323,
+                        "end": 361
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Chopper",
+                        "link_title": "/wiki/Tony Tony Chopper",
+                        "is_wikipedia": false,
+                        "start": 58,
+                        "end": 87
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Chapter 446",
+                        "link_title": "/wiki/Chapter 446",
+                        "is_wikipedia": false,
+                        "start": 133,
+                        "end": 148
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "tony_tony_chopper"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "chopper's_preference",
+                        "anthropomorphization"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Chopper says, 'I'm not interested in naked HUMAN women' because although he can speak human words, he's still a reindeer and won't be aroused by human looks."
+            },
+            {
+                "number": 8,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello, Oda-sensei!! I am TOTALLY in love with the new manly looks of Koby and Helmeppo in Volume 45!!!! They are so hot! Tell me their birthdays! How about May 13 for [[Koby]] (Ko = Go = 5, B looks like 13) and July 16 for [[Helmeppo]] (Nana-hikari musuko, aka \"idiot son\", Nana = 7 and hi+mu being 16)? by Kukri",
+                        "matches": [
+                            [
+                                167,
+                                175,
+                                "Koby"
+                            ],
+                            [
+                                223,
+                                235,
+                                "Helmeppo"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Well... You answered your own question. Works for me.{{-}}",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Koby",
+                        "link_title": "/wiki/Koby",
+                        "is_wikipedia": false,
+                        "start": 167,
+                        "end": 175
+                    },
+                    {
+                        "text": "Helmeppo",
+                        "link_title": "/wiki/Helmeppo",
+                        "is_wikipedia": false,
+                        "start": 223,
+                        "end": 235
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "koby",
+                        "helmeppo"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "birthdays"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda agrees with the reader's suggested birthdays for Koby and Helmeppo based on the explanations given."
+            },
+            {
+                "number": 9,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello, Oda-sensei! \u2661 (murmur murmur (outdoor sounds)) By the way, how do you respond to the charges that the Oda Clinic performed a full plastic surgery on Koby?! (hands two mics over) We'd like to get a comment from Koby, as well. P.N. Mayuko Wakayama of the OP-Loving Saitama Citizens Group",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "He's hit his growth spurt! Haven't you ever seen a boy who comes back from summer vacation looking like a different person?! Boys grow in an instant, you know! He just tightened his muscles up a bit with some good discipline. Right, Koby?\n\nKoby: RIGHT!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "koby"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "light-hearted"
+                    ],
+                    "topics": [
+                        "plastic_surgery_rumors",
+                        "koby_growing_up"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": true
+                },
+                "summary": "Oda explains that Koby's sudden change is just a growth spurt and disciplined muscle training, not plastic surgery."
+            }
+        ],
+        "page": "66",
+        "chapter_number": "452",
+        "page_header": "SBS Vol 47 05.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 10,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Okay, so in [[Chapter 412]], Volume 43, [[Nami]] rips [[Kalifa]]'s clothes in search of the key! And like, right in front of [[Franky]]! That's sexual harassment!! Who's going to want to marry her now?! Oda-sensei!! CAN I HAVE KALIFA?! (P.N. I Would Die With Happiness If I Had a Secretary Like That)",
+                        "matches": [
+                            [
+                                12,
+                                27,
+                                "Chapter 412"
+                            ],
+                            [
+                                40,
+                                48,
+                                "Nami"
+                            ],
+                            [
+                                54,
+                                64,
+                                "Kalifa"
+                            ],
+                            [
+                                125,
+                                135,
+                                "Franky"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Ready, set... WHO SAYS YOU GET HER?!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Chapter 412",
+                        "link_title": "/wiki/Chapter 412",
+                        "is_wikipedia": false,
+                        "start": 12,
+                        "end": 27
+                    },
+                    {
+                        "text": "Nami",
+                        "link_title": "/wiki/Nami",
+                        "is_wikipedia": false,
+                        "start": 40,
+                        "end": 48
+                    },
+                    {
+                        "text": "Kalifa",
+                        "link_title": "/wiki/Kalifa",
+                        "is_wikipedia": false,
+                        "start": 54,
+                        "end": 64
+                    },
+                    {
+                        "text": "Franky",
+                        "link_title": "/wiki/Franky",
+                        "is_wikipedia": false,
+                        "start": 125,
+                        "end": 135
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "nami",
+                        "kalifa",
+                        "franky"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "sexual_harassment",
+                        "marriage",
+                        "character_request",
+                        "funny"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "Reader complains about Nami's actions towards Kalifa, Oda responds by denying the reader's request for Kalifa and teasingly asks who said they could have her."
+            },
+            {
+                "number": 11,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Is it true that you're half-made of naughty? P.N. Travel-loving Sights",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yep, that's right. I guess the other half would be stupidness. It's funny, there's really no worth to me being alive, but I'm pretty sure that if aliens invaded Earth and wiped out humanity, I would still be alive and well.\n\n\n[[File:SBS_Vol_47_16.png|right|100px]]",
+                        "matches": [
+                            [
+                                226,
+                                264,
+                                "File:SBS_Vol_47_16.png|right|100px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS_Vol_47_16.png",
+                        "size": "100",
+                        "start": 226,
+                        "end": 264
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda humorously confirms being half naughty and half stupid, joking about surviving an alien invasion despite feeling worthless."
+            },
+            {
+                "number": 12,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei!! My brother says that the order of the manga in Jump is decided by popularity. Is that true? (by Yasumo)",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "That's a fitting suspicion for a Jump reader. Since I get these fairly often, allow me to answer. To be precise, not quite. The order is decided every week by the Jump sub-chief editor. But it's true that the most popular series are placed in the front of the magazine. Also, sometimes he decides, we're pushing THIS one this week! I guess you could say it's the \"order you could enjoy the magazine in\". But of course, the only TRULY correct answer is to read it in the order YOU want.\n[[File:SBS Vol 47 07.png|right|150px]]",
+                        "matches": [
+                            [
+                                486,
+                                524,
+                                "File:SBS Vol 47 07.png|right|150px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS Vol 47 07.png",
+                        "size": "150",
+                        "start": 486,
+                        "end": 524
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "informative"
+                    ],
+                    "topics": [
+                        "manga_publishing",
+                        "Jump_magazine",
+                        "reading_order"
+                    ],
+                    "importance": "high",
+                    "isCharacterInsertion": false
+                },
+                "summary": "The order of manga in Jump is not solely based on popularity, but the most popular series are usually placed at the front by the sub-chief editor."
+            },
+            {
+                "number": 13,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Is [[Kalifa]]'s [[Awa Awa no Mi]] really Paramecia, and not Logia type? P.N. Fruit Punch Samurai",
+                        "matches": [
+                            [
+                                3,
+                                13,
+                                "Kalifa"
+                            ],
+                            [
+                                16,
+                                33,
+                                "Awa Awa no Mi"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Kalifa creates bubbles with her body and still retains her normal body, so she's Paramecia. Rub her, and the bubbles come. Handy, isn't it?",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Kalifa",
+                        "link_title": "/wiki/Kalifa",
+                        "is_wikipedia": false,
+                        "start": 3,
+                        "end": 13
+                    },
+                    {
+                        "text": "Awa Awa no Mi",
+                        "link_title": "/wiki/Awa Awa no Mi",
+                        "is_wikipedia": false,
+                        "start": 16,
+                        "end": 33
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "kalifa"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "devil_fruit"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Kalifa's Awa Awa no Mi is classified as Paramecia because she can still retain her normal body while producing bubbles."
+            }
+        ],
+        "page": "106",
+        "chapter_number": "454",
+        "page_header": "SBS_Vol_47_15.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 14,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "My question is about the rich-looking young lady with the binoculars in Chapters [[Chapter 436|436]]-[[Chapter 437|437]] from Volume 45! What exactly is she looking at?! I know [[Franky]]'s a pervert, but I think SHE must be, too. I would like to know what she looks like, and what her name is. Good luck with your work! \u2606\u2606 P.N. Gengerous Zone",
+                        "matches": [
+                            [
+                                81,
+                                100,
+                                "Chapter 436|436"
+                            ],
+                            [
+                                101,
+                                120,
+                                "Chapter 437|437"
+                            ],
+                            [
+                                177,
+                                187,
+                                "Franky"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I see... You found her. Then allow me to introduce the lady [[Marumieta]] (\"I can see all\"). Her manservant beside her is [[Yamenahare]] (\"Now you stop that\"). She is the only daughter of [[Bimine]], the mayor of the \"Gourmet Town\", [[Pucci]], which is connected to Water Seven via the Sea Express. This young woman is most ignorant of the ways of the world, and therefore quite the curious one! Having heard of the damage from the Aqua Laguna, she came here to deliver emergency supplies, and found herself witnessing the most extraordinary event!!",
+                        "matches": [
+                            [
+                                60,
+                                73,
+                                "Marumieta"
+                            ],
+                            [
+                                122,
+                                136,
+                                "Yamenahare"
+                            ],
+                            [
+                                188,
+                                198,
+                                "Bimine"
+                            ],
+                            [
+                                233,
+                                242,
+                                "Pucci"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "436",
+                        "link_title": "/wiki/Chapter 436",
+                        "is_wikipedia": false,
+                        "start": 81,
+                        "end": 100
+                    },
+                    {
+                        "text": "437",
+                        "link_title": "/wiki/Chapter 437",
+                        "is_wikipedia": false,
+                        "start": 101,
+                        "end": 120
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Franky",
+                        "link_title": "/wiki/Franky",
+                        "is_wikipedia": false,
+                        "start": 177,
+                        "end": 187
+                    },
+                    {
+                        "text": "Marumieta",
+                        "link_title": "/wiki/Marumieta",
+                        "is_wikipedia": false,
+                        "start": 60,
+                        "end": 73
+                    },
+                    {
+                        "text": "Yamenahare",
+                        "link_title": "/wiki/Yamenahare",
+                        "is_wikipedia": false,
+                        "start": 122,
+                        "end": 136
+                    },
+                    {
+                        "text": "Bimine",
+                        "link_title": "/wiki/Bimine",
+                        "is_wikipedia": false,
+                        "start": 188,
+                        "end": 198
+                    },
+                    {
+                        "text": "Pucci",
+                        "link_title": "/wiki/Pucci",
+                        "is_wikipedia": false,
+                        "start": 233,
+                        "end": 242
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "marumieta",
+                        "yamenahare",
+                        "bimine",
+                        "franky"
+                    ],
+                    "places": [
+                        "pucci",
+                        "water_seven"
+                    ],
+                    "emotions": [
+                        "curious"
+                    ],
+                    "topics": [
+                        "gourmet_town",
+                        "aqua_laguna",
+                        "emergency_supplies"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "A reader asks about a mysterious woman in Chapters 436-437, and Oda introduces Marumieta, the mayor's daughter, who comes to deliver emergency supplies to witness an extraordinary event."
+            },
+            {
+                "number": 15,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I've always wondered... Is Robin supposed to be based on ME? P.N. Nico Aya-chan",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "...Uh, yeah.\n\n\n[[File:SBS Vol 47 09.png|right|150px]]",
+                        "matches": [
+                            [
+                                15,
+                                53,
+                                "File:SBS Vol 47 09.png|right|150px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS Vol 47 09.png",
+                        "size": "150",
+                        "start": 15,
+                        "end": 53
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "robin"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "character_based_on_reader"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Robin is based on you, as you share the same name."
+            },
+            {
+                "number": 16,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Wait a second!! Oda-sensei!! You know that scene in Volume 45, where [[Nico Robin|Robin]] squeezes Franky in a very important place? CAN SHE FEEL WHAT SHE'S SQUEEZING? You simply MUST tell me!!",
+                        "matches": [
+                            [
+                                69,
+                                89,
+                                "Nico Robin|Robin"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes, she can. All the arms and legs she sprouts are part of her body. She feels the things she touches, and when she's hurt, that damage is done to her own body. So you see... She really DID grab his balls!! Girls, NEVER DO THIS. They're very tender!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Robin",
+                        "link_title": "/wiki/Nico Robin",
+                        "is_wikipedia": false,
+                        "start": 69,
+                        "end": 89
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "nico_robin",
+                        "franky"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "devil_fruit",
+                        "silly"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda confirms that Nico Robin can feel what she touches with her arms and legs, including when she squeezed Franky; advises against doing so, as it is painful."
+            }
+        ],
+        "page": "126",
+        "chapter_number": "455",
+        "page_header": "SBS Vol 47 08.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 17,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "What would Franky's [[jolly roger]] be? by Sen-chan\n[[File:SBS Vol 47 10.png|left|150px]]",
+                        "matches": [
+                            [
+                                20,
+                                35,
+                                "jolly roger"
+                            ],
+                            [
+                                52,
+                                89,
+                                "File:SBS Vol 47 10.png|left|150px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Well, let's see. Since every crew member seems to need their own jolly roger, how about this? (\u2190)\n\n\n[[File:SBS Vol 47 11.png|right|120px]]",
+                        "matches": [
+                            [
+                                100,
+                                138,
+                                "File:SBS Vol 47 11.png|right|120px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS Vol 47 10.png",
+                        "size": "150",
+                        "start": 52,
+                        "end": 89
+                    },
+                    {
+                        "file": "SBS Vol 47 11.png",
+                        "size": "120",
+                        "start": 100,
+                        "end": 138
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "jolly roger",
+                        "link_title": "/wiki/jolly roger",
+                        "is_wikipedia": false,
+                        "start": 20,
+                        "end": 35
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "franky"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "jolly_roger",
+                        "pirate_crew"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Franky's jolly roger would likely feature a skull wearing sunglasses and a bandana."
+            },
+            {
+                "number": 19,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Question for you!! Is the swordsman \"[[Ryuma]]\" who was once said to have defeated a dragon the very same Ryuma that starred in the short story \"[[Monsters]]\" from your collection volume entitled \"[[Wanted!]]\"? He is, isn't he? I'm so desperate to know, I can't brush my teeth. If I get a cavity, I'll tell the dentist it was your fault. P.N. Satoru-pyon\n\n[[File:SBS Vol 47 12.png|right|120px]]",
+                        "matches": [
+                            [
+                                37,
+                                46,
+                                "Ryuma"
+                            ],
+                            [
+                                145,
+                                157,
+                                "Monsters"
+                            ],
+                            [
+                                197,
+                                208,
+                                "Wanted!"
+                            ],
+                            [
+                                356,
+                                394,
+                                "File:SBS Vol 47 12.png|right|120px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Well, here are two questions about my old short story collection, \"Wanted!\" I'll tackle Ryuma's first. The zombie Ryuma appears in [[Chapter 450]] from this volume, and he is indeed the Ryuma who starred in \"Monsters\". In the world of One Piece, he's now a legendary swordsman who died of sickness. I wouldn't have minded if this had just slipped through the cracks, but I was happy to see that so many people noticed. Next, Garp. He appeared as Luffy's grandpa, and a pirate no less, in the one-shot that served as the basis for One Piece. He might look the same, but I want you to see these as different stories. Grandpa Garp from THIS One Piece is a true blue Marine, from birth till death!!",
+                        "matches": [
+                            [
+                                131,
+                                146,
+                                "Chapter 450"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS Vol 47 12.png",
+                        "size": "120",
+                        "start": 356,
+                        "end": 394
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Ryuma",
+                        "link_title": "/wiki/Ryuma",
+                        "is_wikipedia": false,
+                        "start": 37,
+                        "end": 46
+                    },
+                    {
+                        "text": "Monsters",
+                        "link_title": "/wiki/Monsters",
+                        "is_wikipedia": false,
+                        "start": 145,
+                        "end": 157
+                    },
+                    {
+                        "text": "Wanted!",
+                        "link_title": "/wiki/Wanted!",
+                        "is_wikipedia": false,
+                        "start": 197,
+                        "end": 208
+                    },
+                    {
+                        "text": "Chapter 450",
+                        "link_title": "/wiki/Chapter 450",
+                        "is_wikipedia": false,
+                        "start": 131,
+                        "end": 146
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "ryuma",
+                        "luffy",
+                        "garp"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "happy"
+                    ],
+                    "topics": [
+                        "short_story",
+                        "wanted_collection",
+                        "legendary_swordsman",
+                        "one_piece_basis",
+                        "grandpa_garp"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Ryuma from 'Monsters' in 'Wanted!' is the same legendary swordsman who appears in One Piece and died of sickness."
+            }
+        ],
+        "page": "166",
+        "chapter_number": "457",
+        "page_header": null
+    },
+    {
+        "qa": [
+            {
+                "number": 20,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei! I've always wondered, aren't the [[Marine]] salutes kind of backward? I thought you saluted with the SIDE of your hand against the forehead! Explain please! P.N. Like That",
+                        "matches": [
+                            [
+                                45,
+                                55,
+                                "Marine"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Oh, right. After all this time, I can't remember ever answering this one. Yes, it is a bit different than what you'd expect, but there's a reason. Sailors have pull all sorts of ropes on a sailboat to make sure it can sail, and the tar on the ropes makes their hands filthy and black. It would be rude to show those blackened hands to a superior officer, so they salute showing the back of the hand. It's the kind of courtesy you'd expect from the Marines.\n\n\n[[File:SBS_Vol_47_17.png|right|120px]]",
+                        "matches": [
+                            [
+                                459,
+                                497,
+                                "File:SBS_Vol_47_17.png|right|120px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS_Vol_47_17.png",
+                        "size": "120",
+                        "start": 459,
+                        "end": 497
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Marine",
+                        "link_title": "/wiki/Marine",
+                        "is_wikipedia": false,
+                        "start": 45,
+                        "end": 55
+                    }
+                ],
+                "tags": {
+                    "characters": [],
+                    "places": [
+                        "Marine"
+                    ],
+                    "emotions": [
+                        "informative"
+                    ],
+                    "topics": [
+                        "Marine_salute",
+                        "sailors_courtesy"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Marine salutes in One Piece show the back of the hand due to sailors' dirty hands from handling ropes, a sign of courtesy towards superior officers."
+            },
+            {
+                "number": 21,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello, Oda-sensei. I know you're busy watching [[Wikipedia:Waratte Iitomo!|Iitomo]], but I hope you'll answer my question. What does it mean when people mention directions like 9 o'clock or 12 o'clock in your manga? P.N. **-kun Behind You",
+                        "matches": [
+                            [
+                                47,
+                                83,
+                                "Wikipedia:Waratte Iitomo!|Iitomo"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Well, just imagine a clock with you in the middle. 12 o'clock is right in front of you, 6 o'clock is right behind you. You just think of the ship the same way. There's no east west north south, you just use the directions you see.\n\n''(Note: Waratte Iitomo! (It's Okay to Laugh!) is a Japanese variety show)''\n\n\n[[File:SBS_Vol_47_18.png|right|120px]]",
+                        "matches": [
+                            [
+                                311,
+                                349,
+                                "File:SBS_Vol_47_18.png|right|120px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS_Vol_47_18.png",
+                        "size": "120",
+                        "start": 311,
+                        "end": 349
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Iitomo",
+                        "link_title": "/wiki/Wikipedia:Waratte Iitomo!",
+                        "is_wikipedia": false,
+                        "start": 47,
+                        "end": 83
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "directions_explanation"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda explains that in his manga, directions are based on the viewer's perspective, using a clock analogy with the viewer in the center."
+            },
+            {
+                "number": 22,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello, Odacchi. OP started when I was in 1st grade, and has now reached its 10th anniversary. I've decided that I should step in and let you know how many panels you've drawn in 45 volumes! After a two-month investigation, I've found the result is <span style=\"font-size:150%\">40,971</span> panels!! Round of applause! *silence* ...W-well, keep reaching for 100,000. I'll check in again when you hit 500 chapters. Bye-bye baby, shap babaloobap badap bam boom bang crash thud! P.N. Mr. 9's First Apprentice, Tatsuya",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "You really counted them~. So, I've drawn 40,000 panels. Hmmm. It doesn't hit home. But I appreciate your effort! Thanks a lot!! See you next volume!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "grateful",
+                        "playful"
+                    ],
+                    "topics": [
+                        "milestone",
+                        "manga creation"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader calculates that Oda has drawn 40,971 panels in 45 volumes, to which Oda appreciates the effort and thanks the reader."
+            }
+        ],
+        "page": "186",
+        "chapter_number": "458",
+        "page_header": "SBS Vol 47 13.png"
+    }
+]

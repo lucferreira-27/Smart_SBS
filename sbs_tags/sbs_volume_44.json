@@ -1,0 +1,1058 @@
+[
+    {
+        "qa": [
+            {
+                "number": 1,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Good morning, Oda-sensei. It is my once-in-a-lifetime request for you to let him (\u2192) start the SBS. P.N. Omatsuri-kei",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "NO WAYYYYY!!! GEEZ!! What's the big idea, huh?! Who ARE you?! What kind of Cupid is that?! Not a love kind, I hope!! Go home!! I wanna start the SBS by myself!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "surprised",
+                        "playful"
+                    ],
+                    "topics": [
+                        "SBS",
+                        "request",
+                        "Cupid"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda is not keen on letting the reader start the SBS and reacts with surprise and disbelief."
+            },
+            {
+                "number": 2,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello, Oda-sensei!! Poor Oda-sensei, who always get beaten to the punch by all kinds of people who want to say the SBS before him! I'm sorry. I'M ONE OF THEM. (Donnn) So let's decide who gets to go with [[Wikipedia:Janken|Janken]]! Nice and fair! Are you ready?! First comes rock... Jan-ken-pon!! ...oh no, I lost! Oh well! START THE SBS!!! P.N. Hanayu",
+                        "matches": [
+                            [
+                                203,
+                                230,
+                                "Wikipedia:Janken|Janken"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "YOU SAID IT!!! WAIT A MINUTE!!!\nYou can't do that!! That doesn't make any sense!! God!! NOW I'm annoyed!!\nThere's going to be EXTRA SBS this time, just because of this!!\n[[File:SBS_Vol_44_02.png|right|100px]]",
+                        "matches": [
+                            [
+                                170,
+                                208,
+                                "File:SBS_Vol_44_02.png|right|100px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS_Vol_44_02.png",
+                        "size": "100",
+                        "start": 170,
+                        "end": 208
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Janken",
+                        "link_title": "/wiki/Wikipedia:Janken",
+                        "is_wikipedia": false,
+                        "start": 203,
+                        "end": 230
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "annoyed",
+                        "funny"
+                    ],
+                    "topics": [],
+                    "importance": "hight",
+                    "isCharacterInsertion": false
+                },
+                "summary": "D makes a playful introduction, challenging Oda to decide who gets to start the SBS using Janken; Oda comically responds and promises an extra SBS section."
+            },
+            {
+                "number": 3,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei, good morning!! I have a question!! CP9's clothes sure stretch a lot. How many Gomu Gomus can they stretch? P.N. Ashi",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "They sure do. Man, isn't that funny?!\nWhat do you think, like 50 Gomu Gomus or so?!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "cp9"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "clothes",
+                        "stretching",
+                        "gomu_gomu_fruit"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "CP9's clothes can stretch approximately 50 Gomu Gomus according to Oda."
+            }
+        ],
+        "page": 26,
+        "chapter_number": 420,
+        "page_header": "SBS Vol 44 header.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 4,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "YOU ARE AN [[OKAMA]], RIGHT? From Anonymous",
+                        "matches": [
+                            [
+                                11,
+                                20,
+                                "OKAMA"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "NO WAY, HONEY!!!\n\n[[File:SBS Vol 44 03.png|right|150px]]",
+                        "matches": [
+                            [
+                                18,
+                                56,
+                                "File:SBS Vol 44 03.png|right|150px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS Vol 44 03.png",
+                        "size": "150",
+                        "start": 18,
+                        "end": 56
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "OKAMA",
+                        "link_title": "/wiki/OKAMA",
+                        "is_wikipedia": false,
+                        "start": 11,
+                        "end": 20
+                    }
+                ],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "okama"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader asks if Oda is an Okama, but Oda denies it emphatically with the word 'NO WAY, HONEY!!!'"
+            },
+            {
+                "number": 5,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei, I have a question. In Volume 42, [[Chapter 405]] \"Power\", when [[Franky]] uses his \"seek-and-destroy cannon\" it says \"BF36\" on his shoulders. That stands for Battle Franky 36, right?! Well?! P.N. Soge Q",
+                        "matches": [
+                            [
+                                45,
+                                60,
+                                "Chapter 405"
+                            ],
+                            [
+                                75,
+                                85,
+                                "Franky"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes...!! That's right. As you will know from reading Franky's flashback, Franky created his own line of 35 battleships called Battle Franky. After his ships were used to hurt someone he loved, and he used that same sense of technological wizardry to fix his own body, he carved the symbol BF-36 into himself and put an end to his career of shipbuilding. After that, he became a dismantler.\n\n[[File:SBS Vol 44 04.png|right|120px]]",
+                        "matches": [
+                            [
+                                391,
+                                429,
+                                "File:SBS Vol 44 04.png|right|120px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS Vol 44 04.png",
+                        "size": "120",
+                        "start": 391,
+                        "end": 429
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Chapter 405",
+                        "link_title": "/wiki/Chapter 405",
+                        "is_wikipedia": false,
+                        "start": 45,
+                        "end": 60
+                    },
+                    {
+                        "text": "Franky",
+                        "link_title": "/wiki/Franky",
+                        "is_wikipedia": false,
+                        "start": 75,
+                        "end": 85
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "franky"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "informative"
+                    ],
+                    "topics": [
+                        "franky_backstory",
+                        "technology",
+                        "shipbuilding"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Franky created 35 battleships called Battle Franky, carved BF-36 into himself to mark the end of shipbuilding, and became a dismantler."
+            },
+            {
+                "number": 6,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I've been kind of wondering for a while, what was [[Kumadori]]'s mom like? from Yasuhiko\n\n[[File:Kumadori Yamanbako Manga Infobox.png|left|120px]]",
+                        "matches": [
+                            [
+                                50,
+                                62,
+                                "Kumadori"
+                            ],
+                            [
+                                90,
+                                146,
+                                "File:Kumadori Yamanbako Manga Infobox.png|left|120px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Actually, she's still alive. Profession, assassin. Name: [[Kumadori Yamanbako]]\n\n''(Note: \"Yamanba\" means mountain hag, and also refers to a particularly extreme subgenre of the \"ganguro\" girl subculture.)''",
+                        "matches": [
+                            [
+                                57,
+                                79,
+                                "Kumadori Yamanbako"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "Kumadori Yamanbako Manga Infobox.png",
+                        "size": "120",
+                        "start": 90,
+                        "end": 146
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Kumadori",
+                        "link_title": "/wiki/Kumadori",
+                        "is_wikipedia": false,
+                        "start": 50,
+                        "end": 62
+                    },
+                    {
+                        "text": "Kumadori Yamanbako",
+                        "link_title": "/wiki/Kumadori Yamanbako",
+                        "is_wikipedia": false,
+                        "start": 57,
+                        "end": 79
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "Kumadori"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "Kumadori's mom",
+                        "family"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Kumadori's mother is still alive and works as an assassin, with her name being Kumadori Yamanbako."
+            }
+        ],
+        "page": "66",
+        "chapter_number": "422",
+        "page_header": null
+    },
+    {
+        "qa": [
+            {
+                "number": 7,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Ohh...!! Hewwo?!! Ithith Oda-sensei? Uuuuhhh...!! Uh, what?! I ferrgot!! Urrrp!! from Shoma",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "YA DRUNK!!! Get this 11-year-old outta my face!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "Shoma asks a question but appears to be intoxicated, prompting Oda to call them out and tell them to leave."
+            },
+            {
+                "number": 8,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Sensei, I can't help but wonder what the eight members of [[CP9]] looked like when they were kids, especially Lucci-san. Please draw them for me, if you would. Thank you. P.N. The Sea is Wide and Large",
+                        "matches": [
+                            [
+                                58,
+                                65,
+                                "CP9"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Okay.\n[[File:SBS44 3 CP9 Children.png|thumb|center|500px|Top: Lucci, Kaku, Jabra, Kalifa. Bottom: Fukurou, Blueno, Kumadori, Spandam.]]\n\n''T.N.: Lucci's Shirt: Peace''",
+                        "matches": [
+                            [
+                                6,
+                                135,
+                                "File:SBS44 3 CP9 Children.png|thumb|center|500px|Top: Lucci, Kaku, Jabra, Kalifa. Bottom: Fukurou, Blueno, Kumadori, Spandam."
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS44 3 CP9 Children.png",
+                        "size": "500",
+                        "start": 6,
+                        "end": 135
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "CP9",
+                        "link_title": "/wiki/CP9",
+                        "is_wikipedia": false,
+                        "start": 58,
+                        "end": 65
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "rob_lucci",
+                        "kaku",
+                        "jabra",
+                        "kalifa",
+                        "fukurou",
+                        "blueno",
+                        "kumadori",
+                        "spandam"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "CP9",
+                        "character_design",
+                        "fan_request"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader asks Oda to draw the CP9 members as kids, and Oda provides an illustration of them as children, including a note about Lucci's shirt."
+            }
+        ],
+        "page": "86",
+        "chapter_number": "423",
+        "page_header": null
+    },
+    {
+        "qa": [
+            {
+                "number": 9,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello, Odacchi. I just recently noticed something. When reading [[Roronoa Zoro|Zoro]] and [[Kaku]]'s fight in Volume 43, there is a pattern to his attack names.\n\nNigiri \u2192 Nigiri sushi (hand-rolled sushi)\n\nToro \u2192 Toro (tuna)\n\nOtoro \u2192 Otoro (fatty tuna)\n\nHirameki \u2192 Hirame (flounder)\n\nSamon \u2192 Salmon\n\nHe seems really fixated on sushi... Could Zoro-san have never had sushi before?! P.N. Susshy",
+                        "matches": [
+                            [
+                                64,
+                                85,
+                                "Roronoa Zoro|Zoro"
+                            ],
+                            [
+                                90,
+                                98,
+                                "Kaku"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Who-ho-hoa, now, whoa... I think someone just accused you of some totally bogus crimes,\nZoro-san! I think ANYONE would be upset at being the author of such a shocking display\nof puns in poor taste! Come on out and tell 'em it ain't so, Zoro!!\n\nZoro: Gimme a break... Listen up, P.N. Susshy. It... It ain't... so...",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "WHAT ARE YOU ACTING SO SHOOK UP FOR?!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Zoro",
+                        "link_title": "/wiki/Roronoa Zoro",
+                        "is_wikipedia": false,
+                        "start": 64,
+                        "end": 85
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Kaku",
+                        "link_title": "/wiki/Kaku",
+                        "is_wikipedia": false,
+                        "start": 90,
+                        "end": 98
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "roronoa_zoro",
+                        "kaku"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "zoro's_sushi_obsession",
+                        "fight_patterns",
+                        "sushi_reference"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "A reader notices a pattern in Zoro's attack names and suspects he's fixated on sushi, leading to a humorous exchange with Oda and Zoro."
+            },
+            {
+                "number": 10,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "To Oda-sensei. Does Santa really exist? P.N. Kinoko",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "HE DOES!! YOU BET HE DOES!!\nI always stay awake so I can catch a glimpse of him, but I always fall asleep right\nbefore he comes! It's so frustrating!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "happy",
+                        "funny"
+                    ],
+                    "topics": [
+                        "santa_claus",
+                        "childhood"
+                    ],
+                    "importance": "hight",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Santa does exist according to Oda, who is frustrated about always falling asleep before seeing him."
+            },
+            {
+                "number": 11,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei!! I have a serious question. Will you ever draw Luffy's parents? P.N. Mr. Uni, Age 16",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "His parents? Well, I think you will be pleased with the next volume. Get excited!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "moneky_d_luffy"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "excited"
+                    ],
+                    "topics": [
+                        "luffys_parents"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Luffy's parents will be revealed in the next volume, so get excited!"
+            }
+        ],
+        "page": "106",
+        "chapter_number": "424",
+        "page_header": "SBS_Vol_44_07.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 12,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "[[File:SBS Vol 44 06.png|left|120px]] P.N. Yoshio",
+                        "matches": [
+                            [
+                                0,
+                                37,
+                                "File:SBS Vol 44 06.png|left|120px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "NO WAAAAY!!! It's you...!! Youuuu!! You came once before, in Volume 41. Didn't I say no already?! Why did you come again?! Leave me alone!! You're not getting in there!!\n\n''(T.N.: I really can't join the Royal Shichibukai? From [[SBS Volume 41]], page 26)''\n{{-}}\n\n[[File:SBS_Vol_44_10.png|right|150px]]",
+                        "matches": [
+                            [
+                                228,
+                                245,
+                                "SBS Volume 41"
+                            ],
+                            [
+                                265,
+                                303,
+                                "File:SBS_Vol_44_10.png|right|150px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS Vol 44 06.png",
+                        "size": "120",
+                        "start": 0,
+                        "end": 37
+                    },
+                    {
+                        "file": "SBS_Vol_44_10.png",
+                        "size": "150",
+                        "start": 265,
+                        "end": 303
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "SBS Volume 41",
+                        "link_title": "/wiki/SBS Volume 41",
+                        "is_wikipedia": false,
+                        "start": 228,
+                        "end": 245
+                    }
+                ],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "agitated"
+                    ],
+                    "topics": [],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda playfully responds to Yoshio, referencing a previous encounter and denying entry into the Royal Shichibukai."
+            },
+            {
+                "number": 13,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchi, nice to meet you!! I finally sent you a postcard. It's a serious question, so give me a real answer. That trick that [[Sanji]] used to beat [[Jabra]]!! If it was that hot to Jabra, wouldn't it burn Sanji, too?!! Wouldn't Sanji be like, \"yeow\"?? Tell me! P.N. Oda Gayichiro",
+                        "matches": [
+                            [
+                                126,
+                                135,
+                                "Sanji"
+                            ],
+                            [
+                                149,
+                                158,
+                                "Jabra"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "What are you talking about...\nWHAT ARE YOU TALKING ABOUT?!! Are those eyes, or holes in your head?!! What were you watching in that fight?!! His LEG is hot?! No, it's not hot!! SANJI'S HEART WAS BURNING SO MUCH HOTTER!!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Sanji",
+                        "link_title": "/wiki/Sanji",
+                        "is_wikipedia": false,
+                        "start": 126,
+                        "end": 135
+                    },
+                    {
+                        "text": "Jabra",
+                        "link_title": "/wiki/Jabra",
+                        "is_wikipedia": false,
+                        "start": 149,
+                        "end": 158
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "sanji"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "fighting_technique",
+                        "sanji_vs_jabra"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "D wonders if Sanji's attack would burn himself; Oda responds that it was Sanji's heart, not his leg, that burned hotter during the fight with Jabra."
+            },
+            {
+                "number": 14,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Sending my condolences with this card. from Naoko-chan",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "O... oh. No no, MY condolences. (Does she mean \"well-wishes\"?)",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "confused"
+                    ],
+                    "topics": [
+                        "condolences",
+                        "interpretation"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Naoko-chan sends condolences with a card and Oda questions if she meant well-wishes."
+            }
+        ],
+        "page": "146",
+        "chapter_number": "426",
+        "page_header": null
+    },
+    {
+        "qa": [
+            {
+                "number": 15,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "PASS ME THAT PONZU!! By What the Hell!!!",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Okay. Here.\n\n''(Note: Ponzu is a type of Japanese sauce made with citrus fruits.)''",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "frustrated"
+                    ],
+                    "topics": [
+                        "food"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader asks for Ponzu sauce, Oda responds with an explanation of what Ponzu is."
+            },
+            {
+                "number": 16,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "[[Nami]] was ripping [[Kalifa]]'s clothes off after she beat her, to look for her key. So where was it hidden, after all that? P.N. Udonko",
+                        "matches": [
+                            [
+                                0,
+                                8,
+                                "Nami"
+                            ],
+                            [
+                                21,
+                                31,
+                                "Kalifa"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "W... Where was it hidden...?! I couldn't say such a shameful thing (blush)! I mean, it was THERE, of all places!! Oh, Kalifa!\n[[File:SBS_Vol_44_11.png|right|120px]]",
+                        "matches": [
+                            [
+                                126,
+                                164,
+                                "File:SBS_Vol_44_11.png|right|120px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS_Vol_44_11.png",
+                        "size": "120",
+                        "start": 126,
+                        "end": 164
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Nami",
+                        "link_title": "/wiki/Nami",
+                        "is_wikipedia": false,
+                        "start": 0,
+                        "end": 8
+                    },
+                    {
+                        "text": "Kalifa",
+                        "link_title": "/wiki/Kalifa",
+                        "is_wikipedia": false,
+                        "start": 21,
+                        "end": 31
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "nami",
+                        "kalifa"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "embarrassed",
+                        "funny"
+                    ],
+                    "topics": [
+                        "clothing",
+                        "shameful"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": true
+                },
+                "summary": "Nami was looking for Kalifa's key, and it was hidden 'there,' but Oda didn't want to say where explicitly."
+            },
+            {
+                "number": 17,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Umm, I have a little question about Franky-san. He was adopted at age 10, began building the sea train at age 12, finished the Express 10 years later, and 4 years after that met with the accident from \"8 years ago,\" which would mean... HE'S 34 YEARS OLD!! Can someone really be so nutty at that age? Before doing the calculations, I assumed he was 18 or something... P.N. Young Iceburg is so cool!!",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes. So you calculated his present age. That's right, Franky is 34. Isn't that what makes him cool?! I mean, that basically means he's just a total freak and pervo.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "franky",
+                        "iceburg"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "age",
+                        "character backstory"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Franky is 34 years old, which the reader finds surprising based on his behavior, but Oda thinks it makes him cool despite being a 'freak and pervo'."
+            },
+            {
+                "number": 18,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei. We need to talk!! I want... wait, first, put some clothes on! Pants on too? Good! Now let's get to business. HAND ME THAT PORNO MAG THERE. from Chanman",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "No way! This is reference material! For my manga!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "silly"
+                    ],
+                    "topics": [
+                        "manga_reference"
+                    ],
+                    "importance": [
+                        "low"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader asks Oda for a porn magazine, but Oda refuses, stating it's reference material for his manga."
+            }
+        ],
+        "page": "166",
+        "chapter_number": "427",
+        "page_header": "SBS Vol 44 08.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 19,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello, ODA-sensei. Your body is fine? My name is Kimeunhyang. Lately, Volume 41 has been published even in Korea. This is a sudden question, what is \"this\" thing between the waist and legs of the ONE PIECE logo? A skirt? Is it really a skirt? I want to know so badly, I can't sleep.",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Thank you. This was a question from Korea. I think if I draw it out, you'll understand. Is the \"hand\" part what threw you off?\n\n\n[[File:SBS_Vol_44_12.png|right|200px]]",
+                        "matches": [
+                            [
+                                129,
+                                167,
+                                "File:SBS_Vol_44_12.png|right|200px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS_Vol_44_12.png",
+                        "size": "200",
+                        "start": 129,
+                        "end": 167
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "curious"
+                    ],
+                    "topics": [
+                        "One Piece logo",
+                        "design",
+                        "artistic interpretation"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader asks if the object on the One Piece logo is a skirt, and Oda responds with a drawing suggesting it is a hand."
+            },
+            {
+                "number": 20,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hey! Odacchi!! I conducted an investigation during my very busy summer vacation. You know how you use \"Don!\" or \"Donnn!!\" a lot, as a sound effect? So I counted the number of times \"Don\" was used in One Piece, through Volume 42, [[Chapter 409]]! (Only counting Don, Donnn, Dodon, Dodonnn. Excluded sounds which I suspected to be gunshots or attack sounds) My unofficial count found a grand total of <span style=\"font-size:150%;\">1,469 DONS!</span> (Donnn!!) On average, that makes about 3.5 Dons in every chapter. Did you know that?? Is there any other mangaka which uses \"Don\" so often? Come on guys, let's give him a round of applause! Clap clap clap... wow. Yes! Now that you're in a good mood, let's END THE SBS!!! (DODONNN) P.N. SYAM no M",
+                        "matches": [
+                            [
+                                229,
+                                244,
+                                "Chapter 409"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Waaaaait! Let me say something first! HOW MUCH FREE TIME DO YOU HAVE?! (LOL) No really, thanks a lot. I guess that's just how many scenes I felt confident in! See you next volume!\n\n* Letters from foreign nations and children may have language mistakes, but we are printing them as-is to show the sincerity of their feelings.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Chapter 409",
+                        "link_title": "/wiki/Chapter 409",
+                        "is_wikipedia": false,
+                        "start": 229,
+                        "end": 244
+                    }
+                ],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "sound effects",
+                        "SBS",
+                        "mangaka"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader counted 1,469 'Don' sound effects in One Piece up to Volume 42; Oda amazed and questions reader's free time."
+            }
+        ],
+        "page": "206",
+        "chapter_number": "429",
+        "page_header": "SBS Vol 44 09.png"
+    }
+]

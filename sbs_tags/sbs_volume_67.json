@@ -1,0 +1,830 @@
+[
+    {
+        "qa": [
+            {
+                "number": 1,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei!! This starter sentence has always been a dream of mine. Please allow me to say it today \u2661 *breatheeeee~~...*\n\n\"I WILL START THE BBQ!!!\" P.N. muKO",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Woah, woah, that meat right there, you've been grilling it way too long, it's getting burnt--!! Ah, the bliss of chugging down a cold beer in this spectacular outdoor nature, and along with everyone..\n\nA FRICKIN' (B)AR(B)E(Q)UE JUST MERRILY STARTED OUT OF NOWHERE---!!! (SHOCK)\n\n...Uhhm... first off, I'd like to say only the \"B\" is accurate. And then, well, if the starter sentence was like this, everyone would trip on their feet and not be able to properly sta--\n\n[[File:SBS67 1 Franky Shogun.png|right|150px]]",
+                        "matches": [
+                            [
+                                467,
+                                513,
+                                "File:SBS67 1 Franky Shogun.png|right|150px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS67 1 Franky Shogun.png",
+                        "size": "150",
+                        "start": 467,
+                        "end": 513
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "franky"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "surprised",
+                        "funny"
+                    ],
+                    "topics": [
+                        "barbecue",
+                        "fun",
+                        "joke"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": true
+                },
+                "summary": "Oda jokes about a BBQ starting and imagines a hilarious intro, but notes only the 'B' is correct for the starter sentence."
+            },
+            {
+                "number": 2,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "TAKE THIS! ODACCHI.\n\n\"FRANKEN GENERAL WATCH-YOUR-STEP\" P.N. Yousuke",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "So close, so close--!! (shock) (sweat)\n\nThe SBS did actually start with that BBQ!   \n\n[[File:SBS67 1 Sanji Poster.png|right|150px]]",
+                        "matches": [
+                            [
+                                86,
+                                131,
+                                "File:SBS67 1 Sanji Poster.png|right|150px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS67 1 Sanji Poster.png",
+                        "size": "150",
+                        "start": 86,
+                        "end": 131
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "shock",
+                        "sweat",
+                        "happy"
+                    ],
+                    "topics": [
+                        "SBS",
+                        "BBQ"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "The SBS started with a message from a fan addressed to Oda, who responded by expressing surprise and mentioning the starting BBQ."
+            },
+            {
+                "number": 3,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "There's something that has been bothering me for a while now. That is... \"When in the world will Sanji's wanted poster get a real legitimate photograph?!\" I am a proud Sanji fan! That is why I feel incredibly sorry for the poor guy. And so this time, I, the proud Sanji fan, have drawn a new portrait for Sanji, so from here on please use this for the poster instead\u2661 Here you go\u2661 Tee hee\u2661 P.N. Nanao Style\n[[File:SBS67 1 New Sanji Poster Art.png|right|150px]]",
+                        "matches": [
+                            [
+                                407,
+                                460,
+                                "File:SBS67 1 New Sanji Poster Art.png|right|150px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "WHATISTHIS!!! (SHOCK) This is terrible!\n\nLook closely at Sanji's face! Do you realize that his eyebrows should be swirled in the opposite direction at the current moment?! Please properly redraw that tail! So terrible!",
+                        "matches": []
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS67 1 New Sanji Poster Art.png",
+                        "size": "150",
+                        "start": 407,
+                        "end": 460
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "sanji"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "shock",
+                        "funny"
+                    ],
+                    "topics": [
+                        "wanted_poster",
+                        "fan_art"
+                    ],
+                    "importance": "hight",
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader wants a new wanted poster for Sanji with a self-drawn portrait and Oda hilariously points out a mistake in the drawing."
+            },
+            {
+                "number": 4,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "\"USOPP WAGO--MU\"\n\nHow's that! P.N. Kounosuke loves baseball",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Ouch! (sweat) Did you really do that just now?! That's merely a threatening technique! Owwww~~! You stung me right in my butt crack!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "usopp",
+                        "kounosuke"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "pain",
+                        "humorous"
+                    ],
+                    "topics": [
+                        "wagomu",
+                        "baseball"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Kounosuke loves baseball and uses a threatening technique similar to Usopp's attack, which Oda humorously reacts to."
+            }
+        ],
+        "page": "24",
+        "chapter_number": "657",
+        "page_header": "SBS67 Header 1.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 5,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello, hello, my greetings to Odacchi!! When I was staring at the \"lady who passes out tissues\" in front of the station with perverted eyes, there was this whole thing about Jinbe's plan of turning Luffy into a hero!! So in the end, WHAT BECAME OF THAT PLAN NAME? P.N. God of manga",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "SOMETHING ISN'T RIGHT HERE.\n\nThe first half of this question JUST ISN'T RIGHT.\n\nAnyway, for the \"plan name\" that Jinbe seemed to be concerned about had several candidates such as these. \"The Great Straw Hat Hero Plan\", \"I luvluv humans plan\", and \"The Fuck History Plan\". Hmm, even with these ideas, I'm not too sure what would become of them. Maybe they didn't need a plan name after all?      \n{{-}}\n\n[[File:SBS67 2 Little Shyarly.png|right|150px]]\n[[File:SBS67 2 Fishmen Siblings.png|right|300px]]",
+                        "matches": [
+                            [
+                                403,
+                                450,
+                                "File:SBS67 2 Little Shyarly.png|right|150px"
+                            ],
+                            [
+                                451,
+                                500,
+                                "File:SBS67 2 Fishmen Siblings.png|right|300px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS67 2 Little Shyarly.png",
+                        "size": "150",
+                        "start": 403,
+                        "end": 450
+                    },
+                    {
+                        "file": "SBS67 2 Fishmen Siblings.png",
+                        "size": "300",
+                        "start": 451,
+                        "end": 500
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "jinbe",
+                        "luffy"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "perverted",
+                        "confused"
+                    ],
+                    "topics": [
+                        "plan_name",
+                        "straw_hat",
+                        "hero"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Jinbe's plan for Luffy had potential names like 'The Great Straw Hat Hero Plan' and 'I luvluv humans plan', but the outcome is uncertain."
+            },
+            {
+                "number": 6,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odaaaaaaaaaachi! Odacchi big news, big news! You see that reaaaally cute mermaid girl with a hood in volume 65, chapter 644 (p152)? Do you? Do you?? Could it possibly be that that child ha, h-h-h-h-happens to be.. \u2661\u2661MADAME SHYARLY\u2661\u2661? by The one who will become a pirate is me!",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes, you are correct. Even though Madame Shyarly is known as a Madame, she is still actually 29 years of age. Her brother Arlong being 41 and Hody 30, Shyarly is from the same generation as Hody, yes--. Since Arlong was abandoned by his father in Fish-Man District as a small child, he never really knew the faces of his parents, but around the time Arlong became 15, a man claiming to be the father of Arlong came along with a little girl from a different mother. That would be Shyarly. When Shyarly was 4 years old, it is said that she accurately predicted the start of \"the Great Age of Pirates\".",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "madame_shyarly",
+                        "arlong",
+                        "hody"
+                    ],
+                    "places": [
+                        "fish_man_district"
+                    ],
+                    "emotions": [
+                        "informative"
+                    ],
+                    "topics": [
+                        "madame_shyarly",
+                        "fish_man_district",
+                        "great_age_of_pirates"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Madame Shyarly, a mermaid girl, is actually 29 years old, and she accurately predicted the start of 'the Great Age of Pirates' at age 4."
+            }
+        ],
+        "page": "44",
+        "chapter_number": "658",
+        "page_header": "SBS67 Header 2.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 7,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "In volume 64 and 65, when Nami and Robin see Franky's new techniques, they took on in silence. Is that really alright? Why don't they get excited? P.N. CPDX",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Right. Penname-CPDX-kun, you're 17 now, right? There's something you need to learn now. Men and women are completely different creatures. It's a big mistake to think that they can understand each other just because they're both human. No matter who tries to explain the coolness of robots to a girl, the message will never get through. Those people like things that sparkle, things that are soft and fluffy, and things that I don't understand. We could never comprehend those things, right? So, yes, it's alright. Even when looking at such a cool thing, they'll just stare with blank expressions. Do your best, Franky!!\n\n[[File:SBS67 3 Shichibukai Kato.png|right|100px]]",
+                        "matches": [
+                            [
+                                621,
+                                670,
+                                "File:SBS67 3 Shichibukai Kato.png|right|100px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS67 3 Shichibukai Kato.png",
+                        "size": "100",
+                        "start": 621,
+                        "end": 670
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "nami",
+                        "robin",
+                        "franky"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "gender_differences",
+                        "perception"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda explains that men and women perceive things differently, so it's okay for Nami and Robin to react calmly to Franky's new techniques."
+            },
+            {
+                "number": 8,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Why does Law, and not Kato-san, get to be a Shichibukai? P.N. Rou",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Well you can tell just by looking at the shape of his nose that Kato-san isn't human. His bounty is about {{B}}2, right? \n{{-}}\n[[File:SBS67 3 Little Ikaros and Daidalos.png|right|100px]]\n\n[[File:SBS67 3 Ikaros and Daidalos.png|right|200px]]",
+                        "matches": [
+                            [
+                                128,
+                                187,
+                                "File:SBS67 3 Little Ikaros and Daidalos.png|right|100px"
+                            ],
+                            [
+                                189,
+                                241,
+                                "File:SBS67 3 Ikaros and Daidalos.png|right|200px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS67 3 Little Ikaros and Daidalos.png",
+                        "size": "100",
+                        "start": 128,
+                        "end": 187
+                    },
+                    {
+                        "file": "SBS67 3 Ikaros and Daidalos.png",
+                        "size": "200",
+                        "start": 189,
+                        "end": 241
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "law",
+                        "kato-san"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "shichibukai",
+                        "bounty",
+                        "kato-san_species"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Law becomes a Shichibukai because Kato-san is not human, as evident from the shape of his nose and his bounty of 2 billion."
+            },
+            {
+                "number": 9,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sama. Hellooooo. In the third panel of page 151 in volume 65, there's a squid standing next to Ikaros, so could he be \"Daidalos?\" That's right, that's gotta be right, that's surely how it is!!!? P.N. Chagero's Friend Iwaken",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "You don't have to push the issue so hard- yes, that's right! He was still alive at the time, and those two were best buddies. But Daidalos ended up dying and becoming dried squid in an unforeseen accident. Because of the trauma from that incident, Ikaros developed a fear of becoming dried squid himself whenever he sees fire.\n\n{{-}}",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "ikaros",
+                        "daidalos"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "ikaros_relationship",
+                        "daidalos_death",
+                        "ikaros_fear"
+                    ],
+                    "importance": [
+                        "high"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Ikaros and Daidalos were best buddies, but Daidalos died and became dried squid, causing Ikaros to develop a fear of becoming dried squid himself."
+            }
+        ],
+        "page": "84",
+        "chapter_number": "660",
+        "page_header": "SBS67 Header 3.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 10,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda sensei, have you ever wiped your butt with sandpaper? Penname- Sara Mama",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "No, I haven't!!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "indignant"
+                    ],
+                    "topics": [
+                        "personal_life"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda denies the fan's strange question about wiping with sandpaper."
+            },
+            {
+                "number": 11,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello Oda Sensei. In chapter 655 of volume 66 in the scene where everyone is eating deep sea fish bento boxes, Robin says \"Delicious,\" Luffy and Usopp are going \"munch munch,\" but only Zoro is going \"crunch crunch.\" Did Sanji put razor-blades in Zoro's bento, as promised? Penname- Gillette",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "hnnnnn.... AMAZING!! Thank you for reading so carefully! I mean, I drew that while thinking that it wouldn't really be that bad if nobody ever noticed, but in chapter 653 of volume 66, we have this scene. There's usually no reason to use a crunchy sound effect when characters are eating bento, but I felt that Sanji would surely put the razors and poison in Zoro's bento, so I decided to draw it in that way. The serious nature of their fight is what makes it interesting.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "robin",
+                        "luffy",
+                        "usopp",
+                        "zoro",
+                        "sanji"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny",
+                        "amused"
+                    ],
+                    "topics": [
+                        "food",
+                        "fighting",
+                        "comic_scene"
+                    ],
+                    "importance": "hight",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Zoro's 'crunch crunch' while eating bento hinted at Sanji putting razors in it, as confirmed by Oda for the serious nature of their fight."
+            },
+            {
+                "number": 12,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Wanze, who debuted in the Water 7 arc, is a character who made a strong impact. From some time ago, my little sister has taken to imitating him. She says, \"Ra-ramen kenpo?\" while waving both hands, and it's getting irritating. She says it's \"Wanze Disease,\" but how can I cure such a malady? Penname- Ai",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "But how *wave wave* can I cure such a malady *wave wave*?' Ouch!! Ai-chan, that hurts! Quit it with the violence!! ...Ai-chan is mad!! Well, Wanze sure does bring back memories. Who cares about curing?- everyone, let's do it together! Just wave your hands vertically next to your face, stick out your lower lip, make a strange face, and go around mimicking people! You'll get punched for sure!\n\n{{-}}",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "wanze"
+                    ],
+                    "places": [
+                        "water_7"
+                    ],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "character_impact",
+                        "mimicking",
+                        "curing_malady"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "Oda suggests joining in imitating Wanze's catchphrase instead of trying to cure the 'Wanze Disease', ending with a caution about getting punched for mimicking others."
+            }
+        ],
+        "page": "104",
+        "chapter_number": "661",
+        "page_header": "SBS67 Header 4.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 13,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Recently I've found someone I'm interested in \u2661 \u2661 . But I'm worried because I don't know how to properly \"attack\". Oda sensei, please give me advice!! Penname- Dekiru",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "\"Something like 'Gomu Gomu Bazooka' probably has enough destructive power, I think! You'll take down that person you're interested in for sure! (^^)",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "happy",
+                        "funny"
+                    ],
+                    "topics": [
+                        "romance",
+                        "advice"
+                    ],
+                    "importance": "hight",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda advises the reader to use a 'Gomu Gomu Bazooka' as a way to express interest in the person they like."
+            },
+            {
+                "number": 14,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I've got a question. When Smoker was in Tashigi, she was wearing a \"Nothing\" bra, but is that because Smoker took it off, or because... from the start... she... I'm so turned-on I can't sleep at night! Please tell me, Sensei! Penname- Kumakoro",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "No-bra is pretty great, huh <3 For sure. To get to the bottom of this, let's ask Smoker himself. Vice Admiral Smoker, please tell us!\n\nS: I tore it off. Who wants to know.",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Ah.... Ah.... Got it. Thank You. -and that's how it is!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "smoker"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "silly",
+                        "funny"
+                    ],
+                    "topics": [
+                        "undergarments",
+                        "humor"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "Tashigi wasn't wearing a bra because Smoker tore it off, as confirmed by Smoker himself in the SBS."
+            },
+            {
+                "number": 15,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Pleased to meet you, Oda-chi! Heso!! I'll try to make this quick, but... I noticed a certain one of Oda-chi's policies? Or is it poliswees?!! Oda-chi... you don't seem to write lines in your own handwriting on the side as supplements to character's speech bubbles!? Other manga-ka do it a lot, but... please explain this for me!! Penname- Myaari",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Ohh. Yes. Lines written in speech bubbles vs. lines written outside them- good job noticing. I did the latter back when I was a newbie and even during the early days of serialization. But I made the conscious decision to stop doing that relatively early on, so you could call it a policy. Of course I don't mind it if other authors do it, but I thought that if I did that, the reader might see my handwritten characters while reading and suddenly become aware that there is an \"author\", so I stopped. While reading my manga, I want you to forget about my existence.\n\n{{-}}",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "authorial_style",
+                        "manga_writing"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda explains not writing lines outside speech bubbles was a conscious decision to maintain immersion and prevent readers from becoming aware of the author's presence."
+            }
+        ],
+        "page": "164",
+        "chapter_number": "664",
+        "page_header": "SBS67 Header 5.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 16,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "In chapter 654, Chopper turns down Nami's invitation to join her in the bath, saying \"I wiped myself down the day before yesterday\", right? Is it because he's a boy? Or a fruit user? Or maybe... because he's an animal? I'm also interested in the bathing information for the rest of the Strawhat crew. Penname- Katana Roman",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Well, in Chopper's case, I have a strong feeling that perhaps it's because he's an animal. Wiping his body down pretty much counts as a bath for him. Sometimes, the men of the crew have a Great Bath Party together and get really rowdy. Chopper gets invited to bathe with the ladies a lot, but he prefers the men's parties.\n\n[[File:SBS67 6 Straw Hats Bath Chart.png|center|600px]]\n\n{{-}}\n\n[[File:SBS67 6 Robin.png|right|100px]]",
+                        "matches": [
+                            [
+                                324,
+                                379,
+                                "File:SBS67 6 Straw Hats Bath Chart.png|center|600px"
+                            ],
+                            [
+                                388,
+                                426,
+                                "File:SBS67 6 Robin.png|right|100px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS67 6 Straw Hats Bath Chart.png",
+                        "size": "600",
+                        "start": 324,
+                        "end": 379
+                    },
+                    {
+                        "file": "SBS67 6 Robin.png",
+                        "size": "100",
+                        "start": 388,
+                        "end": 426
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "tony_tony_chopper",
+                        "nami"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "bathing_information",
+                        "strawhat_crew",
+                        "chopper_animal_trait"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "Chopper declines Nami's bath invite because he's an animal, not solely because he's a boy or fruit user. The men of the crew have group baths, and Chopper prefers them over joining the women."
+            },
+            {
+                "number": 17,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello, Ei-chan. My little sister said, \"Robin is always revealing her breasts; she must really like doing that, huh\". So I told her, \"No no, it's just because that Oda-chan guy who writes One Piece really likes breasts so he draws exposed ones a lot\". Am I right in my assessment? *picks nose* Penname- I like Oda-chan",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes. I have here a very rude letter. OF COURSE I DRAW THEM BECAUSE I LIKE THEM!! How rude of you to doubt me!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "nico_robin"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "defensive",
+                        "outraged"
+                    ],
+                    "topics": [
+                        "fan_service",
+                        "author_preference"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader asks if One Piece character Robin's revealing outfits are due to author's preference, Oda confirms yes and expresses offense at the doubt."
+            },
+            {
+                "number": 18,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Because Oda-chi can't keep it together anymore, we're ending SBS here. Penname- Eel now",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Okay, see you in the next volume! There's some info about the movie at the end of this one.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda ends the SBS and mentions movie info in the next volume."
+            }
+        ],
+        "page": "182",
+        "chapter_number": "665",
+        "page_header": "SBS67 Header 6.png"
+    }
+]

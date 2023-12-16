@@ -1,0 +1,1429 @@
+[
+    {
+        "qa": [
+            {
+                "number": 0,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "N/A",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Whaaaaat?! You can start the segment from up there?! Well... sure, I guess... Let's begin the SBS...",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "surprised"
+                    ],
+                    "topics": [],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda starts the Q&A segment reluctantly from an unusual starting point."
+            },
+            {
+                "number": 1,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "That's SBS-san to you. P.N. Kimurin",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Whaaaaat?! I'm sorry! Start the...SBS-san.\n{{-}}\n[[File:SBS73 1 Gasu Gasu Fart.png|thumb|right|300px|Left: Dad; Bottom: Me]]",
+                        "matches": [
+                            [
+                                49,
+                                124,
+                                "File:SBS73 1 Gasu Gasu Fart.png|thumb|right|300px|Left: Dad; Bottom: Me"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS73 1 Gasu Gasu Fart.png",
+                        "size": "300",
+                        "start": 49,
+                        "end": 124
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "surprised"
+                    ],
+                    "topics": [],
+                    "importance": "normal",
+                    "isCharacterInsertion": true
+                },
+                "summary": "The reader corrects Oda by calling him SBS-san, and Oda responds with a surprised apology."
+            },
+            {
+                "number": 2,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "My dad can shoot \"[[Shinokuni]]\" from out of his butt. Does he have the powers of [[Gasu Gasu no Mi]]? P.N. Okku",
+                        "matches": [
+                            [
+                                18,
+                                31,
+                                "Shinokuni"
+                            ],
+                            [
+                                82,
+                                101,
+                                "Gasu Gasu no Mi"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Those are farts! FARTS! It's \"Henokuni\" (VIZ: \"Land of the Farts\").\u00a0\n{{-}}\n[[File:SBS73 1 Law's Tattoos.png|right|100px]]",
+                        "matches": [
+                            [
+                                75,
+                                121,
+                                "File:SBS73 1 Law's Tattoos.png|right|100px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS73 1 Law's Tattoos.png",
+                        "size": "100",
+                        "start": 75,
+                        "end": 121
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Shinokuni",
+                        "link_title": "/wiki/Shinokuni",
+                        "is_wikipedia": false,
+                        "start": 18,
+                        "end": 31
+                    },
+                    {
+                        "text": "Gasu Gasu no Mi",
+                        "link_title": "/wiki/Gasu Gasu no Mi",
+                        "is_wikipedia": false,
+                        "start": 82,
+                        "end": 101
+                    }
+                ],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "gasu_gasu_no_mi",
+                        "farts"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader asks if his dad has powers of Gasu Gasu no Mi, but Oda clarifies they are just farts, and not related to Devil Fruit powers."
+            },
+            {
+                "number": 3,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I'm sure you must've gotten countless letters pointing out that you drew the \"DEATH\" tattoos on [[Trafalgar D. Water Law|Law]]'s fingers wrong... In my opinion, whenever this happens, it's because Law is using [[Ope Ope no Mi#Attacks|Shambles]] on the parts above and below the knuckles to switch them around! Wow, that [[Ope Ope no Mi]] comes in real handy (if you know what I mean)! P.N. Kamiki",
+                        "matches": [
+                            [
+                                96,
+                                126,
+                                "Trafalgar D. Water Law|Law"
+                            ],
+                            [
+                                210,
+                                244,
+                                "Ope Ope no Mi#Attacks|Shambles"
+                            ],
+                            [
+                                320,
+                                337,
+                                "Ope Ope no Mi"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Uhmm... yeah. I got a lot of those letters. They all say I screwed up! (cries) That's what everyone says! But you know what, you're right on the money! That's right. If they're ever facing the wrong direction or missing entirely...it was all Shambles!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Law",
+                        "link_title": "/wiki/Trafalgar D. Water Law",
+                        "is_wikipedia": false,
+                        "start": 96,
+                        "end": 126
+                    },
+                    {
+                        "text": "Shambles",
+                        "link_title": "/wiki/Ope Ope no Mi#Attacks",
+                        "is_wikipedia": false,
+                        "start": 210,
+                        "end": 244
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Ope Ope no Mi",
+                        "link_title": "/wiki/Ope Ope no Mi",
+                        "is_wikipedia": false,
+                        "start": 320,
+                        "end": 337
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "trafalgar_d_water_law"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "devil_fruit",
+                        "ope_ope_no_mi",
+                        "shambles"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Readers point out Law's 'DEATH' tattoos were drawn wrong; Oda confirms it and jokes that it's due to Law using Shambles to switch them around."
+            }
+        ],
+        "page": "26",
+        "chapter_number": "722",
+        "page_header": "SBS73 Header 1.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 4,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "[[Chapter 711]], [[Chapters and Volumes/Volume 71-Current#Volume 71|Volume 71]]. The big panel. I see some candy falling out of [[Nico Robin|Robin]]'s bag. Was she going to give that to [[Tony Tony Chopper|Chopper]]? P.N. Anmitsu Usagi",
+                        "matches": [
+                            [
+                                0,
+                                15,
+                                "Chapter 711"
+                            ],
+                            [
+                                17,
+                                79,
+                                "Chapters and Volumes/Volume 71-Current#Volume 71|Volume 71"
+                            ],
+                            [
+                                128,
+                                148,
+                                "Nico Robin|Robin"
+                            ],
+                            [
+                                186,
+                                215,
+                                "Tony Tony Chopper|Chopper"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes! Robin loves Chopper, so she always keeps some of his favorite candy around to give to him at any time!\n{{-}}\n[[File:SBS73 2 Montblanc Cricket.png|right|150px]]",
+                        "matches": [
+                            [
+                                114,
+                                164,
+                                "File:SBS73 2 Montblanc Cricket.png|right|150px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS73 2 Montblanc Cricket.png",
+                        "size": "150",
+                        "start": 114,
+                        "end": 164
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Volume 71",
+                        "link_title": "/wiki/Chapters and Volumes/Volume 71-Current#Volume 71",
+                        "is_wikipedia": false,
+                        "start": 17,
+                        "end": 79
+                    },
+                    {
+                        "text": "Robin",
+                        "link_title": "/wiki/Nico Robin",
+                        "is_wikipedia": false,
+                        "start": 128,
+                        "end": 148
+                    },
+                    {
+                        "text": "Chopper",
+                        "link_title": "/wiki/Tony Tony Chopper",
+                        "is_wikipedia": false,
+                        "start": 186,
+                        "end": 215
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Chapter 711",
+                        "link_title": "/wiki/Chapter 711",
+                        "is_wikipedia": false,
+                        "start": 0,
+                        "end": 15
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "nico_robin",
+                        "tony_tony_chopper"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "happy"
+                    ],
+                    "topics": [
+                        "friendship",
+                        "gift-giving"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Robin was indeed going to give the candy to Chopper, as she always keeps some of his favorite candy to give to him at any time."
+            },
+            {
+                "number": 5,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hey, Odacchi! On page 109 of Volume 71, was [[Monkey D. Luffy|Luffy]] going to call [[Bellamy]] \"Mallony\"?! Was he thinking of the snack food company Malony? If Luffy's head is full of nothing but food, then I'm more like [[Sanji]]\u2014my head is full of girls. What's inside your head, Odacchi? P.N. Shin",
+                        "matches": [
+                            [
+                                44,
+                                69,
+                                "Monkey D. Luffy|Luffy"
+                            ],
+                            [
+                                84,
+                                95,
+                                "Bellamy"
+                            ],
+                            [
+                                222,
+                                231,
+                                "Sanji"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I don't think about girls the way you do. It's nothing but serious bustiness--ahem, business--in there. And you're right about Luffy's train of thought! I guess he only remembered the rhythm of the name.\n{{-}}\n[[File:SBS73 2 Aremo Ganmi.png|right|150px]]",
+                        "matches": [
+                            [
+                                210,
+                                254,
+                                "File:SBS73 2 Aremo Ganmi.png|right|150px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS73 2 Aremo Ganmi.png",
+                        "size": "150",
+                        "start": 210,
+                        "end": 254
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Luffy",
+                        "link_title": "/wiki/Monkey D. Luffy",
+                        "is_wikipedia": false,
+                        "start": 44,
+                        "end": 69
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Bellamy",
+                        "link_title": "/wiki/Bellamy",
+                        "is_wikipedia": false,
+                        "start": 84,
+                        "end": 95
+                    },
+                    {
+                        "text": "Sanji",
+                        "link_title": "/wiki/Sanji",
+                        "is_wikipedia": false,
+                        "start": 222,
+                        "end": 231
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy",
+                        "bellamy",
+                        "sanji"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "playful"
+                    ],
+                    "topics": [
+                        "food",
+                        "character_traits"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "Luffy's thought process referencing a snack company was true, and Oda's head is filled with serious business, despite the humorous bustiness comment."
+            },
+            {
+                "number": 6,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello!\u00a0(^ v ^) I have a question. You know there's a woman in both Chapter 707 and 708 who's covering her face to avoid seeing Bartolomeo's \"thing\". But...she's not covering her eyes! In fact she's peeking right through her fingers. Who is she? Tell me her name! P.N. Rhett Butler",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Oh, you mean \"[[Aremo Ganmi]] \"? She's a well-known young damsel from the town of [[Primula]] in the western part of [[Dressrosa]]. She's very shy.",
+                        "matches": [
+                            [
+                                14,
+                                29,
+                                "Aremo Ganmi"
+                            ],
+                            [
+                                82,
+                                93,
+                                "Primula"
+                            ],
+                            [
+                                117,
+                                130,
+                                "Dressrosa"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Aremo Ganmi",
+                        "link_title": "/wiki/Aremo Ganmi",
+                        "is_wikipedia": false,
+                        "start": 14,
+                        "end": 29
+                    },
+                    {
+                        "text": "Primula",
+                        "link_title": "/wiki/Primula",
+                        "is_wikipedia": false,
+                        "start": 82,
+                        "end": 93
+                    },
+                    {
+                        "text": "Dressrosa",
+                        "link_title": "/wiki/Dressrosa",
+                        "is_wikipedia": false,
+                        "start": 117,
+                        "end": 130
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "aremo_ganmi"
+                    ],
+                    "places": [
+                        "primula",
+                        "dressrosa"
+                    ],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "character",
+                        "clothing"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A woman named Aremo Ganmi from Primula in Dressrosa is shy and well-known for peeking through her fingers to avoid seeing Bartolomeo's 'thing'."
+            }
+        ],
+        "page": "66",
+        "chapter_number": "724",
+        "page_header": "SBS73 Header 2.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 7,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Are you and I the only ones hoping for a nip-slip from [[Rebecca]]? Are you and I the only ones who turn each page during the [[Corrida Colosseum|Colosseum]] scenes thinking, \"Come on! Come on!!\" P.N. Mojaman (16)",
+                        "matches": [
+                            [
+                                55,
+                                66,
+                                "Rebecca"
+                            ],
+                            [
+                                126,
+                                157,
+                                "Corrida Colosseum|Colosseum"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I hear you! It sets my heart racing. You think, \"When is your wardrobe malfunction?!\" You might wonder why she'd wear such a skimpy outfit, but there's that pesky weight limit. I don't want to draw her that way, I swear. Come on! Come on!\n{{-}}\n[[File:SBS73 3 Wapol.png|right|120px]]",
+                        "matches": [
+                            [
+                                245,
+                                283,
+                                "File:SBS73 3 Wapol.png|right|120px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS73 3 Wapol.png",
+                        "size": "120",
+                        "start": 245,
+                        "end": 283
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Colosseum",
+                        "link_title": "/wiki/Corrida Colosseum",
+                        "is_wikipedia": false,
+                        "start": 126,
+                        "end": 157
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Rebecca",
+                        "link_title": "/wiki/Rebecca",
+                        "is_wikipedia": false,
+                        "start": 55,
+                        "end": 66
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "rebecca"
+                    ],
+                    "places": [
+                        "colosseum"
+                    ],
+                    "emotions": [
+                        "excited",
+                        "funny"
+                    ],
+                    "topics": [
+                        "clothing",
+                        "fan_service"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "A reader asks about a nip-slip from Rebecca, and Oda acknowledges the excitement but mentions the weight limit and not wanting to draw her that way."
+            },
+            {
+                "number": 8,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I hear I look like [[Wapol]]. P.N. Kozuetty",
+                        "matches": [
+                            [
+                                19,
+                                28,
+                                "Wapol"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "It gets better.\n{{-}}\n[[File:SBS73 3 Sanji Kicked in Groin.png|right|150px]]",
+                        "matches": [
+                            [
+                                22,
+                                76,
+                                "File:SBS73 3 Sanji Kicked in Groin.png|right|150px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS73 3 Sanji Kicked in Groin.png",
+                        "size": "150",
+                        "start": 22,
+                        "end": 76
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Wapol",
+                        "link_title": "/wiki/Wapol",
+                        "is_wikipedia": false,
+                        "start": 19,
+                        "end": 28
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "wapol",
+                        "sanji"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "appearance",
+                        "fan_theory"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader Kozuetty mentions looking like Wapol, Oda responds with a picture of Sanji getting kicked in the groin."
+            },
+            {
+                "number": 9,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hey, Oda! In all of these fight scenes, why doesn't anybody go for the men's groins? Doesn't that seem like the quickest path to victory? P.N. Eldest of the Asada Siblings.",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "True, that is a vital area. Just imagine legends among men--Whitebeard, Shanks, Mihawk--staring each other down, bearing their weighty ideals...and trying to whack each other in the balls! IS THAT THE KIND OF MANGA YOU WANT TO READ?!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "whitebeard",
+                        "shanks",
+                        "mihawk"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "fighting",
+                        "victory",
+                        "manga"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader asks why groin shots aren't used in fights, Oda humorously opposes it, imagining top characters aiming there, in an SBS session."
+            }
+        ],
+        "page": "104",
+        "chapter_number": "726",
+        "page_header": "SBS73 Header 3.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 10,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I was looking up trivia on the [[Straw Hat Pirates|Straw Hats]], and I found that although they've all been given a favorite food, I can't find anything about their least favorite. So what are each of the Straw Hats' least favorite foods? P.N. Ice Cream Nyangoro",
+                        "matches": [
+                            [
+                                31,
+                                63,
+                                "Straw Hat Pirates|Straw Hats"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Here you go. The reasons are inside the parentheses.\n{| style=\"margin:auto;\"\n|[[File:SBS72 2 Luffy.png|75px]]||\n*A certain place's cherry pie (No reason)\n|[[File:SBS72 2 Zoro.png|75px]]||\n*Chocolate (Too sweet)\n|[[File:SBS72 2 Nami.png|75px]]||\n*Orangette (If she wants fruit, she'll eat regular fruit)\n|-\n|[[File:SBS72 2 Usopp.png|75px]]||\n*Mushrooms (Got sick once)\n|[[File:SBS72 2 Sanji.png|75px]]||\n*Konjac (No nutritional value)\n|[[File:SBS72 2 Chopper.png|75px]]||\n*Anything spicy (Not sweet enough)\n|-\n|[[File:SBS72 2 Robin.png|75px]]||\n*Chewing gum (Can't swallow it)\n|[[File:SBS72 2 Franky.png|75px]]||\n*Marshmallows (Not hard enough)\n|[[File:SBS72 2 Brook.png|75px]]||\n*Lemon (No cheeks to make a sour face)\n|}\n{{-}}\n[[File:SBS73 4 Ryokugyu.png|thumb|right|250px|Ryokugyu (Imagined Drawing)]]",
+                        "matches": [
+                            [
+                                78,
+                                109,
+                                "File:SBS72 2 Luffy.png|75px"
+                            ],
+                            [
+                                155,
+                                185,
+                                "File:SBS72 2 Zoro.png|75px"
+                            ],
+                            [
+                                212,
+                                242,
+                                "File:SBS72 2 Nami.png|75px"
+                            ],
+                            [
+                                307,
+                                338,
+                                "File:SBS72 2 Usopp.png|75px"
+                            ],
+                            [
+                                369,
+                                400,
+                                "File:SBS72 2 Sanji.png|75px"
+                            ],
+                            [
+                                435,
+                                468,
+                                "File:SBS72 2 Chopper.png|75px"
+                            ],
+                            [
+                                510,
+                                541,
+                                "File:SBS72 2 Robin.png|75px"
+                            ],
+                            [
+                                577,
+                                609,
+                                "File:SBS72 2 Franky.png|75px"
+                            ],
+                            [
+                                645,
+                                676,
+                                "File:SBS72 2 Brook.png|75px"
+                            ],
+                            [
+                                727,
+                                802,
+                                "File:SBS73 4 Ryokugyu.png|thumb|right|250px|Ryokugyu (Imagined Drawing)"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS72 2 Luffy.png",
+                        "size": "75",
+                        "start": 78,
+                        "end": 109
+                    },
+                    {
+                        "file": "SBS72 2 Zoro.png",
+                        "size": "75",
+                        "start": 155,
+                        "end": 185
+                    },
+                    {
+                        "file": "SBS72 2 Nami.png",
+                        "size": "75",
+                        "start": 212,
+                        "end": 242
+                    },
+                    {
+                        "file": "SBS72 2 Usopp.png",
+                        "size": "75",
+                        "start": 307,
+                        "end": 338
+                    },
+                    {
+                        "file": "SBS72 2 Sanji.png",
+                        "size": "75",
+                        "start": 369,
+                        "end": 400
+                    },
+                    {
+                        "file": "SBS72 2 Chopper.png",
+                        "size": "75",
+                        "start": 435,
+                        "end": 468
+                    },
+                    {
+                        "file": "SBS72 2 Robin.png",
+                        "size": "75",
+                        "start": 510,
+                        "end": 541
+                    },
+                    {
+                        "file": "SBS72 2 Franky.png",
+                        "size": "75",
+                        "start": 577,
+                        "end": 609
+                    },
+                    {
+                        "file": "SBS72 2 Brook.png",
+                        "size": "75",
+                        "start": 645,
+                        "end": 676
+                    },
+                    {
+                        "file": "SBS73 4 Ryokugyu.png",
+                        "size": "250",
+                        "start": 727,
+                        "end": 802
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Straw Hats",
+                        "link_title": "/wiki/Straw Hat Pirates",
+                        "is_wikipedia": false,
+                        "start": 31,
+                        "end": 63
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy",
+                        "roronoa_zoro",
+                        "nami",
+                        "usopp",
+                        "sanji",
+                        "tony_tony_chopper",
+                        "nico_robin",
+                        "franky",
+                        "brook"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "straw_hat_pirates",
+                        "favorite_food",
+                        "least_favorite_food"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Straw Hats' least favorite foods: Luffy - cherry pie, Zoro - chocolate, Nami - orangette, Usopp - mushrooms, Sanji - konjac, Chopper - spicy, Robin - chewing gum, Franky - marshmallows, Brook - lemon. "
+            },
+            {
+                "number": 11,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "We've learned about two new [[Marines|Marine]] [[admiral]]s: [[Issho|Fujitora]] and [[Aramaki|Ryokugyu]]. I wondered why you went with \"Fuji\" (for light purple or lilac) instead of \"Murasaki\" (regular purple)? P.N. Aye-Aye Planet",
+                        "matches": [
+                            [
+                                28,
+                                46,
+                                "Marines|Marine"
+                            ],
+                            [
+                                47,
+                                58,
+                                "admiral"
+                            ],
+                            [
+                                61,
+                                79,
+                                "Issho|Fujitora"
+                            ],
+                            [
+                                84,
+                                104,
+                                "Aramaki|Ryokugyu"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Good question. I've made [[Sakazuki|red]], [[Kuzan|blue]], [[Borsalino|yellow]] and green, so it's natural to go with \"purple\" next. But when I started trying that into a Japanese name, I had \"Murasakitora\" and \"Shitora\"...\n\nTHEY DON'T ROLL OFF THE TONGUE. NOT CATCHY ENOUGH.\n\nWell, how about \"Fujitora\"? Now that's cool! That's all there is to it. More importantly, what's wrong with your Ryokugyu?! As it happens, I've already designed his character, and he's super-duper cool! I can't wait to draw him.",
+                        "matches": [
+                            [
+                                25,
+                                41,
+                                "Sakazuki|red"
+                            ],
+                            [
+                                43,
+                                57,
+                                "Kuzan|blue"
+                            ],
+                            [
+                                59,
+                                79,
+                                "Borsalino|yellow"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Marine",
+                        "link_title": "/wiki/Marines",
+                        "is_wikipedia": false,
+                        "start": 28,
+                        "end": 46
+                    },
+                    {
+                        "text": "Fujitora",
+                        "link_title": "/wiki/Issho",
+                        "is_wikipedia": false,
+                        "start": 61,
+                        "end": 79
+                    },
+                    {
+                        "text": "Ryokugyu",
+                        "link_title": "/wiki/Aramaki",
+                        "is_wikipedia": false,
+                        "start": 84,
+                        "end": 104
+                    },
+                    {
+                        "text": "red",
+                        "link_title": "/wiki/Sakazuki",
+                        "is_wikipedia": false,
+                        "start": 25,
+                        "end": 41
+                    },
+                    {
+                        "text": "blue",
+                        "link_title": "/wiki/Kuzan",
+                        "is_wikipedia": false,
+                        "start": 43,
+                        "end": 57
+                    },
+                    {
+                        "text": "yellow",
+                        "link_title": "/wiki/Borsalino",
+                        "is_wikipedia": false,
+                        "start": 59,
+                        "end": 79
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "admiral",
+                        "link_title": "/wiki/admiral",
+                        "is_wikipedia": false,
+                        "start": 47,
+                        "end": 58
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "fujitora",
+                        "ryokugyu",
+                        "sakazuki",
+                        "kuzan",
+                        "borsalino"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "excited",
+                        "funny"
+                    ],
+                    "topics": [
+                        "marine_admirals",
+                        "character_design",
+                        "naming"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda chose the name 'Fujitora' for the admiral to make it catchier and cooler, and explained the struggle of naming with 'Murasakitora' and 'Shitora'."
+            }
+        ],
+        "page": "144",
+        "chapter_number": "728",
+        "page_header": "SBS73 Header 4.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 12,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "[[Roronoa Zoro|Zoro]] and [[Sanji]] are always fighting! I was reading [[One Piece (Manga)|One Piece]] and thought it was odd that Zoro never seems to refer Sanji by his name, so I went back and checked! \u00a0I counted them up from\u00a0[[Volume 5]]\u00a0to\u00a0[[Chapters and Volumes/Volume 61-70#Volume 66|66]]! Here are the results, ranked by frequency!!!\n{| style=\"margin:auto; font-size:0.8em\"\n!width=50%; colspan=3;|How Zoro Has Referred to Sanji\n!width=50%; colspan=3;|How Sanji Has Referred to Zoro\n|-\n|width=10%; align=center|1st<br />(16 times)||\n*{{Nihongo|\"You bastard\"|\u3066\u3081\u30a7|Temee}}\n----\n|rowspan=3|[[File:SBS73 5 Zoro.png|100px]]\n|width=10%; align=center|1st<br />(33 times)||\n*{{Nihongo|\"You bastard\"|\u3066\u3081\u30a7|Temee}}\n----\n|rowspan=3|[[File:SBS73 5 Sanji.png|100px]]\n|-\n|align=center|2nd<br />(11 times)||\n*{{Nihongo|\"You\" ''(Rude)''|\u304a\u524d|Omae}}\n----\n|align=center|2nd<br />(9 times)||\n*{{Nihongo|\"You\" ''(Rude)''|\u304a\u524d|Omae}}\n----\n|-\n|align=center|3rd<br />(6 times)||\n*{{Nihongo|\"Cook\"|\u30b3\u30c3\u30af|Kokku}}\n----\n|align=center|3rd<br />(7 times)||\n*{{Nihongo|\"You\" ''(Slurred)''|\u304a\u3081\u30a7|Omee}}\u3001\n*{{Nihongo|\"Marimo\"|\u30de\u30ea\u30e2|Marimo}}\n----\n|-\n|align=center|4th<br />(3 times)\n|colspan=\"2\"|\n*{{Nihongo|\"Stupid\"|\u30d0\u30ab|Baka}}\n----\n|align=center|5th<br />(6 times)\n|colspan=\"2\"|\n*{{Nihongo|\"Zoro\"|\u30be\u30ed}}\u3001\n*{{Nihongo|\"Shitty bastard\"|\u30af\u30bd\u91ce\u90ce|Kuso Yar\u014d}}\n----\n|-\n|rowspan=2; align=center|5th<br />(2 times)\n|colspan=2; rowspan=2|\n*{{Nihongo|\"Hey\"|\u304a\u3044|Oi}}\u3001\n*{{Nihongo|\"That guy\"|\u3042\u3044\u3064|Aitsu}}\u3001\n*{{Nihongo|\"That bastard\"|\u3042\u306e\u91ce\u90ce|Ano Yar\u014d}}\u3001\n*{{Nihongo|\"You\" ''(slurred)''|\u304a\u3081\u30a7|Omee}}\u3001\n*{{Nihongo|\"Stupid cook\"|\u30d0\u30ab\u30b3\u30c3\u30af|Baka Kokku}}\n----\n|align=center;|7th<br />(4 times)\n|colspan=\"2\"|\n*{{Nihongo|\"That bastard\"|\u3042\u306e\u91ce\u90ce|Ano Yar\u014d}}\n----\n|-\n|align=center|8th<br />(3 times)\n|colspan=2|\n*{{Nihongo|\"This guy\"|\u3053\u3044\u3064|Koitsu}}\n----\n|-\n|rowspan=2; align=center|10th<br />(1 time)\n|rowspan=2; colspan=2|\n*{{Nihongo|\"This guy\"|\u3053\u3044\u3064|Koitsu}}\u3001\n*{{Nihongo|\"Idiot cook\"|\u30a2\u30db\u30b3\u30c3\u30af|Aho Kokku}}\u3001\n*{{Nihongo|\"Stupid bastard\"|\u30d0\u30ab\u91ce\u90ce|Baka Yar\u014d}}\u3001\n*{{Nihongo|\"Shitty cook\"|\u30af\u30bd\u30b3\u30c3\u30af|Kuso Kokku}}\u3001\n*{{Nihongo|\"Amazing eyebrows\"|\u7d20\u6575\u30de\u30e6\u30b2|Suteki Mayuge}}\u3001\n*{{Nihongo|\"That\"|\u3042\u308c|Are}}\u3001\n*{{Nihongo|\"Ero-kappa\"|\u30a8\u30ed\u30ac\u30c3\u30d1|Ero-gappa}}\u3001\n*{{Nihongo|\"Idiot\"|\u30a2\u30db|Aho}}\u3001\n*{{Nihongo|\"Stupid eyebrows\"|\u30d0\u30ab\u30de\u30e6\u30b2|Baka Mayuge}}\u3001\n*{{Nihongo|\"Darts\"|\u30c0\u30fc\u30c4|D\u0101tsu}}\u3001\n*{{Nihongo|\"Darts Eyebrow\"|\u30c0\u30fc\u30c4\u307e\u3086\u3052|D\u0101tsu Mayuge}}\u3001\n*{{Nihongo|\"Swirly swirly\"|\u3050\u308b\u3050\u308b|Guru guru}}\u3001\n*{{Nihongo|\"Hoge-\"|\u300c\u307b\u3052\u30fc\u300d|Hog\u0113}}\u3001\n*{{Nihongo|\"Mr. Nosebleed\"|Mr.\u9f3b\u8840|Misut\u0101 Hanaji}}\u3001\n*{{Nihongo|\"Clumsy cook\"|\u30d8\u30dc\u30b3\u30c3\u30af|Hebo Kokku}}\u3001\n*{{Nihongo|\"Nosebleed-kun\"|\u9f3b\u8840\u304f\u3093|Hanadi-kun}}\n|align=center|9th<br />(2 times)\n|colspan=2|\n*{{Nihongo|\"Hey\"|\u30aa\u30a4|Oi}}\u3001\n*{{Nihongo|\"Stupid\"|\u30d0\u30ab|Baka}}\u3001\n*{{Nihongo|\"Idiot swordsman\"|\u30a2\u30db\u5263\u58eb|Aho Kenshi}}\n----\n|-\n|align=center|10th<br />(1 time)\n|colspan=2|\n*{{Nihongo|\"Pseudo swordsman\"|\u3069\u3063\u304b\u306e\u5263\u58eb|Dokka no Kenshi}}\u3001\n*{{Nihongo|\"Roronoa Zoro\"|\u30ed\u30ed\u30ce\u30a2\u30fb\u30be\u30ed|Roronoa Zoro}}\u3001\n*{{Nihongo|\"Shitty swordsman\"|\u30af\u30bd\u5263\u58eb|Kuso Kenshi}}\u3001\n*{{Nihongo|\"Marimo-kun\"|\u30de\u30ea\u30e2\u541b|Marimo-kun}}\u3001\n*{{Nihongo|\"Stupid swordsman\"|\u30d0\u30ab\u5263\u58eb|Baka Kenshi}}\u3001\n*{{Nihongo|\"Shitty lost child bastard\"|\u30af\u30bd\u8ff7\u5b50\u91ce\u90ce|Kuso Maigo Yar\u014d}}\u3001\n*{{Nihongo|\"That guy\"|\u3042\u3044\u3064|Aitsu}}\u3001\n*{{Nihongo|\"Cactus-kun\"|\u30b5\u30dc\u30c6\u30f3\u541b|Saboten-kun}}\u3001\n*{{Nihongo|\"Stupid musclehead\"|\u4f53\u529b\u30d0\u30ab|Tairyoku Baka}}\u3001\n*{{Nihongo|\"Marimo Head\"|\u307e\u308a\u3082\u30d8\u30c3\u30c9|Marimo Heddo}}\u3001\n*{{Nihongo|\"That idiot\"|\u3042\u306e\u30d0\u30ab|Ano Baka}}\u3001\n*{{Nihongo|\"Marimo Man\"|\u30de\u30ea\u30e2\u30de\u30f3|Marimo Man}}\u3001\n*{{Nihongo|\"Idiot marimo\"|\u30d0\u30ab\u30de\u30ea\u30e2|Baka Marimo}}\u3001\n*{{Nihongo|\"Oaf\"|\u30de\u30cc\u30b1|Manuke}}\u3001\n*{{Nihongo|\"Algae\"|\u85fb|Mo}}\u3001\n*{{Nihongo|\"Marimo Swordsman\"|\u30de\u30ea\u30e2\u5263\u58eb|Marimo Kenshi}}\u3001\n*{{Nihongo|\"Zoro-kun\"|\u30be\u30ed\u541b|Zoro-kun}}\u3001\n*{{Nihongo|\"That\"|\u30a2\u30ec|Are}}\u3001\n*{{Nihongo|\"Lost child marimo\"|\u8ff7\u5b50\u30de\u30ea\u30e2|Maigo Marimo}}\u3001\n*{{Nihongo|\"Greenie\"|\u7dd1|Midori}}\n|}\nIn conclusion, Sanji does in fact refer to Zoro by name, but Zoro does not return the favor! P.N. Little Marron",
+                        "matches": [
+                            [
+                                0,
+                                21,
+                                "Roronoa Zoro|Zoro"
+                            ],
+                            [
+                                26,
+                                35,
+                                "Sanji"
+                            ],
+                            [
+                                71,
+                                102,
+                                "One Piece (Manga)|One Piece"
+                            ],
+                            [
+                                228,
+                                240,
+                                "Volume 5"
+                            ],
+                            [
+                                244,
+                                294,
+                                "Chapters and Volumes/Volume 61-70#Volume 66|66"
+                            ],
+                            [
+                                592,
+                                623,
+                                "File:SBS73 5 Zoro.png|100px"
+                            ],
+                            [
+                                724,
+                                756,
+                                "File:SBS73 5 Sanji.png|100px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "...Okay. Thank you very much, Little Marron! So you counted them all... This was very fun to read! Some of these terms made me wonder when they'd said these things. Indeed, I have trouble imagining Zoro calling him \"Sanji\" by name. Not once, eh? Wow. Well, they might not get along well, but they're both valuable, trustworthy men who have Luffy's back. So let's forgive them their squabbles (laughs).\n\n(See editor's note below)",
+                        "matches": []
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS73 5 Zoro.png",
+                        "size": "100",
+                        "start": 592,
+                        "end": 623
+                    },
+                    {
+                        "file": "SBS73 5 Sanji.png",
+                        "size": "100",
+                        "start": 724,
+                        "end": 756
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Zoro",
+                        "link_title": "/wiki/Roronoa Zoro",
+                        "is_wikipedia": false,
+                        "start": 0,
+                        "end": 21
+                    },
+                    {
+                        "text": "One Piece",
+                        "link_title": "/wiki/One Piece (Manga)",
+                        "is_wikipedia": false,
+                        "start": 71,
+                        "end": 102
+                    },
+                    {
+                        "text": "66",
+                        "link_title": "/wiki/Chapters and Volumes/Volume 61-70#Volume 66",
+                        "is_wikipedia": false,
+                        "start": 244,
+                        "end": 294
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Sanji",
+                        "link_title": "/wiki/Sanji",
+                        "is_wikipedia": false,
+                        "start": 26,
+                        "end": 35
+                    },
+                    {
+                        "text": "Volume 5",
+                        "link_title": "/wiki/Volume 5",
+                        "is_wikipedia": false,
+                        "start": 228,
+                        "end": 240
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "Roronoa Zoro",
+                        "Sanji",
+                        "Luffy"
+                    ],
+                    "places": [],
+                    "topics": [
+                        "character_relationship",
+                        "friendship",
+                        "manga_analysis"
+                    ],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "importance": [
+                        "high"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader counted how Zoro and Sanji refer to each other, Oda finds it amusing and comments on their dynamic, forgiving their squabbles."
+            }
+        ],
+        "page": "162",
+        "chapter_number": "729",
+        "page_header": "SBS73 Header 5.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 13,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "It's nice to make your acquaintance, Oda-sensei. First of all, \"You're not a naughty, big person!\" Secondly, those little [[Dwarves|Tontattas]] are so goddamn cute! I want to know as many names and positions as possible. Please tell me.\n\nIf you don't, I godda rip all yoh clothes! P.N. Beautiful Lady Swordsman Carrying Meat",
+                        "matches": [
+                            [
+                                122,
+                                143,
+                                "Dwarves|Tontattas"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Huh? But I'm already naked... Okay! Here you go! Some of them haven't really been drawn clearly yet, so they only get design sketches.\n[[File:SBS73 6 Dwarf Profiles.png|center|500px]]{{-}}\n\n''Top Row:'' [[Gancho]] (Tonta-Chief); [[Leo]] (Tonta-Troop Leader); [[Bomba]] and [[Rampo]] (Vice-Chiefs); [[Kabu]] and [[Bian]] (Aviation Squad).\n\n''Middle Row:'' [[Flapper]]; [[Bobomba]] (Bomba's younger brother); [[Maujii]]; [[Nubon]]; [[Pellini]].\n\n''Bottom Row:'' [[Grabar]] (Leo's grandmother); [[Inhel]], [[Cotton]], [[Wicca]], [[Baxcon]] and [[Daikon]] (Reconnaissance Squad).",
+                        "matches": [
+                            [
+                                135,
+                                183,
+                                "File:SBS73 6 Dwarf Profiles.png|center|500px"
+                            ],
+                            [
+                                203,
+                                213,
+                                "Gancho"
+                            ],
+                            [
+                                229,
+                                236,
+                                "Leo"
+                            ],
+                            [
+                                259,
+                                268,
+                                "Bomba"
+                            ],
+                            [
+                                273,
+                                282,
+                                "Rampo"
+                            ],
+                            [
+                                298,
+                                306,
+                                "Kabu"
+                            ],
+                            [
+                                311,
+                                319,
+                                "Bian"
+                            ],
+                            [
+                                355,
+                                366,
+                                "Flapper"
+                            ],
+                            [
+                                368,
+                                379,
+                                "Bobomba"
+                            ],
+                            [
+                                407,
+                                417,
+                                "Maujii"
+                            ],
+                            [
+                                419,
+                                428,
+                                "Nubon"
+                            ],
+                            [
+                                430,
+                                441,
+                                "Pellini"
+                            ],
+                            [
+                                460,
+                                470,
+                                "Grabar"
+                            ],
+                            [
+                                492,
+                                501,
+                                "Inhel"
+                            ],
+                            [
+                                503,
+                                513,
+                                "Cotton"
+                            ],
+                            [
+                                515,
+                                524,
+                                "Wicca"
+                            ],
+                            [
+                                526,
+                                536,
+                                "Baxcon"
+                            ],
+                            [
+                                541,
+                                551,
+                                "Daikon"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Not remembering their names won't affect your ability to understand the story. If I don't make a character's name clear enough through the story, it's not an important of a name to begin with. This answer ate a whole page though!\n\nWell, it's time. That's another SBS in the can! See you next volume!\n{{-}}",
+                        "matches": []
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS73 6 Dwarf Profiles.png",
+                        "size": "500",
+                        "start": 135,
+                        "end": 183
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Tontattas",
+                        "link_title": "/wiki/Dwarves",
+                        "is_wikipedia": false,
+                        "start": 122,
+                        "end": 143
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Gancho",
+                        "link_title": "/wiki/Gancho",
+                        "is_wikipedia": false,
+                        "start": 203,
+                        "end": 213
+                    },
+                    {
+                        "text": "Leo",
+                        "link_title": "/wiki/Leo",
+                        "is_wikipedia": false,
+                        "start": 229,
+                        "end": 236
+                    },
+                    {
+                        "text": "Bomba",
+                        "link_title": "/wiki/Bomba",
+                        "is_wikipedia": false,
+                        "start": 259,
+                        "end": 268
+                    },
+                    {
+                        "text": "Rampo",
+                        "link_title": "/wiki/Rampo",
+                        "is_wikipedia": false,
+                        "start": 273,
+                        "end": 282
+                    },
+                    {
+                        "text": "Kabu",
+                        "link_title": "/wiki/Kabu",
+                        "is_wikipedia": false,
+                        "start": 298,
+                        "end": 306
+                    },
+                    {
+                        "text": "Bian",
+                        "link_title": "/wiki/Bian",
+                        "is_wikipedia": false,
+                        "start": 311,
+                        "end": 319
+                    },
+                    {
+                        "text": "Flapper",
+                        "link_title": "/wiki/Flapper",
+                        "is_wikipedia": false,
+                        "start": 355,
+                        "end": 366
+                    },
+                    {
+                        "text": "Bobomba",
+                        "link_title": "/wiki/Bobomba",
+                        "is_wikipedia": false,
+                        "start": 368,
+                        "end": 379
+                    },
+                    {
+                        "text": "Maujii",
+                        "link_title": "/wiki/Maujii",
+                        "is_wikipedia": false,
+                        "start": 407,
+                        "end": 417
+                    },
+                    {
+                        "text": "Nubon",
+                        "link_title": "/wiki/Nubon",
+                        "is_wikipedia": false,
+                        "start": 419,
+                        "end": 428
+                    },
+                    {
+                        "text": "Pellini",
+                        "link_title": "/wiki/Pellini",
+                        "is_wikipedia": false,
+                        "start": 430,
+                        "end": 441
+                    },
+                    {
+                        "text": "Grabar",
+                        "link_title": "/wiki/Grabar",
+                        "is_wikipedia": false,
+                        "start": 460,
+                        "end": 470
+                    },
+                    {
+                        "text": "Inhel",
+                        "link_title": "/wiki/Inhel",
+                        "is_wikipedia": false,
+                        "start": 492,
+                        "end": 501
+                    },
+                    {
+                        "text": "Cotton",
+                        "link_title": "/wiki/Cotton",
+                        "is_wikipedia": false,
+                        "start": 503,
+                        "end": 513
+                    },
+                    {
+                        "text": "Wicca",
+                        "link_title": "/wiki/Wicca",
+                        "is_wikipedia": false,
+                        "start": 515,
+                        "end": 524
+                    },
+                    {
+                        "text": "Baxcon",
+                        "link_title": "/wiki/Baxcon",
+                        "is_wikipedia": false,
+                        "start": 526,
+                        "end": 536
+                    },
+                    {
+                        "text": "Daikon",
+                        "link_title": "/wiki/Daikon",
+                        "is_wikipedia": false,
+                        "start": 541,
+                        "end": 551
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "gancho",
+                        "leo",
+                        "bomba",
+                        "rampo",
+                        "kabu",
+                        "bian",
+                        "flapper",
+                        "bobomba",
+                        "maujii",
+                        "nubon",
+                        "pellini",
+                        "grabar",
+                        "inhel",
+                        "cotton",
+                        "wicca",
+                        "baxcon",
+                        "daikon"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "tontattas",
+                        "character_names"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "Oda provides the names and positions of the Tontattas, emphasizing that not remembering their names won't affect understanding the story."
+            }
+        ],
+        "page": "182",
+        "chapter_number": "730",
+        "page_header": "SBS73 Header 6.png"
+    }
+]

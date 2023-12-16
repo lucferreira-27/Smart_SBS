@@ -1,0 +1,1007 @@
+[
+    {
+        "qa": [
+            {
+                "number": 1,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei, greetings. I'd actually like to begin the SBS now... is that all right? Oh, I won't say all of it. Just half will do... what? I can?! Thank you very much!! Well, I'll say half, and you can do the other half, Oda-sensei. Here we go... START THE SBS!!! P.N. Yusaku",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "You said the whole damn thing!!! I hoped I'd at least get to say \"SBS\", or failing that, the \"BS\", or maybe just \"S\"...",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "playful"
+                    ],
+                    "topics": [],
+                    "importance": "normal",
+                    "isCharacterInsertion": true
+                },
+                "summary": "The reader starts the SBS session but Oda complains about the lengthy introduction."
+            },
+            {
+                "number": 2,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "If [[Camie]] had a friend named \"Ochin\", what would she call them? P.N. Marin",
+                        "matches": [
+                            [
+                                3,
+                                12,
+                                "Camie"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "She calls everyone \"chin\", so it would have to be \"OCHIN-CHIN\". (Dick) Slump... Why do I get these questions to start off the book?! And I got multiple versions of this exact same question from all over the country.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Camie",
+                        "link_title": "/wiki/Camie",
+                        "is_wikipedia": false,
+                        "start": 3,
+                        "end": 12
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "camie"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "frustrated",
+                        "funny"
+                    ],
+                    "topics": [
+                        "nicknames",
+                        "humor"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Camie would call her friend "
+            },
+            {
+                "number": 3,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Is it true that you have Luffy and everyone else (the men, at least) all use the first-person pronoun \"ore\" written in hiragana? It's true, isn't it? Is there a reason for that?? You could have written it in katakana or in kanji, so why choose hiragana?? I've been wondering! P.N. My Call Waiting is Luffy - Narin",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "That is a VERRRRY interesting observation... after 52 volumes... and 11 years. You're correct. Many people choose to write \"ore\" in katakana or kanji to make it visually distinct from the rest of the sentence. But I hold belief in my use of hiragana. It's hard to explain, but I want to write it in hiragana, and I don't want to write it any other way. It's just the spirit of my heart.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "engaged"
+                    ],
+                    "topics": [
+                        "language_choice"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda explains his choice of writing 'ore' in hiragana, despite it usually being written in katakana or kanji for visual distinction, stating it's the spirit of his heart."
+            },
+            {
+                "number": 4,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "AM I PSYCHIC?! P.N. I swear, the cup moved on its own!",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I DON'T CARE!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "irritated"
+                    ],
+                    "topics": [
+                        "psychic_phenomenon"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader claims to have moved a cup with their mind, Oda dismisses the claim."
+            }
+        ],
+        "page": "28",
+        "chapter_number": "503",
+        "page_header": "SBS52 Header 1.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 5,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hey, Odacchi! What's that thing that's been appearing in my kitchen, dressed in all black and using Soru?! A new CP9 member?! I'm terrified that it might start using Geppou... Please do something, Odacchi! P.N. Farewell!! Back from the Clink",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I have a feeling you might be talking about, let's see, from the \"cockroach\" genus, the \"cockroach\" family... Yes, I believe it's called the \"cockroach\"? You DO know that they\ncan fly, right? They use that [[Rokushiki#Geppou|Geppou]]. One of them flew right at me and collided with me, once... It was traumatic. They use the Six Forms, make no mistake. Fight!!\n\n\n[[File:SBS Vol 51 02.png|right|90px]]",
+                        "matches": [
+                            [
+                                206,
+                                233,
+                                "Rokushiki#Geppou|Geppou"
+                            ],
+                            [
+                                363,
+                                400,
+                                "File:SBS Vol 51 02.png|right|90px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS Vol 51 02.png",
+                        "size": "90",
+                        "start": 363,
+                        "end": 400
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Geppou",
+                        "link_title": "/wiki/Rokushiki#Geppou",
+                        "is_wikipedia": false,
+                        "start": 206,
+                        "end": 233
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "n/a"
+                    ],
+                    "places": [
+                        "kitchen"
+                    ],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "soru",
+                        "CP9",
+                        "Geppou",
+                        "Rokushiki"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "D is scared of a creature in their kitchen but Oda reveals it to be a cockroach using a playful tone."
+            },
+            {
+                "number": 6,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Admiral! Admiral! Question for Admiral Oda! At the beginning of Chapter 502, \"The Celestial Dragon Incident\", how is that his turdliness Charlos was picking his nose? Oh, wait! Is that the same as the bon chari? by Kinta",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Aye-aye, that's correct. As it's a bubble, it can be breached. Those bubbles come in handy in terms of creating the town, the rides at the theme park, and even the daily lives of the residents of the [[Sabaody Archipelago|Sabaody Islands]]. I hope you enjoy the sense of fun that brings.\n\n\n[[File:SBS Vol 51 03.png|right|120px]]",
+                        "matches": [
+                            [
+                                200,
+                                239,
+                                "Sabaody Archipelago|Sabaody Islands"
+                            ],
+                            [
+                                290,
+                                328,
+                                "File:SBS Vol 51 03.png|right|120px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS Vol 51 03.png",
+                        "size": "120",
+                        "start": 290,
+                        "end": 328
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Sabaody Islands",
+                        "link_title": "/wiki/Sabaody Archipelago",
+                        "is_wikipedia": false,
+                        "start": 200,
+                        "end": 239
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "charlos"
+                    ],
+                    "places": [
+                        "sabaody_archipelago"
+                    ],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "SBS_fun",
+                        "Sabaody_Islands",
+                        "bubble_breaching"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda confirms that Charlos was picking his nose, and explains the use of bubbles in the Sabaody Islands for creating the town and theme park rides."
+            },
+            {
+                "number": 7,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "On p. 95 of [[Volume 51]], Brook seems to be getting a mouthful from Nami. What did he tell her? P.N. Ari",
+                        "matches": [
+                            [
+                                12,
+                                25,
+                                "Volume 51"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Well spotted. Let's listen in on their conversation.\n\nBrook: \"Excuse me, Nami-san, might I have a quick postprandial gander at the pantaloons?\"\n\nNami: Crack!! \"Hell no!!\"\n\nYou know. The usual.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Volume 51",
+                        "link_title": "/wiki/Volume 51",
+                        "is_wikipedia": false,
+                        "start": 12,
+                        "end": 25
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "brook",
+                        "nami"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "interaction",
+                        "clothing",
+                        "humor"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "Brook asked Nami if he could see her panties, and Nami responded with a loud smack and a 'Hell no!!'"
+            }
+        ],
+        "page": "48",
+        "chapter_number": "504",
+        "page_header": "SBS52 Header 2.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 8,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I'm a Maiko from Kyoto! Is this the place they call Shimoneta (S) Boshuu (B) Shimasu (S)? (Now taking dirty jokes). Oda-sensei, you shouldn't advertise something like that! I thought [[Franky]] was so cute every time he responded to the word \"hentai\" in [[Chapter 494]]! Maybe he should make a \"formation\" with me, sometime. P.N. Maiko-han",
+                        "matches": [
+                            [
+                                183,
+                                193,
+                                "Franky"
+                            ],
+                            [
+                                254,
+                                269,
+                                "Chapter 494"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Wow! Are you a real Maiko? You seem to have changed the meaning of this section, but I don't really mind! And Franky? Oh, yes yes yes. He keeps hearing the word \"hentai\" and thinks they're talking about him. I think he's a little too fixated on his status as a hentai! Please do send me another postcard someday!\n\n(Note: There is a pun in that \"hentai\" is both the sound of the word for \"formation\" and also for \"pervert\", as Franky is so very proud of being.)\n\n\n[[File:SBS Vol 51 06.png|right|70px]]",
+                        "matches": [
+                            [
+                                463,
+                                500,
+                                "File:SBS Vol 51 06.png|right|70px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS Vol 51 06.png",
+                        "size": "70",
+                        "start": 463,
+                        "end": 500
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Franky",
+                        "link_title": "/wiki/Franky",
+                        "is_wikipedia": false,
+                        "start": 183,
+                        "end": 193
+                    },
+                    {
+                        "text": "Chapter 494",
+                        "link_title": "/wiki/Chapter 494",
+                        "is_wikipedia": false,
+                        "start": 254,
+                        "end": 269
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "franky"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "humorous"
+                    ],
+                    "topics": [
+                        "puns",
+                        "perverted",
+                        "jokes"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A real Maiko from Kyoto asks about a 'dirty joke' segment, expressing admiration for Franky's response to the word 'hentai'; Oda responds with amusement and invites further correspondence."
+            },
+            {
+                "number": 9,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei, if [[CP9]] and the [[Shichibukai]] are out, could you put him in the [[Straw Hat Pirates]]? P.N. Nezumi Junior",
+                        "matches": [
+                            [
+                                15,
+                                22,
+                                "CP9"
+                            ],
+                            [
+                                31,
+                                46,
+                                "Shichibukai"
+                            ],
+                            [
+                                81,
+                                102,
+                                "Straw Hat Pirates"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "KNOCK IT OFF!! THAT'S ENOUGH OF THAT!! Hahh, hahh... I'm sorry, I shouldn't be getting out of sorts over a couple of children. As a matter of fact, everyone, I've received a letter of thanks from someone. It feels so wonderful to be thanked. Please see below.\n\n\n[[File:SBS Vol 51 07.png|right|120px]]",
+                        "matches": [
+                            [
+                                262,
+                                300,
+                                "File:SBS Vol 51 07.png|right|120px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS Vol 51 07.png",
+                        "size": "120",
+                        "start": 262,
+                        "end": 300
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "CP9",
+                        "link_title": "/wiki/CP9",
+                        "is_wikipedia": false,
+                        "start": 15,
+                        "end": 22
+                    },
+                    {
+                        "text": "Shichibukai",
+                        "link_title": "/wiki/Shichibukai",
+                        "is_wikipedia": false,
+                        "start": 31,
+                        "end": 46
+                    },
+                    {
+                        "text": "Straw Hat Pirates",
+                        "link_title": "/wiki/Straw Hat Pirates",
+                        "is_wikipedia": false,
+                        "start": 81,
+                        "end": 102
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "nezumi_junior"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "humorous"
+                    ],
+                    "topics": [],
+                    "importance": "low",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda dismisses the idea of adding an enemy to the Straw Hat Pirates and mentions being happy to receive a letter of thanks."
+            },
+            {
+                "number": 10,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "To [[Eiichiro Oda]]-sensei. It's nice to see you again. I am the person who first recommended \"him\" on p. 26 of Volume 41. I have written you this letter to express my deepest gratitude. (rest abridged)",
+                        "matches": [
+                            [
+                                3,
+                                19,
+                                "Eiichiro Oda"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "IT WAS YOUUUUU!! DONGGG!! Hikari Nomura! It was you! YOUR fault... How much irreparable damage has he done to the SBS? Well, don't be thankin' me, you angled dork! The letter gave me all the thanks I needed.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Eiichiro Oda",
+                        "link_title": "/wiki/Eiichiro Oda",
+                        "is_wikipedia": false,
+                        "start": 3,
+                        "end": 19
+                    }
+                ],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "playful",
+                        "funny"
+                    ],
+                    "topics": [
+                        "SBS",
+                        "gratitude"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Eiichiro Oda comically responds to a reader's gratitude for recommending someone, blaming them for trouble and expressing satisfaction with the letter."
+            }
+        ],
+        "page": "68",
+        "chapter_number": "505",
+        "page_header": "SBS52 Header 3.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 11,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "This is Jinbe, the Shichibukai!!\n\n''Shichibukai \"Jinbe\"''\n\nby General Morishi",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "HEY YOUUUU!! I'm not gonna use that! There's no WAY that could be a Shichibukai!!\n\n\n[[File:SBS Vol 51 09.png|right|130px]]",
+                        "matches": [
+                            [
+                                84,
+                                122,
+                                "File:SBS Vol 51 09.png|right|130px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS Vol 51 09.png",
+                        "size": "130",
+                        "start": 84,
+                        "end": 122
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "jinbe"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "surprised"
+                    ],
+                    "topics": [],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "A reader submits a drawing of Jinbe as a Shichibukai, but Oda rejects the idea, stating that Jinbe couldn't possibly be one."
+            },
+            {
+                "number": 12,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Listen up! As I was slipping on my favorite briefs after today's bath, I suddenly realized that I don't have a shadow! When did it get taken away? What kind of mario could my shadow have been put into? Please ask [[Gecko Moria|Moria]] for me. Thanks! by Iwashi-chan",
+                        "matches": [
+                            [
+                                213,
+                                234,
+                                "Gecko Moria|Moria"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Who was it, Moria-san?\n\nMoria: Kishishishishi! Shut the hell up! Tell him yourself!!",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Okay. I found him for you. It's him on the right. He got lectured by Luffy.{{-}}\n\n[[File:SBS52_4_Hand.png|right|100px]]",
+                        "matches": [
+                            [
+                                82,
+                                119,
+                                "File:SBS52_4_Hand.png|right|100px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Moria",
+                        "link_title": "/wiki/Gecko Moria",
+                        "is_wikipedia": false,
+                        "start": 213,
+                        "end": 234
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "gecko_moria",
+                        "luffy"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "silly"
+                    ],
+                    "topics": [
+                        "missing_shadow",
+                        "character_insertion"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "D is asking about his missing shadow and asks Moria for help, Oda finds Moria who dismisses D's request."
+            },
+            {
+                "number": 13,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei, you have assistants like other artists, right? Other manga you can recognize when stuff is obviously done by assistants, but when you look at One Piece from the first volume, it doesn't seem that way! Do you draw everything that appears in the art? P.N. Girl Who Reread it from Volume 1",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Absolutely not, I couldn't draw every single thing. My staff draws the backgrounds for me. When I show them my setting art, they deconstruct it and ensure that everything gets\ndisplayed perfectly. My staff is incredibly talented. Perhaps the difference you're seeing is that I draw 100% of anything \"living or moving\", including mob scenes, animals, smoke, clouds, seas, etc. When you leave the movement up to someone else, it can't help but cause abnormalities in your art. It becomes awkward. This is all just my particular obsession within my work, however.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "informative"
+                    ],
+                    "topics": [
+                        "art_process",
+                        "staff_contribution",
+                        "Oda's_obsession"
+                    ],
+                    "importance": "high",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda has assistants who draw backgrounds, but he personally draws all living or moving things in One Piece to maintain quality and avoid abnormalities."
+            }
+        ],
+        "page": "108",
+        "chapter_number": "507",
+        "page_header": "SBS52 Header 4.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 14,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei, this is my first ever question for you. I sometimes read books about pirate history, and are my guesses at the source of the \"[[Worst Generation|Supernova]]\" Rookies' names correct?\n\nEustass \"Captain\" Kid = 13th century pirate \"[[Wikipedia:Eustace the Monk|Eustace the Monk]]\" + 17th century Scottish pirate \"[[Wikipedia:William Kidd|William Kidd]]\"\n\n\"Red Flag\" X. Drake = 16th century English adventurer and privateer \"[[Wikipedia:Francis Drake|Sir Francis Drake]]\"\n\n\"Magician\" Basil Hawkins = \"[[Wikipedia:John Hawkins (naval commander)|John Hawkins]]\", similar to above + 17th century pirate doctor \" \n[[Wikipedia:Basil Ringrose|Basil Ringrose]]\"\n\nCapone \"Gang\" Bege = \"[[Wikipedia:Thomas Cavendish|Thomas Cavendish]]\", similar to above\n\n\"Surgeon of Death\" Trafalgar Law = 18th century English pirate \"[[Wikipedia:Edward Low|Edward Low]]\"\n\n\"Big Eater\" Jewelry Bonney = 18th century woman pirate \"[[Wikipedia:Anne Bonny|Anne Bonny]]\"\n\n\"Mad Monk\" Urouge = 16th century Arab pirates Barbarossa brothers, \"[[Wikipedia:Oru\u00e7 Reis|Oru\u00e7 Reis]]\"\n\n\"Roar of the Sea\" Scratchmen Apoo = 19th century Chinese pirate \"[[Wikipedia:Chui A-poo|Chui A-poo]]\"\n\nI'm not sure about Killer, but if any of these are wrong, I'm sorry!! P.N. Chiiyan Miiyan SP",
+                        "matches": [
+                            [
+                                138,
+                                168,
+                                "Worst Generation|Supernova"
+                            ],
+                            [
+                                240,
+                                287,
+                                "Wikipedia:Eustace the Monk|Eustace the Monk"
+                            ],
+                            [
+                                321,
+                                360,
+                                "Wikipedia:William Kidd|William Kidd"
+                            ],
+                            [
+                                432,
+                                477,
+                                "Wikipedia:Francis Drake|Sir Francis Drake"
+                            ],
+                            [
+                                508,
+                                565,
+                                "Wikipedia:John Hawkins (naval commander)|John Hawkins"
+                            ],
+                            [
+                                617,
+                                660,
+                                "Wikipedia:Basil Ringrose|Basil Ringrose"
+                            ],
+                            [
+                                685,
+                                732,
+                                "Wikipedia:Thomas Cavendish|Thomas Cavendish"
+                            ],
+                            [
+                                817,
+                                852,
+                                "Wikipedia:Edward Low|Edward Low"
+                            ],
+                            [
+                                911,
+                                946,
+                                "Wikipedia:Anne Bonny|Anne Bonny"
+                            ],
+                            [
+                                1017,
+                                1050,
+                                "Wikipedia:Oru\u00e7 Reis|Oru\u00e7 Reis"
+                            ],
+                            [
+                                1118,
+                                1153,
+                                "Wikipedia:Chui A-poo|Chui A-poo"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Fantastic! That's very helpful of you. It saves me the trouble of explaining. There's only one thing. Capone \"Gang\" Bege comes from the famous American gangster, [[Wikipedia:Al Capone|Al Capone]], and the English privateer, William le Sauvage. Think of \"privateers\" as pirates like the Seven Armed Seas. Also, Killer is just me being lazy. So, that's right, the rookies' names come from actual pirates. Of course, they ARE just names, after all, but I think it probably got the people who like pirates all in a tizzy. This does it for my SBS! On p.&nbsp;148 you'll find the start of our new project!",
+                        "matches": [
+                            [
+                                162,
+                                195,
+                                "Wikipedia:Al Capone|Al Capone"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Hello there, Mayumi-san.\n\nT: Hello. What's the matter?",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "We're doing the SBS today.\n\nT: Oh, I know this one. It's that \"Short Break Section\", right?",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Well, in a way, kind of. But the correct answer is... well, you'll find out. Here are your questions to be answered. (thwump!)\n\nT: Wow. They send in questions like THIS?",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "That's right. These are my readers. Good luck!\n\nPreview for Next Volume's VA SBS\n\nAs in this volume, we'll take turns at each person one at a time, so we're asking especially for questions to the following two! There won't be another chance to do this, so take the time now! Zoro (Kazuya Nakai-san) Nami (Akemi Okamura-san) Let's all ask Zoro-san and Nami-san weird questions! Send it to the SBS address, okay?",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Supernova",
+                        "link_title": "/wiki/Worst Generation",
+                        "is_wikipedia": false,
+                        "start": 138,
+                        "end": 168
+                    },
+                    {
+                        "text": "Eustace the Monk",
+                        "link_title": "/wiki/Wikipedia:Eustace the Monk",
+                        "is_wikipedia": false,
+                        "start": 240,
+                        "end": 287
+                    },
+                    {
+                        "text": "William Kidd",
+                        "link_title": "/wiki/Wikipedia:William Kidd",
+                        "is_wikipedia": false,
+                        "start": 321,
+                        "end": 360
+                    },
+                    {
+                        "text": "Sir Francis Drake",
+                        "link_title": "/wiki/Wikipedia:Francis Drake",
+                        "is_wikipedia": false,
+                        "start": 432,
+                        "end": 477
+                    },
+                    {
+                        "text": "John Hawkins",
+                        "link_title": "/wiki/Wikipedia:John Hawkins (naval commander)",
+                        "is_wikipedia": false,
+                        "start": 508,
+                        "end": 565
+                    },
+                    {
+                        "text": "Basil Ringrose",
+                        "link_title": "/wiki/Wikipedia:Basil Ringrose",
+                        "is_wikipedia": false,
+                        "start": 617,
+                        "end": 660
+                    },
+                    {
+                        "text": "Thomas Cavendish",
+                        "link_title": "/wiki/Wikipedia:Thomas Cavendish",
+                        "is_wikipedia": false,
+                        "start": 685,
+                        "end": 732
+                    },
+                    {
+                        "text": "Edward Low",
+                        "link_title": "/wiki/Wikipedia:Edward Low",
+                        "is_wikipedia": false,
+                        "start": 817,
+                        "end": 852
+                    },
+                    {
+                        "text": "Anne Bonny",
+                        "link_title": "/wiki/Wikipedia:Anne Bonny",
+                        "is_wikipedia": false,
+                        "start": 911,
+                        "end": 946
+                    },
+                    {
+                        "text": "Oru\u00e7 Reis",
+                        "link_title": "/wiki/Wikipedia:Oru\u00e7 Reis",
+                        "is_wikipedia": false,
+                        "start": 1017,
+                        "end": 1050
+                    },
+                    {
+                        "text": "Chui A-poo",
+                        "link_title": "/wiki/Wikipedia:Chui A-poo",
+                        "is_wikipedia": false,
+                        "start": 1118,
+                        "end": 1153
+                    },
+                    {
+                        "text": "Al Capone",
+                        "link_title": "/wiki/Wikipedia:Al Capone",
+                        "is_wikipedia": false,
+                        "start": 162,
+                        "end": 195
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "eustass_kid",
+                        "x_drake",
+                        "basil_hawkins",
+                        "capone_bege",
+                        "trafalgar_law",
+                        "jewelry_bonney",
+                        "urouge",
+                        "scratchmen_apoo",
+                        "killer",
+                        "zoro",
+                        "nami"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "informative",
+                        "light-hearted"
+                    ],
+                    "topics": [
+                        "supernova",
+                        "pirate_history",
+                        "SBS_section",
+                        "rookies_names",
+                        "american_gangster",
+                        "names_origin",
+                        "character_sources",
+                        "next_volume_preview",
+                        "VA_SBS"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "The names of the Worst Generation Rookies are based on real pirates, except for Capone 'Gang' Bege and Killer which is a lazy choice by Oda."
+            },
+            {
+                "number": 15,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Ncha! Sorry Odacchi, I'm letting Mayumi Tanaka-san start this SBS. Smooch! Take it away! P.N. Rubosu\n\nT: Time to start the Short Break Section!!",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I already told you, Mayumi-san! This corner is... that kind of corner, I guess.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "mayumi_tanaka"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "playful",
+                        "light-hearted"
+                    ],
+                    "topics": [
+                        "SBS_start",
+                        "Mayumi_Tanaka"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "Mayumi Tanaka-san is introduced to start the SBS, but Oda mentions it's a 'short break section' not suitable for her."
+            },
+            {
+                "number": 23,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Have you ever gone to a party or a banquet with the acting cast of the Straw Hat Pirates? from Kanna Kawato\n\nT: My One Piece colleagues come to the training room of my house to have takoyaki festivals. In fact, the seiyu for Usopp fell asleep in the napping futon for little kids and caused quite a ruckus.",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "WHAT IN THE WORLD ARE YOU DOING?! Enough!! Look forward to more voice seiyu SBS in the next volume!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "usopp"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "party",
+                        "seiyu",
+                        "voice_acting"
+                    ],
+                    "importance": "hight",
+                    "isCharacterInsertion": true
+                },
+                "summary": "A reader asks if the author has attended a party with the Straw Hat Pirates' acting cast; Oda confirms having takoyaki festivals with the voice actors, sharing a funny incident."
+            }
+        ],
+        "page": "128",
+        "chapter_number": "508",
+        "page_header": "SBS52 Header 5.png"
+    }
+]

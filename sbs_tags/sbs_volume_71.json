@@ -1,0 +1,1171 @@
+[
+    {
+        "qa": [
+            {
+                "number": 0,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "N/A",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Hey everyone! I'd like to give an energetic welcome in this volume too - \"LET'S BEGIN THE SBS!!\"",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "energetic"
+                    ],
+                    "topics": [
+                        "SBS",
+                        "welcome"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda starts the Q&A session with an energetic welcome."
+            },
+            {
+                "number": 1,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Fix that. It's SBS''-san'' -P.N. Kimurin",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Oh!! S...sorry... Let's begin... the SBS-san...{{-}}\n\n[[File:SBS71 1 Doncock.png|thumb|right|210px|Empress Doncock - has strength in the same league as that of Aokiji, Kizaru, Akainu and Sengoku.]]",
+                        "matches": [
+                            [
+                                54,
+                                197,
+                                "File:SBS71 1 Doncock.png|thumb|right|210px|Empress Doncock - has strength in the same league as that of Aokiji, Kizaru, Akainu and Sengoku."
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS71 1 Doncock.png",
+                        "size": "210",
+                        "start": 54,
+                        "end": 197
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "empress_doncock",
+                        "aokiji",
+                        "kizaru",
+                        "akainu",
+                        "sengoku"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "apologetic"
+                    ],
+                    "topics": [],
+                    "importance": [
+                        "low"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda addresses a reader's correction for the SBS term, but then proceeds to introduce the SBS corner with a statement about a powerful character."
+            },
+            {
+                "number": 2,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Question. Odacchi, I have a question. Since when in his life did Franky become a pervert? (^\u25bd^) And is the new Shichibukai this guy? \u2192 P.N. Minced Sausage",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Um, no?? Oh, and Franky was a pervert since his previous life.{{-}}\n\n[[File:SBS71 1 Candre.png|right|120px]]",
+                        "matches": [
+                            [
+                                69,
+                                108,
+                                "File:SBS71 1 Candre.png|right|120px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS71 1 Candre.png",
+                        "size": "120",
+                        "start": 69,
+                        "end": 108
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "franky"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "franky",
+                        "shichibukai",
+                        "pervert"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Franky was a pervert since his previous life, and the new Shichibukai is not the person mentioned by the reader."
+            },
+            {
+                "number": 3,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchi, I found him!!! It was unexpectedly easy. I'm telling you, it's that guy, that guy [[Candre]]! Volume 57, page 108, panel 3, second from the left, it has to be!! If it's wrong, then there's something wrong with your head, Odacchi. Right? It has to be!!!! P.N. Teagwecheikei",
+                        "matches": [
+                            [
+                                91,
+                                101,
+                                "Candre"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yup, there he is. Last volume I asked whoever was bored to find this guy, Candre. That's him.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Candre",
+                        "link_title": "/wiki/Candre",
+                        "is_wikipedia": false,
+                        "start": 91,
+                        "end": 101
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "candre"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "fan_theory"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader finds the requested character, Candre, in Volume 57, page 108, panel 3, second from the left, and Oda confirms the find."
+            },
+            {
+                "number": 4,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello! This is regarding the twin brothers \"[[Andre]] and [[Candre]]\" mentioned in the [[SBS Volume 70|Volume 70 SBS]]. Is this referencing [[Wikipedia:Y\u014dsui Inoue|Inoue Y\u014dsui-san]] from around his debut over 40 years ago? His hair was also an afro at around that time too. P.N. Used to be a guitar-kid",
+                        "matches": [
+                            [
+                                44,
+                                53,
+                                "Andre"
+                            ],
+                            [
+                                58,
+                                68,
+                                "Candre"
+                            ],
+                            [
+                                87,
+                                118,
+                                "SBS Volume 70|Volume 70 SBS"
+                            ],
+                            [
+                                140,
+                                181,
+                                "Wikipedia:Y\u014dsui Inoue|Inoue Y\u014dsui-san"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yep, that's it. Although I got the name from that, I actually know nothing about \"Andre Candre\". I just know that name from television. You must know it because you're 56 years old, right. By the way, the reason I gave him the name Andre is because I thought he looked like the pro wrestler called [[Wikipedia:Andr\u00e9 the Giant|Andr\u00e9 the Giant]]. Yeah... there wasn't much thought behind it (*laugh*).{{-}}",
+                        "matches": [
+                            [
+                                298,
+                                343,
+                                "Wikipedia:Andr\u00e9 the Giant|Andr\u00e9 the Giant"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Volume 70 SBS",
+                        "link_title": "/wiki/SBS Volume 70",
+                        "is_wikipedia": false,
+                        "start": 87,
+                        "end": 118
+                    },
+                    {
+                        "text": "Inoue Y\u014dsui-san",
+                        "link_title": "/wiki/Wikipedia:Y\u014dsui Inoue",
+                        "is_wikipedia": false,
+                        "start": 140,
+                        "end": 181
+                    },
+                    {
+                        "text": "Andr\u00e9 the Giant",
+                        "link_title": "/wiki/Wikipedia:Andr\u00e9 the Giant",
+                        "is_wikipedia": false,
+                        "start": 298,
+                        "end": 343
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Andre",
+                        "link_title": "/wiki/Andre",
+                        "is_wikipedia": false,
+                        "start": 44,
+                        "end": 53
+                    },
+                    {
+                        "text": "Candre",
+                        "link_title": "/wiki/Candre",
+                        "is_wikipedia": false,
+                        "start": 58,
+                        "end": 68
+                    }
+                ],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "character_origin",
+                        "SBS_volume_70"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda confirms that the twin brothers Andre and Candre are references to Inoue Y\u014dsui and Andr\u00e9 the Giant, but admits not knowing much about them."
+            }
+        ],
+        "page": "26",
+        "chapter_number": "701",
+        "page_header": "SBS71 Header 1.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 5,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Regarding [[Chapter 700]]... Oops...! Good evening, Odacchi! Regarding Chapter 700, while Luffy and the others are on the way to Dress<s>rosa</s>roba, we can see animals that look like sea rabbits. What does Law like to eat other than [[Wikipedia:Onigiri|Onigiri]]? P.N. Hasumomo",
+                        "matches": [
+                            [
+                                10,
+                                25,
+                                "Chapter 700"
+                            ],
+                            [
+                                235,
+                                264,
+                                "Wikipedia:Onigiri|Onigiri"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Well, ummm, grilled fish! Alright, next question.\n\n[[File:SBS71 2 Dressroba.png|right|200px]]",
+                        "matches": [
+                            [
+                                51,
+                                93,
+                                "File:SBS71 2 Dressroba.png|right|200px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS71 2 Dressroba.png",
+                        "size": "200",
+                        "start": 51,
+                        "end": 93
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Onigiri",
+                        "link_title": "/wiki/Wikipedia:Onigiri",
+                        "is_wikipedia": false,
+                        "start": 235,
+                        "end": 264
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Chapter 700",
+                        "link_title": "/wiki/Chapter 700",
+                        "is_wikipedia": false,
+                        "start": 10,
+                        "end": 25
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "luffy",
+                        "law"
+                    ],
+                    "places": [
+                        "dressrosa"
+                    ],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "food"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Law likes to eat grilled fish and the animals seen on the way to Dressrosa resemble sea rabbits."
+            },
+            {
+                "number": 6,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Question. Robin always says frightening things in front of everyone. But in her own thoughts, she oftentimes thinks of fun stuff like \"Cats\" or \"Dress-roba\" ''(T.N. - Dress-roba is a pun on Dressrosa, meaning \"Dress-Old Woman\")''. Why doesn't Robin talk about these thoughts with her crew to make them laugh? I love how Robin is like this. P.N. Y.O\n\n[[File:SBS71 2 Franky-in-Chopper.png|right|150px]]",
+                        "matches": [
+                            [
+                                350,
+                                400,
+                                "File:SBS71 2 Franky-in-Chopper.png|right|150px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I see, that's true. From what I think, from the [[Punk Hazard Arc]] when she told [[Franky]] (in [[Tony Tony Chopper|Chopper]]'s body) not to ever make such a strange face in Chopper's body again, Robin probably likes cute things. But even though she likes cute things, she's a bit dark/creepy herself, so if she tries to put these cute thoughts to words there is a chance it may come out as scary/ominous. That's the kind of woman that Robin is.{{-}}\n\n[[File:SBS71 2 Straw Hats Haki Users.png|thumb|right|300px|Luffy (Haoshoku Haki), Zoro (Busoshoku Haki), Sanji (Kenbunshoku Haki)]]",
+                        "matches": [
+                            [
+                                48,
+                                67,
+                                "Punk Hazard Arc"
+                            ],
+                            [
+                                82,
+                                92,
+                                "Franky"
+                            ],
+                            [
+                                97,
+                                126,
+                                "Tony Tony Chopper|Chopper"
+                            ],
+                            [
+                                453,
+                                584,
+                                "File:SBS71 2 Straw Hats Haki Users.png|thumb|right|300px|Luffy (Haoshoku Haki), Zoro (Busoshoku Haki), Sanji (Kenbunshoku Haki)"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS71 2 Franky-in-Chopper.png",
+                        "size": "150",
+                        "start": 350,
+                        "end": 400
+                    },
+                    {
+                        "file": "SBS71 2 Straw Hats Haki Users.png",
+                        "size": "300",
+                        "start": 453,
+                        "end": 584
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Chopper",
+                        "link_title": "/wiki/Tony Tony Chopper",
+                        "is_wikipedia": false,
+                        "start": 97,
+                        "end": 126
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Punk Hazard Arc",
+                        "link_title": "/wiki/Punk Hazard Arc",
+                        "is_wikipedia": false,
+                        "start": 48,
+                        "end": 67
+                    },
+                    {
+                        "text": "Franky",
+                        "link_title": "/wiki/Franky",
+                        "is_wikipedia": false,
+                        "start": 82,
+                        "end": 92
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "robin",
+                        "franky",
+                        "tony_tony_chopper"
+                    ],
+                    "places": [
+                        "dressrosa",
+                        "punk_hazard"
+                    ],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "personality",
+                        "crew_interaction"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda explains that Robin's dark nature may cause her innocent thoughts to come off as scary, so she keeps them to herself."
+            },
+            {
+                "number": 7,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "This might be out of nowhere, but who in the [[Straw Hat Pirates]] can use [[Haki]]? It's bothering me and I can't activate my \"Love Hurricane\".",
+                        "matches": [
+                            [
+                                45,
+                                66,
+                                "Straw Hat Pirates"
+                            ],
+                            [
+                                75,
+                                83,
+                                "Haki"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "It's these three. Their specialty haki color is in the parentheses.{{-}}",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Straw Hat Pirates",
+                        "link_title": "/wiki/Straw Hat Pirates",
+                        "is_wikipedia": false,
+                        "start": 45,
+                        "end": 66
+                    },
+                    {
+                        "text": "Haki",
+                        "link_title": "/wiki/Haki",
+                        "is_wikipedia": false,
+                        "start": 75,
+                        "end": 83
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "straw_hat_pirates"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "bothered"
+                    ],
+                    "topics": [
+                        "haki"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Three members of the Straw Hat Pirates can use Haki, each with their own specialty haki color."
+            }
+        ],
+        "page": "62",
+        "chapter_number": "703",
+        "page_header": "SBS71 Header 2.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 8,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "In [[Chapter 701]], [[Trafalgar D. Water Law|Law]] claimed that one of his crew drew the map that he shared!! Is that crew member by any chance that [[Bepo]] guy!!? I ask this because at the bottom right of the map you can see a blurred paw print. It's him, right? P.N. TakaAki\u30fbT",
+                        "matches": [
+                            [
+                                3,
+                                18,
+                                "Chapter 701"
+                            ],
+                            [
+                                20,
+                                50,
+                                "Trafalgar D. Water Law|Law"
+                            ],
+                            [
+                                149,
+                                157,
+                                "Bepo"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes it is, of course. Bepo is the navigator of the [[Heart Pirates]] after all. He drew that map.{{-}}\n\n[[File:SBS71 3 Law Onigiri.png|right|150px]]",
+                        "matches": [
+                            [
+                                51,
+                                68,
+                                "Heart Pirates"
+                            ],
+                            [
+                                104,
+                                148,
+                                "File:SBS71 3 Law Onigiri.png|right|150px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS71 3 Law Onigiri.png",
+                        "size": "150",
+                        "start": 104,
+                        "end": 148
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Law",
+                        "link_title": "/wiki/Trafalgar D. Water Law",
+                        "is_wikipedia": false,
+                        "start": 20,
+                        "end": 50
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Chapter 701",
+                        "link_title": "/wiki/Chapter 701",
+                        "is_wikipedia": false,
+                        "start": 3,
+                        "end": 18
+                    },
+                    {
+                        "text": "Bepo",
+                        "link_title": "/wiki/Bepo",
+                        "is_wikipedia": false,
+                        "start": 149,
+                        "end": 157
+                    },
+                    {
+                        "text": "Heart Pirates",
+                        "link_title": "/wiki/Heart Pirates",
+                        "is_wikipedia": false,
+                        "start": 51,
+                        "end": 68
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "trafalgar_d_water_law",
+                        "bepo"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "informative"
+                    ],
+                    "topics": [
+                        "map_drawing",
+                        "heart_pirates",
+                        "crew_member",
+                        "navigator"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Law's crew member who drew the map in Chapter 701 is indeed Bepo, the navigator of the Heart Pirates, confirmed by Oda."
+            },
+            {
+                "number": 9,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchi! In Volume 70, [[Chapter 700]], [[Sanji]] made onigiri for Law, who doesn't like bread. What was inside those onigiri? P.N. Natsuki",
+                        "matches": [
+                            [
+                                23,
+                                38,
+                                "Chapter 700"
+                            ],
+                            [
+                                40,
+                                49,
+                                "Sanji"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Well, the first onigiri had Tuna-mayonnaise inside. The second onigiri had okaka inside. And the last onigiri had super sour umeboshi inside. By the way, Law hates umeboshi. A few minutes later, he and Sanji got into an argument because of that.\n\n[[File:SBS71 3 Law Tattoos.png|right|250px]]",
+                        "matches": [
+                            [
+                                247,
+                                291,
+                                "File:SBS71 3 Law Tattoos.png|right|250px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS71 3 Law Tattoos.png",
+                        "size": "250",
+                        "start": 247,
+                        "end": 291
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Chapter 700",
+                        "link_title": "/wiki/Chapter 700",
+                        "is_wikipedia": false,
+                        "start": 23,
+                        "end": 38
+                    },
+                    {
+                        "text": "Sanji",
+                        "link_title": "/wiki/Sanji",
+                        "is_wikipedia": false,
+                        "start": 40,
+                        "end": 49
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "sanji",
+                        "law"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "food",
+                        "relationship"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Sanji made onigiri with tuna-mayonnaise, okaka, and super sour umeboshi inside, causing an argument with Law who hates umeboshi."
+            },
+            {
+                "number": 10,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "What's the name of Law's sword? How many tattoos does Law-san have? Odacchi... please draw all of Law's tattoos!!!! (\u2267\u25a1\u2266)",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "OK, got it! Here are the drawing of Law's tattoos taken from my notes. \u2192 He has heart themed tattoos, but I wonder if there is a reason for that? The name of his sword is {{Nihongo|[[Kikoku]]|\u9b3c\u54ed|Kikoku|literally meaning \"Demon's Cry\"}}. It has no rank. It is a \"cursed sword\".{{-}}",
+                        "matches": [
+                            [
+                                181,
+                                191,
+                                "Kikoku"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Kikoku",
+                        "link_title": "/wiki/Kikoku",
+                        "is_wikipedia": false,
+                        "start": 181,
+                        "end": 191
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "trafalgar_law"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "excited"
+                    ],
+                    "topics": [
+                        "swords",
+                        "tattoos",
+                        "cursed_sword"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Law's sword is called Kikoku, and he has heart-themed tattoos, Oda provided drawings in SBS."
+            }
+        ],
+        "page": "82",
+        "chapter_number": "704",
+        "page_header": "SBS71 Header 3.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 11,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Is it possible to make [[Wikipedia:Kakigori|kakig\u014dri]] out of [[Kuzan|Aokiji]]? P.N. Baka-Inu",
+                        "matches": [
+                            [
+                                23,
+                                54,
+                                "Wikipedia:Kakigori|kakig\u014dri"
+                            ],
+                            [
+                                62,
+                                78,
+                                "Kuzan|Aokiji"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes, it's possible. After-all, he's ice. But, eating it might be a different story. He might return to Aokiji in your stomach and take control of you.{{-}}\n\n[[File:SBS71 4 Whitebeard.png|right|150px]]",
+                        "matches": [
+                            [
+                                157,
+                                200,
+                                "File:SBS71 4 Whitebeard.png|right|150px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS71 4 Whitebeard.png",
+                        "size": "150",
+                        "start": 157,
+                        "end": 200
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "kakig\u014dri",
+                        "link_title": "/wiki/Wikipedia:Kakigori",
+                        "is_wikipedia": false,
+                        "start": 23,
+                        "end": 54
+                    },
+                    {
+                        "text": "Aokiji",
+                        "link_title": "/wiki/Kuzan",
+                        "is_wikipedia": false,
+                        "start": 62,
+                        "end": 78
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "aokiji"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "devil_fruit",
+                        "food"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader asks if it's possible to make kakig\u014dri out of Aokiji, and Oda confirms it's possible but eating it might not be a good idea."
+            },
+            {
+                "number": 12,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "When my father, who loves [[Edward Newgate|Whitebeard]], comes home drunk every night and gets scolded by mother he responds \"How could drinking something you love be bad for your body, gurarararara?\" But, the next morning he's on his knees bowing down to my mother. How can my father be cooler? P.N. Biro & Akke",
+                        "matches": [
+                            [
+                                26,
+                                55,
+                                "Edward Newgate|Whitebeard"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Hmmm, it was going well for him up to a certain point, but the next morning is pretty disgraceful. How about your mother also becomes Whitebeard and says \"I will love my husband, even though he is an idiot.\" and forgives him?{{-}}\n\n[[File:SBS71 4 Lap Pillow.png|right|120px]]",
+                        "matches": [
+                            [
+                                232,
+                                275,
+                                "File:SBS71 4 Lap Pillow.png|right|120px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS71 4 Lap Pillow.png",
+                        "size": "120",
+                        "start": 232,
+                        "end": 275
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Whitebeard",
+                        "link_title": "/wiki/Edward Newgate",
+                        "is_wikipedia": false,
+                        "start": 26,
+                        "end": 55
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "edward_newgate",
+                        "father"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "family"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda suggests that the reader's mother should also adopt the attitude of forgiving and accepting the father's behavior, akin to a character from One Piece."
+            },
+            {
+                "number": 13,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Frequently, my cat will suddenly jump on my lap and it is very cute. My father (age 59) also frequently will suddenly place his head on my mother's lap and want her to clean his ears but is disliked for this. WHAT URGES THESE TWO TO USE PEOPLE'S LAPS AS PILLOWS? P.N. Neco Robin ''(TN The \"Ni\" of Nico Robin is replaced with the kanji for sleep)''",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "It's kind of sad that these questions at the expense of fathers are continuing on like this. Well, I guess using people's laps as a pillow has its own appeal. It's the same calling that beckons the mountain climber to the mountain.{{-}}",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "sad"
+                    ],
+                    "topics": [
+                        "family",
+                        "behavior"
+                    ],
+                    "importance": "hight",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda comments on the quirky behavior, comparing it to the appeal of using people's laps as pillows and the calling that beckons a mountain climber to the mountain."
+            }
+        ],
+        "page": "102",
+        "chapter_number": "705",
+        "page_header": "SBS71 Header 4.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 14,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "ODACCHI, DID YOU EAT TOILET PAPER THIS MORNING? P.N. Haribo Monet",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Ah!!! There was toilet paper around my mouth, sorry about that. ''(TN: Vergo reference)''{{-}}",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader jokes about Oda eating toilet paper, to which Oda apologizes with a reference to the One Piece character Vergo."
+            },
+            {
+                "number": 15,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I thought of birthdays for Caesar and Monet! Caesar is April 9 and Monet is August 27! Is that OK? P.N. Nakamura Ida ''(TN: Both are puns. 4\u6708 is April. 9\u65e5 is Ninth. 4\u67089\u65e5 can be read as \"Shinokuni\" using Japanese onyomi. Same with Monet. With a bit of effort 8\u670827\u65e5 can be read as \"Become a Harpy\".)''\n[[File:SBS71 5 CC Monet Birthdays.png|left|300px]]{{-}}",
+                        "matches": [
+                            [
+                                300,
+                                350,
+                                "File:SBS71 5 CC Monet Birthdays.png|left|300px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yeah, sure. *Hojihoji* (TN: hojihoji is an onomatopoeia for picking your nose. Probably used in this case to signify that he couldn't care less.)\n\n[[File:SBS71 5 Absa.png|right|300px]]",
+                        "matches": [
+                            [
+                                147,
+                                184,
+                                "File:SBS71 5 Absa.png|right|300px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS71 5 CC Monet Birthdays.png",
+                        "size": "300",
+                        "start": 300,
+                        "end": 350
+                    },
+                    {
+                        "file": "SBS71 5 Absa.png",
+                        "size": "300",
+                        "start": 147,
+                        "end": 184
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "caesar_clown",
+                        "monet"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "indifferent",
+                        "joke"
+                    ],
+                    "topics": [
+                        "birthdays",
+                        "puns"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda approves of the suggested birthdays for Caesar and Monet, making puns with Japanese onyomi, and responds with playful indifference."
+            },
+            {
+                "number": 16,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "In [[Chapter 700]] there is a reporter named \"Absa\", that's referring to [[Absalom]] right? Right? And if you look closely, there's even the pirate ship. What other kinds of eroti... amazing articles... What other kinds of eroti... I mean, moving articles... What other kinds of erotic articles does he write? P.N. Makino\u2661LOVE",
+                        "matches": [
+                            [
+                                3,
+                                18,
+                                "Chapter 700"
+                            ],
+                            [
+                                73,
+                                84,
+                                "Absalom"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes, that is Absalom. How nostalgic. In fact, he was also at the Battle of Marineford. After the battle, [[Donquixote Doflamingo|Doflamingo]] stated that something strange happened to [[Gecko Moria|Moria]]. I wonder why? [[Perona]] is also worried. Did Moria really die? The only thing that I can reveal right now is Absalom, going by the name \"Absa\", has been reporting a lot of big news using his [[Suke Suke no Mi]]; this is true. He can take many interesting photographs with that ability. His articles are very popular right now.\n\nAlright, with that I'm ending the EroBS. See you next volume!!{{-}}",
+                        "matches": [
+                            [
+                                105,
+                                141,
+                                "Donquixote Doflamingo|Doflamingo"
+                            ],
+                            [
+                                184,
+                                205,
+                                "Gecko Moria|Moria"
+                            ],
+                            [
+                                221,
+                                231,
+                                "Perona"
+                            ],
+                            [
+                                399,
+                                418,
+                                "Suke Suke no Mi"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Doflamingo",
+                        "link_title": "/wiki/Donquixote Doflamingo",
+                        "is_wikipedia": false,
+                        "start": 105,
+                        "end": 141
+                    },
+                    {
+                        "text": "Moria",
+                        "link_title": "/wiki/Gecko Moria",
+                        "is_wikipedia": false,
+                        "start": 184,
+                        "end": 205
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Chapter 700",
+                        "link_title": "/wiki/Chapter 700",
+                        "is_wikipedia": false,
+                        "start": 3,
+                        "end": 18
+                    },
+                    {
+                        "text": "Absalom",
+                        "link_title": "/wiki/Absalom",
+                        "is_wikipedia": false,
+                        "start": 73,
+                        "end": 84
+                    },
+                    {
+                        "text": "Perona",
+                        "link_title": "/wiki/Perona",
+                        "is_wikipedia": false,
+                        "start": 221,
+                        "end": 231
+                    },
+                    {
+                        "text": "Suke Suke no Mi",
+                        "link_title": "/wiki/Suke Suke no Mi",
+                        "is_wikipedia": false,
+                        "start": 399,
+                        "end": 418
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "absalom",
+                        "donquixote_doflamingo",
+                        "gecko_moria",
+                        "perona"
+                    ],
+                    "places": [],
+                    "topics": [
+                        "absalom's reporting",
+                        "Suke Suke no Mi",
+                        "Battle of Marineford",
+                        "Gecko Moria's fate"
+                    ],
+                    "emotions": [
+                        "nostalgic",
+                        "funny"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Absalom is indeed referred to as 'Absa' in Chapter 700 and has been reporting using his Suke Suke no Mi, taking popular and interesting photographs."
+            }
+        ],
+        "page": "136",
+        "chapter_number": "707",
+        "page_header": "SBS71 Header 5.png"
+    }
+]

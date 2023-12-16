@@ -1,0 +1,1507 @@
+[
+    {
+        "qa": [
+            {
+                "number": 1,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "SBS is starting! P.N. Normal is the best",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "<span style=\"font-size:1.5em\">Whoa!! Normal!! So normal!!</span> It really caught me off guard",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "surprised"
+                    ],
+                    "topics": [
+                        "SBS",
+                        "normal"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda is surprised by a reader's pen name 'Normal' and remarks on it in a dramatic way."
+            },
+            {
+                "number": 2,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchi! Don't be afraid to put in more breast bands! P.N. Takataka",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Eh~! It will be back! Wahahahahaha!! Stop joking around! Wahahahahaha! Wahahahahahahaha\u2026Huh? The sound of police sirens\u2026\n\n[[File:SBS94 Luffy vs. Linlin.png|thumb|200px]]",
+                        "matches": [
+                            [
+                                122,
+                                169,
+                                "File:SBS94 Luffy vs. Linlin.png|thumb|200px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS94 Luffy vs. Linlin.png",
+                        "size": "200",
+                        "start": 122,
+                        "end": 169
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader encourages Oda to include more breast bands, prompting a joking response from Oda about the sound of police sirens."
+            },
+            {
+                "number": 3,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda sensei, I have an important report for you. On page 23 of [[Volume 87]], [[Sanji]] kicked [[Charlotte Linlin|Big Mom]], right? What happened to the Sanji that would never hit a woman? P.N. Momotaro Hunter\n\n[[File:SBS94 Linlin and Reiju.png|thumb|200px]]",
+                        "matches": [
+                            [
+                                62,
+                                75,
+                                "Volume 87"
+                            ],
+                            [
+                                77,
+                                86,
+                                "Sanji"
+                            ],
+                            [
+                                94,
+                                122,
+                                "Charlotte Linlin|Big Mom"
+                            ],
+                            [
+                                210,
+                                257,
+                                "File:SBS94 Linlin and Reiju.png|thumb|200px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Okay. I received a couple other letters regarding this, but that's not what happened! Big Mom attempted to punch [[Vinsmoke Reiju|Reiju]], so [[Monkey D. Luffy|Luffy]] and Sanji stopped her. That's what happened here in this scene. However, can they stopped Big Mom's punch by merely catching it?! It's impossible!! So in order to cancel out the power of her punch, he blocked it with his kick!! Which means he's just protecting themselves, it's not a violent action toward a woman!! Sanji's policy still stands!!{{-}}",
+                        "matches": [
+                            [
+                                113,
+                                137,
+                                "Vinsmoke Reiju|Reiju"
+                            ],
+                            [
+                                142,
+                                167,
+                                "Monkey D. Luffy|Luffy"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS94 Linlin and Reiju.png",
+                        "size": "200",
+                        "start": 210,
+                        "end": 257
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Big Mom",
+                        "link_title": "/wiki/Charlotte Linlin",
+                        "is_wikipedia": false,
+                        "start": 94,
+                        "end": 122
+                    },
+                    {
+                        "text": "Reiju",
+                        "link_title": "/wiki/Vinsmoke Reiju",
+                        "is_wikipedia": false,
+                        "start": 113,
+                        "end": 137
+                    },
+                    {
+                        "text": "Luffy",
+                        "link_title": "/wiki/Monkey D. Luffy",
+                        "is_wikipedia": false,
+                        "start": 142,
+                        "end": 167
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Volume 87",
+                        "link_title": "/wiki/Volume 87",
+                        "is_wikipedia": false,
+                        "start": 62,
+                        "end": 75
+                    },
+                    {
+                        "text": "Sanji",
+                        "link_title": "/wiki/Sanji",
+                        "is_wikipedia": false,
+                        "start": 77,
+                        "end": 86
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "sanji",
+                        "big_mom",
+                        "vinsmoke_reiju",
+                        "monkey_d_luffy"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "clarifying"
+                    ],
+                    "topics": [
+                        "sanji's_policy",
+                        "big_mom",
+                        "vinsmoke_family",
+                        "luffy",
+                        "violence_against_women",
+                        "power_level"
+                    ],
+                    "importance": [
+                        "high"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda clarifies that Sanji did not kick Big Mom but blocked her punch to protect himself and others, maintaining his policy of not hitting women."
+            },
+            {
+                "number": 4,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I would just like to tell something out to Sanji-san. Stealth doesn't matter if it's already a mixed bath!! P.N. Toshiy\n\n[[File:SBS94 Sanji.png|thumb|200px]]\nSanji: Toshiy-chan, while in mixed baths, there is no reason to look at a lady's naked body. However, if I become invisible...",
+                        "matches": [
+                            [
+                                121,
+                                157,
+                                "File:SBS94 Sanji.png|thumb|200px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "<span style=\"font-size:1.5em\">STOP IT, YOU'VE SAID ENOUGH, SANJI!!</span>\nYoung readers, please know that voyeurism is a crime!! Back to the SBS!{{-}}",
+                        "matches": []
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS94 Sanji.png",
+                        "size": "200",
+                        "start": 121,
+                        "end": 157
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "sanji"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "personal_life"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "Reader Toshiy tells Sanji about stealth not being necessary in a mixed bath, Sanji responds with a comment, and Oda warns against voyeurism."
+            }
+        ],
+        "page": "24",
+        "chapter_number": "943",
+        "page_header": "SBS94 Header 1.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 5,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "The names for all admirals follow the format of \"color + animal\", right? So I thought there's a organization in the Marine Headquarter, where they'll discuss and decide the names for each admiral. Could it be that the head of that organization is Vice Admiral [[Nazu Ketagari]], who has a hobby of doing fortune telling based on names? That must be it, right...?! P.N. Iroha",
+                        "matches": [
+                            [
+                                260,
+                                277,
+                                "Nazu Ketagari"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "<span style=\"font-size:1.5em\">O... OF COURSE!!</span> You're very knowledgeable. And not just the admirals, he named every member of the Marine who has a epithet!!\n\n[[File:SBS94 Scabbards.png|thumb|300px]]",
+                        "matches": [
+                            [
+                                165,
+                                205,
+                                "File:SBS94 Scabbards.png|thumb|300px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS94 Scabbards.png",
+                        "size": "300",
+                        "start": 165,
+                        "end": 205
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Nazu Ketagari",
+                        "link_title": "/wiki/Nazu Ketagari",
+                        "is_wikipedia": false,
+                        "start": 260,
+                        "end": 277
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "nazu_ketagari"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "excited"
+                    ],
+                    "topics": [
+                        "marine_headquarters",
+                        "admirals",
+                        "organization",
+                        "naming"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "Oda confirms that there is an organization in the Marine HQ that decides the names for admirals and all members with epithets, and jokes about Vice Admiral Nazu Ketagari being the head."
+            },
+            {
+                "number": 6,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "[[Chapter 943]]... <span style=\"font-size:1.5em\">IT'S SO TOUCHING!!! (BENG!!)</span> [[Izou]]?! The commander of the 16th division of [[Whitebeard Pirates]], Izou, was one of the [[Nine Red Scabbards]]? Ahhh... Was [[Kozuki Oden]] the commander of the 16th division?! P.N. 420 Land",
+                        "matches": [
+                            [
+                                0,
+                                15,
+                                "Chapter 943"
+                            ],
+                            [
+                                85,
+                                93,
+                                "Izou"
+                            ],
+                            [
+                                134,
+                                156,
+                                "Whitebeard Pirates"
+                            ],
+                            [
+                                179,
+                                201,
+                                "Nine Red Scabbards"
+                            ],
+                            [
+                                215,
+                                230,
+                                "Kozuki Oden"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Oh... You guys noticed another small detail. Young [[Kin'emon]] and the others in the flashback scene, if you count them no doubt there're 9 people, but what is this? Thought it was [[Kikunojo|O-Kiku]]... but the person feels a little different... By the way, Izou is one of the commanders that appeared in the [[Marineford Arc|Summit War arc]]. It's true that they look similar since Izou also wore a kimono. And in [[Volume 82|volume 82]] [[Chapter 820|chapter 820]], it did said that some people from [[Wano Country]] joined [[Edward Newgate|Whitebeard]]'s ship~. One day the answer to this question will be revealed, so just continue reading. You'll notice it, right~!",
+                        "matches": [
+                            [
+                                51,
+                                63,
+                                "Kin'emon"
+                            ],
+                            [
+                                182,
+                                201,
+                                "Kikunojo|O-Kiku"
+                            ],
+                            [
+                                311,
+                                344,
+                                "Marineford Arc|Summit War arc"
+                            ],
+                            [
+                                417,
+                                440,
+                                "Volume 82|volume 82"
+                            ],
+                            [
+                                441,
+                                468,
+                                "Chapter 820|chapter 820"
+                            ],
+                            [
+                                504,
+                                520,
+                                "Wano Country"
+                            ],
+                            [
+                                528,
+                                557,
+                                "Edward Newgate|Whitebeard"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "O-Kiku",
+                        "link_title": "/wiki/Kikunojo",
+                        "is_wikipedia": false,
+                        "start": 182,
+                        "end": 201
+                    },
+                    {
+                        "text": "Summit War arc",
+                        "link_title": "/wiki/Marineford Arc",
+                        "is_wikipedia": false,
+                        "start": 311,
+                        "end": 344
+                    },
+                    {
+                        "text": "volume 82",
+                        "link_title": "/wiki/Volume 82",
+                        "is_wikipedia": false,
+                        "start": 417,
+                        "end": 440
+                    },
+                    {
+                        "text": "chapter 820",
+                        "link_title": "/wiki/Chapter 820",
+                        "is_wikipedia": false,
+                        "start": 441,
+                        "end": 468
+                    },
+                    {
+                        "text": "Whitebeard",
+                        "link_title": "/wiki/Edward Newgate",
+                        "is_wikipedia": false,
+                        "start": 528,
+                        "end": 557
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Chapter 943",
+                        "link_title": "/wiki/Chapter 943",
+                        "is_wikipedia": false,
+                        "start": 0,
+                        "end": 15
+                    },
+                    {
+                        "text": "Izou",
+                        "link_title": "/wiki/Izou",
+                        "is_wikipedia": false,
+                        "start": 85,
+                        "end": 93
+                    },
+                    {
+                        "text": "Whitebeard Pirates",
+                        "link_title": "/wiki/Whitebeard Pirates",
+                        "is_wikipedia": false,
+                        "start": 134,
+                        "end": 156
+                    },
+                    {
+                        "text": "Nine Red Scabbards",
+                        "link_title": "/wiki/Nine Red Scabbards",
+                        "is_wikipedia": false,
+                        "start": 179,
+                        "end": 201
+                    },
+                    {
+                        "text": "Kozuki Oden",
+                        "link_title": "/wiki/Kozuki Oden",
+                        "is_wikipedia": false,
+                        "start": 215,
+                        "end": 230
+                    },
+                    {
+                        "text": "Kin'emon",
+                        "link_title": "/wiki/Kin'emon",
+                        "is_wikipedia": false,
+                        "start": 51,
+                        "end": 63
+                    },
+                    {
+                        "text": "Wano Country",
+                        "link_title": "/wiki/Wano Country",
+                        "is_wikipedia": false,
+                        "start": 504,
+                        "end": 520
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "izou",
+                        "kin'emon",
+                        "kikunojo",
+                        "kozuki_oden"
+                    ],
+                    "places": [
+                        "wano_country",
+                        "marineford_arc"
+                    ],
+                    "emotions": [
+                        "touching",
+                        "happy"
+                    ],
+                    "topics": [
+                        "whitebeard_pirates",
+                        "nine_red_scabbards",
+                        "kaido_backstory"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda confirms Izou as a commander in the Summit War arc and hints at a future reveal about the connection between Izou, Kikunojo, and Kozuki Oden."
+            }
+        ],
+        "page": "60",
+        "chapter_number": "945",
+        "page_header": "SBS94 Header 2.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 7,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Is it a coincidence that Kin'emon's wife, [[Tsurujo|O-Tsuru]], and [[Tsuru]] from the Marines share the same name? P.N. Lulu",
+                        "matches": [
+                            [
+                                42,
+                                61,
+                                "Tsurujo|O-Tsuru"
+                            ],
+                            [
+                                67,
+                                76,
+                                "Tsuru"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Oh you're right\u2014. They have the same name\u2014.\nHowever, do you guys know about \"[https://en.wikipedia.org/wiki/Nana_(manga) NANA]\", that Shojo manga? In that manga, the two main female protagonists are both named \"Nana\"! They have the same name!! Even though it's a famous manga!! So, it's not really a bad thing, is it?\n\nSo if one day they met each other, then they conversation would go like this:\n\"I'm also called Tsuru, Tsuru-chan.\"",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "O-Tsuru",
+                        "link_title": "/wiki/Tsurujo",
+                        "is_wikipedia": false,
+                        "start": 42,
+                        "end": 61
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Tsuru",
+                        "link_title": "/wiki/Tsuru",
+                        "is_wikipedia": false,
+                        "start": 67,
+                        "end": 76
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "kinemon",
+                        "tsuru",
+                        "tsurujo"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "name_coincidence",
+                        "manga_reference"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Kin'emon's wife and Tsuru from the Marines having the same name is like the situation in the manga 'NANA' with two characters sharing the same name."
+            },
+            {
+                "number": 8,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Let us see [[Usopp]] at 40 and 60 age!! P.N. Macchi and Takeshi",
+                        "matches": [
+                            [
+                                11,
+                                20,
+                                "Usopp"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Here it is!\n[[File:SBS94 Usopp.png|thumb|center|400px]]\n*Age 40: The pirate flag is calling out to me!!\n*Age 60: Yeah, I'm starting to miss her!!\n\nA future where \"something\" happens\n*Age 40: Luffy's my disciple.\n*Age 60: Zoro? Yeah... he's my disciple.\n{{-}}",
+                        "matches": [
+                            [
+                                12,
+                                55,
+                                "File:SBS94 Usopp.png|thumb|center|400px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS94 Usopp.png",
+                        "size": "400",
+                        "start": 12,
+                        "end": 55
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Usopp",
+                        "link_title": "/wiki/Usopp",
+                        "is_wikipedia": false,
+                        "start": 11,
+                        "end": 20
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "usopp",
+                        "luffy",
+                        "zoro"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "nostalgic"
+                    ],
+                    "topics": [
+                        "aging",
+                        "future",
+                        "mentorship"
+                    ],
+                    "importance": [
+                        "high"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Usopp at age 40 and 60 is shown in a SBS with the pirate flag calling out to him, and starting to miss something, portraying a future where 'something' happens."
+            }
+        ],
+        "page": "78",
+        "chapter_number": "946",
+        "page_header": "SBS94 Header 3.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 9,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda, I want to help others, so I want to work as a worker in the bathhouse. However, there are only two arms, so the help is limited to women. PN: Sanadacchi",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "He's back again, that pervert Sanada!! No way. If you worked in a mixed bath, then you would have one future, behind bars!! However, to talk about the history of \"three aids\", this may turn into a long story, and those who are interested can investigate it by themselves. However, in the Edo period, it was true that male handymen were engaged in washing the body for guests in the mixed bathhouse. A pervert like Sanada would never be fit for this job! Stop it!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "sanada"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "perverted",
+                        "funny"
+                    ],
+                    "topics": [
+                        "bathhouse_work",
+                        "history_of_three_aids"
+                    ],
+                    "importance": "hight",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda shuts down a perverted reader's suggestion to work in a mixed bath, but gives historical reference to male handymen in Edo period."
+            },
+            {
+                "number": 10,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I want to see more of the mixed-bathing scene-degozaru. Sanada-san wanted me to tell you. PN: Matches and Takeshi",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "<span style=\"font-size:1.5em\">SANADA, YOU BASTARD!!</span>",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "sanada"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "angry"
+                    ],
+                    "topics": [
+                        "bathing scene",
+                        "mixed-bathing",
+                        "fan request"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "Reader wants to see more mixed-bathing scenes, and Oda responds humorously by calling out Sanada and expresses frustration."
+            },
+            {
+                "number": 11,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Sanada-san said he wanted to be stepped on by [[Kozuki Hiyori|Komurasaki]]. P.N. Macchi and Takeshi",
+                        "matches": [
+                            [
+                                46,
+                                74,
+                                "Kozuki Hiyori|Komurasaki"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "<span style=\"font-size:1.5em\">SANADA!! STOP CORRUPTING THE PUBLIC MORALS OF THE SBS!!</span>\n\n[[File:SBS94 Ashura.png|thumb|150px]]",
+                        "matches": [
+                            [
+                                94,
+                                131,
+                                "File:SBS94 Ashura.png|thumb|150px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS94 Ashura.png",
+                        "size": "150",
+                        "start": 94,
+                        "end": 131
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Komurasaki",
+                        "link_title": "/wiki/Kozuki Hiyori",
+                        "is_wikipedia": false,
+                        "start": 46,
+                        "end": 74
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "sanada"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "SBS",
+                        "public_morals"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Sanada's comment about wanting to be stepped on by Kozuki Hiyori is scolded by Oda for corrupting public morals."
+            },
+            {
+                "number": 12,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "The tree on top of [[Ashura Doji|Shutenmaru]]'s head is modelled after the Rakugo [Head Mountain] right? In Oda-sensei's case, where would your tree sprout from? P.N. Kinbo",
+                        "matches": [
+                            [
+                                19,
+                                45,
+                                "Ashura Doji|Shutenmaru"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "That's correct! The Rakugo [Head Mountain] program is a strange story where Sakura trees sprout from the head of humans. They explain that as the reason for why people like to gather around for flower watching. It's quite the surreal story. Eh, in my case, if you ask where my tree would sprout from the answer is obvious. My anus!! Let's see everybody come for flower watching!! Hm? I can hear police sirens\u2026.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Shutenmaru",
+                        "link_title": "/wiki/Ashura Doji",
+                        "is_wikipedia": false,
+                        "start": 19,
+                        "end": 45
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "ashura_doji",
+                        "oda"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny",
+                        "silly"
+                    ],
+                    "topics": [
+                        "Rakugo",
+                        "trees",
+                        "flower watching"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda confirms the tree on Shutenmaru's head is based on a Rakugo story, and humorously suggests his tree would sprout from his anus, prompting a comedic response."
+            }
+        ],
+        "page": "96",
+        "chapter_number": "947",
+        "page_header": "SBS94 Header 4.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 13,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-san! I have a question!! On Page 67 of [[Volume 90]], the girl who collapsed onto [[Belo Betty]] was wearing a skirt that looked very similar to Moda from the cover story of [[Chapter 278]] ([[Ace's Great Blackbeard Search]]). Is that girl [[Moda]]? P.N. Kyarin\n\n{{Gallery|captionalign=center|position=center\n|SBS94 Moda.png|\n|SBS94 Moda 2.png|\n|SBS94 Seki and Komane.png|''Left:'' King [[Seki]], ''Right:'' Princess [[Komane]]\n}}",
+                        "matches": [
+                            [
+                                43,
+                                56,
+                                "Volume 90"
+                            ],
+                            [
+                                86,
+                                100,
+                                "Belo Betty"
+                            ],
+                            [
+                                178,
+                                193,
+                                "Chapter 278"
+                            ],
+                            [
+                                195,
+                                228,
+                                "Ace's Great Blackbeard Search"
+                            ],
+                            [
+                                244,
+                                252,
+                                "Moda"
+                            ],
+                            [
+                                391,
+                                399,
+                                "Seki"
+                            ],
+                            [
+                                421,
+                                431,
+                                "Komane"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes. Absolutely correct. Well spotted. When Ace was there, the [[Lulusia Kingdom]] was still a peaceful place. However, the current king, King Seki, is a cruel leader and so his people suffer under his rule. After the [[Revolutionary Army]] bestowed courage upon the people, Moda and everybody else are continuing to do their best.",
+                        "matches": [
+                            [
+                                63,
+                                82,
+                                "Lulusia Kingdom"
+                            ],
+                            [
+                                218,
+                                240,
+                                "Revolutionary Army"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Volume 90",
+                        "link_title": "/wiki/Volume 90",
+                        "is_wikipedia": false,
+                        "start": 43,
+                        "end": 56
+                    },
+                    {
+                        "text": "Belo Betty",
+                        "link_title": "/wiki/Belo Betty",
+                        "is_wikipedia": false,
+                        "start": 86,
+                        "end": 100
+                    },
+                    {
+                        "text": "Chapter 278",
+                        "link_title": "/wiki/Chapter 278",
+                        "is_wikipedia": false,
+                        "start": 178,
+                        "end": 193
+                    },
+                    {
+                        "text": "Ace's Great Blackbeard Search",
+                        "link_title": "/wiki/Ace's Great Blackbeard Search",
+                        "is_wikipedia": false,
+                        "start": 195,
+                        "end": 228
+                    },
+                    {
+                        "text": "Moda",
+                        "link_title": "/wiki/Moda",
+                        "is_wikipedia": false,
+                        "start": 244,
+                        "end": 252
+                    },
+                    {
+                        "text": "Seki",
+                        "link_title": "/wiki/Seki",
+                        "is_wikipedia": false,
+                        "start": 391,
+                        "end": 399
+                    },
+                    {
+                        "text": "Komane",
+                        "link_title": "/wiki/Komane",
+                        "is_wikipedia": false,
+                        "start": 421,
+                        "end": 431
+                    },
+                    {
+                        "text": "Lulusia Kingdom",
+                        "link_title": "/wiki/Lulusia Kingdom",
+                        "is_wikipedia": false,
+                        "start": 63,
+                        "end": 82
+                    },
+                    {
+                        "text": "Revolutionary Army",
+                        "link_title": "/wiki/Revolutionary Army",
+                        "is_wikipedia": false,
+                        "start": 218,
+                        "end": 240
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "moda",
+                        "belo_betty",
+                        "king_seki",
+                        "princess_komane"
+                    ],
+                    "places": [
+                        "lulusia_kingdom"
+                    ],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "moda_identity",
+                        "lulusia_kingdom",
+                        "revolutionary_army"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Moda from Ace's cover story does appear in Volume 90, offering insight into the current state of Lulusia Kingdom under King Seki's rule."
+            },
+            {
+                "number": 14,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I have a question about illustration requests. In [[Volume 56]], all of the requests were some variation of \"Strawhat + Animal\" but you must have gotten some requests without animals or the Strawhats right? How do you currently decide which requests to draw?\n\n[[File:SBS94 Chapter 934.png|thumb|200px]]",
+                        "matches": [
+                            [
+                                50,
+                                63,
+                                "Volume 56"
+                            ],
+                            [
+                                260,
+                                302,
+                                "File:SBS94 Chapter 934.png|thumb|200px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Theres no formal application process. I often forget to do this but thank you all so much for all your illustration requests. The format of \"Animal + 1 character doing XX\" is a pretty basic one. It's always good to have a lot of Strawhats. When I first started, I thought to myself I would try to reply to as many requests as I could! At least that's what I thought. I wanted to fulfill 1 request per person but eventually I started to think about how many skilled artists are out there and realized: \"I want to draw this, but I wonder if its already been drawn before\". Eventually I decided that I would instead draw what I wanted to draw most. These requests about animals and characters always made me feel that I wanted to see it drawn so I would be able to fulfill these requests happily. Art is still my hobby after all. Even for the two-page colour spreads I always think to myself, \"I want to draw this!\" before it manages to get drawn. These often feature animals too. I've already been doing this for 22 years after all so most of the usual illustration ideas have been done. When I see a new and fresh request, it makes it fun for me to draw as well.",
+                        "matches": []
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS94 Chapter 934.png",
+                        "size": "200",
+                        "start": 260,
+                        "end": 302
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Volume 56",
+                        "link_title": "/wiki/Volume 56",
+                        "is_wikipedia": false,
+                        "start": 50,
+                        "end": 63
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "happy",
+                        "grateful",
+                        "reflective",
+                        "fun"
+                    ],
+                    "topics": [
+                        "illustration_requests",
+                        "art",
+                        "hobby",
+                        "strawhats"
+                    ],
+                    "importance": "hight",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda decides illustration requests based on personal interest, aiming to fulfill one request per person, mainly focusing on unique and fresh ideas."
+            }
+        ],
+        "page": "134",
+        "chapter_number": "949",
+        "page_header": "SBS94 Header 5.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 15,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I really want to see [[Gryphon]]'s anthropomorphized version, the sword that [[Shanks]] possesses. I think it would be a really cool person, what do you think? P.N. Straw Red Hair\n\n[[File:SBS94 Gryphon.png|thumb|200px]]",
+                        "matches": [
+                            [
+                                21,
+                                32,
+                                "Gryphon"
+                            ],
+                            [
+                                77,
+                                87,
+                                "Shanks"
+                            ],
+                            [
+                                181,
+                                219,
+                                "File:SBS94 Gryphon.png|thumb|200px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "You want to see Shanks' sword \"Gryphon\", right! I'm very good at anthropomorphism! So just leave it to me!! Here you go!!",
+                        "matches": []
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS94 Gryphon.png",
+                        "size": "200",
+                        "start": 181,
+                        "end": 219
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Gryphon",
+                        "link_title": "/wiki/Gryphon",
+                        "is_wikipedia": false,
+                        "start": 21,
+                        "end": 32
+                    },
+                    {
+                        "text": "Shanks",
+                        "link_title": "/wiki/Shanks",
+                        "is_wikipedia": false,
+                        "start": 77,
+                        "end": 87
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "shanks"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "sword",
+                        "anthropomorphism",
+                        "shanks_sword"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": true
+                },
+                "summary": "Reader requests an anthropomorphized version of Shanks' sword Gryphon, and Oda says he is good at anthropomorphism and will do it."
+            },
+            {
+                "number": 16,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "In the [[Chapter 931|chapter 931]] \"Soba Mask\", Usopp and [[Franky]] ask to be allowed to name Sanji's suit. I'm very curious what name you would give each of the Straw Hats. And... If you could tell me what they're going to call it, that would be great. from S.Masae",
+                        "matches": [
+                            [
+                                7,
+                                34,
+                                "Chapter 931|chapter 931"
+                            ],
+                            [
+                                58,
+                                68,
+                                "Franky"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Understand. Then let them take a name!\n[[File:SBS94 Raid Suit.png|thumb|center|400px]]\n\n<table width=\"100%\">\n<td width=\"50%\" valign=\"top\">\n* Luffy: Black! Mask! Mane\n* Zoro: Idiot\n* [[Nami]]: Cape\n* Usopp: Lightning Skyser (Sky + Kaiser)\n</td>\n<td width=\"50%\" valign=\"top\">\n* [[Nico Robin|Robin]]: Ominous Mask\n* [[Tony Tony Chopper|Chopper]]: Go get them Sanji\n* Franky: Black Rolling Destroyer\n* Brook: Enviable Man in Women's Bathhouse\n</td></table>\n\nIf it were you, which one would you choose?\n\n[[File:SBS94 Reiju.png|thumb|200px]]",
+                        "matches": [
+                            [
+                                39,
+                                86,
+                                "File:SBS94 Raid Suit.png|thumb|center|400px"
+                            ],
+                            [
+                                182,
+                                190,
+                                "Nami"
+                            ],
+                            [
+                                276,
+                                296,
+                                "Nico Robin|Robin"
+                            ],
+                            [
+                                313,
+                                342,
+                                "Tony Tony Chopper|Chopper"
+                            ],
+                            [
+                                499,
+                                535,
+                                "File:SBS94 Reiju.png|thumb|200px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS94 Raid Suit.png",
+                        "size": "400",
+                        "start": 39,
+                        "end": 86
+                    },
+                    {
+                        "file": "SBS94 Reiju.png",
+                        "size": "200",
+                        "start": 499,
+                        "end": 535
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "chapter 931",
+                        "link_title": "/wiki/Chapter 931",
+                        "is_wikipedia": false,
+                        "start": 7,
+                        "end": 34
+                    },
+                    {
+                        "text": "Robin",
+                        "link_title": "/wiki/Nico Robin",
+                        "is_wikipedia": false,
+                        "start": 276,
+                        "end": 296
+                    },
+                    {
+                        "text": "Chopper",
+                        "link_title": "/wiki/Tony Tony Chopper",
+                        "is_wikipedia": false,
+                        "start": 313,
+                        "end": 342
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Franky",
+                        "link_title": "/wiki/Franky",
+                        "is_wikipedia": false,
+                        "start": 58,
+                        "end": 68
+                    },
+                    {
+                        "text": "Nami",
+                        "link_title": "/wiki/Nami",
+                        "is_wikipedia": false,
+                        "start": 182,
+                        "end": 190
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "usopp",
+                        "franky",
+                        "luffy",
+                        "zoro",
+                        "nami",
+                        "robin",
+                        "chopper",
+                        "franky",
+                        "brook"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "straw_hat_suits",
+                        "naming",
+                        "fun"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda gives names to the Straw Hat crew's requested suit names, including 'Black! Mask! Mane' for Luffy and 'Go get them Sanji' for Chopper."
+            },
+            {
+                "number": 17,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "When the Reiju sucked out the poison from Luffy, the Straw Hats members put out their tongues and said \"thank you for hospitality.\" The action was so cute, I tried to imitate it, but it would be said to be \"more hospitality\" or \"more hospitality.\" How can I say \"thank you for hospitality\"? P.N. Hualin Sugar",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Well, in fact, I just omitted the scene of licking my lips in \"Thank you for hospitality\" \u2192 \"\u8214 lips\", but Hualin Sugar Sauce try to say \"more di\u00e8 hospitality\", I hope you continue to work hard! I will definitely be able to say it one day! Just stick out your tongue and say \"thank you for hospitality\"!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "luffy",
+                        "reiju"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "cute",
+                        "funny"
+                    ],
+                    "topics": [
+                        "hospitality",
+                        "cute moments"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda explains the omitted scene of licking lips in 'thank you for hospitality', suggesting to say 'more di\u00e8 hospitality' and encouraging to keep trying."
+            }
+        ],
+        "page": "172",
+        "chapter_number": "951",
+        "page_header": "SBS94 Header 6.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 18,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Do men in Wano Country wear a fundoshi under their kimono? P. N. Slip",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Of course!! And women wear a kind of feminine loincloth called yumoji. That's how they go in Wano!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [
+                        "wano"
+                    ],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "fashion",
+                        "wano_culture"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Men in Wano wear fundoshi under their kimono, and women wear a feminine loincloth called yumoji."
+            },
+            {
+                "number": 19,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda sensei, do you still read all the postcards and letters yourself? P. N. Suemitsu",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I read them all! And of course I will read them! And I've never dispose them over the course of 22 years (laugh). Because there're way too many of them, I can't store them in my house, so I borrowed a room, and all the letters that I've finished reading will be sent to that room.\nThere're so much of them that one day the floor might fall off!\nThank you!! Those letters contain you guys' feelings in them, so I won't throw them away.\n\n[[File:SBS94 Komaningen.png|thumb|200px]]",
+                        "matches": [
+                            [
+                                436,
+                                477,
+                                "File:SBS94 Komaningen.png|thumb|200px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS94 Komaningen.png",
+                        "size": "200",
+                        "start": 436,
+                        "end": 477
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "happy",
+                        "funny"
+                    ],
+                    "topics": [
+                        "fan_letters",
+                        "Oda's_personal_life"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda reads every letter, storing them in a separate room due to the overwhelming quantity, valuing the fans' emotions within."
+            },
+            {
+                "number": 20,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odachi! I noticed something! [[Hyogoro]]-san has flame-like hair like \"Komainu\" and \"Komashika\"... which means he's \"Komaningen\", that's right!!! P.N. 420 Land",
+                        "matches": [
+                            [
+                                29,
+                                40,
+                                "Hyogoro"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "<span style=\"font-size:1.5em\">AH!</span> Well yes, you are right, well...! Okay, in that case, he's a komaningen.\n\n[[File:SBS94 Five Elders.png|thumb|200px]]",
+                        "matches": [
+                            [
+                                115,
+                                157,
+                                "File:SBS94 Five Elders.png|thumb|200px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS94 Five Elders.png",
+                        "size": "200",
+                        "start": 115,
+                        "end": 157
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Hyogoro",
+                        "link_title": "/wiki/Hyogoro",
+                        "is_wikipedia": false,
+                        "start": 29,
+                        "end": 40
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "hyogoro"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "surprised"
+                    ],
+                    "topics": [
+                        "creature_anatomy"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "D points out that Hyogoro has flame-like hair, similar to Komainu and Komashika, leading Oda to agree and humorously dubbing Hyogoro as 'komaningen.'"
+            },
+            {
+                "number": 21,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "The light that Im's going to extinguish...is it me...?",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "It's not, so please don't worry about it and continue with your life. And I hope everyone else can also lead a happy life!! SBS so far!! See you in the next volume!!!{{-}}",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "reassuring",
+                        "hopeful"
+                    ],
+                    "topics": [
+                        "life",
+                        "happiness",
+                        "future"
+                    ],
+                    "importance": "high",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Im's light is not the reader's, so they should not worry and continue living happily."
+            }
+        ],
+        "page": "190",
+        "chapter_number": "952",
+        "page_header": "SBS94 Header 7.png"
+    }
+]

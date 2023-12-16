@@ -1,0 +1,1635 @@
+[
+    {
+        "qa": [
+            {
+                "number": 0,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "N/A",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "\u2191 <span style=\"font-size:1.5em\">EEEEEEEEEEHHHHHH?</span> It starts off with me getting slappedddddd?!! It hurts thoughhhhhhhh....!! ;_;",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "surprised",
+                        "pain"
+                    ],
+                    "topics": [],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda reacts with surprise and pain as he mentions getting slapped, expressing how much it hurts."
+            },
+            {
+                "number": 1,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Can you show us the \"HA!!?\" face of [[Sanji]], [[Nami]], [[Tony Tony Chopper|Chopper]] and [[Brook]]... 3, 2, 1, Go please!! - P. N. Hayato Nokou",
+                        "matches": [
+                            [
+                                36,
+                                45,
+                                "Sanji"
+                            ],
+                            [
+                                47,
+                                55,
+                                "Nami"
+                            ],
+                            [
+                                57,
+                                86,
+                                "Tony Tony Chopper|Chopper"
+                            ],
+                            [
+                                91,
+                                100,
+                                "Brook"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Okay!!\n\n[[File:SBS 93 Ha.png|thumb|center|400px]]\n\n[[File:SBS 93 Komashika, Komainu, Komadane and Komatori.png|thumb|200px]]",
+                        "matches": [
+                            [
+                                8,
+                                49,
+                                "File:SBS 93 Ha.png|thumb|center|400px"
+                            ],
+                            [
+                                51,
+                                124,
+                                "File:SBS 93 Komashika, Komainu, Komadane and Komatori.png|thumb|200px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS 93 Ha.png",
+                        "size": "400",
+                        "start": 8,
+                        "end": 49
+                    },
+                    {
+                        "file": "SBS 93 Komashika, Komainu, Komadane and Komatori.png",
+                        "size": "200",
+                        "start": 51,
+                        "end": 124
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Chopper",
+                        "link_title": "/wiki/Tony Tony Chopper",
+                        "is_wikipedia": false,
+                        "start": 57,
+                        "end": 86
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Sanji",
+                        "link_title": "/wiki/Sanji",
+                        "is_wikipedia": false,
+                        "start": 36,
+                        "end": 45
+                    },
+                    {
+                        "text": "Nami",
+                        "link_title": "/wiki/Nami",
+                        "is_wikipedia": false,
+                        "start": 47,
+                        "end": 55
+                    },
+                    {
+                        "text": "Brook",
+                        "link_title": "/wiki/Brook",
+                        "is_wikipedia": false,
+                        "start": 91,
+                        "end": 100
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "sanji",
+                        "nami",
+                        "tony_tony_chopper",
+                        "brook"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "facial_expression"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Readers asked for the 'HA!!?' faces of Sanji, Nami, Chopper, and Brook, and Oda responded with the requested illustrations in SBS 93."
+            },
+            {
+                "number": 2,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda sensei! In [[Wano Country|Wano Kuni]], [[Basil Hawkins|Hawkins]] is riding on a really cool animal. What the name of that animal? Is it only available in Wano? - P. N. Shian",
+                        "matches": [
+                            [
+                                15,
+                                41,
+                                "Wano Country|Wano Kuni"
+                            ],
+                            [
+                                43,
+                                68,
+                                "Basil Hawkins|Hawkins"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yeah, [[Animal Species/Wano Country Saga#Komashika|Komashika]], [[Komachiyo]] the [[Animal Species/Wano Country Saga#Komainu|Komainu]],\u00a0[[Animal Species/Wano Country Saga#Komadane|Komadane]], [[Animal Species/Wano Country Saga#Komatori|Komatori]] are unique to Wano. The thing they have in common is the flame-like fur. There are a lot more different types of these animals, but I'm not sure if they will get a chance to appear in the story.",
+                        "matches": [
+                            [
+                                6,
+                                62,
+                                "Animal Species/Wano Country Saga#Komashika|Komashika"
+                            ],
+                            [
+                                64,
+                                77,
+                                "Komachiyo"
+                            ],
+                            [
+                                82,
+                                134,
+                                "Animal Species/Wano Country Saga#Komainu|Komainu"
+                            ],
+                            [
+                                136,
+                                190,
+                                "Animal Species/Wano Country Saga#Komadane|Komadane"
+                            ],
+                            [
+                                192,
+                                246,
+                                "Animal Species/Wano Country Saga#Komatori|Komatori"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Wano Kuni",
+                        "link_title": "/wiki/Wano Country",
+                        "is_wikipedia": false,
+                        "start": 15,
+                        "end": 41
+                    },
+                    {
+                        "text": "Hawkins",
+                        "link_title": "/wiki/Basil Hawkins",
+                        "is_wikipedia": false,
+                        "start": 43,
+                        "end": 68
+                    },
+                    {
+                        "text": "Komashika",
+                        "link_title": "/wiki/Animal Species/Wano Country Saga#Komashika",
+                        "is_wikipedia": false,
+                        "start": 6,
+                        "end": 62
+                    },
+                    {
+                        "text": "Komainu",
+                        "link_title": "/wiki/Animal Species/Wano Country Saga#Komainu",
+                        "is_wikipedia": false,
+                        "start": 82,
+                        "end": 134
+                    },
+                    {
+                        "text": "Komadane",
+                        "link_title": "/wiki/Animal Species/Wano Country Saga#Komadane",
+                        "is_wikipedia": false,
+                        "start": 136,
+                        "end": 190
+                    },
+                    {
+                        "text": "Komatori",
+                        "link_title": "/wiki/Animal Species/Wano Country Saga#Komatori",
+                        "is_wikipedia": false,
+                        "start": 192,
+                        "end": 246
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Komachiyo",
+                        "link_title": "/wiki/Komachiyo",
+                        "is_wikipedia": false,
+                        "start": 64,
+                        "end": 77
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "basil_hawkins"
+                    ],
+                    "places": [
+                        "wano_kuni"
+                    ],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "wano_country",
+                        "animal_species",
+                        "unique_features"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Hawkins is riding a Komashika, unique to Wano, known for flame-like fur; other Wano animals like Komachiyo, Komainu, Komadane, Komatori might also appear."
+            }
+        ],
+        "page": "24",
+        "chapter_number": "932",
+        "page_header": "SBS 93 Header 1.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 3,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "On [[Volume 88|volume 88]], [[Chapter 885|chapter 885]], page 112 Sanji make the ultimate [[Foods#Attack Cuisine|cream]] \"whipped simsim\", but please tell us what simsim means. - P. N. One Piece Girl\n\n{{Gallery|captionalign=center|position=center\n|SBS 93 Sanji.png|''\"It's done!! The perfect whipped simsim cream!!\"''\n|SBS 93 Linlin.png|''\"It's so good, that I could die right now... So delicious and sweet.\u2661\u2661\"''\n\n}}",
+                        "matches": [
+                            [
+                                3,
+                                26,
+                                "Volume 88|volume 88"
+                            ],
+                            [
+                                28,
+                                55,
+                                "Chapter 885|chapter 885"
+                            ],
+                            [
+                                90,
+                                120,
+                                "Foods#Attack Cuisine|cream"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "\"Simsim\" actually means \"sesame\" (in arabic). Long ago, in certain places, people believed sesame contained magic and it was mysterious. In \"[[Wikipedia:Ali Baba and the Forty Thieves|Ali Baba and the Forty Thieves]]\" there is the phrase \"[[Wikipedia:Open Sesame (phrase)|Open Sesame]]\". Did you hear it before? It's pronounced \u0627\u0641\u062a\u062d \u064a\u0627 \u0633\u0645\u0633\u0645 in arabic. Sanji put their \"taste\" and \"power\" into the cream. Although Sanji was unaware that cream was part of [[Charlotte Linlin|Big Mom]]'s favorite food \"[[Foods#Semla|Semla]]\" too. I'm sure the power of simsim Cream awakened Big Mom's old memories and had a big impact on the battle.",
+                        "matches": [
+                            [
+                                141,
+                                216,
+                                "Wikipedia:Ali Baba and the Forty Thieves|Ali Baba and the Forty Thieves"
+                            ],
+                            [
+                                239,
+                                285,
+                                "Wikipedia:Open Sesame (phrase)|Open Sesame"
+                            ],
+                            [
+                                454,
+                                482,
+                                "Charlotte Linlin|Big Mom"
+                            ],
+                            [
+                                500,
+                                521,
+                                "Foods#Semla|Semla"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "volume 88",
+                        "link_title": "/wiki/Volume 88",
+                        "is_wikipedia": false,
+                        "start": 3,
+                        "end": 26
+                    },
+                    {
+                        "text": "chapter 885",
+                        "link_title": "/wiki/Chapter 885",
+                        "is_wikipedia": false,
+                        "start": 28,
+                        "end": 55
+                    },
+                    {
+                        "text": "cream",
+                        "link_title": "/wiki/Foods#Attack Cuisine",
+                        "is_wikipedia": false,
+                        "start": 90,
+                        "end": 120
+                    },
+                    {
+                        "text": "Ali Baba and the Forty Thieves",
+                        "link_title": "/wiki/Wikipedia:Ali Baba and the Forty Thieves",
+                        "is_wikipedia": false,
+                        "start": 141,
+                        "end": 216
+                    },
+                    {
+                        "text": "Open Sesame",
+                        "link_title": "/wiki/Wikipedia:Open Sesame (phrase)",
+                        "is_wikipedia": false,
+                        "start": 239,
+                        "end": 285
+                    },
+                    {
+                        "text": "Big Mom",
+                        "link_title": "/wiki/Charlotte Linlin",
+                        "is_wikipedia": false,
+                        "start": 454,
+                        "end": 482
+                    },
+                    {
+                        "text": "Semla",
+                        "link_title": "/wiki/Foods#Semla",
+                        "is_wikipedia": false,
+                        "start": 500,
+                        "end": 521
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "sanji",
+                        "big_mom"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "interesting",
+                        "informative"
+                    ],
+                    "topics": [
+                        "food",
+                        "culture",
+                        "power",
+                        "references"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Simsim in Arabic means \"sesame\" and Sanji's cream in that chapter contained the 'taste' and 'power' of simsim, affecting Big Mom in a significant way."
+            },
+            {
+                "number": 4,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei, Nice to meet you. Yesteday I had a dream where former Fleet Admiral [[Sengoku]] appeared before me in the same color as the [[Hito Hito no Mi, Model: Daibutsu|Buddha]]. His snails illuminate one after another like a roulette. If you stop at the white, it means good luck. If it really becomes like that, can I get [[Marines]] [[Foods#Senbei|rice cake]]? - P. N. Miss Intercalary Day\n\n[[File:SBS 93 Sengoku.png|thumb|300px]]",
+                        "matches": [
+                            [
+                                80,
+                                91,
+                                "Sengoku"
+                            ],
+                            [
+                                136,
+                                179,
+                                "Hito Hito no Mi, Model: Daibutsu|Buddha"
+                            ],
+                            [
+                                326,
+                                337,
+                                "Marines"
+                            ],
+                            [
+                                338,
+                                364,
+                                "Foods#Senbei|rice cake"
+                            ],
+                            [
+                                396,
+                                435,
+                                "File:SBS 93 Sengoku.png|thumb|300px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "<span style=\"font-size:1.5em\">Your dream is really cute!!</span> I want to play this in a mobile game.\n(Snail hair = ball like hair; White Hair = ball like a cockroach)\n{{-}}",
+                        "matches": []
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS 93 Sengoku.png",
+                        "size": "300",
+                        "start": 396,
+                        "end": 435
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Buddha",
+                        "link_title": "/wiki/Hito Hito no Mi, Model: Daibutsu",
+                        "is_wikipedia": false,
+                        "start": 136,
+                        "end": 179
+                    },
+                    {
+                        "text": "rice cake",
+                        "link_title": "/wiki/Foods#Senbei",
+                        "is_wikipedia": false,
+                        "start": 338,
+                        "end": 364
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Sengoku",
+                        "link_title": "/wiki/Sengoku",
+                        "is_wikipedia": false,
+                        "start": 80,
+                        "end": 91
+                    },
+                    {
+                        "text": "Marines",
+                        "link_title": "/wiki/Marines",
+                        "is_wikipedia": false,
+                        "start": 326,
+                        "end": 337
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "sengoku"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "cute"
+                    ],
+                    "topics": [
+                        "dreams",
+                        "food",
+                        "games"
+                    ],
+                    "importance": [
+                        "low"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader shares a dream with Sengoku, and Oda finds it cute, suggesting it as material for a mobile game."
+            }
+        ],
+        "page": "42",
+        "chapter_number": "933",
+        "page_header": "SBS 93 Header 2.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 5,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "The hidden words in the [[SBS Volume 92|SBS of the previous volume]]. Is the remaining 3 \"Jango\", \"Hyouzou\" and \"Kaidou\"? I also found \"Gedatsu\" on the banner. Also, I found \"Pagaya\", \"Kuroobi\" and \"Gaimon\" in the [[Chapter 931|931th]] and [[Chapter 934|934th]] Chapters respectively. - P. N. Odamania\n\n[[File:SBS 93 Hidden Words 1.png|thumb|center|300px]]\n[[File:SBS 93 Hidden Words 2.png|thumb|200px]]\n[[File:SBS 93 Hidden Words 3.png|thumb|200px]]",
+                        "matches": [
+                            [
+                                24,
+                                68,
+                                "SBS Volume 92|SBS of the previous volume"
+                            ],
+                            [
+                                214,
+                                235,
+                                "Chapter 931|931th"
+                            ],
+                            [
+                                240,
+                                261,
+                                "Chapter 934|934th"
+                            ],
+                            [
+                                303,
+                                356,
+                                "File:SBS 93 Hidden Words 1.png|thumb|center|300px"
+                            ],
+                            [
+                                357,
+                                403,
+                                "File:SBS 93 Hidden Words 2.png|thumb|200px"
+                            ],
+                            [
+                                404,
+                                450,
+                                "File:SBS 93 Hidden Words 3.png|thumb|200px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I asked the staff. Among the identities that can be confirmed are \"{{Ruby|\u8e0a\u96c0\u4f0d\u95a2|\u304a\u3069\u308a\u30b8\u30e3\u30f3\u30b4\u305c\u304d}}\" (Odori [[Jango]]-zeki), \"{{Ruby|\u96f9\u4e09\u6d77\u95a2|\u30d2\u30e7\u30a6\u30be\u30a6\u3046\u307f\u305c\u304d}}\" ([[Hyouzou|Hy\u014dz\u014d]] Umi-zeki), \"{{Ruby|\u731b\u5ca9\u65a7\u95a2|\u30e2\u30fc\u30ac\u30f3\u304a\u306e\u305c\u304d}}\" ([[Morgan|M\u014dgan]] Ono-zeki), \"{{Ruby|\u6d77\u56db\u6012\u95a2|\u30de\u30ea\u30f3\u30d5\u30a9\u30fc\u30c9\u305c\u304d}}\" ([[Marineford|Marinf\u014ddo]]-zeki), \"{{Ruby|\u4e0b\u6253\u6d25\u95a2|\u30b2\u30c0\u30c4\u305c\u304d}}\" ([[Gedatsu]]-zeki), \"{{Ruby|\u6c37\u99ac\u55b0\u95a2|\u30a2\u30a4\u30b9\u30d0\u30fc\u30b0\u305c\u304d}}\" ([[Iceburg|Aisub\u0101gu]]-zeki), \"{{Ruby|\u8f2a\u516b\u95a2|\u30ef\u30a4\u30d1\u30fc\u305c\u304d}}\" ([[Wyper|Waip\u0101]]-zeki). The staff also told me that there was a \"{{Ruby|\u5224\u99ac\u5177\u95a2|\u30cf\u30f3\u30d0\u30fc\u30b0\u305c\u304d}}\" ([[Hamburg|Hanb\u0101gu]]-zeki) in [[Chapter 917]], \"\u3081\u3057{{Ruby|\u51e6|\u3069\u3053\u308d}}{{Ruby|\u7fbd\u304c\u5c4b|\u30d1\u30ac\u30e4}}\" (Meshidokoro [[Pagaya]])\" in [[Chapter 931]], and graves for \"{{Ruby|\u82e6\u7089\u5c3e\u706b|\u30af\u30ed\u30aa\u30d3}}\" ([[Kuroobi]]) and \"{{Ruby|\u753b\u4e95\u9580|\u30ac\u30a4\u30e2\u30f3}}\" ([[Gaimon]]) in [[Chapter 934]].\n\n<span style=\"font-size:1.5em\">Well done to both pirates!! Hahaha</span>.{{-}}",
+                        "matches": [
+                            [
+                                99,
+                                108,
+                                "Jango"
+                            ],
+                            [
+                                143,
+                                160,
+                                "Hyouzou|Hy\u014dz\u014d"
+                            ],
+                            [
+                                198,
+                                214,
+                                "Morgan|M\u014dgan"
+                            ],
+                            [
+                                253,
+                                277,
+                                "Marineford|Marinf\u014ddo"
+                            ],
+                            [
+                                308,
+                                319,
+                                "Gedatsu"
+                            ],
+                            [
+                                353,
+                                373,
+                                "Iceburg|Aisub\u0101gu"
+                            ],
+                            [
+                                404,
+                                419,
+                                "Wyper|Waip\u0101"
+                            ],
+                            [
+                                492,
+                                511,
+                                "Hamburg|Hanb\u0101gu"
+                            ],
+                            [
+                                521,
+                                536,
+                                "Chapter 917"
+                            ],
+                            [
+                                586,
+                                596,
+                                "Pagaya"
+                            ],
+                            [
+                                602,
+                                617,
+                                "Chapter 931"
+                            ],
+                            [
+                                656,
+                                667,
+                                "Kuroobi"
+                            ],
+                            [
+                                694,
+                                704,
+                                "Gaimon"
+                            ],
+                            [
+                                709,
+                                724,
+                                "Chapter 934"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS 93 Hidden Words 1.png",
+                        "size": "300",
+                        "start": 303,
+                        "end": 356
+                    },
+                    {
+                        "file": "SBS 93 Hidden Words 2.png",
+                        "size": "200",
+                        "start": 357,
+                        "end": 403
+                    },
+                    {
+                        "file": "SBS 93 Hidden Words 3.png",
+                        "size": "200",
+                        "start": 404,
+                        "end": 450
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "SBS of the previous volume",
+                        "link_title": "/wiki/SBS Volume 92",
+                        "is_wikipedia": false,
+                        "start": 24,
+                        "end": 68
+                    },
+                    {
+                        "text": "931th",
+                        "link_title": "/wiki/Chapter 931",
+                        "is_wikipedia": false,
+                        "start": 214,
+                        "end": 235
+                    },
+                    {
+                        "text": "934th",
+                        "link_title": "/wiki/Chapter 934",
+                        "is_wikipedia": false,
+                        "start": 240,
+                        "end": 261
+                    },
+                    {
+                        "text": "Hy\u014dz\u014d",
+                        "link_title": "/wiki/Hyouzou",
+                        "is_wikipedia": false,
+                        "start": 143,
+                        "end": 160
+                    },
+                    {
+                        "text": "M\u014dgan",
+                        "link_title": "/wiki/Morgan",
+                        "is_wikipedia": false,
+                        "start": 198,
+                        "end": 214
+                    },
+                    {
+                        "text": "Marinf\u014ddo",
+                        "link_title": "/wiki/Marineford",
+                        "is_wikipedia": false,
+                        "start": 253,
+                        "end": 277
+                    },
+                    {
+                        "text": "Aisub\u0101gu",
+                        "link_title": "/wiki/Iceburg",
+                        "is_wikipedia": false,
+                        "start": 353,
+                        "end": 373
+                    },
+                    {
+                        "text": "Waip\u0101",
+                        "link_title": "/wiki/Wyper",
+                        "is_wikipedia": false,
+                        "start": 404,
+                        "end": 419
+                    },
+                    {
+                        "text": "Hanb\u0101gu",
+                        "link_title": "/wiki/Hamburg",
+                        "is_wikipedia": false,
+                        "start": 492,
+                        "end": 511
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Jango",
+                        "link_title": "/wiki/Jango",
+                        "is_wikipedia": false,
+                        "start": 99,
+                        "end": 108
+                    },
+                    {
+                        "text": "Gedatsu",
+                        "link_title": "/wiki/Gedatsu",
+                        "is_wikipedia": false,
+                        "start": 308,
+                        "end": 319
+                    },
+                    {
+                        "text": "Chapter 917",
+                        "link_title": "/wiki/Chapter 917",
+                        "is_wikipedia": false,
+                        "start": 521,
+                        "end": 536
+                    },
+                    {
+                        "text": "Pagaya",
+                        "link_title": "/wiki/Pagaya",
+                        "is_wikipedia": false,
+                        "start": 586,
+                        "end": 596
+                    },
+                    {
+                        "text": "Chapter 931",
+                        "link_title": "/wiki/Chapter 931",
+                        "is_wikipedia": false,
+                        "start": 602,
+                        "end": 617
+                    },
+                    {
+                        "text": "Kuroobi",
+                        "link_title": "/wiki/Kuroobi",
+                        "is_wikipedia": false,
+                        "start": 656,
+                        "end": 667
+                    },
+                    {
+                        "text": "Gaimon",
+                        "link_title": "/wiki/Gaimon",
+                        "is_wikipedia": false,
+                        "start": 694,
+                        "end": 704
+                    },
+                    {
+                        "text": "Chapter 934",
+                        "link_title": "/wiki/Chapter 934",
+                        "is_wikipedia": false,
+                        "start": 709,
+                        "end": 724
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "jango",
+                        "hyouzou",
+                        "morgan",
+                        "gedatsu",
+                        "iceburg",
+                        "waiper",
+                        "hamburg",
+                        "pagaya",
+                        "kuroobi",
+                        "gaimon"
+                    ],
+                    "places": [
+                        "marineford"
+                    ],
+                    "topics": [
+                        "SBS_hidden_words",
+                        "chapter_917",
+                        "chapter_931",
+                        "chapter_934",
+                        "pirates"
+                    ],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda confirms the hidden words as 'Jango', 'Hyouzou', 'Kaidou', 'Gedatsu', 'Pagaya', 'Kuroobi' and 'Gaimon' in specific chapters, while adding a joke at the end."
+            },
+            {
+                "number": 6,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Mixed baths... Geat Oda-sensei, mixed baths... The [[Flower Capital]]'s mixed baths public baths have mixed bathing... I'm curious as to how mixed bathing works... can I go there? - P. N. Hayato Nokou",
+                        "matches": [
+                            [
+                                51,
+                                69,
+                                "Flower Capital"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "You're are being driven by your desires, aren't you!! You pig!! This is culture! Japan still has hot spring baths. Back during the Edo period, mixed baths were very common everywhere in Japan. Wano is inspired by Japan, so I absolutely had to include them... I really couldn't not include them, I swear. My heart was unwilling, but I had to paint it. Whoops, sorry, my nose is bleeding. You got some toilet paper for me?",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Flower Capital",
+                        "link_title": "/wiki/Flower Capital",
+                        "is_wikipedia": false,
+                        "start": 51,
+                        "end": 69
+                    }
+                ],
+                "tags": {
+                    "characters": [],
+                    "places": [
+                        "Flower Capital",
+                        "Wano"
+                    ],
+                    "topics": [
+                        "culture",
+                        "mixed_bathing",
+                        "Wano"
+                    ],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda explains that mixed bathing was common in Edo period Japan and is included in Wano as a cultural reference, while jokingly admitting to being unwilling but had to include it."
+            }
+        ],
+        "page": "58",
+        "chapter_number": "934",
+        "page_header": "SBS 93 Header 3.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 7,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello. In [[Chapter 905]] of [[Volume 90]], when [[Belo Betty|Betty]] and [[Koala]] were talking, Koala had a girl with black hair on the left side. The girl also had a mechanical arm. What is her name? Please tell me! - P. N. Emerald Rabbit",
+                        "matches": [
+                            [
+                                10,
+                                25,
+                                "Chapter 905"
+                            ],
+                            [
+                                29,
+                                42,
+                                "Volume 90"
+                            ],
+                            [
+                                49,
+                                69,
+                                "Belo Betty|Betty"
+                            ],
+                            [
+                                74,
+                                83,
+                                "Koala"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Aaaah... There are 5 Commanders in the [[Revolutionary Army]], of the [[East Blue|East]], [[West Blue|West]], [[North Blue|North]], [[South Blue|South]] and [[Grand Line|G (Grand Line)]] armies. [[Emporio Ivankov|Ivankov]] is the Commander of G army, and [[Inazuma]] is his assistant, the deputy commander. This girl is [[Ahiru]], the deputy commander of the East army and the assistant of Belo Betty.\n\n[[File:SBS 93 Clouds.png|thumb|200px]]",
+                        "matches": [
+                            [
+                                39,
+                                61,
+                                "Revolutionary Army"
+                            ],
+                            [
+                                70,
+                                88,
+                                "East Blue|East"
+                            ],
+                            [
+                                90,
+                                108,
+                                "West Blue|West"
+                            ],
+                            [
+                                110,
+                                130,
+                                "North Blue|North"
+                            ],
+                            [
+                                132,
+                                152,
+                                "South Blue|South"
+                            ],
+                            [
+                                157,
+                                186,
+                                "Grand Line|G (Grand Line)"
+                            ],
+                            [
+                                195,
+                                222,
+                                "Emporio Ivankov|Ivankov"
+                            ],
+                            [
+                                255,
+                                266,
+                                "Inazuma"
+                            ],
+                            [
+                                320,
+                                329,
+                                "Ahiru"
+                            ],
+                            [
+                                403,
+                                441,
+                                "File:SBS 93 Clouds.png|thumb|200px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS 93 Clouds.png",
+                        "size": "200",
+                        "start": 403,
+                        "end": 441
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Betty",
+                        "link_title": "/wiki/Belo Betty",
+                        "is_wikipedia": false,
+                        "start": 49,
+                        "end": 69
+                    },
+                    {
+                        "text": "East",
+                        "link_title": "/wiki/East Blue",
+                        "is_wikipedia": false,
+                        "start": 70,
+                        "end": 88
+                    },
+                    {
+                        "text": "West",
+                        "link_title": "/wiki/West Blue",
+                        "is_wikipedia": false,
+                        "start": 90,
+                        "end": 108
+                    },
+                    {
+                        "text": "North",
+                        "link_title": "/wiki/North Blue",
+                        "is_wikipedia": false,
+                        "start": 110,
+                        "end": 130
+                    },
+                    {
+                        "text": "South",
+                        "link_title": "/wiki/South Blue",
+                        "is_wikipedia": false,
+                        "start": 132,
+                        "end": 152
+                    },
+                    {
+                        "text": "G (Grand Line)",
+                        "link_title": "/wiki/Grand Line",
+                        "is_wikipedia": false,
+                        "start": 157,
+                        "end": 186
+                    },
+                    {
+                        "text": "Ivankov",
+                        "link_title": "/wiki/Emporio Ivankov",
+                        "is_wikipedia": false,
+                        "start": 195,
+                        "end": 222
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Chapter 905",
+                        "link_title": "/wiki/Chapter 905",
+                        "is_wikipedia": false,
+                        "start": 10,
+                        "end": 25
+                    },
+                    {
+                        "text": "Volume 90",
+                        "link_title": "/wiki/Volume 90",
+                        "is_wikipedia": false,
+                        "start": 29,
+                        "end": 42
+                    },
+                    {
+                        "text": "Koala",
+                        "link_title": "/wiki/Koala",
+                        "is_wikipedia": false,
+                        "start": 74,
+                        "end": 83
+                    },
+                    {
+                        "text": "Revolutionary Army",
+                        "link_title": "/wiki/Revolutionary Army",
+                        "is_wikipedia": false,
+                        "start": 39,
+                        "end": 61
+                    },
+                    {
+                        "text": "Inazuma",
+                        "link_title": "/wiki/Inazuma",
+                        "is_wikipedia": false,
+                        "start": 255,
+                        "end": 266
+                    },
+                    {
+                        "text": "Ahiru",
+                        "link_title": "/wiki/Ahiru",
+                        "is_wikipedia": false,
+                        "start": 320,
+                        "end": 329
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "koala",
+                        "belo_betty",
+                        "ahiru",
+                        "emporio_ivankov",
+                        "inazuma"
+                    ],
+                    "places": [
+                        "east_blue",
+                        "west_blue",
+                        "north_blue",
+                        "south_blue",
+                        "grand_line"
+                    ],
+                    "topics": [
+                        "revolutionary_army",
+                        "commanders",
+                        "characters_introductions"
+                    ],
+                    "emotions": [
+                        "informative"
+                    ],
+                    "importance": [
+                        "high"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "The girl with black hair and a mechanical arm in Chapter 905 is Ahiru, the deputy commander of the East army and assistant of Belo Betty."
+            },
+            {
+                "number": 8,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hey, about the clouds in Wano Country... ah! Isn't the shape of those farts different from the way Oda usually draws farts - P. N. King that really loves Cora-san",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "You again? Why do you keep thinking that what's drawn in the sky is my farts? <span style=\"font-size:1.5em\">IT'S CLOUDS!! THEY'RE CLOUDS FLOATING IN THE SKY!!</span> As you can imagine Wano Country has a different atmosphere! Because it is Wano Country, I felt it'd be appropriate to make it look like old that Ukiyo-e screens, in other words I'm just doing different farts from usual. Prrrrtt~!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [
+                        "wano"
+                    ],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "farts",
+                        "Wano_Country",
+                        "atmosphere"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": true
+                },
+                "summary": "Oda clarifies that the shapes in the sky are clouds, not farts, and explains that they are drawn differently to match Wano's atmosphere."
+            },
+            {
+                "number": 9,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "When [[Kaidou]] turned into a dragon, did he like float in the air? - P. N. I am came the crane from that time",
+                        "matches": [
+                            [
+                                5,
+                                15,
+                                "Kaidou"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I've heard dragons fly by grabbing onto clouds and carrying themselves through the air. So because of that, Kaidou generates clouds and flies across skies with them.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Kaidou",
+                        "link_title": "/wiki/Kaidou",
+                        "is_wikipedia": false,
+                        "start": 5,
+                        "end": 15
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "kaidou"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "kaido_backstory",
+                        "devil_fruit"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Kaidou generates clouds and flies using them, inspired by the idea of dragons grabbing onto clouds to soar through the sky."
+            }
+        ],
+        "page": "76",
+        "chapter_number": "935",
+        "page_header": "SBS 93 Header 4.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 10,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Thinking back about O-[[Tama]]'s house, there's this tanuki that looks like a bunbuku kettle, but I like to think he wasn't domesticated with her power. I don't think it's tamed with O-Tama's ability. If you're ever in need about wild ideas for your beautiful chapters, how about I help you out? - P. N. Ehara Ryouta",
+                        "matches": [
+                            [
+                                22,
+                                30,
+                                "Tama"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "So you've noticed? The fellow existence I mean. In reality, it kettle that ate the [[Inu Inu no Mi, Model: Tanuki]]. Since it was a kettle precious to [[Kozuki Sukiyaki|Hitetsu]], even now that it gotten these powers, both Hitetsu and Tama are still emotionally attached. Also it will feel hot if you put it on fire, so it is a pet that can\u2019t be used to boil water anymore. But, one more thing, I was hoping someone would notice it, but no one mentioned it. So I will announce it right here!! If you look carefully, Mr. [[Bunbuku]] is actually... <span style=\"font-size:1.5em\">SITTING ON ITS OWN BALLS!! LMAO</span> I can't believe no one ever noticed it!! I laugh as I drew it alone!!\n\n[[File:SBS 93 Newgate.png|thumb|200px]]",
+                        "matches": [
+                            [
+                                83,
+                                115,
+                                "Inu Inu no Mi, Model: Tanuki"
+                            ],
+                            [
+                                151,
+                                178,
+                                "Kozuki Sukiyaki|Hitetsu"
+                            ],
+                            [
+                                520,
+                                531,
+                                "Bunbuku"
+                            ],
+                            [
+                                687,
+                                726,
+                                "File:SBS 93 Newgate.png|thumb|200px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS 93 Newgate.png",
+                        "size": "200",
+                        "start": 687,
+                        "end": 726
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Hitetsu",
+                        "link_title": "/wiki/Kozuki Sukiyaki",
+                        "is_wikipedia": false,
+                        "start": 151,
+                        "end": 178
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Tama",
+                        "link_title": "/wiki/Tama",
+                        "is_wikipedia": false,
+                        "start": 22,
+                        "end": 30
+                    },
+                    {
+                        "text": "Inu Inu no Mi, Model: Tanuki",
+                        "link_title": "/wiki/Inu Inu no Mi, Model: Tanuki",
+                        "is_wikipedia": false,
+                        "start": 83,
+                        "end": 115
+                    },
+                    {
+                        "text": "Bunbuku",
+                        "link_title": "/wiki/Bunbuku",
+                        "is_wikipedia": false,
+                        "start": 520,
+                        "end": 531
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "tama",
+                        "hitetsu",
+                        "bunbuku"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "devil_fruit"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda reveals that the tanuki is actually a kettle that ate the Inu Inu no Mi, Model: Tanuki, and is emotionally attached to Hitetsu and Tama, while also adding a humorous detail about its design."
+            },
+            {
+                "number": 11,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Please tell us the name of the massive \"naginata\" [[Edward Newgate|Whitebeard]] carried. Also, could it be that it's part of those fabled Saijo O Wazamono? - P. N. Mizumoto",
+                        "matches": [
+                            [
+                                50,
+                                79,
+                                "Edward Newgate|Whitebeard"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "It's name is \"[[Murakumogiri]] (Cloud Cutter)\", it's a [[Meito#12 Saijo O Wazamono Grade Swords|Supreme Grade Blade/Sword]].\n\n[[File:SBS 93 Happiness Punch.png|thumb|200px]]",
+                        "matches": [
+                            [
+                                14,
+                                30,
+                                "Murakumogiri"
+                            ],
+                            [
+                                55,
+                                123,
+                                "Meito#12 Saijo O Wazamono Grade Swords|Supreme Grade Blade/Sword"
+                            ],
+                            [
+                                126,
+                                173,
+                                "File:SBS 93 Happiness Punch.png|thumb|200px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS 93 Happiness Punch.png",
+                        "size": "200",
+                        "start": 126,
+                        "end": 173
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Whitebeard",
+                        "link_title": "/wiki/Edward Newgate",
+                        "is_wikipedia": false,
+                        "start": 50,
+                        "end": 79
+                    },
+                    {
+                        "text": "Supreme Grade Blade/Sword",
+                        "link_title": "/wiki/Meito#12 Saijo O Wazamono Grade Swords",
+                        "is_wikipedia": false,
+                        "start": 55,
+                        "end": 123
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Murakumogiri",
+                        "link_title": "/wiki/Murakumogiri",
+                        "is_wikipedia": false,
+                        "start": 14,
+                        "end": 30
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "edward_newgate"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "swords",
+                        "supreme_grade_blade",
+                        "meito"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Whitebeard's massive naginata 'Murakumogiri' is a Supreme Grade Blade/Sword and not part of the Saijo O Wazamono."
+            },
+            {
+                "number": 12,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Does Nami's Happiness Punch still price at {{B}}100,000?\u00a0Or could it be that with her body\u00a0maturing the price went\u00a0up? - P. N. Sanadacchi",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Of course it did. Nami didn't do it willingly this time, but this scene\u00a0is Alabasta's memories.\u00a0Please think of it as if she'd charge {{B}}300,000 now.{{-}}",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "nami"
+                    ],
+                    "places": [
+                        "alabasta"
+                    ],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "happiness_punch",
+                        "character_maturity"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Nami's Happiness Punch now costs {{B}}300,000, considering the scene as a memory from Alabasta."
+            }
+        ],
+        "page": "112",
+        "chapter_number": "937",
+        "page_header": "SBS 93 Header 5.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 13,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I watched [[One Piece Film: Gold|film Gold]] that I've recorded, and I saw that [[Sakazuki]] tell [[Rob Lucci|Lucci]] \"You've become more erotic\". What does he mean by \"erotic\"? - P. N. Min Domu",
+                        "matches": [
+                            [
+                                10,
+                                44,
+                                "One Piece Film: Gold|film Gold"
+                            ],
+                            [
+                                80,
+                                92,
+                                "Sakazuki"
+                            ],
+                            [
+                                98,
+                                117,
+                                "Rob Lucci|Lucci"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Day after day, people will become more erotic and our dear Rob Lucci-san is no different. In that scene, it seems Sakazuki had been Rob Lucci appearing rather erotically on a magazine, so he asked him \"can you lend me an issue?\". I always thought that was a powerful scene... <span style=\"font-size:1.5em\">HE SAID \"HEROIC\"!!! \"YOU'VE BECOME MUCH MORE HEROIC\" IS WHAT HE MEANT!!!</span>\n\n[[File:SBS 93 Scabbards.png|thumb|300px|''\"The question is, how will we remain in contact? I have heard that in foreign lands, they use a kind of 'snail'...\"'']]",
+                        "matches": [
+                            [
+                                387,
+                                548,
+                                "File:SBS 93 Scabbards.png|thumb|300px|''\"The question is, how will we remain in contact? I have heard that in foreign lands, they use a kind of 'snail'...\"''"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS 93 Scabbards.png",
+                        "size": "300",
+                        "start": 387,
+                        "end": 548
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "film Gold",
+                        "link_title": "/wiki/One Piece Film: Gold",
+                        "is_wikipedia": false,
+                        "start": 10,
+                        "end": 44
+                    },
+                    {
+                        "text": "Lucci",
+                        "link_title": "/wiki/Rob Lucci",
+                        "is_wikipedia": false,
+                        "start": 98,
+                        "end": 117
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Sakazuki",
+                        "link_title": "/wiki/Sakazuki",
+                        "is_wikipedia": false,
+                        "start": 80,
+                        "end": 92
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "sakazuki",
+                        "rob_lucci"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "misunderstanding"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Sakazuki meant to say 'heroic', not 'erotic', as he saw Lucci on a magazine and asked for a copy."
+            },
+            {
+                "number": 14,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I want to ask something Oda-san. When we were in [[Zou]], [[Kin'emon]] didn't seem to know about the [[Den Den Mushi|Den Den Mushi or snail transponders]]. But when we came to Wano Kuni we saw similar type of snails only smaller in size. Did new communication methods got discovered in Wano kuni in those the 20 years? - P. N. Top Ship Captain Ota-kun\n\n[[File:SBS 93 Usopp and Tanishi.png|thumb|left|200px]]",
+                        "matches": [
+                            [
+                                49,
+                                56,
+                                "Zou"
+                            ],
+                            [
+                                58,
+                                70,
+                                "Kin'emon"
+                            ],
+                            [
+                                101,
+                                154,
+                                "Den Den Mushi|Den Den Mushi or snail transponders"
+                            ],
+                            [
+                                353,
+                                407,
+                                "File:SBS 93 Usopp and Tanishi.png|thumb|left|200px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "That's right. As [[Usopp]] explain in [[Chapter 934]], this is a telepathic-wave-sending \"[[Animal Species/Wano Country Saga#Tanishi|Tanishi]]\" which is used to communicate in Wano. It became popular during the 20 years when Kin'emon and the others were absent. Now it has become a common communication method in the Wano Country. There is also a \"Light Scroll Tanishi\" similar to \"Video Den Den Mushi\". But there seems to be a downside, that is, the wavelengths is slightly weaker than the normal snail transponders...\n\nAll right! Time up!! SBS next volume!! There is a notice of the movie STAMPEDE behind!!{{-}}",
+                        "matches": [
+                            [
+                                17,
+                                26,
+                                "Usopp"
+                            ],
+                            [
+                                38,
+                                53,
+                                "Chapter 934"
+                            ],
+                            [
+                                90,
+                                142,
+                                "Animal Species/Wano Country Saga#Tanishi|Tanishi"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS 93 Usopp and Tanishi.png",
+                        "size": "200",
+                        "start": 353,
+                        "end": 407
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Den Den Mushi or snail transponders",
+                        "link_title": "/wiki/Den Den Mushi",
+                        "is_wikipedia": false,
+                        "start": 101,
+                        "end": 154
+                    },
+                    {
+                        "text": "Tanishi",
+                        "link_title": "/wiki/Animal Species/Wano Country Saga#Tanishi",
+                        "is_wikipedia": false,
+                        "start": 90,
+                        "end": 142
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Zou",
+                        "link_title": "/wiki/Zou",
+                        "is_wikipedia": false,
+                        "start": 49,
+                        "end": 56
+                    },
+                    {
+                        "text": "Kin'emon",
+                        "link_title": "/wiki/Kin'emon",
+                        "is_wikipedia": false,
+                        "start": 58,
+                        "end": 70
+                    },
+                    {
+                        "text": "Usopp",
+                        "link_title": "/wiki/Usopp",
+                        "is_wikipedia": false,
+                        "start": 17,
+                        "end": 26
+                    },
+                    {
+                        "text": "Chapter 934",
+                        "link_title": "/wiki/Chapter 934",
+                        "is_wikipedia": false,
+                        "start": 38,
+                        "end": 53
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "kin'emon",
+                        "usopp"
+                    ],
+                    "places": [
+                        "zou",
+                        "wano_kuni"
+                    ],
+                    "emotions": [
+                        "informative"
+                    ],
+                    "topics": [
+                        "communication_methods",
+                        "wano_country",
+                        "den_den_mushi",
+                        "sbs_notice"
+                    ],
+                    "importance": [
+                        "high"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "In Wano Kuni, a telepathic-wave-sending Tanishi is used for communication, becoming popular during the 20 years when Kin'emon and others were absent, with a downside of weaker wavelengths."
+            }
+        ],
+        "page": "126",
+        "chapter_number": "938",
+        "page_header": "SBS 93 Header 6.png"
+    }
+]

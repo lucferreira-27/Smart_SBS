@@ -1,0 +1,909 @@
+[
+    {
+        "qa": [
+            {
+                "number": 1,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "For making you wait!! These 10 long years!!!\n\nMY HUMBLEST APOLOGIES!!!\n\n<span style=\"font-size:1.5em\">I WILL START THE SBS NOW!!!!</span>\n\nP.N. Spartacos",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "<span style=\"font-size:1.5em\">IS IT YOU, KYROS!!? ''(cries)''</span>\n\nWhat's with this heart-wrenching style of starting this segment!\n\nTo think I'd get a postcard from Kyros...! Oh wait, it's Spartacos.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "kyros"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "cries",
+                        "humble",
+                        "apologies"
+                    ],
+                    "topics": [
+                        "SBS_start",
+                        "postcard",
+                        "kyros_identity"
+                    ],
+                    "importance": "hight",
+                    "isCharacterInsertion": true
+                },
+                "summary": "Kyros apologizes for a 10-year wait and starts the SBS, Oda jokingly compares him to a character, leading to a fun start."
+            },
+            {
+                "number": 2,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchi, try drawing Godzilla. P.N. SnowSoul",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Here, Godzilla.\n[[File:SBS76 1 Drawings.png|thumb|center|500px|Left: \"Gorilla\" Right: ''\"Jab, Jab\"'']]",
+                        "matches": [
+                            [
+                                16,
+                                102,
+                                "File:SBS76 1 Drawings.png|thumb|center|500px|Left: \"Gorilla\" Right: ''\"Jab, Jab\"''"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS76 1 Drawings.png",
+                        "size": "500",
+                        "start": 16,
+                        "end": 102
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "art",
+                        "drawing"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader asks Oda to draw Godzilla, and he responds with a drawing of Godzilla and a character called 'Jab, Jab'."
+            },
+            {
+                "number": 3,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "About [[Nefertari Vivi|Vivi]], I noticed that out of the countless characters that have appeared in the series so far, she seems to be the only character who is deemed to be a comrade without officially being in the crew, and if possible, I wanted to know if you could please tell us the specific number/specific color/animal resemblance/country/blood type/favorite food/least favorite food/etc., revealed for the rest of the Straw Hat Pirates so far, for her as well.\u00a0P.N. Hoshino Shizuku\n[[File:SBS76 1 Vivi.png|thumb|150px]]",
+                        "matches": [
+                            [
+                                6,
+                                29,
+                                "Nefertari Vivi|Vivi"
+                            ],
+                            [
+                                490,
+                                527,
+                                "File:SBS76 1 Vivi.png|thumb|150px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Gotcha. The fandom is strong with Vivi.\n\n*Specific Number: 5.5\n\n*Specific Color: White (Gold)\n\n*Animal Resemblance: Dove (Discussed with her voice actress: Misa Watanabe)\n\n*Blood Type: F\n\n*Favorite Food: Curry, Pudding\n\n*Least Favorite Food: Dried Squid",
+                        "matches": []
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS76 1 Vivi.png",
+                        "size": "150",
+                        "start": 490,
+                        "end": 527
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Vivi",
+                        "link_title": "/wiki/Nefertari Vivi",
+                        "is_wikipedia": false,
+                        "start": 6,
+                        "end": 29
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "nefertari_vivi"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "straw_hat_pirates",
+                        "vivi",
+                        "favorite_food",
+                        "blood_type"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Vivi is considered a comrade without officially being in the crew, and she has specific traits like favorite food (curry, pudding) and least favorite food (dried squid)."
+            }
+        ],
+        "page": "24",
+        "chapter_number": "753",
+        "page_header": "SBS76 Header 1.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 4,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "About Law, you know how, in his crew, there's \"Penguin\", \"Bepo\" and \"Shachi\"<font color=#999999>''[Orca]\u00a0''</font>? So, would that make Law a \"Spotted Seal\"? I mean, just look at his hat... Please tell me!! P.N. I am a Walrus",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I see (haha). They're all part of the ice-cold sea series, aren't they. I can see what you mean, that hat is kind of like a seal. Well then, it's official. Incidentally, for Mr. Toshio Asakuma's ONE PIECE Animal Figurine Collection, they chose a snow leopard to represent Law. Again, an animal that prefers the cold.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "law",
+                        "penguin",
+                        "bepo",
+                        "shachi"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "character_design",
+                        "animal_representation"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "The reader suggests Law could be a 'Spotted Seal' due to his crew, and Oda playfully agrees, mentioning an artist chose a snow leopard to represent Law."
+            },
+            {
+                "number": 5,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei~~!! What happens if you try adding the cuteness factor to Franky? P.N. Fifty Storm Kyosuke",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Here. I tried so hard, I really did, but in the end it just wasn't possible....",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "franky"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "humorous"
+                    ],
+                    "topics": [
+                        "character_design",
+                        "artistic_struggle"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda tried to add cuteness to Franky but ultimately found it impossible to do so."
+            },
+            {
+                "number": 6,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "If the Straw Hats weren't pirates, what would their careers of choice end up being? Please tell us!! (Though I bet Sanji would still be a chef......)\u00a0from H.momo Age 9",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Ok. So about this, I actually ended up finding the answer on a postcard from another fan.\n\nI found that the example professions listed to the side labeled \"My Hobbies\". that P.N. SukeKiyo-san included along with your exact same question were spot on, so here they are. I assume they really would turn out to be something like this.\n\n{| style=\"margin:auto;\"\n|[[File:SBS76 Luffy.png|75px]]||\nFirefighter\n|[[File:SBS76 Zoro.png|75px]]||\nPolice Officer\n|[[File:SBS76 Nami.png|75px]]||\nChildcare Worker\n|-\n|[[File:SBS76 Usopp.png|75px]]||\nGraphic Designer\n|[[File:SBS76 Sanji.png|75px]]||\nBeauty Salon Worker\n|[[File:SBS76 Chopper.png|75px]]||\nElementary School Teacher\n|-\n|[[File:SBS76 Robin.png|75px]]||\nCabin Attendant\n|[[File:SBS76 Franky.png|75px]]||\nPilot\n|[[File:SBS76 Brook.png|75px]]||\nDetective\n|}",
+                        "matches": [
+                            [
+                                358,
+                                387,
+                                "File:SBS76 Luffy.png|75px"
+                            ],
+                            [
+                                403,
+                                431,
+                                "File:SBS76 Zoro.png|75px"
+                            ],
+                            [
+                                450,
+                                478,
+                                "File:SBS76 Nami.png|75px"
+                            ],
+                            [
+                                502,
+                                531,
+                                "File:SBS76 Usopp.png|75px"
+                            ],
+                            [
+                                552,
+                                581,
+                                "File:SBS76 Sanji.png|75px"
+                            ],
+                            [
+                                605,
+                                636,
+                                "File:SBS76 Chopper.png|75px"
+                            ],
+                            [
+                                669,
+                                698,
+                                "File:SBS76 Robin.png|75px"
+                            ],
+                            [
+                                718,
+                                748,
+                                "File:SBS76 Franky.png|75px"
+                            ],
+                            [
+                                758,
+                                787,
+                                "File:SBS76 Brook.png|75px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS76 Luffy.png",
+                        "size": "75",
+                        "start": 358,
+                        "end": 387
+                    },
+                    {
+                        "file": "SBS76 Zoro.png",
+                        "size": "75",
+                        "start": 403,
+                        "end": 431
+                    },
+                    {
+                        "file": "SBS76 Nami.png",
+                        "size": "75",
+                        "start": 450,
+                        "end": 478
+                    },
+                    {
+                        "file": "SBS76 Usopp.png",
+                        "size": "75",
+                        "start": 502,
+                        "end": 531
+                    },
+                    {
+                        "file": "SBS76 Sanji.png",
+                        "size": "75",
+                        "start": 552,
+                        "end": 581
+                    },
+                    {
+                        "file": "SBS76 Chopper.png",
+                        "size": "75",
+                        "start": 605,
+                        "end": 636
+                    },
+                    {
+                        "file": "SBS76 Robin.png",
+                        "size": "75",
+                        "start": 669,
+                        "end": 698
+                    },
+                    {
+                        "file": "SBS76 Franky.png",
+                        "size": "75",
+                        "start": 718,
+                        "end": 748
+                    },
+                    {
+                        "file": "SBS76 Brook.png",
+                        "size": "75",
+                        "start": 758,
+                        "end": 787
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy",
+                        "roronoa_zoro",
+                        "nami",
+                        "usopp",
+                        "sanji",
+                        "tony_tony_chopper",
+                        "nico_robin",
+                        "franky",
+                        "brook"
+                    ],
+                    "places": [],
+                    "topics": [
+                        "career_choice",
+                        "straw_hats",
+                        "profession"
+                    ],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "The Straw Hats' alternative careers would include Luffy as a firefighter, Zoro as a police officer, Nami as a childcare worker, Sanji as a beauty salon worker, and other roles."
+            }
+        ],
+        "page": "42",
+        "chapter_number": "754",
+        "page_header": "SBS76 Header 2.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 7,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "So Oda-sensei, I realize that your love for large breasts is an incurable disease that really can't be helped, but I've always waited long days and nights, anticipating, longing, for the moment you would introduce a \"flat-chested character\". And then... it finally actually happened!! Can you believe it?! That's right, the one and only with the absolutely stunning legs that\u00a0we pride from our very own Doflamingo family- \"Dellinger\", aged 16! This, I believe, would be the very first \"flat-chested female character\" to have ever appeared in ONE PIECE...!\u00a0P.N. I too, am a wife.",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "<span style=\"font-size:1.5em\"> I'M SO SORRY! IT'S A DUDE!! (rofl)</span> Man, it seems like this incident stirred up a whole lot of confusion in the fandom. In reality, he was found by the Family as an abandoned infant and was apparently cared for by Giolla, but I guess she ended up raising\u00a0him to her tastes as a girl.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "dellinger",
+                        "giolla"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "character_design",
+                        "gender_confusion"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "Dellinger was mistakenly believed to be the first flat-chested female character, but Oda clarified that Dellinger is actually a male raised to look like a girl."
+            },
+            {
+                "number": 8,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei!! Greetings! So in chapter 747, we can see that Koala goes \"\u30d1\u30b7\u30e3\uff01\"<font color=#999999>''[\"Pasha!\"- camera onomatopoeia; \"snap!\"]\u00a0''</font> with a Den Den Mushi, but could that possibly be a variation of the Visual Den Den Mushi? Or does it have its own name, such as \"Photographic Den Den Mushi\", or something of the sort? Please tell us!! P.N. Samurai Ryota",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes, that would be a Visual Den Den Mushi. So that would put this little guy in the same category as the ones that were stuck all around Impel Down. When it comes to \"Visual Den Den Mushi\", there's the \"Cameko\" type that acts as a camera, and then the \"Proko\" type that receives its signals and acts as a projector, and to put it bluntly, these two types are simply the adult and baby versions of each other. \"Cameko\"s also have the ability to store images and videos. As they grow into \"Proko\"s, they gain the ability to receive, project and broadcast these visuals as well.\u00a0{{-}}",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "koala"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "den_den_mushi",
+                        "visual_den_den_mushi"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Koala's Den Den Mushi is a 'Visual Den Den Mushi,' specifically a 'Cameko' type functioning as a camera in the same category as those in Impel Down."
+            }
+        ],
+        "page": "80",
+        "chapter_number": "756",
+        "page_header": "SBS76 Header 3.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 9,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchi! Question!! You know how there aren't any females in the Whitebeard Pirates? It bothers me!\u00a0P.N. Apple",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Hrmmm. So back when they made their first appearance (volume 25), there were female nurses on board. These lovely ladies were actually the Whitebeard Pirates' official medical team. However, due to Whitebeard's own set of morals, he never allowed a woman on board his ship as \"fighters\". This is the reason why there wasn't a single woman in his crew when they arrived in the \"Summit War Arc\". He was prepared for \"death\" at this point. He had ripped off all of the medical tools that were helping him stablize his condition despite his illness, left the women of his medical team, who desperately tried to stop him, in a safe place while tearing up, and went back out into sea for battle with just his boys!! I ended up not drawing all of this, but that's basically all the drama that went down before Pops finally showed up in the house.\n\n[[File:SBS76 4 Zoro Sanji.png|thumb|150px]]",
+                        "matches": [
+                            [
+                                841,
+                                884,
+                                "File:SBS76 4 Zoro Sanji.png|thumb|150px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS76 4 Zoro Sanji.png",
+                        "size": "150",
+                        "start": 841,
+                        "end": 884
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "whitebeard"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "serious"
+                    ],
+                    "topics": [
+                        "whitebeard_pirates",
+                        "gender_diversity"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Whitebeard Pirates had female nurses, but Whitebeard's moral code prohibited women from being fighters, hence no female crew members during Summit War Arc."
+            },
+            {
+                "number": 10,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda sensei. I am currently faced with a big problem!!! My family just can't understand the difference between Zoro and Sanji!!!\n\nSo that even people like them can understand, I'd like to request you to draw some impactful illustrations differentiating the two in a way that they will never forget again.",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "{{-}}\n[[File:SBS76 4 Differences.png|thumb|center|400px|''This is Zoro. This is Sanji. Zoro. Sanji. Zoro. Sanji. Zoro. Sanji. Zoro. Sanji. Zoro. Sanji.'']]\n{{-}}",
+                        "matches": [
+                            [
+                                6,
+                                155,
+                                "File:SBS76 4 Differences.png|thumb|center|400px|''This is Zoro. This is Sanji. Zoro. Sanji. Zoro. Sanji. Zoro. Sanji. Zoro. Sanji. Zoro. Sanji.''"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS76 4 Differences.png",
+                        "size": "400",
+                        "start": 6,
+                        "end": 155
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "roronoa_zoro",
+                        "sanji"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "character_differentiation",
+                        "illustrations"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "Oda uses a humoristic approach to help a reader's family differentiate Zoro and Sanji by drawing them with their names repeatedly."
+            }
+        ],
+        "page": "98",
+        "chapter_number": "757",
+        "page_header": "SBS76 Header 4.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 11,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "If the members of the Shichibukai were genderswapped with the Horu Horu no Mi ability, what would happen? P.N. YMEK",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "You all really love this stuff, don't you. It's starting to get kinda weird, y'know??\n\n[[File:Warlords Genders Swapped.png|thumb|center|400px]]\n\n''Crocodile: \"Kuhaha <3 I won't trust a single soul, but I totally believe in divination\"''\n\n''Moria: \"Y'all better do your shit <3\"''\n\n''Hancock: \"I'll be forgiven. That's right, 'cause I'm hot\"''\n\n''Teach: \"Huh? Black beard? I don't grow one\"''\n\n''Doflamingo: \"It begins... the cake buffet\"''\n\n''Jinbe: \"I can't thank you en...ice body!!\"''\n\n''Mihawk: \"You must surpass my beauty\"''\n\n''Kuma: \"Hey heeeey, if you could go on vacay, where'd you wanna gooo?\"''{{-}}",
+                        "matches": [
+                            [
+                                87,
+                                143,
+                                "File:Warlords Genders Swapped.png|thumb|center|400px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "Warlords Genders Swapped.png",
+                        "size": "400",
+                        "start": 87,
+                        "end": 143
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "crocodile",
+                        "moria",
+                        "hancock",
+                        "teach",
+                        "doflamingo",
+                        "jinbe",
+                        "mihawk",
+                        "kuma"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "silly"
+                    ],
+                    "topics": [
+                        "shichibukai",
+                        "gender swap",
+                        "Horu Horu no Mi"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Readers ask about genderswapped Shichibukai with Horu Horu no Mi abilities, and Oda provides humorous, gender-swapped dialogue and sketches for each member."
+            }
+        ],
+        "page": "116",
+        "chapter_number": "758",
+        "page_header": "SBS76 Header 5.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 12,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello, Odacchi! Going right to the point, about the person who appeared in chapter 341 of volume 36, you named him as \"Mr. Happa\", but in \"BLUE DEEP\", it says his name is \"Yamao\". It'd be great if I could get some clarification in that area! P.N. Bon Voyage",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes. That would be Mr. Happa Yamao.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "character_name",
+                        "clarification"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "In chapter 341 of volume 36, the character was named 'Mr. Happa', but 'BLUE DEEP' clarified his name as 'Yamao', so it's actually 'Mr. Happa Yamao'."
+            },
+            {
+                "number": 13,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "NAAA~~HAHHAHHAHHAHHA ''(hyper)'' Well hellooooo theeereeee~~! Tis~I,~U~~ME~~\n\nTo you all out there that look at nothing but Nami's breasts, ''psheeeew'' take some of that orange juice spray!!\n\nRecently, I've noticed that many mangakas are into the Twitter thing, but why don't you join them, Odacchi? When you're finished answering, ''psheeeew'' here's some lovely orange juice spray to your open eyes!\u00a0(P.N.UME)",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Gah! It stings!! Stop it!! And it's fresh too!? .....mmkay yeah.\n\nTwitter, I see. Is everyone really doing it? Well either way, I guess I still wouldn't be all that interested in doing it. In general, I don't think there is and will ever be an instance where I personally post or send things on the internet. I probably only ever do it with Shueisha or Toei Animation acting as a sort of mediator. Well actually, I just got a request to do this scribble segment thing on ONE PIECE.com. I guess I'll just kind of wing that.\n\n[[File:SBS76 6 Age.png|thumb|100px]]",
+                        "matches": [
+                            [
+                                524,
+                                560,
+                                "File:SBS76 6 Age.png|thumb|100px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS76 6 Age.png",
+                        "size": "100",
+                        "start": 524,
+                        "end": 560
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "nami",
+                        "oda"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "social_media",
+                        "internet"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda declines joining Twitter, preferring to post online only through intermediaries like Shueisha or Toei Animation; he mentions a potential One Piece.com scribble segment."
+            },
+            {
+                "number": 14,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "In volume 13 chapter 116 pg 158, Dorry says that giants have a lifespan that is 3x that of a human lifespan. If so, what is the general life span of a dwarf? Seeing as Wicca is 27 despite her appearance, I feel like it might be pretty long.\u00a0P.N. OP girl",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Ah yes, so giants can typically live up to maybe 300 years or sometimes even more than that. On the other hand, we've got our youthful looking dwarves.. I wonder if it has to do with their proportions? But I heard that they live up to around 150 years. That'd be a bit more than a normal human-resu.{{-}}",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "dorry",
+                        "wicca"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "curious"
+                    ],
+                    "topics": [
+                        "life_span",
+                        "giants",
+                        "dwarves"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Giants can live up to 300 years or more, while dwarves, with their youthful appearance, live around 150 years, which is more than a normal human lifespan."
+            }
+        ],
+        "page": "134",
+        "chapter_number": "759",
+        "page_header": "SBS76 Header 6.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 15,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "You know how there was a question in SBS Volume 75 about the admiral candidates?? Well I just figured out the reason behind your final choice of the \"Ox\" and the \"Tiger\" so here it is...\n\n<p style=\"text-align:center;\"><span style=\"font-size:2.5em\">\u2192</span></p>\n\nHitsujisaru\u00a0<font color=#999999>''[\u672a\u7533 (\u5764) - literally \"Sheep Monkey\"]''</font> \u2192 Momotaro\n\nUshitora\u00a0<font color=#999999>''[\u4e11\u5bc5 (\u826e) - literally \"Ox Tiger\"]''</font> \u2192 Kimon <font color=#999999>''[\u9b3c\u9580 - literally \"Demon Gate\"]''</font> \u2192 [[wikipedia:Oni|Oni]] <font color=#999999>''[\u9b3c]''</font> (Tiger loincloth, Ox horn)\n\nAnd the \"Oni\" in this case would be representing the pirates.\n\nCould the two new admirals \"Ryokugyu\" and \"Fujitora\" possibly have been created with the concept that, despite them being people of the Marines, deep down inside they are both Admirals who secretly harbor ill feelings towards the World Government (going against the WG \u2192 kind of like pirates?) as can be seen with Fujitora's wish to completely abolish the \"Shichibukai\" system set up by the World Government? P.N. Tosaka Kouhai\n\n<font color=#999999>''(Translator's Note: The epithets of the first three admirals [Kizaru- literally Yellow Monkey, Akainu- literally Red Dog, and Aokiji- Literally Blue Pheasant] come from the Japanese [[wikipedia:Momotar\u014d|Legend of Momotaro]], where Momotaro befriends a Monkey, Dog, and Pheasant on his journey to defeat an evil Oni in a distant island. This tale is actually based off of [[wikipedia:Onmy\u014dd\u014d|Onmyodo]]\u00a0[derived from the more commonly known [[wikipedia:Feng Shui|Feng-Shui]], a traditional Japanese esoteric cosmology, in which the Ox and the Tiger, aka Ushitora, are the two zodiacs positioned in the Northeastern direction of the Onmyodo diagram and considered to be evil or unlucky. In Momotaro, the Tiger and Ox are represented by the evil Oni.)''</font>",
+                        "matches": [
+                            [
+                                496,
+                                517,
+                                "wikipedia:Oni|Oni"
+                            ],
+                            [
+                                1277,
+                                1318,
+                                "wikipedia:Momotar\u014d|Legend of Momotaro"
+                            ],
+                            [
+                                1466,
+                                1495,
+                                "wikipedia:Onmy\u014dd\u014d|Onmyodo"
+                            ],
+                            [
+                                1534,
+                                1567,
+                                "wikipedia:Feng Shui|Feng-Shui"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "<span style=\"font-size:1.5em\"> What? Me, becoming restless? ''(cold sweat)'' W-w-what are you talking about? Of course not.</span>\n\nUhhh, well that was one heck of a complicated theory written on this piece of paper. If you want to, go ahead and try to process it. I haven't said a single thing about whether this theory is correct or incorrect, okay! ''(cold sweat)'' Just saying. I j-just happened to throw this postcard in, so that I could show my fans the kinds of questions I've been getting and s-stuff.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Oni",
+                        "link_title": "/wiki/Oni",
+                        "is_wikipedia": true,
+                        "start": 496,
+                        "end": 517
+                    },
+                    {
+                        "text": "Legend of Momotaro",
+                        "link_title": "/wiki/Momotar\u014d",
+                        "is_wikipedia": true,
+                        "start": 1277,
+                        "end": 1318
+                    },
+                    {
+                        "text": "Onmyodo",
+                        "link_title": "/wiki/Onmy\u014dd\u014d",
+                        "is_wikipedia": true,
+                        "start": 1466,
+                        "end": 1495
+                    },
+                    {
+                        "text": "Feng-Shui",
+                        "link_title": "/wiki/Feng Shui",
+                        "is_wikipedia": true,
+                        "start": 1534,
+                        "end": 1567
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "ryokugyu",
+                        "fujitora"
+                    ],
+                    "places": [],
+                    "topics": [
+                        "admirals",
+                        "world_government",
+                        "sbs_volume_75",
+                        "momotaro_legend",
+                        "marine_secret_feelings"
+                    ],
+                    "emotions": [
+                        "anxious",
+                        "tense"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "The reader speculates about the symbolic meaning behind the names of the admirals and their potential secret resentment towards the World Government."
+            },
+            {
+                "number": 16,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I know this is sudden, but how about we play a game of [[wikipedia:Shiritori|shiritori]] using only Straw Hat member names (no family names)?? Ok, I will start...\n\n<span style=\"font-size:1.5em\">\"Zoro\".</span>\u00a0Now then Odacchi, keep on doin' your thing!! from K Ayu age 16",
+                        "matches": [
+                            [
+                                55,
+                                88,
+                                "wikipedia:Shiritori|shiritori"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Oh come on, it's Shiritori, right?! You have to keep going! Ok I'll go, I'm up next, aren't I?\u00a0\n\nReady, set,\u00a0<span style=\"font-size:1.5em\">\"ROBIN!!!\". OK, SBS ENDS HERE!!!</span>\n\nWe'll announce the popularity poll results at the end of the volume!! Now that I think of it, we kind of forgot to do stuff like \"you'll have a chance to win prizes if you vote~!\" (I mean, it's been 6 years...), but a ridiculosuly amazing number of you still submitted your votes anyway, so thank you all so much!!\n\nMake sure to look for your favorite character!\n\n<font color=#999999>''(Translator's Note: Oda had no choice but to lose because the only Straw Hat name that starts with the end of Zoro's name (Ro) is Robin, and her name ends with an \"N\".)''</font> {{-}}",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "shiritori",
+                        "link_title": "/wiki/Shiritori",
+                        "is_wikipedia": true,
+                        "start": 55,
+                        "end": 88
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "zoro",
+                        "robin"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "happy"
+                    ],
+                    "topics": [
+                        "SBS_popularity_poll",
+                        "shiritori_game"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Readers request a game of Shiritori using Straw Hat member names; Oda contributes 'Robin' and ends the Q&A."
+            }
+        ],
+        "page": "148",
+        "chapter_number": "760",
+        "page_header": "SBS76 Header 7.png"
+    }
+]

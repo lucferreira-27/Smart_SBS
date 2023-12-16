@@ -1,0 +1,969 @@
+[
+    {
+        "qa": [
+            {
+                "number": 1,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello, Oda-cchi! Nice to meet you. I have to say I'm quite ticked right now! \"HEY YOU! ONE PIECE READERS! Stop starting the SBS without permission! We should aknolwedge Oda-cchi's status as the creator!\" Whew, it's nice to get that pent-up stress out.\n\nNow then... START THE SBS!\n\n-Ayako-",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "YOU'RE STARTING IT?! Ohhh, so that's how you're gonna play it, is that it?! Just when I thought I'd regain rightful control of the SBS as the creator too! WELL FINE! I'll wake up super duper early and get in line the next volume to finally start it myself!\n\n\n[[File:SBS_Vol.32_7.png|right|150px]]",
+                        "matches": [
+                            [
+                                259,
+                                296,
+                                "File:SBS_Vol.32_7.png|right|150px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS_Vol.32_7.png",
+                        "size": "150",
+                        "start": 259,
+                        "end": 296
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "ticked",
+                        "stress",
+                        "surprise"
+                    ],
+                    "topics": [],
+                    "importance": "normal",
+                    "isCharacterInsertion": true
+                },
+                "summary": "The reader expresses frustration with others starting the Q&A without permission, prompting Oda to playfully respond and announce he will start the next volume himself."
+            },
+            {
+                "number": 2,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello, [[Eiichiro Oda|Oda]]-sensei! Why does\u00a0[[Gedatsu]]'s hair change from scene to scene? Just how many locks of hair does he have? Please answer in Oda-speak.\n\n-TAKE-",
+                        "matches": [
+                            [
+                                7,
+                                27,
+                                "Eiichiro Oda|Oda"
+                            ],
+                            [
+                                45,
+                                56,
+                                "Gedatsu"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Oda-speak, eh? I'm impressed you knew about its existence. Very well! The reason why Gedatsu's hair changes is...!\n\nBOTEMANOHONUSSODEREMOKEFYOBOTEMAMUCHAPOPOSHIBIWHOREALLYCARESMAHAHANYUNYONYON. That's why.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Oda",
+                        "link_title": "/wiki/Eiichiro Oda",
+                        "is_wikipedia": false,
+                        "start": 7,
+                        "end": 27
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Gedatsu",
+                        "link_title": "/wiki/Gedatsu",
+                        "is_wikipedia": false,
+                        "start": 45,
+                        "end": 56
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "gedatsu"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "inconsistency",
+                        "character_design"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Gedatsu's hair changes because who really cares, according to Oda's playful response."
+            },
+            {
+                "number": 3,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "A quick observation about\u00a0[[Enel]].\u00a0When I realized that his line,\u00a0{{Nihongo|\"I am God\"|\u795e\u306a\u308a|Kami Nari}} is the same as the word for\u00a0{{Nihongo|lightning|\u96f7|Kaminari}}, I thought I should recommend you as the next presidential candidate for the WOF (World Oyajigag Foundation), to which my father serves as the current president.\n\n''Ojayigag (literally meaning \"old man humour\") refers to lame, usually pun-related jokes that only old Japanese men would make and find funny.''",
+                        "matches": [
+                            [
+                                26,
+                                34,
+                                "Enel"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Well this is unexpected. I'm still a peppy young man in my 20s. Please don't.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Enel",
+                        "link_title": "/wiki/Enel",
+                        "is_wikipedia": false,
+                        "start": 26,
+                        "end": 34
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "enel"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "surprised",
+                        "funny"
+                    ],
+                    "topics": [
+                        "oyajigag",
+                        "jokes",
+                        "enel"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader makes a pun about Enel and suggests Oda as a presidential candidate for the World Oyajigag Foundation, to which Oda humorously declines."
+            }
+        ],
+        "page": 86,
+        "chapter_number": 299,
+        "page_header": "SBS Vol 32 header.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 4,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odatsu-sama! If you roll your eyes to the back if your head, you won't be able to draw your manuscript!\n\n-Dorapiece-",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Ahh! How careless!\n\n(me trying to draw Luffy with my eyes rolled back) \u2192\n{{-}}",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "careless",
+                        "funny"
+                    ],
+                    "topics": [
+                        "drawing",
+                        "manuscript"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A fan warns Oda not to roll his eyes while drawing, and Oda jokingly acknowledges the warning while attempting to draw Luffy with his eyes rolled back."
+            },
+            {
+                "number": 5,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Salutations, your Grace. Forgive me for robbing your Grace's precious time but I bring a question. During the bath scene of\u00a0[[Volume 23]], the men attempted to peek at the nubile bodies of\u00a0[[Nami]] and [[Nefertari Vivi|Vivi]]. Now, although I can comprehend why Sanji, King Cobra and Igaram wished to peek...\n\n[[Image:SBS Vol.32 2.png|right]]\nWhy in the hell did\u00a0[[Monkey D. Luffy|Luffy]], [[Usopp]] and [[Tony Tony Chopper|Chopper]] peek too?!\n\nPLEASE ANSWER ME(SERIOUSLY)!\n\nIf you don't give me a serious answer, I... I... I'll SUE YOUR PANTS OFF! \n\n-President of the Association to Prevent Peeping Boys, Shikobaya Pinoko-",
+                        "matches": [
+                            [
+                                124,
+                                137,
+                                "Volume 23"
+                            ],
+                            [
+                                189,
+                                197,
+                                "Nami"
+                            ],
+                            [
+                                202,
+                                225,
+                                "Nefertari Vivi|Vivi"
+                            ],
+                            [
+                                310,
+                                342,
+                                "Image:SBS Vol.32 2.png|right"
+                            ],
+                            [
+                                363,
+                                388,
+                                "Monkey D. Luffy|Luffy"
+                            ],
+                            [
+                                390,
+                                399,
+                                "Usopp"
+                            ],
+                            [
+                                404,
+                                433,
+                                "Tony Tony Chopper|Chopper"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Why, you ask? Well, that's because they are all healthy boys. I don't think there needs to be any other reason than that. But for Chopper, he might have done it just because everyone else was. Frankly, to not want to peep on a beautiful girl when she's naked is a great disrespect to that girl in my o-\n\nAhem, I mean, in\u00a0[[Sanji]]'s opinion.",
+                        "matches": [
+                            [
+                                321,
+                                330,
+                                "Sanji"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": ":SBS Vol.32 2.png",
+                        "size": null,
+                        "start": 310,
+                        "end": 342
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Vivi",
+                        "link_title": "/wiki/Nefertari Vivi",
+                        "is_wikipedia": false,
+                        "start": 202,
+                        "end": 225
+                    },
+                    {
+                        "text": "Luffy",
+                        "link_title": "/wiki/Monkey D. Luffy",
+                        "is_wikipedia": false,
+                        "start": 363,
+                        "end": 388
+                    },
+                    {
+                        "text": "Chopper",
+                        "link_title": "/wiki/Tony Tony Chopper",
+                        "is_wikipedia": false,
+                        "start": 404,
+                        "end": 433
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Volume 23",
+                        "link_title": "/wiki/Volume 23",
+                        "is_wikipedia": false,
+                        "start": 124,
+                        "end": 137
+                    },
+                    {
+                        "text": "Nami",
+                        "link_title": "/wiki/Nami",
+                        "is_wikipedia": false,
+                        "start": 189,
+                        "end": 197
+                    },
+                    {
+                        "text": "Usopp",
+                        "link_title": "/wiki/Usopp",
+                        "is_wikipedia": false,
+                        "start": 390,
+                        "end": 399
+                    },
+                    {
+                        "text": "Sanji",
+                        "link_title": "/wiki/Sanji",
+                        "is_wikipedia": false,
+                        "start": 321,
+                        "end": 330
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "nami",
+                        "nefertari_vivi",
+                        "luffy",
+                        "usopp",
+                        "tony_tony_chopper",
+                        "sanji"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "bath_scene",
+                        "peeping",
+                        "funny"
+                    ],
+                    "importance": "hight",
+                    "isCharacterInsertion": true
+                },
+                "summary": "Oda explains that Luffy, Usopp, and Chopper peeked because they are healthy boys, but Chopper might have done it just because everyone else was."
+            },
+            {
+                "number": 6,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Ohh Enel, Enel, wherefore art thou Enel?\n\n-Hina-",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Right. Thanks for the postcard.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "enel",
+                        "hina"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "missing_character",
+                        "fan_interaction"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "D is asking about the character Enel, and Oda thanks the reader for the postcard."
+            }
+        ],
+        "page": "106",
+        "chapter_number": "300",
+        "page_header": null
+    },
+    {
+        "qa": [
+            {
+                "number": 7,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Dear\u00a0Oda-sensei, previously in the 27th volume, you talked about the pseudonymous Sokotsuya-san. And now Sue's voice actor is credited as Sokotsuya-san. Who is the voice actor this time then? Please give us the real answer.",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "The real answer is Nami's VA, [[Wikipedia:Akemi Okamura|Okamura Akemi]]. It's pretty hard to tell, isn't it? Fans of the [[anime]], listen very carefully at the voices for the animals. Sokotsuya is one of the voice actors among the regular crew.\n\n[[Image:SBS Vol.32 4.png|right|150px]]",
+                        "matches": [
+                            [
+                                30,
+                                71,
+                                "Wikipedia:Akemi Okamura|Okamura Akemi"
+                            ],
+                            [
+                                121,
+                                130,
+                                "anime"
+                            ],
+                            [
+                                247,
+                                285,
+                                "Image:SBS Vol.32 4.png|right|150px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": ":SBS Vol.32 4.png",
+                        "size": "150",
+                        "start": 247,
+                        "end": 285
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Okamura Akemi",
+                        "link_title": "/wiki/Wikipedia:Akemi Okamura",
+                        "is_wikipedia": false,
+                        "start": 30,
+                        "end": 71
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "anime",
+                        "link_title": "/wiki/anime",
+                        "is_wikipedia": false,
+                        "start": 121,
+                        "end": 130
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "nami"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "informative"
+                    ],
+                    "topics": [
+                        "voice_actor",
+                        "anime"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Sokotsuya-san's voice actor is Nami's VA, Akemi Okamura, who is part of the regular crew, often voicing animals."
+            },
+            {
+                "number": 8,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "You know when Sanji and Usopp are climbing the ark on the 5th panel of [[Volume 30]] p. 153?\u00a0What exactly is Usopp wearing? \n\nWHAT'S THAT \"SPLAT\"? WHAT IS IT!?\n\n-One Piece Fanclub No. 009-",
+                        "matches": [
+                            [
+                                71,
+                                84,
+                                "Volume 30"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "OCTOPUSHOES. They're OCTOPUSHOES. A brand new invention developed at\u00a0Usopp's Factory, [[Usopp's Arsenal#Other Equipment|Octopak Shoes]]!! They have suckers on the back, so technically if you wear four, one for each limb, you should be able to climb anything, or so says Usopp, at least. We're not sure exactly how powerful they are. But anyways, try saying \"Octopushoes\" quickly ten times!\n\n[[Image:SBS Vol.32 5.png|right|150px]]",
+                        "matches": [
+                            [
+                                86,
+                                135,
+                                "Usopp's Arsenal#Other Equipment|Octopak Shoes"
+                            ],
+                            [
+                                391,
+                                429,
+                                "Image:SBS Vol.32 5.png|right|150px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": ":SBS Vol.32 5.png",
+                        "size": "150",
+                        "start": 391,
+                        "end": 429
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Octopak Shoes",
+                        "link_title": "/wiki/Usopp's Arsenal#Other Equipment",
+                        "is_wikipedia": false,
+                        "start": 86,
+                        "end": 135
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Volume 30",
+                        "link_title": "/wiki/Volume 30",
+                        "is_wikipedia": false,
+                        "start": 71,
+                        "end": 84
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "sanji",
+                        "usopp"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "usopps_factory",
+                        "octopak_shoes"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Usopp is wearing Octopushoes, a new invention from Usopp's Factory with suckers on the back, and the 'splat' is not explained."
+            },
+            {
+                "number": 9,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Good evening, Oda-sensei. It's a bit abrupt but let's have a match! Acchi Muite Hoi (right)!. I won, so here's my question. Just what are those things sticking out from the heads of\u00a0[[Skypiea]]\u00a0citizens? Some sort of supports? They're really thin though, so I can't imagine them supporting much. Please ANSWER PROPERLY! (says in a commanding tone)\n\n-Apple Lapple-",
+                        "matches": [
+                            [
+                                182,
+                                193,
+                                "Skypiea"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "...I lost.\u00a0I actually lost at Acchi Muite Hoi.... Umm, anyways, those things are like, uh, natural perms. They also call'em NABH\u00a0(short for Natural Advertisement Balloon Hair). How can they stand up so straight despite being so thin, you ask? It's cause, uhh, they're giving their very best.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Skypiea",
+                        "link_title": "/wiki/Skypiea",
+                        "is_wikipedia": false,
+                        "start": 182,
+                        "end": 193
+                    }
+                ],
+                "tags": {
+                    "characters": [],
+                    "places": [
+                        "Skypiea"
+                    ],
+                    "emotions": [
+                        "playful",
+                        "funny"
+                    ],
+                    "topics": [
+                        "Skypiea_citizens",
+                        "NABH",
+                        "hairstyle"
+                    ],
+                    "importance": "hight",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Skypiea citizens' head protrusions are called NABH (Natural Advertisement Balloon Hair), which are like natural perms, and Oda humorously explains that they stand up straight because they're giving their very best."
+            }
+        ],
+        "page": "126",
+        "chapter_number": "301",
+        "page_header": null
+    },
+    {
+        "qa": [
+            {
+                "number": 10,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "That \"[[Wikipedia:Coniine|Conine]]\" medicine that [[Mont Blanc Noland]] made really exists, doesn't it? The other day I just opened up a dictionary and happened to see a definition for \"quinine\", which is made from the bark of a \"quina tree\". Is that the basis for the medicine in the story? \n\n-Chief of the Top Secret One Piece Intelligence Gathering Agency-\n\n''Quinine: An alkaloid made from quina bark. Works to relieve fever and stomachaches. Especially effective against malaria.''",
+                        "matches": [
+                            [
+                                6,
+                                34,
+                                "Wikipedia:Coniine|Conine"
+                            ],
+                            [
+                                50,
+                                71,
+                                "Mont Blanc Noland"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes. It does exist. However the \"wood fever\" that I described in the story does not exist, so have no fear. Covering topics about disease is always delicate, as there is always the chance that people will find it too upsetting or it has too deep a historical context. Therefore authors tend to fudge the details somewhat.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Conine",
+                        "link_title": "/wiki/Wikipedia:Coniine",
+                        "is_wikipedia": false,
+                        "start": 6,
+                        "end": 34
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Mont Blanc Noland",
+                        "link_title": "/wiki/Mont Blanc Noland",
+                        "is_wikipedia": false,
+                        "start": 50,
+                        "end": 71
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "mont_blanc_noland"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "reassuring"
+                    ],
+                    "topics": [
+                        "medicine",
+                        "disease"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Noland's medicine is based on real quinine, but the 'wood fever' in the story is fictional, as Oda aims to handle disease-related topics delicately."
+            },
+            {
+                "number": 11,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei, HESO! I am an 8-year old girl who likes animals and [[One Piece (Manga)|One Piece]]. I found a bird named \"Aisa\" in a book of animals. Did you take Shandia [[Aisa]]'s name from the bird?\n-Nacchan-",
+                        "matches": [
+                            [
+                                64,
+                                95,
+                                "One Piece (Manga)|One Piece"
+                            ],
+                            [
+                                168,
+                                176,
+                                "Aisa"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "That's right! It's a bird. Whenever I have trouble with a name, I just open my handy-dandy book of birds. It works pretty well for girls' names!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "One Piece",
+                        "link_title": "/wiki/One Piece (Manga)",
+                        "is_wikipedia": false,
+                        "start": 64,
+                        "end": 95
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Aisa",
+                        "link_title": "/wiki/Aisa",
+                        "is_wikipedia": false,
+                        "start": 168,
+                        "end": 176
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "aisa"
+                    ],
+                    "places": [
+                        "shandia"
+                    ],
+                    "emotions": [
+                        "playful"
+                    ],
+                    "topics": [
+                        "character_names",
+                        "inspiration"
+                    ],
+                    "importance": [
+                        "high"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda confirms taking the name 'Aisa' from a bird in his handy-dandy book of birds when in trouble with names, especially for girls."
+            },
+            {
+                "number": 12,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello! Odacchi-sensei. I've always wanted to ask you about something, and that subject is... the anime voice actors! I think it would be really neat and informative to have profiles or messages from the cast that breathes life in Luffy and friends! By the way, I am a big fan of Zoro's VA, [[Wikipedia:Kazuya Nakai|Kazuya Nakai]].",
+                        "matches": [
+                            [
+                                290,
+                                329,
+                                "Wikipedia:Kazuya Nakai|Kazuya Nakai"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "A lot of people are asking for this. I'll have to think about it.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Kazuya Nakai",
+                        "link_title": "/wiki/Wikipedia:Kazuya Nakai",
+                        "is_wikipedia": false,
+                        "start": 290,
+                        "end": 329
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "moneky_d_luffy",
+                        "roronoa_zoro"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "voice_actors",
+                        "anime",
+                        "fan_request"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader expresses interest in having profiles or messages from the anime voice actors, particularly a fan of Zoro's voice actor Kazuya Nakai, to which Oda responds positively."
+            }
+        ],
+        "page": "146",
+        "chapter_number": "302",
+        "page_header": null
+    },
+    {
+        "qa": [
+            {
+                "number": 13,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei, try changing the \"shi\" in [[Nico Robin]]'s \"shinko furuuru\" (Cinco Fleur) to \"chi\". If you don't say it... I'll do it.\n\n-Ryou-",
+                        "matches": [
+                            [
+                                38,
+                                52,
+                                "Nico Robin"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "So \"Chinko Fleur\"? (sounds like \"wave your wang around\")\n\nCHINKO FURUURU! (mimics Robin's voice)\n\nHEY WAIT A SECOND!\u00a0\n\nDon't make me say that! This [[manga]] is an extremely refined and elegant piece of art.\n\nPlease don't dirty it.\n\n\n[[Image:SBS Vol.32 6.png|right|150px]]",
+                        "matches": [
+                            [
+                                148,
+                                157,
+                                "manga"
+                            ],
+                            [
+                                234,
+                                272,
+                                "Image:SBS Vol.32 6.png|right|150px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": ":SBS Vol.32 6.png",
+                        "size": "150",
+                        "start": 234,
+                        "end": 272
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Nico Robin",
+                        "link_title": "/wiki/Nico Robin",
+                        "is_wikipedia": false,
+                        "start": 38,
+                        "end": 52
+                    },
+                    {
+                        "text": "manga",
+                        "link_title": "/wiki/manga",
+                        "is_wikipedia": false,
+                        "start": 148,
+                        "end": 157
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "nico_robin"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "humorous",
+                        "playful"
+                    ],
+                    "topics": [
+                        "translation",
+                        "manga_as_art"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": true
+                },
+                "summary": "A reader suggests changing a word in Nico Robin's attack, prompting Oda to mockingly warn against making the manga inappropriate."
+            },
+            {
+                "number": 14,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "What's the situation underneath thoses leaves around [[Wiper]]'s waist? Is he letting'em \"hang free\"?\n\n-Shouei-",
+                        "matches": [
+                            [
+                                53,
+                                62,
+                                "Wiper"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "HANGING' FREE, BROTHA!. (thumbs up!)\n\nI think. But it must be troublesome to have them swinging wildly during battle. Hmm, maybe he's wearing some sort of loincloth underneath.\n\nWell... I dunno. (\"HEY!\")",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Wiper",
+                        "link_title": "/wiki/Wiper",
+                        "is_wikipedia": false,
+                        "start": 53,
+                        "end": 62
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "wiper"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "clothing",
+                        "battle"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Wiper is indeed letting them 'hang free,' but it's likely he's wearing some sort of loincloth underneath to avoid trouble during battle."
+            },
+            {
+                "number": 15,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "One day, my friend \"H.\" was telling me, \"Hey, did you know Enel's stretchy ears (<3) are actually...\" and then he received judgement and was blown to smithereens...\n\nWhat was he treying to tell me, even though he knew his life was in danger???!!!",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Enel already left for the [[Vearth#Fairy Vearth|Fairy Vearth]] so I'll answer for him. Enel's stretchy ears are actually made of mochi... (sticky rice cake)\u00a0\n\nYAHAHAHA!\n\nKABOOM!\n\n(Due to author absence, the SBS is now concluded)",
+                        "matches": [
+                            [
+                                26,
+                                62,
+                                "Vearth#Fairy Vearth|Fairy Vearth"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Fairy Vearth",
+                        "link_title": "/wiki/Vearth#Fairy Vearth",
+                        "is_wikipedia": false,
+                        "start": 26,
+                        "end": 62
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "enel"
+                    ],
+                    "places": [
+                        "vearth"
+                    ],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "enel",
+                        "mochi",
+                        "judgement"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "Enel's stretchy ears are made of mochi, as he left for Fairy Vearth and Oda playfully imagines the consequences for mentioning the answer."
+            }
+        ],
+        "page": "188",
+        "chapter_number": "304",
+        "page_header": null
+    }
+]

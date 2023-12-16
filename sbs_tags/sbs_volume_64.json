@@ -1,0 +1,1102 @@
+[
+    {
+        "qa": [
+            {
+                "number": 1,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "[[File:SBS64_1_Start.png|thumb|left|100px|*I started SBS; from P.N. N.Street]]\n\n{{-}}",
+                        "matches": [
+                            [
+                                0,
+                                78,
+                                "File:SBS64_1_Start.png|thumb|left|100px|*I started SBS; from P.N. N.Street"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Hello everybody, greetings from me. Man--... It's starting to get really hot, don't you think? It's almost summer I see--. (It's actually winter) Hmm- when it's summer, you really start craving for it. You know, Chinese Food. Oh? I see a very summerish item right over there. It finally started this year too; A CHILLIN' SBS. Heeeeey!! (shock)\n\n<nowiki/>*''translator's note: The chinese food part is a pun between hot chinese food you would usually eat in the winter, and \"[[Wikipedia:Hiyashi ch\u016bka|hiyashi chuka]]\", which are cold chinese noodles that are considered a symbol of summer (or summerish item). \"Chillin' SBS\" refers to the joke he uses, since in Japan, people call corny jokes \"cold jokes\". Also, the words he uses (hiyashi SBS) is yet another pun since this overlaps with the \"hiyashi chuka\" mentioned above. Finally, this may be a triple pun since winter is cold''.",
+                        "matches": [
+                            [
+                                474,
+                                515,
+                                "Wikipedia:Hiyashi ch\u016bka|hiyashi chuka"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS64_1_Start.png",
+                        "size": "100",
+                        "start": 0,
+                        "end": 78
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "hiyashi chuka",
+                        "link_title": "/wiki/Wikipedia:Hiyashi ch\u016bka",
+                        "is_wikipedia": false,
+                        "start": 474,
+                        "end": 515
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "playful",
+                        "enthusiastic"
+                    ],
+                    "topics": [
+                        "food",
+                        "SBS",
+                        "pun"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda starts the SBS session with a comment on the weather and makes a joke about craving Chinese food in the summer, incorporating puns about 'chillin' SBS' and 'hiyashi chuka'."
+            },
+            {
+                "number": 2,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchi~~!!! Do a sneeze!! P.N. Kirikirimai",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Ha... ha... ha ''IKKINN!!!'' Sniff.......... Ahh~.....<br />\n<nowiki/>*''translator note: This is a pun between \"hai\" (Yes or okay in Japanese) and a strange sneeze''.\n\n[[File:SBS64 1 Gyaro.png|100px|right]]",
+                        "matches": [
+                            [
+                                169,
+                                207,
+                                "File:SBS64 1 Gyaro.png|100px|right"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS64 1 Gyaro.png",
+                        "size": "100",
+                        "start": 169,
+                        "end": 207
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "Sneeze",
+                        "Pun"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "D asks Oda to sneeze, and Oda responds with a pun-filled sneeze followed by an illustration of a character making a strange face."
+            },
+            {
+                "number": 3,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "If you woke up in the morning to find that your left hand turned into something like \"Crab-Hand\" Gyro, what would you do? If it were me, I guess I'd boil it. P.N. Maeda",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "YOU'RE GONNA EAT IT?! (SHOCK) No matter what, it's still your hand, you know?! Oh, but if you're gonna eat it, then I'll help you eat that arm with you. Yup, I won't eat my own hand. Just yours is good.\n\n[[File:SBS64 1 Megalo.png|100px|right]]",
+                        "matches": [
+                            [
+                                204,
+                                243,
+                                "File:SBS64 1 Megalo.png|100px|right"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS64 1 Megalo.png",
+                        "size": "100",
+                        "start": 204,
+                        "end": 243
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "shock",
+                        "funny"
+                    ],
+                    "topics": [
+                        "body_transformation",
+                        "cannibalism"
+                    ],
+                    "importance": "hight",
+                    "isCharacterInsertion": true
+                },
+                "summary": "Oda jokingly offers to help eat the reader's crab hand, expressing disbelief at the idea of eating one's own hand."
+            },
+            {
+                "number": 4,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Question! About Megalo-chan, his model... rather, where his name came from; is he named after a large shark called \"[[Wikipedia:Megalodon|Megalodon]]\" that was thought to have existed way back when? I also heard that they may still exist? P.N. Miha",
+                        "matches": [
+                            [
+                                116,
+                                149,
+                                "Wikipedia:Megalodon|Megalodon"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes. Right on spot. Megalodon indeed. They are said to be the ancestors of the Great White Shark, and when a fossil of its tooth that was found, its estimated size was about 13m~20m or so. Well, it probably was a horrifying monster. I am drawing Megalo as this \"Megalodon\".",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Megalodon",
+                        "link_title": "/wiki/Wikipedia:Megalodon",
+                        "is_wikipedia": false,
+                        "start": 116,
+                        "end": 149
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "megalo"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "megalo",
+                        "sharks",
+                        "fossils"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Megalo-chan's name is indeed based on the prehistoric shark Megalodon, thought to be an ancestor of the Great White Shark, with estimated size of 13m~20m."
+            }
+        ],
+        "page": "46",
+        "chapter_number": "628",
+        "page_header": "SBS64 Header 1.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 5,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchi sensei, I will ask a question~. I am very serious!! In volume 63 chapter 622 page 144, it's written \"~ar Justice\" (~\u305a\u306e\u6b63\u7fa9) behind Kizaru, and I remember Aokiji's said \"Completely Lazy Justice\". Please tell us Akainu, Kizaru, and Odacchi's Justice. P.N. K.Z.K. Jones",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Mine too?! Uh, well here it is.\n*[[File:SBS62 6 Akainu.png|left|30px]] Akainu: \"Thorough Justice\"\n\n\n*[[File:SBS62 6 Kizaru.png|left|30px]] Kizaru: \"Unclear Justice\"\n\n\n*[[File:Aokiji SBS.png|left|30px]] Aokiji: \"Lazy Justice\"\n\n\n*[[File:SBS62 5oda.png|left|30px]] Oda: \"I love [[Wikipedia:Anpanman|Anpanman]]\"\n\n\nYes. Weeell about my justice, just the bored people can think about that please. I'm a Takashi fan for some reason. Akainu's justice can be taken from his actions of burning Robin's homeland, Ohara, down completely in order to demolish all evil. At this time, Aokiji used to have a board that said \"Burning Justice\", but after thinking about it for so long, his thoughts and will all came to a settle on \"Lazy Justice\". In these past two years, there was this big \"happening\" that occurred among the Marines. I want to draw that happening so bad I'm getting flutterflies. Please enjoy it in the canon sometime in the future.\n\n<nowiki/>*''translator's note: Takashi refers to Takashi Yanase, creator of Anpanman''.",
+                        "matches": [
+                            [
+                                33,
+                                70,
+                                "File:SBS62 6 Akainu.png|left|30px"
+                            ],
+                            [
+                                101,
+                                138,
+                                "File:SBS62 6 Kizaru.png|left|30px"
+                            ],
+                            [
+                                168,
+                                201,
+                                "File:Aokiji SBS.png|left|30px"
+                            ],
+                            [
+                                228,
+                                261,
+                                "File:SBS62 5oda.png|left|30px"
+                            ],
+                            [
+                                275,
+                                306,
+                                "Wikipedia:Anpanman|Anpanman"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS62 6 Akainu.png",
+                        "size": "30",
+                        "start": 33,
+                        "end": 70
+                    },
+                    {
+                        "file": "SBS62 6 Kizaru.png",
+                        "size": "30",
+                        "start": 101,
+                        "end": 138
+                    },
+                    {
+                        "file": "Aokiji SBS.png",
+                        "size": "30",
+                        "start": 168,
+                        "end": 201
+                    },
+                    {
+                        "file": "SBS62 5oda.png",
+                        "size": "30",
+                        "start": 228,
+                        "end": 261
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Anpanman",
+                        "link_title": "/wiki/Wikipedia:Anpanman",
+                        "is_wikipedia": false,
+                        "start": 275,
+                        "end": 306
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "akainu",
+                        "kizaru",
+                        "aokiji",
+                        "oda"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "justice",
+                        "anpanman",
+                        "marines"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "Kizaru's justice is 'Unclear Justice', Akainu's is 'Thorough Justice', Aokiji's is 'Lazy Justice', and Oda loves Anpanman."
+            },
+            {
+                "number": 6,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Greetings, hello Odacchi. I've come up with Drake and Bege's birthdays.\n*X Drake: 10/24 (X is 10 in roman numerals, and the 24th letter in the english alphabet)\n*Capone \"Gang\" Bege: 1/17 (Al Capone's birthday)\n\nWhat do you think. P.N. Eraser Gomu Gomu no~ Stamp",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Oh yeahhh. These two were the only supernovas without birthdays, right? Hmmmmmmmmmmmm~~.... (\u2190pretending to think) Sure.\n\n[[File:SBS64 2 Bounty.png|80px|right]]",
+                        "matches": [
+                            [
+                                122,
+                                160,
+                                "File:SBS64 2 Bounty.png|80px|right"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS64 2 Bounty.png",
+                        "size": "80",
+                        "start": 122,
+                        "end": 160
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "x_drake",
+                        "capone_gang_bege"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "playful",
+                        "pretending"
+                    ],
+                    "topics": [
+                        "birthdays",
+                        "supernovas",
+                        "fun"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "D asks for X Drake and Capone Bege's birthdays, and Oda compliments their unique methods before confirming the dates."
+            },
+            {
+                "number": 7,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I'm probably really slow, but I still do not really understand how the bounty hunting process works well. If you kill a bounty head, then you get money from the marines, right? Doesn't the pirate who came to sell the bounty head get caught by the marines too? P.N. Sakimaru",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yup, the pirate gets caught. So even if a pirate kills another, he won't get the money. What he obtains is \"Evil Fame\".",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "bounty_hunting_process",
+                        "pirates",
+                        "marines",
+                        "evil_fame"
+                    ],
+                    "importance": [
+                        "high"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Bounty hunters don't get money if they kill a bounty head, instead they gain 'Evil Fame'; pirates selling bounty heads get caught by marines."
+            }
+        ],
+        "page": "66",
+        "chapter_number": "629",
+        "page_header": "SBS64 Header 2.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 8,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Panties, panties, panties, panties, panties, panties, panties, panties, panties, panties, panties, panties, panties, panties, panties, panties, panties, panties, panties, panties, panties, panties, panties, panties... P.N. The curse of panties",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "''HEEEEEYY!!! ''(SHOCK) Woah woah woah~~!! (sweat) What happened!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "shocked",
+                        "funny"
+                    ],
+                    "topics": [
+                        "panties",
+                        "curse",
+                        "humor"
+                    ],
+                    "importance": "low",
+                    "isCharacterInsertion": true
+                },
+                "summary": "Eiichiro Oda is shocked and surprised by a reader bringing up the 'curse of panties' in the Q&A session."
+            },
+            {
+                "number": 9,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Panties, panties, panties, panties, panties, panties, panties, panties, panties, panties, panties, panties, panties, panties, panties... P.N. The curse of panties",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "''STOP--!! ''What in the world. On both sides of the card, 130 times (\u2190yeah I counted). What about panties. Are you craving for them?! Do you want to wear them?! This is a Q&A corner.\n\n[[File:SBS64 3 Face.png|80px|right]]",
+                        "matches": [
+                            [
+                                185,
+                                221,
+                                "File:SBS64 3 Face.png|80px|right"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS64 3 Face.png",
+                        "size": "80",
+                        "start": 185,
+                        "end": 221
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "surprise",
+                        "playful"
+                    ],
+                    "topics": [
+                        "clothing",
+                        "SBS",
+                        "comedy"
+                    ],
+                    "importance": "low",
+                    "isCharacterInsertion": false
+                },
+                "summary": "The reader repeatedly mentions 'panties' 130 times, and Oda playfully reacts, wondering if the reader craves or wants to wear them."
+            },
+            {
+                "number": 10,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "The staring face all ladies on the face of earth after reading Odacchi's SBS. Even the cutest chicks will turn into this head and face. Stay strong! P.N. Yuki",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "''EHHHH~~?!'' (SWEAT) Stop!! Ouch!! Owww!! Please wait I'm innocent-- It wasn't me-- It's the readers that are dirty--!!\n\n[[File:SBS64 3 Strawberry.png|100px|right]]",
+                        "matches": [
+                            [
+                                122,
+                                165,
+                                "File:SBS64 3 Strawberry.png|100px|right"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS64 3 Strawberry.png",
+                        "size": "100",
+                        "start": 122,
+                        "end": 165
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "surprised",
+                        "playful"
+                    ],
+                    "topics": [
+                        "SBS",
+                        "reader reaction"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": true
+                },
+                "summary": "Oda responds to a fan comment about the reactions of women reading his Q&A, denying any wrongdoing and blaming it on the readers."
+            },
+            {
+                "number": 11,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "A question for (Oda)chinchin!! What are the insides of Vice Admiral Strawberry's head? P.N. Mami\n<nowiki/>*''translator's note: chinchin means penis in Japanese''.",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes. Ehhhem. First off, let's stop calling people a penis so lightly. Ouch! The eyes of the girls sting! Vice Admiral Strawberry has appeared on several occasions such as the buster call in Enies Lobby and the Whitebeard war, as I recall, but on those occasions he has been wearing a hat, I believe. Although we would think \"Oh what a long hat\", in the recent flashback of Fish-Man Island, it was shown how the bandages on his head twisted up to the top. In other words, yes. Strawberry is a person with a long head. It isn't his hair that is long. A \"long-headed human\" with a lo~ng skull is the correct answer. He is very good at headbutts.\n\n[[File:SBS64 3 Ikaros.png|100px|right]]",
+                        "matches": [
+                            [
+                                644,
+                                683,
+                                "File:SBS64 3 Ikaros.png|100px|right"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS64 3 Ikaros.png",
+                        "size": "100",
+                        "start": 644,
+                        "end": 683
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "vice_admiral_strawberry"
+                    ],
+                    "places": [
+                        "enies_lobby",
+                        "fish_man_island",
+                        "whitebeard_war"
+                    ],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "silly",
+                        "anatomy"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda explains that Vice Admiral Strawberry has a long skull, not long hair, and is skilled at headbutts."
+            },
+            {
+                "number": 12,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Is it true that if you tickle Ikaros Much in the armpits, he'd get tickled 4x a normal person? P.N. Mami",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Ahahahahyahyahyahyahiiiahahahaha it tickles me just by thinking of it. 8 armpits.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "ikaros_much"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "tickling",
+                        "ikaros_much",
+                        "character"
+                    ],
+                    "importance": [
+                        "low"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Ikaros Much would get tickled 8 times as much as a normal person if tickled in the armpits."
+            }
+        ],
+        "page": "86",
+        "chapter_number": "630",
+        "page_header": "SBS64 Header 3.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 13,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello Oda Sensei. Question all of the sudden. In some spots during the story, there are mermen that have this round thing on them that seems to be something like a float(?), but what in the world are these? And why do they wear them? Please tell us. P.N. Usoppii",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes. This is obviously a bubble. The same as the ones on Sabaody Archipelago. Since it is hard for mermen to walk on feet, so they float on top of a bubble, wave their tails, and move as if swimming. It seems there are many ways of using them such as sitting or sticking things inside. The mermen always have this item called the bubbly coral, which the bubbles come out of.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "usopp",
+                        "mermen"
+                    ],
+                    "places": [
+                        "sabaody_archipelago"
+                    ],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "mermen",
+                        "bubbly_coral"
+                    ],
+                    "importance": [
+                        "high"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Mermen wear bubbles, known as bubbly coral, to move on land as if swimming, and can also sit or store items inside them."
+            },
+            {
+                "number": 14,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "AND? P.N. Mercurian",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Ehhh...--- And I want to hug the mermaids on top of those bubbles. MORON!! (SHOCK) That was just unnecessary!! (sweat)\n{{-}}\n[[File:SBS64 4 Shiraoshi.png|100px|right]]",
+                        "matches": [
+                            [
+                                125,
+                                167,
+                                "File:SBS64 4 Shiraoshi.png|100px|right"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS64 4 Shiraoshi.png",
+                        "size": "100",
+                        "start": 125,
+                        "end": 167
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "shock",
+                        "sweat"
+                    ],
+                    "topics": [
+                        "mermaids",
+                        "hugging",
+                        "bubbles"
+                    ],
+                    "importance": "low",
+                    "isCharacterInsertion": false
+                },
+                "summary": "D wants to know the P.N. (pen name) 'Mercurian,' and Oda responds with a humorous comment about wanting to hug mermaids on top of bubbles."
+            },
+            {
+                "number": 15,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda sensei! I frequently read manga, and in scenes where the characters talk, there are mangas where the characters talk with their mouths closed and others w/ characters talking with their mouths open. If it were me, I'd make them open to make it seem more realistic, but when Oda-sensei draws ONE PIECE, do you worry over this stuff? P.N. Manapii",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Ho- hum. You surprised me. You really like manga, don't you? Indeed. There are people who make their characters talk with their mouths shut. I can't do that. It makes me sick drawing like that. We just automatically think it's weird when the mouth isn't open when talking. I think it just depends on people's opinions. The artists that make the characters talk with their mouths closed probably want their characters to look cool and posy no matter what, in my opinion. Probably. \"As long as we get it, I don't care if it's sloppy\", \"If it's incomprehensible, then there's no point in drawing it\"; These are the thoughts the mangakas put towards their \"art\". All artists have their own styles.\n{{-}}",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "art_style",
+                        "manga_drawing",
+                        "artist_opinion"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda explains that he can't draw characters talking with their mouths shut, finding it weird and prefers making it seem realistic, believing it's a matter of personal preference among artists."
+            }
+        ],
+        "page": "106",
+        "chapter_number": "631",
+        "page_header": "SBS64 Header 4.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 16,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Heeeeey hey hey hey hey hey hey hey hey hey hey hey Odacchi my boy, Odacchi that came flying from some random place. I have something I want to ask. In Volume 63 chapter 626 \"The Three Neptune Brothers\", the scene where Otohime cries to the floor about the signatures. There's this dude that looks identical to the Nami mermaid Luffy drew in Volume 8 chapter 69 \"Arlong Park\"!!! What the heck is that creature. Tell me or else, uh... ummmm... what should I do? P.N. King of the Land of Gedatsu",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Lots came. Postcards concerning this topic. Amazing how you find this stuff. And, Luffy's imaginary \"mermaid\" happend to be real~.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "luffy",
+                        "nami",
+                        "otohime"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "character_design",
+                        "mermaids",
+                        "easter_egg"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "In Volume 63, a mermaid seen crying resembles the one Luffy drew in Volume 8, and Oda confirms it's Luffy's imagined 'mermaid' come to life."
+            },
+            {
+                "number": 17,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "EAR CRAP, NOSE CRAP, EYE CRAP. WHICH DO YOU PREFER? P.N. Hatamori",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I guess ear crap.\n{{-}}\n[[File:SBS64 5 Shiraoshi.png|100px|right]]",
+                        "matches": [
+                            [
+                                24,
+                                66,
+                                "File:SBS64 5 Shiraoshi.png|100px|right"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS64 5 Shiraoshi.png",
+                        "size": "100",
+                        "start": 24,
+                        "end": 66
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "playful"
+                    ],
+                    "topics": [
+                        "body parts"
+                    ],
+                    "importance": "low",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda prefers 'ear crap' out of the three options given."
+            },
+            {
+                "number": 18,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda sensei... YOU'RE JUST NOT MY TYPE. P.N. Match and Takeshi",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Ehhhh~~!! But you read ONE PIECE, so I do like you.\n{{-}}\n[[File:SBS64 5 Managers.png|100px|right]]",
+                        "matches": [
+                            [
+                                58,
+                                99,
+                                "File:SBS64 5 Managers.png|100px|right"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS64 5 Managers.png",
+                        "size": "100",
+                        "start": 58,
+                        "end": 99
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "surprised"
+                    ],
+                    "topics": [
+                        "personal_life"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda teases a reader for not being his type, but later admits to liking them because they read One Piece."
+            },
+            {
+                "number": 19,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchi!! It is my first letter to you. A very serious question. In Chapter 598, they say Soul King's \"TD sales are at the top...\" but what is ''TD''? Something like the CDs in this world? I'm curious. P.N. Toru-man",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes. Yes indeed. Please think that way. The world has changed much in two years, and obviously technology has improved. TD stands for \"Tone Dial\". The shell that records and saves sound. The people have succeeded in obtaining and improving this. They are sold in pairs, and along with headphones and stereos, it is possible to enjoy music.\n\n[[File:SBS64 5 TD.png|250px|left]]\n\n<nowiki/>*''translator's note: image above says \"the pair of TDs\"''\n\n{{-}}",
+                        "matches": [
+                            [
+                                341,
+                                375,
+                                "File:SBS64 5 TD.png|250px|left"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS64 5 TD.png",
+                        "size": "250",
+                        "start": 341,
+                        "end": 375
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [],
+                    "topics": [
+                        "technology",
+                        "Tone_Dial",
+                        "music"
+                    ],
+                    "importance": [
+                        "high"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "In chapter 598 of One Piece, the term 'TD' refers to 'Tone Dial,' a shell that records and saves sound, akin to CDs in the real world."
+            }
+        ],
+        "page": "126",
+        "chapter_number": "632",
+        "page_header": "SBS64 Header 5.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 20,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Greetings, sensei. I already have a question for you. Please draw the supernovas when they were kids. P.N. XDrakeFan",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes. Sure. My SBS ends here. From p186 is the Voice Actor SBS!\n\n[[File:Non-Straw Hat Supernovas as Kids.png|400px|center]]\n\n(From left to right, top to bottom. Row One: Scratchmen Apoo, Trafalgar Law, Killer. Row Two: X Drake, Capone \"Gang\" Bege, Basil Hawkins. Row Three: Jewerly Bonney, Eustass \"Captain\" Kid, Urouge.)",
+                        "matches": [
+                            [
+                                64,
+                                122,
+                                "File:Non-Straw Hat Supernovas as Kids.png|400px|center"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Woah woah, crying all the sudden right after making an entrance. See how I advertised your NHK channel just now as an apology? So wipe your tears Mr. Cho. Ah, yes, I have some candy so...\n\n''C:'' ''45 DEGREES!!''",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "He's not listening!! (shock) AGH!! He ran away!! Yo Mr. Cho!!\n\n''C:'' ''Ah, Odacchi, it's my jogging time so...''",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Ehhh?! Wait, please! I know it's an important daily activity, but could you...\n\n''C: Okay.''",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "YOU'RE OKAY WITH IT?!! (SHOCK) Ehhh so then before you start jogging away again, do you know what \"SBS\" means?\n\n''C: (S) SUGOI YO!!! (AMAZING!!!)''",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yeah yeah. Uh well that'd be only the \"S\" part, but it's actually \"SBS\".\n\n''C: Ahh. I see, then um''<br />\n''(S) SUGOI YO!!! (AMAZING!!!) (B) BOKU!!! (ME!!!) (S) SUGOI YO!!! (AMAZING!!!)''",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "''YOU GUYS'' ALL HAVE ZERO WILL TO DO THIS!! Dammit! This is the finally the end of doing SBS with these free people!! (\u2190the person who suffers) Here Mr. Cho, these are the postcards!\n\n''C: Okay, then I'll be going--!! *runs*''",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "''EHHHHH!!? (SHOCK) SBS WHILE JOGGING!!?'' Ug!! Fine be that way!!\n\n''Mr. Cho's SBS, TBC on P206!!''\n{{-}}",
+                        "matches": []
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "Non-Straw Hat Supernovas as Kids.png",
+                        "size": "400",
+                        "start": 64,
+                        "end": 122
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "Scratchmen_Apoo",
+                        "Trafalgar_Law",
+                        "Killer",
+                        "X_Drake",
+                        "Capone_Bege",
+                        "Basil_Hawkins",
+                        "Jewelry_Bonney",
+                        "Eustass_Kid",
+                        "Urouge"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "artwork",
+                        "SBS_end",
+                        "interpretation"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "Oda fulfills a fan's request by drawing the Supernovas as kids, then gets interrupted by his friend Mr. Cho and mentions SBS is ending, with Mr. Cho promising to continue it next time."
+            },
+            {
+                "number": 30,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "WHERE DID CHO SAN GET HIS NAME FROM? P.N. Captain Nobuo\n\n''C: \u9577\u5cf6\u8302; Shigeru Nagashima (Real Name) \u2190 The kanji Naga (\u9577) can also be read as \"Cho\" right?''",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes, hello!! Mr. Cho, it's almost tim-- Ah! It's still continuing (sweat)\n\n''C: Li~fe is\u266a One two panties\u266b Sweat and cry, look at dem panties--\u266b The panties-- you show~~ make my life rose colored\u2661\u266b''",
+                        "matches": []
+                    },
+                    {
+                        "type": "question",
+                        "text": "I heard that Cho san runs 10km every morning, but do you have advice for health or anything of that nature? P.N. Cho san's name becomes \"Mister\" when you change \"ru\" to \"o\"...\n\n''C: SUNLIGHT. Whatever the case, Mr. Sun is AMAZING!!''",
+                        "matches": []
+                    },
+                    {
+                        "type": "question",
+                        "text": "Question for you. During the years of having the career of being Brook's voice actor, is there a time you really felt grateful for this role? This is a serious question. P.N. loveBrook\n\n''\u200bC: A highschool female said \"Ehhhh??! Seriously?!! Kyaaaaaaaaaaaa!!!\" When she saw me. But she may have been rejecting me instead...''",
+                        "matches": []
+                    },
+                    {
+                        "type": "question",
+                        "text": "Cho san! I've loved you ever since back in third grade of elementary school\u2661\u2661please marry me!! Ah! But I have a husband already! (shock) Ah! I have 2 kids too!! (shock) Ok well then can you show me YOUR PANTIES AT LEAST? P.N.Tanken watashi no machi\n\n''C: Sure. Ah, I WASN'T WEARING ANY.''",
+                        "matches": []
+                    },
+                    {
+                        "type": "question",
+                        "text": "Yohohoho\u266a Mr. Cho, is your work for realism to look at the voice actresses' panties?? P.N. Nyonko\n\n''C: How did you know?? Hey, hey, hey, hey.''",
+                        "matches": []
+                    },
+                    {
+                        "type": "question",
+                        "text": "What color would you like Ms. Yuriko Yamaguchi (Robin's voice)'s panties to be today? P.N. T\n\n''\u200bC: ALLEY CAT COLORED.''",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "cho_san",
+                        "yohohoho",
+                        "nyonko",
+                        "yuriko_yamaguchi"
+                    ],
+                    "places": [],
+                    "topics": [
+                        "name_origin",
+                        "health_advice",
+                        "gratitude"
+                    ],
+                    "emotions": [
+                        "funny",
+                        "perverted"
+                    ],
+                    "importance": [
+                        "high"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Cho San's name comes from the kanji character for 'Naga' which can also be read as 'Cho'; he runs 10km every morning, loves the sun, and cheekily responds to questions about panties."
+            }
+        ],
+        "page": "166",
+        "chapter_number": "634",
+        "page_header": "SBS64 Header 6.png"
+    }
+]

@@ -1,0 +1,999 @@
+[
+    {
+        "qa": [
+            {
+                "number": 1,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello, weeelcome, weeelcome! Cooling off SBS started! -P.N. Saya",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Aah, is it that season already? It's been getting hotter. Gosh, which dish can I have? The sound of wind chimes is so comforting and nice. Oh, all done already? So can I have it? Slurp, slurp, slurp, chew, chew. Mmm, this right here is truly a cooling off SBS... HASN'T IT STARTED!?!? (Though it's not summer)",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "happy"
+                    ],
+                    "topics": [
+                        "SBS",
+                        "food"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda starts the Q&A session by humorously acknowledging the start of a cooling off SBS, as he eats and mentions the sound of wind chimes."
+            },
+            {
+                "number": 2,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Nami's dream is to draw a map of the world from what she's seen with her own eyes. Is she drawing her world map properly? -P.N. Shoe Koko\n\n[[File:SBS90 Nami.png|thumb|200px]]",
+                        "matches": [
+                            [
+                                139,
+                                174,
+                                "File:SBS90 Nami.png|thumb|200px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Of course she is. Her routine every day is to draw maps after dinner. As the story progresses during the day, she has to give sailing instructions as the navigator, so there's a lot she has to do out on the deck.{{-}}\n\n[[File:SBS90 Chopper Milky.png|thumb|150px]]",
+                        "matches": [
+                            [
+                                219,
+                                263,
+                                "File:SBS90 Chopper Milky.png|thumb|150px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS90 Nami.png",
+                        "size": "200",
+                        "start": 139,
+                        "end": 174
+                    },
+                    {
+                        "file": "SBS90 Chopper Milky.png",
+                        "size": "150",
+                        "start": 219,
+                        "end": 263
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "nami"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "proud",
+                        "matter-of-fact"
+                    ],
+                    "topics": [
+                        "dream",
+                        "navigation",
+                        "world_map"
+                    ],
+                    "importance": [
+                        "high"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Nami is drawing her world map properly by routine after dinner, despite her tasks as the navigator during the day."
+            },
+            {
+                "number": 3,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchi, heso!! On the cover illustration of [[Chapter 900]], Chopper is looking at... Has he fallen in love or is it something else? Please do tell. Everyone wants Chopper to stay with his friends (laughs). -P.N. Daiya{{-}}\n\n[[File:SBS90 Love Hurricane.png|thumb|300px]]",
+                        "matches": [
+                            [
+                                45,
+                                60,
+                                "Chapter 900"
+                            ],
+                            [
+                                226,
+                                271,
+                                "File:SBS90 Love Hurricane.png|thumb|300px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "He hasn't met anyone yet, but being half-human and half-reindeer, the only one he wants to date is [[Milky]] from the [[Mink Tribe]]. But if one day Chopper falls deeply in love even I wouldn't be able to stop him. Why is that? Because \"LOVE ALWAYS COMES IN A HURRICANE\"!!{{-}}",
+                        "matches": [
+                            [
+                                99,
+                                108,
+                                "Milky"
+                            ],
+                            [
+                                118,
+                                132,
+                                "Mink Tribe"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS90 Love Hurricane.png",
+                        "size": "300",
+                        "start": 226,
+                        "end": 271
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Chapter 900",
+                        "link_title": "/wiki/Chapter 900",
+                        "is_wikipedia": false,
+                        "start": 45,
+                        "end": 60
+                    },
+                    {
+                        "text": "Milky",
+                        "link_title": "/wiki/Milky",
+                        "is_wikipedia": false,
+                        "start": 99,
+                        "end": 108
+                    },
+                    {
+                        "text": "Mink Tribe",
+                        "link_title": "/wiki/Mink Tribe",
+                        "is_wikipedia": false,
+                        "start": 118,
+                        "end": 132
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "tony_tony_chopper",
+                        "milky"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "love",
+                        "chopper's_love_life"
+                    ],
+                    "importance": [
+                        "high"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Chopper gazes at Milky on the chapter 900 cover; Oda clarifies Chopper's romantic interest and warns of his potential unstoppable love."
+            }
+        ],
+        "page": "44",
+        "chapter_number": "902",
+        "page_header": "SBS90 Header 1.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 4,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-chi, hello!! What is the crackling thing at the tips of Sweet Commander Cracker's hair? How is Cracker wearing his mantle? -P.N. Mocchi Mochi Donut",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Well, the mantle is held in place by \"spirit\" like always, so the issue would be the crackling part. The truth is, I drew the this crackling while wondering what it is myself. Ahahahahaha. When I was designing him, it was just something cool to draw. \"Well, it's good or whatever\", I thought and I drew it. If you retrofit it, you can kind of get the image of a \"Firecracker\" from the name \"Cracker\". So it's the fuse to that?{{-}}\n\n[[File:SBS90 Baratie.png|thumb|250px]]",
+                        "matches": [
+                            [
+                                433,
+                                471,
+                                "File:SBS90 Baratie.png|thumb|250px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS90 Baratie.png",
+                        "size": "250",
+                        "start": 433,
+                        "end": 471
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "cracker"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "character_design",
+                        "mystery"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Cracker's mantle is held in place by spirit, but the crackling at the tips of his hair was drawn for the sake of coolness, possibly resembling a firecracker fuse."
+            },
+            {
+                "number": 5,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Huh? Huuuh?? The Baratie has gotten bigger in chapter 902!!! Is their business expanding? Hooray! I want too tell Sanji-kun! by Chopa",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yep. That's right! In the cover story of chapter 625 the Baratie was in the middle of being renovated and this is its final form! Furthermore, the Meat Master Carne and the Patissier Patty run separate chain restaurants, so there are now 3 \"Sea Faring Restaurant Baraties\".{{-}}",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "sanji",
+                        "chopa",
+                        "meat_master_carne",
+                        "patissier_patty"
+                    ],
+                    "places": [
+                        "baratie"
+                    ],
+                    "emotions": [
+                        "excited"
+                    ],
+                    "topics": [
+                        "business_expansion",
+                        "restaurant_chain",
+                        "chapter_902_cover_story"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "The Baratie's expansion in Chapter 902 is due to its renovation in Chapter 625, and now there are 3 'Sea Faring Restaurant Baraties' run by different chefs."
+            }
+        ],
+        "page": "62",
+        "chapter_number": "903",
+        "page_header": "SBS90 Header 2.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 6,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello Oda-sensei!! Big Mom has many ex-husbands, right? So how exactly did she pick her husbands?? Did she go on a lot of dates? - P.N. Big Mona",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Being a pirate, she kidnapped them, had kids with them and then threw them away!! Her only goal was to have as many kids from every race as possible. A truly frightening woman.{{-}}\n\n[[File:SBS90 Wedding Cake.png|thumb|200px]]",
+                        "matches": [
+                            [
+                                183,
+                                226,
+                                "File:SBS90 Wedding Cake.png|thumb|200px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS90 Wedding Cake.png",
+                        "size": "200",
+                        "start": 183,
+                        "end": 226
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "big_mom"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "frightening"
+                    ],
+                    "topics": [
+                        "big_mom's_marriages",
+                        "pirate_lifestyle"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Big Mom kidnapped and had kids with her ex-husbands from different races to achieve her goal of having children from every race."
+            },
+            {
+                "number": 7,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "What would happen to Totto Land if Big Mom got another craving for Wedding Cake and her hunger pangs aren't stopped? I don't think they could make that Wedding Cake again... -P.N. Akibee",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Definitely! You're so nice to worry about what will happen to Totto Land later, Akibee-san. Well, they'd probably have to flee Totto Land for a while, right? But the New World is a dangerous sea. Normally, one of the things the name \"Big Mom\" does is protect the family and the citizens. So even if a serious threat might come, they will stick with Big Mom. This is the harsh reality of living in Totto Land, a country protected by one of the \"Great Powers\"! (Seriously!){{-}}",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "big_mom"
+                    ],
+                    "places": [
+                        "totto_land",
+                        "new_world"
+                    ],
+                    "topics": [
+                        "wedding_cake",
+                        "protection",
+                        "new_world_dangers"
+                    ],
+                    "emotions": [
+                        "serious"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "If Big Mom gets a craving without a cake, Totto Land might have to flee, but they'd stick with her as her name protects them in the dangerous New World."
+            },
+            {
+                "number": 8,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Is [[Gerd]]-chan who lived with Big Mom in her childhood and the New Giant Warriors Pirates' beautiful ship's doctor Gerd from the cover appearance in chapter 902 the same person? -P.N. Saving Hand\n\n[[File:SBS90 Gerd.png|thumb|200px]]",
+                        "matches": [
+                            [
+                                3,
+                                11,
+                                "Gerd"
+                            ],
+                            [
+                                199,
+                                234,
+                                "File:SBS90 Gerd.png|thumb|200px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes, that's correct. 63 years ago Big Mom was 5 years old and Gerd was 12 years old. So Big Mom is currently 68 years old and Gerd is 75 years old. As I've said before, giants live for about 300 years, so she's still quite young.{{-}}",
+                        "matches": []
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS90 Gerd.png",
+                        "size": "200",
+                        "start": 199,
+                        "end": 234
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Gerd",
+                        "link_title": "/wiki/Gerd",
+                        "is_wikipedia": false,
+                        "start": 3,
+                        "end": 11
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "big_mom",
+                        "gerd"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "informative"
+                    ],
+                    "topics": [
+                        "big_mom_birthday",
+                        "age",
+                        "gerd_identity"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Gerd-chan from Big Mom's childhood and the ship's doctor from chapter 902 are the same person; Big Mom is 68 years old and Gerd is 75 years old."
+            }
+        ],
+        "page": "102",
+        "chapter_number": "905",
+        "page_header": "SBS90 Header 3.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 9,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Flaming Attachan appeared in chapter 905, right? He called Morgans \"Boss\", so is he affiliated with the World Economic Journal now? Fire!! -P.N. Match and Takeshi",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yep. That was the well-known cameraman \"Flaming [[Attach]]an\". He used to be the captain of the Marine Photography Department, but after forgetting to take the camera lens cap off 57 times he got fired. After that, Morgans picked him up. Currently, Flaming Attachan shouts \"Fire!\" for the WE and uses a camera without a cap.{{-}}\n\n[[File:SBS90 Katakuri.png|thumb|200px]]",
+                        "matches": [
+                            [
+                                48,
+                                58,
+                                "Attach"
+                            ],
+                            [
+                                331,
+                                370,
+                                "File:SBS90 Katakuri.png|thumb|200px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS90 Katakuri.png",
+                        "size": "200",
+                        "start": 331,
+                        "end": 370
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Attach",
+                        "link_title": "/wiki/Attach",
+                        "is_wikipedia": false,
+                        "start": 48,
+                        "end": 58
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "flaming_attachan",
+                        "morgans"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "informative"
+                    ],
+                    "topics": [
+                        "world_economic_journal",
+                        "marine_photography_department",
+                        "Flaming_Attachan",
+                        "Morgans"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Flaming Attachan appeared in chapter 905, affiliated with World Economic Journal after being fired from Marine Photography Department for forgetting to take the camera lens cap off 57 times."
+            },
+            {
+                "number": 10,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-san, hello! After Luffy beat Katakuri when they fought, Luffy covered Katakuri's mouth with his hat! The two of them were so cool!! If I came across a naked Oda-san sleeping on the side of the road, I would cover your \"proof of manhood\" with a hat!! -P.N. Neon",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "It has happened... I'm there occasionally, a naked old Oda-san sleeping on the side of the road. Thank you. But can you really hide it? CAN you hide my \"proof of manhood\" with a hat!? (It's enough. It's taken care of.)",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "moneky_d_luffy",
+                        "katakuri"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "fight",
+                        "humor",
+                        "Oda's personal life"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader compliments Luffy and Katakuri's fight; Oda responds humorously and questions if his 'proof of manhood' can be hidden with a hat."
+            },
+            {
+                "number": 11,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Sensei just answered an erotic question, so doesn't it make your wife angry? -P.N. Pigyaa",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "My wife laughs at anything, so it's okay! Thank you for your concern over my home life!! Furthermore, that the SBS is like that isn't my fault!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "SBS",
+                        "erotic_question"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda's wife is okay with his answers, as she laughs at anything, and he doesn't take blame for the nature of the SBS."
+            }
+        ],
+        "page": "120",
+        "chapter_number": "906",
+        "page_header": "SBS90 Header 4.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 12,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "In chapter 847, Perospero calls Nami \"Candy-chan\" when she's soaked in candy rain. Did he lick her after that? He shouldn't notice that and intend to do nothing! Please draw Nami being licked by Perospero! I'm begging you! -P.N. Girl who aims to be a writer",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Sure. WHO WOULD DRAW THAT!? I thought it was a postcard from a middle-aged pervert, but... it's a young girl!! Aren't you being indecent!? The SBS is a refined place for a healthy author and healthy boys and girls. Why do you taint it!?{{-}}\n\n[[File:SBS90 Reiju.png|thumb|200px]]",
+                        "matches": [
+                            [
+                                243,
+                                279,
+                                "File:SBS90 Reiju.png|thumb|200px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS90 Reiju.png",
+                        "size": "200",
+                        "start": 243,
+                        "end": 279
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "nami",
+                        "perospero",
+                        "reiju"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "indignant",
+                        "shocked",
+                        "humorous"
+                    ],
+                    "topics": [
+                        "indecency",
+                        "fan request",
+                        "SBS etiquette"
+                    ],
+                    "importance": "hight",
+                    "isCharacterInsertion": true
+                },
+                "summary": "Reader asks if a character licked Nami, requesting a drawing, but Oda refuses due to the indecent request, and expresses disapproval."
+            },
+            {
+                "number": 13,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-Oda-Oda-chi! I thought of something cool!! Blowfish are really yummy but poisonous, right? But if you have Reiju suck out the poison every time after you eat it, it's delicious and you get Reiju\u2026 (Mufufu) It's two birds with one stone, right!? -P.N. A too pure 25-year-old",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I see~! Well. first you need to get poisoned by a blowfish, then you'll need Reiju, BUT SHE CAN'T COME!!! YOU PERVERTED BASTARD!! (*Eating blowfish at a restaurant is safe.){{-}}\n\n[[File:SBS90 Shakky.png|thumb|200px]]",
+                        "matches": [
+                            [
+                                180,
+                                217,
+                                "File:SBS90 Shakky.png|thumb|200px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS90 Shakky.png",
+                        "size": "200",
+                        "start": 180,
+                        "end": 217
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "reiju"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "food"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader suggests having Reiju suck out the poison from a blowfish to make it delicious, and Oda jokingly responds with a warning and a note about safely eating blowfish at a restaurant."
+            },
+            {
+                "number": 14,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "\"Pirates\", \"40 years ago\", and \"Garp\" were used to talk about Shakky before. Is there some relationship between Shakky and [[Rocks D. Xebec|Rocks]]? -P.N. WE Part-timer",
+                        "matches": [
+                            [
+                                123,
+                                147,
+                                "Rocks D. Xebec|Rocks"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Uh...!! That was 30 years ago and from before volume 40! Why do you remember that? I... I don't know a thing! Uh... Fwe... Fwee~ Fwee~ [whistling noises]{{-}}",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Rocks",
+                        "link_title": "/wiki/Rocks D. Xebec",
+                        "is_wikipedia": false,
+                        "start": 123,
+                        "end": 147
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "shakky",
+                        "rocks_d_xebec",
+                        "garp"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "nervous",
+                        "avoiding"
+                    ],
+                    "topics": [
+                        "rocks_pirates",
+                        "garp_relationship",
+                        "time_frame"
+                    ],
+                    "importance": [
+                        "high"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader asks about a connection between Shakky and Garp/Rocks, but Oda dismisses it humorously and avoids the question."
+            }
+        ],
+        "page": "138",
+        "chapter_number": "907",
+        "page_header": "SBS90 Header 5.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 15,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-chi! You showed us Luffy and Ace at 40 and 60 years old, so show us Sabo at 40 and 60 years old pretty please. -P.N. Big Brother's Oda mania\n\n[[File:SBS90 Sabo.png|thumb|400px]]",
+                        "matches": [
+                            [
+                                146,
+                                181,
+                                "File:SBS90 Sabo.png|thumb|400px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Well, I drew it, but even I don't know what the real future will be...\n*40: It's great that he's really free\n*60: Have I heard about the Straw Hat incident? Tell me...\nA Future where things went wrong\n\n*40: Everyone who isn't a noble is trash!!\n*60: D-do you know of Luffy? He's my little brother. He'll pay for it, so let me have just one glass...{{-}}\n\n[[File:SBS90 Charlotte.png|thumb|300px]]",
+                        "matches": [
+                            [
+                                355,
+                                395,
+                                "File:SBS90 Charlotte.png|thumb|300px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Ah, here's this time's \"Who's this!? How old are they!?\" of the Big Mom Pirates questions from \"P.N. Matcha Man-kun\", \"P.N. Atsugon-kun\", and \"P.N. Momoinu [Pink Dog]-san\" all gathered together and answered. They are mainly from chapters 848, 854, and 864.{{-}}",
+                        "matches": []
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS90 Sabo.png",
+                        "size": "400",
+                        "start": 146,
+                        "end": 181
+                    },
+                    {
+                        "file": "SBS90 Charlotte.png",
+                        "size": "300",
+                        "start": 355,
+                        "end": 395
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "luffy",
+                        "sabo"
+                    ],
+                    "places": [],
+                    "topics": [
+                        "ageing",
+                        "future",
+                        "big_mom_pirates"
+                    ],
+                    "emotions": [
+                        "curious"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Sabo's future at 40 is freedom, and at 60, he may be regretful; the Big Mom Pirates' ages are revealed from various chapters."
+            }
+        ],
+        "page": "156",
+        "chapter_number": "908",
+        "page_header": "SBS90 Header 6.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 16,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-san, hello! I've got a quick question. Charlotte Mont-d'Or and Charlotte Opera. Those two have been in the story, but the names of their Devil Fruits haven't been revealed in the story. Could you please tell us what they're called? -P.N. Boil",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Sure. Mont-d'Or's is the [[Buku Buku no Mi]], so he's a Book Man. He can hold living things as live specimens in his books, fly through the sky on books, drag people into a book's story, even appear as the boss of one series, so he has a varied power that can make things sufficiently interesting. Opera's is the [[Kuri Kuri no Mi]], making him a Cream Man. He can control the cream that comes out of his body, the sweetness carried in his new attack concepts makes him a troublesome enemy.",
+                        "matches": [
+                            [
+                                25,
+                                44,
+                                "Buku Buku no Mi"
+                            ],
+                            [
+                                313,
+                                332,
+                                "Kuri Kuri no Mi"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Buku Buku no Mi",
+                        "link_title": "/wiki/Buku Buku no Mi",
+                        "is_wikipedia": false,
+                        "start": 25,
+                        "end": 44
+                    },
+                    {
+                        "text": "Kuri Kuri no Mi",
+                        "link_title": "/wiki/Kuri Kuri no Mi",
+                        "is_wikipedia": false,
+                        "start": 313,
+                        "end": 332
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "mont_d_or",
+                        "opera"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "informative"
+                    ],
+                    "topics": [
+                        "devil_fruit"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Mont-d'Or's Devil Fruit is the Buku Buku no Mi, allowing him to manipulate living things in books, while Opera's is the Kuri Kuri no Mi, giving him control over cream."
+            },
+            {
+                "number": 17,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "A question for the SBS! What are the hobbies of Smoker-san, Tashigi-chan, and Lady Hina? -P.N. Escape Horse",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I see.\n\n[[File:SBS90 Marines.png|thumb|300px]]\n*Smoker: Ceramic Art, Casino [gambling]\n*Tashigi: Reading sword/katana books, Kiri-e [paper cutout pictures]\n*Hina: Horseback riding, Clubs",
+                        "matches": [
+                            [
+                                8,
+                                46,
+                                "File:SBS90 Marines.png|thumb|300px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS90 Marines.png",
+                        "size": "300",
+                        "start": 8,
+                        "end": 46
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "smoker",
+                        "tashigi",
+                        "hina"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "hobbies"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Smoker enjoys ceramic art and gambling, Tashigi likes reading sword books and making paper cutout pictures, and Hina enjoys horseback riding and clubs."
+            },
+            {
+                "number": 18,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I love Crocodile, Mihawk, and Doflamingo. Will these three not have kids and remain single forever? If they had kids, what would they be like? -P.N. Purple Panda",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "The marriage experience, huh. I don't know if there'd be kids or not, but anyways, please enjoy what I guess they would be like. And that's all for the SBS until the next volume!\n\n[[File:SBS90 Kids.png|thumb|300px]]\n*Crocodile's son: I finished my homework, Father!\n*Mihawk's daughter: What do you want, rabbit bastard?\n*Doflamingo's son: Papa, someone took my allowance. Can I have some more? [has wad of bills behind back]",
+                        "matches": [
+                            [
+                                180,
+                                215,
+                                "File:SBS90 Kids.png|thumb|300px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS90 Kids.png",
+                        "size": "300",
+                        "start": 180,
+                        "end": 215
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "crocodile",
+                        "mihawk",
+                        "doflamingo"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "family",
+                        "marriage",
+                        "children"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "Oda humorously imagines the potential offspring of Crocodile, Mihawk, and Doflamingo, with Crocodile's son being diligent, Mihawk's daughter being feisty, and Doflamingo's son being manipulative."
+            }
+        ],
+        "page": "174",
+        "chapter_number": "909",
+        "page_header": "SBS90 Header 7.png"
+    }
+]

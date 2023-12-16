@@ -1,0 +1,699 @@
+[
+    {
+        "qa": [
+            {
+                "number": 1,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Timmy Ueda-sama of the SBS Hijacking Group, I beg of you! Please accept me, Martha Shimoda, as your follower. I'll do anything you want. So, to begin with... \"Start the SBS!!\" Yaaay. How was it Timmy-sama? I started it.",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "...GYAAAAAHHH!! IT HAPPENED AGAAAAAIN!! DAMN YOU, TIMMYYYY!! Damn you, Timmy's apprentice!! Shit on a stick!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "timmy_ueda"
+                    ],
+                    "emotions": [
+                        "happy",
+                        "funny"
+                    ],
+                    "topics": [],
+                    "importance": "high",
+                    "isCharacterInsertion": false
+                },
+                "summary": "A fan, Martha Shimoda, requests Eiichiro Oda to start the SBS session, to which he complies reluctantly."
+            },
+            {
+                "number": 2,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello, Mr. Oda-sensei. I am continuing my efforts to be a swordsman. Do you if I keep working as a swordsman, \u00a0that someday I might be as strong as Sanji-san?",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Crappity crap!! Goddamn Timmy!! Are you one of Timmy's followers, too?! Is that right?! Wait, you are not?! Oh...!! Sorry, sorry. Sorry for flying off the handle like that. Uhhh... Become like Sanji by being a swordsman...? Yeah, right!! What does that have to do with anything?! Crap!! I'm getting all out of whack this time around... Be cool, be cool.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "mr_oda-sensei",
+                        "timmy",
+                        "sanji-san"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "surprised",
+                        "angry",
+                        "confused"
+                    ],
+                    "topics": [
+                        "swordsman",
+                        "strength"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader asks if they can become as strong as Sanji by being a swordsman, Oda overreacts then apologizes, saying it's unrelated."
+            },
+            {
+                "number": 3,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Greetings. I like Luffy Number 1. Number 2 is Sanji. The reason is Sanji's expressions.\n\nShitty old geezer > Poop old man\n\nShitty bastards > Poop men\n\nShit, that tastes good > Poop delicious\n\nQuite filthy, isn't he. Is it okay if I lower Sanji's rank?",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I'm not gonna argue with ya on that one. Right? How can you argue with that?",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy",
+                        "sanji"
+                    ],
+                    "topics": [
+                        "fan_preference"
+                    ],
+                    "emotions": [
+                        "happy",
+                        "funny"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader ranks Luffy first and Sanji second due to his memorable expressions; Oda agrees to lower Sanji's rank as requested."
+            }
+        ],
+        "page": 32,
+        "chapter_number": 100,
+        "page_header": "SBS Vol 12 header.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 4,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "A question for sensei. Why do\u00a0[[Roronoa Zoro|Zoro]] and [[Sanji]] and [[Nami]] drink alcohol, when they're still minors? Is that allowed?",
+                        "matches": [
+                            [
+                                30,
+                                51,
+                                "Roronoa Zoro|Zoro"
+                            ],
+                            [
+                                56,
+                                65,
+                                "Sanji"
+                            ],
+                            [
+                                70,
+                                78,
+                                "Nami"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "No.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Zoro",
+                        "link_title": "/wiki/Roronoa Zoro",
+                        "is_wikipedia": false,
+                        "start": 30,
+                        "end": 51
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Sanji",
+                        "link_title": "/wiki/Sanji",
+                        "is_wikipedia": false,
+                        "start": 56,
+                        "end": 65
+                    },
+                    {
+                        "text": "Nami",
+                        "link_title": "/wiki/Nami",
+                        "is_wikipedia": false,
+                        "start": 70,
+                        "end": 78
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "Roronoa Zoro",
+                        "Sanji",
+                        "Nami"
+                    ],
+                    "topics": [
+                        "alcohol"
+                    ],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "importance": [
+                        "low"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader asks why Zoro, Sanji, and Nami drink alcohol as minors, Oda simply responds 'No.'"
+            },
+            {
+                "number": 5,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I usually don't send this type of thing, but this time I did. Oda-sensei, I challenge you! Aka-Tako-Ashi-Kiken Ki-Tako-Ashi-Kiken Cha-Tako-Ashi-Kiken\n\n(Red octopus leg danger, yellow octopus leg danger, brown octopus leg danger)\n\nTry to say this 3 times fast. (And put it in the SBS)",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Aha... A tongue-twister? Pshh, these are so easy.. Ready, go!!\n\nACHAKABATASABADARAPPA...!!!\n\nOkay, next.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "happy",
+                        "funny"
+                    ],
+                    "topics": [],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader challenges Oda to say a tongue twister, Oda responds with his attempt 'ACHAKABATASABADARAPPA' and moves on."
+            },
+            {
+                "number": 6,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-chaaaan. I've always wanted to ask; at the end of the book, it says making unauthorized copies is a copyright violation. But is it okay to make copies of the timetable and stuff? Please tell me. From the third of [[Koby]]'s happy friends.",
+                        "matches": [
+                            [
+                                217,
+                                225,
+                                "Koby"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "It's complicated to explain, but basically, permission has been granted in several places for that illustration, so it's all right. Also, a lot of people wrote to say, \"My school goes for eight periods\", but I'm sure you can manage a workaround on that one. Sorry. It's hard to study for so long!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Koby",
+                        "link_title": "/wiki/Koby",
+                        "is_wikipedia": false,
+                        "start": 217,
+                        "end": 225
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "koby"
+                    ],
+                    "emotions": [
+                        "happy"
+                    ],
+                    "topics": [
+                        "copyright",
+                        "one piece illustrations",
+                        "school life"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader asks if it's allowed to copy the timetable illustration from One Piece volumes, and Oda confirms it's fine as it has been granted permission. He also acknowledges readers' comments about schools having different periods."
+            }
+        ],
+        "page": "52",
+        "chapter_number": "101",
+        "page_header": null
+    },
+    {
+        "qa": [
+            {
+                "number": 7,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Here's a question. When do fan letters reach you, Oda-sensei? Every week? For instance, if I mailed one on November 1, when does it fall into your hands? Please let me know.",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "First of all, the letters everyone sends me are delivered to the \"Weekly Shounen Jump Editorial Department\". There, people working part-time separate the letters according to author, and my manager sends me my letters once a week. So if you're lucky, it might even be the day it arrives at the Editorial Department. It's almost always within a week or two, though.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [
+                        "weekly_shounen_jump_editorial_department"
+                    ],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "letter_delivery"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda receives fan letters delivered to Weekly Shonen Jump Editorial Department, sorted by manager once a week, within 1-2 weeks of sending."
+            },
+            {
+                "number": 8,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "You said in Volume 7 that when you're drawing characters' facial expressions, you make the same face. Do you do the same thing when you draw one of Nami's sexy faces? Do you make an \"Ooh-la-la\" face?",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Of course. I'm famous with the local public for my sexy faces. They think I might be hotter than a magazine model queen.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "nami"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "drawing",
+                        "facial expressions",
+                        "sexy faces"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda admits to making sexy faces while drawing Nami's expressions, which are popular locally."
+            },
+            {
+                "number": 9,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Yo! So, this is the first time we've talked, Ei-chan. (Ehehe!) I'm so EMBARRASSED! Anyway, I have a question. \"[[Buggy]]\u00a0the Clown\" can split himself in pieces, right? Which means he can also do it DOWN THERE, if you catch my drift... I can't get any more specific! Don't make me say it! Don't draw anything until you answer this question!!",
+                        "matches": [
+                            [
+                                111,
+                                120,
+                                "Buggy"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "His penis can fly too.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Buggy",
+                        "link_title": "/wiki/Buggy",
+                        "is_wikipedia": false,
+                        "start": 111,
+                        "end": 120
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "buggy"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "embarrassed",
+                        "funny"
+                    ],
+                    "topics": [
+                        "devil_fruit",
+                        "perverted"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "Buggy the Clown can split himself, including 'down there', as he can also control his penis."
+            }
+        ],
+        "page": "92",
+        "chapter_number": "103",
+        "page_header": null
+    },
+    {
+        "qa": [
+            {
+                "number": 10,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I am the president of the \"International Somehow Okay Hair League\" (SBS, chapter 58). Restaurant owner Zeff-san's is a splendid specimen, in color, length, gloss, everything!! So we have decided that Zeff-san shall be the \"41st Somehow Okay Hair Champion\"! Congratulations. Oda-sensei, any comments?!",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Er... I can't help but be curious about who the previous forty champions were.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "zeff"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "curious"
+                    ],
+                    "topics": [
+                        "hair",
+                        "champion",
+                        "international"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "D praises Zeff-san's hair, nominating him as the 41st Somehow Okay Hair Champion; Oda wonders about the previous forty champions."
+            },
+            {
+                "number": 11,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I've been thinking about something for a while. How can [[Arlong]] wear a ring on his fingers when his hands are webbed?",
+                        "matches": [
+                            [
+                                56,
+                                66,
+                                "Arlong"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "That's because they go straight through his fingers. Like, jabbed straight through. They're more like piercings than rings.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Arlong",
+                        "link_title": "/wiki/Arlong",
+                        "is_wikipedia": false,
+                        "start": 56,
+                        "end": 66
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "arlong"
+                    ],
+                    "places": [],
+                    "emotions": [],
+                    "topics": [
+                        "character_design",
+                        "fishmen"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Arlong's 'rings' are actually piercings that go straight through his webbed fingers."
+            },
+            {
+                "number": 12,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "BRRRRRING... BRRRRRRING... Click... \"Ah... Hello... Is this Mino*nta-san? Listen... What's that? You're not Mino*nta-san? Huh? Oda-san... Ah... Sorry, wrong number...\" Click... Beep, Beep, Beep, Beep...",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "...Uh...",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "confused"
+                    ],
+                    "topics": [],
+                    "importance": "low",
+                    "isCharacterInsertion": false
+                },
+                "summary": "The reader makes a prank call to Oda, pretending to look for 'Mino*nta-san' but then realizes it's a wrong number."
+            },
+            {
+                "number": 13,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "(Episode I) Odacchi, will you save meee?! This Yamada guy who lives next door looks like a fish-man. And to prove it, he's got gills near his face... Ah, oooh, it's really cold all of a sudden... I wonder if I turned the air conditioner a little too high. NO! IT's BLOODLUST!! FVWOW (Lightsaber-igniting sound). To be continued...",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I won't save you.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "random"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader asks if the neighbor is a fish-man, and in a playful response, Oda declines to save them."
+            }
+        ],
+        "page": "112",
+        "chapter_number": "104",
+        "page_header": null
+    },
+    {
+        "qa": [
+            {
+                "number": 14,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "How far can Buggy separate himself? I'm so interested I've been growing okay hair for three straight days.",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Buggy? Well... Let's just say there's a cutoff point. Apparently, if he's any further away from his parts after that, he loses control. But more importantly, since you're growing okay hair, why don't you enter yourself in that \"Okay Hair Contest\" they were just talking about? Hmm?",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "buggy"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "devil_fruit",
+                        "contest"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Buggy can separate to a certain point, beyond which he loses control, and Oda suggests the reader enter the 'Okay Hair Contest'."
+            },
+            {
+                "number": 15,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Okay, here we go!! Start the SBS corner!!",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "BWAHAHAHAHAHA!! YAAAAYYYYY!! I printed this one where it's totally out of place!! Take that!! There have been a whole lot of letters like this lately. A whole lot.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda starts his Q&A session, mentioning a lot of out-of-place letters and expressing his excitement."
+            },
+            {
+                "number": 16,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "On page 78 of Volume 9, you can see the characters for \"Koi\" (Love) and \"Sake\" (Ale). Those wouldn't be plays on \"Koi\" (Carp) or \"Sake\" (Salmon), would they? You wouldn't do that, would you, sensei? I trust you... By the way, what kind of fish-men are they?",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "W-Wow, that little gag is so old, I'd forgotten all about it. Uhhh... Next, please...",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "surprised",
+                        "funny"
+                    ],
+                    "topics": [
+                        "wordplay",
+                        "fish-men"
+                    ],
+                    "importance": "low",
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader questions if the symbols for 'Koi' and 'Sake' in Volume 9 are a play on the fish 'Koi' and 'Sake,' but Oda dismisses the question as an old gag."
+            },
+            {
+                "number": 17,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello!! This is a postcard to Oda-sensei, obviously. Oh! I forgot to introduce myself. I am \"Timmy Maiko\"! Does the word \"Timmy\" remind you of anything...? Yes... Oh Yes! \"Timmy Ueda\"! I'm kind of like a sister to Ueda. You might recall him from Volume 10. I sent this postcard in to thank you for including him... Hee(x2)! And as his sister of sorts, I will end this before Oda-sensei can. Why? Because I am a member of the SBS-Hijacking Group after all.\n\n\"THE SBS IS OVER!\"",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "GYAAAAHH! Not again!! Damn you, Timmy, DAMN YOUUUU!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "timmy_maiko",
+                        "timmy_ueda"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "sbs_hijacking_group"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "Timmy, claiming to be Timmy Ueda's sister and a member of the SBS-Hijacking Group, interrupts the SBS to declare it's over, prompting Oda's exasperated response."
+            }
+        ],
+        "page": "132",
+        "chapter_number": "105",
+        "page_header": null
+    }
+]

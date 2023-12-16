@@ -1,0 +1,1226 @@
+[
+    {
+        "qa": [
+            {
+                "number": 1,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei! One... Two... Jango!!!",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ... Ah!! Good morning!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "jango"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "D mentions the chant 'One... Two... Jango!!!' and Oda responds with 'Good morning!!' after a sleepy 'ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ'."
+            },
+            {
+                "number": 2,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "A while ago, a kid from around here asked me, \"Where can I go to meet Luffy?\". Where can I go to meet Luffy? The North Sea? The Mediterranean Sea? The Tone River? Lake Biwa?",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Hmmmm... It's hard to say where to go in order to meet him. I suppose if you just set off on a relaxing voyage you might find him. But Buggy and the others are out there too, so please be careful. Please.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "luffy",
+                        "buggy"
+                    ],
+                    "places": [
+                        "north_sea",
+                        "mediterranean_sea",
+                        "tone_river",
+                        "lake_biwa"
+                    ],
+                    "emotions": [
+                        "cautious"
+                    ],
+                    "topics": [
+                        "meeting_luffy"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "To meet Luffy, you could try setting off on a relaxing voyage, but be careful because characters like Buggy may be out there too."
+            },
+            {
+                "number": 3,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Ummmm, about \"1, 2,\u00a0[[Jango]]\": what's that striped thing on his chin?",
+                        "matches": [
+                            [
+                                20,
+                                29,
+                                "Jango"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "A mushroom. Before he ever became a pirate, he was a \"wandering dancer\". But business wasn't so good, so all he did was sleep. Without even taking a bath. And eventually a striped mushroom grew from his chin. Since he was so hungry, he tried eating the cap of the mushroom, but it was disgusting! But he gulped it down anyways, and somehow became able to hypnotize people. Therefore, the striped thing on his chin is a \"leftover mushroom\".\n\n[[File:SBS Vol 6 Jango.png|thumb|center|500px]]",
+                        "matches": [
+                            [
+                                441,
+                                488,
+                                "File:SBS Vol 6 Jango.png|thumb|center|500px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS Vol 6 Jango.png",
+                        "size": "500",
+                        "start": 441,
+                        "end": 488
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Jango",
+                        "link_title": "/wiki/Jango",
+                        "is_wikipedia": false,
+                        "start": 20,
+                        "end": 29
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "jango"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "character_backstory",
+                        "mushroom",
+                        "hypnotism"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Jango's striped thing is a leftover mushroom from his days as a wandering dancer, which he ate and gained the ability to hypnotize people."
+            }
+        ],
+        "page": 26,
+        "chapter_number": 45,
+        "page_header": "SBS Vol 6 header.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 4,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hold on a minute, is Gaimon-san my father? (I checked with the Ministry of Education)",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Ahh! Damn, you found out... You checked with the Ministry of Education... So that's how you found out... Gaimon-san was told to keep his mouth shut about this, but... Looks like we can't hide it anymore. Very well! Go see him! That's right, you are Gaimon-san's son! Go and jump into Gaimon-san's heart! Jump with all your strength! And while you're at it, go jump in the sea and cool your head off! You bastard!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "gaimon"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "family"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "Oda playfully confirms Gaimon-san as the reader's father, urging them to go see him and jump into his heart and the sea to cool off."
+            },
+            {
+                "number": 5,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "When I told my friend \"Buggy is sooooo cute \u2665\", she took a step back and called me a \"weirdo\"! Am I weird?",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "You're weird!! ... But I like Buggy too. And I'm not weird, am I? ...I'm special. I'm a special exception.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "buggy"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "personal_opinions"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "D finds Buggy cute, wonders if it's weird; Oda calls D weird, but also likes Buggy and considers himself a special exception."
+            },
+            {
+                "number": 6,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I have a request \u2665 Please give me Gaimon-san \u2665",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Here you go. Oh... You should check with his son first, though.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "gaimon",
+                        "gaimon's_son"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "happy"
+                    ],
+                    "topics": [],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader asks for Gaimon, Oda responds and mentions to check with Gaimon's son first."
+            },
+            {
+                "number": 7,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "When an artist is drawing\u00a0Chapter 10, for example, what chapter is being printed in the newest [[Shonen Jump|Weekly Jump]]?",
+                        "matches": [
+                            [
+                                95,
+                                122,
+                                "Shonen Jump|Weekly Jump"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I see. I wondered about this myself, years ago. So I understand your curiosity. At this EXACT moment, Issue 46 of Jump is hitting the stands. It contains [[Chapter 60|One Piece Chapter 60, \"Solution\"]]. But I have finished the drafts up through [[Chapter 63|Chapter 63, \"I Ain't Gonna Die\"]]. So a chapter comes out roughly 3 weeks after I finish it. But that's only my CURRENT schedule. The people doing these weekly serials aren't actually all the same. I could change if need be. There are various cases.",
+                        "matches": [
+                            [
+                                154,
+                                201,
+                                "Chapter 60|One Piece Chapter 60, \"Solution\""
+                            ],
+                            [
+                                245,
+                                291,
+                                "Chapter 63|Chapter 63, \"I Ain't Gonna Die\""
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Weekly Jump",
+                        "link_title": "/wiki/Shonen Jump",
+                        "is_wikipedia": false,
+                        "start": 95,
+                        "end": 122
+                    },
+                    {
+                        "text": "One Piece Chapter 60, \"Solution\"",
+                        "link_title": "/wiki/Chapter 60",
+                        "is_wikipedia": false,
+                        "start": 154,
+                        "end": 201
+                    },
+                    {
+                        "text": "Chapter 63, \"I Ain't Gonna Die\"",
+                        "link_title": "/wiki/Chapter 63",
+                        "is_wikipedia": false,
+                        "start": 245,
+                        "end": 291
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "curious"
+                    ],
+                    "topics": [
+                        "manga_publishing",
+                        "work_schedule"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda explains that while Chapter 60 is being printed in Issue 46 of Weekly Jump, he has finished the drafts up through Chapter 63, which will come out roughly three weeks later."
+            }
+        ],
+        "page": "46",
+        "chapter_number": "46",
+        "page_header": null
+    },
+    {
+        "qa": [
+            {
+                "number": 8,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "What happened to the key [[Chouchou]] swallowed in Volume 2?",
+                        "matches": [
+                            [
+                                25,
+                                37,
+                                "Chouchou"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "It came out. Shiny and brown.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Chouchou",
+                        "link_title": "/wiki/Chouchou",
+                        "is_wikipedia": false,
+                        "start": 25,
+                        "end": 37
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "Chouchou"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "key_swallowing"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Chouchou's swallowed key came out, shiny and brown."
+            },
+            {
+                "number": 9,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "When I was reading the [[SBS Volume 4|Volume 4's SBS]], you said that Luffy's arm could stretch about 72 Gomu Gomus, but I was wondering, just how many meters is 1 \"Gomu Gomu\"? (I checked with the Ministry of Education)",
+                        "matches": [
+                            [
+                                23,
+                                54,
+                                "SBS Volume 4|Volume 4's SBS"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Oh, you again! Gaimon-san's son. And you looked at the Ministery of Education again... Meters, well...You can't put it those terms, you see? 1 \"Gomu Gomu\" is about 10 \"Fairy Tale Gomu Gomus\". 1 \"Fairy Tale Gomu Gomu\" is about 10 \"Funky Gomu Gomus\", so Luffy's arm can stretch about 7200 \"Funky Gomu Gomus\". Got it?",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Volume 4's SBS",
+                        "link_title": "/wiki/SBS Volume 4",
+                        "is_wikipedia": false,
+                        "start": 23,
+                        "end": 54
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "playful"
+                    ],
+                    "topics": [
+                        "devil_fruit",
+                        "measurement"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda explains that 1 'Gomu Gomu' is about 10 'Fairy Tale Gomu Gomus', and 1 'Fairy Tale Gomu Gomu' is about 10 'Funky Gomu Gomus', so Luffy's arm can stretch about 7200 'Funky Gomu Gomus'."
+            },
+            {
+                "number": 10,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Where are you from, Sensei? It wasn't in your [[SBS Volume 4|Volume 4]] profile.",
+                        "matches": [
+                            [
+                                46,
+                                71,
+                                "SBS Volume 4|Volume 4"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "From Kumamoto. From Kyushu. From a wonderful place.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Volume 4",
+                        "link_title": "/wiki/SBS Volume 4",
+                        "is_wikipedia": false,
+                        "start": 46,
+                        "end": 71
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [
+                        "Kumamoto",
+                        "Kyushu"
+                    ],
+                    "emotions": [
+                        "happy"
+                    ],
+                    "topics": [
+                        "Oda's_personal_life"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda reveals he is from Kumamoto, in Kyushu, which he considers a wonderful place."
+            },
+            {
+                "number": 11,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Why don't [[Monkey D. Luffy|Luffy]] and [[Roronoa Zoro|Zoro]] go by the names \"Monkey\" or \"Roronoa\"? Or are those their family names, the Japanese way?",
+                        "matches": [
+                            [
+                                10,
+                                35,
+                                "Monkey D. Luffy|Luffy"
+                            ],
+                            [
+                                40,
+                                61,
+                                "Roronoa Zoro|Zoro"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes. That's it. First family name. Then personal name.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Luffy",
+                        "link_title": "/wiki/Monkey D. Luffy",
+                        "is_wikipedia": false,
+                        "start": 10,
+                        "end": 35
+                    },
+                    {
+                        "text": "Zoro",
+                        "link_title": "/wiki/Roronoa Zoro",
+                        "is_wikipedia": false,
+                        "start": 40,
+                        "end": 61
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy",
+                        "roronoa_zoro"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "family",
+                        "japanese_culture"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Luffy and Zoro go by their personal names, following the Japanese naming convention with family name first and personal name second."
+            },
+            {
+                "number": 12,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Is there a mirror on [[Miss Love Duck|Alvida's ship]]?",
+                        "matches": [
+                            [
+                                21,
+                                53,
+                                "Miss Love Duck|Alvida's ship"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Whoa! Hey, hey... She's gonna throw that club at me! Don't ask me! Man, what a dangerous question. Something tells me there is no mirror. DONK!!! Whoa, she threw something!!\n\n[[File:SBS Vol 6 Pandaman.png|thumb|200px]]",
+                        "matches": [
+                            [
+                                175,
+                                218,
+                                "File:SBS Vol 6 Pandaman.png|thumb|200px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS Vol 6 Pandaman.png",
+                        "size": "200",
+                        "start": 175,
+                        "end": 218
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Alvida's ship",
+                        "link_title": "/wiki/Miss Love Duck",
+                        "is_wikipedia": false,
+                        "start": 21,
+                        "end": 53
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "alvida"
+                    ],
+                    "places": [
+                        "alvida's_ship"
+                    ],
+                    "emotions": [
+                        "nervous",
+                        "surprised",
+                        "funny"
+                    ],
+                    "topics": [
+                        "ship",
+                        "danger"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader asks if there's a mirror on Alvida's ship, Oda responds humorously, implying danger, and suggests there is no mirror."
+            },
+            {
+                "number": 13,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "When you read [[One Piece (Manga)|One Piece]], some mysterious characters show up from time to time. Like, in One Piece Volume 5, p.&nbsp;182, in the third panel, there's an odd guy in the back. Who is he? I'm so interested, I'm not brushing my teeth.",
+                        "matches": [
+                            [
+                                14,
+                                45,
+                                "One Piece (Manga)|One Piece"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "No, brush your teeth. Dentists are scary. So... you found him. He is a wrestler named \"[[Pandaman]]\". I will introduce him to you some time later.",
+                        "matches": [
+                            [
+                                87,
+                                99,
+                                "Pandaman"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "One Piece",
+                        "link_title": "/wiki/One Piece (Manga)",
+                        "is_wikipedia": false,
+                        "start": 14,
+                        "end": 45
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Pandaman",
+                        "link_title": "/wiki/Pandaman",
+                        "is_wikipedia": false,
+                        "start": 87,
+                        "end": 99
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "pandaman"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "mysterious_characters",
+                        "pandaman",
+                        "funny"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader asks about a mysterious character in One Piece, Oda reveals it's Pandaman, a wrestler, and promises to introduce him later."
+            }
+        ],
+        "page": "66",
+        "chapter_number": "47",
+        "page_header": null
+    },
+    {
+        "qa": [
+            {
+                "number": 14,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I know there's the [[Gomu Gomu no Mi]], the [[Bara Bara no Mi]], and all those other devil fruit, but let me tell you the one I thought up. It's called the [[Gero Gero no Mi]] (Barf Barf Fruit). The power makes it so you're always vomiting, so no one ever comes near you. Verrrrrrrry useful.",
+                        "matches": [
+                            [
+                                19,
+                                38,
+                                "Gomu Gomu no Mi"
+                            ],
+                            [
+                                44,
+                                63,
+                                "Bara Bara no Mi"
+                            ],
+                            [
+                                156,
+                                175,
+                                "Gero Gero no Mi"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "You eat it.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Gomu Gomu no Mi",
+                        "link_title": "/wiki/Gomu Gomu no Mi",
+                        "is_wikipedia": false,
+                        "start": 19,
+                        "end": 38
+                    },
+                    {
+                        "text": "Bara Bara no Mi",
+                        "link_title": "/wiki/Bara Bara no Mi",
+                        "is_wikipedia": false,
+                        "start": 44,
+                        "end": 63
+                    },
+                    {
+                        "text": "Gero Gero no Mi",
+                        "link_title": "/wiki/Gero Gero no Mi",
+                        "is_wikipedia": false,
+                        "start": 156,
+                        "end": 175
+                    }
+                ],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "devil_fruit"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda suggests that the reader would have to eat the Gero Gero no Mi to gain its power."
+            },
+            {
+                "number": 16,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I noticed that you've never (I think) drawn Buggy-kun with his mouth closed. I want to see what his lips look like when they are shut.\n\n[[File:SBS Vol 6 Buggy.png|thumb|center|500px]]",
+                        "matches": [
+                            [
+                                136,
+                                183,
+                                "File:SBS Vol 6 Buggy.png|thumb|center|500px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Hehe. I have a friend that comes in quite handy for this. His eye is quite accurate. It's that \"weird [[chef]]\", who can tell a girl's three sizes with just one look, [[Sanji|Sanji-san]]!!\n\nSanji: Shitty guy! I ain't \"weird\"!! It's \"love\", I'm a \"cook in love\"!! Ah well, thanks for calling me. Just leave this stuff to me. Nami-san is so cute. And her style is right on. Now, let's take a look... B 86! W 57! H 86! No doubt about it!! She's so cuuuuute. Damn, she's a thief though. But I still love her!!",
+                        "matches": [
+                            [
+                                102,
+                                110,
+                                "chef"
+                            ],
+                            [
+                                167,
+                                186,
+                                "Sanji|Sanji-san"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "question",
+                        "text": "When the question came up about [[Nami]]'s three sizes (Bust-Waist-Hip) you said \"I promise!!\". So when are you going to tell us?!!",
+                        "matches": [
+                            [
+                                32,
+                                40,
+                                "Nami"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Ahh! Nami! Crap. Was I wrong?\n\nNami: No, you got it right. Oh well, it's nothing to worry about. Bye. *walking quickly*",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "...Whoa!! Damn!! My wallet's gone!! Awwwwww.",
+                        "matches": []
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS Vol 6 Buggy.png",
+                        "size": "500",
+                        "start": 136,
+                        "end": 183
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Sanji-san",
+                        "link_title": "/wiki/Sanji",
+                        "is_wikipedia": false,
+                        "start": 167,
+                        "end": 186
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "chef",
+                        "link_title": "/wiki/chef",
+                        "is_wikipedia": false,
+                        "start": 102,
+                        "end": 110
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "buggy",
+                        "sanji",
+                        "nami"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "body_measurements",
+                        "humor"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "A fan asks to see Buggy with his mouth closed and Oda jokes about Sanji's accurate 'eye' for measurements but gets distracted by Nami's sizes."
+            }
+        ],
+        "page": "104",
+        "chapter_number": "49",
+        "page_header": null
+    },
+    {
+        "qa": [
+            {
+                "number": 17,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Were there really woman pirates?",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes, there were. But it was considered bad luck to bring a woman on board a ship in those days, and so many of them disguised themselves as men. There were two woman pirates, [[Wikipedia:Mary Read|Mary Read]] and [[Wikipedia:Anne Bonny|Anne Bonny]], who were said to have fought more bravely than any man. By the way, my character [[Alvida]] was based on a female pirate named [[Wikipedia:Awilda|Awilda]] (or Alvida) who formed a pirate crew comprised entirely of women.",
+                        "matches": [
+                            [
+                                175,
+                                208,
+                                "Wikipedia:Mary Read|Mary Read"
+                            ],
+                            [
+                                213,
+                                248,
+                                "Wikipedia:Anne Bonny|Anne Bonny"
+                            ],
+                            [
+                                331,
+                                341,
+                                "Alvida"
+                            ],
+                            [
+                                377,
+                                404,
+                                "Wikipedia:Awilda|Awilda"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Mary Read",
+                        "link_title": "/wiki/Wikipedia:Mary Read",
+                        "is_wikipedia": false,
+                        "start": 175,
+                        "end": 208
+                    },
+                    {
+                        "text": "Anne Bonny",
+                        "link_title": "/wiki/Wikipedia:Anne Bonny",
+                        "is_wikipedia": false,
+                        "start": 213,
+                        "end": 248
+                    },
+                    {
+                        "text": "Awilda",
+                        "link_title": "/wiki/Wikipedia:Awilda",
+                        "is_wikipedia": false,
+                        "start": 377,
+                        "end": 404
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Alvida",
+                        "link_title": "/wiki/Alvida",
+                        "is_wikipedia": false,
+                        "start": 331,
+                        "end": 341
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "alvida",
+                        "mary_read",
+                        "anne_bonny"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "pirates",
+                        "disguise",
+                        "gender"
+                    ],
+                    "importance": [
+                        "high"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda confirms the presence of woman pirates, with some disguising as men; cites examples like Mary Read, Anne Bonny, and Alvida's inspiration Awilda."
+            },
+            {
+                "number": 18,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "In an older manga called \"[https://myanimelist.net/manga/14745/Oni_Ga_Kitarite Oni ga Kitarite]\" (by Shingagin-sensei) the second panel on p.&nbsp;16 of the first volume could only have been drawn by you, Oda-sensei. Were you an assistant there?",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I can't endure any more of these letters, so I'll go ahead and clear up this matter all at once. [[wikipedia:Hiroyuki Takei|Hiroyuki Takei]], [[wikipedia:Shinga Gin|Shinga Gin]], [[wikipedia:Mikio Ito|Mikio Ito]] and I were all assistants for \"[[wikipedia:Rurouni Kenshin|Rurouni Kenshin]]\". So when my friend \"Gagin\" got his own series, I gave him a bit of help. Also worth mentioning is [[wikipedia:Shinya Suzuki|Shinya Suzuki]], who just had his debut published, and was an assistant for Rurouni Kenshin, as well as an occasional helper with One Piece. And that's the connection between all of us. OK?",
+                        "matches": [
+                            [
+                                97,
+                                140,
+                                "wikipedia:Hiroyuki Takei|Hiroyuki Takei"
+                            ],
+                            [
+                                142,
+                                177,
+                                "wikipedia:Shinga Gin|Shinga Gin"
+                            ],
+                            [
+                                179,
+                                212,
+                                "wikipedia:Mikio Ito|Mikio Ito"
+                            ],
+                            [
+                                244,
+                                289,
+                                "wikipedia:Rurouni Kenshin|Rurouni Kenshin"
+                            ],
+                            [
+                                389,
+                                430,
+                                "wikipedia:Shinya Suzuki|Shinya Suzuki"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Hiroyuki Takei",
+                        "link_title": "/wiki/Hiroyuki Takei",
+                        "is_wikipedia": true,
+                        "start": 97,
+                        "end": 140
+                    },
+                    {
+                        "text": "Shinga Gin",
+                        "link_title": "/wiki/Shinga Gin",
+                        "is_wikipedia": true,
+                        "start": 142,
+                        "end": 177
+                    },
+                    {
+                        "text": "Mikio Ito",
+                        "link_title": "/wiki/Mikio Ito",
+                        "is_wikipedia": true,
+                        "start": 179,
+                        "end": 212
+                    },
+                    {
+                        "text": "Rurouni Kenshin",
+                        "link_title": "/wiki/Rurouni Kenshin",
+                        "is_wikipedia": true,
+                        "start": 244,
+                        "end": 289
+                    },
+                    {
+                        "text": "Shinya Suzuki",
+                        "link_title": "/wiki/Shinya Suzuki",
+                        "is_wikipedia": true,
+                        "start": 389,
+                        "end": 430
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "manga",
+                        "assistants",
+                        "connections",
+                        "friendship"
+                    ],
+                    "importance": [
+                        "high"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda clarifies that he and other manga artists were assistants for 'Rurouni Kenshin' and helped out friends with their manga series."
+            },
+            {
+                "number": 19,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "When I went to the barber a little while ago and asked for a \"Zoro\u00a0haircut\",\u00a0he shaved my head. What should I say to get a haircut like Zoro's?",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Ask for the cut of a\u00a0\"MAN'S HEART AND SPIRIT.\"",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "roronoa_zoro"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "hairstyle"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "To get a Zoro haircut, ask for the cut of a 'MAN'S HEART AND SPIRIT'."
+            },
+            {
+                "number": 20,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "In [[Chapter 37]], is the man who captured the [[Nugire Yainu|fake \"Kuro of a Hundred Plans\"]], the [[Marine]] [[Captain]]\u00a0\"Axe-Arm [[Morgan]]\"? When I asked my friend, he thought they looked the same too.",
+                        "matches": [
+                            [
+                                3,
+                                17,
+                                "Chapter 37"
+                            ],
+                            [
+                                47,
+                                94,
+                                "Nugire Yainu|fake \"Kuro of a Hundred Plans\""
+                            ],
+                            [
+                                100,
+                                110,
+                                "Marine"
+                            ],
+                            [
+                                111,
+                                122,
+                                "Captain"
+                            ],
+                            [
+                                132,
+                                142,
+                                "Morgan"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "He's Morgan. He was a [[Chief Petty Officer]] at the time, and then got promoted to [[Lieutenant Commander]]. From there he strong-armed his way up to a [[Captain (marine rank)|Captain]], and was put in charge of a Marine base. When Kuro looked in his eyes, he must have sensed some sort of kindred spirit between them.",
+                        "matches": [
+                            [
+                                22,
+                                45,
+                                "Chief Petty Officer"
+                            ],
+                            [
+                                84,
+                                108,
+                                "Lieutenant Commander"
+                            ],
+                            [
+                                153,
+                                186,
+                                "Captain (marine rank)|Captain"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "fake \"Kuro of a Hundred Plans\"",
+                        "link_title": "/wiki/Nugire Yainu",
+                        "is_wikipedia": false,
+                        "start": 47,
+                        "end": 94
+                    },
+                    {
+                        "text": "Captain",
+                        "link_title": "/wiki/Captain (marine rank)",
+                        "is_wikipedia": false,
+                        "start": 153,
+                        "end": 186
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Chapter 37",
+                        "link_title": "/wiki/Chapter 37",
+                        "is_wikipedia": false,
+                        "start": 3,
+                        "end": 17
+                    },
+                    {
+                        "text": "Marine",
+                        "link_title": "/wiki/Marine",
+                        "is_wikipedia": false,
+                        "start": 100,
+                        "end": 110
+                    },
+                    {
+                        "text": "Captain",
+                        "link_title": "/wiki/Captain",
+                        "is_wikipedia": false,
+                        "start": 111,
+                        "end": 122
+                    },
+                    {
+                        "text": "Morgan",
+                        "link_title": "/wiki/Morgan",
+                        "is_wikipedia": false,
+                        "start": 132,
+                        "end": 142
+                    },
+                    {
+                        "text": "Chief Petty Officer",
+                        "link_title": "/wiki/Chief Petty Officer",
+                        "is_wikipedia": false,
+                        "start": 22,
+                        "end": 45
+                    },
+                    {
+                        "text": "Lieutenant Commander",
+                        "link_title": "/wiki/Lieutenant Commander",
+                        "is_wikipedia": false,
+                        "start": 84,
+                        "end": 108
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "axe-arm_morgan",
+                        "kuro_of_a_hundred_plans"
+                    ],
+                    "places": [
+                        "marine_base"
+                    ],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "capturing_criminals",
+                        "marines"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "The man who captured the fake 'Kuro of a Hundred Plans' in Chapter 37 is the Marine Captain 'Axe-Arm Morgan,' who started as a Chief Petty Officer and worked his way up."
+            }
+        ],
+        "page": "124",
+        "chapter_number": "50",
+        "page_header": null
+    }
+]

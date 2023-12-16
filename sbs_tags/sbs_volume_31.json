@@ -1,0 +1,747 @@
+[
+    {
+        "qa": [
+            {
+                "number": 0,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "N/A",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "BEGIIIIIIIIN THE SBS! (DON!)\n\nWoohoo! I said it! I finally said it! Oh, I'm overcome with joy! I bet you all thought I'd given up on it lately, didn't you? Haha, well you're still too green. I was only looking for the perfect chance all along. Ahh... This feels great. You ain't gonna take this from me anymore! Come at me if you dare!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "joy",
+                        "funny"
+                    ],
+                    "topics": [],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda starts his Q&A session with excitement and confidence, expressing joy at finally having the perfect chance to begin."
+            },
+            {
+                "number": 1,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei, I've been wondering something as I watched\u00a0[[One Piece (Manga)|One Piece]]. Why don't [[Monkey D. Luffy|Luffy]],\u00a0[[Roronoa Zoro|Zoro]] or the others have armpit hair? I'm younger than Luffy and I've already got A JUNGLE DOWN THERE.\n\nSeriously, why they don't have any? (tears)\n\n-by Seriously, why?-",
+                        "matches": [
+                            [
+                                55,
+                                86,
+                                "One Piece (Manga)|One Piece"
+                            ],
+                            [
+                                98,
+                                123,
+                                "Monkey D. Luffy|Luffy"
+                            ],
+                            [
+                                125,
+                                146,
+                                "Roronoa Zoro|Zoro"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Is it really fine to draw them?\n\nI mean, if that's what people want, I'll draw some thick bushes.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "One Piece",
+                        "link_title": "/wiki/One Piece (Manga)",
+                        "is_wikipedia": false,
+                        "start": 55,
+                        "end": 86
+                    },
+                    {
+                        "text": "Luffy",
+                        "link_title": "/wiki/Monkey D. Luffy",
+                        "is_wikipedia": false,
+                        "start": 98,
+                        "end": 123
+                    },
+                    {
+                        "text": "Zoro",
+                        "link_title": "/wiki/Roronoa Zoro",
+                        "is_wikipedia": false,
+                        "start": 125,
+                        "end": 146
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy",
+                        "roronoa_zoro"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "humorous"
+                    ],
+                    "topics": [
+                        "body_hair",
+                        "character_design"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader asks why characters in One Piece don't have armpit hair, Oda responds that he can draw it if people want."
+            },
+            {
+                "number": 2,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "What do Zoro's new attack \"X-Pound Cannon\" mean?\n\n-P.N. Mikan-\n\n[[Image:SBS Vol.31 1.png|thumb|150px|12-pound cannon]]",
+                        "matches": [
+                            [
+                                64,
+                                118,
+                                "Image:SBS Vol.31 1.png|thumb|150px|12-pound cannon"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "\"[[Wikipedia:Twelve-pound cannon|12-pound cannon]]\" and \"24-pound cannon\"attacks refer to cannons that can shoot cannonballs of those weights. 12 pounds might not sound like much, but the cannon needed to shoot them will need to weight over 1 ton. (1 pound = roughly 0.45kg).\n\nWhat you shouldn't get them mixed up for is a fond de veau. That's something used in French cuisine.\n\n''(Note: Yes, Fond de veau is a Japanese pun pronunciation on \"X-pondo hou,\" the spelling for \"X-pound cannon.\" Even in Japanese, it's a stretch.)''",
+                        "matches": [
+                            [
+                                1,
+                                50,
+                                "Wikipedia:Twelve-pound cannon|12-pound cannon"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": ":SBS Vol.31 1.png",
+                        "size": "150",
+                        "start": 64,
+                        "end": 118
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "12-pound cannon",
+                        "link_title": "/wiki/Wikipedia:Twelve-pound cannon",
+                        "is_wikipedia": false,
+                        "start": 1,
+                        "end": 50
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "roronoa_zoro"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "zoro_attack",
+                        "japanese_pun",
+                        "french_cuisine"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Zoro's new attack, 'X-Pound Cannon,' refers to cannons that shoot 12 or 24-pound cannonballs, and it's not to be confused with a fond de veau in French cuisine."
+            }
+        ],
+        "page": 44,
+        "chapter_number": 287,
+        "page_header": "SBS Vol 31 header.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 3,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello, Oda-sensei! I always read your manga with great pleasure.This might be sudden, but there's something I simply have to ask you. And that's about this picture right here. \"Aww, isn't\u00a0[[Tony Tony Chopper|Chopper]]'s\u00a0surprised, round head so cute...\" \n\nWAIT, NO! My real question is... \n\n\"CHOPPER'S ANTLERS SHOULDN'T BE ATTACHED TO HIS HAT! THEY SHOULD BE ATTACHED TO HIS HEAD!\" \n\nPlease tell me just what is going on with this image.",
+                        "matches": [
+                            [
+                                188,
+                                217,
+                                "Tony Tony Chopper|Chopper"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Ah, I got a mountain-load of letters about this, so let me just say to all of you...\n\nNOT EVERYTHING SEEN BY THE EYES IS LITERAL TRUTH.\n\nBasically, in this scene, Chopper was SO surprised that he felt even his antlers were about to jump out. That's what he was trying to convey to us by striking this pose. Maybe! It could be said... That this was his own... unique style of... Rock! Ok, next question.\n\n\n[[Image:SBS Vol.31 3.png|right|150px]]",
+                        "matches": [
+                            [
+                                405,
+                                443,
+                                "Image:SBS Vol.31 3.png|right|150px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": ":SBS Vol.31 3.png",
+                        "size": "150",
+                        "start": 405,
+                        "end": 443
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Chopper",
+                        "link_title": "/wiki/Tony Tony Chopper",
+                        "is_wikipedia": false,
+                        "start": 188,
+                        "end": 217
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "tony_tony_chopper"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "chopper's_antlers",
+                        "interpretation",
+                        "visual_representation"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Chopper's antlers on his hat are not a literal truth, in the scene, he was so surprised that he felt his own antlers were about to jump out, representing his unique style."
+            },
+            {
+                "number": 4,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "In\u00a0[[Chapter 284]]'s cover page, you drew an adorable dog smoking a cigarette. Even if you are Oda-sensei, I cannot let this stand by! Are you trying to give this dog health problems?!\n\n-P.N. Animal Rights Organization Member no. 17-",
+                        "matches": [
+                            [
+                                3,
+                                18,
+                                "Chapter 284"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Oh... Clearly, we were quite careless about this matter... We are terribly sorry. I'll make sure I properly scold\u00a0[[Sanji]]. That troublemaker!",
+                        "matches": [
+                            [
+                                114,
+                                123,
+                                "Sanji"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Chapter 284",
+                        "link_title": "/wiki/Chapter 284",
+                        "is_wikipedia": false,
+                        "start": 3,
+                        "end": 18
+                    },
+                    {
+                        "text": "Sanji",
+                        "link_title": "/wiki/Sanji",
+                        "is_wikipedia": false,
+                        "start": 114,
+                        "end": 123
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "sanji"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "apologetic",
+                        "playful"
+                    ],
+                    "topics": [
+                        "animal_rights",
+                        "cover_page",
+                        "health_concerns"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "A reader criticizes Oda for drawing a dog smoking in a cover page, Oda apologizes and blames the character Sanji for the incident."
+            }
+        ],
+        "page": "86",
+        "chapter_number": "289",
+        "page_header": null
+    },
+    {
+        "qa": [
+            {
+                "number": 5,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello, Oda Eiichiro-san. Thanks for everything. I recently re-read One Piece over from the very first volume, and there was something that jumped at me. \n\nTHE [[SBS]] USED TO BE SERIOUS. \n\nWhen did it become this mess of a corner it is now? Whose fault is it? I've been wondering so much about it that\u00a0[[Gaimon]]-san won't stop growing (his son is worried, too) Help me!<br />P.S. Did you know that there is a person inside [[Wikipedia:Gachapin|Gachapin]]?\n\n[[Image:SBS Vol.31 4.png|thumb|180px|Gachapin and Mukku ''(kinda, well not really)'']]",
+                        "matches": [
+                            [
+                                159,
+                                166,
+                                "SBS"
+                            ],
+                            [
+                                302,
+                                312,
+                                "Gaimon"
+                            ],
+                            [
+                                424,
+                                455,
+                                "Wikipedia:Gachapin|Gachapin"
+                            ],
+                            [
+                                458,
+                                544,
+                                "Image:SBS Vol.31 4.png|thumb|180px|Gachapin and Mukku ''(kinda, well not really)''"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Hold up a second. Your P.S. is far more pressing than your real question.\n\nGACHAPIN IS EXACTLY AS HE LOOKS.\n\nThere's no one inside of him so please don't lie. Incidentally, Gachapin's supposed to be a baby dinosaur while Mukku is an Abominable Snowman. Now, \"baby dinosaur\" is fine by me... but \"abominable snowman\"?\n\nOh come on, he's completely red!\n\nA red abominable snowman in the white mountains?\n\nTALK ABOUT BEING STARVED FOR ATTENTION. I LOVE MUKKU.\n\nI guess Ponkikki (TV show that Gachapin and Mukku \u00a0are in) is what\u00a0Japanese children grow up watching these days. What was the question again? Oh right, the SBS. So why'd it become like this? Dunno, but it's not my fault for sure.",
+                        "matches": []
+                    }
+                ],
+                "files": [
+                    {
+                        "file": ":SBS Vol.31 4.png",
+                        "size": "180",
+                        "start": 458,
+                        "end": 544
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Gachapin",
+                        "link_title": "/wiki/Wikipedia:Gachapin",
+                        "is_wikipedia": false,
+                        "start": 424,
+                        "end": 455
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "SBS",
+                        "link_title": "/wiki/SBS",
+                        "is_wikipedia": false,
+                        "start": 159,
+                        "end": 166
+                    },
+                    {
+                        "text": "Gaimon",
+                        "link_title": "/wiki/Gaimon",
+                        "is_wikipedia": false,
+                        "start": 302,
+                        "end": 312
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "gaimon",
+                        "gachapin",
+                        "mukku"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "sbs",
+                        "gachapin",
+                        "mukku",
+                        "ponkikki"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "Oda clarifies Gachapin's appearance, disapproves of false info, and playfully blames kids' TV influence for the playful nature of the SBS corner."
+            }
+        ],
+        "page": "106",
+        "chapter_number": "290",
+        "page_header": null
+    },
+    {
+        "qa": [
+            {
+                "number": 6,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello, Oda-san! I would really, really, really like to see what \"[[Nnke-kun]]\" looks like, the partner of \"[[Domo-kun]]\" (Volume 2, p. 13) who's always trying to take over the world.\n\n-by Chii-yan-",
+                        "matches": [
+                            [
+                                65,
+                                77,
+                                "Nnke-kun"
+                            ],
+                            [
+                                107,
+                                119,
+                                "Domo-kun"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Oh, I see. You're talking about my two hidden characters from long ago. In\u00a0[[One Piece Blue: Grand Data File|One Piece \"Blue\"]], I mentioned that Domo-kun had a friend, so you must have gotten curious. Well, here they are! Domo-kun and Nnke-kun!! Clap clap clap!\n\nI came up with these guys back in my highschool days. In my collection of \"masterpieces\" called \"[[Wanted!|Wanted]]\", these guys are hidden in the oneshot \"[[God's Gift for the Future]]\". Since I've introduced them here, I might just slip them in for future chapters, haha.\n\n''(Left: Domo-kun. Right: Nnke-kun.)''\n[[File:SBS_Vol.31_8.png|right|100px]]",
+                        "matches": [
+                            [
+                                75,
+                                127,
+                                "One Piece Blue: Grand Data File|One Piece \"Blue\""
+                            ],
+                            [
+                                361,
+                                379,
+                                "Wanted!|Wanted"
+                            ],
+                            [
+                                420,
+                                449,
+                                "God's Gift for the Future"
+                            ],
+                            [
+                                578,
+                                615,
+                                "File:SBS_Vol.31_8.png|right|100px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS_Vol.31_8.png",
+                        "size": "100",
+                        "start": 578,
+                        "end": 615
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "One Piece \"Blue\"",
+                        "link_title": "/wiki/One Piece Blue: Grand Data File",
+                        "is_wikipedia": false,
+                        "start": 75,
+                        "end": 127
+                    },
+                    {
+                        "text": "Wanted",
+                        "link_title": "/wiki/Wanted!",
+                        "is_wikipedia": false,
+                        "start": 361,
+                        "end": 379
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Nnke-kun",
+                        "link_title": "/wiki/Nnke-kun",
+                        "is_wikipedia": false,
+                        "start": 65,
+                        "end": 77
+                    },
+                    {
+                        "text": "Domo-kun",
+                        "link_title": "/wiki/Domo-kun",
+                        "is_wikipedia": false,
+                        "start": 107,
+                        "end": 119
+                    },
+                    {
+                        "text": "God's Gift for the Future",
+                        "link_title": "/wiki/God's Gift for the Future",
+                        "is_wikipedia": false,
+                        "start": 420,
+                        "end": 449
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "domo-kun",
+                        "nnke-kun"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "character_design",
+                        "manga_creation",
+                        "hidden_characters"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda reveals Domo-kun and Nnke-kun, hidden characters from 'Wanted!', might appear in future One Piece chapters."
+            },
+            {
+                "number": 7,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Is the Almighty [[God]] [[Enel]]\u00a0wearing a rubber swimming cap on his head?",
+                        "matches": [
+                            [
+                                16,
+                                23,
+                                "God"
+                            ],
+                            [
+                                24,
+                                32,
+                                "Enel"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "...Uh huh, sure (lazy answer).\n\nOh wait-\u00a0\n\nThere's no rubber on the [[Sky Islands]].\n\nUmm... it's made out of cloth. (super lazy answer)\n[[File:SBS Vol.31 6.png|right|100px]]",
+                        "matches": [
+                            [
+                                68,
+                                83,
+                                "Sky Islands"
+                            ],
+                            [
+                                137,
+                                174,
+                                "File:SBS Vol.31 6.png|right|100px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS Vol.31 6.png",
+                        "size": "100",
+                        "start": 137,
+                        "end": 174
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "God",
+                        "link_title": "/wiki/God",
+                        "is_wikipedia": false,
+                        "start": 16,
+                        "end": 23
+                    },
+                    {
+                        "text": "Enel",
+                        "link_title": "/wiki/Enel",
+                        "is_wikipedia": false,
+                        "start": 24,
+                        "end": 32
+                    },
+                    {
+                        "text": "Sky Islands",
+                        "link_title": "/wiki/Sky Islands",
+                        "is_wikipedia": false,
+                        "start": 68,
+                        "end": 83
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "enel"
+                    ],
+                    "places": [
+                        "sky_islands"
+                    ],
+                    "emotions": [
+                        "lazy"
+                    ],
+                    "topics": [
+                        "enel",
+                        "sky_islands",
+                        "materials"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Enel's headgear is made out of cloth, not rubber, as there is no rubber on the Sky Islands."
+            }
+        ],
+        "page": "166",
+        "chapter_number": "293",
+        "page_header": "SBS Vol.31 5.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 9,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello, my name is Akihiko. You must have gotten a ton of letters saying you made a mistake about the battle scene around volume 28, p. 155, right? Since I know you're very busy, I came up with an explanation of my own. Basically, during the \"Surprise Dial Illusion,\" [[Hotori and Kotori]]'s necks must have also spun around and around, right?! Yes, now it all makes sense...",
+                        "matches": [
+                            [
+                                267,
+                                288,
+                                "Hotori and Kotori"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Ohhh! Akihiko! You're such a greeaaaat guy! Yes, I got a lot of letters pointing out this scene to me Somehow, even I mixed up the which dial was on which hand for these two (sorry). When I noticed, I worried over what I should do and decided to just ignore it for now (HEY!), but then your letter came along. I'm shedding tears of joy. Thank you, Akihiko. Good job! Well, you heard the explanation, folks! That's what happened! (HEY!)",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Hotori and Kotori",
+                        "link_title": "/wiki/Hotori and Kotori",
+                        "is_wikipedia": false,
+                        "start": 267,
+                        "end": 288
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "hotori",
+                        "kotori"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "happy"
+                    ],
+                    "topics": [
+                        "mistake_correction",
+                        "fan_feedback"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Akihiko suggests a new explanation for a mistake in a battle scene, and Oda acknowledges the error and appreciates Akihiko's solution."
+            },
+            {
+                "number": 10,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Nice to meet you, Oda-sensei! There's something I've been wondering about as I watched\u00a0[[One Piece (Anime)|One Piece]]\u00a0and it's about that guy.\u00a0[[Pandaman]]!\u00a0He seems to appear in the anime during the same scenes as the manga. Did you have to tell the staff in which scenes he's in?",
+                        "matches": [
+                            [
+                                87,
+                                118,
+                                "One Piece (Anime)|One Piece"
+                            ],
+                            [
+                                144,
+                                156,
+                                "Pandaman"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "No, no, I've never told them even once. He even shows up in places where I didn't draw him. It's just the animators having some fun. I told the voice actors to have fun and ad-lib some lines if they feel like it. Generally, aside from important, serious scenes, I don't mind them having fun with the work and playing around because the viewers will be able to feel that sense of fun too.\n\nThat's it for the SBS, see you next volume!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "One Piece",
+                        "link_title": "/wiki/One Piece (Anime)",
+                        "is_wikipedia": false,
+                        "start": 87,
+                        "end": 118
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Pandaman",
+                        "link_title": "/wiki/Pandaman",
+                        "is_wikipedia": false,
+                        "start": 144,
+                        "end": 156
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "pandaman"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "fun",
+                        "light-hearted"
+                    ],
+                    "topics": [
+                        "anime",
+                        "animators",
+                        "voice actors",
+                        "fun"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda explains that Pandaman's appearances in the anime are not instructed by him and encourages fun and ad-libbing by the animators and voice actors."
+            }
+        ],
+        "page": "186",
+        "chapter_number": "294",
+        "page_header": null
+    }
+]

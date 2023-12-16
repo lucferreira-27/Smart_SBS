@@ -1,0 +1,883 @@
+[
+    {
+        "qa": [
+            {
+                "number": 1,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Sensei, I can't stop my \"okay hair\". How do I stop it?",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "There's no need to!! \u00a0The SBS begins!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader asks about uncontrollable 'okay hair', Oda responds by starting the Q&A session without addressing the issue."
+            },
+            {
+                "number": 2,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "To Oda-Sensei, I always(x2) have fun reading One Piece! By the way, in\u00a0Volume 7 p.\u00a018,\u00a0third panel, the knife Sanji's holding appears to have some writing on it, but it's so small, I can't tell what it is. What's written on it? Please tell me!!",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I'm not surprised you can't tell what it is. I drew it so you couldn't tell. However, you did well to find it. I'll fess up. It says \"Hokuto no Ken\" ([[Wikipedia:Fist of the North Star|Fist of the North Star]]). It was a really famous series in Jump from when I was in elementary school. Do you know it?",
+                        "matches": [
+                            [
+                                150,
+                                209,
+                                "Wikipedia:Fist of the North Star|Fist of the North Star"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Fist of the North Star",
+                        "link_title": "/wiki/Wikipedia:Fist of the North Star",
+                        "is_wikipedia": false,
+                        "start": 150,
+                        "end": 209
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "sanji"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "manga_reference",
+                        "easter_egg"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Sanji's knife in Volume 7 p. 18, third panel, has 'Hokuto no Ken' (Fist of the North Star) written on it, a reference to a famous series from Oda's childhood."
+            },
+            {
+                "number": 3,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I decided, I wanna participate in the SBS Corner, too!! And this is what came out, so listen up. Do you like crap, Oda-sensei? The word pops up a lot, and it's drawn on Klahadore's clothes, so I figured... Personally, I love it.",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Crap?! I'd be too embarrassed to say such a naughty, filthy word!! Please, stop it!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "klahadore"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "word_usage",
+                        "personal_preference"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader asks if Oda likes 'crap' because it's used a lot, Oda responds he'd be embarrassed to say such a naughty word."
+            },
+            {
+                "number": 4,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "When I read about Usopp's past, told in Merry's refined speech, I accidentally started \"man-crying\", even though I'm a girl. The tears ran down my cheeks and into my mouth. What do you think it tasted like?",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Like crap. (Rolling style)",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "usopp",
+                        "merry"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "nostalgic",
+                        "funny"
+                    ],
+                    "topics": [
+                        "usopp's_past",
+                        "emotional_moments"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Usopp's past made a reader cry and wonder how their tears tasted, to which Oda humorously replied 'Like crap.'"
+            },
+            {
+                "number": 5,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I heard from somewhere that Sanji's afternoon snack is [[wikipedia:Castella|Castella]] (sponge cake). Is that true? (After all, \"Sanji no Oyatsu wa Bunmeido\")",
+                        "matches": [
+                            [
+                                55,
+                                86,
+                                "wikipedia:Castella|Castella"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Ah, I see.\n\n''(This is a joke based on a Japanese commercial for Bunmeido Castella cake. The catchphrase means \"Bunmeido is the 3 o'clock snack\", but 3 o'clock is \"Sanji\" in Japanese, so it can also sound\u00a0like \"Sanji's snack is Bunmeido\").''",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Castella",
+                        "link_title": "/wiki/Castella",
+                        "is_wikipedia": true,
+                        "start": 55,
+                        "end": 86
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "sanji"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "humorous"
+                    ],
+                    "topics": [
+                        "food",
+                        "joke"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Sanji's afternoon snack being Castella is a joke based on a Japanese commercial for Bunmeido Castella cake, using wordplay with the Japanese language."
+            }
+        ],
+        "page": 26,
+        "chapter_number": 72,
+        "page_header": "SBS Vol 9 header.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 6,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "[[Eiichiro Oda|Oda-sensei]], this is the \"Spirit of the Heart\" (What Zoro uses to speak with the sword in his mouth), isn't it? (Pen Name Arunya)",
+                        "matches": [
+                            [
+                                0,
+                                27,
+                                "Eiichiro Oda|Oda-sensei"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes. This is a good \"Spirit of the Heart\".",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Oda-sensei",
+                        "link_title": "/wiki/Eiichiro Oda",
+                        "is_wikipedia": false,
+                        "start": 0,
+                        "end": 27
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "roronoa_zoro"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "sword_skills",
+                        "fighting_style"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Zoro's 'Spirit of the Heart' is confirmed by Oda to be the method he uses to speak with a sword in his mouth."
+            },
+            {
+                "number": 7,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Nobunaga: If the cuckoo won't sing, kill it.\n\nHideyoshi: If the cuckoo won't sing, make it want to sing.\n\nIeyasu: If the cuckoo won't sing, wait. \n\n^A haiku that expresses the personalities of those who ruled the land. What about you, sir?",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Eiichiro: If the cuckoo won't sing, buy a cola. Meaning: \"I want a cola right now.\" (And not that diet stuff)",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "nobunaga",
+                        "hideyoshi",
+                        "ieyasu",
+                        "eiichiro"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "haiku",
+                        "personality_traits",
+                        "cola_preference"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Eiichiro Oda humorously responds to a haiku question, expressing his desire for a cola in the process."
+            },
+            {
+                "number": 8,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I went to the barber and told him \"A Spirit-of-the-Man's-Heart cut!!\" Then he said, \"Okay!!\" and he shaved my head bald. Entirely the wrong look. Sensei, are there any requirements to become a Zoro? Tell me!! *Sob sob*.",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Don't cry!! Stand up!! There are some battles in which a man cannot run from!! So what if you got shaved bald once?! When your hair grows out again, go back to that barber and challenge him!! A return match!! Well, if I were you, I wouldn't (Wild Laughter).",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "roronoa_zoro"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny",
+                        "encouraging"
+                    ],
+                    "topics": [
+                        "funny_misunderstanding",
+                        "barber_challenge"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader shares an embarrassing haircut experience and asks about becoming like Zoro; Oda encourages them to be brave and return to the same barber for a rematch."
+            }
+        ],
+        "page": "46",
+        "chapter_number": "73",
+        "page_header": "SBS09 2 Kokoroiki.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 9,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I LOVE SANJI LIKE THAT.",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Like what?",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "sanji"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "love"
+                    ],
+                    "topics": [],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader declares their love for Sanji, but Oda asks for clarification on what that means."
+            },
+            {
+                "number": 10,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei, it's awfull!! My friend has contracted \"If-You-Don't-Eat-A-Snack-You-Will-Die\" illness! How can this terrible, terrible affliction be cured?! He'll die soon!!",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Don't get flustered!! Get a hold of yourself!! It's okay!! Chill out!! Calm down!! Okay, next question.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "flustered",
+                        "terrible"
+                    ],
+                    "topics": [
+                        "illness",
+                        "cure"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "D is worried about a friend with the 'If-You-Don't-Eat-A-Snack-You-Will-Die' illness, and Oda advises them to calm down and move on to the next question."
+            },
+            {
+                "number": 11,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "How many Debu Debus is Alvida's Debu-sa (Fatness)? *WHIRLLLLL* CRACK! AAAAAH!",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Ahh, do whatever you want already.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "Alvida"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "irreverent",
+                        "funny"
+                    ],
+                    "topics": [
+                        "body image",
+                        "humor"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Alvida's Fatness, Debu Debu is immeasurable, and Oda encourages the reader to interpret however they wish."
+            },
+            {
+                "number": 12,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "What are the pistols in [[One Piece (Manga)|One Piece]]\u00a0called? They don't look like matchlocks..",
+                        "matches": [
+                            [
+                                24,
+                                55,
+                                "One Piece (Manga)|One Piece"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "They are \"[[flintlock]]\u00a0pistols\". The flint is a spark-making stone, so you can think of it as one step better than the fuse of a matchlock.\n[[File:Flintlock Infobox.png|center|600px]]",
+                        "matches": [
+                            [
+                                10,
+                                23,
+                                "flintlock"
+                            ],
+                            [
+                                141,
+                                184,
+                                "File:Flintlock Infobox.png|center|600px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "Flintlock Infobox.png",
+                        "size": "600",
+                        "start": 141,
+                        "end": 184
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "One Piece",
+                        "link_title": "/wiki/One Piece (Manga)",
+                        "is_wikipedia": false,
+                        "start": 24,
+                        "end": 55
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "flintlock",
+                        "link_title": "/wiki/flintlock",
+                        "is_wikipedia": false,
+                        "start": 10,
+                        "end": 23
+                    }
+                ],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "weapons",
+                        "One Piece",
+                        "pistols",
+                        "firearms"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "The pistols in One Piece are called 'flintlock pistols', which use flint to create sparks, making them better than matchlocks."
+            }
+        ],
+        "page": "66",
+        "chapter_number": "74",
+        "page_header": null
+    },
+    {
+        "qa": [
+            {
+                "number": 13,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "OI!! Oda-kun!! Sit down right there!! Now listen up!! I don't want to hear any junk about you wanting to look at the side of yor face!! What are you gonna do if you break your neck?! Value your life, sonny!! You shouldn't have to be scolded by some younger guy like myself!! Think on this!! You may go!!",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Sigh... I'm very sorry.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "frustrated"
+                    ],
+                    "topics": [],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader scolds Oda for wanting to look at the side of his face and Oda apologizes."
+            },
+            {
+                "number": 14,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "When I tried to look at the side of my face in a mirror like you said on the inside cover of Volume 7, I twisted my neck and had to go to the doctor. The doctor asked me, \"How did this happen to you?\" What should I have told him?",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Hey... A kindred spirit.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "author_comment",
+                        "injury"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader twisted their neck trying to see the side of their face like Oda suggested, and had to visit the doctor for it."
+            },
+            {
+                "number": 15,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello. I have wine in my house ,so I wondered, \"What country is it from?\" And when I looked on the back, I saw the words \"dry, full body\". It was a bit of surprise. But I was rather pleased. Is this the origin of\u00a0[[Fullbody]]-san's (The Ironfist)\u00a0name? It is, isn't it? If it isn't, I think my life might be over.",
+                        "matches": [
+                            [
+                                213,
+                                225,
+                                "Fullbody"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "It's not over! You are right! I really don't drink much wine, so I don't know a whole lot about it, but I learned that the strength of and heaviness of the taste is called \"body\"! Heavy wine a long fermentation time has a \"full body\", and as it gets lighter it goes to \"medium body\", and then \"light body\"! Thus my explanation of Lieutenant Fullbody's name is complete! Thank you very much!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Fullbody",
+                        "link_title": "/wiki/Fullbody",
+                        "is_wikipedia": false,
+                        "start": 213,
+                        "end": 225
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "fullbody"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "surprise",
+                        "pleased"
+                    ],
+                    "topics": [
+                        "wine",
+                        "name_origin",
+                        "body_taste",
+                        "lieutenant_fullbody"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "The reader asks if Fullbody's name is based on the wine's description, and Oda confirms that wine's 'full body' description is the origin of Fullbody's name."
+            },
+            {
+                "number": 16,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Where did Dandy Gin-san hide those weapons of his? Huh? There?! Well great, this thought is going to keep me from dozing off on the train now.",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "What?! Are you suggesting that he hid those weapons as his balls?! As Dandy Gin's golden balls?! You're going to make all the Gin fans very angry. Gin's a popular one, he is.\n\n''( \"Golden balls\" and \"Testicles\" are pronounced the same (\"Kintama\") in the Japanese language)''",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "dandy_gin"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "weapons",
+                        "hidden",
+                        "japanese_language",
+                        "gags"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "In response to a reader's question, Oda denies that Dandy Gin hid his weapons in his testicles, humorously referencing a Japanese wordplay."
+            }
+        ],
+        "page": "86",
+        "chapter_number": "75",
+        "page_header": null
+    },
+    {
+        "qa": [
+            {
+                "number": 17,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "HEYYYYYY!! Guy who said he likes Namiiiiiiii!! Fight with me!! I love Nami 100x more than youuuuuuu. But I love you toooooooo. Am I a homooooooooo (angry)? No, we're frieeeeeends. You and I are frieeeeeeeends.",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "...That's right. The guy who kept saying Nami Nami Nami in Volume 7. Get along, now!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "nami"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "angry",
+                        "funny"
+                    ],
+                    "topics": [],
+                    "importance": "normal",
+                    "isCharacterInsertion": true
+                },
+                "summary": "A reader passionately proclaims love for Nami and questions their sexuality, to which Oda encourages them to get along with the fan from Volume 7."
+            },
+            {
+                "number": 18,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "In an SBS in Volume 7, you said Sanji-san's age was 19, but after discussing with my friend, we arrived at the conclusion that this was a lie. How old is he, really?",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Uh, it's not quite up to you to decide that. All you can do is take my word for it... It's true.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "sanji"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "defensive"
+                    ],
+                    "topics": [
+                        "age"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda confirms that Sanji's age is indeed 19, and readers should trust his word on the matter."
+            },
+            {
+                "number": 19,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Why did \"Red Leg [[Zeff]]\" eat his right leg? That's where his kick power lies, so couldn't he eat the left one instead?",
+                        "matches": [
+                            [
+                                17,
+                                25,
+                                "Zeff"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "BZZZZT. Wrong. The base of your kick strength is actually the \"pivoting leg\". For instance, if you were to try to \u00a0kick a ball with your right leg, what would happen if you didn't have a left leg? You couldn't kick it, right? Why don't you go ask your soccer-playing friends? The life of the kick is contained in the leg that supports your weight!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Zeff",
+                        "link_title": "/wiki/Zeff",
+                        "is_wikipedia": false,
+                        "start": 17,
+                        "end": 25
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "Zeff"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "playful"
+                    ],
+                    "topics": [
+                        "fighting_style",
+                        "physical_ability"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Zeff ate his leg because the base of kick strength is the pivoting leg, not the kicking leg, as demonstrated by trying to kick without a supporting leg."
+            },
+            {
+                "number": 20,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei! Drop your pen! Stop drawing manga! I have a question. My older brother and I work together to buy the SBS, but we accidentally bought two copies of Volume 5. What should we do? If you answer me, you may use your pen!",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Well, then... How about, \"go buy five more copies of Volume 5\"? Then the fact that you bought two before won't really matter anymore, and you can laugh about it! Can I pick up the pen now?",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader accidentally bought two copies of One Piece Volume 5; Oda suggests buying five more to laugh about it, jokingly asking if he can pick up the pen."
+            },
+            {
+                "number": 21,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "If Luffy wants a musician so bad, why doesn't he come to my house? Is it because I don't live by the ocean? Is it because I'm actually an alien? Is it because my feet have been smelly lately?",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "It's because your feet smell. The SBS is over!! Until next Volume!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "luffy"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "musician_search"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Luffy doesn't visit because your feet smell, and the SBS session ends with that."
+            }
+        ],
+        "page": "106",
+        "chapter_number": "76",
+        "page_header": null
+    }
+]

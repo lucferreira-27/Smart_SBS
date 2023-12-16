@@ -1,0 +1,1498 @@
+[
+    {
+        "qa": [
+            {
+                "number": 1,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Yes, Odacchi! I'll give you chocolate\u2661 Take a break and eat this\u2661Ah! It was poisoned!! Sorry \u2661 LET'S START SBS WITH A BANG \u2661 P.N. Aki",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Thump... Beep... Beep... Hah!! I almost die!!... Ha... ha... \"Ah! It was in!!\" I mean, FROM NOW ON!! IN THIS WORLD!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy",
+                        "odacchi"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "happy",
+                        "funny",
+                        "sad"
+                    ],
+                    "topics": [
+                        "devil_fruit"
+                    ],
+                    "importance": [
+                        "high"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda begins the SBS session, thanking a reader for chocolate and joking about it being poisoned, then mentions starting 'IN THIS WORLD' from now on."
+            },
+            {
+                "number": 2,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei, congratulations on winning the WBC. P.N. Daikon Man",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Well, thank you! Did you hear that? I boiled wakame seaweed deliciously with W (wakame), B (boiled) and C (club).",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "happy"
+                    ],
+                    "topics": [
+                        "oda's personal life"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Daikon Man congratulates Oda on winning WBC, Oda replies with a wakame seaweed joke."
+            },
+            {
+                "number": 3,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Who is more attractive to women, [[Shanks]] or [[Benn Beckman]]? P.N. Kikuno",
+                        "matches": [
+                            [
+                                33,
+                                43,
+                                "Shanks"
+                            ],
+                            [
+                                47,
+                                63,
+                                "Benn Beckman"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I think Shanks. But the number of people who reach out from themselves is greater than Beckman. Beckman loves women.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Shanks",
+                        "link_title": "/wiki/Shanks",
+                        "is_wikipedia": false,
+                        "start": 33,
+                        "end": 43
+                    },
+                    {
+                        "text": "Benn Beckman",
+                        "link_title": "/wiki/Benn Beckman",
+                        "is_wikipedia": false,
+                        "start": 47,
+                        "end": 63
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "shanks",
+                        "benn_beckman"
+                    ],
+                    "topics": [
+                        "attractiveness"
+                    ],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda believes Shanks is more attractive to women, but more people approach Beckman, who loves women."
+            },
+            {
+                "number": 4,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchi!! Please tell me the Straw Hat Pirates' alcohol tolerance ranking. [[Roronoa Zoro|Zoro]] and [[Nami]] have a strong potential, but I'm curious about the other members as well. P.N. Kuromu",
+                        "matches": [
+                            [
+                                75,
+                                96,
+                                "Roronoa Zoro|Zoro"
+                            ],
+                            [
+                                101,
+                                109,
+                                "Nami"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "It was difficult to make this rating. \"Like to drink\" and \"be able to drink\" are different things, and not everyone drinks the same amount. I think [[Monkey D. Luffy|Luffy]] has potential, but food comes first for him.\n\n<gallery mode=\"nolines\" position=\"center\" captionalign=\"center\" widths=\"90\">\nJinbe Portrait.png|link=Jinbe|1\nRoronoa Zoro Portrait.png|link=Roronoa Zoro|2\nNami Portrait.png|link=Nami|3\nFranky Portrait.png|link=Franky|4\nSanji Portrait.png|link=Sanji|5\nNico Robin Portrait.png|link=Nico Robin|6\nBrook Portrait.png|link=Brook|7\nUsopp Portrait.png|link=Usopp|8\nMonkey D. Luffy Portrait.png|link=Monkey D. Luffy|9\nTony Tony Chopper Portrait.png|link=Tony Tony Chopper|10\n</gallery>",
+                        "matches": [
+                            [
+                                148,
+                                173,
+                                "Monkey D. Luffy|Luffy"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Zoro",
+                        "link_title": "/wiki/Roronoa Zoro",
+                        "is_wikipedia": false,
+                        "start": 75,
+                        "end": 96
+                    },
+                    {
+                        "text": "Luffy",
+                        "link_title": "/wiki/Monkey D. Luffy",
+                        "is_wikipedia": false,
+                        "start": 148,
+                        "end": 173
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Nami",
+                        "link_title": "/wiki/Nami",
+                        "is_wikipedia": false,
+                        "start": 101,
+                        "end": 109
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy",
+                        "roronoa_zoro",
+                        "nami",
+                        "jinbe",
+                        "franky",
+                        "sanji",
+                        "nico_robin",
+                        "brook",
+                        "usopp",
+                        "tony_tony_chopper"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "happy",
+                        "funny"
+                    ],
+                    "topics": [
+                        "straw_hat_pirates",
+                        "alcohol_tolerance"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda rates Straw Hats' alcohol tolerance: Zoro and Nami can handle their alcohol, Luffy prefers food; Jinbe can drink a lot, Sanji drinks daily but doesn't get drunk, Usopp and Chopper can't handle much, Franky and Robin don't drink, Brook doesn't get drunk."
+            }
+        ],
+        "page": "24",
+        "chapter_number": "1066",
+        "page_header": "SBS106 Header 1.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 6,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Please anthropomorphize [[Trafalgar D. Water Law|Law]]'s [[Kikoku]] . P.N. Gomu Mera no Mi",
+                        "matches": [
+                            [
+                                24,
+                                54,
+                                "Trafalgar D. Water Law|Law"
+                            ],
+                            [
+                                57,
+                                67,
+                                "Kikoku"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Sure!{{-}}",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Law",
+                        "link_title": "/wiki/Trafalgar D. Water Law",
+                        "is_wikipedia": false,
+                        "start": 24,
+                        "end": 54
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Kikoku",
+                        "link_title": "/wiki/Kikoku",
+                        "is_wikipedia": false,
+                        "start": 57,
+                        "end": 67
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "Trafalgar_D_Water_Law"
+                    ],
+                    "topics": [
+                        "kaido_backstory",
+                        "devil_fruit"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader asks to anthropomorphize Law's Kikoku, and Oda agrees."
+            },
+            {
+                "number": 7,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchi!! Please anthropomorphize [[Charlotte Katakuri|Katakuri]]'s [[Mogura]]. He's just lame, so please make him cool. P.N. Teriyaki Burger\n\n[[File:SBS106 Mogura and Kikoku.png|thumb|Mogura: Donuts are good.<br/>\nKikoku: I'm tired.]]",
+                        "matches": [
+                            [
+                                34,
+                                65,
+                                "Charlotte Katakuri|Katakuri"
+                            ],
+                            [
+                                68,
+                                78,
+                                "Mogura"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Law's technique is basically to create an operating room in \"ROOM\" and he do anything in it. The \"K\u30fbROOM\" locks the sword in the \"ROOM\". The operating room is free, so he can attack by extending his sword or creating a strong impact in it. K is for \"knife\", it's K.\n\nThe \"R\" in another awakening technique \"R\u30fbROOM\" means \"remote\". It's a remote ROOM. Previously, as a surgeon, Law had to be inside the operation room, but with the awakening of the [[Ope Ope no Mi]], this is no longer necessary. If it's confusing, the atmosphere is fine! (laugh)",
+                        "matches": [
+                            [
+                                448,
+                                465,
+                                "Ope Ope no Mi"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Katakuri",
+                        "link_title": "/wiki/Charlotte Katakuri",
+                        "is_wikipedia": false,
+                        "start": 34,
+                        "end": 65
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Mogura",
+                        "link_title": "/wiki/Mogura",
+                        "is_wikipedia": false,
+                        "start": 68,
+                        "end": 78
+                    },
+                    {
+                        "text": "Ope Ope no Mi",
+                        "link_title": "/wiki/Ope Ope no Mi",
+                        "is_wikipedia": false,
+                        "start": 448,
+                        "end": 465
+                    }
+                ],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "humorous"
+                    ],
+                    "topics": [
+                        "awakening",
+                        "ope_ope_no_mi",
+                        "law"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader asks to anthropomorphize Katakuri's Mogura, Oda describes Law's 'ROOM' and 'K\u30fbROOM' techniques in his awakened devil fruit power, 'R\u30fbROOM' is a remote operating room."
+            }
+        ],
+        "page": "40",
+        "chapter_number": "1067",
+        "page_header": "SBS106 Header 2.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 8,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello Oda-sensei! [[CP9]] was promoted to [[CP0]] led by [[Rob Lucci]]-san, but [[Jabra]], [[Fukurou]], and [[Kumadori]] are also promoted to CP0? P.N. Sakuragi",
+                        "matches": [
+                            [
+                                18,
+                                25,
+                                "CP9"
+                            ],
+                            [
+                                42,
+                                49,
+                                "CP0"
+                            ],
+                            [
+                                57,
+                                70,
+                                "Rob Lucci"
+                            ],
+                            [
+                                80,
+                                89,
+                                "Jabra"
+                            ],
+                            [
+                                91,
+                                102,
+                                "Fukurou"
+                            ],
+                            [
+                                108,
+                                120,
+                                "Kumadori"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "In the [[One Piece Film: Red|Film \"RED\"]], I think that those who watched it confirmed that [[Blueno]] and [[Kalifa]] also appeared as CP0, but yes, all past CP9s are CP0. However, those in CP0 who possess masks (including Lucci, [[Kaku]], and [[Stussy]]) are called \"Masked Killers\" and are entrusted with more specialized missions.",
+                        "matches": [
+                            [
+                                7,
+                                41,
+                                "One Piece Film: Red|Film \"RED\""
+                            ],
+                            [
+                                92,
+                                102,
+                                "Blueno"
+                            ],
+                            [
+                                107,
+                                117,
+                                "Kalifa"
+                            ],
+                            [
+                                230,
+                                238,
+                                "Kaku"
+                            ],
+                            [
+                                244,
+                                254,
+                                "Stussy"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Film \"RED\"",
+                        "link_title": "/wiki/One Piece Film: Red",
+                        "is_wikipedia": false,
+                        "start": 7,
+                        "end": 41
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "CP9",
+                        "link_title": "/wiki/CP9",
+                        "is_wikipedia": false,
+                        "start": 18,
+                        "end": 25
+                    },
+                    {
+                        "text": "CP0",
+                        "link_title": "/wiki/CP0",
+                        "is_wikipedia": false,
+                        "start": 42,
+                        "end": 49
+                    },
+                    {
+                        "text": "Rob Lucci",
+                        "link_title": "/wiki/Rob Lucci",
+                        "is_wikipedia": false,
+                        "start": 57,
+                        "end": 70
+                    },
+                    {
+                        "text": "Jabra",
+                        "link_title": "/wiki/Jabra",
+                        "is_wikipedia": false,
+                        "start": 80,
+                        "end": 89
+                    },
+                    {
+                        "text": "Fukurou",
+                        "link_title": "/wiki/Fukurou",
+                        "is_wikipedia": false,
+                        "start": 91,
+                        "end": 102
+                    },
+                    {
+                        "text": "Kumadori",
+                        "link_title": "/wiki/Kumadori",
+                        "is_wikipedia": false,
+                        "start": 108,
+                        "end": 120
+                    },
+                    {
+                        "text": "Blueno",
+                        "link_title": "/wiki/Blueno",
+                        "is_wikipedia": false,
+                        "start": 92,
+                        "end": 102
+                    },
+                    {
+                        "text": "Kalifa",
+                        "link_title": "/wiki/Kalifa",
+                        "is_wikipedia": false,
+                        "start": 107,
+                        "end": 117
+                    },
+                    {
+                        "text": "Kaku",
+                        "link_title": "/wiki/Kaku",
+                        "is_wikipedia": false,
+                        "start": 230,
+                        "end": 238
+                    },
+                    {
+                        "text": "Stussy",
+                        "link_title": "/wiki/Stussy",
+                        "is_wikipedia": false,
+                        "start": 244,
+                        "end": 254
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "Rob Lucci",
+                        "Jabra",
+                        "Fukurou",
+                        "Kumadori",
+                        "Blueno",
+                        "Kalifa",
+                        "Kaku",
+                        "Stussy"
+                    ],
+                    "places": [
+                        "One Piece Film: Red"
+                    ],
+                    "topics": [
+                        "CP9",
+                        "CP0",
+                        "Masked Killers"
+                    ],
+                    "emotions": [
+                        "happy",
+                        "surprised"
+                    ],
+                    "importance": "high",
+                    "isCharacterInsertion": false
+                },
+                "summary": "According to Oda, all past CP9 members are now CP0, but those wearing masks are called 'Masked Killers' and are given more specialized missions."
+            },
+            {
+                "number": 9,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I want to eat onigiri made by [[Nico Robin|Robin]]-chan's beautiful hands. P.N. O-Neb\u014d",
+                        "matches": [
+                            [
+                                30,
+                                50,
+                                "Nico Robin|Robin"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Me too.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Robin",
+                        "link_title": "/wiki/Nico Robin",
+                        "is_wikipedia": false,
+                        "start": 30,
+                        "end": 50
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy",
+                        "nico_robin"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "happy",
+                        "funny"
+                    ],
+                    "topics": [],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader wants to eat onigiri by Robin, Oda shares same sentiment."
+            },
+            {
+                "number": 10,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I know that FEELING. P.N. Koppa Mijinko",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Oh...!! I see. I've often sent out postcards like that bet...",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "happy"
+                    ],
+                    "topics": [],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader sympathizes with Oda's slump, P.N. Koppa Mijinko; Oda acknowledges, mentioning he has sent out similar postcards."
+            },
+            {
+                "number": 11,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "If I become petrified by [[S-Snake|loli Hancock]]'s \"Mero Mero Mellow\", won't people treat me like a lolicon afterwards? It's okay? Please tell me it's okay!! P.N. Yamaguchi University One Piece Study Circle",
+                        "matches": [
+                            [
+                                25,
+                                49,
+                                "S-Snake|loli Hancock"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "In terms of ability, it's a technique that puts \"cute\" or \"beautiful\" emotions into \"carelessness\", so everyone thinks babies and small children are cute, right? Even so, it will be okay. Even if a lolicon mixes in and turns to stone, it is impossible to determine what kind of emotion he was petrified by. So lolicon won't be found out, but you will be petrified.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "loli Hancock",
+                        "link_title": "/wiki/S-Snake",
+                        "is_wikipedia": false,
+                        "start": 25,
+                        "end": 49
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "s-snake",
+                        "loli hancock"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny",
+                        "nervous"
+                    ],
+                    "topics": [
+                        "devil fruit",
+                        "lolicon"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Becoming petrified by Hancock's Mero Mero Mellow makes one think cute or beautiful people are careless, but it won't expose one as a lolicon; however, getting petrified is still inevitable."
+            }
+        ],
+        "page": "58",
+        "chapter_number": "1068",
+        "page_header": "SBS106 Header 3.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 12,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "When eating natto, try lifting the film inside vertically. You can reenact this scene in [[Chapter 1060]] when the \"[[Lulusia Kingdom]]\" was destroyed. P.N. Megumi-hi (Romie)",
+                        "matches": [
+                            [
+                                89,
+                                105,
+                                "Chapter 1060"
+                            ],
+                            [
+                                116,
+                                135,
+                                "Lulusia Kingdom"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I see~! It certainly has that mysterious ray of light feel to it. It feels really sticky... <big>STOP IT!! IT'S TOO DIS DISRESPECTFUL!!!</big>",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Chapter 1060",
+                        "link_title": "/wiki/Chapter 1060",
+                        "is_wikipedia": false,
+                        "start": 89,
+                        "end": 105
+                    },
+                    {
+                        "text": "Lulusia Kingdom",
+                        "link_title": "/wiki/Lulusia Kingdom",
+                        "is_wikipedia": false,
+                        "start": 116,
+                        "end": 135
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy"
+                    ],
+                    "places": [
+                        "lulusia_kingdom"
+                    ],
+                    "emotions": [
+                        "happy",
+                        "funny"
+                    ],
+                    "topics": [
+                        "food"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader suggests mimicking natto film's vertical lift when reading chapter 1060's Lulusia Kingdom destruction; Oda finds it disrespectful."
+            },
+            {
+                "number": 13,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "[[G-14|Marine Headquarters G-14 Branch]] depicted in [[Chapter 1061]]. If you look closely, you can see something that looks like a balloons, but is that a balloons? Did someone stick balls out of someone's playfulness? P. N. \"Taro\"",
+                        "matches": [
+                            [
+                                0,
+                                40,
+                                "G-14|Marine Headquarters G-14 Branch"
+                            ],
+                            [
+                                53,
+                                69,
+                                "Chapter 1061"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "It's a balloons. The G-14 Branch is located near [[Egghead]], and the children who were affected in [[Volume 67]] \"Punk Hazard\", were diagnosed by [[Vegapunk]] and are staying at the Marine Branch for subsequent medical treatment. A Marine base is a rugged building, so he instructed [[Vice Admiral]] [[Doll]] to attach balloons to him so that the children could feel at ease.",
+                        "matches": [
+                            [
+                                49,
+                                60,
+                                "Egghead"
+                            ],
+                            [
+                                100,
+                                113,
+                                "Volume 67"
+                            ],
+                            [
+                                147,
+                                159,
+                                "Vegapunk"
+                            ],
+                            [
+                                284,
+                                300,
+                                "Vice Admiral"
+                            ],
+                            [
+                                301,
+                                309,
+                                "Doll"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Marine Headquarters G-14 Branch",
+                        "link_title": "/wiki/G-14",
+                        "is_wikipedia": false,
+                        "start": 0,
+                        "end": 40
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Chapter 1061",
+                        "link_title": "/wiki/Chapter 1061",
+                        "is_wikipedia": false,
+                        "start": 53,
+                        "end": 69
+                    },
+                    {
+                        "text": "Egghead",
+                        "link_title": "/wiki/Egghead",
+                        "is_wikipedia": false,
+                        "start": 49,
+                        "end": 60
+                    },
+                    {
+                        "text": "Volume 67",
+                        "link_title": "/wiki/Volume 67",
+                        "is_wikipedia": false,
+                        "start": 100,
+                        "end": 113
+                    },
+                    {
+                        "text": "Vegapunk",
+                        "link_title": "/wiki/Vegapunk",
+                        "is_wikipedia": false,
+                        "start": 147,
+                        "end": 159
+                    },
+                    {
+                        "text": "Vice Admiral",
+                        "link_title": "/wiki/Vice Admiral",
+                        "is_wikipedia": false,
+                        "start": 284,
+                        "end": 300
+                    },
+                    {
+                        "text": "Doll",
+                        "link_title": "/wiki/Doll",
+                        "is_wikipedia": false,
+                        "start": 301,
+                        "end": 309
+                    }
+                ],
+                "tags": {
+                    "characters": [],
+                    "places": [
+                        "marine headquarters g-14 branch",
+                        "egghead",
+                        "punk hazard",
+                        "marine base"
+                    ],
+                    "emotions": [
+                        "happy"
+                    ],
+                    "topics": [
+                        "marine branch",
+                        "children",
+                        "medical treatment",
+                        "balloons"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda confirms a balloon decoration at Marine HQ G-14 Branch, arranged by Vice Admiral Doll to help children feel at ease."
+            },
+            {
+                "number": 14,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei, I want to be friends with Phoenix Marco-san. Please ask [[Marco]]-san if it's okay. P.N. I want a friend",
+                        "matches": [
+                            [
+                                68,
+                                77,
+                                "Marco"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Sure, Marco-san, how are you?\n\nMarco: I'm fine-yoi.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Marco",
+                        "link_title": "/wiki/Marco",
+                        "is_wikipedia": false,
+                        "start": 68,
+                        "end": 77
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy",
+                        "marco"
+                    ],
+                    "emotions": [
+                        "happy",
+                        "friendly"
+                    ],
+                    "topics": [
+                        "marco_friendship"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "A reader asked Oda to ask Marco from One Piece if they could be friends; Oda relays the message to Marco, who says he's fine."
+            }
+        ],
+        "page": "76",
+        "chapter_number": "1069",
+        "page_header": "SBS106 Header 4.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 15,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "There was an EAST button on the unmanned cooker, but is that the local seasoning? What are the characteristics of seasoning? P.N. Yoshida",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "There are round displays on the left and right, but that's not enough for 500 dishes. When you press \"EAST\", the dishes of \"East Sea\" are displayed in a row. If you press it again, the next dish, \"WEST\", \"SOUTH\", and \"NORTH\", each sea dish will be displayed. It's a dream machine that can cook it in 1 minute!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [
+                        "east sea",
+                        "west",
+                        "south",
+                        "north"
+                    ],
+                    "emotions": [
+                        "happy",
+                        "excited"
+                    ],
+                    "topics": [
+                        "device",
+                        "cooking"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda explains the EAST button on the unmanned cooker selects dishes from different seas, taking 1 minute to cook each."
+            },
+            {
+                "number": 16,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello Oda-sensei. In the [[SBS Volume 105]], you mentioned the reason why you drew the breast shots instead of panties, but after entering the [[Egghead Arc]], I feel like there are a lot more butt angles. Did you increase it for me because I like butts? P.N. Nikukichi",
+                        "matches": [
+                            [
+                                25,
+                                43,
+                                "SBS Volume 105"
+                            ],
+                            [
+                                143,
+                                158,
+                                "Egghead Arc"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "For \"Future Island\", I wanted to make a design that was clearly different from the modern one, but I ended up with a costumes that showed off butts. When I realized that, I researched how to draw sexy buttocks, and I became able to draw the buttocks well. After that, it became fun to draw the buttocks, and the number of butt angles increased! Drawing is fun!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "SBS Volume 105",
+                        "link_title": "/wiki/SBS Volume 105",
+                        "is_wikipedia": false,
+                        "start": 25,
+                        "end": 43
+                    },
+                    {
+                        "text": "Egghead Arc",
+                        "link_title": "/wiki/Egghead Arc",
+                        "is_wikipedia": false,
+                        "start": 143,
+                        "end": 158
+                    }
+                ],
+                "tags": {
+                    "characters": [],
+                    "places": [
+                        "future_island"
+                    ],
+                    "emotions": [
+                        "happy",
+                        "funny"
+                    ],
+                    "topics": [
+                        "oda's_drawing_process",
+                        "buttocks"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda aimed for a distinct design in 'Future Island' of Egghead arc, inadvertently drawing more butt angles; he researched and enjoyed drawing sexy buttocks, leading to its increase."
+            }
+        ],
+        "page": "112",
+        "chapter_number": "1071",
+        "page_header": "SBS106 Header 5.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 17,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchi! Odacchi! No one asked about [[Brook]]'s future? As an afro fan, I can't stand it! Odacchi, please show me the potential of the skeleton afro!",
+                        "matches": [
+                            [
+                                37,
+                                46,
+                                "Brook"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Sure.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Brook",
+                        "link_title": "/wiki/Brook",
+                        "is_wikipedia": false,
+                        "start": 37,
+                        "end": 46
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "brook"
+                    ],
+                    "topics": [
+                        "devil_fruit"
+                    ],
+                    "emotions": [
+                        "happy",
+                        "excited"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader asks about Brook's future and his afro, Oda simply agrees to show it."
+            },
+            {
+                "number": 18,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I would like to know the name of the cat who said in [[Chapter 1065]] that he also wants to borrow a cat's hand. P.N. Red Cat\n\n[[File:Joshu Manga Infobox.png|thumb|150px]]",
+                        "matches": [
+                            [
+                                53,
+                                69,
+                                "Chapter 1065"
+                            ],
+                            [
+                                127,
+                                171,
+                                "File:Joshu Manga Infobox.png|thumb|150px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Are you talking about the assistant cat \"[[Joshu]]\"? It is rumored that it loves to help people, and when it wants to take notes, it quickly pulls out his pen and paper and uses Kenbun-iro. It even scratched my back when it was itchy.{{-}}",
+                        "matches": [
+                            [
+                                41,
+                                50,
+                                "Joshu"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "Joshu Manga Infobox.png",
+                        "size": "150",
+                        "start": 127,
+                        "end": 171
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Chapter 1065",
+                        "link_title": "/wiki/Chapter 1065",
+                        "is_wikipedia": false,
+                        "start": 53,
+                        "end": 69
+                    },
+                    {
+                        "text": "Joshu",
+                        "link_title": "/wiki/Joshu",
+                        "is_wikipedia": false,
+                        "start": 41,
+                        "end": 50
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "joshu"
+                    ],
+                    "topics": [
+                        "cat",
+                        "kenbun-iro"
+                    ],
+                    "emotions": [
+                        "happy"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "The cat who wants to borrow a cat's hand in Ch.1065 is Joshu, an assistant cat who likes to help and takes notes using Kenbun-iro."
+            },
+            {
+                "number": 19,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "In the conversation between Vegapunk and [[Sentomaru]] in [[Chapter 1069]], it says, \"I picked you up because you couldn't eat...\" What kind of moment happened!? P.N. Jushiro Itcha",
+                        "matches": [
+                            [
+                                41,
+                                54,
+                                "Sentomaru"
+                            ],
+                            [
+                                58,
+                                74,
+                                "Chapter 1069"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "[[Marines]] have received a message that wild bears were invading a village on a certain island. Vegapunk accompanied them to install a bear repelling system. When the Marines explored the dangerous mountain, they found a boy named Sentomaru, who defeated bears in sumo wrestling and became the master of the mountain. When he was young, villagers abandoned him because he was too violent. He couldn't return to the village and was always hungry. Vegapunk was attracted to Sentomaru's \"strength\" and hired him as his bodyguard. Such a past.",
+                        "matches": [
+                            [
+                                0,
+                                11,
+                                "Marines"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Sentomaru",
+                        "link_title": "/wiki/Sentomaru",
+                        "is_wikipedia": false,
+                        "start": 41,
+                        "end": 54
+                    },
+                    {
+                        "text": "Chapter 1069",
+                        "link_title": "/wiki/Chapter 1069",
+                        "is_wikipedia": false,
+                        "start": 58,
+                        "end": 74
+                    },
+                    {
+                        "text": "Marines",
+                        "link_title": "/wiki/Marines",
+                        "is_wikipedia": false,
+                        "start": 0,
+                        "end": 11
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "vegapunk",
+                        "sentomaru"
+                    ],
+                    "places": [
+                        "certain island",
+                        "village"
+                    ],
+                    "topics": [
+                        "marines",
+                        "wild bears",
+                        "bear repelling system",
+                        "sumo wrestling"
+                    ],
+                    "emotions": [
+                        "happy",
+                        "touching"
+                    ],
+                    "importance": "high",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Vegapunk found young, violent Sentomaru, abandoned by villagers and master of mountain bears, made him his bodyguard after bears invaded a village."
+            }
+        ],
+        "page": "146",
+        "chapter_number": "1073",
+        "page_header": "SBS106 Header 6.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 20,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I understand. It's about [[Aramaki|Ryokugyu]]. In [[Chapter 905]], he said, \"I haven't eaten anything for three years because it's such a hassle\"! In other words, Ryokugyu is a forest (tree or plant?), so he is capable of photosynthesis, and can be supplied with nutrients without eating!! Does that mean we can replenish supplies!! P.N. Otaki",
+                        "matches": [
+                            [
+                                25,
+                                45,
+                                "Aramaki|Ryokugyu"
+                            ],
+                            [
+                                50,
+                                65,
+                                "Chapter 905"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "That's right!\n\n[[File:SBS106 Aramaki's Tattoo.png|thumb|200px]]",
+                        "matches": [
+                            [
+                                15,
+                                63,
+                                "File:SBS106 Aramaki's Tattoo.png|thumb|200px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS106 Aramaki's Tattoo.png",
+                        "size": "200",
+                        "start": 15,
+                        "end": 63
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Ryokugyu",
+                        "link_title": "/wiki/Aramaki",
+                        "is_wikipedia": false,
+                        "start": 25,
+                        "end": 45
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Chapter 905",
+                        "link_title": "/wiki/Chapter 905",
+                        "is_wikipedia": false,
+                        "start": 50,
+                        "end": 65
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "Ryokugyu"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "happy",
+                        "funny"
+                    ],
+                    "topics": [
+                        "Devil Fruit"
+                    ],
+                    "importance": [
+                        "high"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda confirms Ryokugyu, a One Piece character, can photosynthesize, supplying nutrients without eating, implying possible supply replenishment."
+            },
+            {
+                "number": 21,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "\"Shikawa Shinju\" tattoo on Aramaki's chest based on [[wikipedia:Yoshio Harada|Yoshio Harada]]'s song \"Shinjuku Shinju\"? P.N. Morley So",
+                        "matches": [
+                            [
+                                52,
+                                93,
+                                "wikipedia:Yoshio Harada|Yoshio Harada"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "You were singing such a song, but in the first place there was a performance in classical rakugo called \"Shinagawa Shinju\". Dying along with other people is called \"suicide,\" but Aramaki seems to have had a sad past involving women, which is why he has tattoos like this.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Yoshio Harada",
+                        "link_title": "/wiki/Yoshio Harada",
+                        "is_wikipedia": true,
+                        "start": 52,
+                        "end": 93
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "aramaki"
+                    ],
+                    "places": [
+                        "shinagawa"
+                    ],
+                    "topics": [
+                        "tattoo",
+                        "yoshio_harada",
+                        "rakugo",
+                        "women"
+                    ],
+                    "emotions": [
+                        "sad"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Aramaki's 'Shikawa Shinju' tattoo based on Yoshio Harada's song and a classical rakugo performance, symbolizes his sad past with women."
+            },
+            {
+                "number": 22,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "What kind of justice does Ryokugyu advocate for? It seems like he has a strong ideology, so I'm curious! P.N. Polaris",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Ryokugyu is \"Determined Justice\". There were many people who wanted to know [[Issho|Fujitora]]'s justice, so I'll say it here, Tora is \"Humane Justice\".",
+                        "matches": [
+                            [
+                                76,
+                                94,
+                                "Issho|Fujitora"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Fujitora",
+                        "link_title": "/wiki/Issho",
+                        "is_wikipedia": false,
+                        "start": 76,
+                        "end": 94
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "ryokugyu",
+                        "issho",
+                        "fujitora"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "curious"
+                    ],
+                    "topics": [
+                        "justice"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Ryokugyu advocates for 'Determined Justice' and Fujitora is 'Humane Justice' according to Oda"
+            },
+            {
+                "number": 23,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "In [[Chapter 1074]], there is a scene where Robin calms down Nami who is angry at Lucci. What kind of conversation did the two of these have at that time?",
+                        "matches": [
+                            [
+                                3,
+                                19,
+                                "Chapter 1074"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I'm looking at this a lot. Speaking of Lucci, he was the strongest enemy in the [[Enies Lobby Arc]] because he tormented Robin, and Nami said, \"If you still want to target Robin, I won't forgive you!!! Robin said, \"I'm not resisting right now...\", she soothed. Now it's time! See you in next volume!!",
+                        "matches": [
+                            [
+                                80,
+                                99,
+                                "Enies Lobby Arc"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Chapter 1074",
+                        "link_title": "/wiki/Chapter 1074",
+                        "is_wikipedia": false,
+                        "start": 3,
+                        "end": 19
+                    },
+                    {
+                        "text": "Enies Lobby Arc",
+                        "link_title": "/wiki/Enies Lobby Arc",
+                        "is_wikipedia": false,
+                        "start": 80,
+                        "end": 99
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy",
+                        "robin",
+                        "nami",
+                        "lucci"
+                    ],
+                    "places": [
+                        "enies_lobby_arc"
+                    ],
+                    "topics": [
+                        "lucci_backstory",
+                        "nami_emotions"
+                    ],
+                    "emotions": [
+                        "angry",
+                        "happy"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda confirms Robin calmed Nami down from anger at Lucci in Ch. 1074, mentioning Lucci was Enies Lobby's strongest foe, and Nami threatened him for targeting Robin, who was then calm."
+            }
+        ],
+        "page": "164",
+        "chapter_number": "1074",
+        "page_header": "SBS106 Header 7.png"
+    }
+]

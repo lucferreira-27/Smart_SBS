@@ -1,0 +1,1121 @@
+[
+    {
+        "qa": [
+            {
+                "number": 0,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "N/A",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "As announced in Volume 2, the SBS Corner is now created. I received a lot of letters, thanks to everyone that sent them. And now, I will give an answer to all of you reader's questions and comments.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "SBS_Corner"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda introduces the SBS corner, expressing gratitude for the letters and promising to answer all reader questions and comments."
+            },
+            {
+                "number": 1,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "How old are\u00a0[[Monkey D. Luffy|Luffy]], [[Roronoa Zoro|Zoro]], [[Nami]], and [[Shanks]]?",
+                        "matches": [
+                            [
+                                12,
+                                37,
+                                "Monkey D. Luffy|Luffy"
+                            ],
+                            [
+                                39,
+                                60,
+                                "Roronoa Zoro|Zoro"
+                            ],
+                            [
+                                62,
+                                70,
+                                "Nami"
+                            ],
+                            [
+                                76,
+                                86,
+                                "Shanks"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "A lot of people mailed me with questions regarding age. Really a lot of people. I guess this must be the No.1 question that everyone always thinks of. Well I will answer it now!\u00a0Luffy is currently 17 years old,\u00a0Zoro\u00a019,\u00a0Nami\u00a018. Well, since we have no idea where Shanks\u00a0is at this moment, I'll just answer how old he was supposed to be 10 years ago. In\u00a0[[Foosha Village|Luffy's village]],\u00a0he was 27 years old. As for\u00a0Usopp,\u00a0he's 17 years old just like Luffy.",
+                        "matches": [
+                            [
+                                353,
+                                387,
+                                "Foosha Village|Luffy's village"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Luffy",
+                        "link_title": "/wiki/Monkey D. Luffy",
+                        "is_wikipedia": false,
+                        "start": 12,
+                        "end": 37
+                    },
+                    {
+                        "text": "Zoro",
+                        "link_title": "/wiki/Roronoa Zoro",
+                        "is_wikipedia": false,
+                        "start": 39,
+                        "end": 60
+                    },
+                    {
+                        "text": "Luffy's village",
+                        "link_title": "/wiki/Foosha Village",
+                        "is_wikipedia": false,
+                        "start": 353,
+                        "end": 387
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Nami",
+                        "link_title": "/wiki/Nami",
+                        "is_wikipedia": false,
+                        "start": 62,
+                        "end": 70
+                    },
+                    {
+                        "text": "Shanks",
+                        "link_title": "/wiki/Shanks",
+                        "is_wikipedia": false,
+                        "start": 76,
+                        "end": 86
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy",
+                        "roronoa_zoro",
+                        "nami",
+                        "shanks",
+                        "usopp"
+                    ],
+                    "places": [
+                        "foosha_village"
+                    ],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "age"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Luffy is 17, Zoro is 19, Nami is 18, and Shanks was 27 years old 10 years ago; Usopp is also 17."
+            },
+            {
+                "number": 2,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "How come all the enemies that Luffy meets, are all weirdos?",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Eh... Weirdos...? Now that you readers mention it, I finally noticed that they truly are weird. But, I guess it's because the fact that they're weird makes them more mysterious. Aren't they much cooler this way?",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "moneky_d_luffy"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "enemies",
+                        "mystery"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Luffy's enemies are weird because their eccentricity makes them more mysterious and cooler, according to Oda."
+            },
+            {
+                "number": 3,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Eiichiro Oda-sensei, can your arms and legs really stretch? They wrote that on \"Weekly Jump\".",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Wah! I think I wrote that myself... But that's supposed to be a secret.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "playful"
+                    ],
+                    "topics": [
+                        "devil_fruit",
+                        "Oda's_personal_life"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Eiichiro Oda jokes that his ability to stretch limbs is a secret, possibly an inside joke from 'Weekly Jump'."
+            }
+        ],
+        "page": 28,
+        "chapter_number": 27,
+        "page_header": "SBS Vol 4 header.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 4,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "There's something I've always wanted to ask you, Sensei. What do you do with the things that the readers send you?",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I place them all in my room. And I personally read all the letters and postcards that the readers send me. These letters give me the strength to work even harder. In other words, thanks to your mail, I can continue drawing as a mangaka. Thanks everybody!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "grateful"
+                    ],
+                    "topics": [
+                        "fan_mail",
+                        "mangaka_life"
+                    ],
+                    "importance": [
+                        "very_high"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda keeps all the things readers send him in his room, reads them personally, and they give him strength to work harder as a mangaka."
+            },
+            {
+                "number": 5,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Does the origin of Zoro's last name come from the pirate known as \"[[Wikipedia:Fran\u00e7ois l'Olonnais|Fran\u00e7ois l'Olonnais]]\"?",
+                        "matches": [
+                            [
+                                67,
+                                120,
+                                "Wikipedia:Fran\u00e7ois l'Olonnais|Fran\u00e7ois l'Olonnais"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "That is correct! The name really was taken from the so called \"Most Fierce & Cruel Pirate Fran\u00e7ois l'Olonnais\u00a0of the Caribbean Sea\".\u00a0That name, \"[[Morgan]]\"\u00a0and \"[[Alvida]]\"\u00a0are all real names of real pirates.",
+                        "matches": [
+                            [
+                                145,
+                                155,
+                                "Morgan"
+                            ],
+                            [
+                                162,
+                                172,
+                                "Alvida"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Fran\u00e7ois l'Olonnais",
+                        "link_title": "/wiki/Wikipedia:Fran\u00e7ois l'Olonnais",
+                        "is_wikipedia": false,
+                        "start": 67,
+                        "end": 120
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Morgan",
+                        "link_title": "/wiki/Morgan",
+                        "is_wikipedia": false,
+                        "start": 145,
+                        "end": 155
+                    },
+                    {
+                        "text": "Alvida",
+                        "link_title": "/wiki/Alvida",
+                        "is_wikipedia": false,
+                        "start": 162,
+                        "end": 172
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "roronoa_zoro",
+                        "morgan",
+                        "alvida"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        ""
+                    ],
+                    "topics": [
+                        "zoro_last_name",
+                        "pirates",
+                        "real_life_reference"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Zoro's last name comes from the pirate Fran\u00e7ois l'Olonnais, and names like Morgan and Alvida are also real names of real pirates."
+            },
+            {
+                "number": 6,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I have a question about Captain [[Buggy]]! Are the two ponytails that pop out from his hat actually his hair? Or are they just some kind of decoration, or a wig? I really want to know! But, if that's really his hair, then he sure has long hair...",
+                        "matches": [
+                            [
+                                32,
+                                41,
+                                "Buggy"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "A lot of readers have mailed me asking the same question. Let me show everybody the details!\n\n[[File:SBS Volume 4, Buggy's Hair.png|thumb|center|500px|Translation (left to right): \"Humor me by dying\", \"Hey! Humor me by giving me back my hat!\", \"Yes, it's my actual hair.\"]]",
+                        "matches": [
+                            [
+                                94,
+                                273,
+                                "File:SBS Volume 4, Buggy's Hair.png|thumb|center|500px|Translation (left to right): \"Humor me by dying\", \"Hey! Humor me by giving me back my hat!\", \"Yes, it's my actual hair.\""
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS Volume 4, Buggy's Hair.png",
+                        "size": "500",
+                        "start": 94,
+                        "end": 273
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Buggy",
+                        "link_title": "/wiki/Buggy",
+                        "is_wikipedia": false,
+                        "start": 32,
+                        "end": 41
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "buggy"
+                    ],
+                    "places": [],
+                    "emotions": [],
+                    "topics": [
+                        "buggy_hair",
+                        "silly"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Readers wonder if Buggy's ponytails are his hair; Oda confirms they are indeed his actual hair."
+            }
+        ],
+        "page": "48",
+        "chapter_number": "28",
+        "page_header": null
+    },
+    {
+        "qa": [
+            {
+                "number": 7,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "How come Luffy never feels \"nervous\" or intimidated?",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "It's definitely because he is stupid! Hahaha!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "luffy"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "personality_trait"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Luffy never feels nervous or intimidated because he is stupid, according to Oda."
+            },
+            {
+                "number": 8,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "If Luffy's treasure is his straw hat, then is sensei's treasure a straw hat too? If it's not, then what is it...?",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "My treasure? No doubt about it,\n\nIT'S ALL OF YOU MY READERS!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "moneky_d_luffy"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "appreciative"
+                    ],
+                    "topics": [
+                        "treasure",
+                        "straw_hat"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader wonders if Oda's treasure is a straw hat; Oda replies his treasure is all his readers."
+            },
+            {
+                "number": 9,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "How did [[Mohji]] get that weird hairdo?",
+                        "matches": [
+                            [
+                                8,
+                                17,
+                                "Mohji"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "He had that hair ever since he was born. Only 2 areas grow extra long. If he doesn't cut it regularly, it'll end up like the following.\n\n[[File:SBS Volume 4, Mohji's Hair.png|thumb|center|500px|Translation (left to right): \"Normal appearance, what?\", \"It will look like this; What do you want!?\", \"And then like this: What is this?\"]]",
+                        "matches": [
+                            [
+                                137,
+                                334,
+                                "File:SBS Volume 4, Mohji's Hair.png|thumb|center|500px|Translation (left to right): \"Normal appearance, what?\", \"It will look like this; What do you want!?\", \"And then like this: What is this?\""
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS Volume 4, Mohji's Hair.png",
+                        "size": "500",
+                        "start": 137,
+                        "end": 334
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Mohji",
+                        "link_title": "/wiki/Mohji",
+                        "is_wikipedia": false,
+                        "start": 8,
+                        "end": 17
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "mohji"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "informative"
+                    ],
+                    "topics": [
+                        "mohji's_hair",
+                        "character_design"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Mohji's weird hair is a natural trait, with two areas of his hair growing extra long if not regularly cut."
+            },
+            {
+                "number": 10,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I got a new special move for Luffy: 1. First, he uses his Gomu Gomu Balloon, expanding his body. 2. Then he can use his Gomu Gomu Pistol (or use Zoro's sword) to puncture himself. 3. Then there will be a big explosion killing everyone! This move should be called \"Gomu Gomu Bomb\"!",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Thank you for the interesting idea. But then Luffy would be dead afterwards!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "moneky_d_luffy",
+                        "roronoa_zoro"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "special_move",
+                        "fighting_technique"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Luffy's new special move idea involves using Gomu Gomu Balloon, Gomu Gomu Pistol (or Zoro's sword), resulting in a big explosion called 'Gomu Gomu Bomb'; Oda rejects the idea, noting it would kill Luffy."
+            }
+        ],
+        "page": "70",
+        "chapter_number": "29",
+        "page_header": null
+    },
+    {
+        "qa": [
+            {
+                "number": 11,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "How far can Luffy's arms stretch?  Please tell me.",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "He can stretch them really far. Right now, Luffy can stretch about 72 Gomu Gomus. But Luffy is now working hard, trying to achieve 100 Gomu Gomus record.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "luffy"
+                    ],
+                    "places": [],
+                    "emotions": [],
+                    "topics": [
+                        "devil_fruit",
+                        "stretching_ability"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Luffy's arms can stretch about 72 Gomu Gomus, but he is working to achieve a record of 100 Gomu Gomus."
+            },
+            {
+                "number": 12,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello! I passed my high school entry exam and got into the high school I wanted, all because of Oda-sensei! Thank you, Sensei!",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes. ....................................................... Huh?!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "surprised"
+                    ],
+                    "topics": [
+                        "fan_appreciation"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "D is thankful to Oda-sensei for passing high school entry exam, to which Oda responds with surprise."
+            },
+            {
+                "number": 13,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "How did you name the characters ?",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Names... Most of them were chosen because they sounded good for the characters. Also, some of them are based on real pirate names.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "character_naming",
+                        "pirate_names"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Character names are chosen based on how they sound and some are inspired by real pirate names."
+            },
+            {
+                "number": 14,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "How come Luffy never kills his enemies? Throughout \"One Piece\" manga so far, he didn't kill [[Mohji]] and [[Helmeppo]], but Axe-arm [[Morgan]] was killed by Zoro, why is that?",
+                        "matches": [
+                            [
+                                92,
+                                101,
+                                "Mohji"
+                            ],
+                            [
+                                106,
+                                118,
+                                "Helmeppo"
+                            ],
+                            [
+                                132,
+                                142,
+                                "Morgan"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Hmm! That's a very good question. First, I have to announce that Morgan is still alive. He's currently in jail, where he was placed by his former subordinates. Why doesn't Luffy kill his enemies? Because in that era, everyone uses their lives to fight for their dreams. For an enemy, when their dream has been shattered, it is the same as losing a fight, and as painful as death. I believe that, as pirates, killing or not killing is secondary to victory or defeat.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Mohji",
+                        "link_title": "/wiki/Mohji",
+                        "is_wikipedia": false,
+                        "start": 92,
+                        "end": 101
+                    },
+                    {
+                        "text": "Helmeppo",
+                        "link_title": "/wiki/Helmeppo",
+                        "is_wikipedia": false,
+                        "start": 106,
+                        "end": 118
+                    },
+                    {
+                        "text": "Morgan",
+                        "link_title": "/wiki/Morgan",
+                        "is_wikipedia": false,
+                        "start": 132,
+                        "end": 142
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy",
+                        "mohji",
+                        "helmeppo",
+                        "morgan",
+                        "zoro"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "thoughtful"
+                    ],
+                    "topics": [
+                        "justice",
+                        "pirate_law"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda explains that in the One Piece world, defeating an enemy and shattering their dream is as painful as death, thus Luffy opts not to kill his enemies."
+            }
+        ],
+        "page": "90",
+        "chapter_number": "30",
+        "page_header": null
+    },
+    {
+        "qa": [
+            {
+                "number": 15,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Sensei, do you like [[animals]]? Because there seems to be at least one animal in each splash page....",
+                        "matches": [
+                            [
+                                20,
+                                31,
+                                "animals"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yup, I even put animals in the front covers. I really like animals, but I think mine is the \"normal\" type of like. I just like to draw animals. I like changing them a lot. Like when I create a little bear character, I might give it some hilarious makeup, or a mysterious outfit, and let everyone guess what or who it is. Also, I love to use colors that aren't normal.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "animals",
+                        "link_title": "/wiki/animals",
+                        "is_wikipedia": false,
+                        "start": 20,
+                        "end": 31
+                    }
+                ],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "happy",
+                        "funny"
+                    ],
+                    "topics": [
+                        "animals",
+                        "drawing",
+                        "creativity",
+                        "art",
+                        "colors"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda loves animals and enjoys drawing them with unique and creative features, as well as using unconventional colors."
+            },
+            {
+                "number": 16,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "On [[Kuro|Klahadore]]'s clothing, there's a symbol that looks like poop, does it stand for poop? Or does it have some other meaning?",
+                        "matches": [
+                            [
+                                3,
+                                21,
+                                "Kuro|Klahadore"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "It is poop.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Klahadore",
+                        "link_title": "/wiki/Kuro",
+                        "is_wikipedia": false,
+                        "start": 3,
+                        "end": 21
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "kuro"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "clothing",
+                        "symbol",
+                        "meaning"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Kuro's symbol does indeed stand for poop on his clothing."
+            },
+            {
+                "number": 17,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "What are Nami's three sizes (bust-waist-hip)? I really want to know, please tell me?",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Hey, that's an honest question. But to tell you the truth... I don't even know it myself. I will go and take some measurements! Aaah!\n\nNami: What?! My sizes?!",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Ah! You scared me! Nami, you are here...? Great, can I measure you?\n\nNami: No problem, but it will be very expensive........",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Huh? How.... How much?.............. What?! I can't afford that! Too expensive!!\n\nNami: If you can't pay, then forget it! Ask me when you got the money next time! Bye bye!",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "D... Damn it! Guess I have to give up! But one day I'll really measure her!! Be patient, young man! I'll keep my promise...!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "nami"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "body_measurement",
+                        "nami_promise"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "A reader asks for Nami's measurements, but Oda doesn't know, and Nami refuses to let him measure her without payment."
+            }
+        ],
+        "page": "110",
+        "chapter_number": "31",
+        "page_header": null
+    },
+    {
+        "qa": [
+            {
+                "number": 18,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I have a question.... Why does Zoro always use that old people's clothing that he wears around his stomach ([[Wikipedia:haramaki|haramaki]])?",
+                        "matches": [
+                            [
+                                108,
+                                139,
+                                "Wikipedia:haramaki|haramaki"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "That's disrespectful! You should go stand in the corner! Do you know that stomach band is one of Japan's proud winter clothing?! It is the best piece of armor against the cold!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "haramaki",
+                        "link_title": "/wiki/Wikipedia:haramaki",
+                        "is_wikipedia": false,
+                        "start": 108,
+                        "end": 139
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "roronoa_zoro"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "clothing",
+                        "Japanese_culture"
+                    ],
+                    "importance": [
+                        "low"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "Zoro's haramaki is a proud piece of Japanese winter clothing and the best armor against the cold."
+            },
+            {
+                "number": 20,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "The name \"[[Mikio Itou|Mikio Itoo]]\"\u00a0appeared in \"[[One Piece (Manga)|One Piece]]\", \"Butsu Zone\" and \"Ruroken\" (Rurouni Kenshin). Who is he? There was no indication in any manga, can you please tell me?",
+                        "matches": [
+                            [
+                                10,
+                                35,
+                                "Mikio Itou|Mikio Itoo"
+                            ],
+                            [
+                                50,
+                                81,
+                                "One Piece (Manga)|One Piece"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "You guys found them? All of them? There really is someone with the name \u00a0\"Mikio Itoo\". He's in \"[[Wikipedia:Butsu Zone|Butsu Zone]]\"\u00a0(now in Jump Magazine's\u00a0\"Shaman King\", it's a\u00a0\"[[Wikipedia:Sandan Takei|Sandan Takei]]\" (aka Takei Hiroyuki) manga), and in \"Ruroken\" (Rurouni Kenshin) he also appeared as a traveller. All the\u00a0\"Mikio Itou\"\u00a0in all 3 mangas are indeed the same person. If you ask me who he is, all I can say is that he fought many battles along with his friend throughtout the desert, and his sharp shooting saved him and his friend many times. Soon in the future, he'll make an appearance in front of everyone.",
+                        "matches": [
+                            [
+                                96,
+                                131,
+                                "Wikipedia:Butsu Zone|Butsu Zone"
+                            ],
+                            [
+                                180,
+                                219,
+                                "Wikipedia:Sandan Takei|Sandan Takei"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Mikio Itoo",
+                        "link_title": "/wiki/Mikio Itou",
+                        "is_wikipedia": false,
+                        "start": 10,
+                        "end": 35
+                    },
+                    {
+                        "text": "One Piece",
+                        "link_title": "/wiki/One Piece (Manga)",
+                        "is_wikipedia": false,
+                        "start": 50,
+                        "end": 81
+                    },
+                    {
+                        "text": "Butsu Zone",
+                        "link_title": "/wiki/Wikipedia:Butsu Zone",
+                        "is_wikipedia": false,
+                        "start": 96,
+                        "end": 131
+                    },
+                    {
+                        "text": "Sandan Takei",
+                        "link_title": "/wiki/Wikipedia:Sandan Takei",
+                        "is_wikipedia": false,
+                        "start": 180,
+                        "end": 219
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "curious"
+                    ],
+                    "topics": [
+                        "manga",
+                        "Mikio Itoo",
+                        "Butsu Zone",
+                        "Ruroken",
+                        "Shaman King",
+                        "Sandan Takei",
+                        "appearance",
+                        "friendship",
+                        "sharp shooting"
+                    ],
+                    "importance": "hight",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda confirms that the person named Mikio Itoo is a character who appeared in Butsu Zone and Rurouni Kenshin, known for fighting battles and sharp shooting."
+            }
+        ],
+        "page": "130",
+        "chapter_number": "32",
+        "page_header": null
+    },
+    {
+        "qa": [
+            {
+                "number": 21,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "How many \"[[Devil Fruit]]\"\u00a0are there?\u00a0And, what kind of fruit are they?",
+                        "matches": [
+                            [
+                                10,
+                                25,
+                                "Devil Fruit"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "If you want to know what they are, please just continue reading my manga. How many are there? From the rumors I've heard, there are over 100. And many people with the special abilities are at \"that place\".",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Devil Fruit",
+                        "link_title": "/wiki/Devil Fruit",
+                        "is_wikipedia": false,
+                        "start": 10,
+                        "end": 25
+                    }
+                ],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "devil_fruit",
+                        "manga"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Over 100 Devil Fruits exist, each granting special abilities, and many users with these powers are gathered at a certain place."
+            }
+        ],
+        "page": "150",
+        "chapter_number": "33",
+        "page_header": null
+    }
+]

@@ -1,0 +1,656 @@
+[
+    {
+        "qa": [
+            {
+                "number": 1,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Dokusha (Reader)\n*",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Oda",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader sends in a blank message."
+            }
+        ],
+        "page": 26,
+        "chapter_number": 227,
+        "page_header": "SBS Vol 25 header.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 2,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Boys and girls across the nation, come together! Let's see, who's gonna do the title call today? Aha, how about you? Eiichiro-kun!! Huh? What? You want everyone to say it with you? Okay!! Good idea!! Alright everyone, let's all shout it together on the count of three... two... START THE SBS!! (now everyone got to do it equally!)",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "SPLRAAAAAH!! AAAAAAH!! AAAAAAAAH!!\n\nI bit my tongue. Darn it, I lost my chance!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "SBS_title_call"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "The reader wants Eiichiro Oda to do the title call with everyone, but Oda ends up biting his tongue instead."
+            },
+            {
+                "number": 3,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello, Oda-sensei! Here's a sudden question. In page 28 of volume 18, is that an EARRING I see on that sea cat's left ear? What's up with that? Please tell me. \n\n-by Miss White Day-",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Ummm. That is \"ear hair (mimige)\". On a related note, everyone, try saying this three times fast. \"Migimimi Migime Migime Migimimi\" (Right Ear, Right Eye, Right Eye, Right Ear). Hard, isn't it?",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "lighthearted"
+                    ],
+                    "topics": [
+                        "ear_hair",
+                        "funny"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader asks about an earring on a sea cat in volume 18, but Oda clarifies it's 'ear hair', followed by a playful tongue-twister related to right ear and eye."
+            },
+            {
+                "number": 4,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello! Odacchi!! Do you think that February 6 would be a good day for Nico Robin's birthday?",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Ah, yes, I like the sound of that.\n\n''((NI)co (RO)bin... ni=two, ro=six).''",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "nico_robin"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "happy"
+                    ],
+                    "topics": [
+                        "birthday",
+                        "character"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda likes the sound of February 6 for Nico Robin's birthday because 'ni' in Japanese means 'two' and 'ro' means 'six'."
+            }
+        ],
+        "page": "26",
+        "chapter_number": "227",
+        "page_header": null
+    },
+    {
+        "qa": [
+            {
+                "number": 5,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "How are ya, Odacchi? I know how much you like getting butt-naked, so this must be a favourite season for you. <3",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes, yes. I just LOVE getting completely naked. In the summertime, after I take a bath I just run STRAIGHT OUTSIDE!! And when the girls' softball team running on the sidewalk looks over at me, they say, \"Yup, it's really summer now!!\"\n\n... AS IF!! I'D GET ARRESTED!!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "joking"
+                    ],
+                    "topics": [
+                        "funny",
+                        "Oda's_personal_life"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda humorously denies the reader's assumption about enjoying being naked in the summer, mentioning that it would result in getting arrested."
+            },
+            {
+                "number": 6,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "A question for Oda-sensei!! Long ago, English nobility called each other by the honorific \"Sir\". Is that what the \"sir\" in \"Sir Crocodile\" is from?",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Were you SIRprised? (good one)",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "sir_crocodile"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "character_naming"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "D wonders if 'sir' in 'Sir Crocodile' comes from English nobility, Oda playfully responds with a pun by saying 'Were you SIRprised? (good one)'."
+            },
+            {
+                "number": 7,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "One Piece, Volume 24,\u00a0page 184! Why is it that when\u00a0Usopp is fixing the ship and he hits his middle finger with the hammer, in the next picture his index finger is bruised?! \n\n-by Natchan Orange-",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "...Ah well, think of it like a balloon. For instance, if you have a long balloon, when you squeeze the right end, the left end will puff up. If you hit Usopp's middle finger with a hammer (wham!!) his index pointer finger will puff up. You understand?",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "usopp"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "humorous"
+                    ],
+                    "topics": [
+                        "injury",
+                        "ship_repair"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda jokingly explains the art anomaly by comparing Usopp's fingers to a balloon, implying the impact causes the index finger to swell instead."
+            }
+        ],
+        "page": "46",
+        "chapter_number": "228",
+        "page_header": null
+    },
+    {
+        "qa": [
+            {
+                "number": 8,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Aaah, hello hello, Oda-sensei! Nami says stuff like \"Tornado Tempo\" a lot with her Clima Tacts, but what the heck does \"Tempo\" mean? Please tell me! \n\n-by Traveler (age 15)-",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Tempo. It means weather. Weather in Italian. Tempo. I just liked how the word sounded.\n\n\n[[File:SBS25 Mr.3 floating.png|thumb|Mr.3 floating on a floating piece of wood]]",
+                        "matches": [
+                            [
+                                89,
+                                169,
+                                "File:SBS25 Mr.3 floating.png|thumb|Mr.3 floating on a floating piece of wood"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS25 Mr.3 floating.png",
+                        "size": null,
+                        "start": 89,
+                        "end": 169
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "nami",
+                        "mr_3"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "clima_tacts",
+                        "weather",
+                        "italian_language"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Nami's 'Tornado Tempo' refers to weather in Italian, as Oda just liked how the word sounded."
+            },
+            {
+                "number": 9,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "If Mr. 3 is supposed to have Devil Fruit powers, then why is\u00a0he floating on top of the water in volume 19, page 185, panel 3?",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I sure got a lot of these response... You wouldn't believe how many postcards I got about this. But you guys all understimated me... There's a proper reason for this. Under Mr. 3's body there just so happened to be a piece of \"[[Kuuigosu|Unbelievably Floaty Wood]]\". And that is why he was floating so unbelievably. Let's say, normally a person's floating power is 3 Pukas, and a\u00a0sumo wrestler's would be about 5 Pukas. But on a good day, a piece of \"Unbelievably Floaty Wood\" can get as high as 13 Pukas, the world record set by floating master Pukayama Ukijirou.",
+                        "matches": [
+                            [
+                                227,
+                                264,
+                                "Kuuigosu|Unbelievably Floaty Wood"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Unbelievably Floaty Wood",
+                        "link_title": "/wiki/Kuuigosu",
+                        "is_wikipedia": false,
+                        "start": 227,
+                        "end": 264
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "mr_3",
+                        "pukayama_ukijirou"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "amused"
+                    ],
+                    "topics": [
+                        "devil_fruit",
+                        "unbelievably_floaty_wood"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda explains that Mr. 3 was floating on atop a piece of 'Unbelievably Floaty Wood' with exceptional floating power, setting a world record."
+            },
+            {
+                "number": 10,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello, Oda-sensei. I need to ask you about something I just noticed. Is [[Bellamy|Bellamy the Hyena]]'s name modelled after the North American pirate Samuel \"Black Sam\" Bellamy?",
+                        "matches": [
+                            [
+                                72,
+                                101,
+                                "Bellamy|Bellamy the Hyena"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes. That is correct. Samuel Bellamy. That's him. They say he was a pretty big-time pirate in his day, and had a love for speaking. Instead of a \"Hyena\", he was more of a \"Lion\" fond of speeches.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Bellamy the Hyena",
+                        "link_title": "/wiki/Bellamy",
+                        "is_wikipedia": false,
+                        "start": 72,
+                        "end": 101
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "bellamy"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "pirates",
+                        "fictional parallels"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Bellamy the Hyena's name is indeed modeled after the North American pirate Samuel 'Black Sam' Bellamy, known for being a big-time pirate with a love for speaking."
+            }
+        ],
+        "page": "86",
+        "chapter_number": "230",
+        "page_header": null
+    },
+    {
+        "qa": [
+            {
+                "number": 11,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Greetings! Why is it that Zoro has his swords held at his right hip when swords are usually worn on the left?\n\n-Quickly-",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Uhhh... because if Zoro doesn't have something heavy on his right side, he'd keep leaning to the left (ha). Oh, that's right. I have a question for you now. In Volume 21, Chapter 194 \"Cut Through Steel\", why is it that Zoro has his swords on his left hip in every single picture? And why is it that on page 154, his scabbards seem to have disappeared entirely? Now, is it true that the mistakes in this chapter were so massive that even the readers failed to write in and scold me for them?\n\nYes, it's true.\n\nIs it true that I didn't fix a single panel because of the half-assed reason, \"there are too many panels to fix\"?\n\nYes, that is true. And now, a haiku:\n\nHmmm, Oda-sensei. Looks tired again today.\n\nThe weather is nice. Sensei, thank you very much for your time today. You're welcome.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "roronoa_zoro"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "swords_position",
+                        "mistakes_in_chapter",
+                        "author_tiredness"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda jokingly explains Zoro's sword position to balance his body, then turns the tables by asking a question about inconsistencies in the manga and humorously admits to his mistakes."
+            },
+            {
+                "number": 12,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I have a serious question for Oda-sensei. How come, in manga, no matter where you go, everyone always speaks the same language? \n\n-By Chobi-",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Because manga is something where everyone's dreams are depicted.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "manga",
+                        "language",
+                        "dreams"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "In manga, everyone speaking the same language represents the universal nature of dreams portrayed in the story."
+            }
+        ],
+        "page": "126",
+        "chapter_number": "232",
+        "page_header": null
+    },
+    {
+        "qa": [
+            {
+                "number": 13,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Where is [[Vira]]? In Vol. 11, it's having a \"coup d'\u00e9tat\", in chapter 228 it's a \"merry town\". What's going on?",
+                        "matches": [
+                            [
+                                9,
+                                17,
+                                "Vira"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Oh. Well spotted. 400 years ago when Noland visited it, Vira was indeed just a merry town, but these days it's a violent and dangerous country in the midst of a coup d'\u00e9tat (rebellion). But it's not really so much what's happening in Vira, as what's happening all around the world at this time. I think you'll discover what I mean in the near future. Not as large as Arabasta, it's just a small country in the Grand Line.\n\nSo hold off on your sightseeing trips.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Vira",
+                        "link_title": "/wiki/Vira",
+                        "is_wikipedia": false,
+                        "start": 9,
+                        "end": 17
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "noland"
+                    ],
+                    "places": [
+                        "vira",
+                        "grand_line",
+                        "arabasta"
+                    ],
+                    "emotions": [
+                        "mysterious"
+                    ],
+                    "topics": [
+                        "world_event",
+                        "vira_history"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Vira was a merry town 400 years ago, but now it's in the midst of a coup d'\u00e9tat, reflecting a larger world event, to be revealed in the future."
+            },
+            {
+                "number": 14,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei, I saw the movie \"[[Chopper's Kingdom on the Island of Strange Animals]]\". It was really really fun. The movie that was shown with it, \"[[Dream Soccer King]]\" had a character named \"Odacchi\" which I was very surprised to see. Oda-sensei, DOES YOUR FACE REALLY LOOK LIKE THAT?",
+                        "matches": [
+                            [
+                                29,
+                                83,
+                                "Chopper's Kingdom on the Island of Strange Animals"
+                            ],
+                            [
+                                147,
+                                168,
+                                "Dream Soccer King"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Chopper's Kingdom on the Island of Strange Animals",
+                        "link_title": "/wiki/Chopper's Kingdom on the Island of Strange Animals",
+                        "is_wikipedia": false,
+                        "start": 29,
+                        "end": 83
+                    },
+                    {
+                        "text": "Dream Soccer King",
+                        "link_title": "/wiki/Dream Soccer King",
+                        "is_wikipedia": false,
+                        "start": 147,
+                        "end": 168
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "odacchi"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "surprised",
+                        "fun"
+                    ],
+                    "topics": [
+                        "movie",
+                        "appearance"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader saw a movie with a character named 'Odacchi' and asked if the character resembles Oda, to which Oda simply replied 'Yes'."
+            },
+            {
+                "number": 15,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello, Oda-sensei. Reading the latest One Piece, I've just noticed that Sanji has leg hair. And I was thinking, if he's blond, the leg hair shouldn't stand out so much. I am a huge fan of Sanji, so I must say that I don't like the fact that he has leg hair. Oda-sensei, I beg you to do something about this (from the bottom of my heart).",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "But he's fuzzy. You know, Chopper's fuzzy too!\n\nAlright, it's time to end the SBS! See you next volume!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "sanji",
+                        "chopper"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "playful"
+                    ],
+                    "topics": [
+                        "appearance",
+                        "fan_interaction"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader notices Sanji's leg hair and asks Oda to change it, but Oda replies that Sanji is 'fuzzy' like Chopper and ends the Q&A."
+            }
+        ],
+        "page": "166",
+        "chapter_number": "234",
+        "page_header": null
+    }
+]

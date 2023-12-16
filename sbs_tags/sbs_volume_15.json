@@ -1,0 +1,828 @@
+[
+    {
+        "qa": [
+            {
+                "number": 1,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello, everyone! Today, [[Mikita|Miss Valentine-san]] will start the SBS in place of Oda-sensei!! Take it away, Miss Valentine!!\n\nMiss V: KYAHAHAHAHA! START THE SBS!\u00a0\u2661",
+                        "matches": [
+                            [
+                                24,
+                                53,
+                                "Mikita|Miss Valentine-san"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Uh...",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Miss Valentine-san",
+                        "link_title": "/wiki/Mikita",
+                        "is_wikipedia": false,
+                        "start": 24,
+                        "end": 53
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "Mikita",
+                        "Miss Valentine"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "happy",
+                        "excited"
+                    ],
+                    "topics": [],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "Miss Valentine, substituting for Oda, begins the SBS with a laugh, while Oda expresses surprise."
+            },
+            {
+                "number": 2,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Ei-chan! I can tell you the secret of \"Tenpura\". It's Portuguese. There's absolutely no meaning to it. The Japanese in olden days simply wrote things down the way they heard the Portuguese say it. They just substituted the characters. If there's anything else you don't understand, don't hesitate to ask! From Knowledgeable Himeko in Yamaguchi",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Wow. Knowledgeable Himeko knows a lot!! Okay, then I have a question for you, Knowledgeable Himeko. Why is it that in page 51 of [[Volume 1]], in an extremely important scene, that the three lines on [[Shanks]]' pirate flag were forg... not there? Was it too much of a pain to... is there a deep reason why it wasn't redrawn despite all the readers pointing it out? I got it!! \n[[File:SBS Vol 15 01.png|left|370px]]\nIt's a message to all the boys and girls saying to go out on a voyage to heal those three scars!! Right?! No, I'm sorry. I forgot... Okay, everyone!! Get out your pens, it's retouching time! I know I make millions of errors, but this is one that I really can't let slide.\n{{-}}",
+                        "matches": [
+                            [
+                                129,
+                                141,
+                                "Volume 1"
+                            ],
+                            [
+                                200,
+                                210,
+                                "Shanks"
+                            ],
+                            [
+                                378,
+                                415,
+                                "File:SBS Vol 15 01.png|left|370px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS Vol 15 01.png",
+                        "size": "370",
+                        "start": 378,
+                        "end": 415
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Volume 1",
+                        "link_title": "/wiki/Volume 1",
+                        "is_wikipedia": false,
+                        "start": 129,
+                        "end": 141
+                    },
+                    {
+                        "text": "Shanks",
+                        "link_title": "/wiki/Shanks",
+                        "is_wikipedia": false,
+                        "start": 200,
+                        "end": 210
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "shanks"
+                    ],
+                    "places": [
+                        "yamaguchi"
+                    ],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "japanese_culture",
+                        "fan_interaction"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "Oda asks Knowledgeable Himeko why the three lines on Shanks' pirate flag were not present in a certain scene and humorously suggests it's a message to go on a voyage to heal the scars."
+            }
+        ],
+        "page": 26,
+        "chapter_number": 127,
+        "page_header": "SBS Vol 15 header.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 3,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I have a question. On [[Volume 12]], page 31, what is that \"sailing ceremony\" they do? Pen Name: Vivi Fanclub No. 17",
+                        "matches": [
+                            [
+                                22,
+                                35,
+                                "Volume 12"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "What they did was use their heels to crack open a barrel of beer to celebrate their entrance into the [[Grand Line]]. You could call it a \"One Piece-Style Sailing Ceremony\". I wanted to draw some more about it, but I really wanted to call the [[Chapter 100|100th chapter]] \"The Legend has Begun\", so I was in a hurry to make ends meet. Pretty cool, huh?\n\nNow, about a real \"sailing ceremony\":\n\n* Before they begin building the ship, there is a \"building ceremony\".\n* Once the ship is fully built, there is a \"completion ceremony\".\n* And when it finally goes to sea, there is a grand \"sailing ceremony\".\n\nIn other words, the \"sailing ceremony\" is the biggest and most exciting celebration of the birth of a ship. To celebrate, you break a bottle of liquor on the bow of the ship, and if the bottle doesn't break, the ship is cursed with bad luck. It's a time of celebration, but the person who actually does the breaking has to take it seriously. I've even heard that in Viking \"sailing ceremonies\" they spilled blood on the ship from a live sacrifice. Yikes!\n\n[[File:SBS15 2 Sailing Ceremony.png|thumb|center|600px|[[Kaya]]: It's finished! \u2192 yah!]]",
+                        "matches": [
+                            [
+                                102,
+                                116,
+                                "Grand Line"
+                            ],
+                            [
+                                243,
+                                272,
+                                "Chapter 100|100th chapter"
+                            ],
+                            [
+                                1060,
+                                1123,
+                                "File:SBS15 2 Sailing Ceremony.png|thumb|center|600px|[[Kaya"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS15 2 Sailing Ceremony.png",
+                        "size": "600",
+                        "start": 1060,
+                        "end": 1123
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "100th chapter",
+                        "link_title": "/wiki/Chapter 100",
+                        "is_wikipedia": false,
+                        "start": 243,
+                        "end": 272
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Volume 12",
+                        "link_title": "/wiki/Volume 12",
+                        "is_wikipedia": false,
+                        "start": 22,
+                        "end": 35
+                    },
+                    {
+                        "text": "Grand Line",
+                        "link_title": "/wiki/Grand Line",
+                        "is_wikipedia": false,
+                        "start": 102,
+                        "end": 116
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "vivi_fanclub_no_17",
+                        "kaya"
+                    ],
+                    "places": [
+                        "grand_line"
+                    ],
+                    "topics": [
+                        "sailing_ceremony",
+                        "one_piece_lore",
+                        "devil_fruit"
+                    ],
+                    "emotions": [
+                        "excited",
+                        "curious"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "A sailing ceremony is a grand celebration of a ship's birth, involving breaking a bottle of liquor on the bow; Oda initially hurried to depict this in Volume 12 but later explained the tradition's serious nature and historical roots."
+            }
+        ],
+        "page": "70",
+        "chapter_number": "129",
+        "page_header": null
+    },
+    {
+        "qa": [
+            {
+                "number": 4,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Eiichiro Oda-sama... Give me... something (of your belongings).",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "........................No.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "eiichiro_oda"
+                    ],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [],
+                    "importance": [
+                        "low"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader asked Oda for one of his belongings, but Oda declined."
+            },
+            {
+                "number": 5,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Good day, Oda-sensei, nice to meet you. And now, without further ado, my question. As it happens, around my school, there's a rumor that says you're a dog... Not only that, a poodle!! Is that true?",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Bowwow. Bowwowwow. Bowwowwowwowwow. (I am clearly not a dog). Bow Wow. (Okay, next).",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [],
+                    "importance": [
+                        "low"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader asks if Oda is a dog or poodle, Oda replies as a dog confirming he's not a dog."
+            },
+            {
+                "number": 6,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Where do they sell a man's Heart and Spirit? I have a secondhand woman's Heart and Spirit, by the way.",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "You do?!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader asks where to buy a man's heart and spirit, implying they've bought a secondhand woman's heart and spirit; Oda reacts surprised."
+            },
+            {
+                "number": 7,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei!! I've been wondering for a while... What are Luffy, Zoro, Nami, Usopp and Sanji's birthdays? Tell us!!",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I've gotten a lot of these questions, so I'll answer it now.\n\n* [[Monkey D. Luffy|Luffy]] \u2192 May 5\n* [[Roronoa Zoro|Zoro]] \u2192 November 11\n* [[Nami]] \u2192 July 3\n* [[Usopp]] \u2192 April 1\n* [[Sanji]] \u2192 March 2\n\nHappy birthday! Was that too lazy of me?! Everyone who thinks so, raise your hand. Whoa, that's about a million. But that's what they are, now. Don't give me any crap for it. Yell at their parents.\n\n''(The character birthdays are [https://en.wikipedia.org/wiki/Japanese_wordplay#Goroawase Japanese number puns] )''",
+                        "matches": [
+                            [
+                                64,
+                                89,
+                                "Monkey D. Luffy|Luffy"
+                            ],
+                            [
+                                100,
+                                121,
+                                "Roronoa Zoro|Zoro"
+                            ],
+                            [
+                                138,
+                                146,
+                                "Nami"
+                            ],
+                            [
+                                158,
+                                167,
+                                "Usopp"
+                            ],
+                            [
+                                180,
+                                189,
+                                "Sanji"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Luffy",
+                        "link_title": "/wiki/Monkey D. Luffy",
+                        "is_wikipedia": false,
+                        "start": 64,
+                        "end": 89
+                    },
+                    {
+                        "text": "Zoro",
+                        "link_title": "/wiki/Roronoa Zoro",
+                        "is_wikipedia": false,
+                        "start": 100,
+                        "end": 121
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Nami",
+                        "link_title": "/wiki/Nami",
+                        "is_wikipedia": false,
+                        "start": 138,
+                        "end": 146
+                    },
+                    {
+                        "text": "Usopp",
+                        "link_title": "/wiki/Usopp",
+                        "is_wikipedia": false,
+                        "start": 158,
+                        "end": 167
+                    },
+                    {
+                        "text": "Sanji",
+                        "link_title": "/wiki/Sanji",
+                        "is_wikipedia": false,
+                        "start": 180,
+                        "end": 189
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy",
+                        "roronoa_zoro",
+                        "nami",
+                        "usopp",
+                        "sanji"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "birthdays",
+                        "japanese_wordplay"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda gives the birthdays for Luffy, Zoro, Nami, Usopp, and Sanji using Japanese number puns and humorously tells readers to yell at their parents if they don't like it."
+            },
+            {
+                "number": 8,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "DO YOU THINK THERE REALLY ARE SUCH THINGS AS [[Wikipedia:Kappa (folklore)|KAPPAS]]?",
+                        "matches": [
+                            [
+                                45,
+                                82,
+                                "Wikipedia:Kappa (folklore)|KAPPAS"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "YES, THERE ARE. LOTS AND LOTS OF THEM. ABSOLUTELY.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "KAPPAS",
+                        "link_title": "/wiki/Wikipedia:Kappa (folklore)",
+                        "is_wikipedia": false,
+                        "start": 45,
+                        "end": 82
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "kappa (folklore)"
+                    ],
+                    "importance": [
+                        "high"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda confirms the existence of kappas, mythical Japanese creatures, in the One Piece world."
+            }
+        ],
+        "page": "90",
+        "chapter_number": "130",
+        "page_header": null
+    },
+    {
+        "qa": [
+            {
+                "number": 9,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Would you like an elephant nose radish? (I caught one myself!) By Chojin Canadian-man.",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Mmm, looks good. Thak you. Chomp Chomp Gobble Gobble... Urg! Urg... UHAAGH!! ...Chomp Chomp Gobble Gobble.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "happy",
+                        "funny"
+                    ],
+                    "topics": [
+                        "food"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda appreciates and eats an elephant nose radish sent by a fan."
+            },
+            {
+                "number": 10,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "How are you, Oda-chan? Anyways, in middle school I was given a form for planning my future course in life, but when I asked the teacher, \"Can I write 'pirate' as my number two wish?\" he said \"Be serious\". I am serious! By Saori.",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Of course you are. How can anyone write that without putting their heart into it? Tell your teacher this, from me!! \"What's wrong with being a pillager?!\"",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "happy",
+                        "funny"
+                    ],
+                    "topics": [
+                        "one piece",
+                        "career",
+                        "teacher"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader Saori asked about writing 'pirate' as a future career, Oda encourages her with his support saying 'What's wrong with being a pirate?!'."
+            },
+            {
+                "number": 11,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "When I watched the [[One Piece (Anime)|One Piece anime]], at the part that corresponds to\u00a0[[Volume 7]], [[Chapter 57]]\u00a0(Because of Dreams), it says the reason [[Zeff]] lost his leg was because it got torn off in the shipwreck. Was that changed because of the young children watching the show?",
+                        "matches": [
+                            [
+                                19,
+                                56,
+                                "One Piece (Anime)|One Piece anime"
+                            ],
+                            [
+                                90,
+                                102,
+                                "Volume 7"
+                            ],
+                            [
+                                104,
+                                118,
+                                "Chapter 57"
+                            ],
+                            [
+                                159,
+                                167,
+                                "Zeff"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes. The concept of eating your own leg in that part of the story would be too much of a shock for young children. When you consider that a medium such as television has tens of millions of viewers, it would be a terrible mistake\u00a0to fail to adapt to guidelines. It's amazing that all those animators can continue to create such wonderful shows while still having to consider these issues all the time!! If you can feel their love when you watch the show, please send fan letters to [[Toei Animation]]. It'll cheer everyone up there.",
+                        "matches": [
+                            [
+                                482,
+                                500,
+                                "Toei Animation"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "One Piece anime",
+                        "link_title": "/wiki/One Piece (Anime)",
+                        "is_wikipedia": false,
+                        "start": 19,
+                        "end": 56
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Volume 7",
+                        "link_title": "/wiki/Volume 7",
+                        "is_wikipedia": false,
+                        "start": 90,
+                        "end": 102
+                    },
+                    {
+                        "text": "Chapter 57",
+                        "link_title": "/wiki/Chapter 57",
+                        "is_wikipedia": false,
+                        "start": 104,
+                        "end": 118
+                    },
+                    {
+                        "text": "Zeff",
+                        "link_title": "/wiki/Zeff",
+                        "is_wikipedia": false,
+                        "start": 159,
+                        "end": 167
+                    },
+                    {
+                        "text": "Toei Animation",
+                        "link_title": "/wiki/Toei Animation",
+                        "is_wikipedia": false,
+                        "start": 482,
+                        "end": 500
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "zeff"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "happy",
+                        "appreciation"
+                    ],
+                    "topics": [
+                        "one_piece_anime",
+                        "censorship",
+                        "toei_animation"
+                    ],
+                    "importance": "high",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda confirms Zeff's backstory was changed in the anime so young children could handle the shock of him eating his own leg."
+            }
+        ],
+        "page": "110",
+        "chapter_number": "131",
+        "page_header": null
+    },
+    {
+        "qa": [
+            {
+                "number": 12,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "When reading the SBS in One Piece Volume 13, a shock like lightning ran through my body. The reason why is because I though SBS stood for S(uggoi) B(aka mitai na) S(pace) (\"Very Stupid Space\"). About five of my friends told me that's what it meant. What should I do...?",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Well, to tell you the truth, 90% of the questions that come in to SBS are stupi... <ridiculo... jokes anyways, so what the heck. I don't mind.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "amused",
+                        "funny"
+                    ],
+                    "topics": [
+                        "SBS",
+                        "joke"
+                    ],
+                    "importance": [
+                        "high"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader thought SBS stood for 'Very Stupid Space', Oda confesses many questions are jokes anyway, so it's fine."
+            },
+            {
+                "number": 13,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I just wanna say this to [[Igaram|Mr. 8]]! You're a disgrace to the saxophone! What's with that posture?! Your embouchure is pathetic! And at least wear a strap! Think about what I said! Now go!! (by the head of the Brass Club).",
+                        "matches": [
+                            [
+                                25,
+                                41,
+                                "Igaram|Mr. 8"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yeah, yeah! Tell him. You're pathetic! His em... embousho... chure thing!! And his stri... strap. He really is a disgrace to the saxophone!! You tell him, right to his face!!\n\n...Help me, Knowledgeable Himeko!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Mr. 8",
+                        "link_title": "/wiki/Igaram",
+                        "is_wikipedia": false,
+                        "start": 25,
+                        "end": 41
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "igaram",
+                        "mr. 8"
+                    ],
+                    "places": [],
+                    "topics": [
+                        "musical_instruments",
+                        "criticism"
+                    ],
+                    "emotions": [
+                        "angry",
+                        "frustrated"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A Brass Club member criticizes Igaram's saxophone posture, Oda agrees with the criticism."
+            },
+            {
+                "number": 14,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-senseeei, I looooooove you. Oda-senseeeeeeeei, marry meeeeeee and if not answer my questioooon okay first of all, [[Gol D. Roger|Gold Roger]] and Red-Hair [[Shanks]] seem pretty tough, but what aaare the [[bounties]] placed on their heaaads and another question will you marry meeeeeee.",
+                        "matches": [
+                            [
+                                118,
+                                145,
+                                "Gol D. Roger|Gold Roger"
+                            ],
+                            [
+                                159,
+                                169,
+                                "Shanks"
+                            ],
+                            [
+                                208,
+                                220,
+                                "bounties"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "\"ODA FLYING CROSS CHOP\"!!! KAPOW!! THE SBS IS OVER!! SEE YOU NEXT VOLUME!! YAAAH!!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Gold Roger",
+                        "link_title": "/wiki/Gol D. Roger",
+                        "is_wikipedia": false,
+                        "start": 118,
+                        "end": 145
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Shanks",
+                        "link_title": "/wiki/Shanks",
+                        "is_wikipedia": false,
+                        "start": 159,
+                        "end": 169
+                    },
+                    {
+                        "text": "bounties",
+                        "link_title": "/wiki/bounties",
+                        "is_wikipedia": false,
+                        "start": 208,
+                        "end": 220
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "gol_d_roger",
+                        "shanks"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "happy",
+                        "funny"
+                    ],
+                    "topics": [
+                        "bounty"
+                    ],
+                    "importance": [
+                        "high"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda interrupts the question about bounties on Gold Roger and Shanks, and ends the Q&A by saying the SBS is over."
+            }
+        ],
+        "page": "130",
+        "chapter_number": "132",
+        "page_header": null
+    }
+]

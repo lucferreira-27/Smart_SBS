@@ -1,0 +1,1802 @@
+[
+    {
+        "qa": [
+            {
+                "number": 1,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Heyz!! Odazz!! You're saying nothing but indecent things in your SBS, so even if it's all of a sudden, we students frankly start it!! <big>SBS START!!</big> Odacchi! Odacchi! We want to see [[Roronoa Zoro|Zoro]]'s Baldness. Please do it!! P.N. A Zoro loving child, Misaki (15 years old)",
+                        "matches": [
+                            [
+                                190,
+                                211,
+                                "Roronoa Zoro|Zoro"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "[[File:SBS81 Bald Zoro.png|thumb|left|200px]] What's that all of a sudden!! It's on, so I start with a Solo Bows which doesn't make sense!\n\n\n\n\n\n[[File:SBS81 Shirahoshi.png|thumb|150px]]",
+                        "matches": [
+                            [
+                                0,
+                                45,
+                                "File:SBS81 Bald Zoro.png|thumb|left|200px"
+                            ],
+                            [
+                                144,
+                                185,
+                                "File:SBS81 Shirahoshi.png|thumb|150px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS81 Bald Zoro.png",
+                        "size": "200",
+                        "start": 0,
+                        "end": 45
+                    },
+                    {
+                        "file": "SBS81 Shirahoshi.png",
+                        "size": "150",
+                        "start": 144,
+                        "end": 185
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Zoro",
+                        "link_title": "/wiki/Roronoa Zoro",
+                        "is_wikipedia": false,
+                        "start": 190,
+                        "end": 211
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "roronoa_zoro",
+                        "misaki",
+                        "shirahoshi"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "baldness",
+                        "indecent_content"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader demands to see Zoro's baldness, Oda dismisses it and starts the Q&A with a drawing of Shirahoshi."
+            },
+            {
+                "number": 2,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Please Odacchi!<br/> What is the thing attached to [[Shirahoshi]]'s head? P.N. Witch child Takkun",
+                        "matches": [
+                            [
+                                51,
+                                65,
+                                "Shirahoshi"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "It's Taiyaki.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Shirahoshi",
+                        "link_title": "/wiki/Shirahoshi",
+                        "is_wikipedia": false,
+                        "start": 51,
+                        "end": 65
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "shirahoshi"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "food"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Shirahoshi's head attachment is actually a Taiyaki."
+            },
+            {
+                "number": 3,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Please draw a 'kind' [[Monkey D. Luffy|Luffy]] how [[Issho|Fujitora]] imagines him!! P.N. Peko",
+                        "matches": [
+                            [
+                                21,
+                                46,
+                                "Monkey D. Luffy|Luffy"
+                            ],
+                            [
+                                51,
+                                69,
+                                "Issho|Fujitora"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Sure.\n[[File:SBS81 Issho.png|thumb|left|250px]][[File:SBS81 Luffy.png|thumb|200px]]<br/>\n\n\n\n\n\n[[File:SBS81 Uhho.png|thumb|150px]]",
+                        "matches": [
+                            [
+                                6,
+                                47,
+                                "File:SBS81 Issho.png|thumb|left|250px"
+                            ],
+                            [
+                                47,
+                                83,
+                                "File:SBS81 Luffy.png|thumb|200px"
+                            ],
+                            [
+                                94,
+                                129,
+                                "File:SBS81 Uhho.png|thumb|150px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS81 Issho.png",
+                        "size": "250",
+                        "start": 6,
+                        "end": 47
+                    },
+                    {
+                        "file": "SBS81 Luffy.png",
+                        "size": "200",
+                        "start": 47,
+                        "end": 83
+                    },
+                    {
+                        "file": "SBS81 Uhho.png",
+                        "size": "150",
+                        "start": 94,
+                        "end": 129
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Luffy",
+                        "link_title": "/wiki/Monkey D. Luffy",
+                        "is_wikipedia": false,
+                        "start": 21,
+                        "end": 46
+                    },
+                    {
+                        "text": "Fujitora",
+                        "link_title": "/wiki/Issho",
+                        "is_wikipedia": false,
+                        "start": 51,
+                        "end": 69
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy",
+                        "fujitora"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "art",
+                        "character_design"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader asks Oda to draw the kind Luffy as imagined by Fujitora, and Oda provides the requested drawings in the SBS section."
+            },
+            {
+                "number": 4,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "What is the name of the gorilla by [[Sengoku]]'s side? Is it a [[Uhho]]-kun? Would Uhho-kun be fine? Also, does Uhho-kun like marine okaki? P.N. Hijiki",
+                        "matches": [
+                            [
+                                35,
+                                46,
+                                "Sengoku"
+                            ],
+                            [
+                                63,
+                                71,
+                                "Uhho"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "...Well...it's the [[Marines]] okaki loving... Uhho-kun....",
+                        "matches": [
+                            [
+                                19,
+                                30,
+                                "Marines"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Sengoku",
+                        "link_title": "/wiki/Sengoku",
+                        "is_wikipedia": false,
+                        "start": 35,
+                        "end": 46
+                    },
+                    {
+                        "text": "Uhho",
+                        "link_title": "/wiki/Uhho",
+                        "is_wikipedia": false,
+                        "start": 63,
+                        "end": 71
+                    },
+                    {
+                        "text": "Marines",
+                        "link_title": "/wiki/Marines",
+                        "is_wikipedia": false,
+                        "start": 19,
+                        "end": 30
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "sengoku",
+                        "uhho-kun"
+                    ],
+                    "places": [
+                        "marines"
+                    ],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "food"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Sengoku's gorilla is named Uhho-kun and is a Marine okaki lover, confirmed by Oda."
+            },
+            {
+                "number": 5,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello. I don't understand the world map of the One Piece world well. \"[[New World]]\" or [[East Blue|East]]/[[West Blue|West]]/[[South Blue|South]]/[[North Blue]] or [[Red Line]], I don't know where each of them is located. Every globe-like tool is fine, so explain it comprehensibly. Please keep doing your best. P.N. Caterpillar",
+                        "matches": [
+                            [
+                                70,
+                                83,
+                                "New World"
+                            ],
+                            [
+                                88,
+                                106,
+                                "East Blue|East"
+                            ],
+                            [
+                                107,
+                                125,
+                                "West Blue|West"
+                            ],
+                            [
+                                126,
+                                146,
+                                "South Blue|South"
+                            ],
+                            [
+                                147,
+                                161,
+                                "North Blue"
+                            ],
+                            [
+                                165,
+                                177,
+                                "Red Line"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "This...!! Freshness--!! Alright. It's easy to understand. I'm sorry. This has been an ungracious manga it seems. I illustrated the \"One Piece World\" for all new readers. There are 2 pages at the end of the volume. Please try and skim through them!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "East",
+                        "link_title": "/wiki/East Blue",
+                        "is_wikipedia": false,
+                        "start": 88,
+                        "end": 106
+                    },
+                    {
+                        "text": "West",
+                        "link_title": "/wiki/West Blue",
+                        "is_wikipedia": false,
+                        "start": 107,
+                        "end": 125
+                    },
+                    {
+                        "text": "South",
+                        "link_title": "/wiki/South Blue",
+                        "is_wikipedia": false,
+                        "start": 126,
+                        "end": 146
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "New World",
+                        "link_title": "/wiki/New World",
+                        "is_wikipedia": false,
+                        "start": 70,
+                        "end": 83
+                    },
+                    {
+                        "text": "North Blue",
+                        "link_title": "/wiki/North Blue",
+                        "is_wikipedia": false,
+                        "start": 147,
+                        "end": 161
+                    },
+                    {
+                        "text": "Red Line",
+                        "link_title": "/wiki/Red Line",
+                        "is_wikipedia": false,
+                        "start": 165,
+                        "end": 177
+                    }
+                ],
+                "tags": {
+                    "characters": [],
+                    "places": [
+                        "New World",
+                        "East Blue",
+                        "West Blue",
+                        "South Blue",
+                        "North Blue",
+                        "Red Line"
+                    ],
+                    "emotions": [
+                        "apologetic"
+                    ],
+                    "topics": [
+                        "world_map",
+                        "One Piece World"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda suggests checking the end of the volume for an illustrated 'One Piece World' map to better understand the different locations in the story."
+            },
+            {
+                "number": 6,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello Oda-san. This time, there are some characters whose names I'd like to know. First, the 'Doctor' who said \"Somebody, we need help here!\". Next, The Granny saying \"Leave me behind and save yourself!\" and finally, her granddaughter. Please tell me their names. That's all. P.N. 'Person'",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Let's introduce them.\n\n{| style=\"margin:auto;\"\n|[[File:SBS81 Ringana.png|76px]]||\nDoctor<br />[[Tegata Ringana]]<br />(Hobby: Guitar)\n|[[File:SBS81 Detamaruka.png|76px]]||\nDress granny<br />[[Shin Detamaruka]]<br />(Former dancer)\n|[[File:SBS81 Jaiya.png|76px]]||\nGranddaughter<br />[[Shin Jaiya]]<br />(Wants to be a dancer)\n|}",
+                        "matches": [
+                            [
+                                48,
+                                79,
+                                "File:SBS81 Ringana.png|76px"
+                            ],
+                            [
+                                94,
+                                112,
+                                "Tegata Ringana"
+                            ],
+                            [
+                                135,
+                                169,
+                                "File:SBS81 Detamaruka.png|76px"
+                            ],
+                            [
+                                190,
+                                209,
+                                "Shin Detamaruka"
+                            ],
+                            [
+                                232,
+                                261,
+                                "File:SBS81 Jaiya.png|76px"
+                            ],
+                            [
+                                283,
+                                297,
+                                "Shin Jaiya"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS81 Ringana.png",
+                        "size": "76",
+                        "start": 48,
+                        "end": 79
+                    },
+                    {
+                        "file": "SBS81 Detamaruka.png",
+                        "size": "76",
+                        "start": 135,
+                        "end": 169
+                    },
+                    {
+                        "file": "SBS81 Jaiya.png",
+                        "size": "76",
+                        "start": 232,
+                        "end": 261
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Tegata Ringana",
+                        "link_title": "/wiki/Tegata Ringana",
+                        "is_wikipedia": false,
+                        "start": 94,
+                        "end": 112
+                    },
+                    {
+                        "text": "Shin Detamaruka",
+                        "link_title": "/wiki/Shin Detamaruka",
+                        "is_wikipedia": false,
+                        "start": 190,
+                        "end": 209
+                    },
+                    {
+                        "text": "Shin Jaiya",
+                        "link_title": "/wiki/Shin Jaiya",
+                        "is_wikipedia": false,
+                        "start": 283,
+                        "end": 297
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "tegata_ringana",
+                        "shin_detamaruka",
+                        "shin_jaiya"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "character_introduction"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "The 'Doctor' is Tegata Ringana, the Granny is Shin Detamaruka, and her granddaughter is Shin Jaiya."
+            },
+            {
+                "number": 7,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I understand most of them, but who has written the autographs in [[Volume 80|volume 80]], page 115 on the left side? -P.N. Please tell me who wrote them",
+                        "matches": [
+                            [
+                                65,
+                                88,
+                                "Volume 80|volume 80"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Those are of course, the five autographs given to [[Bartolomeo]].\n[[File:SBS81 Autographs.png|thumb|center|400px]]\n\n(From left to right, top to bottom. Row One: Luffy, Zoro, [[Usopp]] (To Bartolomeo, silhouette of his profile\u30fbUsopp). Row Two: [[Franky]] (to brothers star mark FRANKY), [[Nico Robin|Robin]] (Nico Robin, chicken picture).)",
+                        "matches": [
+                            [
+                                50,
+                                64,
+                                "Bartolomeo"
+                            ],
+                            [
+                                66,
+                                114,
+                                "File:SBS81 Autographs.png|thumb|center|400px"
+                            ],
+                            [
+                                174,
+                                183,
+                                "Usopp"
+                            ],
+                            [
+                                243,
+                                253,
+                                "Franky"
+                            ],
+                            [
+                                286,
+                                306,
+                                "Nico Robin|Robin"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS81 Autographs.png",
+                        "size": "400",
+                        "start": 66,
+                        "end": 114
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "volume 80",
+                        "link_title": "/wiki/Volume 80",
+                        "is_wikipedia": false,
+                        "start": 65,
+                        "end": 88
+                    },
+                    {
+                        "text": "Robin",
+                        "link_title": "/wiki/Nico Robin",
+                        "is_wikipedia": false,
+                        "start": 286,
+                        "end": 306
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Bartolomeo",
+                        "link_title": "/wiki/Bartolomeo",
+                        "is_wikipedia": false,
+                        "start": 50,
+                        "end": 64
+                    },
+                    {
+                        "text": "Usopp",
+                        "link_title": "/wiki/Usopp",
+                        "is_wikipedia": false,
+                        "start": 174,
+                        "end": 183
+                    },
+                    {
+                        "text": "Franky",
+                        "link_title": "/wiki/Franky",
+                        "is_wikipedia": false,
+                        "start": 243,
+                        "end": 253
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "bartolomeo",
+                        "luffy",
+                        "zoro",
+                        "usopp",
+                        "franky",
+                        "nico_robin"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "informative"
+                    ],
+                    "topics": [
+                        "autographs",
+                        "volume_80",
+                        "bartolomeo"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Autographs on page 115 of volume 80 were given to Bartolomeo by Luffy, Zoro, Usopp, Franky, and Nico Robin."
+            },
+            {
+                "number": 8,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchi-sensei, hello. I was thinking about birthdays for those saying \"There is no character I share my birthday with.\"\n[[File:SBS81 Birthday 1.png|thumb|center|500px]]\n\n*[[Viola]] - April 30th (Sumire, 4 is Sue in Chinese)\n*[[Gin]] - April 7th (Atomic number of silver)\n*[[Mikita|Miss Valentine]] - February 14th (Valentine's Day)\n*[[Miss Father's Day]] - June 21st (Father's Day)\n*[[Leo]] - July 24th (While at the beginning of the horoscope Leo)\n\nSo what do you think? P.N. Masao, Whose Birthday is on December 14th (Please think of a character!!)",
+                        "matches": [
+                            [
+                                121,
+                                169,
+                                "File:SBS81 Birthday 1.png|thumb|center|500px"
+                            ],
+                            [
+                                172,
+                                181,
+                                "Viola"
+                            ],
+                            [
+                                226,
+                                233,
+                                "Gin"
+                            ],
+                            [
+                                273,
+                                298,
+                                "Mikita|Miss Valentine"
+                            ],
+                            [
+                                334,
+                                355,
+                                "Miss Father's Day"
+                            ],
+                            [
+                                384,
+                                391,
+                                "Leo"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "It's fine. You aimed at some missing spot there! Still there is no character with your birthday. (Laughs) I like it, they are all good.\n\n[[File:SBS81 Kuina.png|thumb|200px]]",
+                        "matches": [
+                            [
+                                137,
+                                173,
+                                "File:SBS81 Kuina.png|thumb|200px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS81 Birthday 1.png",
+                        "size": "500",
+                        "start": 121,
+                        "end": 169
+                    },
+                    {
+                        "file": "SBS81 Kuina.png",
+                        "size": "200",
+                        "start": 137,
+                        "end": 173
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Miss Valentine",
+                        "link_title": "/wiki/Mikita",
+                        "is_wikipedia": false,
+                        "start": 273,
+                        "end": 298
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Viola",
+                        "link_title": "/wiki/Viola",
+                        "is_wikipedia": false,
+                        "start": 172,
+                        "end": 181
+                    },
+                    {
+                        "text": "Gin",
+                        "link_title": "/wiki/Gin",
+                        "is_wikipedia": false,
+                        "start": 226,
+                        "end": 233
+                    },
+                    {
+                        "text": "Miss Father's Day",
+                        "link_title": "/wiki/Miss Father's Day",
+                        "is_wikipedia": false,
+                        "start": 334,
+                        "end": 355
+                    },
+                    {
+                        "text": "Leo",
+                        "link_title": "/wiki/Leo",
+                        "is_wikipedia": false,
+                        "start": 384,
+                        "end": 391
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "viola",
+                        "gin",
+                        "miss_valentine",
+                        "miss_father's_day",
+                        "leo"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "happy"
+                    ],
+                    "topics": [
+                        "birthdays",
+                        "character_birthdays"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "A fan asked about characters' birthdays and suggested some based on unique attributes, but Oda confirmed there's still no character with their birthday."
+            },
+            {
+                "number": 11,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "[[Kuina]]'s birthday is September 17th if you look at it as follows: ku (9) / i (1) / na (7). Right...? That's how it is, right? hm? That's how it is, right\u2014right\u2014right\u2014right\u2014right\u2014right? (Trebol style) P.N. God, Punya, Lighting",
+                        "matches": [
+                            [
+                                0,
+                                9,
+                                "Kuina"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes thanks, though it is also a bit far fetched (laughs). As for filling the calendar, I concluded everything is fine!! Whatever you do, it's a win for you!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Kuina",
+                        "link_title": "/wiki/Kuina",
+                        "is_wikipedia": false,
+                        "start": 0,
+                        "end": 9
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "kuina"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "birthday",
+                        "calendar"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Kuina's birthday is September 17th, as per a fan's interpretation of her name's syllables, to which Oda responds positively, albeit while subtly dismissing the reasoning."
+            },
+            {
+                "number": 12,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchi! Hello!! I'm writing about [[Penguin]] and [[Shachi]]'s birthdays of the [[Heart Pirates]].[[File:SBS81 Birthday 2.png|thumb|300px]]\n\n*[[Penguin]] - April 25th (World Penguin Day)\n*[[Shachi]] - April 7th (Shachi \"47\")\n\nI thought of filling in the blanks in my birthday calendar! P.N. Sami\n\n[[File:SBS81 Kyros.png|thumb|200px]]",
+                        "matches": [
+                            [
+                                35,
+                                46,
+                                "Penguin"
+                            ],
+                            [
+                                51,
+                                61,
+                                "Shachi"
+                            ],
+                            [
+                                81,
+                                98,
+                                "Heart Pirates"
+                            ],
+                            [
+                                99,
+                                140,
+                                "File:SBS81 Birthday 2.png|thumb|300px"
+                            ],
+                            [
+                                143,
+                                154,
+                                "Penguin"
+                            ],
+                            [
+                                189,
+                                199,
+                                "Shachi"
+                            ],
+                            [
+                                298,
+                                334,
+                                "File:SBS81 Kyros.png|thumb|200px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "You have good eyes. That's correct, and you understood the egg mark very well (Laughs). That's how it is. [[File:SBS81 Orlumbus.png|thumb|left|200px]] There are three types in [[Orlumbus]]' Yonta Maria Fleet. From front to back, there are 50 \"[[Nita Maria]]\" ships, the slightly bigger \"[[Santa Maria]]\" ships with 5 in number, and finally the largest, 1 \"[[Yonta Maria]]\" ship.\n\n[[File:SBS81 SHGF Ships.png|thumb|center|400px]]\n\nOn top of that, there are 1 big \"[[Happosai]]\" and 7 ironclads called \"[[Ipposai]]\" in [[Sai]]'s [[Happo Navy]].\n\n[[Cavendish]]'s \"[[Sleeping White Horse of the Forest]]\".\n\n[[Hajrudin]]'s viking ship [[Naglfar]].\n\nBartolomeo's [[Going Luffy-senpai|that]].\n\n[[Ideo]] and [[Leo]] don't have ships at the moment, Ideo was going back home with Orlumbus' help. This, of course, isn't something you have to remember.",
+                        "matches": [
+                            [
+                                106,
+                                150,
+                                "File:SBS81 Orlumbus.png|thumb|left|200px"
+                            ],
+                            [
+                                176,
+                                188,
+                                "Orlumbus"
+                            ],
+                            [
+                                243,
+                                257,
+                                "Nita Maria"
+                            ],
+                            [
+                                287,
+                                302,
+                                "Santa Maria"
+                            ],
+                            [
+                                356,
+                                371,
+                                "Yonta Maria"
+                            ],
+                            [
+                                380,
+                                428,
+                                "File:SBS81 SHGF Ships.png|thumb|center|400px"
+                            ],
+                            [
+                                463,
+                                475,
+                                "Happosai"
+                            ],
+                            [
+                                501,
+                                512,
+                                "Ipposai"
+                            ],
+                            [
+                                517,
+                                524,
+                                "Sai"
+                            ],
+                            [
+                                527,
+                                541,
+                                "Happo Navy"
+                            ],
+                            [
+                                544,
+                                557,
+                                "Cavendish"
+                            ],
+                            [
+                                561,
+                                599,
+                                "Sleeping White Horse of the Forest"
+                            ],
+                            [
+                                603,
+                                615,
+                                "Hajrudin"
+                            ],
+                            [
+                                630,
+                                641,
+                                "Naglfar"
+                            ],
+                            [
+                                657,
+                                684,
+                                "Going Luffy-senpai|that"
+                            ],
+                            [
+                                687,
+                                695,
+                                "Ideo"
+                            ],
+                            [
+                                700,
+                                707,
+                                "Leo"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS81 Birthday 2.png",
+                        "size": "300",
+                        "start": 99,
+                        "end": 140
+                    },
+                    {
+                        "file": "SBS81 Kyros.png",
+                        "size": "200",
+                        "start": 298,
+                        "end": 334
+                    },
+                    {
+                        "file": "SBS81 Orlumbus.png",
+                        "size": "200",
+                        "start": 106,
+                        "end": 150
+                    },
+                    {
+                        "file": "SBS81 SHGF Ships.png",
+                        "size": "400",
+                        "start": 380,
+                        "end": 428
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "that",
+                        "link_title": "/wiki/Going Luffy-senpai",
+                        "is_wikipedia": false,
+                        "start": 657,
+                        "end": 684
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Penguin",
+                        "link_title": "/wiki/Penguin",
+                        "is_wikipedia": false,
+                        "start": 35,
+                        "end": 46
+                    },
+                    {
+                        "text": "Shachi",
+                        "link_title": "/wiki/Shachi",
+                        "is_wikipedia": false,
+                        "start": 51,
+                        "end": 61
+                    },
+                    {
+                        "text": "Heart Pirates",
+                        "link_title": "/wiki/Heart Pirates",
+                        "is_wikipedia": false,
+                        "start": 81,
+                        "end": 98
+                    },
+                    {
+                        "text": "Penguin",
+                        "link_title": "/wiki/Penguin",
+                        "is_wikipedia": false,
+                        "start": 143,
+                        "end": 154
+                    },
+                    {
+                        "text": "Shachi",
+                        "link_title": "/wiki/Shachi",
+                        "is_wikipedia": false,
+                        "start": 189,
+                        "end": 199
+                    },
+                    {
+                        "text": "Orlumbus",
+                        "link_title": "/wiki/Orlumbus",
+                        "is_wikipedia": false,
+                        "start": 176,
+                        "end": 188
+                    },
+                    {
+                        "text": "Nita Maria",
+                        "link_title": "/wiki/Nita Maria",
+                        "is_wikipedia": false,
+                        "start": 243,
+                        "end": 257
+                    },
+                    {
+                        "text": "Santa Maria",
+                        "link_title": "/wiki/Santa Maria",
+                        "is_wikipedia": false,
+                        "start": 287,
+                        "end": 302
+                    },
+                    {
+                        "text": "Yonta Maria",
+                        "link_title": "/wiki/Yonta Maria",
+                        "is_wikipedia": false,
+                        "start": 356,
+                        "end": 371
+                    },
+                    {
+                        "text": "Happosai",
+                        "link_title": "/wiki/Happosai",
+                        "is_wikipedia": false,
+                        "start": 463,
+                        "end": 475
+                    },
+                    {
+                        "text": "Ipposai",
+                        "link_title": "/wiki/Ipposai",
+                        "is_wikipedia": false,
+                        "start": 501,
+                        "end": 512
+                    },
+                    {
+                        "text": "Sai",
+                        "link_title": "/wiki/Sai",
+                        "is_wikipedia": false,
+                        "start": 517,
+                        "end": 524
+                    },
+                    {
+                        "text": "Happo Navy",
+                        "link_title": "/wiki/Happo Navy",
+                        "is_wikipedia": false,
+                        "start": 527,
+                        "end": 541
+                    },
+                    {
+                        "text": "Cavendish",
+                        "link_title": "/wiki/Cavendish",
+                        "is_wikipedia": false,
+                        "start": 544,
+                        "end": 557
+                    },
+                    {
+                        "text": "Sleeping White Horse of the Forest",
+                        "link_title": "/wiki/Sleeping White Horse of the Forest",
+                        "is_wikipedia": false,
+                        "start": 561,
+                        "end": 599
+                    },
+                    {
+                        "text": "Hajrudin",
+                        "link_title": "/wiki/Hajrudin",
+                        "is_wikipedia": false,
+                        "start": 603,
+                        "end": 615
+                    },
+                    {
+                        "text": "Naglfar",
+                        "link_title": "/wiki/Naglfar",
+                        "is_wikipedia": false,
+                        "start": 630,
+                        "end": 641
+                    },
+                    {
+                        "text": "Ideo",
+                        "link_title": "/wiki/Ideo",
+                        "is_wikipedia": false,
+                        "start": 687,
+                        "end": 695
+                    },
+                    {
+                        "text": "Leo",
+                        "link_title": "/wiki/Leo",
+                        "is_wikipedia": false,
+                        "start": 700,
+                        "end": 707
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "penguin",
+                        "shachi",
+                        "orlumbus",
+                        "santa_maria",
+                        "yonta_maria",
+                        "happosai",
+                        "ipposai",
+                        "cavendish",
+                        "hajrudin",
+                        "naglfar",
+                        "bartolomeo",
+                        "ideo",
+                        "leo"
+                    ],
+                    "places": [
+                        "yonta_maria",
+                        "sai"
+                    ],
+                    "topics": [
+                        "pirates",
+                        "ships",
+                        "birthdays"
+                    ],
+                    "emotions": [
+                        "happy"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Eiichiro Oda confirms the birthdays of Penguin and Shachi, and also discusses the ships of various characters in the One Piece world."
+            },
+            {
+                "number": 13,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sense-i!! [[Kyros|Ky(9)ros]] who has some live together with [[Rebecca]] is having a doubly peaceful (22) life now, so September 22nd. Please acknowledge my effort (Laughs). P.N. Chibimaru",
+                        "matches": [
+                            [
+                                14,
+                                32,
+                                "Kyros|Ky(9)ros"
+                            ],
+                            [
+                                65,
+                                76,
+                                "Rebecca"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I'm going with \u2460 for loved food and \u2461 for hated food.\n\n{| style=\"margin:auto;\"\n|[[File:SBS81 Kid.png|76px]]||\n\u2460 Cabbage rolls<br />\u2461 Curry udon\n|[[File:SBS81 Killer.png|76px]]||\n\u2460 [[Wikipedia:Spaghetti aglio e olio|''Spaghetti aglio, olio e peperoncino'']]<br />\u2461 Curry udon\n|[[File:SBS81 Apoo.png|76px]]||\n\u2460 Tom Yam soup<br />\u2461 Mayonnaise\n|-\n|[[File:SBS81 Urouge.png|76px]]||\n\u2460 Adzuki beans and pork<br />\u2461 Vegetables\n|[[File:SBS81 Hawkins.png|76px]]||\n\u2460 Fortune cookies<br />\u2461 Meat\n|[[File:SBS81 Drake.png|76px]]||\n\u2460 Rice with chicken<br />\u2461 Eggs\n|-\n|[[File:SBS81 Law.png|76px]]||\n\u2460 Onigiri and grilled fish<br />\u2461 Bread and Umeboshi\n|[[File:SBS81 Bege.png|76px]]||\n\u2460 Meatballs and tomatoes<br />\u2461 Tomato juice\n|[[File:SBS81 Bonney.png|76px]]||\n\u2460 Pizza Margherita<br />\u2461 Carrot\n|}",
+                        "matches": [
+                            [
+                                80,
+                                107,
+                                "File:SBS81 Kid.png|76px"
+                            ],
+                            [
+                                145,
+                                175,
+                                "File:SBS81 Killer.png|76px"
+                            ],
+                            [
+                                180,
+                                256,
+                                "Wikipedia:Spaghetti aglio e olio|''Spaghetti aglio, olio e peperoncino''"
+                            ],
+                            [
+                                276,
+                                304,
+                                "File:SBS81 Apoo.png|76px"
+                            ],
+                            [
+                                344,
+                                374,
+                                "File:SBS81 Urouge.png|76px"
+                            ],
+                            [
+                                420,
+                                451,
+                                "File:SBS81 Hawkins.png|76px"
+                            ],
+                            [
+                                485,
+                                514,
+                                "File:SBS81 Drake.png|76px"
+                            ],
+                            [
+                                553,
+                                580,
+                                "File:SBS81 Law.png|76px"
+                            ],
+                            [
+                                637,
+                                665,
+                                "File:SBS81 Bege.png|76px"
+                            ],
+                            [
+                                714,
+                                744,
+                                "File:SBS81 Bonney.png|76px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS81 Kid.png",
+                        "size": "76",
+                        "start": 80,
+                        "end": 107
+                    },
+                    {
+                        "file": "SBS81 Killer.png",
+                        "size": "76",
+                        "start": 145,
+                        "end": 175
+                    },
+                    {
+                        "file": "SBS81 Apoo.png",
+                        "size": "76",
+                        "start": 276,
+                        "end": 304
+                    },
+                    {
+                        "file": "SBS81 Urouge.png",
+                        "size": "76",
+                        "start": 344,
+                        "end": 374
+                    },
+                    {
+                        "file": "SBS81 Hawkins.png",
+                        "size": "76",
+                        "start": 420,
+                        "end": 451
+                    },
+                    {
+                        "file": "SBS81 Drake.png",
+                        "size": "76",
+                        "start": 485,
+                        "end": 514
+                    },
+                    {
+                        "file": "SBS81 Law.png",
+                        "size": "76",
+                        "start": 553,
+                        "end": 580
+                    },
+                    {
+                        "file": "SBS81 Bege.png",
+                        "size": "76",
+                        "start": 637,
+                        "end": 665
+                    },
+                    {
+                        "file": "SBS81 Bonney.png",
+                        "size": "76",
+                        "start": 714,
+                        "end": 744
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Ky(9)ros",
+                        "link_title": "/wiki/Kyros",
+                        "is_wikipedia": false,
+                        "start": 14,
+                        "end": 32
+                    },
+                    {
+                        "text": "''Spaghetti aglio, olio e peperoncino''",
+                        "link_title": "/wiki/Wikipedia:Spaghetti aglio e olio",
+                        "is_wikipedia": false,
+                        "start": 180,
+                        "end": 256
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Rebecca",
+                        "link_title": "/wiki/Rebecca",
+                        "is_wikipedia": false,
+                        "start": 65,
+                        "end": 76
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "kyros",
+                        "rebecca",
+                        "kid",
+                        "killer",
+                        "apoo",
+                        "urouge",
+                        "hawkins",
+                        "drake",
+                        "law",
+                        "bege",
+                        "bonney"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "food"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda gives characters' favorite and hated foods in a fun format."
+            },
+            {
+                "number": 14,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei!! Hello! In volume 80 [[Chapter 800|chapter 800]] you can find that \"3Tamaria\" and \"2Tamaria\" is also written on the flag of the [[Yonta Maria Grand Fleet]]. Does it display ranks? It is true that Columbus was sailing on the \"3Tamaria\", right? Furthermore, is the picture of the egg based on the egg of Columbus? P.N. Samurai Ryouta<br/>",
+                        "matches": [
+                            [
+                                33,
+                                60,
+                                "Chapter 800|chapter 800"
+                            ],
+                            [
+                                140,
+                                167,
+                                "Yonta Maria Grand Fleet"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Wait a minute, \"Excellent\"? Please say it again, I want to record it. Well, I receive this request quite a lot of times. I don't have much space to explain it here in the SBS corner, but there is a book called \"Jump-ryu!\" which was published as of late. I may appear or not appear in the book inclusive DVD which records manga works of Jump's authors. To be honest, it was published by a former supervisor of One Piece, \"Habuyan\", and if it wasn't at the request of that person whose debt I'm in, I originally wouldn't have accepted (Laughs). It contains lots of rare drafts and ideas, on top of that line-up of authors who even I would like to see. So if you're interested, please take a look at it. And to P.N Iku-kun, I'm sorry if it's a little bit expensive.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "chapter 800",
+                        "link_title": "/wiki/Chapter 800",
+                        "is_wikipedia": false,
+                        "start": 33,
+                        "end": 60
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Yonta Maria Grand Fleet",
+                        "link_title": "/wiki/Yonta Maria Grand Fleet",
+                        "is_wikipedia": false,
+                        "start": 140,
+                        "end": 167
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "columbus"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "yonta_maria_grand_fleet",
+                        "jumpryu",
+                        "Jump's authors"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda directs reader to 'Jump-ryu!' book for explanation on '3Tamaria' and '2Tamaria' on Yonta Maria Grand Fleet flag, and shares that the book contains rare drafts and ideas."
+            },
+            {
+                "number": 15,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Please tell me the favorite and most hated foods of all the [[Worst Generation|rookies]] from 2 years ago, with the exception of Luffy and Zoro. Is there a food that [[Jewelry Bonney|Bonney]] actually dislikes? P.N. Ane-oto",
+                        "matches": [
+                            [
+                                60,
+                                88,
+                                "Worst Generation|rookies"
+                            ],
+                            [
+                                166,
+                                191,
+                                "Jewelry Bonney|Bonney"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes. Both Nekomamushi's guise and Brook singing the song are compiled in this comic. Everyone, please search by all means for the video [\u30cd\u30b3\u30de\u30e0\u30b7\u306e\u65e6\u90a3\u306b\u4f1a\u3044\u306b\u884c\u3053\u3046]\uff081\u756a\uff06\uff13\u756a\u3000\u6f14\u594f\u4ed8\u304d\uff09[\"Let's go meet Master Nekomamushi\" (Please search for her (with 1st & 3rd performances)).] on YouTube. Brook's voice actor, Chou-san, is singing this piece of music! Chou-san's wife, Chouko-san, has written the lyrics and melody. By the way, my interest in the song was caught from the start and many years ago did I tell Chou-san. I asked him \"Can I have Brook sing this?\". With the willing consent of the couple \"Master Nekomamushi\" was born, although the atmosphere is a little different due to the story. It will be fun to see Brook sing this piece of music in the anime (Laughs).",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "rookies",
+                        "link_title": "/wiki/Worst Generation",
+                        "is_wikipedia": false,
+                        "start": 60,
+                        "end": 88
+                    },
+                    {
+                        "text": "Bonney",
+                        "link_title": "/wiki/Jewelry Bonney",
+                        "is_wikipedia": false,
+                        "start": 166,
+                        "end": 191
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "nekomamushi",
+                        "brook"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "happy",
+                        "funny"
+                    ],
+                    "topics": [
+                        "music",
+                        "anime",
+                        "voice_actor"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda does not answer the specific question about the favorite and most hated foods of the Worst Generation, but instead talks about Nekomamushi and Brook's song in the comic."
+            },
+            {
+                "number": 16,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I'd like to become such an excellent mangaka like Odacchi. That's where my question comes from. What do I need to draw a manga? Also, please tell me how to draw. I beg you x2. P.N. Iku\n\n[[File:SBS81 DVD.png|thumb|200px]]",
+                        "matches": [
+                            [
+                                186,
+                                220,
+                                "File:SBS81 DVD.png|thumb|200px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Do you have nothing to do!!! I do!! Yes, that's one time for me... No seriously, thank you for counting. This is interesting, Zoro is at it a lot.",
+                        "matches": []
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS81 DVD.png",
+                        "size": "200",
+                        "start": 186,
+                        "end": 220
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "roronoa_zoro"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "mangaka_aspiration",
+                        "drawing_tips"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "The reader asks Oda for advice on becoming a mangaka, and Oda playfully responds that they both have things to do, and thanks the reader."
+            },
+            {
+                "number": 17,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchi, nice to meet you!! I'm asking about Mr.\"Master [[Nekomamushi]]\" who appears in [[Chapter 806|chapter 806]], is this originally a song by Chou-san, [[Brook]]'s voice actor? [[File:SBS81 Brook and Nekomamushi.png|thumb|200px]] I'm a big big big fan of Chou-san, so this is something I have on my mind and I can't sleep even if it's past 10 in the night!! Thank you in advance for this matter with Chou-san, too!! P.N. Poo-chanchan",
+                        "matches": [
+                            [
+                                56,
+                                71,
+                                "Nekomamushi"
+                            ],
+                            [
+                                88,
+                                115,
+                                "Chapter 806|chapter 806"
+                            ],
+                            [
+                                156,
+                                165,
+                                "Brook"
+                            ],
+                            [
+                                181,
+                                233,
+                                "File:SBS81 Brook and Nekomamushi.png|thumb|200px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "[[File:SBS81 Grandma.png|thumb|left|200px]] Yes, the grandma. To be honest, she isn't related by blood to anyone of the Barto Club. The Barto Club has come to be a large gang, but they originally were a group of rascals who grew up as a childhood friends in rural areas, and increased in size later on. Among them, the elite that loves the Straw Hat Pirates so much leave home and go to sea is made up of the current members. Also she is the grandma from the small-time candy store that was visited a lot by Bartolomeo and the others since they were rascals. She still is supportive of all of them. Ever since then, she helps or doesn't help out with an abundance of useful hints and infomation throughout the adventures of her boys on the sea. (Most of the time she doesn't help)\n\n[[File:SBS81 Marine.png|thumb|200px]]",
+                        "matches": [
+                            [
+                                0,
+                                43,
+                                "File:SBS81 Grandma.png|thumb|left|200px"
+                            ],
+                            [
+                                782,
+                                819,
+                                "File:SBS81 Marine.png|thumb|200px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS81 Brook and Nekomamushi.png",
+                        "size": "200",
+                        "start": 181,
+                        "end": 233
+                    },
+                    {
+                        "file": "SBS81 Grandma.png",
+                        "size": "200",
+                        "start": 0,
+                        "end": 43
+                    },
+                    {
+                        "file": "SBS81 Marine.png",
+                        "size": "200",
+                        "start": 782,
+                        "end": 819
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "chapter 806",
+                        "link_title": "/wiki/Chapter 806",
+                        "is_wikipedia": false,
+                        "start": 88,
+                        "end": 115
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Nekomamushi",
+                        "link_title": "/wiki/Nekomamushi",
+                        "is_wikipedia": false,
+                        "start": 56,
+                        "end": 71
+                    },
+                    {
+                        "text": "Brook",
+                        "link_title": "/wiki/Brook",
+                        "is_wikipedia": false,
+                        "start": 156,
+                        "end": 165
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "nekomamushi",
+                        "brook",
+                        "bartolomeo"
+                    ],
+                    "places": [],
+                    "topics": [
+                        "voice_actor",
+                        "bartolomeo's_grandma",
+                        "Barto Club",
+                        "Straw Hat Pirates"
+                    ],
+                    "emotions": [
+                        "happy"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "Oda explains the backstory of the Barto Club, revealing they are childhood friends from a rural area who grew into a large gang, and the grandma supports them on their adventures."
+            },
+            {
+                "number": 18,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei, hello. I have counted. Who among the [[Straw Hat Pirates]] has become strident the most frequently? I found as follows.\n\n[[File:SBS81 Tsukkomu.png|thumb|center|400px]]\n\n#Usopp (458 times)\n#[[Nami]] (295 times)\n#Zoro (293 times)\n#[[Sanji]] (246 times)\n#[[Tony Tony Chopper|Chopper]] (129 times)\n#Luffy (112 times)\n#Franky (92 times)\n#Robin (16 times)\n#Brook (15 times)\n\nFor comparision:\n*[[Buggy]] (57 times)\n*[[Nefertari Vivi|Vivi]] (40 times)\n\nI researched for approximately one month and a half. ([[Volume 1]]-[[Volume 80|80]]). P.N. Oda-sensei likes big breasts",
+                        "matches": [
+                            [
+                                49,
+                                70,
+                                "Straw Hat Pirates"
+                            ],
+                            [
+                                133,
+                                179,
+                                "File:SBS81 Tsukkomu.png|thumb|center|400px"
+                            ],
+                            [
+                                201,
+                                209,
+                                "Nami"
+                            ],
+                            [
+                                241,
+                                250,
+                                "Sanji"
+                            ],
+                            [
+                                264,
+                                293,
+                                "Tony Tony Chopper|Chopper"
+                            ],
+                            [
+                                399,
+                                408,
+                                "Buggy"
+                            ],
+                            [
+                                421,
+                                444,
+                                "Nefertari Vivi|Vivi"
+                            ],
+                            [
+                                511,
+                                523,
+                                "Volume 1"
+                            ],
+                            [
+                                524,
+                                540,
+                                "Volume 80|80"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "<big>CALM DOWN. THEY WERE BOTH OF THEM.</big> Okay, that's it for SBS! See you in next volume!! Movie information and \"One Piece's world explanation\" are at the end of the book. Look.{{-}}",
+                        "matches": []
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS81 Tsukkomu.png",
+                        "size": "400",
+                        "start": 133,
+                        "end": 179
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Chopper",
+                        "link_title": "/wiki/Tony Tony Chopper",
+                        "is_wikipedia": false,
+                        "start": 264,
+                        "end": 293
+                    },
+                    {
+                        "text": "Vivi",
+                        "link_title": "/wiki/Nefertari Vivi",
+                        "is_wikipedia": false,
+                        "start": 421,
+                        "end": 444
+                    },
+                    {
+                        "text": "80",
+                        "link_title": "/wiki/Volume 80",
+                        "is_wikipedia": false,
+                        "start": 524,
+                        "end": 540
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Straw Hat Pirates",
+                        "link_title": "/wiki/Straw Hat Pirates",
+                        "is_wikipedia": false,
+                        "start": 49,
+                        "end": 70
+                    },
+                    {
+                        "text": "Nami",
+                        "link_title": "/wiki/Nami",
+                        "is_wikipedia": false,
+                        "start": 201,
+                        "end": 209
+                    },
+                    {
+                        "text": "Sanji",
+                        "link_title": "/wiki/Sanji",
+                        "is_wikipedia": false,
+                        "start": 241,
+                        "end": 250
+                    },
+                    {
+                        "text": "Buggy",
+                        "link_title": "/wiki/Buggy",
+                        "is_wikipedia": false,
+                        "start": 399,
+                        "end": 408
+                    },
+                    {
+                        "text": "Volume 1",
+                        "link_title": "/wiki/Volume 1",
+                        "is_wikipedia": false,
+                        "start": 511,
+                        "end": 523
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "usopp",
+                        "nami",
+                        "zoro",
+                        "sanji",
+                        "tony_tony_chopper",
+                        "luffy",
+                        "franky",
+                        "robin",
+                        "brook",
+                        "buggy",
+                        "nefertari_vivi"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "straw_hat_pirates",
+                        "character_behavior"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "The reader counted how often each Straw Hat Pirate has become strident, to which Oda playfully confirms the accuracy of the counts and reminds everyone to stay calm."
+            }
+        ],
+        "page": null,
+        "chapter_number": null,
+        "page_header": null
+    }
+]

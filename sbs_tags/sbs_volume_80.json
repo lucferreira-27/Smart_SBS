@@ -1,0 +1,1132 @@
+[
+    {
+        "qa": [
+            {
+                "number": 1,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oddachi, Hello. I'll ask you directly. In one of [[Brannew]]'s lines from Chapter 700 in [[Volume 70]], he's speaking of a \"Questionable man\", but who could this man be? Is it someone who already appeared? P.N. A Person Who Wants Odacchi To Say, <big>I'LL START SBS</big>",
+                        "matches": [
+                            [
+                                49,
+                                60,
+                                "Brannew"
+                            ],
+                            [
+                                89,
+                                102,
+                                "Volume 70"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Hey, I'm happy about this pen name. What was it again?Me? So I'll let the SBS star..........!! <big>AH!! IT'S ALREADY VOCALISED............!!!</big>..... Yes, it has started. It's about the \"Shichibukai\", right. They appear in this Volume (80). Please check it out in [[Chapter 802]] \"Zou\" and shriek out. Also please wait for his next appearance.\n\n[[File:SBS80 1 Characters.png|thumb|150px]]",
+                        "matches": [
+                            [
+                                268,
+                                283,
+                                "Chapter 802"
+                            ],
+                            [
+                                349,
+                                392,
+                                "File:SBS80 1 Characters.png|thumb|150px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS80 1 Characters.png",
+                        "size": "150",
+                        "start": 349,
+                        "end": 392
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Brannew",
+                        "link_title": "/wiki/Brannew",
+                        "is_wikipedia": false,
+                        "start": 49,
+                        "end": 60
+                    },
+                    {
+                        "text": "Volume 70",
+                        "link_title": "/wiki/Volume 70",
+                        "is_wikipedia": false,
+                        "start": 89,
+                        "end": 102
+                    },
+                    {
+                        "text": "Chapter 802",
+                        "link_title": "/wiki/Chapter 802",
+                        "is_wikipedia": false,
+                        "start": 268,
+                        "end": 283
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "brannew"
+                    ],
+                    "places": [
+                        "zou"
+                    ],
+                    "emotions": [
+                        "happy",
+                        "funny"
+                    ],
+                    "topics": [
+                        "shichibukai",
+                        "chapter_700",
+                        "volume_70",
+                        "chapter_802"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Brannew's 'Questionable man' will appear in Volume 80, Chapter 802 of One Piece, related to the 'Shichibukai'."
+            },
+            {
+                "number": 2,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "What is the meaning behind the word <SOL> on the hat of the one'legged soldier? P.N. Takaaki T",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "It's the <SOL>\u00a0in\u00a0SOLDIER.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "meaning_of_sol_on_hat"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "The word 'SOL' on the hat of the one-legged soldier means 'SOLDIER'."
+            },
+            {
+                "number": 3,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oddachi, can you disguise yourself with a perverted mask? P.N. Takaaki T",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "disguise",
+                        "perverted",
+                        "Oda's personal life"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda confirms he can disguise himself with a perverted mask."
+            },
+            {
+                "number": 4,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "The <G> in [[Nagi Nagi no Mi]]!!! What is the meaning behind 'Nagi Nagi'? P.N. Takaaki T",
+                        "matches": [
+                            [
+                                11,
+                                30,
+                                "Nagi Nagi no Mi"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "The state of a silent sea caused by the absence of wind is called <Nagi>(Calm). The name of [[Donquixote Rosinante|Cora-san]]'s ability originates from it.\n{{-}}",
+                        "matches": [
+                            [
+                                92,
+                                125,
+                                "Donquixote Rosinante|Cora-san"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Cora-san",
+                        "link_title": "/wiki/Donquixote Rosinante",
+                        "is_wikipedia": false,
+                        "start": 92,
+                        "end": 125
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Nagi Nagi no Mi",
+                        "link_title": "/wiki/Nagi Nagi no Mi",
+                        "is_wikipedia": false,
+                        "start": 11,
+                        "end": 30
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "donquixote_rosinante"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "devil_fruit",
+                        "meaning_behind_nagi_nagi_no_mi"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "The name 'Nagi Nagi' in Nagi Nagi no Mi refers to the state of a silent sea caused by the absence of wind, which is linked to Cora-san's ability."
+            },
+            {
+                "number": 5,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-Sensei, After I started watching One Piece, I thought of it all the time, but why is [[Sanji]] addressing [[Nami]] with \"''San''\"'' ''and [[Nico Robin|Robin]] with'' \"Chan\"''? Yet it is Robin who's the elder!! Is there any deep meaning behind it!? P.N. Miracle\u266a",
+                        "matches": [
+                            [
+                                89,
+                                98,
+                                "Sanji"
+                            ],
+                            [
+                                110,
+                                118,
+                                "Nami"
+                            ],
+                            [
+                                142,
+                                162,
+                                "Nico Robin|Robin"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Well I actually didn't think anything of it. Before there was a staff member in our workplace who asked us something interesting. The wish to treat a woman older than you as if she was younger, and a woman younger than you as if she was more of an adult....Is Sanji acquainted with this feeling? I replied,\u00a0\"Oh, of course. That is right.\"\n\n[[File:SBS80 2 Igaram.png|thumb|200px]]",
+                        "matches": [
+                            [
+                                340,
+                                379,
+                                "File:SBS80 2 Igaram.png|thumb|200px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS80 2 Igaram.png",
+                        "size": "200",
+                        "start": 340,
+                        "end": 379
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Robin",
+                        "link_title": "/wiki/Nico Robin",
+                        "is_wikipedia": false,
+                        "start": 142,
+                        "end": 162
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Sanji",
+                        "link_title": "/wiki/Sanji",
+                        "is_wikipedia": false,
+                        "start": 89,
+                        "end": 98
+                    },
+                    {
+                        "text": "Nami",
+                        "link_title": "/wiki/Nami",
+                        "is_wikipedia": false,
+                        "start": 110,
+                        "end": 118
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "sanji",
+                        "nami",
+                        "nico_robin"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "light-hearted"
+                    ],
+                    "topics": [
+                        "character_interaction",
+                        "gender_roles"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Sanji calls Nami \"san\" and Robin \"chan\" because of an interesting workplace discussion about treating women older and younger than you as such."
+            },
+            {
+                "number": 6,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I report!! I'm the person called \"Yaypott Papy\" whose name was printed in the [[Usopp Gallery Pirates]]' Section in [[Volume 19]]. Thanks to you it's a manga to learn from, and generally speaking, I managed to make my debut as a mangaka. P.N.Takuma Takahashi\n\n[[File:SBS80 2 Dinosaurs.png|thumb|left|200px]]",
+                        "matches": [
+                            [
+                                78,
+                                103,
+                                "Usopp Gallery Pirates"
+                            ],
+                            [
+                                116,
+                                129,
+                                "Volume 19"
+                            ],
+                            [
+                                260,
+                                307,
+                                "File:SBS80 2 Dinosaurs.png|thumb|left|200px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Oh. Seems you came back. Since I've been doing this for 18 years now, I'm also glad to see my readers grow up! This means that the first book of \"The Mystery of the Dinosaur (Kyouryuu No Fushigi)\" was published. Those of you who want to know about dinosaurs, absolutely!! Please choose the book of your friend.{{-}}",
+                        "matches": []
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS80 2 Dinosaurs.png",
+                        "size": "200",
+                        "start": 260,
+                        "end": 307
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Usopp Gallery Pirates",
+                        "link_title": "/wiki/Usopp Gallery Pirates",
+                        "is_wikipedia": false,
+                        "start": 78,
+                        "end": 103
+                    },
+                    {
+                        "text": "Volume 19",
+                        "link_title": "/wiki/Volume 19",
+                        "is_wikipedia": false,
+                        "start": 116,
+                        "end": 129
+                    }
+                ],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "happy"
+                    ],
+                    "topics": [
+                        "mangaka_debut",
+                        "the_mystery_of_the_dinosaur"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda congratulates a fan who debuted as a mangaka and mentions the publication of 'The Mystery of the Dinosaur,' encouraging readers to check it out."
+            },
+            {
+                "number": 7,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oddachi, I'll give you a pornographic book, so please answer my question. Sanji won't allow anyone to waste food, but what will he do if a woman does so? P.N. Smoker's Cigar",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I think he would grab the plate and eat it up. Now please give me the pornographic book.\n\n[[File:SBS80 3 Robin.png|thumb|150px]]",
+                        "matches": [
+                            [
+                                90,
+                                128,
+                                "File:SBS80 3 Robin.png|thumb|150px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS80 3 Robin.png",
+                        "size": "150",
+                        "start": 90,
+                        "end": 128
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "sanji"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "food",
+                        "sanji's behavior"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda humorously suggests that Sanji would eat the leftover food if a woman wasted it, and requests the promised pornographic book in return."
+            },
+            {
+                "number": 8,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "When Robin-chan sprouts flowers, blossoms scatter around her. What kind of flower blossoms are those? P.N. One Piece Mania",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "You spotted something interesting. Those blossoms that dance fluffily in the air, present the glory of Robin's techniques. They are called\u00a0\"Fuwa* Flowers\"\u00a0. This is waft fluffily. Please give me the pornographic book.\n\n*>T/N note: Fuwa is a word used to describe fluffy things\n\n[[File:SBS80 3 CP9.png|thumb|150px]]",
+                        "matches": [
+                            [
+                                278,
+                                314,
+                                "File:SBS80 3 CP9.png|thumb|150px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS80 3 CP9.png",
+                        "size": "150",
+                        "start": 278,
+                        "end": 314
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "robin"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "robin_techniques",
+                        "fuwa_flowers",
+                        "pornographic_book"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Robin's blossoms are called 'Fuwa Flowers,' a manifestation of her techniques. Also, the reader's nickname is 'One Piece Mania' and Oda asks for a 'pornographic book'."
+            },
+            {
+                "number": 9,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei, Hello. I just have something I'd like to ask you. On the cover of [[Chapter 518]], you can see the home of [[CP9]]. This looks very similar to the East Tower on the Jiang Xin Yu* in my home town, \"Wenzhou\", in China. So did you draw inspiration from it? I have to ask this. P.N. shrimp friend HAOWII\n\n[[File:SBS80 3 Chinese Tower.png|thumb|150px]]",
+                        "matches": [
+                            [
+                                78,
+                                93,
+                                "Chapter 518"
+                            ],
+                            [
+                                119,
+                                126,
+                                "CP9"
+                            ],
+                            [
+                                313,
+                                359,
+                                "File:SBS80 3 Chinese Tower.png|thumb|150px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Oh, it's that tower without a doubt. It's the training ground of the CP9, and I thought, for me, who grew up in a generation of Kung Fu movies, a Chinese oriented setting would be fine. I assume that's why I chose it. I intended to take my cue from far away landscapes, but I am glad to know people live there who read One Piece. Thank you for the letter.\n\n*T/N note: Jiang Xin Yu means 'River Island' in Chinese\u00a0\n{{-}}",
+                        "matches": []
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS80 3 Chinese Tower.png",
+                        "size": "150",
+                        "start": 313,
+                        "end": 359
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Chapter 518",
+                        "link_title": "/wiki/Chapter 518",
+                        "is_wikipedia": false,
+                        "start": 78,
+                        "end": 93
+                    },
+                    {
+                        "text": "CP9",
+                        "link_title": "/wiki/CP9",
+                        "is_wikipedia": false,
+                        "start": 119,
+                        "end": 126
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "cp9"
+                    ],
+                    "places": [
+                        "Wenzhou",
+                        "China"
+                    ],
+                    "emotions": [
+                        "grateful"
+                    ],
+                    "topics": [
+                        "inspiration",
+                        "CP9",
+                        "cultural influence"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda confirms that he drew inspiration from the East Tower in Wenzhou, China for the CP9's home, appreciating the connection with readers from that area."
+            },
+            {
+                "number": 10,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "When [[Koala]] fell around Robin's neck, I came to like her \\(^\u00a0\u035c \u00a0^)/. So exactly under what circumstances did Koala, [[Hack]], and [[Sabo]] meet? P.N. One Piece Mania\n\n[[File:SBS80 4 Sabo.png|thumb|left|100px]]\n[[File:SBS80 4 Hack.png|thumb|left|100px]]\n[[File:SBS80 4 Koala.png|thumb|left|100px]]",
+                        "matches": [
+                            [
+                                5,
+                                14,
+                                "Koala"
+                            ],
+                            [
+                                119,
+                                127,
+                                "Hack"
+                            ],
+                            [
+                                133,
+                                141,
+                                "Sabo"
+                            ],
+                            [
+                                170,
+                                212,
+                                "File:SBS80 4 Sabo.png|thumb|left|100px"
+                            ],
+                            [
+                                213,
+                                255,
+                                "File:SBS80 4 Hack.png|thumb|left|100px"
+                            ],
+                            [
+                                256,
+                                299,
+                                "File:SBS80 4 Koala.png|thumb|left|100px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Hm, many people want to know about the life of these three. Once I start to tell you there'll be no end.\n\nFirstly, there is Sabo who was rescued by Dragon when he was around 10 years old. He then meets the Revolutionary Army and learns about things happening in the world, and their (Revolutionary Army) thoughts on it. Finally, he sympathizes with them.\n\nThat's when he meets Hack who, as a master in Fish-Man Karate, teaches martial arts to children without prospects that are raised by the army. However, Sabo carries no memories. But he isn't a boy anymore on a level such of someone who can still be taught something. Taken under Dragon's wing he shows great skills and grows rapidly.\n\nThat's when Sabo is 13 years old. A 14 year old girl called Koala is brought along by Hack and joins the Revolutionary Army. (Skipping some details) She takes Fish-Man Karate lessons under Hack and even becomes Master Assistant. The obliging Hack and Koala are, together with Sabo, increasingly assigned to missions as a team due to their good affinity.\n\nYes, the order of their encounter has this kind of vibe. The story is broached in the anime, but I think there is not enough room to tell everything. Please figure it yourself.{{-}}",
+                        "matches": []
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS80 4 Sabo.png",
+                        "size": "100",
+                        "start": 170,
+                        "end": 212
+                    },
+                    {
+                        "file": "SBS80 4 Hack.png",
+                        "size": "100",
+                        "start": 213,
+                        "end": 255
+                    },
+                    {
+                        "file": "SBS80 4 Koala.png",
+                        "size": "100",
+                        "start": 256,
+                        "end": 299
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Koala",
+                        "link_title": "/wiki/Koala",
+                        "is_wikipedia": false,
+                        "start": 5,
+                        "end": 14
+                    },
+                    {
+                        "text": "Hack",
+                        "link_title": "/wiki/Hack",
+                        "is_wikipedia": false,
+                        "start": 119,
+                        "end": 127
+                    },
+                    {
+                        "text": "Sabo",
+                        "link_title": "/wiki/Sabo",
+                        "is_wikipedia": false,
+                        "start": 133,
+                        "end": 141
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "koala",
+                        "hack",
+                        "sabo",
+                        "dragon"
+                    ],
+                    "places": [],
+                    "topics": [
+                        "revolutionary_army",
+                        "sabo's_past",
+                        "koala's_journey",
+                        "fish_man_karate"
+                    ],
+                    "emotions": [
+                        "informative"
+                    ],
+                    "importance": "hight",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Koala, Hack, and Sabo meet as children when Sabo is rescued by Dragon and joins the Revolutionary Army, where he meets Hack and Koala, forming a team with good affinity."
+            },
+            {
+                "number": 11,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "So in chapter 794, there's this flashback scene where [[Monkey D. Luffy|Luffy]] is bawling and saying \" UGHWEABIADITAAAAA!!! IDOHYUDARAGOFAIOROAAAABATAGUUUAAOAAAAGHHH\", but what in the world is he actually saying? Here's my take on the quote. \"Ugh, where have you been idiot!!! I... don't you agree Odacchi friggin' loves boobs way too much wahhhh\". Am I right? P.N. Shuntam from Kumamoto",
+                        "matches": [
+                            [
+                                54,
+                                79,
+                                "Monkey D. Luffy|Luffy"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Bzzzt. Wrooong. The amount of wrong in that second part seriously knows no bounds. Here is the actual correct answer. \"Ugh, where have you been all this time!!! I thought you had died long ago for crying out loud, but thank goodness. By the way, Odacchi seriously likes big boobs way too muchwahhhhh\".\n\n[[File:SBS80 5 Ballon Terminal.png|thumb|400px]]",
+                        "matches": [
+                            [
+                                303,
+                                351,
+                                "File:SBS80 5 Ballon Terminal.png|thumb|400px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS80 5 Ballon Terminal.png",
+                        "size": "400",
+                        "start": 303,
+                        "end": 351
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Luffy",
+                        "link_title": "/wiki/Monkey D. Luffy",
+                        "is_wikipedia": false,
+                        "start": 54,
+                        "end": 79
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "manga",
+                        "translation",
+                        "author_comment",
+                        "character_backstory"
+                    ],
+                    "importance": "hight",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Luffy was saying 'Ugh, where have you been all this time!!! I thought you had died long ago, but thank goodness.'"
+            },
+            {
+                "number": 12,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Mr. Oda, heso!! If you look closely, you can see that the sky island known as \"Ballon Terminal, the ruined city\" has a crapload of balloons stuck to the bottom... but could it be that this sky island is kept in the air with balloons?! P.N. Sacred Tree kun",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "You have a very keen eye (^_^). That is precisely correct! These are balloons that float in the air with a strong will to fly known as \"helium\". I'm sure you've seen a few kids here and there who accidentally let go of a balloon they were holding onto and start bawling their eyes out in despair. Well have you ever wondered where those balloons end up? That's right! They all reach this balloon terminal station, also known as \"Ballon Terminal\". At some point, civilization came to be and thrive on this island... and even after it fell to ruins, the island continues to float on.{{-}}",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [
+                        "Ballon Terminal"
+                    ],
+                    "emotions": [
+                        "interesting"
+                    ],
+                    "topics": [
+                        "sky island",
+                        "balloons",
+                        "history",
+                        "ruins"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "The ruined sky island, 'Ballon Terminal,' is indeed kept afloat by helium balloons, with civilization once thriving there."
+            },
+            {
+                "number": 13,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I have a question, why are the nobles of the [[Goa Kingdom]] (other than Sabo) and [[World Noble|Celestial Dragons]] people (other than Dofy and his family) ugly? Is it because you have a dirty mind. Since it's about Oda-sensei, I'm sure there must be a deep reason for that, Oda-sensei. Please tell me about him. I can't finish my pseudonym summer vacation homework (crying)",
+                        "matches": [
+                            [
+                                45,
+                                60,
+                                "Goa Kingdom"
+                            ],
+                            [
+                                83,
+                                116,
+                                "World Noble|Celestial Dragons"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "No, Mukatsu-kun, these guys!! I don't know what's so great about it. Those guys who don't seem to have even a shred of kindness, I'll make them look weird!!!...... First time! \nExcuse me. I'm distraught.\n\n[[File:SBS80 6 Kyros and Rebecca.png|thumb|300px]]",
+                        "matches": [
+                            [
+                                205,
+                                255,
+                                "File:SBS80 6 Kyros and Rebecca.png|thumb|300px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS80 6 Kyros and Rebecca.png",
+                        "size": "300",
+                        "start": 205,
+                        "end": 255
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Celestial Dragons",
+                        "link_title": "/wiki/World Noble",
+                        "is_wikipedia": false,
+                        "start": 83,
+                        "end": 116
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Goa Kingdom",
+                        "link_title": "/wiki/Goa Kingdom",
+                        "is_wikipedia": false,
+                        "start": 45,
+                        "end": 60
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "sabo",
+                        "dofy",
+                        "kyros",
+                        "rebecca"
+                    ],
+                    "places": [
+                        "goa_kingdom"
+                    ],
+                    "emotions": [
+                        "distraught",
+                        "crying"
+                    ],
+                    "topics": [
+                        "appearance",
+                        "noble",
+                        "world_noble"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda explains that he makes unkind characters look weird because he doesn't see anything great about them."
+            },
+            {
+                "number": 14,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "After the battle with Diamante, it was strange that [[Rebecca]]'s cloak, which was supposed to be protected by Robin, was torn, but when I looked closely, I used the cloak to give first aid to [[Kyros]]' wounds. It seems that there is If so, isn't it erotic? actually P.N. Pekoe\n\n[[File:SBS80 6 Kyros.png|thumb|200px]]",
+                        "matches": [
+                            [
+                                52,
+                                63,
+                                "Rebecca"
+                            ],
+                            [
+                                193,
+                                202,
+                                "Kyros"
+                            ],
+                            [
+                                280,
+                                318,
+                                "File:SBS80 6 Kyros.png|thumb|200px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Amazing imagination and observation! That's right. Kyros' hands and feet are covered with Rebecca's cloak. Actually, at first, he was using more of Rebecca's cape, but if he broke the cape too much, Rebecca would feel very erotic!! safe!! Rebecca must have a cloak!!{{-}}",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes. Em. This is so. But it's a so-called \"hidden message\", so it's not like you're revealing the truth yourself, so the answer was written, but I omitted it. I've received a lot of letters from comic-only readers asking, \"What is this?\". \n\n[[File:SBS80 7 Chapter 766.png|thumb|300px]]\nI think everyone knows the ninja manga called \"Naruto\", but the final installment of the 15-year long serialization, this is the cover of his One Piece in that issue of \u2192 \"Shonen Jump\" has some hidden messages. People tend to think that \"Naruto\" and \"One Piece\" are in a hostile relationship, but in reality, the author Kishimoto-san and I have been good friends for a long time (laughs). I was grateful just to be able to survive with him during the jumps where the works changed so much. It's great that we're the same age. Currently, Kishimoto-san seems to be having a lot of fun, getting out of the hell of a weekly serialization, leisurely playing, and doing a little bit of work (^^){{-}}",
+                        "matches": [
+                            [
+                                241,
+                                285,
+                                "File:SBS80 7 Chapter 766.png|thumb|300px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS80 6 Kyros.png",
+                        "size": "200",
+                        "start": 280,
+                        "end": 318
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Rebecca",
+                        "link_title": "/wiki/Rebecca",
+                        "is_wikipedia": false,
+                        "start": 52,
+                        "end": 63
+                    },
+                    {
+                        "text": "Kyros",
+                        "link_title": "/wiki/Kyros",
+                        "is_wikipedia": false,
+                        "start": 193,
+                        "end": 202
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "rebecca",
+                        "kyros"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "humorous"
+                    ],
+                    "topics": [
+                        "character_cloak",
+                        "hidden_messages",
+                        "manga_industry"
+                    ],
+                    "importance": [
+                        "high"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Rebecca's cloak getting torn was due to Kyros using it for first aid, Oda adding a 'hidden message' and discussing his friendship with the author of 'Naruto'."
+            },
+            {
+                "number": 15,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I have a request for you Oddachi. Please draw the [[Donquixote Family]]'s members in their childhood age!! P.N. The Invincible Gomu Gomu",
+                        "matches": [
+                            [
+                                50,
+                                71,
+                                "Donquixote Family"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes, it's fine. But i won't draw those characters who already appeared in their childhood age.\n\n[[File:SBS80 8 Donquixote Pirates as Children.png|thumb|center|400px]]\n\n(From left to right, top to bottom. Row One: [[Trebol]], [[Diamante]], [[Pica]]. Row Two: [[Monet]], [[Lao G]], [[Gladius]]. Row Three: [[Machvise]], [[Giolla]], [[Senor Pink]].)\n\nWell then, that's it for SBS! See you in next volume~!!{{-}}",
+                        "matches": [
+                            [
+                                96,
+                                166,
+                                "File:SBS80 8 Donquixote Pirates as Children.png|thumb|center|400px"
+                            ],
+                            [
+                                213,
+                                223,
+                                "Trebol"
+                            ],
+                            [
+                                225,
+                                237,
+                                "Diamante"
+                            ],
+                            [
+                                239,
+                                247,
+                                "Pica"
+                            ],
+                            [
+                                258,
+                                267,
+                                "Monet"
+                            ],
+                            [
+                                269,
+                                278,
+                                "Lao G"
+                            ],
+                            [
+                                280,
+                                291,
+                                "Gladius"
+                            ],
+                            [
+                                304,
+                                316,
+                                "Machvise"
+                            ],
+                            [
+                                318,
+                                328,
+                                "Giolla"
+                            ],
+                            [
+                                330,
+                                344,
+                                "Senor Pink"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS80 8 Donquixote Pirates as Children.png",
+                        "size": "400",
+                        "start": 96,
+                        "end": 166
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Donquixote Family",
+                        "link_title": "/wiki/Donquixote Family",
+                        "is_wikipedia": false,
+                        "start": 50,
+                        "end": 71
+                    },
+                    {
+                        "text": "Trebol",
+                        "link_title": "/wiki/Trebol",
+                        "is_wikipedia": false,
+                        "start": 213,
+                        "end": 223
+                    },
+                    {
+                        "text": "Diamante",
+                        "link_title": "/wiki/Diamante",
+                        "is_wikipedia": false,
+                        "start": 225,
+                        "end": 237
+                    },
+                    {
+                        "text": "Pica",
+                        "link_title": "/wiki/Pica",
+                        "is_wikipedia": false,
+                        "start": 239,
+                        "end": 247
+                    },
+                    {
+                        "text": "Monet",
+                        "link_title": "/wiki/Monet",
+                        "is_wikipedia": false,
+                        "start": 258,
+                        "end": 267
+                    },
+                    {
+                        "text": "Lao G",
+                        "link_title": "/wiki/Lao G",
+                        "is_wikipedia": false,
+                        "start": 269,
+                        "end": 278
+                    },
+                    {
+                        "text": "Gladius",
+                        "link_title": "/wiki/Gladius",
+                        "is_wikipedia": false,
+                        "start": 280,
+                        "end": 291
+                    },
+                    {
+                        "text": "Machvise",
+                        "link_title": "/wiki/Machvise",
+                        "is_wikipedia": false,
+                        "start": 304,
+                        "end": 316
+                    },
+                    {
+                        "text": "Giolla",
+                        "link_title": "/wiki/Giolla",
+                        "is_wikipedia": false,
+                        "start": 318,
+                        "end": 328
+                    },
+                    {
+                        "text": "Senor Pink",
+                        "link_title": "/wiki/Senor Pink",
+                        "is_wikipedia": false,
+                        "start": 330,
+                        "end": 344
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "trebol",
+                        "diamante",
+                        "pica",
+                        "monet",
+                        "lao_g",
+                        "gladius",
+                        "machvise",
+                        "giolla",
+                        "senor_pink"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "character_design",
+                        "childhood",
+                        "fan_request"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda shares a drawing of the Donquixote Family members in their childhood, but won't draw characters who've already appeared as children."
+            }
+        ],
+        "page": null,
+        "chapter_number": null,
+        "page_header": null
+    }
+]

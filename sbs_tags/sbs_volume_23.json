@@ -1,0 +1,1030 @@
+[
+    {
+        "qa": [
+            {
+                "number": 1,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Dokusha (Reader)\n*",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Oda",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "reader",
+                        "dokusha"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader asks if Oda has ever been in a slump; Oda confirms he's currently in one and finds it hard to draw"
+            }
+        ],
+        "page": 26,
+        "chapter_number": 206,
+        "page_header": "SBS Vol 23 header.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 2,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Salutations, Oda-sensei. This is my first ever letter, but I'm afraid to say I can't draw, I can't come up with any humorous questions, nor can I ever meer Master Brogy. So please, if you will. Please allow me to at least say the words that everyone longs to say... Ahem.\n\nSTART THE SBS!\n\nHehehe... That felt great!\n\nP.S. I'm sure you get many such letters like these, but I assure you I'm serious.",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Oh, of course. Feel free to do as you wish, sir. I am merely honored to have you read my work.\n\nNow then, let's get this goddamn corner started already.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "excited",
+                        "humorous"
+                    ],
+                    "topics": [
+                        "sbs",
+                        "early_one_piece"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda begins his Q&A (SBS) session, encouraging the reader to express themselves; he follows by initiating the corner with a humorous tone."
+            },
+            {
+                "number": 3,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Ei-chaaaaan!!! Nice to meet you. Ei-chaaaaan!!!!! Who is that guy?!! You know, HIM!! That BW guy that got cut down by Sergeant Major [[Tashigi]] in the \"[[Chapter 206|Ignition]]\" chapter!! Does that say \"I LOVE MISS VALENTINE\" on his back?! Whoa!! I have a rival!!! Does that mean there's a [[Mikita|Miss Valentine]] fan club or something?! Let me in if there is!!! Please!\n\n-by Miss Letters Day-\n\n[[File:SBS Vol 23 Club Member.png|thumb|]]",
+                        "matches": [
+                            [
+                                133,
+                                144,
+                                "Tashigi"
+                            ],
+                            [
+                                153,
+                                177,
+                                "Chapter 206|Ignition"
+                            ],
+                            [
+                                291,
+                                316,
+                                "Mikita|Miss Valentine"
+                            ],
+                            [
+                                398,
+                                440,
+                                "File:SBS Vol 23 Club Member.png|thumb|"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Hohoh. Very quick to spot that, weren't you? \"Ignition\" is chapter 206, so you spotted it on the very first page on the very first chapter of this volume. Now that's a dedicated fan. BW has over 2000 members in it, so you find all sorts. As there are guys who feel like rivals to the Number Agents, there are also guys that idolize them. There are fan clubs, too. If you want to join, send your name, address and age to the [[Whisky Peak]]\u00a0AFC (Agent Fan Club)... Oh wait, [[Roronoa Zoro|Zoro]] destroyed it.",
+                        "matches": [
+                            [
+                                424,
+                                439,
+                                "Whisky Peak"
+                            ],
+                            [
+                                473,
+                                494,
+                                "Roronoa Zoro|Zoro"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS Vol 23 Club Member.png",
+                        "size": null,
+                        "start": 398,
+                        "end": 440
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Ignition",
+                        "link_title": "/wiki/Chapter 206",
+                        "is_wikipedia": false,
+                        "start": 153,
+                        "end": 177
+                    },
+                    {
+                        "text": "Miss Valentine",
+                        "link_title": "/wiki/Mikita",
+                        "is_wikipedia": false,
+                        "start": 291,
+                        "end": 316
+                    },
+                    {
+                        "text": "Zoro",
+                        "link_title": "/wiki/Roronoa Zoro",
+                        "is_wikipedia": false,
+                        "start": 473,
+                        "end": 494
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Tashigi",
+                        "link_title": "/wiki/Tashigi",
+                        "is_wikipedia": false,
+                        "start": 133,
+                        "end": 144
+                    },
+                    {
+                        "text": "Whisky Peak",
+                        "link_title": "/wiki/Whisky Peak",
+                        "is_wikipedia": false,
+                        "start": 424,
+                        "end": 439
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "tashigi",
+                        "monkey_d_luffy",
+                        "roronoa_zoro"
+                    ],
+                    "places": [
+                        "whisky_peak"
+                    ],
+                    "topics": [
+                        "fan_club",
+                        "devil_fruit"
+                    ],
+                    "emotions": [
+                        "happy",
+                        "excited"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader asks about a BW member cut down by Tashigi; Oda confirms reader's observation, explains BW has over 2000 members, and mentions existence of fan clubs. Reader expresses interest in joining Miss Valentine's fan club, but Oda reveals Whisky Peak AFC was destroyed by Zoro."
+            }
+        ],
+        "page": "26",
+        "chapter_number": "206",
+        "page_header": null
+    },
+    {
+        "qa": [
+            {
+                "number": 4,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "APOLOGIZE, ODA-CCHI! Apologize like you're \"Super duper damn sorry!\" For your marimo shenanigans! My name's Mariko so ever since about the 6th grade, everyone's been calling me as \"Marimo\". But then you just had to go and make up stuff like \"Kuromarimo\" and \"Marimo Head\"!! And once I entered middle school (during Chopper's arc), people started saying, \"Hey Kuromarimo-mossa\" WHEN TALKING TO ME. What're you gonna do about it?! My life is ruined!",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "What're you talkin' about? I can see you smiling inside 'cause you're happy about it, aren't you, ya little joker! The next time they say that stuff to you, you say to them right back, \"TAKE THIS, ELECTRIC-MARIMO!!\"\n\nC'mon! Show 'em your Brother-Soul!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy",
+                        "Oda",
+                        "Mariko"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "happy",
+                        "funny"
+                    ],
+                    "topics": [
+                        "oda's personal life",
+                        "character nicknames"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "A fan, called 'Marimo' since 6th grade, is upset that Oda's marimo jokes led to her being called 'Kuromarimo'. Oda tells her to embrace it, calling it her 'Brother-Soul'."
+            },
+            {
+                "number": 5,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Where do the [[Baroque Works]] go on their company vacation?",
+                        "matches": [
+                            [
+                                13,
+                                30,
+                                "Baroque Works"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Apparently they just took a trip to the\u00a0[[Wikipedia:Hokkaido|Hokkaido]]\u00a0Winter Festival. But since it'd be bad for each agent to know who the other agents are, they all received their trip train tickets separately and went on vacation individually.",
+                        "matches": [
+                            [
+                                40,
+                                71,
+                                "Wikipedia:Hokkaido|Hokkaido"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Hokkaido",
+                        "link_title": "/wiki/Wikipedia:Hokkaido",
+                        "is_wikipedia": false,
+                        "start": 40,
+                        "end": 71
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Baroque Works",
+                        "link_title": "/wiki/Baroque Works",
+                        "is_wikipedia": false,
+                        "start": 13,
+                        "end": 30
+                    }
+                ],
+                "tags": {
+                    "characters": [],
+                    "places": [
+                        "hokkaido"
+                    ],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "baroque_works"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Baroque Works agents vacationed separately at Hokkaido Winter Festival, receiving train tickets individually."
+            },
+            {
+                "number": 6,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Brrrrrring... brrrrrrring... hello, Odacchi? Put your thumb in your mouth, and spin around. GIMME YOUR BEST SEXY POSE! Ehehehehehe... did it work?",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Whoa, whoa! Did you see me just now? I was like, daaaaayuum sexy. Like professional model-level sexy. I... No wait, I shouldn't be doing this.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [],
+                    "importance": [
+                        "funny"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader asks Oda to strike a sexy pose, but Oda declines, saying he shouldn't be doing that."
+            },
+            {
+                "number": 7,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "No time for introductions, just answer my question. Did [[Marianne|Miss Goldenweek]] eat one of those fruits?",
+                        "matches": [
+                            [
+                                56,
+                                84,
+                                "Marianne|Miss Goldenweek"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "No, she... how should I say this? She's kind of like a hypnotist. [[Colors Trap|Colors]]\u00a0can already affect humans subconsciously such as exciting or calming us down. So she's a painter who can further enhance these effects, not a\u00a0[[Devil Fruit]]\u00a0user.",
+                        "matches": [
+                            [
+                                66,
+                                88,
+                                "Colors Trap|Colors"
+                            ],
+                            [
+                                231,
+                                246,
+                                "Devil Fruit"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Miss Goldenweek",
+                        "link_title": "/wiki/Marianne",
+                        "is_wikipedia": false,
+                        "start": 56,
+                        "end": 84
+                    },
+                    {
+                        "text": "Colors",
+                        "link_title": "/wiki/Colors Trap",
+                        "is_wikipedia": false,
+                        "start": 66,
+                        "end": 88
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Devil Fruit",
+                        "link_title": "/wiki/Devil Fruit",
+                        "is_wikipedia": false,
+                        "start": 231,
+                        "end": 246
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "miss_goldenweek"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "devil_fruit",
+                        "colors_trap"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Marianne, also known as Miss Goldenweek, is not a Devil Fruit user but a painter with hypnotic abilities enhanced by her painting, Colors Trap."
+            }
+        ],
+        "page": "46",
+        "chapter_number": "207",
+        "page_header": null
+    },
+    {
+        "qa": [
+            {
+                "number": 8,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "In the Cover Page Stories, there are \"[[Camie]] the Mermaid\" and \"[[Octopako]] the Fishwoman\". How are the races of mermaids and fish(wo)men related? \n\n[[Image:SBS Vol 23 2.png|thumb|Octopus Fish-Man (left), Octopus Merman (right).]]",
+                        "matches": [
+                            [
+                                38,
+                                47,
+                                "Camie"
+                            ],
+                            [
+                                66,
+                                78,
+                                "Octopako"
+                            ],
+                            [
+                                152,
+                                233,
+                                "Image:SBS Vol 23 2.png|thumb|Octopus Fish-Man (left), Octopus Merman (right)."
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "As you can see here, the ones with the bottom half of fish are \"[[mermaids]]\". The ones with fish-like upper halves are \"[[Fish-Men]]\". To illustrate the difference with an octopus, look to the right. As for the difference in their natures, mermaids generally try to be friends with other fish, while the Fish-Men try to rule the fish. That's the gist of it. Of course, their habitats are different too, but you'll see for yourself later on in the story eventually.",
+                        "matches": [
+                            [
+                                64,
+                                76,
+                                "mermaids"
+                            ],
+                            [
+                                121,
+                                133,
+                                "Fish-Men"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": ":SBS Vol 23 2.png",
+                        "size": null,
+                        "start": 152,
+                        "end": 233
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Camie",
+                        "link_title": "/wiki/Camie",
+                        "is_wikipedia": false,
+                        "start": 38,
+                        "end": 47
+                    },
+                    {
+                        "text": "Octopako",
+                        "link_title": "/wiki/Octopako",
+                        "is_wikipedia": false,
+                        "start": 66,
+                        "end": 78
+                    },
+                    {
+                        "text": "mermaids",
+                        "link_title": "/wiki/mermaids",
+                        "is_wikipedia": false,
+                        "start": 64,
+                        "end": 76
+                    },
+                    {
+                        "text": "Fish-Men",
+                        "link_title": "/wiki/Fish-Men",
+                        "is_wikipedia": false,
+                        "start": 121,
+                        "end": 133
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "camie",
+                        "mermaid",
+                        "octopako",
+                        "fish-men"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "happy",
+                        "informative"
+                    ],
+                    "topics": [
+                        "mermaids",
+                        "fish-men",
+                        "one piece world"
+                    ],
+                    "importance": "high",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda explains mermaids have fish bottom halves, Fish-Men have fish upper halves; mermaids attempt friendship with fish, Fish-Men try to rule them; habitats differ."
+            },
+            {
+                "number": 9,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "In an SBS in [[Volume 20]], you said \"[[Sanji]]'s left eye is one of the 7 great mysteries\". So what the hell are the other 6?! I'll bust a [[Shakushi|SHAKUSHI]] on you if you don't tell me!!!!\n\n-by Obvious Fool-",
+                        "matches": [
+                            [
+                                13,
+                                26,
+                                "Volume 20"
+                            ],
+                            [
+                                38,
+                                47,
+                                "Sanji"
+                            ],
+                            [
+                                140,
+                                161,
+                                "Shakushi|SHAKUSHI"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Very well. I'll announce them all right here. To start, the 2nd mystery is, \"The 7th mystery is a mystery\". The 3rd mystery is, \"The 6th mystery is a mystery\". The 4th mystery is, \"The 5th mystery is a mystery\". So... hahaha! It's a bundle of mysteries! ...Sorry. I'll think up some proper ones.\n\n(Am I lying or not?)",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "SHAKUSHI",
+                        "link_title": "/wiki/Shakushi",
+                        "is_wikipedia": false,
+                        "start": 140,
+                        "end": 161
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Volume 20",
+                        "link_title": "/wiki/Volume 20",
+                        "is_wikipedia": false,
+                        "start": 13,
+                        "end": 26
+                    },
+                    {
+                        "text": "Sanji",
+                        "link_title": "/wiki/Sanji",
+                        "is_wikipedia": false,
+                        "start": 38,
+                        "end": 47
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "Oda",
+                        "Sanji"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny",
+                        "playful"
+                    ],
+                    "topics": [
+                        "mysteries",
+                        "sanji's left eye"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader asks about the 7 mysteries of One Piece, Oda says they are 'a bundle of mysteries' and the 2nd to 5th are 'a mystery'."
+            },
+            {
+                "number": 10,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "In [[Volume 20]] of [[One Piece (Manga)|One Piece]], I was surprised to learn that OP is also sold in Taiwan. And also the kanji-characters they chose to write \"Nami\". So what are the kanji for the other crew members and Vivi in Taiwan?",
+                        "matches": [
+                            [
+                                3,
+                                16,
+                                "Volume 20"
+                            ],
+                            [
+                                20,
+                                51,
+                                "One Piece (Manga)|One Piece"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Hmmm. I've been getting a fair amount of questions regarding foreign versions of the manga, so I think sometime in the future I'll make a little page explaining stuff like that. Just give me a little time. It's being published in a lot of different countries, you know. One Piece, that is.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "One Piece",
+                        "link_title": "/wiki/One Piece (Manga)",
+                        "is_wikipedia": false,
+                        "start": 20,
+                        "end": 51
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Volume 20",
+                        "link_title": "/wiki/Volume 20",
+                        "is_wikipedia": false,
+                        "start": 3,
+                        "end": 16
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy",
+                        "nami",
+                        "vivi"
+                    ],
+                    "places": [
+                        "taiwan"
+                    ],
+                    "topics": [
+                        "one_piece_manga",
+                        "foreign_versions"
+                    ],
+                    "emotions": [
+                        "happy",
+                        "surprised"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader asks about the kanji choices for Straw Hat Pirates' names and Vivi in Taiwan's One Piece manga; Oda plans to explain foreign versions in future."
+            }
+        ],
+        "page": "66",
+        "chapter_number": "208",
+        "page_header": null
+    },
+    {
+        "qa": [
+            {
+                "number": 11,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Ssseeennseeeeii, wait a minnnnnnnnnuttttte. I... I... If [[Mr. 7]] became\u00a0[[Mr. 6]], what would happen to his face? \n\n[[File:SBS_Vol_23_1.png|thumb|Mr. 7 -> Mr. 6; Mr. 6: Ohohoho!]]",
+                        "matches": [
+                            [
+                                57,
+                                66,
+                                "Mr. 7"
+                            ],
+                            [
+                                74,
+                                83,
+                                "Mr. 6"
+                            ],
+                            [
+                                118,
+                                181,
+                                "File:SBS_Vol_23_1.png|thumb|Mr. 7 -> Mr. 6; Mr. 6: Ohohoho!"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Oh, if he was promoted? Hmm, yes, he does have a very Mr. 7-ish face right now. I'd assess this is what he might look like if he became Mr. 6. Wow, he's a changed man. He could even pull off a Mr. 9...",
+                        "matches": []
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS_Vol_23_1.png",
+                        "size": null,
+                        "start": 118,
+                        "end": 181
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Mr. 7",
+                        "link_title": "/wiki/Mr. 7",
+                        "is_wikipedia": false,
+                        "start": 57,
+                        "end": 66
+                    },
+                    {
+                        "text": "Mr. 6",
+                        "link_title": "/wiki/Mr. 6",
+                        "is_wikipedia": false,
+                        "start": 74,
+                        "end": 83
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "mr_7",
+                        "mr_6",
+                        "oda"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny",
+                        "amused"
+                    ],
+                    "topics": [
+                        "character_appearance",
+                        "promotion"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader asks what if Mr. 7 from One Piece became Mr. 6, Oda draws a hypothetical face of what Mr. 7 might look like as Mr. 6."
+            },
+            {
+                "number": 12,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Wassssup, Oda-sensei?! I have a question about Vivi and Zoro (doooon)!! Why does [[Nefertari Vivi|Vivi]] call [[Roronoa Zoro|Zoro]] Mr. Bushido?! (dogooon) I'm super super SUUUPER interested. Pleeeeeaaaaseeeee tell me! Bye!! See you in a million years!!\n\n-by Potato-kun-",
+                        "matches": [
+                            [
+                                81,
+                                104,
+                                "Nefertari Vivi|Vivi"
+                            ],
+                            [
+                                110,
+                                131,
+                                "Roronoa Zoro|Zoro"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "You know how if you start calling a friend by a funny nickname, you can't really go back? It's the same case here. In fact, if she were to suddenly start calling him Zoro-san, it would seem strange. I think Vivi will call Zoro Mr. Bushido for the rest of her life.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Vivi",
+                        "link_title": "/wiki/Nefertari Vivi",
+                        "is_wikipedia": false,
+                        "start": 81,
+                        "end": 104
+                    },
+                    {
+                        "text": "Zoro",
+                        "link_title": "/wiki/Roronoa Zoro",
+                        "is_wikipedia": false,
+                        "start": 110,
+                        "end": 131
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "nefertari_vivi",
+                        "roronoa_zoro"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "happy",
+                        "excited"
+                    ],
+                    "topics": [
+                        "character_nicknames"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Vivi calls Zoro 'Mr. Bushido' due to nickname habit; Oda states she will likely continue to do so for life."
+            },
+            {
+                "number": 13,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-senseee! I always enjoy the\u00a0[[One Piece (Anime)|One Piece]] manga and anime. By the way, there's something that's been bothering for quuuuuuuiiiiiite a while now. What kind of alcohol is the one that\u00a0[[Kureha|Doctorine]]\u00a0is always drinking? In the manga, the bottle's labeled \"UME\" but is it ume as in plum??? \n\n-by Waiting to see [[Tony Tony Chopper|Chopper]]-",
+                        "matches": [
+                            [
+                                32,
+                                63,
+                                "One Piece (Anime)|One Piece"
+                            ],
+                            [
+                                204,
+                                224,
+                                "Kureha|Doctorine"
+                            ],
+                            [
+                                335,
+                                364,
+                                "Tony Tony Chopper|Chopper"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes. Plum. It's [[Wikipedia:Slivovitz|Plum brandy]]. Homemade.",
+                        "matches": [
+                            [
+                                16,
+                                51,
+                                "Wikipedia:Slivovitz|Plum brandy"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "One Piece",
+                        "link_title": "/wiki/One Piece (Anime)",
+                        "is_wikipedia": false,
+                        "start": 32,
+                        "end": 63
+                    },
+                    {
+                        "text": "Doctorine",
+                        "link_title": "/wiki/Kureha",
+                        "is_wikipedia": false,
+                        "start": 204,
+                        "end": 224
+                    },
+                    {
+                        "text": "Chopper",
+                        "link_title": "/wiki/Tony Tony Chopper",
+                        "is_wikipedia": false,
+                        "start": 335,
+                        "end": 364
+                    },
+                    {
+                        "text": "Plum brandy",
+                        "link_title": "/wiki/Wikipedia:Slivovitz",
+                        "is_wikipedia": false,
+                        "start": 16,
+                        "end": 51
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "kureha",
+                        "tony_tony_chopper"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "happy"
+                    ],
+                    "topics": [
+                        "alcohol",
+                        "kureha",
+                        "one_piece"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader asks about the alcohol drink of Doctorine Kureha, Oda confirms it's plum brandy, specifically homemade ume (plum)."
+            }
+        ],
+        "page": "104",
+        "chapter_number": "210",
+        "page_header": null
+    },
+    {
+        "qa": [
+            {
+                "number": 14,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oh come on now, Odacchi. You don't even know what the \"ran\" in gakuran means?? Then I'll explain, just for you! The \"ran\" in gakuran comes from the esoteric Edo-period term for western clothes, \"randa\". How about that? Cool, huh? It's not ranpaku (egg white). \n\n-by Miss Bon Curry-",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Oh, really? \"Randa\", huh? I see. I was so sure that it actually came from \"lumberjack deathmatch\" (the lumber is pronounced \"ranbaa\" in japanese). I guess I was wrong, then.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "clothing",
+                        "etymology"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader explains the origin of 'ran' in gakuran, Oda jokes about his misunderstanding of it coming from 'lumberjack deathmatch'."
+            },
+            {
+                "number": 15,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Okay okay okay! Question. BW is an abbreviation for Baroque Works. When I was in geography class and found out that BW was also used to represent \"desert\", I was so surprised!! That sounds like the worldly Oda I know. I have such deep respect for you! ...you knew that of course, didn't you sensei?!\n\n-by Highschool First-year in Akita-",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes. A map symbol. BW stands for \"desert\". Right?! Isn't that cool?! I thought that up all myself! Yes, I did!! Me!! ......man..................... I did not know that...",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "amused",
+                        "playful"
+                    ],
+                    "topics": [
+                        "baroque works",
+                        "geography",
+                        "odes personal life"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader points out BW abbreviation in geography class, Oda first claims it's a map symbol for desert, then admits he didn't know that."
+            },
+            {
+                "number": 16,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Draw the main 6 characters WITH YOUR FOOT.\n\nSHOW ME YOUR SPIRIT, ODACCHI.\n\n-Pen name: Ainya-\n\n[[Image:SBS Vol 23 3.png|left|Oda draws Luffy with his foot.]]",
+                        "matches": [
+                            [
+                                94,
+                                156,
+                                "Image:SBS Vol 23 3.png|left|Oda draws Luffy with his foot."
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Oryaaaaaaaaaaaaa!! That's [[Monkey D. Luffy|Luffy]]!! The man who will be pirate king!! That hurts... why'd you make me do that...? And all six... no way! I can't... nope!! Bye! Stay well! See you next time!\n\nThe SBS is over!{{-}}",
+                        "matches": [
+                            [
+                                26,
+                                51,
+                                "Monkey D. Luffy|Luffy"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": ":SBS Vol 23 3.png",
+                        "size": null,
+                        "start": 94,
+                        "end": 156
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Luffy",
+                        "link_title": "/wiki/Monkey D. Luffy",
+                        "is_wikipedia": false,
+                        "start": 26,
+                        "end": 51
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "happy",
+                        "funny"
+                    ],
+                    "topics": [],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader asks Oda to draw the main 6 characters using his foot, Oda shares his drawing of Luffy and declines drawing the rest, then ends the SBS session."
+            }
+        ],
+        "page": "168",
+        "chapter_number": "213",
+        "page_header": null
+    }
+]

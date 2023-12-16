@@ -1,0 +1,832 @@
+[
+    {
+        "qa": [
+            {
+                "number": 1,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Robin says, \"Sorry to do this when you've been waiting in line first thing this morning to start the SBS, but... Don't you think you ought to atone for insulting my Cinco Fleurs in [[SBS Volume 32|Volume 32]]? What a terrible thing you did... You're a naughty child that must be punished.\n\nSEIS FLEURS... CLUTCH! (Crack!) CIEN FLEURS... DELPHINIUM!\n\nFufufu... Now then, shall we begin the SBS?\"\n-by Anonymous Hope-",
+                        "matches": [
+                            [
+                                181,
+                                208,
+                                "SBS Volume 32|Volume 32"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Ugh...! I'm sorry... I won't ever... call it... Chinko (penis) Fleurs aga... (Collapse!)\n\n[[File:SBS34 1 Luffy.png|right|120px]]",
+                        "matches": [
+                            [
+                                90,
+                                128,
+                                "File:SBS34 1 Luffy.png|right|120px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS34 1 Luffy.png",
+                        "size": "120",
+                        "start": 90,
+                        "end": 128
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Volume 32",
+                        "link_title": "/wiki/SBS Volume 32",
+                        "is_wikipedia": false,
+                        "start": 181,
+                        "end": 208
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "nico_robin",
+                        "moneky_d_luffy"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "naughty",
+                        "sorry",
+                        "humorous"
+                    ],
+                    "topics": [
+                        "apology",
+                        "SBS_volume_32",
+                        "Cinco_Fleurs",
+                        "delphinium"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "Robin scolds Oda for insulting her technique and punishes him before starting the SBS session."
+            },
+            {
+                "number": 2,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I was shocked when I saw how clearly ripped\u00a0[[Monkey D. Luffy|Luffy]]'s abs are. Do you have ripped abs like Luffy, Oda-sensei? -P.N. Handaccho-",
+                        "matches": [
+                            [
+                                44,
+                                69,
+                                "Monkey D. Luffy|Luffy"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Why, of course I do. Seriously like, when I take my shirt off... it's just insane. You wouldn't really think so, normally, but look at when I slouch forward... See? There are three separate areas on my stomach, clear as day. What? Those are stomach folds? What are those? What are you talking about?! Look at my tummy! Look! (Blob!) Look! (Blob!)\n\n[[File:SBS34 1 Sanji.png|right|80px]]",
+                        "matches": [
+                            [
+                                348,
+                                385,
+                                "File:SBS34 1 Sanji.png|right|80px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS34 1 Sanji.png",
+                        "size": "80",
+                        "start": 348,
+                        "end": 385
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Luffy",
+                        "link_title": "/wiki/Monkey D. Luffy",
+                        "is_wikipedia": false,
+                        "start": 44,
+                        "end": 69
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy",
+                        "oda_sensei",
+                        "sanji"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "oda's_personal_life",
+                        "body_image"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "Oda jokingly claims to have ripped abs like Luffy and demonstrates with humor, denying any stomach folds."
+            },
+            {
+                "number": 3,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Doesn't anyone on Luffy's crew fall in love? Will there never be a tale of on-board romance? ([[Sanji]] is an exception in this case) I'm just wondering.\n-From Naoko-",
+                        "matches": [
+                            [
+                                94,
+                                103,
+                                "Sanji"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "But they do... They're all in love...\n\nWITH ADVENTURE. (\u2190 good one)",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Sanji",
+                        "link_title": "/wiki/Sanji",
+                        "is_wikipedia": false,
+                        "start": 94,
+                        "end": 103
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "moneky_d_luffy",
+                        "sanji"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "romance",
+                        "adventure"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader asks if there will be on-board romance in One Piece, Oda responds that the crew is in love with adventure."
+            }
+        ],
+        "page": 30,
+        "chapter_number": 317,
+        "page_header": "SBS Vol 34 header.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 4,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei!! I have a question. What is... a \"believing heart\"?",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Good question. The answer to this is something you'll have to find\u00a0yourself. It'd be easy for me to answer you myself\u00a0(\u2190 doesn't know), but it's important for you to find the answer on your own by living life and eventually running up against it! (\u2190 has no clue)\n\n\n[[File:SBS34 2 Afro Luffy.png|right|120px]]",
+                        "matches": [
+                            [
+                                265,
+                                308,
+                                "File:SBS34 2 Afro Luffy.png|right|120px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS34 2 Afro Luffy.png",
+                        "size": "120",
+                        "start": 265,
+                        "end": 308
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "motivational"
+                    ],
+                    "topics": [
+                        "philosophy",
+                        "self-discovery"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda encourages the reader to find the meaning of a 'believing heart' through life experiences, as he himself doesn't know the answer."
+            },
+            {
+                "number": 5,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello, I always read and enjoy your manga. To get to the\u00a0question, Sanji sometimes says something about a \"Brother\u00a0Soul\", but what kind of soul is it exactly? Is it tasty?\n-From ordinary citizen-",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "It tastes like umeboshi. Now, what kind of soul is it? It's a \"Hey yo!\u00a0Ain't I the shiznit?!\" \"Hell yeah, brother, you're slick!\" \"What the hell? No, YOU'RE slick, punk!!\" \"Yeah, I'm No. 1 in this town!\" \"Wahahaha\"- kind of soul.\n\n\n[[File:SBS34 2 Super Sparrow.png|right|150px]]",
+                        "matches": [
+                            [
+                                232,
+                                278,
+                                "File:SBS34 2 Super Sparrow.png|right|150px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS34 2 Super Sparrow.png",
+                        "size": "150",
+                        "start": 232,
+                        "end": 278
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "sanji"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "sanji_brother_soul",
+                        "food"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Sanji's 'Brother Soul' tastes like umeboshi and represents a cool and confident attitude, asserting oneself as the best in town."
+            },
+            {
+                "number": 6,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei hello! I have one question. When [[Itomimizu]]'s Super Sparrow [[Chuchun]] eats food, does it grow\u00a0teeth, like the Super Spot-Billed Duck [[Karoo]]? It was so cute, I was drawn to it instantly. I want to know more about Chuchun. By then! (P.S. I hope more of these Super animals continue to show up!)\n-P.N. Super Octopus-",
+                        "matches": [
+                            [
+                                44,
+                                57,
+                                "Itomimizu"
+                            ],
+                            [
+                                74,
+                                85,
+                                "Chuchun"
+                            ],
+                            [
+                                149,
+                                158,
+                                "Karoo"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes, it has teeth. Its favorite foods are\u00a0Super Worms, Super Sharks, and Super Footballfish.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Itomimizu",
+                        "link_title": "/wiki/Itomimizu",
+                        "is_wikipedia": false,
+                        "start": 44,
+                        "end": 57
+                    },
+                    {
+                        "text": "Chuchun",
+                        "link_title": "/wiki/Chuchun",
+                        "is_wikipedia": false,
+                        "start": 74,
+                        "end": 85
+                    },
+                    {
+                        "text": "Karoo",
+                        "link_title": "/wiki/Karoo",
+                        "is_wikipedia": false,
+                        "start": 149,
+                        "end": 158
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "itomimizu",
+                        "chuchun",
+                        "karoo"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "happy"
+                    ],
+                    "topics": [
+                        "super_sparrow_chuchun",
+                        "super_animals",
+                        "food"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Itomimizu's Super Sparrow Chuchun grows teeth when eating, and its favorite foods are Super Worms, Super Sharks, and Super Footballfish."
+            }
+        ],
+        "page": "50",
+        "chapter_number": "318",
+        "page_header": null
+    },
+    {
+        "qa": [
+            {
+                "number": 7,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "[[File:SBS34 3 Rumble Ball Ad.png|left|400px]]\n\n''(Even a weekling like me was able to turn into this in only THREE MINUTES!!''\n\n''Grand Line resident, T.C.''\n\n''I used to be treated like an idiot or a little kid, but after seeing an ad for rumble balls in a magazine and trying it out, I became like this!! Now I'm the center of attention!!)''\n\nP.N. Jack Toshio",
+                        "matches": [
+                            [
+                                0,
+                                46,
+                                "File:SBS34 3 Rumble Ball Ad.png|left|400px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Hey (laughs)!. The [[Rumble Ball]] is amazing! Why don't we all go out and buy some today?!\n\n\n[[File:SBS34 3 Pudding Pudding.png|right|120px]]",
+                        "matches": [
+                            [
+                                19,
+                                34,
+                                "Rumble Ball"
+                            ],
+                            [
+                                94,
+                                142,
+                                "File:SBS34 3 Pudding Pudding.png|right|120px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS34 3 Rumble Ball Ad.png",
+                        "size": "400",
+                        "start": 0,
+                        "end": 46
+                    },
+                    {
+                        "file": "SBS34 3 Pudding Pudding.png",
+                        "size": "120",
+                        "start": 94,
+                        "end": 142
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Rumble Ball",
+                        "link_title": "/wiki/Rumble Ball",
+                        "is_wikipedia": false,
+                        "start": 19,
+                        "end": 34
+                    }
+                ],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "happy",
+                        "funny"
+                    ],
+                    "topics": [
+                        "rumble_ball",
+                        "transformation",
+                        "advertising"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": true
+                },
+                "summary": "A reader shares their transformation using Rumble Balls, and Oda encourages others to try them as well."
+            },
+            {
+                "number": 8,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "On p. 80 of Volume 9, a man with a strange hairdo named Commodore [[Pudding Pudding]] (Purin Purin) of the 77th Marine Branch was introduced. Was he modeled on Purin Purin-chan from the 1981 anime, \"[[Wikipedia:ja:\u30d7\u30ea\u30f3\u30d7\u30ea\u30f3\u7269\u8a9e|Tales of Purin Purin]]\"?? I've been wondering for ages. Please tell me.\n\n-P.N. Kana-chan-\n\n[[File:Princess Purin.png|right|150px]]",
+                        "matches": [
+                            [
+                                66,
+                                85,
+                                "Pudding Pudding"
+                            ],
+                            [
+                                199,
+                                245,
+                                "Wikipedia:ja:\u30d7\u30ea\u30f3\u30d7\u30ea\u30f3\u7269\u8a9e|Tales of Purin Purin"
+                            ],
+                            [
+                                314,
+                                353,
+                                "File:Princess Purin.png|right|150px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Wow, that takes me back. It wasn't really a model, just a vague memory. It's not as if I liked the show. It was a puppet show aimed at girls, featuring a princess named Purin Purin, right? I guess she got that name because she was a princess. My older sister liked the show, but all I could remember was, what a dumb name and hairstyle. I'm guessing you saw a rerun and noticed the similarity, Kana-chan. Thank you. They sure had a lot of weird puppet shows back then.\n\n''(Purin Purin: Man, I can't even remember what she looked like now.)''",
+                        "matches": []
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "Princess Purin.png",
+                        "size": "150",
+                        "start": 314,
+                        "end": 353
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Tales of Purin Purin",
+                        "link_title": "/wiki/Wikipedia:ja:\u30d7\u30ea\u30f3\u30d7\u30ea\u30f3\u7269\u8a9e",
+                        "is_wikipedia": false,
+                        "start": 199,
+                        "end": 245
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Pudding Pudding",
+                        "link_title": "/wiki/Pudding Pudding",
+                        "is_wikipedia": false,
+                        "start": 66,
+                        "end": 85
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "commodore_pudding_pudding"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "nostalgic",
+                        "casual"
+                    ],
+                    "topics": [
+                        "anime_reference",
+                        "puppet_show",
+                        "childhood"
+                    ],
+                    "importance": "hight",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda recalls a puppet show from his childhood, stating that the character was not directly modeled after it, but he appreciates the similarity noticed by the reader."
+            }
+        ],
+        "page": "90",
+        "chapter_number": "320",
+        "page_header": null
+    },
+    {
+        "qa": [
+            {
+                "number": 9,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello, Oda-sensei. I have always enjoyed reading [[One Piece (Manga)|One Piece]]. Now forgive me for being so blunt, but I want to see Luffy try on all the wigs in the changing room on 2nd panel of p. 168 in Volume 33! Please, Oda-sensei!! Do it for me!!\n-P.N. Naopi-",
+                        "matches": [
+                            [
+                                49,
+                                80,
+                                "One Piece (Manga)|One Piece"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Oh yes, all those mysterious costumes. I left that one up to my staff member Y-san, since that's in his field of interest. He happens to be the father of one child\u00a0who loves [[Wikipedia:Sailor Moon|Sailor M**n]] very much. By the way, my workplace is a collection of freaks and weirdos.\n\n[[File:SBS Vol 34_ 03.png|top|500px|Bishoujo Senshi (Pretty Girl Warriors), from left to right: Luffymoon, Baka-tono Luffy, Yankee Luffy, Oyaji Luffy]]\n\nThey all look pretty intimidating, don't they?\n\n\n[[File:SBS34 4 Davy Back Fight.png|thumb|180px|The Foxy Pirates mention Peanuts Strategy.]]",
+                        "matches": [
+                            [
+                                174,
+                                211,
+                                "Wikipedia:Sailor Moon|Sailor M**n"
+                            ],
+                            [
+                                288,
+                                439,
+                                "File:SBS Vol 34_ 03.png|top|500px|Bishoujo Senshi (Pretty Girl Warriors), from left to right: Luffymoon, Baka-tono Luffy, Yankee Luffy, Oyaji Luffy"
+                            ],
+                            [
+                                490,
+                                581,
+                                "File:SBS34 4 Davy Back Fight.png|thumb|180px|The Foxy Pirates mention Peanuts Strategy."
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS Vol 34_ 03.png",
+                        "size": "500",
+                        "start": 288,
+                        "end": 439
+                    },
+                    {
+                        "file": "SBS34 4 Davy Back Fight.png",
+                        "size": "180",
+                        "start": 490,
+                        "end": 581
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "One Piece",
+                        "link_title": "/wiki/One Piece (Manga)",
+                        "is_wikipedia": false,
+                        "start": 49,
+                        "end": 80
+                    },
+                    {
+                        "text": "Sailor M**n",
+                        "link_title": "/wiki/Wikipedia:Sailor Moon",
+                        "is_wikipedia": false,
+                        "start": 174,
+                        "end": 211
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "costumes",
+                        "Sailor Moon",
+                        "workplace dynamics"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "D: Reader asks to see Luffy try on wigs, Oda mentions leaving it to staff member with interest in costumes."
+            },
+            {
+                "number": 10,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "In Volume 33, \"Davy Back Fight!!\" p. 152, what do peanuts have to do with \"Peanuts Strategy\"?\n-P.N. Kissa-",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I dunno... I tried using it in a sense like \"coward\". For fun. It's not like I'm making fun of peanuts or anything. Peanuts from Chiba are yummy.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [
+                        "Chiba"
+                    ],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "Davy_Back_Fight",
+                        "Peanuts_Strategy"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda explains that the 'Peanuts Strategy' is used in the sense of 'coward' for fun, not to make fun of peanuts, and mentions that peanuts from Chiba are yummy."
+            }
+        ],
+        "page": "150",
+        "chapter_number": "323",
+        "page_header": "SBS Vol 34 02.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 11,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Would you care for some\u00a0 delicious green onion cakes?\n\n[[File:SBS34 5 Negikuma.png|right|100px]]P.N. Green Onion Bear, Maria",
+                        "matches": [
+                            [
+                                55,
+                                96,
+                                "File:SBS34 5 Negikuma.png|right|100px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Awesome, green onion cakes! Wha? I can really have some? Mmnn! I can hardly describe this wonderful harmony brought out by the taste of green onions and cream...\n\n*munch* *munch* *munch* (Collapse!) *AMBULANCE SOUND BLARING*\n\n\n[[File:BS Vol 34 04.png|right|120px]]",
+                        "matches": [
+                            [
+                                227,
+                                264,
+                                "File:BS Vol 34 04.png|right|120px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS34 5 Negikuma.png",
+                        "size": "100",
+                        "start": 55,
+                        "end": 96
+                    },
+                    {
+                        "file": "BS Vol 34 04.png",
+                        "size": "120",
+                        "start": 227,
+                        "end": 264
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "happy",
+                        "funny"
+                    ],
+                    "topics": [
+                        "food"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "D asks Oda if he wants some green onion cakes, and he seems excited about it, describing the wonderful taste, but then collapses after eating them."
+            },
+            {
+                "number": 12,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchi, greetings! I've been harboring some doubts lately. In [[Chapter 277]] of Volume 30, when Luffy is trying to escape from the giant [[Nola|anaconda]], he opens up the snake's eyelids, but how can he do that when he's inside the eye? Please ask Luffy how he did that!!",
+                        "matches": [
+                            [
+                                63,
+                                78,
+                                "Chapter 277"
+                            ],
+                            [
+                                139,
+                                156,
+                                "Nola|anaconda"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yeah I know, that didn't make any sense. Luffy! Come here!!\n\nLuffy: What? What's the problem? There's nothing wrong about this.",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes there is! How do you raise the eyelid from inside the eyeball? And while we're on that subject, how can you be INSIDE the eyeball in the first place?!\n\nLuffy: It's all right, don't worry about it. Wasn't it funny?",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yeah, I guess it was! That's the key.\n\nLuffy: Yep yep, ahahaha.",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Ahahahahaha...",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "anaconda",
+                        "link_title": "/wiki/Nola",
+                        "is_wikipedia": false,
+                        "start": 139,
+                        "end": 156
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Chapter 277",
+                        "link_title": "/wiki/Chapter 277",
+                        "is_wikipedia": false,
+                        "start": 63,
+                        "end": 78
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "physical_laws",
+                        "joke"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "A reader questions Luffy's ability to open a snake's eye from the inside in Chapter 277, to which Oda and Luffy dismiss the concern as humorous."
+            },
+            {
+                "number": 13,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei, good afternoon. Try saying Nami's special attack \"Tornado Tempo\" (''Torun\u0113do Tenpo'') but insert \"chi\" instead of \"te\". If you don't say it, you can't end the SBS.",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "That's TORNADO CHINPO. TORNAAADO CHINPO!! OK! See you next volume!! Oh, wait. Isn't this... sexual harassment?\n\nHey... Was that...\u00a0''sexual harassment?''\n\n''(Note: \"Chinpo\" means \"penis\" in Japanese.)''",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "nami"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny",
+                        "surprised"
+                    ],
+                    "topics": [
+                        "japanese_language",
+                        "sexual_harassment"
+                    ],
+                    "importance": "high",
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader challenges Oda to say Nami's attack but with an inappropriate substitution, and Oda complies, but then catches himself and questions if it constituted sexual harassment."
+            }
+        ],
+        "page": "190",
+        "chapter_number": "325",
+        "page_header": null
+    }
+]

@@ -1,0 +1,921 @@
+[
+    {
+        "qa": [
+            {
+                "number": 1,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchi!! Let's take a picture together!! The words will be\u2014of course ONE \"PEACE\"-- *FLASHES<3* Oh... and also, SBS START!! Yess, I said it-!! P.N. one piece LOVE",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Say! One PEA~~CE!!....AH!! IT STARTED!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "happy"
+                    ],
+                    "topics": [
+                        "SBS",
+                        "One Piece",
+                        "fan interaction"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": true
+                },
+                "summary": "A fan asks Oda to take a picture together with a 'One Peace' phrase, and Oda starts the SBS session with the fan's phrase."
+            },
+            {
+                "number": 2,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello! A question to Franky!! My friend shoots Coup de Vents at me in class! But I can't fire Coup de Vents. (sweat) How should I attack? From Ms Birthday",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Well ya gotta fire back a \"Coup de Boo\" of course. Right, Franky?\n\nF: Well duh!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "franky"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "sweat",
+                        "funny"
+                    ],
+                    "topics": [
+                        "fighting_techniques"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "Ms Birthday asks how to respond to a friend shooting Coup de Vents in class; Oda and Franky suggest countering with a 'Coup de Boo'."
+            },
+            {
+                "number": 3,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "When Fleet Admiral Sengoku uses his ability, why does his hair turn into caviar? by tomoP",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Phew- what a nice day, today we caught lots! Fresh caviar on top of hot rice <3 here ya go!! THE HECK, WHAT IS THAT, A SENGOKU-AND-CAVIAR-ON-RICE BOWL?! YOU IDIOT!! Course it's not caviar. Fleet Admiral Sengoku is starting to look tasty.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "sengoku"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "sengoku_ability",
+                        "humor"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Sengoku's hair doesn't actually turn into caviar, despite its appearance, as Oda humorously points out."
+            },
+            {
+                "number": 4,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda sensei--, what is Fleet Admiral Sengoku's ability? I'm real curious. P.N. SOD",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yeah yeah, if ya ask me normally, I'd easily answer. That is. It actually appeared immensly easily, but it's the same as Marco's. Mythical Zoan-type, Hito Hito no Mi, Model \"Daibutsu\". I don't know about Buddha being human or mythical beast, but it's a species classification. Forgive me.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "sengoku",
+                        "marco"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "curious"
+                    ],
+                    "topics": [
+                        "devil_fruit",
+                        "mythical_zoan",
+                        "sengoku_ability"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Sengoku's ability is the Mythical Zoan-type Hito Hito no Mi, Model 'Daibutsu' which is the same as Marco's ability."
+            }
+        ],
+        "page": "26",
+        "chapter_number": "585",
+        "page_header": "SBS60 Header 1.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 5,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "On volume 56 pg 195, does the \"shuu wakki- masserri\" thing Buggy says mean something like \"open sesame\"? P.N. Ace LOVE",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Um, that is--. I don't really know much about this, haven't you heard before? Those Christian kids saying \"shuu wakki- masserri \u266a\" in a church. If you suddenly hear it, it's hard to understand, but it means \"shu wa kimaseri\" (\"here comes our holy master\" in a Japanese song) and I had the godlike Buggy sing it. (haha) It's like for fun. The title is something like \"come here many peoples\". Bored people can look it up.\n\n\n[[File:SBS60 2 Ivankov Hair.png|right|140px]]",
+                        "matches": [
+                            [
+                                423,
+                                468,
+                                "File:SBS60 2 Ivankov Hair.png|right|140px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS60 2 Ivankov Hair.png",
+                        "size": "140",
+                        "start": 423,
+                        "end": 468
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "buggy"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "japanese_culture",
+                        "language",
+                        "buggy"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda explains that Buggy's 'shuu wakki-masserri' is a mix of different phrases and a reference to a Japanese song, 'shu wa kimaseri'."
+            },
+            {
+                "number": 6,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "In Volume 58, smeared into the Marines vs Whitebeard Pirates war, forgetting to breathe, I'll... I'll... NOT DIE!! Here's a question. In volume 58, Inazuma came out of Iva's hair! Can it possibly be that you can live in Iva's hair? Tell me if you please. My lifelong wish. P.N. colona",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "For one night, one person is {{B}}5,000. The limit is up to 3 people. When moving, if the ocean is seen, another payment will be needed for the \"Ocean View\". The top suite in the crown is also available, and it is very comfortable there. The over 30 people \"face growth hormone service\" is also available, so please make a call.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "inazuma",
+                        "iva"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "determined"
+                    ],
+                    "topics": [
+                        "marines_vs_whitebeard_pirates_war"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "The reader inquires about living in Iva's hair, but Oda responds with unrelated information about luxury accommodations, likely as a playful evasion."
+            },
+            {
+                "number": 7,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Is it not possible to become a One Piece manager if you're a girl? Are shonen manga managers always men after all--? BY flowerpot man",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "A SEXY, BIG BREASTED BEAUTY PLEASE!!!! Then, I'll work super hard! I'll feel like I can do it! But the jump editor group is a bunch of perverts so you shouldn't, for your safety.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "humorous"
+                    ],
+                    "topics": [
+                        "gender_equality",
+                        "shonen_manga",
+                        "workplace"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader asks if a girl can become a One Piece manager, and Oda jokes about wanting a sexy, big breasted beauty, but warns about the perverted jump editor group."
+            }
+        ],
+        "page": "46",
+        "chapter_number": "586",
+        "page_header": "SBS60 Header 2.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 8,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oddachi, I found a mistake! On volume 59, chapter 584, Luffy bleeds because of Porchemy's gloves, right?? But but, in volume 1 chapter 2, Alvida's iron club with the same spikies don't work on Luffy! Is this OK?? Give me something! P.N.MONIO",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I see. It's OK. It's a slight problem we're talking about here, but look closely. The spikes' angles are different, right?!! I made this difference in the Impel Down Jailer Beasts and all as well, but even if the weapons all have the same spikies, the ones that work on Luffy have fine, sharp points, and I make them look like they can even pierce rubber. On the other hand, I drew Alvida's iron club dull so it looks like it would only put force on rubber. So it's OK!! I won't give you anything~!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "luffy",
+                        "alvida"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "manga_discrepancy",
+                        "artistic_choice"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda explains that the different angles and sharpness of spikes on weapons determine whether they can harm Luffy, making the discrepancy between Porchemy's gloves and Alvida's iron club acceptable."
+            },
+            {
+                "number": 9,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Question out of nowhere. Is Marco's head \"bananas\"? Or is it a \"pineapple\"? and, is Kid's head a \"tulip\"? Or is it a \"Chrysanthemum\"? I wonder. I wonder a lot. from Kaho",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "ALREADY NARROWED DOWN TO 2 CHOICES?! (shock) Well, it seems like I have to pick one or the other, so I guess if I had to choose, I would say Marco would be a \"pineapple\" and Kid is a \"Chrysanthemum\"... uh... WHAT IS THIS CONVERSATION HERE?!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "marco",
+                        "kid"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "shock",
+                        "funny"
+                    ],
+                    "topics": [
+                        "character_design",
+                        "silly"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Marco's head is likened to a 'pineapple' and Kid's head is compared to a 'Chrysanthemum'."
+            },
+            {
+                "number": 10,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Some time earlier, I was watching the movie \"ROCKY\" and noticed this, but the character Rocky's pet goldfish's name was to my astonishment, \"Moby Dick\"!! That's the same as the Whitebeard pirates' main ship's name! Did you take \"Moby Dick\" from there?? P.N.Negishi",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "\"ROCKY\", huh? Brings me back to the old times. It was a super hit boxing movie. -- I see, giving a goldfish this name is a pun right there. \"Moby Dick\" is the title of a super famous novel in America by a person named Melville, about a white whale and one man's duel. In Japan, the title was changed to \"Hakugei\". I thought it would be perfect for Whitebeard and borrowed the name.",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "M.K.K.(Matomete Kakatte Koi; Come all at once) Corner~!! Yes, this!! It has started, this thing!! I did it in the last volume as well, and you guys all want to make up the characters' birthdays so badly, but it won't go that easy, you jerks-!! Are you kidding me!! \"I'll stop you!!\" corner, it is!! Come!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "whitebeard"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "moby_dick",
+                        "character_birthdays"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda borrowed the name 'Moby Dick' for the Whitebeard pirates' main ship from the super famous novel by Melville, inspired by the pun in the movie 'ROCKY'."
+            },
+            {
+                "number": 11,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello Odacchi Sensei\u2606 I'm always happily reading your books. This is sudden, but is Buggy's birthday 8(Bara)/8(Bara) and Mr. 3's birthday 3/3 OK?! P.N. Dumpling",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Okay~~\u00a0\uff08\u30fb\u25bd\u30fb\uff09/",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "buggy",
+                        "mr_3"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "happy"
+                    ],
+                    "topics": [
+                        "birthday_celebrations"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda confirms that Buggy's birthday is indeed 8/8 and Mr. 3's birthday is 3/3."
+            },
+            {
+                "number": 12,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello Odacchi!! Out of the blue, I have thought of Rayleigh's birthday\u2606 \n\n*Meigh(Dark)\u2192May\u21925 \n*O(King)\u219213th Trump card\u219213th\n\nHow's that? by Azuma",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "SUuurEEe (\u2267\u25bd\u2266)/",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "silvers_rayleigh"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "birthday",
+                        "numerology"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A fan suggests a connection between Rayleigh's birthday and the words 'Meigh' and 'O', to which Oda playfully responds with 'SUuurEEe (\u2267\u25bd\u2266)/'."
+            },
+            {
+                "number": 13,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "About Sabo's birthday,\u300cSa(3)a~bu(2)o(0)~\u300d(super slow replayed)=3/20; how's that? by Ebisu Taishougunn",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Suree~\uff08\u30fb\u25bd\uff1c\uff09\u266d",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "sabo"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "happy"
+                    ],
+                    "topics": [
+                        "birthday"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Ebisu Taishougunn asks about Sabo's birthday being reflected as 3/20 due to slow replay, and Oda responds positively."
+            },
+            {
+                "number": 14,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Nice to meet you!! From the time it started, I am a big fan of One Piece<3 By the way Odacchi...the rookies that appeared at Sabaody Archipelago; aren't they cool? I would like to know their profiles. Also, can their birthdays be something like this? P.N. Ilovecats<3\n\n{| border=\"1\" cellpadding=\"1\" cellspacing=\"1\" id=\"#00FFFF\"\n|Eustass \"Captain\" Kid 1(Ki)/10(d)\n|[[File:Eustass Kid Portrait.png|100px]]\n|-\n|\"Massacre Soldier\" Killer 2/2 (<u>Buji</u>n; soldier)\n|[[File:Killer Portrait.png|100px]]\n|-\n|Basil Hawkins 9/9 (Fortune day)\n|[[File:Basil Hawkins Portrait.png|100px]]\n|-\n|Urouge 8/1 (Hakaisou; Fallen Monk)\n|[[File:Urouge Portrait.png|100px]]\n|-\n|\"Big Eater\" Jewerly Bonney 9/1 (Oogui; Big eater\u21920091)\n|[[File:Jewelry Bonney Portrait.png|100px]]\n|-\n|Bepo 11/20 (Fur day)\n|[[File:Bepo Portrait.png|100px]]\n|-\n|Scratchmen Apoo 3/19 (Day of Music)\n|[[File:Scratchmen Apoo Portrait.png|100px]]\n|}",
+                        "matches": [
+                            [
+                                364,
+                                403,
+                                "File:Eustass Kid Portrait.png|100px"
+                            ],
+                            [
+                                463,
+                                497,
+                                "File:Killer Portrait.png|100px"
+                            ],
+                            [
+                                535,
+                                576,
+                                "File:Basil Hawkins Portrait.png|100px"
+                            ],
+                            [
+                                617,
+                                651,
+                                "File:Urouge Portrait.png|100px"
+                            ],
+                            [
+                                712,
+                                754,
+                                "File:Jewelry Bonney Portrait.png|100px"
+                            ],
+                            [
+                                781,
+                                813,
+                                "File:Bepo Portrait.png|100px"
+                            ],
+                            [
+                                855,
+                                898,
+                                "File:Scratchmen Apoo Portrait.png|100px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Alrighty then~ \uff08\u30fb\u25bd\u30fb\uff09/ But Drake and Bege were hard to understand so I took them off. I'm counting on someone else for their birthday--! Oh, and P.N. Black cat chan from the Chiba area, you gave me over 50 postcards telling me to make Marco's birthday 10/5, but they came right after it was made official by P.N. Maru Chan in the last volume--. But I've got your will. Good thing it was the same day.",
+                        "matches": []
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "Eustass Kid Portrait.png",
+                        "size": "100",
+                        "start": 364,
+                        "end": 403
+                    },
+                    {
+                        "file": "Killer Portrait.png",
+                        "size": "100",
+                        "start": 463,
+                        "end": 497
+                    },
+                    {
+                        "file": "Basil Hawkins Portrait.png",
+                        "size": "100",
+                        "start": 535,
+                        "end": 576
+                    },
+                    {
+                        "file": "Urouge Portrait.png",
+                        "size": "100",
+                        "start": 617,
+                        "end": 651
+                    },
+                    {
+                        "file": "Jewelry Bonney Portrait.png",
+                        "size": "100",
+                        "start": 712,
+                        "end": 754
+                    },
+                    {
+                        "file": "Bepo Portrait.png",
+                        "size": "100",
+                        "start": 781,
+                        "end": 813
+                    },
+                    {
+                        "file": "Scratchmen Apoo Portrait.png",
+                        "size": "100",
+                        "start": 855,
+                        "end": 898
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "eustass_kid",
+                        "killer",
+                        "basil_hawkins",
+                        "urouge",
+                        "jewelry_bonney",
+                        "bepo",
+                        "scratchmen_apoo"
+                    ],
+                    "places": [
+                        "sabaody_archipelago",
+                        "chiba_area"
+                    ],
+                    "emotions": [
+                        "happy"
+                    ],
+                    "topics": [
+                        "rookies",
+                        "birthdays"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "Oda provides profiles and birthdays for the rookies at Sabaody Archipelago, but removes Drake and Bege. Oda acknowledges a reader's request for Marco's birthday."
+            },
+            {
+                "number": 15,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda Sensei!! Hello!! Out of the blue, but please give my [[Wikipedia:Axolotl|Axolotl]] (unknown gender) a name!! Please!! P.N.GwaaaaaaaaWoaaaaaah",
+                        "matches": [
+                            [
+                                57,
+                                86,
+                                "Wikipedia:Axolotl|Axolotl"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Oh a Whooper Looper, huh? It was popular back then. Those cute Mexican salamanders. In general, people call them \"Axolotl\"(pronounced \"Ahoro-toru\"). How's this? \"AhoAho Ahonosuke\"(DumbDumb Dumbbunny). Please be nice to it.\n\n\n[[File:SBS60 5 Sake Cups.png|right|180px]]",
+                        "matches": [
+                            [
+                                225,
+                                267,
+                                "File:SBS60 5 Sake Cups.png|right|180px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS60 5 Sake Cups.png",
+                        "size": "180",
+                        "start": 225,
+                        "end": 267
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Axolotl",
+                        "link_title": "/wiki/Wikipedia:Axolotl",
+                        "is_wikipedia": false,
+                        "start": 57,
+                        "end": 86
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "happy"
+                    ],
+                    "topics": [
+                        "animal",
+                        "pet",
+                        "name",
+                        "funny"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "D: Reader asks Oda to name their axolotl, Oda suggests 'AhoAho Ahonosuke' (DumbDumb Dumbbunny) after explaining axolotls are called 'Ahoro-toru'."
+            },
+            {
+                "number": 16,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello Oda Sensei! Is it possible that in volume 58, chapter 558, on the 3rd box of the 11th page, I see the 3rd person (Sabo)'s cup? P.N. Saitouryu",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Wow- again, looking at those teeny parts. The answer is easy, if you read chapter 585 in this volume, you'll see the same scene and you'll be able to tell it's Sabo's cup, but at the time in chapter 558, \"Brothers\", if I revealed Sabo, things would get complicated, so I secretly drew it. Still, from back then, there were many readers pointing out \"what is this\", and I seriously freaked out. What in the world are you people!! You're correct!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "sabo"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "surprised",
+                        "funny"
+                    ],
+                    "topics": [
+                        "sabo_appearance",
+                        "attention_to_detail"
+                    ],
+                    "importance": "hight",
+                    "isCharacterInsertion": false
+                },
+                "summary": "In volume 58, chapter 558 of One Piece, the 3rd person's cup is indeed Sabo's, but Oda couldn't reveal it at the time for plot reasons."
+            },
+            {
+                "number": 17,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I was reading ONE PIECE and noticed all of the sudden, but other than character introducing and SBS, you never copy and paste a picture you already drew, right? Is this a policy-type thing of yours? From Snow Pea",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "So, you looked there. Well, yeah. I never copy and pasted before. Uhhh, well we all receive our papers from the publisher, and it pretty much goes like 1 page= money. Like, if you draw on 1 page, they pay you. So if you paste a drawing from the past, isn't that kinda cheating? (haha) Of course, I don't complain about other people. From my personality, I can't stand pasting, plus if I draw everything, I feel pretty much secure that I'm drawing manga with my full power. My personality. And I'm positive; in other words not perverted. Everyone.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "drawing_policy",
+                        "work_ethic",
+                        "manga_creation"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda never copy and pastes drawings in One Piece, as he feels it's cheating and prefers to draw everything from scratch to feel secure in his work."
+            },
+            {
+                "number": 18,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Good afternoon Odacchi-\u266a In chapter 589, Luffy's clothes in the 4th box of page 4 says \"Sobauchi\", the 5th box of page 8 says \"Asagao\", the 3rd box of page 11 is \"Kankyuki\", and 4th box of the 12th page says \"Tapioca\", am I correct? My sister found it. P.N.springrain soup",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Hm. One of them is wrong. About Luffy and Ace's tanktops, I received lots of point-outs, so let's just check the answers right here. First, Ace's tanktops. Then Luffy's. (Chap. 585~589.) *(Luffy's tanktops have puns in them that only Japanese people will understand, so there will just be the meanings listed.)\n[[File:Ace's Tank Tops.png|center|500px]]{{-}}\n<span style=\"position:absolute; right:100px;\">[[File:Portgas D. Ace at Age 10.png|thumb|150px|Ace wearing tanktop saying \"Explosion\"]]</span>\nAce\u2193\n*\"\u7206\u6483\" Bakugeki; Explosion\n*\"\u7121\u7f6a\" Muzai; Innocent\n*\"\u66b4\u529b\" Bouryoku; Violence\n*\"\u52dd\u8a34\" Shouso; Winning\n*\"\u72ec\u7acb\" Dokuritsu; Live Alone\n*\"\u7565\u596a\" Ryakudatsu; Steal\n*\"\u8fbb\u65ac\" Tsujigiri; Cutting Passerby People\n*\"\u8352\u91ce\" Kouya; Abandoned Field\n*\"\u5149\u7dda\" Kousen; Ray of Light\n*\"\u672c\u80fd\" Honnou; Instinct\n*\"\u4ec1\u7fa9\" Jingi; Respect\n{{-}}\n\n[[File:Luffy's Tank Tops.png|center|500px]]{{-}}\n<span style=\"position:absolute; right:100px;\">[[File:Luffy's Tamago Jiken Top.png|thumb|150px|Luffy wearing tanktop saying \"Tamago Jiken\"]]</span>\nLuffy\u2193\n*Seaton (Seton)\n*Tamago Jiken (Egg Disaster)\n*F1\n*Shishi Kaba Buu (Shish kebab)\n*Newton\n*Lazania (Lasagna)\n*Sobauchi (Noodle Making)\n*Asagao (Morning Glory)\n*Eskimo\n*Kanki Uki (Dry season and rainy season)\n*Tapioca\n*Champion\n\nWell, something along those lines. One thing that I hate is that in Chapter 589, pg 10, box 3, I also can't read those words (haha) It says \"?NO\" but what animal was \"?\".. can't remember. Oh well. Anyway, the explanation is that I wanted to say that they do indeed change clothes, and so I twisted my brain a little right there. Well, SBS ends here! From pg 186, we have Voice Actor SBS!!",
+                        "matches": [
+                            [
+                                311,
+                                352,
+                                "File:Ace's Tank Tops.png|center|500px"
+                            ],
+                            [
+                                404,
+                                492,
+                                "File:Portgas D. Ace at Age 10.png|thumb|150px|Ace wearing tanktop saying \"Explosion\""
+                            ],
+                            [
+                                800,
+                                843,
+                                "File:Luffy's Tank Tops.png|center|500px"
+                            ],
+                            [
+                                895,
+                                988,
+                                "File:Luffy's Tamago Jiken Top.png|thumb|150px|Luffy wearing tanktop saying \"Tamago Jiken\""
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "H.D.K.!! (Hai, domo, konnichiwa; Yes, hi, hello)\n\nThe..7th time!! Voice actor SBS!! Now, this time we have a person with possibly the biggest personality gap. A cautious, mysterious woman, Nico Robin, who is actually voiced by an un-cautious, silly woman!!\n\nHere, I introduce Yuriko Yamaguchi ''IN THE HOUSE! ''",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Ok, come in Miss Yuriko a.k.a. Yuruko~ (Yuruko= pun with Yuriko's name and personality since it means \"dazed girl\")\n\nY: I'M NICO ROBIN <3",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Hmmm~~ That's your character name, isn't it? Oh well. Pointing out all the details will not allow us to go forward. Anyhow, she does start to look straight forward when she's acting...\n\nY: Ah, this tastes good.",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "HEY!!! I didn't tell you to start eating the snacks yet!! Hey, hey--!! Don't mind the tea! Don't mind it!! I'm going to start it--!! Oh, hey, do you know what SBS stands for? SBS.\n\nY: (S)Shimatta (B)Brook (S)Sashichatta!! (Shoot, I stabbed Brook)",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "DON'T~~!! (shock) Geez!!!\n\nY: Oh, Odacchi, want some tea?",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I SAID DON'T MIND MEEE!!!\n\nY: I know! SBS stands for (S)Shibaraku (B)Bonyari (S)Shimasennka? (Care to daze for a bit?)",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "NO?! Gosh~~!! (vein pops) Do the SBS! Gosh~!",
+                        "matches": []
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "Ace's Tank Tops.png",
+                        "size": "500",
+                        "start": 311,
+                        "end": 352
+                    },
+                    {
+                        "file": "Portgas D. Ace at Age 10.png",
+                        "size": "150",
+                        "start": 404,
+                        "end": 492
+                    },
+                    {
+                        "file": "Luffy's Tank Tops.png",
+                        "size": "500",
+                        "start": 800,
+                        "end": 843
+                    },
+                    {
+                        "file": "Luffy's Tamago Jiken Top.png",
+                        "size": "150",
+                        "start": 895,
+                        "end": 988
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "luffy",
+                        "ace",
+                        "nico_robin"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "clothes_change",
+                        "SBS",
+                        "voice_actors"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "Oda corrects Luffy's tanktop puns, mentions a mistake in Chapter 589, and introduces the voice actor for Nico Robin amid humorous banter."
+            },
+            {
+                "number": 29,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "To Yamaguchi sensei <3 Hello. I am a 12-year-old that fell in love with Robin's voice!! This is a serious question, but what was your very first impression on Robin?! Please tell me!! P.N. Eruption\n\nY: A REAL GOOD-LOOKIN' WOMAN!!",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Ok, time is pretty much up, good work Miss Yuriko - ! Hm? What the heck is this drawing?! (shock)\n\nIT'S TERRORISM~~!!! Everyone run!!! far!! far!...",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "robin"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "shock",
+                        "funny"
+                    ],
+                    "topics": [
+                        "character_impression",
+                        "art",
+                        "comedy"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": true
+                },
+                "summary": "D falls in love with Robin's voice, asking for Yamaguchi sensei's first impression, getting the answer 'A REAL GOOD-LOOKIN' WOMAN!!' Oda reacts in shock to a drawing, calling it 'TERRORISM'."
+            }
+        ],
+        "page": "106",
+        "chapter_number": "589",
+        "page_header": "SBS60 Header 3.png"
+    }
+]

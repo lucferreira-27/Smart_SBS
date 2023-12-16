@@ -1,0 +1,1209 @@
+[
+    {
+        "qa": [
+            {
+                "number": 0,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "N/A",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Hello!! How are you all doing?!! Hi, I'm the author. And I'm first, this time! No one's taking over my corner THIS time!! Now, I'd like to get the questions started! So! Let the SBS!! Begim.....!! I screwed that up... It's \"n\"... It ends with N! Oh, man, I'm a wreck. If I get reborn, I'd wanna be... the wall of a girl's bath... ( \u2190 very optimistic)\n\n\n[[File:SBS_vol_49_08.png|right|100px]]",
+                        "matches": [
+                            [
+                                353,
+                                391,
+                                "File:SBS_vol_49_08.png|right|100px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS_vol_49_08.png",
+                        "size": "100",
+                        "start": 353,
+                        "end": 391
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "funny",
+                        "optimistic"
+                    ],
+                    "topics": [],
+                    "importance": "hight",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda starts the Q&A session, mentioning he's entering a 'slump' stage."
+            },
+            {
+                "number": 1,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I believe that with [[Usopp]]'s straight man powers and my humorous antics, we could aim for the very pinnacle of two-man comedy. Please let me form a combo with Usopp. P.N. Sensei can think of our combo name",
+                        "matches": [
+                            [
+                                20,
+                                29,
+                                "Usopp"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Okay! Go be stars in the comedy world! Your combo name is... \"Deserting Under Enemy Fire\".",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Usopp",
+                        "link_title": "/wiki/Usopp",
+                        "is_wikipedia": false,
+                        "start": 20,
+                        "end": 29
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "usopp"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "hopeful",
+                        "funny"
+                    ],
+                    "topics": [
+                        "comedy",
+                        "two_man_combo"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "D wants to team up with Usopp for a comedy act, and O creates their combo name as 'Deserting Under Enemy Fire'."
+            },
+            {
+                "number": 2,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "My entire family is a huuuuge fan of One Piece, and we all follow it faithfully. Now, my question is this: in Volume 48, [[Chapter 460]], [[Nico Robin|Robin]] called Nami \"[[Nami|Nami-chan]]\". But before she had always called her \"Navigator\"!! Has Robin had a change of heart?! Please tell me. By the way, my mom's morning hair looks JUST like [[Brook]]'s!! P.N. Bear in the Forest",
+                        "matches": [
+                            [
+                                121,
+                                136,
+                                "Chapter 460"
+                            ],
+                            [
+                                138,
+                                158,
+                                "Nico Robin|Robin"
+                            ],
+                            [
+                                172,
+                                190,
+                                "Nami|Nami-chan"
+                            ],
+                            [
+                                344,
+                                353,
+                                "Brook"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Your mom looks like Brook... THAT'S AMAZING!! Gotta love the funk. Now, about Robin. I've noticed that a lot of readers picked up on this, which makes me very happy. In [[Chapter 475]] of this volume, Robin says \"Are you all right, Nami?!\" It appears she'll be calling her \"Nami\" from now on. She also started referring to the other members by name. Perhaps this is a consequence of Robin truly opening her heart to her friends and crewmates after the events of [[Enies Lobby]]. Despite the huge size of this story, I still hope to depict the little, human things, like this.",
+                        "matches": [
+                            [
+                                169,
+                                184,
+                                "Chapter 475"
+                            ],
+                            [
+                                462,
+                                477,
+                                "Enies Lobby"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Robin",
+                        "link_title": "/wiki/Nico Robin",
+                        "is_wikipedia": false,
+                        "start": 138,
+                        "end": 158
+                    },
+                    {
+                        "text": "Nami-chan",
+                        "link_title": "/wiki/Nami",
+                        "is_wikipedia": false,
+                        "start": 172,
+                        "end": 190
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Chapter 460",
+                        "link_title": "/wiki/Chapter 460",
+                        "is_wikipedia": false,
+                        "start": 121,
+                        "end": 136
+                    },
+                    {
+                        "text": "Brook",
+                        "link_title": "/wiki/Brook",
+                        "is_wikipedia": false,
+                        "start": 344,
+                        "end": 353
+                    },
+                    {
+                        "text": "Chapter 475",
+                        "link_title": "/wiki/Chapter 475",
+                        "is_wikipedia": false,
+                        "start": 169,
+                        "end": 184
+                    },
+                    {
+                        "text": "Enies Lobby",
+                        "link_title": "/wiki/Enies Lobby",
+                        "is_wikipedia": false,
+                        "start": 462,
+                        "end": 477
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "nico_robin",
+                        "nami",
+                        "brook"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "happy"
+                    ],
+                    "topics": [
+                        "friendship",
+                        "character_development",
+                        "enies_lobby"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Robin started calling Nami by her name after opening her heart to her friends post Enies Lobby."
+            }
+        ],
+        "page": 28,
+        "chapter_number": 471,
+        "page_header": "SBS Vol 49 header.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 3,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei! What would [[Kalifa]] look like if she had eaten the [[Ushi Ushi no Mi, Model: Giraffe]] instead, at the Judiciary Tower? P.N. Shiranchon\n\n{|\n|",
+                        "matches": [
+                            [
+                                23,
+                                33,
+                                "Kalifa"
+                            ],
+                            [
+                                65,
+                                100,
+                                "Ushi Ushi no Mi, Model: Giraffe"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Over on the right. It's not too bad, if I say so myself.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Kalifa",
+                        "link_title": "/wiki/Kalifa",
+                        "is_wikipedia": false,
+                        "start": 23,
+                        "end": 33
+                    },
+                    {
+                        "text": "Ushi Ushi no Mi, Model: Giraffe",
+                        "link_title": "/wiki/Ushi Ushi no Mi, Model: Giraffe",
+                        "is_wikipedia": false,
+                        "start": 65,
+                        "end": 100
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "kalifa"
+                    ],
+                    "places": [
+                        "judiciary_tower"
+                    ],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "devil_fruit"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Kalifa with the Ushi Ushi no Mi, Model: Giraffe would look 'not too bad' according to Oda."
+            },
+            {
+                "number": 5,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "This is my first letter (okay, postcard)! Here's my question. In [[Hogback]]'s flashback scene in [[Chapter 468]], is that stuffed animal [[Perona]]'s holding actually [[Kumashi]]?!! If so, how did he get to be so freakin' huge?? P.N. Tonton",
+                        "matches": [
+                            [
+                                65,
+                                76,
+                                "Hogback"
+                            ],
+                            [
+                                98,
+                                113,
+                                "Chapter 468"
+                            ],
+                            [
+                                138,
+                                148,
+                                "Perona"
+                            ],
+                            [
+                                168,
+                                179,
+                                "Kumashi"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I've got two questions here. Very well spotted, in both cases. First, the Kumashi plushie. He did not grow up to be that size. Perona simply likes having Hogback create zombies based on her plushies. She got [[Wapol]]'s \"KABASHINSHI\" somewhere along the way, so it's quite likely that she had Hogback create his own version for her.\n|[[File:SBS vol 49 01.png|center|100px]]\n|}",
+                        "matches": [
+                            [
+                                208,
+                                217,
+                                "Wapol"
+                            ],
+                            [
+                                334,
+                                373,
+                                "File:SBS vol 49 01.png|center|100px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS vol 49 01.png",
+                        "size": "100",
+                        "start": 334,
+                        "end": 373
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Hogback",
+                        "link_title": "/wiki/Hogback",
+                        "is_wikipedia": false,
+                        "start": 65,
+                        "end": 76
+                    },
+                    {
+                        "text": "Chapter 468",
+                        "link_title": "/wiki/Chapter 468",
+                        "is_wikipedia": false,
+                        "start": 98,
+                        "end": 113
+                    },
+                    {
+                        "text": "Perona",
+                        "link_title": "/wiki/Perona",
+                        "is_wikipedia": false,
+                        "start": 138,
+                        "end": 148
+                    },
+                    {
+                        "text": "Kumashi",
+                        "link_title": "/wiki/Kumashi",
+                        "is_wikipedia": false,
+                        "start": 168,
+                        "end": 179
+                    },
+                    {
+                        "text": "Wapol",
+                        "link_title": "/wiki/Wapol",
+                        "is_wikipedia": false,
+                        "start": 208,
+                        "end": 217
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "perona",
+                        "kumashi",
+                        "hogback",
+                        "wapol"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "amused"
+                    ],
+                    "topics": [
+                        "zombies",
+                        "plushies",
+                        "flashback"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Perona's stuffed animal is not the real Kumashi; she has Hogback create zombies based on her plushies, including a version of Wapol's 'KABASHINSHI'."
+            }
+        ],
+        "page": "48",
+        "chapter_number": "472",
+        "page_header": null
+    },
+    {
+        "qa": [
+            {
+                "number": 6,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "[[image:SBS vol 49 03.png|left|120px]]",
+                        "matches": [
+                            [
+                                0,
+                                38,
+                                "image:SBS vol 49 03.png|left|120px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "...Hmmm... He's all, \"I'm gonna do it\". But do what? A futureman... does it...DOES WHAT?!! (GRR!!) \n...Sorry, I got mad. That was childish of me. Next postcard.\n\n''(Odacchi!!! This is a man from the future!!! <span style=\"font-size:75%\">I give up!! by Amisho \u2606</span>)''",
+                        "matches": []
+                    }
+                ],
+                "files": [
+                    {
+                        "file": ":SBS vol 49 03.png",
+                        "size": "120",
+                        "start": 0,
+                        "end": 38
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "angry",
+                        "childish"
+                    ],
+                    "topics": [],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader sends a drawing of a future man, prompting Oda to comically speculate on what the future man might be doing with frustration."
+            },
+            {
+                "number": 7,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I'VE STARTED A VERY DISCERNING SOBA SHOP. By Kimuchi-maru",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "GET OUTTA HERE!!! (GRR!!) ...Huff... huff... Sorry, that was childish of me.\n\n\n[[File:SBS Vol 49 04.png|right|100px]]",
+                        "matches": [
+                            [
+                                79,
+                                117,
+                                "File:SBS Vol 49 04.png|right|100px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS Vol 49 04.png",
+                        "size": "100",
+                        "start": 79,
+                        "end": 117
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "angry"
+                    ],
+                    "topics": [
+                        "food",
+                        "personal_life"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda reacts to a reader's claim of starting a discerning soba shop with a playful 'Get outta here!' and apology for his reaction."
+            },
+            {
+                "number": 8,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei, here's a very serious question. If [[Shanks]] was a deck hand on [[Gol D. Roger|Gold Roger]]'s ship, does that mean the guy who hit him and [[Buggy]] when they were fighting in Volume 3 was the captain of the ship? Or maybe an officer? by Sonoe-san",
+                        "matches": [
+                            [
+                                47,
+                                57,
+                                "Shanks"
+                            ],
+                            [
+                                77,
+                                104,
+                                "Gol D. Roger|Gold Roger"
+                            ],
+                            [
+                                152,
+                                161,
+                                "Buggy"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Ah yes, the story of Buggy and Shanks in their swabby days. That would mean the captain of their ship was none other than the Pirate King, Gold Roger. The man who scolded the two boys was the [[Silvers Rayleigh|first mate]]. I've had that set in stone since the very start, so I even made sure the anime staff knew that.\n\n\n[[File:SBS_vol_49_07.png|right|100px]]",
+                        "matches": [
+                            [
+                                192,
+                                223,
+                                "Silvers Rayleigh|first mate"
+                            ],
+                            [
+                                323,
+                                361,
+                                "File:SBS_vol_49_07.png|right|100px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS_vol_49_07.png",
+                        "size": "100",
+                        "start": 323,
+                        "end": 361
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Gold Roger",
+                        "link_title": "/wiki/Gol D. Roger",
+                        "is_wikipedia": false,
+                        "start": 77,
+                        "end": 104
+                    },
+                    {
+                        "text": "first mate",
+                        "link_title": "/wiki/Silvers Rayleigh",
+                        "is_wikipedia": false,
+                        "start": 192,
+                        "end": 223
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Shanks",
+                        "link_title": "/wiki/Shanks",
+                        "is_wikipedia": false,
+                        "start": 47,
+                        "end": 57
+                    },
+                    {
+                        "text": "Buggy",
+                        "link_title": "/wiki/Buggy",
+                        "is_wikipedia": false,
+                        "start": 152,
+                        "end": 161
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "shanks",
+                        "gold_roger",
+                        "buggy",
+                        "silvers_rayleigh"
+                    ],
+                    "places": [],
+                    "topics": [
+                        "pirate_king",
+                        "gold_roger_ship",
+                        "buggy_and_shanks_story"
+                    ],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "importance": [
+                        "high"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Shanks and Buggy were scolded by Gol D. Roger, the captain, and Silvers Rayleigh, the first mate, during their swabby days."
+            },
+            {
+                "number": 9,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei, hello!! Here's my question. [[Oars]] might be very big, but is he a giant?? If he IS a giant, does that mean he's from [[Elbaf]]? Explain the background, here! P.N. Nara Nara",
+                        "matches": [
+                            [
+                                40,
+                                48,
+                                "Oars"
+                            ],
+                            [
+                                131,
+                                140,
+                                "Elbaf"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "You know how there's always one REALLY BIG guy in your class? Oars is a giant, but he's even huger than normal, among them. He's not a warrior of Elbaf. There are multiple islands around the world with giants living on them. He's just a big huge, evil giant from one of those islands. That's Oars!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Oars",
+                        "link_title": "/wiki/Oars",
+                        "is_wikipedia": false,
+                        "start": 40,
+                        "end": 48
+                    },
+                    {
+                        "text": "Elbaf",
+                        "link_title": "/wiki/Elbaf",
+                        "is_wikipedia": false,
+                        "start": 131,
+                        "end": 140
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "oars"
+                    ],
+                    "places": [
+                        "elbaf"
+                    ],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "giants",
+                        "elbaf",
+                        "oars_backstory"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oars is a giant from an island, not Elbaf, and is exceptionally large even among giants."
+            }
+        ],
+        "page": "68",
+        "chapter_number": "473",
+        "page_header": null
+    },
+    {
+        "qa": [
+            {
+                "number": 10,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Wouldn't Franky be cold dressed the way he is, in [[Episode of Chopper Plus: Bloom in Winter, Miracle Sakura|Chopper's movie]] (Blooming in Winter, the Miraculous Sakura)? P.N. Freezing Water Swimming Club Tani",
+                        "matches": [
+                            [
+                                50,
+                                126,
+                                "Episode of Chopper Plus: Bloom in Winter, Miracle Sakura|Chopper's movie"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Hmm. You thought that, based on the images in the movie? I was wondering about this when I heard the anime staff's setting plan. It does seem cold, but do you use that as a chance for humor, or let it slide? After mulling it over, I had my answer. It doesn't matter if he's cold or not; he's FRANKY!! It's how WEIRD he is that's important!! So here's my answer: \"Yes, that outfit's chilly.\" * Even cyborgs get cold.\n\n\n[[File:SBS Vol 49 02.png|right|250px]]",
+                        "matches": [
+                            [
+                                418,
+                                456,
+                                "File:SBS Vol 49 02.png|right|250px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS Vol 49 02.png",
+                        "size": "250",
+                        "start": 418,
+                        "end": 456
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Chopper's movie",
+                        "link_title": "/wiki/Episode of Chopper Plus: Bloom in Winter, Miracle Sakura",
+                        "is_wikipedia": false,
+                        "start": 50,
+                        "end": 126
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "franky"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "clothing",
+                        "humor",
+                        "franky_weirdness"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda acknowledges the concern about Franky being cold in Chopper's movie but decides it doesn't matter because he's weird; however, he agrees that the outfit is chilly."
+            },
+            {
+                "number": 11,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Question! \"Whitebeard [[Edward Newgate]]\", \"Blackbeard [[Marshall D. Teach]]\", \"4th Squad Commander [[Thatch]]\". These three all appear to be based off the real-life 18th century Caribbean pirate, [[Wikipedia:Blackbeard|Edward Teach]] (or sometimes Edward Thatch), aka \"Blackbeard\". Can you tell us more about this figure? P.N. G-on King\n\n[[File:Edward Teach Caricature.PNG|right|120px]]",
+                        "matches": [
+                            [
+                                22,
+                                40,
+                                "Edward Newgate"
+                            ],
+                            [
+                                55,
+                                76,
+                                "Marshall D. Teach"
+                            ],
+                            [
+                                100,
+                                110,
+                                "Thatch"
+                            ],
+                            [
+                                197,
+                                234,
+                                "Wikipedia:Blackbeard|Edward Teach"
+                            ],
+                            [
+                                339,
+                                387,
+                                "File:Edward Teach Caricature.PNG|right|120px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "All three, yes. As a matter of fact, Whitebeard and Thatch just take his name, but Blackbeard himself is completely modeled after the man. The real-life pirate called Blackbeard had many names, and one of them was \"Thatch\". He also went by \"Drummond\" and \"Thache\". He would braid his very long black beard and light smoking wicks hanging from his hat, and with the six pistols and three swords he bore, must have been the very figure of the Devil in battle. Countless stories exist of him shooting his own crew to teach them a lesson, and so on. There are legends that he hid a great treasure, but it has never been found. Now's your chance!",
+                        "matches": []
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "Edward Teach Caricature.PNG",
+                        "size": "120",
+                        "start": 339,
+                        "end": 387
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Edward Teach",
+                        "link_title": "/wiki/Wikipedia:Blackbeard",
+                        "is_wikipedia": false,
+                        "start": 197,
+                        "end": 234
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Edward Newgate",
+                        "link_title": "/wiki/Edward Newgate",
+                        "is_wikipedia": false,
+                        "start": 22,
+                        "end": 40
+                    },
+                    {
+                        "text": "Marshall D. Teach",
+                        "link_title": "/wiki/Marshall D. Teach",
+                        "is_wikipedia": false,
+                        "start": 55,
+                        "end": 76
+                    },
+                    {
+                        "text": "Thatch",
+                        "link_title": "/wiki/Thatch",
+                        "is_wikipedia": false,
+                        "start": 100,
+                        "end": 110
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "Edward_Newgate",
+                        "Marshall_D_Teach",
+                        "Thatch"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "informative"
+                    ],
+                    "topics": [
+                        "pirates",
+                        "Blackbeard",
+                        "real-life inspirations",
+                        "treasure"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda explains the inspiration behind Whitebeard, Blackbeard, and Thatch, who are all based on the real-life pirate Blackbeard, known for his intimidating appearance and ruthless actions."
+            }
+        ],
+        "page": "88",
+        "chapter_number": "474",
+        "page_header": "SBS Vol 49 Franky.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 12,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I've made a great discovery!! Despite being in a test... I managed to reread One Piece Volumes 1-48!! And my discovery was... In \"The Highest Authority in the World\", [[Chapter 233]] of Volume 25, Buggy and his crew are searching for Captain John's treasure in a cave. And then in \"Perona's Wonder Garden\", [[Chapter 451]] of Volume 47, there's [[Captain John]] again! Is this a super-huge discovery, or what?! Who IS Captain John? Just how cruel was he? Tell us, Ei-chaan!! P.S. Tosa Danji",
+                        "matches": [
+                            [
+                                167,
+                                182,
+                                "Chapter 233"
+                            ],
+                            [
+                                307,
+                                322,
+                                "Chapter 451"
+                            ],
+                            [
+                                345,
+                                361,
+                                "Captain John"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes, you've found it. Well spotted. The man whose treasure Buggy and crew were searching for had become a zombie at Thriller Bark. Look close at Captain John's stomach. He has several slashes in his belly, and two swords sticking right out. These were the marks left when his crew killed him for keeping the treasure a secret from them. John died, and the location of the treasure became a legend, lost forever.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Chapter 233",
+                        "link_title": "/wiki/Chapter 233",
+                        "is_wikipedia": false,
+                        "start": 167,
+                        "end": 182
+                    },
+                    {
+                        "text": "Chapter 451",
+                        "link_title": "/wiki/Chapter 451",
+                        "is_wikipedia": false,
+                        "start": 307,
+                        "end": 322
+                    },
+                    {
+                        "text": "Captain John",
+                        "link_title": "/wiki/Captain John",
+                        "is_wikipedia": false,
+                        "start": 345,
+                        "end": 361
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "buggy",
+                        "perona",
+                        "captain_john"
+                    ],
+                    "places": [
+                        "thriller_bark"
+                    ],
+                    "emotions": [
+                        "curious"
+                    ],
+                    "topics": [
+                        "captain_john",
+                        "zombies",
+                        "treasure"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Captain John is a character in One Piece who was killed by his crew for hiding treasure, which later became a legend in the story."
+            },
+            {
+                "number": 13,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Please don't worry about me. Do go on. P.N. 15",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Okay. \n[[File:SBS Vol 49 Brook.png|right|120px]]",
+                        "matches": [
+                            [
+                                7,
+                                48,
+                                "File:SBS Vol 49 Brook.png|right|120px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS Vol 49 Brook.png",
+                        "size": "120",
+                        "start": 7,
+                        "end": 48
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "P.N.15"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "The reader asks Oda not to worry about them as they go on to present their P.N. 15, and Oda responds with an okay."
+            },
+            {
+                "number": 14,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "In [[Chapter 462]], \"Oars' Adventure\", Brook and [[Ryuma]] had a duel. That form was very much like fencing! I could certainly tell, because I took fencing when I was in high school. And, reading further, the words coup droit, bond avant, remise... these are all fencing terms! I love fencing, so this was really great to see! So Brook is a fencer, then! That slender form is simply perfect for the style! (I die if I can't wear a mask!!) P.N. G-chan",
+                        "matches": [
+                            [
+                                3,
+                                18,
+                                "Chapter 462"
+                            ],
+                            [
+                                49,
+                                58,
+                                "Ryuma"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "That's right, he's a fencer!! (So that's what you call it...) He's a fencer, folks!! You heard it here, people... Brook is a fencer!! And thus, the SBS has fensed!! I mean, ended! See you next volume!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Chapter 462",
+                        "link_title": "/wiki/Chapter 462",
+                        "is_wikipedia": false,
+                        "start": 3,
+                        "end": 18
+                    },
+                    {
+                        "text": "Ryuma",
+                        "link_title": "/wiki/Ryuma",
+                        "is_wikipedia": false,
+                        "start": 49,
+                        "end": 58
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "brook",
+                        "ryuma"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "happy",
+                        "funny"
+                    ],
+                    "topics": [
+                        "fencing",
+                        "SBS"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Brook's fighting style is confirmed to be fencing, as indicated by the use of fencing terms during his duel with Ryuma in Chapter 462."
+            }
+        ],
+        "page": "128",
+        "chapter_number": "476",
+        "page_header": null
+    },
+    {
+        "qa": [
+            {
+                "number": 15,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-T, good mornoon!! Sensei! I have a proposal for you. You know the little art that always appears at the top of the SBS Corner? I've noticed that the characters seem to be catching up to the main story! Might that not be causing trouble for you?! That might just be my personal opinion... But I was thinking, why not have a special part of the Usopp Gallery Pirates for SBS title art submissions, with the grand prize winner being used in the corner itself? P.N. Let's Make the Volumes Better Chairman, Isamu Nidoin",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I see. SURE! Actually, many people have sent illustrations in for this very purpose, but the sizes weren't quite right. However, if you want to do them right, that saves me some time, so SURE! I'll accept them now. I hope you pick out old characters we can look back on fondly. Otherwise, well, just knock yourselves out. On the other hand, when I WANT to draw it, I'll still draw it.\n\n[[File:SBS Vol 49 06.png|center|400px]]\nRegarding the questions for the eight voice actors I mentioned in [[SBS Volume 48|Volume 48]], there's a bit of grown-up fidoodling we have to clear first, so just be patient. We've gotten plenty of questions and we'll take many more. I've noticed that it's mostly serious questions for now. You know, you can send them the weird ones you give me, too.\n\n{| class=wikitable style=\"margin:auto; border:1px solid black;\"\n|Luffy: [[Wikipedia:Mayumi Tanaka|Mayumi Tanaka]]\n|Zoro: [[Wikipedia:Kazuya Nakai|Kazuya Nakai]]\n|Nami: [[Wikipedia:Akemi Okamura|Akemi Okamura]]\n|Usopp: [[Wikipedia:Kappei Yamaguchi|Kappei Yamaguchi]]\n|-\n|Sanji: [[Wikipedia:Hiroaki Hirata|Hiroaki Hirata]]\n|Chopper: [[wikipedia:Ikue Ohtani|Ikue Ohtani]]\n|Robin: [[Wikipedia:Yuriko Yamaguchi (voice actor)|Yuriko Yamaguchi]]\n|Franky: [[Wikipedia:Kazuki Yao|Kazuki Yao]]\n|}",
+                        "matches": [
+                            [
+                                386,
+                                425,
+                                "File:SBS Vol 49 06.png|center|400px"
+                            ],
+                            [
+                                492,
+                                519,
+                                "SBS Volume 48|Volume 48"
+                            ],
+                            [
+                                852,
+                                893,
+                                "Wikipedia:Mayumi Tanaka|Mayumi Tanaka"
+                            ],
+                            [
+                                901,
+                                940,
+                                "Wikipedia:Kazuya Nakai|Kazuya Nakai"
+                            ],
+                            [
+                                948,
+                                989,
+                                "Wikipedia:Akemi Okamura|Akemi Okamura"
+                            ],
+                            [
+                                998,
+                                1045,
+                                "Wikipedia:Kappei Yamaguchi|Kappei Yamaguchi"
+                            ],
+                            [
+                                1057,
+                                1100,
+                                "Wikipedia:Hiroaki Hirata|Hiroaki Hirata"
+                            ],
+                            [
+                                1111,
+                                1148,
+                                "wikipedia:Ikue Ohtani|Ikue Ohtani"
+                            ],
+                            [
+                                1157,
+                                1218,
+                                "Wikipedia:Yuriko Yamaguchi (voice actor)|Yuriko Yamaguchi"
+                            ],
+                            [
+                                1228,
+                                1263,
+                                "Wikipedia:Kazuki Yao|Kazuki Yao"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS Vol 49 06.png",
+                        "size": "400",
+                        "start": 386,
+                        "end": 425
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Volume 48",
+                        "link_title": "/wiki/SBS Volume 48",
+                        "is_wikipedia": false,
+                        "start": 492,
+                        "end": 519
+                    },
+                    {
+                        "text": "Mayumi Tanaka",
+                        "link_title": "/wiki/Wikipedia:Mayumi Tanaka",
+                        "is_wikipedia": false,
+                        "start": 852,
+                        "end": 893
+                    },
+                    {
+                        "text": "Kazuya Nakai",
+                        "link_title": "/wiki/Wikipedia:Kazuya Nakai",
+                        "is_wikipedia": false,
+                        "start": 901,
+                        "end": 940
+                    },
+                    {
+                        "text": "Akemi Okamura",
+                        "link_title": "/wiki/Wikipedia:Akemi Okamura",
+                        "is_wikipedia": false,
+                        "start": 948,
+                        "end": 989
+                    },
+                    {
+                        "text": "Kappei Yamaguchi",
+                        "link_title": "/wiki/Wikipedia:Kappei Yamaguchi",
+                        "is_wikipedia": false,
+                        "start": 998,
+                        "end": 1045
+                    },
+                    {
+                        "text": "Hiroaki Hirata",
+                        "link_title": "/wiki/Wikipedia:Hiroaki Hirata",
+                        "is_wikipedia": false,
+                        "start": 1057,
+                        "end": 1100
+                    },
+                    {
+                        "text": "Ikue Ohtani",
+                        "link_title": "/wiki/Ikue Ohtani",
+                        "is_wikipedia": true,
+                        "start": 1111,
+                        "end": 1148
+                    },
+                    {
+                        "text": "Yuriko Yamaguchi",
+                        "link_title": "/wiki/Wikipedia:Yuriko Yamaguchi (voice actor)",
+                        "is_wikipedia": false,
+                        "start": 1157,
+                        "end": 1218
+                    },
+                    {
+                        "text": "Kazuki Yao",
+                        "link_title": "/wiki/Wikipedia:Kazuki Yao",
+                        "is_wikipedia": false,
+                        "start": 1228,
+                        "end": 1263
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "luffy",
+                        "zoro",
+                        "nami",
+                        "usopp",
+                        "sanji",
+                        "chopper",
+                        "robin",
+                        "franky"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "positive"
+                    ],
+                    "topics": [
+                        "usopp_gallery_pirates",
+                        "illustrations",
+                        "voice_actors",
+                        "SBS_corner"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Fans can now submit SBS title art and questions for voice actors; Oda encourages entries and mentions drawings will be used when fitting."
+            }
+        ],
+        "page": "168",
+        "chapter_number": "478",
+        "page_header": null
+    }
+]

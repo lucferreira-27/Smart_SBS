@@ -1,0 +1,1129 @@
+[
+    {
+        "qa": [
+            {
+                "number": 1,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello, this is Eiichiro Oda. I look forward to answering all the perverted questions for you guys this week. Well, let's begin...the SBS!",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "It's a F.A.K.E....!! Stop it! Stop pretending to be me!! This is an injustice! The SBS is not a perverted corner! This is a wholesome place! This is the worst opening!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "outraged",
+                        "angry"
+                    ],
+                    "topics": [
+                        "SBS",
+                        "perverted questions"
+                    ],
+                    "importance": "hight",
+                    "isCharacterInsertion": true
+                },
+                "summary": "Eiichiro Oda reprimands a reader for pretending to be him and for introducing the SBS section in a perverted manner."
+            },
+            {
+                "number": 2,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei, after the introduction of Reiju's underwear, I imagine that you received a lot of fan letters, but I think it's fine. Mankind used to go around naked a long time ago. For the sight of panties to make your heart go crazy, that indicates that you do not have enough discipline. -P.N. My heart started pounding and I got a nosebleed.",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Your pen name indicates a spirit with a wicked heart!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "reiju"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "fan_letters",
+                        "underwear",
+                        "discipline"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader comments on the introduction of a character's underwear, and Oda jokingly responds to the provocative spirit of the reader's pen name."
+            },
+            {
+                "number": 3,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello, Oda-sensei. In chapter 858, there's another Nami bathing scene, but it'll be really awkward when it comes on the anime while the family is watching. What should I do when that time comes? -P.N. Sanadacchi",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "This corner is indecent!! Strange... P.N. Sanadacchi, is this ok? Please listen well. Mankind used to go around naked a long time ago. For the sight of a bathing scene to make your heart go crazy, doesn't that just indicate that you do not have enough discipline?\n\nP.S. While I was drawing the manuscript, my heart started pounding and I got a nosebleed.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "nami"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "awkward",
+                        "funny"
+                    ],
+                    "topics": [
+                        "bathing_scene",
+                        "discipline",
+                        "mankind"
+                    ],
+                    "importance": "hight",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda dismisses the concern of an awkward Nami bathing scene in the anime, stating it's a natural human reaction rooted in history."
+            }
+        ],
+        "page": "24",
+        "chapter_number": "859",
+        "page_header": "SBS86 Header 1.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 4,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Please make Urouge cute. P.N. Aji Shio\n\n[[File:SBS86 Urouge.png|right|200px]]",
+                        "matches": [
+                            [
+                                40,
+                                77,
+                                "File:SBS86 Urouge.png|right|200px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "It was impossible.",
+                        "matches": []
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS86 Urouge.png",
+                        "size": "200",
+                        "start": 40,
+                        "end": 77
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "urouge"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "character_design"
+                    ],
+                    "importance": [
+                        "low"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader asks Oda to make Urouge cute, Oda responds that it was impossible."
+            },
+            {
+                "number": 5,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchi!! I decided to decorate my TV stand with this figure of Nami. P.N. Captain Nobuo",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes. I understand. Next.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "nami"
+                    ],
+                    "places": [],
+                    "emotions": [],
+                    "topics": [],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader mentions decorating their TV stand with a Nami figure, and Oda simply acknowledges it and moves on."
+            },
+            {
+                "number": 6,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchi sensei!! Please state your current feeling using a phrase from One Piece in 3...2...1...!! P.N.",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "No way. It's all sticky. (Phrase)",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "reluctant"
+                    ],
+                    "topics": [
+                        "funny",
+                        "author_avoids_answer"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "A fan asks Oda to state his current feeling using a phrase from One Piece, and Oda responds with 'No way. It's all sticky.'"
+            },
+            {
+                "number": 7,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Please tell me the name of the big black cat in the Hawkins Pirates. I like that he's relatively cute. Is he a mink? P.N. Law's character design is so cool",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Uhm.... Black...? A black cat? Does he appear black? Is... just cat fine? This cat is as you say. He's a mink. He's a member of the Hawkins Pirate crew. His name is Faust, and he's like a magician... but what kind of magic can he use? He meowably (probably) uses some sort of Meowgic. (<-Joking)",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "faust",
+                        "law"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "mink",
+                        "character_design",
+                        "hawkins_pirates",
+                        "magic"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "The big black cat in the Hawkins Pirates is named Faust, a mink who is like a magician and probably uses some sort of Meowgic."
+            },
+            {
+                "number": 8,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello, Oda sensei. Whitebeard always has a bandana wrapped around his head, so is it because he was bald? I want you to draw what kind of hairstyle he had. P.N. Sanadacchi\n\n[[File:SBS86 Whitebeard.png|right|120px]]",
+                        "matches": [
+                            [
+                                173,
+                                214,
+                                "File:SBS86 Whitebeard.png|right|120px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Like this. According to rumors.\n{{-}}",
+                        "matches": []
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS86 Whitebeard.png",
+                        "size": "120",
+                        "start": 173,
+                        "end": 214
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "whitebeard"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "hairstyle",
+                        "Whitebeard"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Whitebeard's bandana is due to a rumored baldness; Oda drew him with a full head of hair in response to the request."
+            }
+        ],
+        "page": "42",
+        "chapter_number": "860",
+        "page_header": "SBS86 Header 2.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 9,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello, Oda sensei! I have a request for Carrot, the talented drawer. I wish for her to draw a picture of the similar looking sisters Lola and Chiffon. Thank you very much.:redheart::redheart: P.N. Kimochi-chan\n\n[[File:SBS86 Twins.png|right|200px]]",
+                        "matches": [
+                            [
+                                211,
+                                247,
+                                "File:SBS86 Twins.png|right|200px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I see, let's ask her.\n\nCarrot: Ok! That's fine!",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Oh..oh...",
+                        "matches": []
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS86 Twins.png",
+                        "size": "200",
+                        "start": 211,
+                        "end": 247
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "carrot",
+                        "lola",
+                        "chiffon"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "surprised"
+                    ],
+                    "topics": [
+                        "fan_art"
+                    ],
+                    "importance": "hight",
+                    "isCharacterInsertion": true
+                },
+                "summary": "A reader requests Carrot to draw Lola and Chiffon. Carrot agrees, but Oda sounds hesitant or surprised for some reason."
+            },
+            {
+                "number": 10,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I am a 16 year old fan of Charlotte Katakuri. I know this is straightaway, but I have a question sensei. In Totto Land, there are people that have necks longer than normal humans. Are these people from the snakeneck tribe? If I'm right, please make my neck long too using the Germa 66's \"Press\". P.N. Mino Gorilla",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes, they are from the snakeneck tribe who were in the slave lists in Sabaody and haven't appeared in the story till now. They're in the town as well as also part of BM's children. These people are the 34th son Mascarpone and the 29th daughter Joscarpone. They are a pair of close twins.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "charlotte_katakuri",
+                        "mascarpone",
+                        "joscarpone"
+                    ],
+                    "places": [
+                        "totto_land",
+                        "sabaody"
+                    ],
+                    "emotions": [
+                        "curious"
+                    ],
+                    "topics": [
+                        "snakeneck_tribe",
+                        "totto_land_residents",
+                        "slave_lists"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda confirms the long-necked people are from the snakeneck tribe, part of Big Mom's children, including Mascarpone and Joscarpone, who are close twins."
+            },
+            {
+                "number": 11,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Are tattoos on legs a fashion among long legs? P.N. Match to Takeshi",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "That's correct. Long leg tribe members have self-confidence in their beautiful and long legs. Blue Gilly who appeared in Dressrosa was like that, and it has become a piece of fashion to uncover their legs and show off their tattoos. Baron Tamago does not appear to be that type, however.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "blue_gilly",
+                        "baron_tamago"
+                    ],
+                    "places": [
+                        "dressrosa"
+                    ],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "long_leg_tribe",
+                        "fashion"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Long leg tribe members have a fashion of showing off tattoos on their legs due to their self-confidence in their beautiful and long legs."
+            }
+        ],
+        "page": "60",
+        "chapter_number": "861",
+        "page_header": "SBS86 Header 3.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 12,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "On page 28 in chapter 850 in volume 85, there's the bento that Sanji made. When you compare to the SBS on page 188 in volume 35, you can see that it exactly matches what was the crews' favorite meals, but I can't figure out the food on the left of the sandwich. Is it Brook's favorite food, which wasn't written in volume 45's SBS? Please tell me. P.N. OP girl",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Ok. You've looked at this a lot. While making Pudding's bento, he was thinking of them in his heart! It was that kind of scene. It's full of the crews' favorite foods. And that amount. He wasn't just thinking about making it for just one girl...Well, here's the menu.\n\nMeat - Luffy,\u00a0\nWhite rice - Zoro,\u00a0\nSeasonal fish - Usopp,\u00a0\nPasta - Sanji,\u00a0\nHamburger - Franky,\u00a0\nSandwich - Robin,\u00a0\nMikan - Nami,\u00a0\nChocolate - Chopper\n\nAnd of course there's the one item you couldn't figure out, and the correct answer is the curry for Brook! Brook loves curry, but his eating manners are terrible, so Sanji doesn't really let him eat it.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "sanji",
+                        "pudding",
+                        "luffy",
+                        "zoro",
+                        "usopp",
+                        "sanji",
+                        "franky",
+                        "robin",
+                        "nami",
+                        "chopper",
+                        "brook"
+                    ],
+                    "places": [],
+                    "topics": [
+                        "food",
+                        "crew_favorite_meals",
+                        "sanji's_bento"
+                    ],
+                    "emotions": [
+                        "informative",
+                        "funny"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Sanji's bento includes the crew's favorite meals, with curry as Brook's favorite, but Sanji doesn't let him eat it due to his poor eating manners."
+            },
+            {
+                "number": 13,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda sensei, hello. The bento that Luffy ate at the promised place with Sanji... does not look good no matter how you look at it, yet Luffy said \"Delicious~\". This is because his feeling of gratitude became a top-grade seasoning, right? I complain about my wife's cooking, and the food starts to not come. P.N. I have nothing to eat but my wife's cooking.",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Those are words to ruin your life, you know. Take responsibility for your actions. (Lol)",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "luffy",
+                        "sanji"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "food",
+                        "gratitude",
+                        "responsibility"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "D asks if Luffy found the bento delicious due to gratitude seasoning, leading Oda to warn about complaining about wife's cooking."
+            }
+        ],
+        "page": "98",
+        "chapter_number": "863",
+        "page_header": "SBS86 Header 4.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 14,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchi, nice to meet you! I've thought this since reading volume 1 but when the OP characters want to express gratitude, no matter what the character's tone, they say 'arigatou', they don't really say 'thank you' (in English) or 'my thanks' (doumo). Is there some kind of hangup about it?",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Oh amazing you've come this far, this is our 20th year (laughs) This is a hangup. People like Zoro especially are awkward and are characters who will change their speech\nFrom my perspective, guys who want to appear cool and speak ambiguously, if they think it's not cool, they will choose the straightest 'arigatou' so as not to make the flow of speech weird.\nThe anime scriptwriters will sometimes make them say 'thank you' and I will think 'ah..'. It's not something most viewers would notice, not to the extent that someone would press me on it. Well, I guess it's my personal hangup. Thanks for noticing it!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "roronoa_zoro"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "happy",
+                        "funny"
+                    ],
+                    "topics": [
+                        "language",
+                        "character_behavior",
+                        "anime_adaptation"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Characters in One Piece say 'arigatou' when expressing gratitude, possibly due to their personalities; author mentions his personal hangup about it."
+            },
+            {
+                "number": 15,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchi hello! Do den den mushis have a silent mode? Honestly aren't there times when you think 'don't ring!'? Can you change the volume of the ringtone or something like that?",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Denden mushis are living creatures so it depends on how you train them. To place on silent mode, say 'Shh' and nod your head. Volume might depend on their training and what you feed them.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "den_den_mushi",
+                        "communication",
+                        "animal_traning"
+                    ],
+                    "importance": "high",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Denden mushis can be trained to be silent on command or have their volume adjusted based on training and diet, as they are living creatures."
+            },
+            {
+                "number": 16,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I want to tell father 'Everyone has the power to change the channel!'",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "To you, who still lives at home and not independently, since you're dependent on your father, is it really equal..",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "independence",
+                        "family"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda challenges a reader's statement, questioning their independence and suggesting their relationship with their father may not be equal."
+            }
+        ],
+        "page": "116",
+        "chapter_number": "864",
+        "page_header": "SBS86 Header 5.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 16,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "N/A",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Spot the differences! Thank you for this one, Yucchan's Papa!! Find the answers on page 188!{{-}}",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "grateful"
+                    ],
+                    "topics": [
+                        "activities",
+                        "fun"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda includes a 'spot the differences' puzzle provided by a reader and directs readers to find the answers on page 188."
+            }
+        ],
+        "page": "134",
+        "chapter_number": "865",
+        "page_header": "SBS86 Header 6.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 17,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchi, heso!! I heard that the 25th of every month is \"Pudding Day\". How about Pudding-chan's birthday be 6/25 for Charlotte (6) Pudding (25)? P.N. Dorii",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Uhm... It's not a question of what do you think, really. To decide the day a someone's born that way...!! Fine.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "charlotte_pudding"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "birthday",
+                        "naming"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Dorii suggests making Pudding's birthday 6/25, and Oda agrees without much enthusiasm."
+            },
+            {
+                "number": 18,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I have something I importantly need to discuss. Please make Reiju's birthday 11/30, with 11 from (\u3044\u3044\u5973 TN: literally good girl/woman), the 3 from (sanji's sister), and the 0 from (Reiju). That's my reasoning! Thank you very much! P.N. THE-MORIO",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Ehhh!? Hey, wait a minute!! You listen well now!? That's fine.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "reiju",
+                        "sanji"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "surprised"
+                    ],
+                    "topics": [
+                        "birthday",
+                        "character_insertion"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "Reader requests Reiju's birthday based on wordplay, Oda initially protests but eventually agrees."
+            },
+            {
+                "number": 19,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Good afternoon, Odacchi! In order for me to also fill up the calendar, I've thought long and hard about the birthdays for several characters. It's a lot, so forgive me.\n\n{|width=\"100%\" align=\"center|-\"\n|width=\"50%\" valign=\"top\"|\n*[[Merry]] - January 22\n*[[Kin'emon]] - January 29\n*[[Nojiko]] - July 25\n*[[Bell-m\u00e8re]] - December 3\n*[[Gem|Mr.5]] - July 26\n*[[Toto]] - June 17\n*[[Terracotta]] - September 25\n*[[Pekoms]] - April 11\n|valign=\"top\"|\n*[[Kaya]] - August 24\n*[[Kurozumi Kanjuro|Kanjuro]] - July 21\n*Baron [[Tamago]] - May 14\n*[[Riku Doldo III|King Riku]] - June 27\n*[[Blue Gilly]] - November 27\n*[[Pedro]] - June 16\n*[[Charlotte Smoothie|Smoothie]] - October 12\n|}\n\n[[File:SBS86 Birthday.png|right|300px]]",
+                        "matches": [
+                            [
+                                230,
+                                239,
+                                "Merry"
+                            ],
+                            [
+                                254,
+                                266,
+                                "Kin'emon"
+                            ],
+                            [
+                                281,
+                                291,
+                                "Nojiko"
+                            ],
+                            [
+                                303,
+                                316,
+                                "Bell-m\u00e8re"
+                            ],
+                            [
+                                331,
+                                343,
+                                "Gem|Mr.5"
+                            ],
+                            [
+                                355,
+                                363,
+                                "Toto"
+                            ],
+                            [
+                                375,
+                                389,
+                                "Terracotta"
+                            ],
+                            [
+                                406,
+                                416,
+                                "Pekoms"
+                            ],
+                            [
+                                444,
+                                452,
+                                "Kaya"
+                            ],
+                            [
+                                466,
+                                494,
+                                "Kurozumi Kanjuro|Kanjuro"
+                            ],
+                            [
+                                512,
+                                522,
+                                "Tamago"
+                            ],
+                            [
+                                533,
+                                561,
+                                "Riku Doldo III|King Riku"
+                            ],
+                            [
+                                573,
+                                587,
+                                "Blue Gilly"
+                            ],
+                            [
+                                603,
+                                612,
+                                "Pedro"
+                            ],
+                            [
+                                624,
+                                655,
+                                "Charlotte Smoothie|Smoothie"
+                            ],
+                            [
+                                673,
+                                712,
+                                "File:SBS86 Birthday.png|right|300px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Whoaaaaa! Hang on, hang on, hang on!! You can't just throw a whole pile of birthdays at me...and just expect me...to decline them!\n{{-}}",
+                        "matches": []
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS86 Birthday.png",
+                        "size": "300",
+                        "start": 673,
+                        "end": 712
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Mr.5",
+                        "link_title": "/wiki/Gem",
+                        "is_wikipedia": false,
+                        "start": 331,
+                        "end": 343
+                    },
+                    {
+                        "text": "Kanjuro",
+                        "link_title": "/wiki/Kurozumi Kanjuro",
+                        "is_wikipedia": false,
+                        "start": 466,
+                        "end": 494
+                    },
+                    {
+                        "text": "King Riku",
+                        "link_title": "/wiki/Riku Doldo III",
+                        "is_wikipedia": false,
+                        "start": 533,
+                        "end": 561
+                    },
+                    {
+                        "text": "Smoothie",
+                        "link_title": "/wiki/Charlotte Smoothie",
+                        "is_wikipedia": false,
+                        "start": 624,
+                        "end": 655
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Merry",
+                        "link_title": "/wiki/Merry",
+                        "is_wikipedia": false,
+                        "start": 230,
+                        "end": 239
+                    },
+                    {
+                        "text": "Kin'emon",
+                        "link_title": "/wiki/Kin'emon",
+                        "is_wikipedia": false,
+                        "start": 254,
+                        "end": 266
+                    },
+                    {
+                        "text": "Nojiko",
+                        "link_title": "/wiki/Nojiko",
+                        "is_wikipedia": false,
+                        "start": 281,
+                        "end": 291
+                    },
+                    {
+                        "text": "Bell-m\u00e8re",
+                        "link_title": "/wiki/Bell-m\u00e8re",
+                        "is_wikipedia": false,
+                        "start": 303,
+                        "end": 316
+                    },
+                    {
+                        "text": "Toto",
+                        "link_title": "/wiki/Toto",
+                        "is_wikipedia": false,
+                        "start": 355,
+                        "end": 363
+                    },
+                    {
+                        "text": "Terracotta",
+                        "link_title": "/wiki/Terracotta",
+                        "is_wikipedia": false,
+                        "start": 375,
+                        "end": 389
+                    },
+                    {
+                        "text": "Pekoms",
+                        "link_title": "/wiki/Pekoms",
+                        "is_wikipedia": false,
+                        "start": 406,
+                        "end": 416
+                    },
+                    {
+                        "text": "Kaya",
+                        "link_title": "/wiki/Kaya",
+                        "is_wikipedia": false,
+                        "start": 444,
+                        "end": 452
+                    },
+                    {
+                        "text": "Tamago",
+                        "link_title": "/wiki/Tamago",
+                        "is_wikipedia": false,
+                        "start": 512,
+                        "end": 522
+                    },
+                    {
+                        "text": "Blue Gilly",
+                        "link_title": "/wiki/Blue Gilly",
+                        "is_wikipedia": false,
+                        "start": 573,
+                        "end": 587
+                    },
+                    {
+                        "text": "Pedro",
+                        "link_title": "/wiki/Pedro",
+                        "is_wikipedia": false,
+                        "start": 603,
+                        "end": 612
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "merry",
+                        "kin'emon",
+                        "nojiko",
+                        "bell-m\u00e8re",
+                        "mr.5",
+                        "toto",
+                        "terracotta",
+                        "pecoms",
+                        "kaya",
+                        "kanjuro",
+                        "tamago",
+                        "king riku",
+                        "blue gilly",
+                        "pedro",
+                        "smoothie"
+                    ],
+                    "places": [],
+                    "topics": [
+                        "birthdays"
+                    ],
+                    "emotions": [
+                        "surprised"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "A reader provides a long list of characters' birthdays, overwhelming Oda, who humorously reacts by saying he can't decline them all."
+            }
+        ],
+        "page": "152",
+        "chapter_number": "866",
+        "page_header": "SBS86 Header 7.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 20,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello, Oda sensei! I have a question, is the Zepo who appeared in chapter 850 the same brother that Bepo was separated from in the brief story from volume 84's SBS. Or are they bears who just resemble each other? P.N. Mihashiharu",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "They do resemble each other! That's correct. Pedro led the Nox expedition party who were chased by the government for searching for poneglyphs, thus they became the Nox Pirates. That's a story from about 15 years ago. Bepo loved his older brother Zepo, and when he climbed down Zou to get a view of the sea, he was swept away. One thing led to another, and he found his way to the North Blue. He then met Law. Meanwhile, the Nox Pirates were wounded and had morale issues, so Pekoms lead the others who couldn't continue their journey, leaving just Pedro and Zepo. And then Pekoms and the others arrived in Big Mom's territory. There their lives were saved, and they entered her care. Pedro and Zepo, who continued searching for poneglyphs, eventually set their sights on Big Mom's poneglyph five years later, and by coincidence Pedro and Pekoms came face to face once again.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "bepo",
+                        "pedro",
+                        "zepo",
+                        "law",
+                        "pekoms"
+                    ],
+                    "places": [
+                        "zou",
+                        "north_blue",
+                        "big_mom's_territory"
+                    ],
+                    "emotions": [
+                        "nostalgic"
+                    ],
+                    "topics": [
+                        "bepo's_story",
+                        "nox_pirates",
+                        "poneglyphs"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Zepo and Bepo are not the same bear, they just resemble each other; Zepo is Pedro's brother and they were part of the Nox Pirates searching for poneglyphs."
+            },
+            {
+                "number": 21,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I really want to see Charlotte Linlin, 28 and 48 years old. Please!! P.N. M Natsuo\n\n[[File:SBS86 Young Mom.png|right|200px]]",
+                        "matches": [
+                            [
+                                84,
+                                124,
+                                "File:SBS86 Young Mom.png|right|200px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Okay.\n\nAh, it's time! SBS is over! See you~!! After this, it will be a page of various 20th anniversary projects!\n{{-}}",
+                        "matches": []
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS86 Young Mom.png",
+                        "size": "200",
+                        "start": 84,
+                        "end": 124
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "charlotte_linlin"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "age",
+                        "20th_anniversary_projects"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader asks to see Charlotte Linlin at 28 and 48 years old, Oda agrees and ends the Q&A session with a note about the upcoming 20th anniversary projects."
+            }
+        ],
+        "page": "170",
+        "chapter_number": "867",
+        "page_header": "SBS86 Header 8.png"
+    }
+]

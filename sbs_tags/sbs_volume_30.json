@@ -1,0 +1,773 @@
+[
+    {
+        "qa": [
+            {
+                "number": 1,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Welcome home, my <3 love. <3 Would you like dinner? Fufufu. <3 Or take a bath? Fufufu. <3 Or maybe <3 you'd rather <3 have...\n\nME? \u00a0 \u00a0 Wha...?! No?! \n\nStart the SBS? ...Oh. Okay...\n\nSTART THE SBS! \n\n-Bye, Love Wife 2-",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Okay, let's begin. (nonchalant)",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "confused",
+                        "playful"
+                    ],
+                    "topics": [],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda starts the Q&A session after an unusual message from a reader."
+            },
+            {
+                "number": 2,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Mr. Oda! In Volume 22, 1st panel of page 142, you drew the Poneglyph, but why is \"Pandaman\" written on it? Is Pandaman an important person (is he even a person?!) in the history of Alabasta? Please tell me!\n[[File:Sbs_276_1.png|thumb|\"Pandaman\" written within the Poneglyph in Alabasta.]]",
+                        "matches": [
+                            [
+                                207,
+                                288,
+                                "File:Sbs_276_1.png|thumb|\"Pandaman\" written within the Poneglyph in Alabasta."
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "A round of applause! Clap clap clap. Well done in finding it. Even I'd forgotten thet I drew that in there. But in any case, yes, Pandaman isn't hidden just in the drawings.",
+                        "matches": []
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "Sbs_276_1.png",
+                        "size": null,
+                        "start": 207,
+                        "end": 288
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "pandaman"
+                    ],
+                    "places": [
+                        "alabasta"
+                    ],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "easter_egg",
+                        "history"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "D: Reader asks about 'Pandaman' written on a Poneglyph in Alabasta. O: Oda acknowledges it, mentioning Pandaman isn't just hidden in drawings."
+            },
+            {
+                "number": 3,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda! Won't you draw the seven protagonists with your mouth?\n\n-P.N. Shuuichi-",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "No, I don't wanna! Stop tryin' to get me to do stuff like that!{{-}}",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "playful"
+                    ],
+                    "topics": [],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda refuses to draw the seven protagonists with his mouth, expressing reluctance to do so."
+            }
+        ],
+        "page": 24,
+        "chapter_number": 276,
+        "page_header": "SBS Vol 30 header.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 4,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I have a question. The other day while listening to the radio, I heard that it never rains during the Wimbledon Tournament in England. The reason for this is that they they use jet planes to blow rain clouds away. However, doing so makes the surrounding areas have a lot of rainfall. I immediately thought of Dance Powder upon hearing this. I'm quite surprised that it's actually possible for humans to control the weather to some degree but was this really the basis behind your idea?\n\n[[File:Sbs_277_1.png|thumb|140px|Artificial Rain Ship]]",
+                        "matches": [
+                            [
+                                487,
+                                542,
+                                "File:Sbs_277_1.png|thumb|140px|Artificial Rain Ship"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Whether it would rain or not has been a life or death question for humans since ancient times, and many have dreamed of the power to control weather. The artificial rain that showed up during the Alabasta arc is something that humans have supposedly invented already. However, it costs a considerable amount to make the rain, and there's always the possibility that it would have rained regardless, so artificial rain has yet to be proven beyond doubt. The specific basis behind Dance Powder is silver iodide, which, if burned, is said to seed clouds and make them larger. Quite a curious substance, isn't it?{{-}}",
+                        "matches": []
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "Sbs_277_1.png",
+                        "size": "140",
+                        "start": 487,
+                        "end": 542
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [
+                        "england",
+                        "alabasta"
+                    ],
+                    "emotions": [
+                        "curious"
+                    ],
+                    "topics": [
+                        "weather_control",
+                        "dance_powder",
+                        "artificial_rain",
+                        "silver_iodide"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda explains that controlling the weather has been a human ambition, and the concept of Dance Powder is based on real-life artificial rain technology using silver iodide to seed clouds."
+            }
+        ],
+        "page": "44",
+        "chapter_number": "277",
+        "page_header": null
+    },
+    {
+        "qa": [
+            {
+                "number": 5,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Dear Odacchi-Sama, please please PLEASE make us a One Piece- themed class timetable sheet!\n\nPLEASE X 1000! Thaks a lot!\n\n-Pen Name: Shibuya & Ishi-",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "A timetable, eh? You know, I made one for one of the earlier volumes some time ago. But oh well, we've gained more readers since then, and there've been others asking for a new one. Now the problem is, the format's probably different from my student days, so I'm not sure what the best style would be for you guys. So for those of you with time to spare, send me a copy of your class timetable sheet, and I'll use it as a reference to make a new one.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "class_timetable_sheet",
+                        "reader_interaction"
+                    ],
+                    "importance": "high",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda mentions making a class timetable sheet in the past, but now requests students to send their timetable as a reference for a new one."
+            },
+            {
+                "number": 6,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello, my friend's family is from Shibukawa and they have an annual belly button (Heso) festival. I'm sure Conis would love to participate too, right?\n\n-Pen Name: Ponponchi-",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "A... Belly button festival? What, does it involve belly dancing or something? In any case, all the people of the sky would love to join! Even Enel!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "conis",
+                        "enel"
+                    ],
+                    "places": [
+                        "shibukawa",
+                        "sky_island"
+                    ],
+                    "emotions": [
+                        "curious",
+                        "funny"
+                    ],
+                    "topics": [
+                        "belly_button_festival",
+                        "sky_people"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader suggests Conis would love a belly button festival; Oda jokes that people of the sky, including Enel, would love to join, questioning if it involves belly dancing."
+            },
+            {
+                "number": 7,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Why do all the pretty characters in One Piece have large breasts? Large breasts aren't the only thing that make a woman, y'know! I'm sure Sanji of all people would understand what I mean.\n\n-by girl who likes Sanji-\n\nSanji: You're absolutely right, miss. PEOPLE ARE DEFINED BY THEIR HEARTS!",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Ah, Nami's wearing a bikini.\n\nSanji:\u00a0NNNNNNNNAAAAAAAAMMMMMMIIIIIII!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "nami",
+                        "sanji"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "body_image",
+                        "gender_representation"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "D's concern about female character designs with large breasts is acknowledged by Sanji, then Oda comments on Nami's bikini. Sanji hilariously responds."
+            }
+        ],
+        "page": "84",
+        "chapter_number": "279",
+        "page_header": null
+    },
+    {
+        "qa": [
+            {
+                "number": 8,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Yo, Oda-sensei! I have a question about logia-type devil fruits. In chapter 280, Enel says that \"Paramecia have to retain their original form...\" Does that mean people like Crocodile, Ace, or Smoker, who can freely morph their physical bodies have logia-type devil fruits? If you don't answer me, I won't let you go to the toilet! You'll have to poop outside!\n\n-P.N. Hilarious Joke-",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I'm not going to poop outside. Jeez, you're so gross. Talking about poop. But in any case, since this is a pretty big question, allow me to break it down simply.\n\n{|class=\"wikitable\" style=\"margin:auto;\"\n!\nParamecia (Superhuman)\n!Zoan (Animal)\n!Logia (Elemental/Nature)\n|- valign=\"top\"\n|\n*[[Gomu Gomu no Mi]]\n*[[Bara Bara no Mi]]\n*[[Sube Sube no Mi]]\n*[[Bomu Bomu no Mi]]\n*[[Kiro Kiro no Mi]]\n*[[Baku Baku no Mi]]\n*[[Mane Mane no Mi]]\n*[[Hana Hana no Mi]]\n*[[Supa Supa no Mi]]\n*[[Ori Ori no Mi]]\n*[[Toge Toge no Mi]]\n*[[Bane Bane no Mi]]\n|\n*[[Ushi Ushi no Mi, Model: Bison]]\n*[[Hito Hito no Mi]]\n*[[Tori Tori no Mi, Model: Falcon]]\n*[[Mogu Mogu no Mi]]\n*[[Inu Inu no Mi, Model: Dachshund]]\n*[[Uma Uma no Mi]]\n|\n*[[Moku Moku no Mi]]\n*[[Suna Suna no Mi]]\n*[[Mera Mera no Mi]]\n*[[Goro Goro no Mi]]\n|}\n\nClear enough, right?\n\nThe logia-type, which allows its user to freely change his original physical form, definitely stands out on a whole other level compared to other devil fruits.",
+                        "matches": [
+                            [
+                                289,
+                                308,
+                                "Gomu Gomu no Mi"
+                            ],
+                            [
+                                310,
+                                329,
+                                "Bara Bara no Mi"
+                            ],
+                            [
+                                331,
+                                350,
+                                "Sube Sube no Mi"
+                            ],
+                            [
+                                352,
+                                371,
+                                "Bomu Bomu no Mi"
+                            ],
+                            [
+                                373,
+                                392,
+                                "Kiro Kiro no Mi"
+                            ],
+                            [
+                                394,
+                                413,
+                                "Baku Baku no Mi"
+                            ],
+                            [
+                                415,
+                                434,
+                                "Mane Mane no Mi"
+                            ],
+                            [
+                                436,
+                                455,
+                                "Hana Hana no Mi"
+                            ],
+                            [
+                                457,
+                                476,
+                                "Supa Supa no Mi"
+                            ],
+                            [
+                                478,
+                                495,
+                                "Ori Ori no Mi"
+                            ],
+                            [
+                                497,
+                                516,
+                                "Toge Toge no Mi"
+                            ],
+                            [
+                                518,
+                                537,
+                                "Bane Bane no Mi"
+                            ],
+                            [
+                                541,
+                                574,
+                                "Ushi Ushi no Mi, Model: Bison"
+                            ],
+                            [
+                                576,
+                                595,
+                                "Hito Hito no Mi"
+                            ],
+                            [
+                                597,
+                                631,
+                                "Tori Tori no Mi, Model: Falcon"
+                            ],
+                            [
+                                633,
+                                652,
+                                "Mogu Mogu no Mi"
+                            ],
+                            [
+                                654,
+                                689,
+                                "Inu Inu no Mi, Model: Dachshund"
+                            ],
+                            [
+                                691,
+                                708,
+                                "Uma Uma no Mi"
+                            ],
+                            [
+                                712,
+                                731,
+                                "Moku Moku no Mi"
+                            ],
+                            [
+                                733,
+                                752,
+                                "Suna Suna no Mi"
+                            ],
+                            [
+                                754,
+                                773,
+                                "Mera Mera no Mi"
+                            ],
+                            [
+                                775,
+                                794,
+                                "Goro Goro no Mi"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Gomu Gomu no Mi",
+                        "link_title": "/wiki/Gomu Gomu no Mi",
+                        "is_wikipedia": false,
+                        "start": 289,
+                        "end": 308
+                    },
+                    {
+                        "text": "Bara Bara no Mi",
+                        "link_title": "/wiki/Bara Bara no Mi",
+                        "is_wikipedia": false,
+                        "start": 310,
+                        "end": 329
+                    },
+                    {
+                        "text": "Sube Sube no Mi",
+                        "link_title": "/wiki/Sube Sube no Mi",
+                        "is_wikipedia": false,
+                        "start": 331,
+                        "end": 350
+                    },
+                    {
+                        "text": "Bomu Bomu no Mi",
+                        "link_title": "/wiki/Bomu Bomu no Mi",
+                        "is_wikipedia": false,
+                        "start": 352,
+                        "end": 371
+                    },
+                    {
+                        "text": "Kiro Kiro no Mi",
+                        "link_title": "/wiki/Kiro Kiro no Mi",
+                        "is_wikipedia": false,
+                        "start": 373,
+                        "end": 392
+                    },
+                    {
+                        "text": "Baku Baku no Mi",
+                        "link_title": "/wiki/Baku Baku no Mi",
+                        "is_wikipedia": false,
+                        "start": 394,
+                        "end": 413
+                    },
+                    {
+                        "text": "Mane Mane no Mi",
+                        "link_title": "/wiki/Mane Mane no Mi",
+                        "is_wikipedia": false,
+                        "start": 415,
+                        "end": 434
+                    },
+                    {
+                        "text": "Hana Hana no Mi",
+                        "link_title": "/wiki/Hana Hana no Mi",
+                        "is_wikipedia": false,
+                        "start": 436,
+                        "end": 455
+                    },
+                    {
+                        "text": "Supa Supa no Mi",
+                        "link_title": "/wiki/Supa Supa no Mi",
+                        "is_wikipedia": false,
+                        "start": 457,
+                        "end": 476
+                    },
+                    {
+                        "text": "Ori Ori no Mi",
+                        "link_title": "/wiki/Ori Ori no Mi",
+                        "is_wikipedia": false,
+                        "start": 478,
+                        "end": 495
+                    },
+                    {
+                        "text": "Toge Toge no Mi",
+                        "link_title": "/wiki/Toge Toge no Mi",
+                        "is_wikipedia": false,
+                        "start": 497,
+                        "end": 516
+                    },
+                    {
+                        "text": "Bane Bane no Mi",
+                        "link_title": "/wiki/Bane Bane no Mi",
+                        "is_wikipedia": false,
+                        "start": 518,
+                        "end": 537
+                    },
+                    {
+                        "text": "Ushi Ushi no Mi, Model: Bison",
+                        "link_title": "/wiki/Ushi Ushi no Mi, Model: Bison",
+                        "is_wikipedia": false,
+                        "start": 541,
+                        "end": 574
+                    },
+                    {
+                        "text": "Hito Hito no Mi",
+                        "link_title": "/wiki/Hito Hito no Mi",
+                        "is_wikipedia": false,
+                        "start": 576,
+                        "end": 595
+                    },
+                    {
+                        "text": "Tori Tori no Mi, Model: Falcon",
+                        "link_title": "/wiki/Tori Tori no Mi, Model: Falcon",
+                        "is_wikipedia": false,
+                        "start": 597,
+                        "end": 631
+                    },
+                    {
+                        "text": "Mogu Mogu no Mi",
+                        "link_title": "/wiki/Mogu Mogu no Mi",
+                        "is_wikipedia": false,
+                        "start": 633,
+                        "end": 652
+                    },
+                    {
+                        "text": "Inu Inu no Mi, Model: Dachshund",
+                        "link_title": "/wiki/Inu Inu no Mi, Model: Dachshund",
+                        "is_wikipedia": false,
+                        "start": 654,
+                        "end": 689
+                    },
+                    {
+                        "text": "Uma Uma no Mi",
+                        "link_title": "/wiki/Uma Uma no Mi",
+                        "is_wikipedia": false,
+                        "start": 691,
+                        "end": 708
+                    },
+                    {
+                        "text": "Moku Moku no Mi",
+                        "link_title": "/wiki/Moku Moku no Mi",
+                        "is_wikipedia": false,
+                        "start": 712,
+                        "end": 731
+                    },
+                    {
+                        "text": "Suna Suna no Mi",
+                        "link_title": "/wiki/Suna Suna no Mi",
+                        "is_wikipedia": false,
+                        "start": 733,
+                        "end": 752
+                    },
+                    {
+                        "text": "Mera Mera no Mi",
+                        "link_title": "/wiki/Mera Mera no Mi",
+                        "is_wikipedia": false,
+                        "start": 754,
+                        "end": 773
+                    },
+                    {
+                        "text": "Goro Goro no Mi",
+                        "link_title": "/wiki/Goro Goro no Mi",
+                        "is_wikipedia": false,
+                        "start": 775,
+                        "end": 794
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "enel",
+                        "crocodile",
+                        "ace",
+                        "smoker"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "devil_fruit"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda explains that Paramecia, Zoan, and Logia are three types of Devil Fruits; Logia types, like Enel, can freely change their original physical form."
+            }
+        ],
+        "page": "104",
+        "chapter_number": "280",
+        "page_header": null
+    },
+    {
+        "qa": [
+            {
+                "number": 8,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "N/A",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I got a set of karuta cards with interesting proverbs from Yoshiko of Tokyo. Let's all use it! Just don't write them down for a test!\n\n*Rather long-legged than short-handed.\n*Rather nosy than not have a nose at all.\n*If one lies long enough, one starts to believe it oneself.\n*One shouldn't throw apples, that's the core of it.\n*Speech is silver, silence is gold.\n*A single drop does not fear the sea.\n*It's too late to start saving once one has hit rock bottom.\n*One isn't drunk until one can't lie on the floor without supporting oneself.\n*The one who saves for the night gets crumbs in the bed!\n*Rather be dumb and happy than learn one's lesson.\n*The one who lowers his head raises his butt - and that's just asking for it!\n*Rather impressively stupid than stupidly smart!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "amused",
+                        "playful"
+                    ],
+                    "topics": [
+                        "proverbs",
+                        "karuta cards",
+                        "wisdom",
+                        "humor"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda shares a set of humorous proverbs from a fan's karuta cards, encouraging readers to enjoy them without writing them down for a test."
+            }
+        ],
+        "page": "124",
+        "chapter_number": "281",
+        "page_header": null
+    },
+    {
+        "qa": [
+            {
+                "number": 9,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Everyone's so fashionable in One Piece, but are you stylish too, Oda-chan?",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Of course. A man should look his best every day. My hair is in a \"free-grow\" style that accentuates an au naturel sense. My clothes are radiant rags that match all four seasons. No belts for me, as that would restrict my vibrant joie de vivre. And comfortable flip flops even when entering high class hotels.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "playful"
+                    ],
+                    "topics": [
+                        "fashion",
+                        "personal_style"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda humorously describes his personal style as 'free-grow' hair, radiant rags, no belts, and comfortable flip flops even in high class hotels."
+            },
+            {
+                "number": 10,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I have a question. On Volume 27, page 130, Sanji says to pour the water into the canteen if the pot inside fills up from the steam droplets, but how exactly does this survival technique work? Please tell me now.\n\n-by Kagawa-",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Oh, here's a diagram of getting drinking water via steam.\n[[File:Sbs_282_1b.png|thumb|left|Diagram: Water 2, Steam Droplets, Water 1, Fire.\nLeft side: Hold up with strings or something similar.]]\n[[File:Sbs_282_1.png|right|160px]]\n<- Set up 3 pots like so. We'll be using water from a river. The \"water 2\" is there to cool the rising steam. The rising steam, once cooled, will change into water droplets and drop back down into the middle pot, giving us clean drinkable water. In Sanji's case, he used \"Sea clouds\".\n\n\nNow that you know this, you'll be able to make water anywhere!{{-}}",
+                        "matches": [
+                            [
+                                196,
+                                230,
+                                "File:Sbs_282_1.png|right|160px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "Sbs_282_1.png",
+                        "size": "160",
+                        "start": 196,
+                        "end": 230
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "sanji"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "informative"
+                    ],
+                    "topics": [
+                        "survival_technique",
+                        "water_collection",
+                        "sanji_skill"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Sanji's survival technique involves using steam to produce clean drinking water with a diagram explanation provided in SBS Volume 27, page 130."
+            }
+        ],
+        "page": "144",
+        "chapter_number": "282",
+        "page_header": null
+    },
+    {
+        "qa": [
+            {
+                "number": 10,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "N/A",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "My result. It's better not to draw with one's mouth. Now please, don't ask me to do this ever again. P.N. Shuuichi-kun, my front teeth all hurt now! They're about to break!\n\nSee you again next volume, SBS!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "uncomfortable"
+                    ],
+                    "topics": [],
+                    "importance": "low",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda apologizes for drawing with his mouth and hopes to avoid doing so in the future. He signs off and promises to return for the next volume's SBS."
+            }
+        ],
+        "page": "184",
+        "chapter_number": "284",
+        "page_header": "Sbs_ch284_1.png"
+    }
+]

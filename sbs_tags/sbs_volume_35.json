@@ -1,0 +1,974 @@
+[
+    {
+        "qa": [
+            {
+                "number": 1,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Dokusha means Reader\n*",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Oda",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "The reader asks about the meaning of the word 'dokusha'."
+            }
+        ],
+        "page": 26,
+        "chapter_number": 328,
+        "page_header": "SBS Vol 35 header.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 2,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Ding-dong \u266a<br />Oda-saan. I have a delivery for you. These are such beautiful flowers. Oh! There's a card. Well then, let's see what's in it. It says \"...START THE SBS\". Well, please do your best with your job. *click*.",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Thank you, I appreciate it. I reluctantly accept this bouquet of flowers. Yep. I mean, THE SBS STARTED!! (BONN!!)\n[[File:SBS Vol 35 01.png|right|180px]]",
+                        "matches": [
+                            [
+                                114,
+                                152,
+                                "File:SBS Vol 35 01.png|right|180px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS Vol 35 01.png",
+                        "size": "180",
+                        "start": 114,
+                        "end": 152
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "reluctant",
+                        "happy"
+                    ],
+                    "topics": [
+                        "SBS",
+                        "acknowledgment"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "The reader sends flowers to Oda, urging him to start the Q&A, and Oda acknowledges the request and begins the SBS session."
+            },
+            {
+                "number": 3,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei, on [[Chapter 300|p. 104 of Volume 32]], panel 6, [[Tony Tony Chopper|Chopper]] and [[Sanji]] are dancing, but Sanji is dancing with some old lady!! Who the heck is she?! Just some woman?",
+                        "matches": [
+                            [
+                                15,
+                                50,
+                                "Chapter 300|p. 104 of Volume 32"
+                            ],
+                            [
+                                61,
+                                90,
+                                "Tony Tony Chopper|Chopper"
+                            ],
+                            [
+                                95,
+                                104,
+                                "Sanji"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Oh... you mean [[Marilyn]]? She was \"Miss Skypiea\" 40 years ago. The most beautiful woman in Skypiea (back then). God [[Enel]] is scary, but so is the flow of time (ooh, that was clever).\n[[File:SBS35 1 Nola.png|right|130px]]",
+                        "matches": [
+                            [
+                                15,
+                                26,
+                                "Marilyn"
+                            ],
+                            [
+                                118,
+                                126,
+                                "Enel"
+                            ],
+                            [
+                                188,
+                                225,
+                                "File:SBS35 1 Nola.png|right|130px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS35 1 Nola.png",
+                        "size": "130",
+                        "start": 188,
+                        "end": 225
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "p. 104 of Volume 32",
+                        "link_title": "/wiki/Chapter 300",
+                        "is_wikipedia": false,
+                        "start": 15,
+                        "end": 50
+                    },
+                    {
+                        "text": "Chopper",
+                        "link_title": "/wiki/Tony Tony Chopper",
+                        "is_wikipedia": false,
+                        "start": 61,
+                        "end": 90
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Sanji",
+                        "link_title": "/wiki/Sanji",
+                        "is_wikipedia": false,
+                        "start": 95,
+                        "end": 104
+                    },
+                    {
+                        "text": "Marilyn",
+                        "link_title": "/wiki/Marilyn",
+                        "is_wikipedia": false,
+                        "start": 15,
+                        "end": 26
+                    },
+                    {
+                        "text": "Enel",
+                        "link_title": "/wiki/Enel",
+                        "is_wikipedia": false,
+                        "start": 118,
+                        "end": 126
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "tony_tony_chopper",
+                        "sanji",
+                        "marilyn",
+                        "enel"
+                    ],
+                    "places": [
+                        "skypiea"
+                    ],
+                    "emotions": [
+                        "amused"
+                    ],
+                    "topics": [
+                        "character_background",
+                        "time",
+                        "skypiea"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "Oda reveals that the woman dancing with Sanji is Marilyn, the former Miss Skypiea, 40 years ago, showing the passage of time in the One Piece world."
+            },
+            {
+                "number": 4,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Does the name \"[[Nola]]\" (in Skypiea) come from \"nora-inu\" (wild dog)? Or is it from \"[[Mont Blanc Noland]]\"? Did she get the name from [[Kalgara]], because he wanted to meet Noland so bad? Thanks!",
+                        "matches": [
+                            [
+                                15,
+                                23,
+                                "Nola"
+                            ],
+                            [
+                                86,
+                                107,
+                                "Mont Blanc Noland"
+                            ],
+                            [
+                                136,
+                                147,
+                                "Kalgara"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "The Nola is from \"Noland\". [[Seto]] named her.",
+                        "matches": [
+                            [
+                                27,
+                                35,
+                                "Seto"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Nola",
+                        "link_title": "/wiki/Nola",
+                        "is_wikipedia": false,
+                        "start": 15,
+                        "end": 23
+                    },
+                    {
+                        "text": "Mont Blanc Noland",
+                        "link_title": "/wiki/Mont Blanc Noland",
+                        "is_wikipedia": false,
+                        "start": 86,
+                        "end": 107
+                    },
+                    {
+                        "text": "Kalgara",
+                        "link_title": "/wiki/Kalgara",
+                        "is_wikipedia": false,
+                        "start": 136,
+                        "end": 147
+                    },
+                    {
+                        "text": "Seto",
+                        "link_title": "/wiki/Seto",
+                        "is_wikipedia": false,
+                        "start": 27,
+                        "end": 35
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "nola",
+                        "seto",
+                        "kalgara",
+                        "mont_blanc_noland"
+                    ],
+                    "places": [
+                        "skypiea"
+                    ],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "name_origin",
+                        "skypiea"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "The name 'Nola' in Skypiea comes from 'Noland,' and she was named by Seto."
+            }
+        ],
+        "page": "26",
+        "chapter_number": "328",
+        "page_header": null
+    },
+    {
+        "qa": [
+            {
+                "number": 5,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I would like to ask you something, Odacchi. In the first panel of [[Chapter 306|p. 21 of Volume 33]], why does [[Nico Robin|Robin]] give Chopper her half-eaten cotton candy? This makes it an indirect kiss. If she wasn't going to eat the whole thing, she shouldn't have started at all!!\n\n\n[[File:SBS35 2 Cotton Candy 2.png|right|100px]]",
+                        "matches": [
+                            [
+                                66,
+                                100,
+                                "Chapter 306|p. 21 of Volume 33"
+                            ],
+                            [
+                                111,
+                                131,
+                                "Nico Robin|Robin"
+                            ],
+                            [
+                                288,
+                                335,
+                                "File:SBS35 2 Cotton Candy 2.png|right|100px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Look back two pages. \"[[Nami]]-san, they're selling cotton candy\", says Sanji as he brings back two. These are of course for Nami and Robin. It would be unladylike for Robin to take it and give it directly to Chopper, so she shows good manners to Sanji by taking a bite first before handing it over.\n\n\n[[File:SBS35 2 Noro Noro Mr 4.png|right|120px]]",
+                        "matches": [
+                            [
+                                22,
+                                30,
+                                "Nami"
+                            ],
+                            [
+                                302,
+                                349,
+                                "File:SBS35 2 Noro Noro Mr 4.png|right|120px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS35 2 Cotton Candy 2.png",
+                        "size": "100",
+                        "start": 288,
+                        "end": 335
+                    },
+                    {
+                        "file": "SBS35 2 Noro Noro Mr 4.png",
+                        "size": "120",
+                        "start": 302,
+                        "end": 349
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "p. 21 of Volume 33",
+                        "link_title": "/wiki/Chapter 306",
+                        "is_wikipedia": false,
+                        "start": 66,
+                        "end": 100
+                    },
+                    {
+                        "text": "Robin",
+                        "link_title": "/wiki/Nico Robin",
+                        "is_wikipedia": false,
+                        "start": 111,
+                        "end": 131
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Nami",
+                        "link_title": "/wiki/Nami",
+                        "is_wikipedia": false,
+                        "start": 22,
+                        "end": 30
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "nico_robin",
+                        "chopper",
+                        "sanji",
+                        "nami"
+                    ],
+                    "places": [],
+                    "topics": [
+                        "manners",
+                        "cotton_candy",
+                        "indirect_kiss"
+                    ],
+                    "emotions": [
+                        "informative"
+                    ],
+                    "importance": [
+                        "high"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Robin gives Chopper half-eaten cotton candy as a good manners gesture after Sanji brought it for her and Nami, to avoid directly giving it to Chopper."
+            },
+            {
+                "number": 6,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei-sama. Please hear my question. I was just thinking... WHAT WOULD HAPPEN IF [[Babe|MR. 4]] GOT HIT BY [[Foxy|FOXY]]'s NORO NORO BEAM?",
+                        "matches": [
+                            [
+                                86,
+                                100,
+                                "Babe|MR. 4"
+                            ],
+                            [
+                                112,
+                                125,
+                                "Foxy|FOXY"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "OK, to test this out, I'll pretend to be Mr. 4 saying \"Oh crap!!\" after being hit by the beam. Ready, set,\nOHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH-\n\nHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH-\n\nHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH...",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "MR. 4",
+                        "link_title": "/wiki/Babe",
+                        "is_wikipedia": false,
+                        "start": 86,
+                        "end": 100
+                    },
+                    {
+                        "text": "FOXY",
+                        "link_title": "/wiki/Foxy",
+                        "is_wikipedia": false,
+                        "start": 112,
+                        "end": 125
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "mr_4",
+                        "foxy",
+                        "oda"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "silly"
+                    ],
+                    "topics": [
+                        "devil_fruit"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "A reader asks what would happen if Mr. 4 got hit by Foxy's Noro Noro beam, and Oda playfully pretends to be Mr. 4 getting hit."
+            }
+        ],
+        "page": "46",
+        "chapter_number": "329",
+        "page_header": "SBS35 2 Cotton Candy 1.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 7,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Do you remember Ohiru Rider, from the SBS in One Piece Volume 29, p.&nbsp;148? Today I'm introducing his friend. It's \"Asa Pierrot\"-kun!\n\n[[File:SBS35 3 Asa Pierrot.png|thumb|center|500px|Asa Pierrot]]\nHe is [[Buggy]]'s master, and is friends with Ohiru Rider.\n\n''(Note: Ohiru means noon, and is represented by the kanji ''\u663c''. Asa means morning, and is represented by the kanji ''\u671d''. In both cases, the kanji is transformed into a face as shown here and in [[SBS Volume 29]].)''\n\n[[File:SBS35 3 Tsurumihamarumarumushi-jiisan.png|right|180px]]",
+                        "matches": [
+                            [
+                                138,
+                                201,
+                                "File:SBS35 3 Asa Pierrot.png|thumb|center|500px|Asa Pierrot"
+                            ],
+                            [
+                                208,
+                                217,
+                                "Buggy"
+                            ],
+                            [
+                                459,
+                                476,
+                                "SBS Volume 29"
+                            ],
+                            [
+                                482,
+                                544,
+                                "File:SBS35 3 Tsurumihamarumarumushi-jiisan.png|right|180px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Wow. That's interesting, \"Asa Pierrot\". After the volume in which I drew \"Ohiru Rider\", many readers start drawing it in the margins of fan letters (*laugh*). \nSo this time I'll add one more person, allow me to introduce \"Tsurumihamarumarumushi-jiisan\"! Here he is \u2192\n\n''(Note: Tsurumihamarumarumushi is spelled ''\u3064\u308b\u4e09\u516b\u3007\u3007\u30e0\u30b7''. The symbols all combine together to make the face in the picture.)''",
+                        "matches": []
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS35 3 Asa Pierrot.png",
+                        "size": "500",
+                        "start": 138,
+                        "end": 201
+                    },
+                    {
+                        "file": "SBS35 3 Tsurumihamarumarumushi-jiisan.png",
+                        "size": "180",
+                        "start": 482,
+                        "end": 544
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Buggy",
+                        "link_title": "/wiki/Buggy",
+                        "is_wikipedia": false,
+                        "start": 208,
+                        "end": 217
+                    },
+                    {
+                        "text": "SBS Volume 29",
+                        "link_title": "/wiki/SBS Volume 29",
+                        "is_wikipedia": false,
+                        "start": 459,
+                        "end": 476
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "ohiru_rider",
+                        "asa_pierrot",
+                        "buggy",
+                        "tsurumihamarumarumushi_jiisan"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "sbs",
+                        "character_introduction",
+                        "name_meaning"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "D introduces Asa Pierrot-kun, Buggy's master and friend of Ohiru Rider, in SBS Volume 35; Oda adds Tsurumihamarumarumushi-jiisan as a new character."
+            }
+        ],
+        "page": "86",
+        "chapter_number": "331",
+        "page_header": "SBS35 3 Ohiru Rider.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 8,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hi there, Oda-sensei. [[Zambai|One of the guys]] in the [[Franky Family]] is wearing fishnet tights. Is that his own sense of fashion? Or is that what you're into? I'm so curious, I can't even sleep in class. Please tell me.",
+                        "matches": [
+                            [
+                                22,
+                                48,
+                                "Zambai|One of the guys"
+                            ],
+                            [
+                                56,
+                                73,
+                                "Franky Family"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "If you'll allow to dispute this point, I can say I am not into that kind of thing at all, SWEETHEART.\n\n\n[[File:SBS35 4 Foxy.png|right|150px]]",
+                        "matches": [
+                            [
+                                104,
+                                141,
+                                "File:SBS35 4 Foxy.png|right|150px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS35 4 Foxy.png",
+                        "size": "150",
+                        "start": 104,
+                        "end": 141
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "One of the guys",
+                        "link_title": "/wiki/Zambai",
+                        "is_wikipedia": false,
+                        "start": 22,
+                        "end": 48
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Franky Family",
+                        "link_title": "/wiki/Franky Family",
+                        "is_wikipedia": false,
+                        "start": 56,
+                        "end": 73
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "zambai",
+                        "franky",
+                        "oda"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "fashion",
+                        "personal_life"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "A reader asks if a character's fishnet tights reflect Oda's fashion taste, to which Oda denies and humorously clarifies his disinterest in such attire."
+            },
+            {
+                "number": 9,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei, I was curious; is [[Foxy]] the Silver Fox's [[Noro Noro no Mi]] a [[Logia]] type, [[Paramecia]] type, or [[Zoan]] type? I'll be too anxious for your reply to use the bathroom, so hurry it up.",
+                        "matches": [
+                            [
+                                30,
+                                38,
+                                "Foxy"
+                            ],
+                            [
+                                56,
+                                75,
+                                "Noro Noro no Mi"
+                            ],
+                            [
+                                78,
+                                87,
+                                "Logia"
+                            ],
+                            [
+                                94,
+                                107,
+                                "Paramecia"
+                            ],
+                            [
+                                117,
+                                125,
+                                "Zoan"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "It's a Paramecia (superhuman) type. Logia (nature) type can turn their bodies into something completely different. Zoan (animal) type can turn into animals. Everything aside from those is lumped into the Paramecia (superhuman) category. However, there are some Paramecia who can change their own bodies, as well.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Foxy",
+                        "link_title": "/wiki/Foxy",
+                        "is_wikipedia": false,
+                        "start": 30,
+                        "end": 38
+                    },
+                    {
+                        "text": "Noro Noro no Mi",
+                        "link_title": "/wiki/Noro Noro no Mi",
+                        "is_wikipedia": false,
+                        "start": 56,
+                        "end": 75
+                    },
+                    {
+                        "text": "Logia",
+                        "link_title": "/wiki/Logia",
+                        "is_wikipedia": false,
+                        "start": 78,
+                        "end": 87
+                    },
+                    {
+                        "text": "Paramecia",
+                        "link_title": "/wiki/Paramecia",
+                        "is_wikipedia": false,
+                        "start": 94,
+                        "end": 107
+                    },
+                    {
+                        "text": "Zoan",
+                        "link_title": "/wiki/Zoan",
+                        "is_wikipedia": false,
+                        "start": 117,
+                        "end": 125
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "foxy"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "anxious"
+                    ],
+                    "topics": [
+                        "devil_fruit",
+                        "paramecia_type"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Foxy's Noro Noro no Mi is a Paramecia type Devil Fruit, which falls under the superhuman category, allowing some to change their bodies."
+            },
+            {
+                "number": 10,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Now that so many [[Devil Fruit]] have appeared in the series, do you ever wonder if it would have been better to make [[Monkey D. Luffy|Luffy]] eat a different fruit other than the [[Gomu Gomu no Mi]]?",
+                        "matches": [
+                            [
+                                17,
+                                32,
+                                "Devil Fruit"
+                            ],
+                            [
+                                118,
+                                143,
+                                "Monkey D. Luffy|Luffy"
+                            ],
+                            [
+                                181,
+                                200,
+                                "Gomu Gomu no Mi"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Nope. I absolutely agonized over this before the series began, but not at all since. I love the idea of a rubberman. Well actually, I've flirted with the idea of the [[Ero Ero no Mi]] ''(Love-Love Fruit)'' maybe 13 times since then.",
+                        "matches": [
+                            [
+                                166,
+                                183,
+                                "Ero Ero no Mi"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Luffy",
+                        "link_title": "/wiki/Monkey D. Luffy",
+                        "is_wikipedia": false,
+                        "start": 118,
+                        "end": 143
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Devil Fruit",
+                        "link_title": "/wiki/Devil Fruit",
+                        "is_wikipedia": false,
+                        "start": 17,
+                        "end": 32
+                    },
+                    {
+                        "text": "Gomu Gomu no Mi",
+                        "link_title": "/wiki/Gomu Gomu no Mi",
+                        "is_wikipedia": false,
+                        "start": 181,
+                        "end": 200
+                    },
+                    {
+                        "text": "Ero Ero no Mi",
+                        "link_title": "/wiki/Ero Ero no Mi",
+                        "is_wikipedia": false,
+                        "start": 166,
+                        "end": 183
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "devil_fruit"
+                    ],
+                    "importance": [
+                        "high"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda considered different Devil Fruits for Luffy before the series, but since then, he loves the idea of Luffy having the Gomu Gomu no Mi, although he entertained the idea of the Ero Ero no Mi a few times."
+            }
+        ],
+        "page": "146",
+        "chapter_number": "334",
+        "page_header": "SBS35 4 Zambai.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 12,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Good evening, Oda-sensei!!! I was just wondering what the heck those things on [[Mont Blanc Noland]] and [[Mont Blanc Cricket]]'s heads were. Please choose from the following answers.\n{| style=margin:auto cellpadding=\"5\"\n|A: Actual chestnuts\n|",
+                        "matches": [
+                            [
+                                79,
+                                100,
+                                "Mont Blanc Noland"
+                            ],
+                            [
+                                105,
+                                127,
+                                "Mont Blanc Cricket"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Ummmmmmmm... Well... uhhh... how about... A.[[File:SBS35 5 Robin.png|right|180px]]",
+                        "matches": [
+                            [
+                                44,
+                                82,
+                                "File:SBS35 5 Robin.png|right|180px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS35 5 Robin.png",
+                        "size": "180",
+                        "start": 44,
+                        "end": 82
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Mont Blanc Noland",
+                        "link_title": "/wiki/Mont Blanc Noland",
+                        "is_wikipedia": false,
+                        "start": 79,
+                        "end": 100
+                    },
+                    {
+                        "text": "Mont Blanc Cricket",
+                        "link_title": "/wiki/Mont Blanc Cricket",
+                        "is_wikipedia": false,
+                        "start": 105,
+                        "end": 127
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "mont_blanc_noland",
+                        "mont_blanc_cricket",
+                        "robin"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "awkward"
+                    ],
+                    "topics": [
+                        "mont_blanc_noland",
+                        "mont_blanc_cricket",
+                        "mystery"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "Oda avoids directly answering and suggests looking at an image of Nico Robin instead."
+            },
+            {
+                "number": 13,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Whatever I felt like drawing \u2665\n|-\n|B: Hair\n|E: Who the hell cares (donnn)\n|-\n|C: Brains\n|F: Spirit and Soul\n|}\n\nOK, let's hear the answer. Oh, and keep up the good work.",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "[[File:Hairy man.png|center|500px]]\nYes. As you can see in the figure above, it is pretty awesome. And so, the SBS ends hair. See you in the next hair-raising volume.",
+                        "matches": [
+                            [
+                                0,
+                                35,
+                                "File:Hairy man.png|center|500px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "Hairy man.png",
+                        "size": "500",
+                        "start": 0,
+                        "end": 35
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "happy",
+                        "funny"
+                    ],
+                    "topics": [
+                        "art",
+                        "SBS",
+                        "drawing"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda responds to a playful comment about what he feels like drawing with an image and humorous remark, concluding the SBS section with a hair-related joke."
+            }
+        ],
+        "page": "166",
+        "chapter_number": "335",
+        "page_header": "SBS35 5 Mont Blanc Hair.png"
+    }
+]

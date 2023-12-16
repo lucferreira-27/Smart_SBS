@@ -1,0 +1,1079 @@
+[
+    {
+        "qa": [
+            {
+                "number": 1,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Flowchart of this SBS\n1. Odacchi will start the SBS (as usual (LOL))\n2. Questions will be asked -> Odacchi will get mad\n3. Questions will be asked -> Odacchi will look stupid\n4. SBS will end (with some weird and entertaining comedy sketch)\nP.N. SBS will now begin",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Oi Oi! SBS is not that kind of perfectly scheduled event! Besides, you were wrong from the very start. This time I will perfectly and neatly begi...the SBS has already started!! You started it with your Pen Name!!\n\n[[File:SBS91_Tama.png|thumb|150px]]",
+                        "matches": [
+                            [
+                                215,
+                                250,
+                                "File:SBS91_Tama.png|thumb|150px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS91_Tama.png",
+                        "size": "150",
+                        "start": 215,
+                        "end": 250
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "playful",
+                        "funny"
+                    ],
+                    "topics": [
+                        "SBS",
+                        "comic sketch"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda playfully corrects the reader's flowchart, denying its accuracy and humorously pointing out the SBS has already begun."
+            },
+            {
+                "number": 2,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I will give you a Kibi Dango that came off of my thigh so please let me start this SBS. P.N. Match and Taxi",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Shut up!!!{{-}}\n\n[[File:SBS91 Chopper.png|thumb|100px]]",
+                        "matches": [
+                            [
+                                17,
+                                55,
+                                "File:SBS91 Chopper.png|thumb|100px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS91 Chopper.png",
+                        "size": "100",
+                        "start": 17,
+                        "end": 55
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "food"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "The reader offers Kibi Dango and introduces themselves, to which Oda responds humorously with a picture of Chopper telling them to shut up."
+            },
+            {
+                "number": 3,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "In Ch. 825, Chopper happily ate the Cotton Candy Snow that fell from the Candy Cloud. If erotic books fell from the sky, what would Odacchi do? Yeah. P.N. Recklessly",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yaaay!! Opens wide <3 Chew, chew, che\u2026Wha..!! I messed up!! If I eat it then I can\u2019t read it!! Aaaaaaaa{{-}}\n\n[[File:SBS91 Law.png|thumb|100px]]",
+                        "matches": [
+                            [
+                                110,
+                                144,
+                                "File:SBS91 Law.png|thumb|100px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS91 Law.png",
+                        "size": "100",
+                        "start": 110,
+                        "end": 144
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "tony_tony_chopper"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "happy",
+                        "funny"
+                    ],
+                    "topics": [
+                        "food",
+                        "erotic_books"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "Chopper regrets eating the Cotton Candy Snow, as he can't read it; Oda humorously responds he can't read erotic books if they fell from the sky."
+            },
+            {
+                "number": 4,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "When Luffy and Usopp see robots their eyes sparkle. When it comes to the super cool Law, what sort of reaction would he have? P.N. Not sure what this is P.N. Mika ni Baami",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Like this. I mean, just imagine it. If a robot appeared before his eyes, of course they would become like this!!{{-}}",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "luffy",
+                        "usopp",
+                        "law"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "excited"
+                    ],
+                    "topics": [
+                        "robots",
+                        "reactions"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Law would have a similar reaction to Luffy and Usopp when seeing robots, with sparkling eyes and excitement."
+            }
+        ],
+        "page": "48",
+        "chapter_number": "912",
+        "page_header": "SBS91 Header 1.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 5,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Why is Karoo staring so intently at Leo!? Is it because he is a pirate?? P.N. Ehara Ryota",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Ah in the Levely chapter (906) right. This is just simple jealousy because Vivi said \"Cute\" when she saw Leo.{{-}}\n\n[[File:SBS91 Chaton Momousagi 1.png|thumb|150px]]",
+                        "matches": [
+                            [
+                                116,
+                                165,
+                                "File:SBS91 Chaton Momousagi 1.png|thumb|150px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS91 Chaton Momousagi 1.png",
+                        "size": "150",
+                        "start": 116,
+                        "end": 165
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "vivi_nefertari",
+                        "leo"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "jealous"
+                    ],
+                    "topics": [
+                        "levely",
+                        "jealousy"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Karoo is jealous of Leo because Vivi called him cute in chapter 906's Levely chapter."
+            },
+            {
+                "number": 6,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-san, thanks for all the hard work. In Chapter 907, the Marine Woman who called Vice-admiral Garp \u201cGarp-chan\u201d was Momousagi introduced in the Volume 74 SBS right? Also the Marine who called Momousagi \u201cOnee-chan\u201d was the one introduced in Volume 75 Chaton right? P.N. Brook\u2019s younger brother{{-}}\n\n[[File:SBS91 Chaton Momousagi 2.png|thumb|250px]]",
+                        "matches": [
+                            [
+                                300,
+                                349,
+                                "File:SBS91 Chaton Momousagi 2.png|thumb|250px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yep, you got it! Both of them were hidden characters that would be coming out in the film [GOLD] so I absolutely had to finish their designs.\n\n[[File:SBS91 Chaton Momousagi 3.png|thumb|left|250px]]{{-}}\n\n[[File:SBS91 Hina.png|thumb|150px]]",
+                        "matches": [
+                            [
+                                143,
+                                197,
+                                "File:SBS91 Chaton Momousagi 3.png|thumb|left|250px"
+                            ],
+                            [
+                                204,
+                                239,
+                                "File:SBS91 Hina.png|thumb|150px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS91 Chaton Momousagi 2.png",
+                        "size": "250",
+                        "start": 300,
+                        "end": 349
+                    },
+                    {
+                        "file": "SBS91 Chaton Momousagi 3.png",
+                        "size": "250",
+                        "start": 143,
+                        "end": 197
+                    },
+                    {
+                        "file": "SBS91 Hina.png",
+                        "size": "150",
+                        "start": 204,
+                        "end": 239
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "momousagi",
+                        "hina",
+                        "chaton"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "SBS_hidden_characters",
+                        "One_Piece_film_GOLD",
+                        "character_design",
+                        "marine"
+                    ],
+                    "importance": [
+                        "high"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda confirms that Momousagi and Chaton were indeed introduced in volume 74 and 75 SBS, and were originally designed for the film [GOLD]."
+            },
+            {
+                "number": 7,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchi!! In Ch. 907, Hina calls Vice Admiral Garp, \u201cGarp-kun\u201d but isn\u2019t she only a Rear Admiral!? How can she call use \u201c-kun\u201d for someone not only so much her senior but also a higher rank?? P.N. Best Horse",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "She did say that didn\u2019t she. It\u2019s not like Hina uses \u201c-kun\u201d for all the important people she knows. It\u2019s because Garp himself is constantly interacting with people who care a lot about rank. When he sees the cheeky attitude of Hina, he feels like they are kindred spirits in that way.{{-}}",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "hina",
+                        "garp"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "military_rank",
+                        "character_interaction"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Hina calls Garp 'Garp-kun' because of his casual attitude towards rank, and he feels a kinship with her in that."
+            }
+        ],
+        "page": "66",
+        "chapter_number": "913",
+        "page_header": "SBS91 Header 2.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 8,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Daifuku can unleash a genie from his stomach so I was thinking, when he rubs his belly so much, does he ever just let out a giant fart instead? P.N. Fart noise",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes{{-}}\n\n[[File:SBS91 Galette Power.png|thumb|250px]]",
+                        "matches": [
+                            [
+                                10,
+                                54,
+                                "File:SBS91 Galette Power.png|thumb|250px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS91 Galette Power.png",
+                        "size": "250",
+                        "start": 10,
+                        "end": 54
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "daifuku",
+                        "genie"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "humorous"
+                    ],
+                    "topics": [
+                        "devil_fruit"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Daifuku's genie comes from his belly, so he doesn't fart when rubbing it."
+            },
+            {
+                "number": 9,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I\u2019m curious about the Devil Fruit ability of Galette that let her immobilize Nami. The Charlotte family sure has a ton of ability users. P.N. Oda Mania",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Galette ate the \u201cBata Bata no Mi\u201d and became a Butter Human. She can manipulate butter so the answer is with butter. There definitely are a lot of Devil Fruit users but if I took the time to explain each and every one the story wouldn\u2019t be able to move forward. For the ones that I didn\u2019t have time to draw, please just continue to read on! For the few that still want to know, that\u2019s what the SBS and ONE PIECE Field Guides are for!!{{-}}\n\n[[File:SBS91 Yonko Officer.png|thumb|150px]]",
+                        "matches": [
+                            [
+                                441,
+                                485,
+                                "File:SBS91 Yonko Officer.png|thumb|150px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS91 Yonko Officer.png",
+                        "size": "150",
+                        "start": 441,
+                        "end": 485
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "galette",
+                        "nami"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "devil_fruit",
+                        "one_piece_world",
+                        "sbs_and_field_guides"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Galette ate the Butter-Butter Fruit, allowing her to manipulate butter to immobilize Nami; Oda explains not all Devil Fruit users are elaborated in the story."
+            },
+            {
+                "number": 10,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "All the characters of \u201cFour Emperors Officers\u201d class have very high bounties. Do their bounties ever go up simply for the reason that they are the Officer of XX? P.N. Rice LOVE",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes yes, that totally happens. After the Dressrosa incident, all the people involved with the Straw Hat Crew got a flat 50 million increase. The crew members\u2019 bounties often increase with their captain. This is because it is actually fairly difficult to appraise the strength of each individual person and assign a money value to them.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "straw_hat_crew"
+                    ],
+                    "places": [
+                        "dressrosa"
+                    ],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "bounties",
+                        "strength",
+                        "appraisal"
+                    ],
+                    "importance": [
+                        "high"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Bounties of 'Four Emperors Officers' can increase just because of their association with the crew and based on the captain's bounty, as appraising individual strength is difficult."
+            },
+            {
+                "number": 11,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello! Oda-sensei! Please tell us the hobbies, favourite food, and disliked food for each of the four Revolutionary Army Commanders! PN. Tattsu\n\n[[File:SBS91 Revolutionary Commanders.png|center|400px]]",
+                        "matches": [
+                            [
+                                145,
+                                201,
+                                "File:SBS91 Revolutionary Commanders.png|center|400px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Karasu\n\n* Hobby: Volunteering\n* Favourite food: Wieners\n* Disliked food: All chicken dishes\n\nLindberg\n\n* Hobby: Board games\n* Favourite food: Hamburgers\n* Disliked food: Cookies\n\nBetty\n\n* Hobby: Kitchen gardening (growing herbs, etc.)\n* Favourite food: Almonds\n* Disliked food: Mayonnaise\n\nMorley\n\n* Hobby: Karaoke and Underground walks\n* Favourite food: Bagna Cauda\n* Disliked food: Fish",
+                        "matches": []
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS91 Revolutionary Commanders.png",
+                        "size": "400",
+                        "start": 145,
+                        "end": 201
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "karasu",
+                        "lindberg",
+                        "betty",
+                        "morley"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "hobbies",
+                        "favorite_food",
+                        "disliked_food"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Revolutionary Army Commanders' hobbies and food preferences are revealed: Karasu, volunteering and wieners; Lindberg, board games and hamburgers; Betty, kitchen gardening and almonds; Morley, karaoke and Bagna Cauda."
+            }
+        ],
+        "page": "84",
+        "chapter_number": "914",
+        "page_header": "SBS91 Header 3.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 12,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei, I need to tell you about the world\u2019s biggest mystery (Preface)\u2026 What kind of chin is Iva-chan\u2019s chin? I\u2019m so interested, I\u2019m so interested, I\u2019m so interested. P.N. Chiba Peanuts",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I understand. You\u2019re interested about three times huh. That is a [Fried Squid]. [Fried Squid Chin]! (Appropriate){{-}}\n\n[[File:SBS91 Greeeen.png|thumb|250px]]",
+                        "matches": [
+                            [
+                                120,
+                                158,
+                                "File:SBS91 Greeeen.png|thumb|250px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS91 Greeeen.png",
+                        "size": "250",
+                        "start": 120,
+                        "end": 158
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "iva_chan"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "mystery",
+                        "Iva-chan's_chin",
+                        "SBS",
+                        "food"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Iva-chan's chin is a 'Fried Squid Chin,' which the author finds appropriate, and the reader seems very interested in it."
+            },
+            {
+                "number": 13,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "The theme songs that play in the Tokyo One Piece Tower, [4ever Don!!!!!] and [PHANTOM ~ Promise ~] by GReeeeN, were compiled into an album named [Roots of D]. Roots of D (emoji). Is GReeeeN inheriting the Will of D okay? It is right? IT IS RIGHT? P.N. Toppi Grand Fleet Captain Ota-kun",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Ah you\u2019re talking about the Tokyo One Piece Tower \u201cShow\u201d Theme Song. And you\u2019re asking about the D in that album name!! In fact I heard from the person who wrote it, Hide-san from GReeeeN about what the D in [Roots of D] is supposed to mean\u2026it is The Will of D!!! Wow Wow Clap Clap. He was pretty carefree about the whole thing, but that\u2019s basically what he said (LOL). It\u2019s a great album so please listen to it! If you get the chance to see it, the Tokyo One Piece Tower Show is on every day so go visit that as well! [PHANTOM] was directed by me as well. It\u2019s pretty great!{{-}}\n\n[[File:SBS91 Brulee.png|thumb|150px]]",
+                        "matches": [
+                            [
+                                582,
+                                619,
+                                "File:SBS91 Brulee.png|thumb|150px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS91 Brulee.png",
+                        "size": "150",
+                        "start": 582,
+                        "end": 619
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [
+                        "Tokyo",
+                        "One Piece Tower"
+                    ],
+                    "topics": [
+                        "theme songs",
+                        "GReeeeN",
+                        "Will of D",
+                        "album",
+                        "Tokyo One Piece Tower Show",
+                        "music"
+                    ],
+                    "emotions": [
+                        "happy",
+                        "funny"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "GReeeeN's album 'Roots of D' inherits 'The Will of D,' confirmed by the band's Hide-san as per Oda, along with directing 'PHANTOM' for the Tokyo One Piece Tower Show."
+            },
+            {
+                "number": 14,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Br\u00fbl\u00e9e-san is a wonderful lady, I love her and would love to take her out on a date. Is there a possibility of me dating or marrying a member of the Charlotte family\u2026.? P.N. Sakura Tree",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I understand. It\u2019s the Moe that comes with being an Imouto right!! Don\u2019t go eloping on us!!{{-}}",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "br\u00fbl\u00e9e"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "relationships"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader expresses love for Br\u00fbl\u00e9e and asks if it's possible to date or marry a Charlotte family member; Oda jokes about the 'moe' associated with younger sister characters."
+            }
+        ],
+        "page": "122",
+        "chapter_number": "916",
+        "page_header": "SBS91 Header 4.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 15,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "In the beginning, everyone who was drinking alcohol drank it from a glass that looked like a Beer Mug. Somewhere down the line, it transformed into something looking like a little barrel instead. When did you make this change? Why did you make this change? Please tell us! Ei-chan (flower) P.N. Shoe Coco",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Very sharp. Isn\u2019t a barrel more pirate-like!? Well that\u2019s the official story anyway\u2026. The law in Japan says you can\u2019t drink alcohol if you\u2019re under 20 years old so its better if you can\u2019t see what anybody is drinking (LOL). However, I do think the barrel is cooler than the beer mug anyway!!{{-}}",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "alcohol_drinking_vessel",
+                        "design_change"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Eiichiro Oda changed the alcohol container from a beer mug to a little barrel to make it look more pirate-like and to comply with Japan's laws regarding alcohol visibility."
+            },
+            {
+                "number": 16,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I want to see the future of Zoro at age 40 and 60 as well! From Captain Nobuo",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "If he lives on without any major problems, I think it would be something like this\n\n[[File:SBS91 Zoro.png|thumb|center|400px]]\n\n* Age 40: Yontoryu (Four Sword Style) Zoro\n* Age 60: Gotoryu (Five Sword Style) Zoro\n\nA future where \u201csomething\u201d happens\n\n* Age 40: I\u2019m quitting. Holding that katana in my mouth has made my back hurt\n* Age 60: I\u2019ll do dogeza (kneeling down) if you\u2019ll lend me some money.",
+                        "matches": [
+                            [
+                                84,
+                                126,
+                                "File:SBS91 Zoro.png|thumb|center|400px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS91 Zoro.png",
+                        "size": "400",
+                        "start": 84,
+                        "end": 126
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "roronoa_zoro"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "humorous"
+                    ],
+                    "topics": [
+                        "zoro_future",
+                        "ageing"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Zoro's future at age 40 involves a Four Sword Style, while at age 60, he's seen with a Five Sword Style and contemplates quitting and asking for money."
+            }
+        ],
+        "page": "140",
+        "chapter_number": "917",
+        "page_header": "SBS91 Header 5.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 17,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Good evening Oda-sensei! Luffy often says [Kaizoku Ou ni, ore wa naru!] (I\u2019ll be the pirate king) but why doesn\u2019t he ever say [Ore wa, kaizoku ou ni naru!]? Is there any special meaning behind the way he says it? P.N. Hyoniki",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "What a laugh! This question is finally asked after 90 volumes! Somebody has finally caught on. The truth is, about 20 years ago when the ONE PIECE anime was first starting, the man I now call \u201cThe Father of ONE PIECE\u201d, Toei Animation\u2019s Producer Shimizu-san, asked me the same question. Because I had such a strong obsession when it comes to this phrase, Shimizu-san was assured that ONE PIECE would be a success!! That strong obsession was\u2026!! To be continued (it won\u2019t be continued). Well\u2026in summary it is just a \u201cstrong phrase\u201d. Although the grammar of [Ore wa kaizoku ou ni naru!] is better, I thought that Luffy wouldn\u2019t be able to tell the difference anyway! Basically the answer is we went with the flow!{{-}}\n\n[[File:SBS91 Gally.png|thumb|150px]]",
+                        "matches": [
+                            [
+                                716,
+                                752,
+                                "File:SBS91 Gally.png|thumb|150px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS91 Gally.png",
+                        "size": "150",
+                        "start": 716,
+                        "end": 752
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "moneky_d_luffy"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "language_use",
+                        "anime_production"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda reveals that 20 years ago, he had a strong obsession with the phrase 'Kaizoku Ou ni, ore wa naru!' and chose it for Luffy despite better grammar."
+            },
+            {
+                "number": 18,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Heso! I have a question. I just finished reading through [ROMANCE DAWN] and I was wondering isn\u2019t the pirate that was waiting for Zeff\u2019s cooking at Baratie in Ch. 902 the same pirate, \u201cCrescent Moon Galley\u201d that appeared in Romance Dawn? P.N. Takataka",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Well spotted, very knowledgeable. You\u2019re right! This is pirate named Crescent Moon Galley who appeared in the ONE PIECE prototype anthology (ONE PIECE RED collection). Congratulations, very impressive!\n\n[[File:SBS91 Pangaea Castle.png|thumb|150px]]",
+                        "matches": [
+                            [
+                                203,
+                                248,
+                                "File:SBS91 Pangaea Castle.png|thumb|150px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS91 Pangaea Castle.png",
+                        "size": "150",
+                        "start": 203,
+                        "end": 248
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "crescent_moon_galley",
+                        "Zeff"
+                    ],
+                    "places": [
+                        "Baratie"
+                    ],
+                    "emotions": [
+                        "happy"
+                    ],
+                    "topics": [
+                        "one_piece_prototype",
+                        "romance_dawn",
+                        "characters_history"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Crescent Moon Galley from chapter 902 is the same pirate who appeared in the ONE PIECE prototype anthology, as recognized by the reader."
+            },
+            {
+                "number": 19,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchi, I have a serious question. The name of the castle shown at Mary Geoise, \u201cPangaea Castle\u201d, was it possibly named after the ancient continent where all the other continents were pieced together like a giant puzzle. In other words, isn\u2019t that where ONE PIECE is? I think the fact that Pangaea castle is located in the centre of the world is consistent with this. P.N. Shock Ninja from Somewhere",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Pangaea Supercontinent. The giant continent from long ago formed from the fusion of all the continents. I definitely borrowed the name, as for the meaning\u2026? I won\u2019t tell. Lol.{{-}}",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [
+                        "Mary Geoise"
+                    ],
+                    "emotions": [
+                        "playful"
+                    ],
+                    "topics": [
+                        "Pangaea Castle",
+                        "One Piece",
+                        "Pangaea Supercontinent"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "The reader wonders if the name 'Pangaea Castle' hints at the location of ONE PIECE, but Oda confirms borrowing the name from the ancient supercontinent without disclosing its meaning."
+            }
+        ],
+        "page": "158",
+        "chapter_number": "918",
+        "page_header": "SBS91 Header 6.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 20,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei, I have a question. When I was in 6th grade, I went through special training to be able to perform Shigan and stab through someone with one finger. I wanted the power to stab my meddling friends back then but now my only power is to say to them \u201cWow your nails sure are long\u2026\u201d I wanted to know how many years of training you need in order to perform Shigan? P.N. Itokouzu",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I think it's best if you don\u2019t stab your friends.{{-}}\n\n[[File:SBS91 Morley.png|thumb|150px]]",
+                        "matches": [
+                            [
+                                56,
+                                93,
+                                "File:SBS91 Morley.png|thumb|150px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS91 Morley.png",
+                        "size": "150",
+                        "start": 56,
+                        "end": 93
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "caution"
+                    ],
+                    "topics": [
+                        "Rokushiki",
+                        "Shigan",
+                        "training"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader asks Oda about training to perform Shigan, and Oda advises against stabbing friends, suggesting it's best not to pursue such abilities."
+            },
+            {
+                "number": 21,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "What is Morley-san\u2019s power? In Chapter 538, Iva-sama said that Newkama Land was created by a \u201cTunnel Digging Ability User\u201d. Does Morley-san have anything to do with this? Since giants have such long lifespans, could it be that Morley-san made it a long time ago? P.N. Salami Meat{{-}}\n\n[[File:SBS91 Ivankov.png|thumb|150px]]",
+                        "matches": [
+                            [
+                                286,
+                                324,
+                                "File:SBS91 Ivankov.png|thumb|150px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes, exactly right. First off, Morley\u2019s ability is the \u201cOshi Oshi no Mi\u201d. He has the power to break apart and push away various objects, be submerged underground, and create space there. He (she) is currently 160 years old, but he used to be an extremely evil pirate who was captured more than 100 years ago where he created \u201cthat\u201d place within Impel Down. Aside from being an ability user, he managed to break out of prison without people noticing but then he got involved in a certain \u201cincident\u201d. Him joining the revolutionary army is actually a fairly recent event. Iva-san made use of the space that was created but he/she was the one that created the atmosphere. Although Morley was the one that made the space, Newkama Land was undoubtedly created by Iva-san. In the end, Iva-san still doesn\u2019t know that the tunnel digging ability user is Morley.{{-}}",
+                        "matches": []
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS91 Ivankov.png",
+                        "size": "150",
+                        "start": 286,
+                        "end": 324
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "morley",
+                        "iva-sama"
+                    ],
+                    "places": [
+                        "newkama_land",
+                        "impel_ down"
+                    ],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "devil_fruit",
+                        "revolutionary_army",
+                        "impel_down"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Morley has the 'Oshi Oshi no Mi' power to break and push objects, create space underground, and is related to the creation of Newkama Land and a certain incident."
+            },
+            {
+                "number": 22,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-san!! I heard that you aren\u2019t able to buy adult magazines at the convenience store!! Does this mean I also can\u2019t buy ONE PIECE there? P.N. Captain Nobuo",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Listen, listen!! Remember this well!! ONE PIECE is\u2026!! A SHONEN MANGA!!!! And with that, the SBS is over!! Until next volume!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "playful"
+                    ],
+                    "topics": [
+                        "One_Piece_manga",
+                        "shonen"
+                    ],
+                    "importance": "hight",
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader asks if they can buy One Piece at a convenience store like adult magazines, Oda clarifies that it's a shonen manga and ends the SBS."
+            }
+        ],
+        "page": "176",
+        "chapter_number": "919",
+        "page_header": "SBS91 Header 7.png"
+    }
+]

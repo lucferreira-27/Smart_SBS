@@ -1,0 +1,1198 @@
+[
+    {
+        "qa": [
+            {
+                "number": 1,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchi, Oddachi, Odacchi, good morning. By the way, let's begin the SBS! And now my question: On page 128 of Volume 31, the kids are asking for a story about the land of the dwarves, right? Right? RIGHT??? Please explain. P.N. Uekenger",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Geez, you\u2019ve got the momentum of an avalanche, don\u2019t you? Starting the SBS, asking questions\u2014I can\u2019t get a word in! I\u2019m glad you found this, though. Perhaps you might find the answer to your question in Chapter 713, which starts right over there (Points to the left side to the cover of [[Chapter 713]]) Give it a read.\n\n[[File:SBS72 1 Franky.png|right|130px]]",
+                        "matches": [
+                            [
+                                287,
+                                302,
+                                "Chapter 713"
+                            ],
+                            [
+                                321,
+                                360,
+                                "File:SBS72 1 Franky.png|right|130px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS72 1 Franky.png",
+                        "size": "130",
+                        "start": 321,
+                        "end": 360
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Chapter 713",
+                        "link_title": "/wiki/Chapter 713",
+                        "is_wikipedia": false,
+                        "start": 287,
+                        "end": 302
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "uekenger",
+                        "franky"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "sbs_moment",
+                        "dwarves_story"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "D: Asks about a reference to dwarves in Volume 31, and Oda suggests finding answers in Chapter 713."
+            },
+            {
+                "number": 2,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "When the crew left Punk Hazard, Franky\u2019s shirt said \u201cJK\u201d on it... But he makes such a gross JK (TN: JK stands for ''joshi-kosei\u00a0''or female high schooler)!!! P.N. Sanji Ikari",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Like OMG, I totally agree!!! He\u2019s like, totally creepy!!! But the more I see those braided pigtails, the more I think they look good on him, and that\u2019s totally gross too!!!\n[[File:SBS72 1 Drawing.png|right|105px]]",
+                        "matches": [
+                            [
+                                173,
+                                213,
+                                "File:SBS72 1 Drawing.png|right|105px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS72 1 Drawing.png",
+                        "size": "105",
+                        "start": 173,
+                        "end": 213
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "franky",
+                        "sanji"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "disgust",
+                        "funny"
+                    ],
+                    "topics": [
+                        "fashion",
+                        "funny"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader questions the meaning behind Franky's 'JK' shirt, Oda agrees and jokingly mentions that Franky's pigtails also look good on him."
+            },
+            {
+                "number": 3,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Good day, Odacchi. Is this what you meant by the Ancient Weapon Pluton? P.N. Dobin",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Those are croutons, right? They\u2019re not ancient weapons named after gods in that soup... They\u2019re just croutons right?!! Just crispy little pieces of bread, right?!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "confused",
+                        "funny"
+                    ],
+                    "topics": [
+                        "ancient_weapon_pluton",
+                        "croutons",
+                        "misunderstanding"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader asks if croutons are the Ancient Weapon Pluton, Oda clarifies they are just crispy bread and not ancient weapons."
+            }
+        ],
+        "page": "26",
+        "chapter_number": "712",
+        "page_header": "SBS72 Header 1.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 5,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "It seems that [[Trafalgar D. Water Law|Trafalgar Law]] , in the midst of his alliance with the Straw Hats, gives them some nicknames. What are all the things he calls the various members of the crew like Zoro and Franky? P.N. Edward Yacchi",
+                        "matches": [
+                            [
+                                14,
+                                54,
+                                "Trafalgar D. Water Law|Trafalgar Law"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Tell you what, I'll answer these both at the same time.\n\n{{-}}\n{| style=\"margin:auto;\"\n|[[File:SBS72 2 Luffy.png|75px]]||\n*[[Monkey D. Luffy|Luffy]]\n*Straw Hat-ya\n*[[Wikipedia:Okinawa Prefecture|Okinawa]]\n|[[File:SBS72 2 Zoro.png|75px]]||\n*[[Roronoa Zoro|Zoro]]\n*Zoro-ya\n*[[Wikipedia:Hokkaido|Hokkaido]]\n|[[File:SBS72 2 Nami.png|75px]]||\n*[[Nami]]\n*Nami-ya\n*[[Wikipedia:Ehime Prefecture|Ehime]]\n|-\n|[[File:SBS72 2 Usopp.png|75px]]||\n*[[Usopp]]\n*Nose-ya\n*[[Wikipedia:Kanagawa Prefecture|Kanagawa]]\n|[[File:SBS72 2 Sanji.png|75px]]||\n*[[Sanji]]\n*Black Leg-ya\n*[[Wikipedia:Kyoto Prefecture|Kyoto]]\n|[[File:SBS72 2 Chopper.png|75px]]||\n*[[Tony Tony Chopper|Chopper]]\n*Tony-ya\n*[[Wikipedia:Toyama Prefecture|Toyama]]\n|-\n|[[File:SBS72 2 Robin.png|75px]]||\n*[[Nico Robin|Robin]]\n*Nico-ya\n*[[Wikipedia:Osaka Prefecture|Osaka]]\n|[[File:SBS72 2 Franky.png|75px]]||\n*[[Franky]]\n*Robo-ya\n*[[Wikipedia:Nagasaki Prefecture|Nagasaki]]\n|[[File:SBS72 2 Brook.png|75px]]||\n*[[Brook]]\n*Bone-ya\n*[[Wikipedia:Tottori Prefecture|Tottori]]\n|}",
+                        "matches": [
+                            [
+                                88,
+                                119,
+                                "File:SBS72 2 Luffy.png|75px"
+                            ],
+                            [
+                                123,
+                                148,
+                                "Monkey D. Luffy|Luffy"
+                            ],
+                            [
+                                164,
+                                204,
+                                "Wikipedia:Okinawa Prefecture|Okinawa"
+                            ],
+                            [
+                                206,
+                                236,
+                                "File:SBS72 2 Zoro.png|75px"
+                            ],
+                            [
+                                240,
+                                261,
+                                "Roronoa Zoro|Zoro"
+                            ],
+                            [
+                                272,
+                                303,
+                                "Wikipedia:Hokkaido|Hokkaido"
+                            ],
+                            [
+                                305,
+                                335,
+                                "File:SBS72 2 Nami.png|75px"
+                            ],
+                            [
+                                339,
+                                347,
+                                "Nami"
+                            ],
+                            [
+                                358,
+                                394,
+                                "Wikipedia:Ehime Prefecture|Ehime"
+                            ],
+                            [
+                                399,
+                                430,
+                                "File:SBS72 2 Usopp.png|75px"
+                            ],
+                            [
+                                434,
+                                443,
+                                "Usopp"
+                            ],
+                            [
+                                454,
+                                496,
+                                "Wikipedia:Kanagawa Prefecture|Kanagawa"
+                            ],
+                            [
+                                498,
+                                529,
+                                "File:SBS72 2 Sanji.png|75px"
+                            ],
+                            [
+                                533,
+                                542,
+                                "Sanji"
+                            ],
+                            [
+                                558,
+                                594,
+                                "Wikipedia:Kyoto Prefecture|Kyoto"
+                            ],
+                            [
+                                596,
+                                629,
+                                "File:SBS72 2 Chopper.png|75px"
+                            ],
+                            [
+                                633,
+                                662,
+                                "Tony Tony Chopper|Chopper"
+                            ],
+                            [
+                                673,
+                                711,
+                                "Wikipedia:Toyama Prefecture|Toyama"
+                            ],
+                            [
+                                716,
+                                747,
+                                "File:SBS72 2 Robin.png|75px"
+                            ],
+                            [
+                                751,
+                                771,
+                                "Nico Robin|Robin"
+                            ],
+                            [
+                                782,
+                                818,
+                                "Wikipedia:Osaka Prefecture|Osaka"
+                            ],
+                            [
+                                820,
+                                852,
+                                "File:SBS72 2 Franky.png|75px"
+                            ],
+                            [
+                                856,
+                                866,
+                                "Franky"
+                            ],
+                            [
+                                877,
+                                919,
+                                "Wikipedia:Nagasaki Prefecture|Nagasaki"
+                            ],
+                            [
+                                921,
+                                952,
+                                "File:SBS72 2 Brook.png|75px"
+                            ],
+                            [
+                                956,
+                                965,
+                                "Brook"
+                            ],
+                            [
+                                976,
+                                1016,
+                                "Wikipedia:Tottori Prefecture|Tottori"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "question",
+                        "text": "Mr. Oda, hello! If the Straw Hats were different prefectures of Japan, what they would be? For example, would Nami be from Ehime, I\u2019d love to hear from you! P.N. T. Rina",
+                        "matches": []
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS72 2 Luffy.png",
+                        "size": "75",
+                        "start": 88,
+                        "end": 119
+                    },
+                    {
+                        "file": "SBS72 2 Zoro.png",
+                        "size": "75",
+                        "start": 206,
+                        "end": 236
+                    },
+                    {
+                        "file": "SBS72 2 Nami.png",
+                        "size": "75",
+                        "start": 305,
+                        "end": 335
+                    },
+                    {
+                        "file": "SBS72 2 Usopp.png",
+                        "size": "75",
+                        "start": 399,
+                        "end": 430
+                    },
+                    {
+                        "file": "SBS72 2 Sanji.png",
+                        "size": "75",
+                        "start": 498,
+                        "end": 529
+                    },
+                    {
+                        "file": "SBS72 2 Chopper.png",
+                        "size": "75",
+                        "start": 596,
+                        "end": 629
+                    },
+                    {
+                        "file": "SBS72 2 Robin.png",
+                        "size": "75",
+                        "start": 716,
+                        "end": 747
+                    },
+                    {
+                        "file": "SBS72 2 Franky.png",
+                        "size": "75",
+                        "start": 820,
+                        "end": 852
+                    },
+                    {
+                        "file": "SBS72 2 Brook.png",
+                        "size": "75",
+                        "start": 921,
+                        "end": 952
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Trafalgar Law",
+                        "link_title": "/wiki/Trafalgar D. Water Law",
+                        "is_wikipedia": false,
+                        "start": 14,
+                        "end": 54
+                    },
+                    {
+                        "text": "Luffy",
+                        "link_title": "/wiki/Monkey D. Luffy",
+                        "is_wikipedia": false,
+                        "start": 123,
+                        "end": 148
+                    },
+                    {
+                        "text": "Okinawa",
+                        "link_title": "/wiki/Wikipedia:Okinawa Prefecture",
+                        "is_wikipedia": false,
+                        "start": 164,
+                        "end": 204
+                    },
+                    {
+                        "text": "Zoro",
+                        "link_title": "/wiki/Roronoa Zoro",
+                        "is_wikipedia": false,
+                        "start": 240,
+                        "end": 261
+                    },
+                    {
+                        "text": "Hokkaido",
+                        "link_title": "/wiki/Wikipedia:Hokkaido",
+                        "is_wikipedia": false,
+                        "start": 272,
+                        "end": 303
+                    },
+                    {
+                        "text": "Ehime",
+                        "link_title": "/wiki/Wikipedia:Ehime Prefecture",
+                        "is_wikipedia": false,
+                        "start": 358,
+                        "end": 394
+                    },
+                    {
+                        "text": "Kanagawa",
+                        "link_title": "/wiki/Wikipedia:Kanagawa Prefecture",
+                        "is_wikipedia": false,
+                        "start": 454,
+                        "end": 496
+                    },
+                    {
+                        "text": "Kyoto",
+                        "link_title": "/wiki/Wikipedia:Kyoto Prefecture",
+                        "is_wikipedia": false,
+                        "start": 558,
+                        "end": 594
+                    },
+                    {
+                        "text": "Chopper",
+                        "link_title": "/wiki/Tony Tony Chopper",
+                        "is_wikipedia": false,
+                        "start": 633,
+                        "end": 662
+                    },
+                    {
+                        "text": "Toyama",
+                        "link_title": "/wiki/Wikipedia:Toyama Prefecture",
+                        "is_wikipedia": false,
+                        "start": 673,
+                        "end": 711
+                    },
+                    {
+                        "text": "Robin",
+                        "link_title": "/wiki/Nico Robin",
+                        "is_wikipedia": false,
+                        "start": 751,
+                        "end": 771
+                    },
+                    {
+                        "text": "Osaka",
+                        "link_title": "/wiki/Wikipedia:Osaka Prefecture",
+                        "is_wikipedia": false,
+                        "start": 782,
+                        "end": 818
+                    },
+                    {
+                        "text": "Nagasaki",
+                        "link_title": "/wiki/Wikipedia:Nagasaki Prefecture",
+                        "is_wikipedia": false,
+                        "start": 877,
+                        "end": 919
+                    },
+                    {
+                        "text": "Tottori",
+                        "link_title": "/wiki/Wikipedia:Tottori Prefecture",
+                        "is_wikipedia": false,
+                        "start": 976,
+                        "end": 1016
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Nami",
+                        "link_title": "/wiki/Nami",
+                        "is_wikipedia": false,
+                        "start": 339,
+                        "end": 347
+                    },
+                    {
+                        "text": "Usopp",
+                        "link_title": "/wiki/Usopp",
+                        "is_wikipedia": false,
+                        "start": 434,
+                        "end": 443
+                    },
+                    {
+                        "text": "Sanji",
+                        "link_title": "/wiki/Sanji",
+                        "is_wikipedia": false,
+                        "start": 533,
+                        "end": 542
+                    },
+                    {
+                        "text": "Franky",
+                        "link_title": "/wiki/Franky",
+                        "is_wikipedia": false,
+                        "start": 856,
+                        "end": 866
+                    },
+                    {
+                        "text": "Brook",
+                        "link_title": "/wiki/Brook",
+                        "is_wikipedia": false,
+                        "start": 956,
+                        "end": 965
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy",
+                        "trafalgar_law",
+                        "roronoa_zoro",
+                        "nami",
+                        "usopp",
+                        "sanji",
+                        "tony_tony_chopper",
+                        "nico_robin",
+                        "franky",
+                        "brook"
+                    ],
+                    "places": [
+                        "okinawa",
+                        "hokkaido",
+                        "ehime",
+                        "kanagawa",
+                        "kyoto",
+                        "toyama",
+                        "osaka",
+                        "nagasaki",
+                        "tottori"
+                    ],
+                    "emotions": [
+                        "friendly"
+                    ],
+                    "topics": [
+                        "straw_hat_alliance"
+                    ],
+                    "importance": [
+                        "high"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "Law gives nicknames to Straw Hat members like calling Zoro 'Zoro-ya' or Nami 'Nami-ya'; Oda associates crew members with different prefectures such as Nami with Ehime."
+            },
+            {
+                "number": 6,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "N/A",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Geez, what a long pen name! I\u2019d like to tell you a story from Papua New Guinea. It is that when the rabbits ran out of food to eat, they tricked the fish into lining up so they could cross the sea on the backs of the fish. Do you supposed they made up that folk tale when they noticed the dancing white waves looked like rabbits? They do look like that sometimes, don\u2019t they?\n{{-}}",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [
+                        "Papua_New_Guinea"
+                    ],
+                    "emotions": [
+                        "amused"
+                    ],
+                    "topics": [
+                        "folk_tale",
+                        "rabbits",
+                        "fish",
+                        "dancing_waves"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda talks about a long pen name and shares a folk tale from Papua New Guinea about rabbits tricking fish into crossing the sea on their backs."
+            }
+        ],
+        "page": "46",
+        "chapter_number": "713",
+        "page_header": "SBS72 Header 2.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 7,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello, Mr. Oda! I have a question about [[Rebecca]] the gladiator. I couldn\u2019t help that, perhaps due to your personal tastes, she is exposing quite a lot of skin. My question regards her bikini bottom. Is it possible that beneath that flap of cloth is a paradise of non-pantyness? I\u2019m so curious about this, I can\u2019t even put on any underwear. P.N. Tanpopo",
+                        "matches": [
+                            [
+                                40,
+                                51,
+                                "Rebecca"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Hmm, I see. I have a feeling that I shouldn\u2019t answer this question. I know the answer, but I\u2019ll keep it to myself! Sweet dreams!\n\n[[File:SBS72 3 Bartolomeo.png|right|135px]]",
+                        "matches": [
+                            [
+                                130,
+                                173,
+                                "File:SBS72 3 Bartolomeo.png|right|135px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS72 3 Bartolomeo.png",
+                        "size": "135",
+                        "start": 130,
+                        "end": 173
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Rebecca",
+                        "link_title": "/wiki/Rebecca",
+                        "is_wikipedia": false,
+                        "start": 40,
+                        "end": 51
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "rebecca",
+                        "mr_oda"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "playful"
+                    ],
+                    "topics": [
+                        "clothing",
+                        "fan_service"
+                    ],
+                    "importance": "low",
+                    "isCharacterInsertion": true
+                },
+                "summary": "Question about Rebecca's bikini bottom, Oda declines to answer, knowing the truth but keeping it secret."
+            },
+            {
+                "number": 8,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Mr. Odacchi, howdy! [[Bartolomeo]]'s so cool right? So what if his birthday is October 6? Y\u2019know, since \u201cto\u201d can be 10, and \u201clo\u201d is short for \u201croku\u201d, or 6! Also, what are his height, age and place of birth details? P.N. ''One Piece'' is the reason for living",
+                        "matches": [
+                            [
+                                20,
+                                34,
+                                "Bartolomeo"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Birthday?! Hmm... I dunno, should I use that? Sure, I guess. His height is 220&nbsp;cm, he\u2019s 24 years and he\u2019s from [[East Blue]].\n[[File:SBS72 3 Robin.png|right|185px]]",
+                        "matches": [
+                            [
+                                116,
+                                129,
+                                "East Blue"
+                            ],
+                            [
+                                131,
+                                169,
+                                "File:SBS72 3 Robin.png|right|185px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS72 3 Robin.png",
+                        "size": "185",
+                        "start": 131,
+                        "end": 169
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Bartolomeo",
+                        "link_title": "/wiki/Bartolomeo",
+                        "is_wikipedia": false,
+                        "start": 20,
+                        "end": 34
+                    },
+                    {
+                        "text": "East Blue",
+                        "link_title": "/wiki/East Blue",
+                        "is_wikipedia": false,
+                        "start": 116,
+                        "end": 129
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "bartolomeo"
+                    ],
+                    "places": [
+                        "east_blue"
+                    ],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "bartolomeo",
+                        "birthday",
+                        "height",
+                        "age",
+                        "birthplace"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Bartolomeo's birthday is October 6, he is 220cm tall, 24 years old, and from East Blue, as confirmed by Oda in the SBS."
+            },
+            {
+                "number": 9,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "\u201cI\u2019m so jealous of [[Leo]] the Tontatta!\u201d, my dad says. Apparently he wants to explore in Robin\u2019s region B too. Can you help him explore her boo...er, region B without my mom finding out? P.N. Orika Kaykyoin",
+                        "matches": [
+                            [
+                                19,
+                                26,
+                                "Leo"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "At first, I just wrote it as \u201cRegion Boobs\u201d and laughed my ass off. But then my editor said it wasn\u2019t allowed, and we got into a big fight. Since I\u2019m out of shape, I wound up with a skull fracture. What\u2019s wrong with the world that I\u2019m the damn author and I can\u2019t even write what I want! I get no respect, I tell ya! {{-}}",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Leo",
+                        "link_title": "/wiki/Leo",
+                        "is_wikipedia": false,
+                        "start": 19,
+                        "end": 26
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "leo",
+                        "robin"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "editing_censorship",
+                        "authorial_frustration"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda initially named Robin's region as 'Region Boobs,' but had to change it due to restrictions; he ended up with a skull fracture."
+            }
+        ],
+        "page": "66",
+        "chapter_number": "714",
+        "page_header": "SBS72 Header 3.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 10,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Which one is a cat? P.N. Milk",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Okay, um... Hmmm. Which one? Well they both look like cats to me... Plus, if those aren't cats, what would they be? Gonna guess... the left one? Let's check the answer... THEY DIDN'T WRITE AN ANSWER!!!\n[[File:SBS72 4 Jeet & Abdullah.png|right|175px]]",
+                        "matches": [
+                            [
+                                202,
+                                250,
+                                "File:SBS72 4 Jeet & Abdullah.png|right|175px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS72 4 Jeet & Abdullah.png",
+                        "size": "175",
+                        "start": 202,
+                        "end": 250
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "uncertainty"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "D asks Oda which character is a cat, Oda guesses and complains about the lack of answer in the image."
+            },
+            {
+                "number": 11,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Take this, Odacchi! Western Lariat!!! And now, my question! In [[Chapter 704]], you introduced the former bounty hunters [[Abdullah]] and [[Jeet]] Are they two former pro wrestlers, [[wikipedia:Abdullah the Butcher|Abdullah the Butcher]] and [[wikipedia:Tiger Jeet Singh|Tiger Jeet Singh]]? Abdullah's the one who gouged his forehead with forks! You like pro wrestling, Odacchi? Are you in the pro-wrestling generation?\u00a0P.N. Joker",
+                        "matches": [
+                            [
+                                63,
+                                78,
+                                "Chapter 704"
+                            ],
+                            [
+                                121,
+                                133,
+                                "Abdullah"
+                            ],
+                            [
+                                138,
+                                146,
+                                "Jeet"
+                            ],
+                            [
+                                182,
+                                237,
+                                "wikipedia:Abdullah the Butcher|Abdullah the Butcher"
+                            ],
+                            [
+                                242,
+                                289,
+                                "wikipedia:Tiger Jeet Singh|Tiger Jeet Singh"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "That lariat hurt! Well thanks, you just broke my neck. You're right, that is correct. Japan was in the midst of its pro wrestling craze when I was in elementary school. I loved that stuff, so this is my tribute to the greatest heels who ever menaced the ring, The Butcher and Jeet Singh!!\n[[File:SBS72 4 Ideo.png|right|175px]]",
+                        "matches": [
+                            [
+                                289,
+                                326,
+                                "File:SBS72 4 Ideo.png|right|175px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS72 4 Ideo.png",
+                        "size": "175",
+                        "start": 289,
+                        "end": 326
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Abdullah the Butcher",
+                        "link_title": "/wiki/Abdullah the Butcher",
+                        "is_wikipedia": true,
+                        "start": 182,
+                        "end": 237
+                    },
+                    {
+                        "text": "Tiger Jeet Singh",
+                        "link_title": "/wiki/Tiger Jeet Singh",
+                        "is_wikipedia": true,
+                        "start": 242,
+                        "end": 289
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Chapter 704",
+                        "link_title": "/wiki/Chapter 704",
+                        "is_wikipedia": false,
+                        "start": 63,
+                        "end": 78
+                    },
+                    {
+                        "text": "Abdullah",
+                        "link_title": "/wiki/Abdullah",
+                        "is_wikipedia": false,
+                        "start": 121,
+                        "end": 133
+                    },
+                    {
+                        "text": "Jeet",
+                        "link_title": "/wiki/Jeet",
+                        "is_wikipedia": false,
+                        "start": 138,
+                        "end": 146
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "abdullah",
+                        "jeet",
+                        "joker"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "playful",
+                        "humorous"
+                    ],
+                    "topics": [
+                        "pro_wrestling",
+                        "tribute",
+                        "childhood_interests"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "D asks if the former bounty hunters Abdullah and Jeet are inspired by pro wrestlers. Oda confirms and mentions he's paying tribute to Abdullah the Butcher and Tiger Jeet Singh."
+            },
+            {
+                "number": 12,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Nice to meet you, Mr. Oda! I've been wondering, is [[Ideo]] (NOTE: Originally written ''Idea'', probably a typing error) the Boxer based from the old robot show [[wikipedia:Space Runaway Ideon|Ideon]]? P.N. Astro Robo Sasa (age 38)",
+                        "matches": [
+                            [
+                                51,
+                                59,
+                                "Ideo"
+                            ],
+                            [
+                                161,
+                                200,
+                                "wikipedia:Space Runaway Ideon|Ideon"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "That's right. I took the idea from the old robot anime show Ideon. Sorry, I had so many characters to introduce. I started having too much fun with them. It was like a robot with extended shoulders like this on the right. It was the very first plastic model I got as a kid. {{-}}",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Ideon",
+                        "link_title": "/wiki/Space Runaway Ideon",
+                        "is_wikipedia": true,
+                        "start": 161,
+                        "end": 200
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Ideo",
+                        "link_title": "/wiki/Ideo",
+                        "is_wikipedia": false,
+                        "start": 51,
+                        "end": 59
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "ideo"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "character_design",
+                        "anime_influence"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Ideo is based on the old robot anime show Ideon, with Oda apologizing for having too much fun with the characters and explaining his childhood inspiration."
+            }
+        ],
+        "page": "86",
+        "chapter_number": "715",
+        "page_header": "SBS72 Header 4.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 13,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello, Mr. Oda! I noticed that [[Dressrosa]] was based on our home in Spain, so I decided to send you this letter as the speaker of our group. Why did you choose Spain? If you ever have reason to visit Spain, I hope you visit Barcelona's [[wikipedia:Sal\u00f3n del Manga de Barcelona|Sal\u00f3 del Manga]] (a Catalan manga/anime convention). Nothing to be afraid of! Our women don't stab you! P.N. Voice of the Pirate King",
+                        "matches": [
+                            [
+                                31,
+                                44,
+                                "Dressrosa"
+                            ],
+                            [
+                                238,
+                                295,
+                                "wikipedia:Sal\u00f3n del Manga de Barcelona|Sal\u00f3 del Manga"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "This is a condensed version of a letter I received from Spain. The Japanese was strange in a few places, so I think that must have come from one of those auto-translation sites. Thanks for the letter. You're right about Dressrosa. It's based on Spain, and Ancient Greece for the [[Corrida Colosseum|Colosseum]] parts.\u00a0\n[[File:SBS72 5 Doflamingo.png|right|135px]]When I took a close look at [[Donquixote Doflamingo|Doflamingo]] and tried to think of what country is suited him. I arrived at the conclusion of Spain. I've mentioned the lands of One Piece being inspired by real-life countries in the SBS before, but it's the first time I got feedback from the residents of the country. I can't be irresponsible in the way I draw, but if you do see anything that seems like a half-baked version of your culture or buildings, please forgive me. Remember, it's just a manga.\n[[File:SBS72 5 Worst Generation.png|right|135px]]",
+                        "matches": [
+                            [
+                                279,
+                                310,
+                                "Corrida Colosseum|Colosseum"
+                            ],
+                            [
+                                319,
+                                362,
+                                "File:SBS72 5 Doflamingo.png|right|135px"
+                            ],
+                            [
+                                390,
+                                426,
+                                "Donquixote Doflamingo|Doflamingo"
+                            ],
+                            [
+                                870,
+                                919,
+                                "File:SBS72 5 Worst Generation.png|right|135px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS72 5 Doflamingo.png",
+                        "size": "135",
+                        "start": 319,
+                        "end": 362
+                    },
+                    {
+                        "file": "SBS72 5 Worst Generation.png",
+                        "size": "135",
+                        "start": 870,
+                        "end": 919
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Sal\u00f3 del Manga",
+                        "link_title": "/wiki/Sal\u00f3n del Manga de Barcelona",
+                        "is_wikipedia": true,
+                        "start": 238,
+                        "end": 295
+                    },
+                    {
+                        "text": "Colosseum",
+                        "link_title": "/wiki/Corrida Colosseum",
+                        "is_wikipedia": false,
+                        "start": 279,
+                        "end": 310
+                    },
+                    {
+                        "text": "Doflamingo",
+                        "link_title": "/wiki/Donquixote Doflamingo",
+                        "is_wikipedia": false,
+                        "start": 390,
+                        "end": 426
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Dressrosa",
+                        "link_title": "/wiki/Dressrosa",
+                        "is_wikipedia": false,
+                        "start": 31,
+                        "end": 44
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "donquixote_doflamingo"
+                    ],
+                    "places": [
+                        "dressrosa",
+                        "spain",
+                        "corrida_colosseum",
+                        "ancient_greece",
+                        "barcelona"
+                    ],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "inspiration",
+                        "culture",
+                        "feedback"
+                    ],
+                    "importance": [
+                        "high"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda confirms Dressrosa is based on Spain and Ancient Greece, inspired by feedback from Spanish residents."
+            },
+            {
+                "number": 14,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I've been wondering for ages\u2014would you draw gender-swapped versions of [[The Worst Generation]] for us? In face, please do!!! P.N. Momokichi",
+                        "matches": [
+                            [
+                                71,
+                                95,
+                                "The Worst Generation"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I got so many requests for this. I mean, I'll do it, but it's creepy, okay? Check it out on page 166. I haven't shown Blackbeard since the timeskip yet, so he's not included. That's all for the SBS. See you next volume! {{-}}",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "The Worst Generation",
+                        "link_title": "/wiki/The Worst Generation",
+                        "is_wikipedia": false,
+                        "start": 71,
+                        "end": 95
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "blackbeard"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "gender_swap",
+                        "fan_request"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader asks Oda to draw gender-swapped versions of The Worst Generation, which he finds creepy but agrees to do, excluding Blackbeard."
+            }
+        ],
+        "page": "146",
+        "chapter_number": "718",
+        "page_header": "SBS72 Header 5.png"
+    }
+]

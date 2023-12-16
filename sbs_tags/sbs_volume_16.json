@@ -1,0 +1,830 @@
+[
+    {
+        "qa": [
+            {
+                "number": 1,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "To Oda-sensei, and all you readers out there!! We're going to have today's SBS started by the wildly popular \"Ishi-20\" (MD-20)! All right, Isshi-20, go ahead!\n\nI: START THE OPERATION.",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "The operation?! Oh well, I guess I'll go ahead and start the...",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "excited"
+                    ],
+                    "topics": [],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda begins the SBS session, addressing a question from the 'Ishi-20' group."
+            },
+            {
+                "number": 2,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchi! Have no fear, for today, yes, today is the day you will start the SBS! So, are you ready?! Huh? Odacchi? Oda-chaaaaan! Ahh! There he is! ODA-CHA...AAH...AAAH...AAAACH--START THE SBS!!--OOOOO! OH NO, I SAID IT!!",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Sneezes don't sound like that!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "happy",
+                        "excited"
+                    ],
+                    "topics": [],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A fan excitedly starts One Piece's SBS session, comparing Oda's sneeze to a loud shout; Oda denies the similarity."
+            },
+            {
+                "number": 3,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "[[Eiichiro Oda|Oda]]-sensei! Good day! I have a quick question for you. Are the names \"[[Kuina]]\" ''([[Wikipedia:Rallidae|Rallidae]])'' and \"[[Tashigi]]\" ''([[Wikipedia:Snipe|Snipe]])'' actually taken from the names of birds? Please tell us! By Bird Encyclopedia Checker.",
+                        "matches": [
+                            [
+                                0,
+                                20,
+                                "Eiichiro Oda|Oda"
+                            ],
+                            [
+                                87,
+                                96,
+                                "Kuina"
+                            ],
+                            [
+                                101,
+                                132,
+                                "Wikipedia:Rallidae|Rallidae"
+                            ],
+                            [
+                                141,
+                                152,
+                                "Tashigi"
+                            ],
+                            [
+                                157,
+                                182,
+                                "Wikipedia:Snipe|Snipe"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "That's right. More specifically, they are the names of birds that cannot fly. But just because they say a bird cannot fly, doesn't mean that it never will. After all, I saw a duck fly in an anime I watched when I was little, called \"''[http://Wikipedia:The_Wonderful_Adventures_of_Nils_(TV_series) The Wonderful Adventures of Nils]''\". By the way, [[Nojiko]] (''[[Wikipedia:Yellow bunting|Yellow Bunting]]'')\u00a0is a bird's name, too.",
+                        "matches": [
+                            [
+                                348,
+                                358,
+                                "Nojiko"
+                            ],
+                            [
+                                362,
+                                405,
+                                "Wikipedia:Yellow bunting|Yellow Bunting"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Oda",
+                        "link_title": "/wiki/Eiichiro Oda",
+                        "is_wikipedia": false,
+                        "start": 0,
+                        "end": 20
+                    },
+                    {
+                        "text": "Rallidae",
+                        "link_title": "/wiki/Wikipedia:Rallidae",
+                        "is_wikipedia": false,
+                        "start": 101,
+                        "end": 132
+                    },
+                    {
+                        "text": "Snipe",
+                        "link_title": "/wiki/Wikipedia:Snipe",
+                        "is_wikipedia": false,
+                        "start": 157,
+                        "end": 182
+                    },
+                    {
+                        "text": "Yellow Bunting",
+                        "link_title": "/wiki/Wikipedia:Yellow bunting",
+                        "is_wikipedia": false,
+                        "start": 362,
+                        "end": 405
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Kuina",
+                        "link_title": "/wiki/Kuina",
+                        "is_wikipedia": false,
+                        "start": 87,
+                        "end": 96
+                    },
+                    {
+                        "text": "Tashigi",
+                        "link_title": "/wiki/Tashigi",
+                        "is_wikipedia": false,
+                        "start": 141,
+                        "end": 152
+                    },
+                    {
+                        "text": "Nojiko",
+                        "link_title": "/wiki/Nojiko",
+                        "is_wikipedia": false,
+                        "start": 348,
+                        "end": 358
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "Eiichiro Oda",
+                        "Kuina",
+                        "Tashigi",
+                        "Nojiko"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "happy",
+                        "funny"
+                    ],
+                    "topics": [
+                        "birds names",
+                        "devil fruit"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda confirms Kuina and Tashigi are from Rallidae and Snipe birds, which can't fly, but might. Nojiko is a Yellow Bunting bird's name."
+            }
+        ],
+        "page": 28,
+        "chapter_number": 137,
+        "page_header": "SBS Vol 16 header.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 4,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I couldn't help but notice something... On page 137 of Volume 15, the woman appears to have spring onions in her basket! Three of them! But the same lady later appears on page 162! Is it me, or does she have a bunch more of them? If she's got so many, does it mean they're having roasted onions for dinner? Or onion stew? Just tell me what she was going to cook! [[File:SBS16 2 Negikuma Maria.png|thumb|left|350px|[[Chapter 133|First Appearance]]\n[[Chapter 134|Second Appearance]]]]{{-}}",
+                        "matches": [
+                            [
+                                363,
+                                446,
+                                "File:SBS16 2 Negikuma Maria.png|thumb|left|350px|[[Chapter 133|First Appearance"
+                            ],
+                            [
+                                447,
+                                480,
+                                "Chapter 134|Second Appearance"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Whaaat?! I am shocked, people. I seriously jumped out of my seat when I read this postcard, and this wasn't the only one. To tell you the truth, when we were drawing the chapter, my staff said, \"Look, the onions multiplied\", and I laughed, \"Whatever, nobody will notice\", but clearly the readers are not be trifled with! Let's see, the woman's name is Negikuma Maria (Onion-Bear Maria), age 43, housewife, and today was her eldest son's birthday. She wanted to bake a delicious onion cake for her son, so she was running about the town, gathering up onions wherever she could. So the answer to your question is \"Onion Cake\". Word is, it's horrendous.",
+                        "matches": []
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS16 2 Negikuma Maria.png",
+                        "size": "350",
+                        "start": 363,
+                        "end": 446
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Second Appearance",
+                        "link_title": "/wiki/Chapter 134",
+                        "is_wikipedia": false,
+                        "start": 447,
+                        "end": 480
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "shocked",
+                        "funny"
+                    ],
+                    "topics": [
+                        "onion_cake",
+                        "inconsistency"
+                    ],
+                    "importance": "hight",
+                    "isCharacterInsertion": false
+                },
+                "summary": "The reader noticed the woman collecting spring onions in One Piece, Oda humorously reveals the woman, Negikuma Maria, planned to bake an 'Onion Cake' for her son's birthday."
+            },
+            {
+                "number": 5,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I read\u00a0[[Volume 15]]... and in it, Dr. [[Kureha]] says not to forget about his sickness, but sickness is written additionally with furigana as \"Happy\". What does she mean? Please, tell me, Oda-shaaaaaaaan!! (Crying)",
+                        "matches": [
+                            [
+                                7,
+                                20,
+                                "Volume 15"
+                            ],
+                            [
+                                39,
+                                49,
+                                "Kureha"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "She's talking about how being sick reminds\u00a0you of the happiness you take for granted when\u00a0you're not sick.\n\n[[File:SBS16 2 Kureha.png|thumb|212px]]\nKureha: Don't you forget about THAT sense of happiness just now!{{-}}",
+                        "matches": [
+                            [
+                                108,
+                                147,
+                                "File:SBS16 2 Kureha.png|thumb|212px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS16 2 Kureha.png",
+                        "size": "212",
+                        "start": 108,
+                        "end": 147
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Volume 15",
+                        "link_title": "/wiki/Volume 15",
+                        "is_wikipedia": false,
+                        "start": 7,
+                        "end": 20
+                    },
+                    {
+                        "text": "Kureha",
+                        "link_title": "/wiki/Kureha",
+                        "is_wikipedia": false,
+                        "start": 39,
+                        "end": 49
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "dr_kureha"
+                    ],
+                    "topics": [
+                        "health",
+                        "happiness"
+                    ],
+                    "emotions": [
+                        "crying",
+                        "happy"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Kureha reminds not to forget the happiness of being healthy after being sick."
+            }
+        ],
+        "page": "48",
+        "chapter_number": "138",
+        "page_header": null
+    },
+    {
+        "qa": [
+            {
+                "number": 6,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hey! Monkey D. Luffy! I'm the one who's gonna be the Pirate King! You got a problem with that, Pirate King?!",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "All right, everybody, let's all be a Pirate King! Hey, wait!! Okay, next.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy"
+                    ],
+                    "emotions": [
+                        "excited",
+                        "happy",
+                        "funny"
+                    ],
+                    "topics": [
+                        "pirate_king"
+                    ],
+                    "importance": "normal"
+                },
+                "summary": "A fan declares himself Pirate King, Oda responds by encouraging everyone to be a Pirate King then moves on to the next question."
+            },
+            {
+                "number": 7,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I am Jim Joel Satou!! And I have a question. \n\nIF I EAT [[Monkey D. Luffy|LUFFY]], CAN I BECOME A [[Gomu Gomu no Mi|GOMU HUMAN]]?!",
+                        "matches": [
+                            [
+                                56,
+                                81,
+                                "Monkey D. Luffy|LUFFY"
+                            ],
+                            [
+                                98,
+                                128,
+                                "Gomu Gomu no Mi|GOMU HUMAN"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "You'd get food poisoning.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "LUFFY",
+                        "link_title": "/wiki/Monkey D. Luffy",
+                        "is_wikipedia": false,
+                        "start": 56,
+                        "end": 81
+                    },
+                    {
+                        "text": "GOMU HUMAN",
+                        "link_title": "/wiki/Gomu Gomu no Mi",
+                        "is_wikipedia": false,
+                        "start": 98,
+                        "end": 128
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "Monkey D. Luffy"
+                    ],
+                    "topics": [
+                        "Gomu Gomu no Mi",
+                        "Devil Fruit"
+                    ],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "importance": [
+                        "low"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader asks if eating Luffy would give them Gomu Gomu no Mi powers, Oda says they'd get food poisoning instead."
+            },
+            {
+                "number": 8,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I thought of a catchphrase for One Piece.\n\n\"Friends and enemies, they're all weirdos\".",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "\"Readers and author, they're all weirdos\".\n\nWait, no, the author is normal!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "catchphrase"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader proposes the catchphrase 'Friends and enemies, they're all weirdos' for One Piece, to which Oda responds with 'Readers and author, they're all weirdos' but then clarifies that he himself is normal."
+            },
+            {
+                "number": 9,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei!! Those birthdays (in [[SBS Volume 15|Volume 15]]) were way too convenient! I want to have a word with their parents! HOWEVER! Who are [[Monkey D. Luffy|Luffy]], [[Roronoa Zoro|Zoro]], and [[Sanji]]'s parents?!",
+                        "matches": [
+                            [
+                                33,
+                                60,
+                                "SBS Volume 15|Volume 15"
+                            ],
+                            [
+                                146,
+                                171,
+                                "Monkey D. Luffy|Luffy"
+                            ],
+                            [
+                                173,
+                                194,
+                                "Roronoa Zoro|Zoro"
+                            ],
+                            [
+                                200,
+                                209,
+                                "Sanji"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Ahhhh... did I really take the easy way out? I guess you're right... I just made them up as jokes, based on their personalities. You really\u00a0<span style=\"font-weight:normal;\">can't\u00a0</span>choose a birthday over such trivial reasoning... I'll reflect on my thoughtlessness...",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Volume 15",
+                        "link_title": "/wiki/SBS Volume 15",
+                        "is_wikipedia": false,
+                        "start": 33,
+                        "end": 60
+                    },
+                    {
+                        "text": "Luffy",
+                        "link_title": "/wiki/Monkey D. Luffy",
+                        "is_wikipedia": false,
+                        "start": 146,
+                        "end": 171
+                    },
+                    {
+                        "text": "Zoro",
+                        "link_title": "/wiki/Roronoa Zoro",
+                        "is_wikipedia": false,
+                        "start": 173,
+                        "end": 194
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Sanji",
+                        "link_title": "/wiki/Sanji",
+                        "is_wikipedia": false,
+                        "start": 200,
+                        "end": 209
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy",
+                        "roronoa_zoro",
+                        "sanji"
+                    ],
+                    "topics": [
+                        "birthdays",
+                        "parents"
+                    ],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader questions about convenient birthdays, Oda admits they were jokes based on characters' personalities, he reflects on not taking it seriously."
+            },
+            {
+                "number": 10,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "What are [[Nefertari Vivi|Vivi]]-chan and [[Tony Tony Chopper|Chopper]]'s birthdays? Are they February 2 for Vivi and December 24 for Chopper?",
+                        "matches": [
+                            [
+                                9,
+                                32,
+                                "Nefertari Vivi|Vivi"
+                            ],
+                            [
+                                42,
+                                71,
+                                "Tony Tony Chopper|Chopper"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "YES, PERFECT! BWAHAHAHA, I LOVE IT!!\n\nThose are Vivi and Chopper's birthdays!! Any complaints?! I'm not listeniiiiiing!! AHAHAHAHAHA!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Vivi",
+                        "link_title": "/wiki/Nefertari Vivi",
+                        "is_wikipedia": false,
+                        "start": 9,
+                        "end": 32
+                    },
+                    {
+                        "text": "Chopper",
+                        "link_title": "/wiki/Tony Tony Chopper",
+                        "is_wikipedia": false,
+                        "start": 42,
+                        "end": 71
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "Nefertari Vivi",
+                        "Tony Tony Chopper"
+                    ],
+                    "topics": [
+                        "birthdays"
+                    ],
+                    "emotions": [
+                        "happy",
+                        "funny"
+                    ],
+                    "importance": "high",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Vivi's birthday is February 2 and Chopper's is December 24, as confirmed by Oda."
+            }
+        ],
+        "page": "88",
+        "chapter_number": "140",
+        "page_header": null
+    },
+    {
+        "qa": [
+            {
+                "number": 11,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "What kind of spot-billed duck is a [[Super Spot-Billed Duck|SUPER spot-billed duck]]?",
+                        "matches": [
+                            [
+                                35,
+                                84,
+                                "Super Spot-Billed Duck|SUPER spot-billed duck"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "You mean [[Karoo]]? Well, he's an amazing spot-billed duck. He's huge, he has no webbed feet (land-walking type), and most importantly, he has teeth when he eats. Karoo's awesome!\n\n[[File:SBS16 4 Black Den Den Mushi.png|right|100px]]",
+                        "matches": [
+                            [
+                                9,
+                                18,
+                                "Karoo"
+                            ],
+                            [
+                                181,
+                                233,
+                                "File:SBS16 4 Black Den Den Mushi.png|right|100px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS16 4 Black Den Den Mushi.png",
+                        "size": "100",
+                        "start": 181,
+                        "end": 233
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "SUPER spot-billed duck",
+                        "link_title": "/wiki/Super Spot-Billed Duck",
+                        "is_wikipedia": false,
+                        "start": 35,
+                        "end": 84
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Karoo",
+                        "link_title": "/wiki/Karoo",
+                        "is_wikipedia": false,
+                        "start": 9,
+                        "end": 18
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "karoo"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "happy",
+                        "funny"
+                    ],
+                    "topics": [
+                        "karoo_backstory",
+                        "devil_fruit"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader asks about Karoo, the Super Spot-Billed Duck; Oda describes him as huge, without webbed feet, and having teeth. He considers Karoo awesome."
+            },
+            {
+                "number": 12,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello. I have just one thing I need to say. Please take a GOOD look at the [[Black Den Den Mushi]] when its lid is on. After you answer exactly WHAT that thing is supposed to be, you may go ahead to the next question.",
+                        "matches": [
+                            [
+                                75,
+                                98,
+                                "Black Den Den Mushi"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Uhhh... I... I don't know? I don't remember drawing it, exactly... but looking at it, it seems like poop to me... like a big twisty turd pile... (refer to Volume 15, p.&nbsp;31)",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Black Den Den Mushi",
+                        "link_title": "/wiki/Black Den Den Mushi",
+                        "is_wikipedia": false,
+                        "start": 75,
+                        "end": 98
+                    }
+                ],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "amused",
+                        "silly"
+                    ],
+                    "topics": [
+                        "black den den mushi",
+                        "drawing"
+                    ],
+                    "importance": "low",
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader asks Oda to examine the Black Den Den Mushi's lid, Oda responds it looks like a pile of poop to him."
+            },
+            {
+                "number": 13,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchi, you are amazing. You made up your own letter. You know what I mean. That \"thing\" on page 180 of Volume 15. How are you supposed to pronounce that? Please tell me.\n\n[[File:SBS16 4 Lapahns.png|thumb|right|300px|From [[Chapter 135|Volume 15, Page 180]].]]",
+                        "matches": [
+                            [
+                                173,
+                                258,
+                                "File:SBS16 4 Lapahns.png|thumb|right|300px|From [[Chapter 135|Volume 15, Page 180"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "\u3074\u00ba. This is how you sound it out. Without letting your lips touch, you must explosively let out a deep breath and stick your chin out at the same time. Ready, set,\u00a0\u3074\u00ba!!\n\nWell? Did it work?\n\n''(In Japan, the sound \"Pi\" is usually written\u00a0\u3074)''",
+                        "matches": []
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS16 4 Lapahns.png",
+                        "size": "300",
+                        "start": 173,
+                        "end": 258
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "playful",
+                        "amused"
+                    ],
+                    "topics": [
+                        "pronunciation",
+                        "onepiece"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader asks how to pronounce a made-up word from One Piece's Volume 15, Chapter 135; Oda responds by explaining the pronunciation as 'pi\u00ba', a deep breath with the chin out."
+            },
+            {
+                "number": 14,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello, nice to meet you. When I saw this Q&A Corner in your books, I wanted to write my own postcard, and \"find some sign of Oda-sensei's playfulness!\" But then I couldn't find any. Everyone else is good at that.\n\nSo here's my question. What should my question be about?",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Are you totally cracked?!! SBS IS OVER. SEE YOU NEXT VOLUME!!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "amusement",
+                        "surprise"
+                    ],
+                    "topics": [
+                        "SBS corner",
+                        "communication",
+                        "playfulness"
+                    ],
+                    "importance": [
+                        "high"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader jokes about not finding Oda's playfulness in the SBS corner, Oda playfully responds 'SBS IS OVER' and will see the reader in the next volume."
+            }
+        ],
+        "page": "108",
+        "chapter_number": "141",
+        "page_header": null
+    }
+]

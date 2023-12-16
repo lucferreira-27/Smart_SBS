@@ -1,0 +1,1040 @@
+[
+    {
+        "qa": [
+            {
+                "number": 1,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei! You haven't been able to give the title call recently, but as Polar Bear, head of the \"Let Him Say the Title Call Squad\", I say you have nothing to fear!! Now, go ahead and say it, while you imitate a gorilla-ish Inoki eating a banana! by Polar Bear",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Ook! Ook-ook! Hi there ook! Mush mush everyone oohook! How are youuu?!! Ook ook chomp chomp here we go ook ook! Oooone ook ook! Twooooo ook ook mush mush! Threee ookookook! Start theheehoohoo! SB mush mush chomp chomp! Ook ook! Chomp chomp mush mush hook hook! E-ookook... Es... Munsh munsh\u2014ESCUSE ME!!! LET ME DO IT NORMALLY OOK OOK!! ..........okay. Next question.\n\n''(Note: \"Inoki\" is the legendary Japanese fighter [[Wikipedia:Antonio Inoki|Antonio Inoki]].)''\n\n\n[[File:SBS Vol 45 01.png|right|120px]]",
+                        "matches": [
+                            [
+                                419,
+                                460,
+                                "Wikipedia:Antonio Inoki|Antonio Inoki"
+                            ],
+                            [
+                                467,
+                                505,
+                                "File:SBS Vol 45 01.png|right|120px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS Vol 45 01.png",
+                        "size": "120",
+                        "start": 467,
+                        "end": 505
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Antonio Inoki",
+                        "link_title": "/wiki/Wikipedia:Antonio Inoki",
+                        "is_wikipedia": false,
+                        "start": 419,
+                        "end": 460
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "SBS",
+                        "title_call",
+                        "inoki",
+                        "author_interaction"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Polar Bear requests the title call imitating a gorilla, so Oda obliges and does the call, but then asks to do it normally."
+            },
+            {
+                "number": 2,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Is it true that you shoot out a \"Coup de Boo\" when you eat potatoes? by Modai",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "OH YES. I DO. Man, let me tell you. I accidentally ate a potato last time, and one single \"Coup de Boo\" sent me flying to New York. It was Coup de Booman in New York. Of course, I was able to get a potato to send me back home safely.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [
+                        "New York"
+                    ],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "Devil Fruit",
+                        "Coup de Boo"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Eiichiro Oda humorously confirms that eating potatoes causes him to shoot out a 'Coup de Boo' and shares a funny anecdote about being sent flying to New York."
+            },
+            {
+                "number": 3,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchi!! Out of the Six Forms, I want \"[[Rokushiki#Tekkai|Tekkai]]\" most of all, but just how hard does it make you? I mean, some places it's REALLY important to be HARD, you know what I mean?! P.N. Majin Moomin",
+                        "matches": [
+                            [
+                                40,
+                                67,
+                                "Rokushiki#Tekkai|Tekkai"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "WHAT EXACTLY DO YOU PEOPLE WANT FROM THIS SECTION?",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Tekkai",
+                        "link_title": "/wiki/Rokushiki#Tekkai",
+                        "is_wikipedia": false,
+                        "start": 40,
+                        "end": 67
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "frustrated",
+                        "irritated"
+                    ],
+                    "topics": [
+                        "Rokushiki",
+                        "Tekkai",
+                        "combat techniques"
+                    ],
+                    "importance": [
+                        "low"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader wants to know how hard Tekkai makes you, Oda responds in frustration, questioning the purpose of the Q&A section."
+            }
+        ],
+        "page": 28,
+        "chapter_number": 431,
+        "page_header": "SBS Vol 45 header.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 4,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Clang!! Clangclangclangclangclang!! Claclang!! Odaaa-senseiii... Yoyoi! I have a-uh questionnn. Does-uh [[Kumadori|Kumadori's-uh]] name-uh come-uh from theee kabuki facepaint knownnn aasssss \"kumadori\"? Yoyoyoi yoi, answer me this question please! from Sho-kun",
+                        "matches": [
+                            [
+                                104,
+                                130,
+                                "Kumadori|Kumadori's-uh"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "That's right. That's exactly what it came from.\n\n\n[[File:SBS Vol 45 03.png|thumb|120px|Ryo-san from Kochikame (center)]]",
+                        "matches": [
+                            [
+                                50,
+                                120,
+                                "File:SBS Vol 45 03.png|thumb|120px|Ryo-san from Kochikame (center)"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS Vol 45 03.png",
+                        "size": "120",
+                        "start": 50,
+                        "end": 120
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Kumadori's-uh",
+                        "link_title": "/wiki/Kumadori",
+                        "is_wikipedia": false,
+                        "start": 104,
+                        "end": 130
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "kumadori"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "character_name_origin",
+                        "kabuki",
+                        "kumadori_facepaint"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Kumadori's name comes from the kabuki facepaint known as 'kumadori.'"
+            },
+            {
+                "number": 5,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odaaachi!! I have a question, SIR! Wait! Wait! Wait! On Volume 44, p. 148, the fifth panel, c-c-c-c-c-could that be?!!!! Ryotsu from \"Kochira Katsushika-ku Kameari Koen-mae Hashutsujo\"?! Ryotsu, Ryotsu! It is! Why? But why? Why there? Is it a relative? Or what? He was transferred to the army from the police? What's the story? If you don't answer me, this is sexual harassment! by The Tacchi's Boss",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes. I got a whole mountain of letters about this. You are right, it is indeed Ryo-san from the ultra famous [[W:c:kochikame:KochiKame|\"Kochikame\"]]! Last year, Kochikame forged the incredible streak of over 30 years in publication!! So in one issue, Jump ran a little contest in which Ryo-san appeared in all the stories in the magazine, and readers had to find him. I think the\nonly reason they could get all the Jump authors in on such a feat is because of the immense respect and popularity [[W:c:kochikame:Osamu Akimoto|Akimoto-sensei]] commands. Congratulations on 30 incredible years!!",
+                        "matches": [
+                            [
+                                109,
+                                148,
+                                "W:c:kochikame:KochiKame|\"Kochikame\""
+                            ],
+                            [
+                                495,
+                                541,
+                                "W:c:kochikame:Osamu Akimoto|Akimoto-sensei"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "\"Kochikame\"",
+                        "link_title": "/wiki/W:c:kochikame:KochiKame",
+                        "is_wikipedia": false,
+                        "start": 109,
+                        "end": 148
+                    },
+                    {
+                        "text": "Akimoto-sensei",
+                        "link_title": "/wiki/W:c:kochikame:Osamu Akimoto",
+                        "is_wikipedia": false,
+                        "start": 495,
+                        "end": 541
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "ryotsu_ryotsu",
+                        "tacchis_boss"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "kochikame",
+                        "crossover",
+                        "jump_magazine",
+                        "respect",
+                        "popularity"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Ryo-san from Kochikame appeared in One Piece due to a contest celebrating Kochikame's 30-year publication streak."
+            }
+        ],
+        "page": "48",
+        "chapter_number": "432",
+        "page_header": "SBS Vol 45 02.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 6,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "[[File:SBS Vol 45 04.png|center|500px]]\n*Top Left: ''Let me into the Royal Shichibukai! (From [[SBS Volume 44]], p. 146)'' (by Ayahei in Kanagawa prefecture)\n*Top Middle: [[Laffitte]]: ''\"I have come here to recommend a certain man for the position of 'Shichibukai'.\"'' DONNN!! (by Makun's older sister in Kanagawa prefecture)\n*Top Right: ''Question: Which one is \"Kaku\"?'' (by \u93e1\u4ed4 in Chiba prefecture)\n*Bottom Left: ''If Royal Shichibukai is no good, then what about CP9?'' (by Akki in Fukui prefecture)\n*Bottom Middle: ''Please let that person into the Royal Shichibukai\u2661'' (by Yoshi-ko in Aichi prefecture)\n*Bottom Right: ''Then, is this guy is no good? Royal Shichibukai'' (by \u8170\u5149 in Chiba prefecture)",
+                        "matches": [
+                            [
+                                0,
+                                39,
+                                "File:SBS Vol 45 04.png|center|500px"
+                            ],
+                            [
+                                94,
+                                111,
+                                "SBS Volume 44"
+                            ],
+                            [
+                                171,
+                                183,
+                                "Laffitte"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "C'mon guys, KNOCK IT OFF!!! Didn't I say no enough?! NO!!! And what does the postcard in the top right have to do with anything?! Who cares?! It's A!! DUH!!\n\n\n[[File:SBS_Vol_45_05.png|right|120px]]",
+                        "matches": [
+                            [
+                                159,
+                                197,
+                                "File:SBS_Vol_45_05.png|right|120px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS Vol 45 04.png",
+                        "size": "500",
+                        "start": 0,
+                        "end": 39
+                    },
+                    {
+                        "file": "SBS_Vol_45_05.png",
+                        "size": "120",
+                        "start": 159,
+                        "end": 197
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "SBS Volume 44",
+                        "link_title": "/wiki/SBS Volume 44",
+                        "is_wikipedia": false,
+                        "start": 94,
+                        "end": 111
+                    },
+                    {
+                        "text": "Laffitte",
+                        "link_title": "/wiki/Laffitte",
+                        "is_wikipedia": false,
+                        "start": 171,
+                        "end": 183
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "laffitte"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "frustrated",
+                        "silly"
+                    ],
+                    "topics": [
+                        "shichibukai",
+                        "CP9"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Readers make requests for characters to become Royal Shichibukai, but Oda rejects them and questions the relevance of the postcards."
+            },
+            {
+                "number": 7,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "If Lady Robin can use her [[Hana Hana no Mi|Hana Hana]] Powers to make any part of her body sprout somewhere else, does that mean she can do it with her ample bosom as well? \"Nyurin-zaki\" (Breast Sprout) Boy, I'd like to take a hit from that sometime... P.N. Ero Ero no Mi Devil Fruit User.",
+                        "matches": [
+                            [
+                                26,
+                                55,
+                                "Hana Hana no Mi|Hana Hana"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "\"Ichirin-zaki\" (Single Sprout) \"Nirin-zaki\" (Double Sprout) \"Nyurin-zaki\" (Breast Sprout) Very clever!! NO IT'S NOT!! STOP THAT!! I'm sure she CAN do it though \u2661",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Hana Hana",
+                        "link_title": "/wiki/Hana Hana no Mi",
+                        "is_wikipedia": false,
+                        "start": 26,
+                        "end": 55
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "robin"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "devil_fruit",
+                        "perverted"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "Robin can use her powers to sprout her bosom somewhere else, and Oda confirms she can, despite rejecting the question playfully."
+            }
+        ],
+        "page": "68",
+        "chapter_number": "433",
+        "page_header": null
+    },
+    {
+        "qa": [
+            {
+                "number": 8,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "If [[Kokoro|Kokoro-san]] is a mermaid, why is her granddaughter [[Chimney]] a normal human? Don't mermaids pass on genetic information? from Petit Panda",
+                        "matches": [
+                            [
+                                3,
+                                24,
+                                "Kokoro|Kokoro-san"
+                            ],
+                            [
+                                64,
+                                75,
+                                "Chimney"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Kokoro-san came here from [[Fish-Man Island]] out of her respect for Tom-san, when she was a young mermaid. She married a young human man from [[Water 7]], their half-merman son married another human, and THEIR daughter was Chimney. Chimney is therefore 1/4 mermaid, so she's a very good swimmer. It was only her mermaid blood that helped such a little kid save Luffy in [[Chapter 403]], Volume 42, as he drowned.\n\n\n[[File:SBS Vol 45 07.png|right|150px]]",
+                        "matches": [
+                            [
+                                26,
+                                45,
+                                "Fish-Man Island"
+                            ],
+                            [
+                                143,
+                                154,
+                                "Water 7"
+                            ],
+                            [
+                                371,
+                                386,
+                                "Chapter 403"
+                            ],
+                            [
+                                416,
+                                454,
+                                "File:SBS Vol 45 07.png|right|150px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS Vol 45 07.png",
+                        "size": "150",
+                        "start": 416,
+                        "end": 454
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Kokoro-san",
+                        "link_title": "/wiki/Kokoro",
+                        "is_wikipedia": false,
+                        "start": 3,
+                        "end": 24
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Chimney",
+                        "link_title": "/wiki/Chimney",
+                        "is_wikipedia": false,
+                        "start": 64,
+                        "end": 75
+                    },
+                    {
+                        "text": "Fish-Man Island",
+                        "link_title": "/wiki/Fish-Man Island",
+                        "is_wikipedia": false,
+                        "start": 26,
+                        "end": 45
+                    },
+                    {
+                        "text": "Water 7",
+                        "link_title": "/wiki/Water 7",
+                        "is_wikipedia": false,
+                        "start": 143,
+                        "end": 154
+                    },
+                    {
+                        "text": "Chapter 403",
+                        "link_title": "/wiki/Chapter 403",
+                        "is_wikipedia": false,
+                        "start": 371,
+                        "end": 386
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "kokoro",
+                        "chimney",
+                        "luffy"
+                    ],
+                    "places": [
+                        "fish_man_island",
+                        "water_7",
+                        "chapter_403"
+                    ],
+                    "topics": [
+                        "mermaids",
+                        "genetics",
+                        "family",
+                        "swimming"
+                    ],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "importance": [
+                        "high"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Kokoro-san, a mermaid, married a human man from Water 7, making their daughter, Chimney, 1/4 mermaid, explaining her swimming abilities and saving Luffy."
+            },
+            {
+                "number": 9,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "In [[Chapter 422]], it said that [[Rob Lucci]] killed 500 hostages and took the captain's head. Why did he have to kill the 500 hostages? by Wiper is the Coolest!!",
+                        "matches": [
+                            [
+                                3,
+                                18,
+                                "Chapter 422"
+                            ],
+                            [
+                                33,
+                                46,
+                                "Rob Lucci"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I know, why? It's terrible. Why couldn't he just kill the bad guys? However, I had to shorten some things to make the pace move quicker. Lucci is a man who believes that \"weakness is a sin\". Therefore, if these soldiers were weak enough to be captured and expose the country to danger, they could do the same thing again in the future. So he arrived at the answer that these weak soldiers did not have the right to live, and took action accordingly. It's a hair-raising philosophy. Thanks for beating him, Luffy!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Chapter 422",
+                        "link_title": "/wiki/Chapter 422",
+                        "is_wikipedia": false,
+                        "start": 3,
+                        "end": 18
+                    },
+                    {
+                        "text": "Rob Lucci",
+                        "link_title": "/wiki/Rob Lucci",
+                        "is_wikipedia": false,
+                        "start": 33,
+                        "end": 46
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "rob_lucci",
+                        "wiper",
+                        "monkey_d_luffy"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "serious",
+                        "shocking"
+                    ],
+                    "topics": [
+                        "philosophy_of_strength",
+                        "justice",
+                        "action_consequences"
+                    ],
+                    "importance": [
+                        "high"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Lucci believes 'weakness is a sin', so he killed the hostages as they could expose the country to danger in the future."
+            }
+        ],
+        "page": "88",
+        "chapter_number": "434",
+        "page_header": "SBS Vol 45 06.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 10,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Please us tell us his name. My husband and I keep calling him \"Round Guy.\" For now. P.N. Patty",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Ummm... Tama... [[Tamagon]]. (Just made that up)\n\n\n[[File:SBS Vol 45 09.png|right|100px]]",
+                        "matches": [
+                            [
+                                16,
+                                27,
+                                "Tamagon"
+                            ],
+                            [
+                                51,
+                                89,
+                                "File:SBS Vol 45 09.png|right|100px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS Vol 45 09.png",
+                        "size": "100",
+                        "start": 51,
+                        "end": 89
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Tamagon",
+                        "link_title": "/wiki/Tamagon",
+                        "is_wikipedia": false,
+                        "start": 16,
+                        "end": 27
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "tama",
+                        "patty"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "humorous"
+                    ],
+                    "topics": [
+                        "naming"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader Patty asks for the name of a character, Oda responds by naming him Tama (Tamagon) and includes a sketch of the character."
+            },
+            {
+                "number": 11,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Do all [[Devil Fruit]] have that swirly pattern on them?",
+                        "matches": [
+                            [
+                                7,
+                                22,
+                                "Devil Fruit"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "That's right. It's what distinguishes them from other fruit. Sometimes I wonder if Sanji himself is a Devil Fruit.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Devil Fruit",
+                        "link_title": "/wiki/Devil Fruit",
+                        "is_wikipedia": false,
+                        "start": 7,
+                        "end": 22
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "sanji"
+                    ],
+                    "places": [],
+                    "emotions": [],
+                    "topics": [
+                        "devil_fruit"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "All Devil Fruits have a swirly pattern, distinguishing them from other fruits, and Sanji is sometimes joked to be a Devil Fruit."
+            },
+            {
+                "number": 12,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "In the [[SBS Volume 4|Volume 4 SBS]], you said that you read every single fanletter and postcard. Do you still do that, even now? by Koji",
+                        "matches": [
+                            [
+                                7,
+                                36,
+                                "SBS Volume 4|Volume 4 SBS"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes, of course I do. However, to be honest, there was a time when I couldn't read them all. At that point, I was easily getting one to two thousand letters or postcards a week. At the time, I had to select a few hundred out of all of those, but lately the volume of mail has come down to a manageable level (the letters from girls have really dropped off since I got married *laugh*). So now I am once again reading all 100% of them. Looking at it now, I've been getting these letters of support week after week for 10 years, which is truly a wonderful thing. Thank you. I am truly kept afloat by my readers. There's a room in our office where we store the mail, and my staff is getting worried that the floor is going to give out in there.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Volume 4 SBS",
+                        "link_title": "/wiki/SBS Volume 4",
+                        "is_wikipedia": false,
+                        "start": 7,
+                        "end": 36
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "grateful",
+                        "amused"
+                    ],
+                    "topics": [
+                        "fan_letters",
+                        "support",
+                        "reader_interaction"
+                    ],
+                    "importance": "hight",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda confirms that he still reads every fan letter, although there was a time when the volume was overwhelming, but it's now manageable."
+            }
+        ],
+        "page": "128",
+        "chapter_number": "436",
+        "page_header": "SBS Vol 45 08.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 13,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Sorry this is so sudden, Oda-sensei. Luffy's favorite food is meat. What about everyone else on the crew? And you yourself, Oda-sensei???? Chapapapapaa! P.N. I Like Cup Ramen!!!",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "These are their favorites!!\n\n*[[Monkey D. Luffy|Luffy]]: ALL KINDS OF MEAT.\n*[[Roronoa Zoro|Zoro]]: White rice, sea beast meat, stuff that goes with sake\n*[[Nami]]: Oranges, all fruit\n*[[Usopp]]: Pike from autumn islands, fish of the season\n*[[Sanji]]: Spicy seafood pasta, stuff that goes with black tea\n*[[Tony Tony Chopper|Chopper]]: Cotton candy, chocolate, sweet stuff\n*[[Nico Robin|Robin]]: Sandwiches, cakes that aren't too sweet, stuff that goes with coffee\n*[[Franky]]: Hamburgers, french fries, stuff that goes with cola\n*[[Eiichiro Oda|Oda]]: Often changes. Currently, qing jiao rou si.\n\n\n[[File:SBS Vol 45 11.png|right|100px]]",
+                        "matches": [
+                            [
+                                30,
+                                55,
+                                "Monkey D. Luffy|Luffy"
+                            ],
+                            [
+                                77,
+                                98,
+                                "Roronoa Zoro|Zoro"
+                            ],
+                            [
+                                155,
+                                163,
+                                "Nami"
+                            ],
+                            [
+                                185,
+                                194,
+                                "Usopp"
+                            ],
+                            [
+                                242,
+                                251,
+                                "Sanji"
+                            ],
+                            [
+                                306,
+                                335,
+                                "Tony Tony Chopper|Chopper"
+                            ],
+                            [
+                                375,
+                                395,
+                                "Nico Robin|Robin"
+                            ],
+                            [
+                                467,
+                                477,
+                                "Franky"
+                            ],
+                            [
+                                532,
+                                552,
+                                "Eiichiro Oda|Oda"
+                            ],
+                            [
+                                600,
+                                638,
+                                "File:SBS Vol 45 11.png|right|100px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS Vol 45 11.png",
+                        "size": "100",
+                        "start": 600,
+                        "end": 638
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Luffy",
+                        "link_title": "/wiki/Monkey D. Luffy",
+                        "is_wikipedia": false,
+                        "start": 30,
+                        "end": 55
+                    },
+                    {
+                        "text": "Zoro",
+                        "link_title": "/wiki/Roronoa Zoro",
+                        "is_wikipedia": false,
+                        "start": 77,
+                        "end": 98
+                    },
+                    {
+                        "text": "Chopper",
+                        "link_title": "/wiki/Tony Tony Chopper",
+                        "is_wikipedia": false,
+                        "start": 306,
+                        "end": 335
+                    },
+                    {
+                        "text": "Robin",
+                        "link_title": "/wiki/Nico Robin",
+                        "is_wikipedia": false,
+                        "start": 375,
+                        "end": 395
+                    },
+                    {
+                        "text": "Oda",
+                        "link_title": "/wiki/Eiichiro Oda",
+                        "is_wikipedia": false,
+                        "start": 532,
+                        "end": 552
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Nami",
+                        "link_title": "/wiki/Nami",
+                        "is_wikipedia": false,
+                        "start": 155,
+                        "end": 163
+                    },
+                    {
+                        "text": "Usopp",
+                        "link_title": "/wiki/Usopp",
+                        "is_wikipedia": false,
+                        "start": 185,
+                        "end": 194
+                    },
+                    {
+                        "text": "Sanji",
+                        "link_title": "/wiki/Sanji",
+                        "is_wikipedia": false,
+                        "start": 242,
+                        "end": 251
+                    },
+                    {
+                        "text": "Franky",
+                        "link_title": "/wiki/Franky",
+                        "is_wikipedia": false,
+                        "start": 467,
+                        "end": 477
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy",
+                        "roronoa_zoro",
+                        "nami",
+                        "usopp",
+                        "sanji",
+                        "tony_tony_chopper",
+                        "nico_robin",
+                        "franky",
+                        "eiichiro_oda"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "food"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Luffy loves meat, while Zoro likes rice and sea beast meat. Nami enjoys oranges, Usopp prefers seasonal fish, and Sanji favors spicy seafood pasta."
+            },
+            {
+                "number": 14,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hey, Odacchi! I got a question! About Devil Fruits!! If [[Kaku]] and [[Kalifa]] said they wouldn't know what their Devil Fruit were until they ate it, how come Shanks knew what Luffy's [[Gomu Gomu no Mi]] was before he ate it?? Tell me! Tell me now!! Pleeeease tell me!!! P.N. Shirogitsunekko",
+                        "matches": [
+                            [
+                                56,
+                                64,
+                                "Kaku"
+                            ],
+                            [
+                                69,
+                                79,
+                                "Kalifa"
+                            ],
+                            [
+                                185,
+                                204,
+                                "Gomu Gomu no Mi"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Well, I think I'll eventually get to explaining more about Devil Fruits in the main story, but you see, there's a book of Devil Fruits. It has info about all kinds of fruit names and abilities, but few of the fruit can actually be identified by their shape. In the case of the Gomu Gomu no Mi, there was a picture and everything, but for Kaku and Kalifa, they were talking about how they wouldn't know until they had finally eaten the fruit. That was in Volume 40.\n\nThe Volume 45 SBS is over!! Until next time!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Kaku",
+                        "link_title": "/wiki/Kaku",
+                        "is_wikipedia": false,
+                        "start": 56,
+                        "end": 64
+                    },
+                    {
+                        "text": "Kalifa",
+                        "link_title": "/wiki/Kalifa",
+                        "is_wikipedia": false,
+                        "start": 69,
+                        "end": 79
+                    },
+                    {
+                        "text": "Gomu Gomu no Mi",
+                        "link_title": "/wiki/Gomu Gomu no Mi",
+                        "is_wikipedia": false,
+                        "start": 185,
+                        "end": 204
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "kaku",
+                        "kalifa",
+                        "shanks",
+                        "luffy"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "curious"
+                    ],
+                    "topics": [
+                        "devil_fruit"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Shanks knew about Luffy's Gomu Gomu no Mi because there is a book with info and pictures of Devil Fruits, but Kaku and Kalifa didn't know until they ate it."
+            }
+        ],
+        "page": "188",
+        "chapter_number": "439",
+        "page_header": null
+    }
+]

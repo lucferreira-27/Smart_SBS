@@ -1,0 +1,757 @@
+[
+    {
+        "qa": [
+            {
+                "number": 1,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda Eiichiro-sama. Good day. Please forgive me for visiting you in my swimsuit... wait, huh?! Oda-san?! What in the whorld are you whearing?! Er, I mean, wearing?! Kyaaaa!! Nooooo!! Tmp tmp tmp (as she is leaving) Start the SBS!! P.N. Roronoa Robin",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Hey, hi there folks. You just caught me getting caught with my pants down (so to speak) by a \nrather Parisian reader, whilst I was wearing a swan-shaped baby toilet on my head and a \nballerina outfit, salvaging some carbonara, and now my corner has been started without me.\nWell, let's get going!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "roronoa_robin"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "surprised",
+                        "funny"
+                    ],
+                    "topics": [
+                        "SBS",
+                        "fashion",
+                        "humor"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda was caught off guard by a reader's surprise visit and amusing costume, prompting him to start his Q&A corner in a lighthearted manner."
+            },
+            {
+                "number": 2,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "If you got poked in the butt with a [[Rokushiki#Shigan|Shigan]], what would happen? by Pacchon III",
+                        "matches": [
+                            [
+                                36,
+                                63,
+                                "Rokushiki#Shigan|Shigan"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "You'd die.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Shigan",
+                        "link_title": "/wiki/Rokushiki#Shigan",
+                        "is_wikipedia": false,
+                        "start": 36,
+                        "end": 63
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "fighting_techniques",
+                        "humor"
+                    ],
+                    "importance": "hight",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Pacchon III asks what would happen if someone got poked in the butt with a Shigan, to which Oda bluntly responds 'You'd die.'"
+            },
+            {
+                "number": 3,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Does [[Nami]] wear a \"New Bra\" or \"No Bra\"? P.N. Tasshii",
+                        "matches": [
+                            [
+                                5,
+                                13,
+                                "Nami"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "No bra, I hope.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Nami",
+                        "link_title": "/wiki/Nami",
+                        "is_wikipedia": false,
+                        "start": 5,
+                        "end": 13
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "nami"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "clothing",
+                        "fashion"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Nami does not wear a bra, according to Oda's response to a reader's question."
+            },
+            {
+                "number": 4,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei, hello!! Umm, where does [[Paulie]]'s rope come from? And where did he come up with the names for moves like Rope Action \"Half Knot\"? They're not just random, are they? Tell us! by Buta-chan",
+                        "matches": [
+                            [
+                                36,
+                                46,
+                                "Paulie"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Paulie's ropes come shooting out of the bottom of his sleeves. Apparently, there's a whole bunch of rope hidden in the lining of his coat! And his move names aren't random! Sailboating requires a whole bunch of different knots, and mistying a single one could spell the difference between life and death! So he uses the names of all the different knots (over 200) for the names of his special attacks!! But when he can't think of a snazzy knot that suits the situation... he'll make it up!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Paulie",
+                        "link_title": "/wiki/Paulie",
+                        "is_wikipedia": false,
+                        "start": 36,
+                        "end": 46
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "paulie"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "fighting_moves",
+                        "rope_skills",
+                        "character_design"
+                    ],
+                    "importance": [
+                        "high"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Paulie's ropes come from the bottom of his sleeves where a lot of rope is hidden, and his move names are based on different knots used in sailboating, with over 200 names to choose from."
+            }
+        ],
+        "page": 46,
+        "chapter_number": 369,
+        "page_header": "SBS Vol 39 header.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 5,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei pass! *toss* It's my bomb present of love! P.N. I am a guy!!!",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Wow, thanks for the pres... Boom!!! Thunk!! Tweet tweet \"HOO HOO\" (Explanation: thrown back by the explosion into a giant cuckoo clock, stars and birdies float around my head, but instead of the cuckoo popping out of the clock, I pop out instead, with smoke shooting out of my mouth, crying \"hoo hoo\".)",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "surprised",
+                        "funny"
+                    ],
+                    "topics": [],
+                    "importance": "low",
+                    "isCharacterInsertion": false
+                },
+                "summary": "The reader throws a bomb as a present, but it explodes and sends Oda flying into a cuckoo clock, where he emerges like a cuckoo bird."
+            },
+            {
+                "number": 6,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello, Oda-sensei. I was watching TV the other day, when I saw a program with locomotives named \"Puffing Billy\" and \"The Rocket\". Are those the basis for [[Puffing Tom]] and [[Rocketman]]? P.N. Tako",
+                        "matches": [
+                            [
+                                154,
+                                169,
+                                "Puffing Tom"
+                            ],
+                            [
+                                174,
+                                187,
+                                "Rocketman"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Ahh, they did a program about those? That is correct. Puffing Billy is the name of the oldest locomotive in existence. And the Rocket was a train once famed for its great speed. Of course, they look totally different from the ones in the manga. By the way, when I was doing all sorts of research on trains, I learned that the name of the first man to build a steam engine was \"Thomas\". So I guess that's where the name of that popular kid's program came from. (Thomas the Tank Engine)",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Puffing Tom",
+                        "link_title": "/wiki/Puffing Tom",
+                        "is_wikipedia": false,
+                        "start": 154,
+                        "end": 169
+                    },
+                    {
+                        "text": "Rocketman",
+                        "link_title": "/wiki/Rocketman",
+                        "is_wikipedia": false,
+                        "start": 174,
+                        "end": 187
+                    }
+                ],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "informative"
+                    ],
+                    "topics": [
+                        "Puffing_Billy",
+                        "Rocketman",
+                        "trains",
+                        "research",
+                        "Thomas_the_Tank_Engine"
+                    ],
+                    "importance": [
+                        "high"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Puffing Tom and Rocketman are based on real locomotives, Puffing Billy and The Rocket, though they look different; Oda also mentions the origin of 'Thomas the Tank Engine'."
+            }
+        ],
+        "page": "66",
+        "chapter_number": "370",
+        "page_header": null
+    },
+    {
+        "qa": [
+            {
+                "number": 7,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hand me that soy sauce!! P.N. Hand me that salt!!'s friend",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Oh, here you go.\n[[File:SBS39 3 Michael and Hoichael Manga.png|thumb|120px]]",
+                        "matches": [
+                            [
+                                17,
+                                76,
+                                "File:SBS39 3 Michael and Hoichael Manga.png|thumb|120px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS39 3 Michael and Hoichael Manga.png",
+                        "size": "120",
+                        "start": 17,
+                        "end": 76
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "The reader requests soy sauce, and Oda responds by handing it to them."
+            },
+            {
+                "number": 8,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Please show us the faces of \"[[Michael]]\" and \"[[Michael and Hoichael|Hoichael]]\" from the backstreets. I'm so curious I can't even get up in the morning. P.N. Sanji-niiyan Love",
+                        "matches": [
+                            [
+                                29,
+                                40,
+                                "Michael"
+                            ],
+                            [
+                                47,
+                                80,
+                                "Michael and Hoichael|Hoichael"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "So, you got curious. I got a lot of these questions. They must be bad enough for Lulu and Tileston to think they would attempt to murder Iceburg. \"Michael\" and \"Hoichael\". Brace yourselves, and look upon the faces of these two gangsters!!\n\n[[File:SBS39 3 Michael and Hoichael.png|thumb|left|120px|Michael and Hoichael]]\n\n*Water Seven Backstreet Elementary School, Class 6-5 (age 12)\n*Left: Michael, Right: Hoichael\n*Times taken into custody over 6 years: 620\n*Number of school windows shattered: 997\n*Criminal Record: Yagara Bull Gang activity, shoplifting at the supermarket, etc.\n*Motto: Mmm, super!! Hero: Franky (respect for Pauly, too)\n\n[[File:SBS39 3 Mozu & Kiwi.png|thumb|90px]]",
+                        "matches": [
+                            [
+                                240,
+                                319,
+                                "File:SBS39 3 Michael and Hoichael.png|thumb|left|120px|Michael and Hoichael"
+                            ],
+                            [
+                                642,
+                                685,
+                                "File:SBS39 3 Mozu & Kiwi.png|thumb|90px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS39 3 Michael and Hoichael.png",
+                        "size": "120",
+                        "start": 240,
+                        "end": 319
+                    },
+                    {
+                        "file": "SBS39 3 Mozu & Kiwi.png",
+                        "size": "90",
+                        "start": 642,
+                        "end": 685
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Hoichael",
+                        "link_title": "/wiki/Michael and Hoichael",
+                        "is_wikipedia": false,
+                        "start": 47,
+                        "end": 80
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Michael",
+                        "link_title": "/wiki/Michael",
+                        "is_wikipedia": false,
+                        "start": 29,
+                        "end": 40
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "lulu",
+                        "tileston",
+                        "sanji",
+                        "franky",
+                        "pauly"
+                    ],
+                    "places": [
+                        "water_seven"
+                    ],
+                    "emotions": [
+                        "curious",
+                        "excited"
+                    ],
+                    "topics": [
+                        "backstreets",
+                        "gangsters",
+                        "water_seven"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "Readers inquire about Michael and Hoichael's faces in One Piece and Oda shares their appearance along with some background details."
+            },
+            {
+                "number": 9,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei, hello! I found a new member of the bird series!! It's Mos, right? by Mai p.s. ''When I tried to write \"hen\" (weird) I accidentally wrote \"koi\" (love) twice in a row. Whose fault is that?''",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "First of all, the reason you wrote \"koi\" is because you don't practice your kanji enough!!! (hard-ass) Also, \"Mozu\" is the name of a bird (shrike), but so is \"Kiwi\". And the Kiwi fruit is so named because it resembles the bird.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "mai"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "playful"
+                    ],
+                    "topics": [
+                        "bird_series",
+                        "kanji_practice"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda reveals that 'Mozu' is the name of a bird called shrike, and while Kiwi is another bird, Kiwi fruit is named after the bird."
+            }
+        ],
+        "page": "86",
+        "chapter_number": "371",
+        "page_header": null
+    },
+    {
+        "qa": [
+            {
+                "number": 10,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei, hello. Poop. Here's a question for you: Isn't that a thief right in the money exchange office, panel four of p.&nbsp;180, [[Volume 34]]??!! What's up with him? Poopy. P.N. Roids",
+                        "matches": [
+                            [
+                                134,
+                                147,
+                                "Volume 34"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Gross, what's with all the poop?! If you love poop so much, why don't you BE poop when you grow up?! (must have dreams) Anyways, they say you shouldn't judge people based on their appearances, but let's face it. He's totally a burglar. Of course, I assume he'd be after Luffy's money, but it was a twist of fate (not twist of poop) that he should come across somevery powerful pirates. He probably overheard about the bounties, and ended up unable to do a thing about it.\n\n\n[[File:SBS39 4 Zoro in Chimney.png|thumb|100px]]",
+                        "matches": [
+                            [
+                                474,
+                                522,
+                                "File:SBS39 4 Zoro in Chimney.png|thumb|100px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS39 4 Zoro in Chimney.png",
+                        "size": "100",
+                        "start": 474,
+                        "end": 522
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Volume 34",
+                        "link_title": "/wiki/Volume 34",
+                        "is_wikipedia": false,
+                        "start": 134,
+                        "end": 147
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "luffy"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "appearance_vs_reality",
+                        "burglar",
+                        "bounty"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader asks about a suspicious character in a One Piece panel, and Oda confirms he's a burglar after Luffy's money due to a twist of fate."
+            },
+            {
+                "number": 11,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei! If you don't want your urchin packed into sushi, answer this question! On p.&nbsp;65 of [[Chapter 360]] in [[Volume 38]], Zoro is stuck in the chimney. But if he slipped up there, he would either fall off the side or go in feet-first, I think. So how did he get jammed in there like a sea anemone?? P.N. Mahito",
+                        "matches": [
+                            [
+                                100,
+                                115,
+                                "Chapter 360"
+                            ],
+                            [
+                                119,
+                                132,
+                                "Volume 38"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "First of all, Zoro got knocked out of the Galley-la headquarters into the sea by [[Rob Lucci|Lucci]]. After he got out of the water, soaking wet, what could have happened to him?\n\nZoro: \"Shit, I got tossed pretty damn far.\"\n\n\"Where am I now?\"\n\n\"All right, I'll take a look from that chimney up there.\"\n\n-\"Humph.\"\n\n\"Yikes, I almost fell INTO the chimney.\"\n\n\"Man, that hole goes in deep.\"\n\n\"Let's take a bit of a look-see.\"\n\n\"Hmmmm\"\n\n\"Slip\"\n\n\"Thwup!!\"",
+                        "matches": [
+                            [
+                                81,
+                                100,
+                                "Rob Lucci|Lucci"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Lucci",
+                        "link_title": "/wiki/Rob Lucci",
+                        "is_wikipedia": false,
+                        "start": 81,
+                        "end": 100
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Chapter 360",
+                        "link_title": "/wiki/Chapter 360",
+                        "is_wikipedia": false,
+                        "start": 100,
+                        "end": 115
+                    },
+                    {
+                        "text": "Volume 38",
+                        "link_title": "/wiki/Volume 38",
+                        "is_wikipedia": false,
+                        "start": 119,
+                        "end": 132
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "Roronoa_Zoro",
+                        "Rob_Lucci"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "surprised"
+                    ],
+                    "topics": [
+                        "Zoro's_situation",
+                        "chimney_mystery"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "Zoro got knocked into the sea, then climbed into the chimney but accidentally slipped and got jammed in there like a sea anemone."
+            }
+        ],
+        "page": "146",
+        "chapter_number": "374",
+        "page_header": "SBS39 4 Thief.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 12,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I have a question. As much as I love the whole story of [[One Piece (Manga)|One Piece]], I also find myself in tears just from the chapter titles sometimes. Just the other day I noticed that the title of [[Chapter 292]], \"We Cannot Meet Again; He is as the Half Moon, Vanished in the Clouds\" was not only a haiku (in Japanese) speaking of the moon, but it also stood for Jaya and the Shandia...! This was so moving to me when I realized it. What are your favorite chapter titles so far, Oda-sensei? I'd love to know. P.N. Nenza (I also like \"The Second Person\" and \"See?)",
+                        "matches": [
+                            [
+                                56,
+                                87,
+                                "One Piece (Manga)|One Piece"
+                            ],
+                            [
+                                204,
+                                219,
+                                "Chapter 292"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Aaaahh!! What a wonderful reader! It's all a manga-ka can hope for to have readers who are willing to read so deep into his work. Thank you. Yes, there are times when I put a lot of effort into chapter titles. When I find a really good title, it can pump me up sometimes, but since it's all part of my same work, I don't think there's much use in going on about this title or that. It's enough for me to know that there are people out there who like them. I'll have plenty more fun with them.\n\n\n[[File:SBS39 5 Nami's Secret Compartment.png|thumb]]",
+                        "matches": [
+                            [
+                                495,
+                                547,
+                                "File:SBS39 5 Nami's Secret Compartment.png|thumb"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS39 5 Nami's Secret Compartment.png",
+                        "size": null,
+                        "start": 495,
+                        "end": 547
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "One Piece",
+                        "link_title": "/wiki/One Piece (Manga)",
+                        "is_wikipedia": false,
+                        "start": 56,
+                        "end": 87
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Chapter 292",
+                        "link_title": "/wiki/Chapter 292",
+                        "is_wikipedia": false,
+                        "start": 204,
+                        "end": 219
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "nami"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "happy",
+                        "appreciative"
+                    ],
+                    "topics": [
+                        "chapter_titles",
+                        "reader_engagement",
+                        "manga_creation"
+                    ],
+                    "importance": "hight",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda appreciates readers who delve deep into the chapter titles, finding joy in creating them but feels the recognition from fans is enough."
+            },
+            {
+                "number": 13,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "All right kids, it's time for bed!! (Make sure they're all asleep...) Now, it's time for the grown-ups' SBS. Odacchi!! In [[Chapter 366]], Sanji calls Nami, but where was she keeping that Baby Den Den Mushi? I hear that women have all sorts of places to hide things... I got so curious and worried that I can't sleep at night! I wonder if Odacchi himself could tell me the answer... Thanks!! by Kathy Keisuke",
+                        "matches": [
+                            [
+                                122,
+                                137,
+                                "Chapter 366"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Uhh, you know that's a dangerous place?! Fraught with peril?! The Hidden \"Nami Valley\"?! If you get lost in there once, you'll never... CRACK!! Oww!! Something hit me!! Ah! I'm a good boy, I need to get to sleep! All right folks, see you next volume!! Zzz! Crack! Oww!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Chapter 366",
+                        "link_title": "/wiki/Chapter 366",
+                        "is_wikipedia": false,
+                        "start": 122,
+                        "end": 137
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "sanji",
+                        "nami"
+                    ],
+                    "places": [
+                        "nami_valley"
+                    ],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "hidden_places"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "Sanji called Nami using a Baby Den Den Mushi, and Oda humorously dodged the question about where Nami kept it, implying it's a dangerous, hidden 'Nami Valley'."
+            }
+        ],
+        "page": "166",
+        "chapter_number": "375",
+        "page_header": null
+    }
+]

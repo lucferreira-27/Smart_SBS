@@ -1,0 +1,741 @@
+[
+    {
+        "qa": [
+            {
+                "number": 1,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Dokusha (Reader)\n*",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Oda",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader asks if Oda has ever been to an aquarium, Oda answers he hasn't because he's always working."
+            }
+        ],
+        "page": 26,
+        "chapter_number": 156,
+        "page_header": "SBS Vol 18 header.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 2,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hey, you guys who always start the SBS!! Have you ever thought of Oda-sensei's feelings?! Sheesh!!! Oh... sorry, Oda-sensei. Please say, \"Please say 'Start the SBS' today.\" Huh? Are you sure? Oh, but I couldn't. Very well, if you insist... START THE SBS!",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Hey... I didn't say anything.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "happy",
+                        "funny"
+                    ],
+                    "topics": [],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader asks Oda to say 'Start the SBS', but Oda didn't; reader apologizes and says it, Oda feigns ignorance."
+            },
+            {
+                "number": 3,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei, please settle down. Now, this is going to be extremely difficult for me to tell you but... YOUR FLY IS OPEN!!!! I'm so embarrassed!!",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Aaah! Crap. My pants' zipper was down this entire time? Okay, I'll just take them off to make sure that I never have to endure anything as embarrassing as that again. Clank, rustle... okay. Continue the SBS.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "embarrassed",
+                        "amused"
+                    ],
+                    "topics": [],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader notifies Oda his zipper was down, Oda says he'll take his pants off to check."
+            },
+            {
+                "number": 4,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "When Dr. Kureha says, \"My secret to youth?\", what exactly is her secret? My senility is supposed to get much worse about now...",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Your senility...? You're only 13. But anyways, her answer would be, \"BEING HAPPY!!\" She sure is living it up right now.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "dr_kureha"
+                    ],
+                    "topics": [
+                        "youth"
+                    ],
+                    "emotions": [
+                        "happy"
+                    ],
+                    "importance": [
+                        "high"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "Dr. Kureha's secret to youth is 'being happy', according to Oda."
+            },
+            {
+                "number": 5,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "IF YOU WANT AFRODA-KUN'S LUNCH MONEY BACK, PRINT THIS IN THE SBS. from Grapemint Tanisugi.",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "So it was you!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy",
+                        "grapemint_tanisugi"
+                    ],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "money"
+                    ],
+                    "importance": [
+                        "low"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A fan, Grapemint Tanisugi, asks for Afroda-kun's lunch money back, and Oda recognizes them."
+            }
+        ],
+        "page": "26",
+        "chapter_number": "156",
+        "page_header": null
+    },
+    {
+        "qa": [
+            {
+                "number": 5,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "N/A",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I'd like to take the time to make a little explanation for a certain group of my readers. In Volume 17, there was a character named Chessmarimo. He is a combination of the characters \"Chess\" and \"Kuromarimo\", and when he talks, it's supposed to sound like both of them speaking at the same time. In order to represent that in the manga, I stacked the letters on top of each other... But, oh how they came... A flood of complaints. From the mothers of small children. \"This book is misprinted!!\" They said that to the editors at the company. I'm extremely sorry. Please, mothers, accept it for what it is!! Just read the book instead. Chessmarimo is HILARIOUS, ISN'T HE?!! (completely unapologetic)\n\n[[File:SBS Vol 18.png|right|210px]]",
+                        "matches": [
+                            [
+                                699,
+                                734,
+                                "File:SBS Vol 18.png|right|210px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS Vol 18.png",
+                        "size": "210",
+                        "start": 699,
+                        "end": 734
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "chessmarimo"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny",
+                        "happy"
+                    ],
+                    "topics": [
+                        "behind the scenes",
+                        "misprint",
+                        "chessmarimo backstory"
+                    ],
+                    "importance": "high",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda explains the concept of Chessmarimo, a character combining 'Chess' and 'Kuromarimo', but received complaints about the misprinted appearance; he apologizes to concerned mothers, encouraging them to focus on Chessmarimo's humor."
+            },
+            {
+                "number": 6,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I have a question, Ei-chan... on panel 6 of Volume 17, page 176, what is Chopper doing? It just looks like the \"Hen na ojisan\"* to me!! Is that right? Please tell me!!",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Oh darn... I've been found out.\n<br /><small>\n*Hen na Ojisan is another character that Shimura Ken portrays and that little movement Chopper did is similar to his dance. The other character being Baka Tono doing \"Aiiiiiin!\" (see [[SBS Volume 8#Chapter 65, Page 64|SBS chapter 65]])</small>",
+                        "matches": [
+                            [
+                                229,
+                                280,
+                                "SBS Volume 8#Chapter 65, Page 64|SBS chapter 65"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "SBS chapter 65",
+                        "link_title": "/wiki/SBS Volume 8#Chapter 65, Page 64",
+                        "is_wikipedia": false,
+                        "start": 229,
+                        "end": 280
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy",
+                        "chopper",
+                        "shimura_ken",
+                        "baka_tono"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "chopper_movement",
+                        "hen_na_ojisan",
+                        "baka_tono"
+                    ],
+                    "importance": [
+                        "high"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader notices Chopper's similarity to Shimura Ken's character, Oda confirms the resemblance to Hen na Ojisan's dance."
+            },
+            {
+                "number": 7,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hey -> Oda-sense -> One Piece -> is just sooo cool!! When I was -> in class -> I accidentally drew BUGGY -> in my notebook! I have -> \"Accidentally Draw Buggy\" disease! Oh yeah -> when Shanks and Buggy were young, they were arguing about which is colder, the North Pole or the South Pole -> Which one's right? Okay, goodbye.",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Ahh, the flashback from Volume 3. The answer is, the South Pole. The Arctic is not a continent, it's just a mass of ice. Land is colder than water, so the Antarctic is correct. So Shanks was right. However, the South Pole is not the coldest place in the world.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy",
+                        "odda-sensei",
+                        "buggy",
+                        "shanks"
+                    ],
+                    "places": [
+                        "class",
+                        "north_pole",
+                        "south_pole",
+                        "arctic",
+                        "antarctic"
+                    ],
+                    "topics": [
+                        "one_piece",
+                        "devil_fruit",
+                        "fan_theory"
+                    ],
+                    "emotions": [
+                        "happy",
+                        "funny"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader accidentally doodled Buggy in class, asks about Shanks vs. young Buggy's pole debate; Oda confirms Shanks was right, South Pole is colder than North Pole, but not world's coldest place."
+            }
+        ],
+        "page": "66",
+        "chapter_number": "158",
+        "page_header": "SBS_Vol_18-1-P66.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 8,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "MAAAAAAAHAHAHAHA, AIN'T YOU A HIPPO!",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Ugh. Shut up. Enough.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "amused",
+                        "annoyed"
+                    ],
+                    "topics": [],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader calls Oda a hippo, Oda tells the reader to be quiet."
+            },
+            {
+                "number": 9,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hey, Oda-sensei. When Dr. Hiruluk got naked. WHY did there JUST SO happen to be snow obscuring the view of his MOST SPECIAL area...? by Ame no Kawa",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "If it didn't just so happen to obscure the view, you'd see his weenie.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "dr_hiruluk"
+                    ],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "dr_hiruluk_backstory",
+                        "perverted"
+                    ],
+                    "importance": [
+                        "low"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda confirms that if there was no snow, Dr. Hiruluk's private area would be visible when he got naked."
+            },
+            {
+                "number": 10,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello! Odacchi! I've noticed something incredible!! About Mr. 2 Bon Kurei. Why Mr. 2 Bon Kurei has that codename! The men have a number, and the women have events... so Mr. 2 is the male part, and Bon Kurei (Bonkure, the end of the Bon festival.) is the female part, because he's an okama, right?",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "That's right. The female agents' names are, in order, the happiest events of the year. So first;\n\n[[File:SBS Vol 18-1-P126.png|thumb|right|100px|1/1, so two pointer fingers (doublefinger)]]\n<nowiki>#</nowiki>0 is All-sunday (all sundays of the year).<br />\n<nowiki>#</nowiki>1 is Doublefinger (New Years)<br />\n<nowiki>#</nowiki>2 is Mr. 2 Bon Kurei (Bonkure)<br />\n<nowiki>#</nowiki>3 is Golden Week (Golden Week, a week off in May.)<br />\n<nowiki>#</nowiki>4 is Merry Christmas\n\n...and that's how it works. I seem to have confused everyone with Double-finger.",
+                        "matches": [
+                            [
+                                98,
+                                189,
+                                "File:SBS Vol 18-1-P126.png|thumb|right|100px|1/1, so two pointer fingers (doublefinger)"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS Vol 18-1-P126.png",
+                        "size": "100",
+                        "start": 98,
+                        "end": 189
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "mr_2_bon_kurei",
+                        "all_sunday",
+                        "doublefinger",
+                        "golden_week",
+                        "merry_christmas"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "happy",
+                        "funny"
+                    ],
+                    "topics": [
+                        "assistant_naming_system"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader points out the pattern in female agent names; Oda confirms and explains: they're the happiest events of the year, with Mr. 2 Bon Kurei being the Bon festival."
+            },
+            {
+                "number": 11,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "And here is the question. Nami's sister is Nojiko. So what is her mother's name? Yes, you, the mangaka over there.",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Okay! Umm... uhhhhh... let's see... U... Utsubo. UTSUBOKO.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "nami",
+                        "nojiko",
+                        "mangaka"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "nami's family"
+                    ],
+                    "importance": [
+                        "low"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "Reader asks about Nami's mother's name, Oda responds 'UTSUBOKO' as a joke."
+            },
+            {
+                "number": 12,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Bzzzzt, wrong. The answer is Nobuko. I'm sorry. Really, truly sorry. Take the challenge again next time!",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Awwwwwwwwww!! Nobuko. I see. One syllable different than Nojiko... Aha... I get it...... NO I DON'T!!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "nobuko"
+                    ],
+                    "emotions": [
+                        "amused",
+                        "frustrated"
+                    ],
+                    "topics": [
+                        "misunderstanding"
+                    ],
+                    "importance": "normal"
+                },
+                "summary": "Reader asks if Oda knows a woman named Nojiko, Oda mistakes name for Nobuko and apologizes for not knowing them."
+            }
+        ],
+        "page": "126",
+        "chapter_number": "161",
+        "page_header": null
+    },
+    {
+        "qa": [
+            {
+                "number": 13,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "HEY, ODACCHI. WHEN YOU GET DOWN TO IT, JUST HOW LITTLE SENSE OF DIRECTION DOES [[Roronoa Zoro|ZORO]] HAVE? I want an equation with x and y, dammit!! By Zoro Inochi",
+                        "matches": [
+                            [
+                                79,
+                                100,
+                                "Roronoa Zoro|ZORO"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Ummm... lesseee... x... plus... y. Okay, next. (Perfect)",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "ZORO",
+                        "link_title": "/wiki/Roronoa Zoro",
+                        "is_wikipedia": false,
+                        "start": 79,
+                        "end": 100
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "roronoa_zoro"
+                    ],
+                    "topics": [
+                        "sense_of_direction"
+                    ],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader asks about Zoro's sense of direction, Oda provides a 'sensible' equation as an answer."
+            },
+            {
+                "number": 14,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "My husband and I are huge fans of the \"[[Hiking Bear]]\". But we're curious about something. What happens if one forgets the \"salute\" (mountain-climbing manners)? We're so curious, we can't have any children!\n\n[[File:SBS Vol 18-1-P166.png|right|110px]]",
+                        "matches": [
+                            [
+                                39,
+                                54,
+                                "Hiking Bear"
+                            ],
+                            [
+                                209,
+                                251,
+                                "File:SBS Vol 18-1-P166.png|right|110px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes, that would be a serious problem... What I'm going to tell you is extremely important, so PLEASE remember it. Hiking Bears are bears that love mountains. They simply cannot allow people with bad manners onto the mountain. The punishment is this: sitting in correct Japanese style for one hour. It's very difficult. The people who suffer this have severely cramped legs, and they all say the same thing. \"Please kill me, now\". But the bears will not allow it. But that's what they get for insult the beloved mountain... (From the \"Drum Kingdom Animal Encyclopedia\")",
+                        "matches": []
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS Vol 18-1-P166.png",
+                        "size": "110",
+                        "start": 209,
+                        "end": 251
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Hiking Bear",
+                        "link_title": "/wiki/Hiking Bear",
+                        "is_wikipedia": false,
+                        "start": 39,
+                        "end": 54
+                    }
+                ],
+                "tags": {
+                    "characters": [],
+                    "places": [
+                        "drum kingdom"
+                    ],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "hiking bear",
+                        "mountain-climbing manners"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda explains Hiking Bears punish those with bad manners by making them sit in seiza, a painful traditional Japanese position, for an hour."
+            },
+            {
+                "number": 15,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Good evening. This is a question for Oda-sensei. \"M\u00f6we\" (Seagull) on [[Morgan]]'s chin, and \"[[Krieg]]\" (battle). German seems to show up a lot in One Piece. But do actual pirates have much to do with Germany?",
+                        "matches": [
+                            [
+                                69,
+                                79,
+                                "Morgan"
+                            ],
+                            [
+                                93,
+                                102,
+                                "Krieg"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Hmmm, probably not... In this case, I just chose words that \"sounded\" right to me. For the Krieg arc, \"battle\" was actually the main theme, so I chose a word about battle that would be easy to remember.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Morgan",
+                        "link_title": "/wiki/Morgan",
+                        "is_wikipedia": false,
+                        "start": 69,
+                        "end": 79
+                    },
+                    {
+                        "text": "Krieg",
+                        "link_title": "/wiki/Krieg",
+                        "is_wikipedia": false,
+                        "start": 93,
+                        "end": 102
+                    }
+                ],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "german_language",
+                        "one_piece_naming_conventions"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader asks why German words like 'M\u00f6we' and 'Krieg' appear in One Piece, Oda responds they sound right and were chosen for theme fitting."
+            },
+            {
+                "number": 16,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "HAPPY NEW YEAR. Hey!! You!! Oda!! Can you beat my gorilla? THE SBS IS OVER.",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "HEY!! What the hell?!! Okay... fine then, see you next volume. What? Gorilla? Nah, I couldn't beat a gorilla. They are the mightiest of primates, after all. Oh, but they like bananas... maybe I could... set up a trap... and make him slip on the peel...",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy",
+                        "oda"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "happy",
+                        "funny"
+                    ],
+                    "topics": [
+                        "devil_fruit"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader challenges Oda to fight a gorilla, Oda declines but suggests a banana peel trap; claims gorillas are strongest primates."
+            }
+        ],
+        "page": "166",
+        "chapter_number": "163",
+        "page_header": null
+    }
+]

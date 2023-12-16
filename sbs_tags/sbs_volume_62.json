@@ -1,0 +1,1005 @@
+[
+    {
+        "qa": [
+            {
+                "number": 1,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello Oda-sensei. Are you well? You always end up letting the readers say the phrase \"SBS Start\", and I am also one of those people that want to say \"SBS Start\" and start the process. But you know, the phrase \"SBS Start\" is after all a phrase that Oda-sensei should say since it is \"SBS Sta-............. P.N. Nyonsuke",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "STOOOOOOP~~!!! (shock) YOU SAID IT TOO MANY TIMES-!!! Ugh. It started... About 4 times.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "shock",
+                        "funny"
+                    ],
+                    "topics": [
+                        "SBS_start_phrase"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader wants to start the SBS session with 'SBS Start,' but Oda scolds them for saying it too many times."
+            },
+            {
+                "number": 2,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello- Hello-! Odacchi! Out of the blue, but my friend came saying \"I can activate the Buster Call with my nipple\" some time ago. Plus, apparently she can call a Fleet Admiral with it. And so, here's a question to Odacchi. Can Odacchi activate the Buster Call with his nipple? P.N. Matsuko Deluxe",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "IS YOUR BRAIN OKAY --------------- !!? (Shock) Sigh... Ah, I am sorry... I became so violent at my precious reader... I will properly respond. Uhhh... with my nipple, I can summon 5 warships and... OF COURSE NOT!!! YOU MORON!!! (Shock) ...gasp... sorry, natural reaction.\n\n[[File:SBS62 1luffy.png|right|50px]]",
+                        "matches": [
+                            [
+                                273,
+                                309,
+                                "File:SBS62 1luffy.png|right|50px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS62 1luffy.png",
+                        "size": "50",
+                        "start": 273,
+                        "end": 309
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "shock",
+                        "funny"
+                    ],
+                    "topics": [
+                        "nipple",
+                        "buster_call",
+                        "shock"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda responds to a bizarre question about summoning a Buster Call with a nipple, firmly denying the possibility with a comical reaction."
+            },
+            {
+                "number": 3,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I have found a strange confusion, Miss!! ''(This reader is pretending Oda is a female next-door neighbor)'' In Volume 51, around when Sabaody Island is first introduced, the Luffy that grew obese after eating takoyaki suddenly became skinny, and then on the next page he is fat again!! How is this possible!! Is it because he is rubber?! I'm so curious I can't go back to my home in outer space~. Pwease tell me~\u2661 P.N. Spacebot #06 14 year old~~ girl!!",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "...Ah-- . That is indeed true--. Heh heh\u2014ummm this is... in fact... THE REBOUND EFFECT. Everyone, be wary of it.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "luffy"
+                    ],
+                    "places": [
+                        "sabaody_island"
+                    ],
+                    "emotions": [
+                        "curious",
+                        "funny"
+                    ],
+                    "topics": [
+                        "devil_fruit",
+                        "body_transformation"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda explains that the rapid change in Luffy's weight is due to the rebound effect, warning readers to be wary of it."
+            }
+        ],
+        "page": "28",
+        "chapter_number": "604",
+        "page_header": "SBS62 Header 1.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 4,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Nice to meet you Odacchi!! Already, I will ask you, but the covers of Volume 1 and Volume 61... \n\n''<u>RIP-OFF</u>!!!'' Dismissed!\n\nP.N. Chi-chan's friend",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "A~HHHH!! (shock) SHOOT, I DID IT!! I didn't even notice~! I had that feeling I drew this somewhere, ya know-? Yikes, I did it again, this thing. It's a mistake!! (*To the small children. That was actually on purpose. Even though it was on purpose, the part of me that pretends it was a mistake and acts dumb makes me humorous yet even more so.)",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "shock",
+                        "humorous"
+                    ],
+                    "topics": [
+                        "cover_art",
+                        "mistake"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda accidentally repeated a cover illustration, but jokingly pretends it was intentional to add humor."
+            },
+            {
+                "number": 5,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "This is a question, Oda-sensei. During class one time, I had an emergency but my teacher wouldn't let me go to the bathroom and I had a super-embarrassing moment. If I had the Hana Hana no Mi powers, would I be able to bloom a penis in the bathroom and pee from the classroom? P.N. Loved-kun",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "...yet again, we have a moronic comment... Yep. Well still, scientifically, this is possible. That is, \"DICK FLEUR\"!!\n\n[[File:SBS62 2killer.png|right|210px]]",
+                        "matches": [
+                            [
+                                119,
+                                157,
+                                "File:SBS62 2killer.png|right|210px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS62 2killer.png",
+                        "size": "210",
+                        "start": 119,
+                        "end": 157
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "disbelief",
+                        "disappointment"
+                    ],
+                    "topics": [
+                        "devil_fruit",
+                        "perverted"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader asks if they could use the Hana Hana no Mi powers to bloom a penis in the bathroom and pee from the classroom; Oda sarcastically responds affirmatively."
+            },
+            {
+                "number": 6,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "When Killer takes his meals, does he take off his mask and eat? Or does he eat with his mask on? If with his mask still on, will it look kinda like this (\u2192) ? I'm guessing the easiest food to eat would be stick-type. from N.way-san (*caption of drawing to the right says \"cucumber\" and \"carrot\")",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Hmmm - Of course, I assume he eats with his mask on. I think stick-type is a nice idea. I hear ramen works pretty good too. Looks like his meals have pasta as a main course every day. Word is that he enjoys fresh [[Wikipedia:Spaghetti aglio e olio|''spaghetti aglio, olio e peperoncino'']]. [[Wikipedia:Naporitan|Naporitan]] and other dishes with tomato-based sauces leave his mask dirty, so it becomes a very disgusting process. For your information, alcohol is drunk with a straw.",
+                        "matches": [
+                            [
+                                213,
+                                289,
+                                "Wikipedia:Spaghetti aglio e olio|''spaghetti aglio, olio e peperoncino''"
+                            ],
+                            [
+                                291,
+                                324,
+                                "Wikipedia:Naporitan|Naporitan"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "''spaghetti aglio, olio e peperoncino''",
+                        "link_title": "/wiki/Wikipedia:Spaghetti aglio e olio",
+                        "is_wikipedia": false,
+                        "start": 213,
+                        "end": 289
+                    },
+                    {
+                        "text": "Naporitan",
+                        "link_title": "/wiki/Wikipedia:Naporitan",
+                        "is_wikipedia": false,
+                        "start": 291,
+                        "end": 324
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "killer"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "eating_habits",
+                        "food",
+                        "mask_usage"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Killer eats with his mask on, mainly enjoying stick-type foods like pasta and drinks alcohol with a straw to avoid dirtying his mask."
+            }
+        ],
+        "page": "48",
+        "chapter_number": "605",
+        "page_header": "SBS62 Header 2.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 7,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "A right-on question about the Blackbeard Pirates!!! In the before-publishing setting, there was a beauty seen, yet why did you make up your mind to include Catarina Devon instead? And \"Heavy Drinker\" Vasco Shot with his fat, long nose? Nami-san SEXY~~. P.N. Greenmask",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes. Uhh- this is referenced from a comics databook called ONE PIECE \"GREEN\" where scribbles in my sketchbook can be spotted. In some cases, I take years and years to draw and redraw a character before he/she makes an official appearance before everyone's eye in order to perfect him/her, while in other cases, I just quickly sketch them and make them official in an instant. The Blackbeard pirates would fall into the first category. I redrew their looks many times and came up with THIS IS THE RESULT OF ALL THAT WORK?! sort of faces that bring up doubts and concerns for everybody. If you ask why I took out the beauty is because the Blackbeard Pirates have a \"more pirate-like\" theme. Huge, rough, vulgar. Even if such a beauty existed, she would just ruin the mood. (although I like doing that) And so, that's how it is!!\n\n[[File:SBS62 3coby.png|right|150px]]",
+                        "matches": [
+                            [
+                                828,
+                                864,
+                                "File:SBS62 3coby.png|right|150px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS62 3coby.png",
+                        "size": "150",
+                        "start": 828,
+                        "end": 864
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "catarina_devon",
+                        "vasco_shot",
+                        "nami"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "humorous"
+                    ],
+                    "topics": [
+                        "character_design",
+                        "blackbeard_pirates",
+                        "author_intent"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda mentions redesigning characters like the Blackbeard Pirates took years, and he excluded a beauty for a more 'pirate-like' theme."
+            },
+            {
+                "number": 8,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello Oda-sensei~~\u2606 This is a speculation but could it possibly be that \"Haki\" and \"Mantra\" are the same thing? In Volume 60, since Koby was saying \"I felt the presence of people too strongly...\" so I remembered. P.N. Blackcatgirl",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes. You are very right. Well in Volume 61, Rayleigh says it clearly from his mouth though. Even though the concept is the same, there are cases where it depends on the country for what you call it. Therefore, exactly.\n\n[[File:SBS62 3clouds.png|right|200px]]",
+                        "matches": [
+                            [
+                                220,
+                                258,
+                                "File:SBS62 3clouds.png|right|200px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS62 3clouds.png",
+                        "size": "200",
+                        "start": 220,
+                        "end": 258
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "koby",
+                        "rayleigh"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "informative"
+                    ],
+                    "topics": [
+                        "haki",
+                        "mantra"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda confirms that 'Haki' and 'Mantra' are the same concept, with different names depending on the country."
+            },
+            {
+                "number": 9,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Are the clouds that Odacchi draws Cumulonimbus clouds? Or are they Odacchi's farts? P.N. Yoma Bayashiko (Wakayama prefecture) (* This person's penname is written as an opposite from Mayo Kobayashi, a proper Japanese name.)",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Fart it is. All those cloud-looking things are actually my farts.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "farts",
+                        "artstyle"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Odacchi humorously confirms that the clouds in his drawings are actually his farts, not Cumulonimbus clouds."
+            }
+        ],
+        "page": "66",
+        "chapter_number": "606",
+        "page_header": "SBS62 Header 3.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 10,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei, which Devil Fruit would you like to eat? I bet it's the Suke-Suke one anyway... P.N.Sdd",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "HE\u2014Y!!! (Shock) WHAT'S WITH THE INSTANT JUMP TO CONCLUSIONS!! YOU'RE CORRECT!! \n\n[[File:SBS62 4greyterminal.png|right|150px]]",
+                        "matches": [
+                            [
+                                81,
+                                125,
+                                "File:SBS62 4greyterminal.png|right|150px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS62 4greyterminal.png",
+                        "size": "150",
+                        "start": 81,
+                        "end": 125
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "shock",
+                        "funny"
+                    ],
+                    "topics": [
+                        "devil_fruit"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "D asks Oda which Devil Fruit he would like to eat, and Oda is surprised that D accurately guessed it would be the Suke-Suke Fruit."
+            },
+            {
+                "number": 11,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Good work everyday, sensei! Well a while ago, I was watching TV and thought, \"maybe?!\", but is the \"Gray Terminal\"'s model Smokey Mountain from the delinquent areas of Manila in the Philippines? by NN Brothers",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Ah, so it was on TV. Yes, you are correct. Reality is something that has scenes that go beyond our imaginations, and \"trash mountains burning with smoke rising up from them\" is a scenery that actually exists. There, many people really actually live there. How it is displayed in the manga is only the outer looks, and in reality, there are things like diseases that spread, and it's an everyday thing to find corpses lying around in real trash mountains. Even if you wanted to escape from that life, it doesn't go as smoothly as manga. Even if I try to explain, it's sort of not very detailed, so interested people, please look it up.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [
+                        "Gray Terminal",
+                        "Smokey Mountain",
+                        "Manila",
+                        "Philippines"
+                    ],
+                    "emotions": [
+                        "serious",
+                        "concerned"
+                    ],
+                    "topics": [
+                        "real_life_versus_manga",
+                        "poverty",
+                        "real_world_influence"
+                    ],
+                    "importance": "hight",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda confirms that the 'Gray Terminal' in One Piece is based on the Smokey Mountain in Manila, emphasizing the harsh reality of the area."
+            },
+            {
+                "number": 12,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Like \"Mugiwara-ya\", Law-san tends to call people with the \"-ya\" suffix, but in the case where the person's last name is \"Tsuchiya\", then does that become \"Tsuchiya-ya\"? Please tell me Law-san\u2661 P.N. HeartLoveWoman",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Mr. Law\u2014they're calling you --! ............. Aw he won't come-. Let me answer instead. A long time ago, around maybe the Edo period--. There was this thing called \"[[Wikipedia:Yag\u014d|Yag\u014d]]\". So if for instance, in the case where there were two Mr. commoners named \"Tomekichi-san\", things like \"D\u014dgu-ya no Tomekichi\" (Tomekichi of the Tool shop) or \"Oke-ya no Tomekichi\" (Tomekichi of the Bathtub maker); something with \"~ya\" would be used in place of a last name-. Like how you shout \"Tamaya~\" at the fireworks or \"Nakamuraya\" from Kabuki; have you heard of those? In other words, he just goes with the flow. Right, Law-san?\n\n''L: Yeah.''",
+                        "matches": [
+                            [
+                                165,
+                                188,
+                                "Wikipedia:Yag\u014d|Yag\u014d"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Yag\u014d",
+                        "link_title": "/wiki/Wikipedia:Yag\u014d",
+                        "is_wikipedia": false,
+                        "start": 165,
+                        "end": 188
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "trafalgar_law"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "language",
+                        "culture",
+                        "suffix"
+                    ],
+                    "importance": "high",
+                    "isCharacterInsertion": true
+                },
+                "summary": "Law's usage of the '-ya' suffix stems from the Edo period's convention of using it to denote a person's occupation or shop, and Law just goes with the flow."
+            }
+        ],
+        "page": "84",
+        "chapter_number": "607",
+        "page_header": "SBS62 Header 4.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 13,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "My friend accidentally returned a rental DVD box with melon bread inside. What should I do? P.N. Ponkaichidou",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yeeeaaahhh.... IT HAPPENS--. Yep, those things occur a lot! OF COURSE NOT! (shock) ...but think carefully. Was your friend really renting a DVD? Has it occurred to you that he was actually renting the melon bread? Ya know then, him returning the melon bread would be correct. Heh heh heh heh heh. MY ASS!!! (shock) WHAT THE HECK IS A RENTAL MELON BREAD!! (vein pops)",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "shock",
+                        "funny"
+                    ],
+                    "topics": [
+                        "silly"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda humorously advises the reader to consider if the friend was actually renting the melon bread, concluding it's a ridiculous scenario."
+            },
+            {
+                "number": 14,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "\u300cI THINK SO TOO.\u300d P.N. I'll say it right on!!",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yeah -!! I know right?! The question itself is strange! ...Who the heck are you!! (shock) I used half a page on things irrelevant to ONE PIECE.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "shock"
+                    ],
+                    "topics": [],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda finds the question strange and is surprised by the irrelevance, using half a page on non-One Piece topics."
+            },
+            {
+                "number": 15,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchi!! I think it's about time you wanted to do this; \"A riddle\". Nickname is not Odacchi-. I bet you felt real funny. Sure. Just do it!! Topic should be on ONE PIECE.",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Ello-! It's Odacchi!! Erm-. ONE PIECE multiplied with~~!! A.B.C.D.E ~ !! Equa-ls! EVERYONE BOING (BO. ING) !! It's Odacchi!! ...Ugh-... (dissapointed in self)",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "funny",
+                        "disappointed"
+                    ],
+                    "topics": [
+                        "riddle",
+                        "One Piece"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader asks Oda to do a riddle, Oda responds with a riddle related to One Piece in a playful manner."
+            },
+            {
+                "number": 16,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "ODA SENSEI... I DON'T THINK I'LL BE ABLE TO TREAT YOU AS HUMAN ANYMORE P.N. Positive Hollow",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "SHADDUP--!!! (shock) *huff*\n\n[[File:SBS62 5 Shachi & Penguin.png|right|110px]]",
+                        "matches": [
+                            [
+                                29,
+                                78,
+                                "File:SBS62 5 Shachi & Penguin.png|right|110px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS62 5 Shachi & Penguin.png",
+                        "size": "110",
+                        "start": 29,
+                        "end": 78
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "shachi",
+                        "penguin"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "shock"
+                    ],
+                    "topics": [],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Doubting Oda's humanity, Positive Hollow gets shut down by Oda's exasperated reaction in SBS volume 62."
+            },
+            {
+                "number": 17,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "You know how there is a \"Dude in the Casket Hat\" and a dude in the hat that says \"PENGUIN\" in Law's crew? I'm supeeeer curious about these twos' names, so please tell us! P.N. Sunflower",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes. It's Shachi and Penguin. (*Shachi means Killer Whale in Japanese)\n\n(*Labels on image from left to right: Shachi, Penguin)",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "shachi",
+                        "penguin"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "curious"
+                    ],
+                    "topics": [
+                        "law's_crew",
+                        "names"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "In Law's crew, the 'Dude in the Casket Hat' and the one in the 'PENGUIN' hat are named Shachi and Penguin, respectively."
+            }
+        ],
+        "page": "122",
+        "chapter_number": "609",
+        "page_header": "SBS62 Header 5.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 18,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Nice to meet you Odacchi sensei! I will also want to go to Kuraigana Island to meet Mihawk, but should the souvenir be takoyaki after all?! Ah, FYI, I'll be coming from Osaka. P.N. Appi-. I",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Please also bring fried squid for him. It's my favorite food. Ah, you didn't ask.\n\n[[File:SBS62 6garp.png|right|100px]]",
+                        "matches": [
+                            [
+                                83,
+                                119,
+                                "File:SBS62 6garp.png|right|100px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS62 6garp.png",
+                        "size": "100",
+                        "start": 83,
+                        "end": 119
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "mihawk",
+                        "oda"
+                    ],
+                    "places": [
+                        "kuraigana_island",
+                        "osaka"
+                    ],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "food",
+                        "souvenirs"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "A reader wants to bring Mihawk a souvenir, and Oda suggests bringing fried squid as it's his favorite, jokingly adding that the reader didn't ask for this advice."
+            },
+            {
+                "number": 19,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "In Volume 45 when Garp punched Luffy, why did it work? Was it Haki after all? Or was it \"Love\"? P.N. Mori-san",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "It is \"Love\" in this case.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy",
+                        "garp"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "haki",
+                        "love"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Garp's punch on Luffy in Volume 45 worked due to 'Love' rather than Haki."
+            },
+            {
+                "number": 20,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I have fallen in love with Akainu's ability. Is that the Gutsu Gutsu no Mi? (Boil Boil Fruit) Or, is it the Magu Magu no Mi? (Magma Magma Fruit) There are too many candidate names that I can't figure out which it is. Please tell me!! P.N. Isshi- 414",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "So I haven't officially write this anywhere? There were questions on the Three Admirals' abilities here and there that came. It is as shown below. \u2193\n\n<gallery mode=\"nolines\" position=\"center\" captionalign=\"center\" widths=\"100\">\nSakazuki Pre Timeskip Portrait.png|[[Sakazuki|Akainu]]<br />[[Magu Magu no Mi]]<br />Magma Man\nKuzan Pre Timeskip Portrait.png|[[Kuzan|Aokiji]]<br />[[Hie Hie no Mi]]<br />Ice Man\nBorsalino Portrait.png|[[Borsalino|Kizaru]]<br />Pika Pika no Mi<br />Light Man\n</gallery>\n\n[[File:Akainu Wounds Jinbe and Luffy.png|right|120px]]",
+                        "matches": [
+                            [
+                                263,
+                                282,
+                                "Sakazuki|Akainu"
+                            ],
+                            [
+                                288,
+                                307,
+                                "Magu Magu no Mi"
+                            ],
+                            [
+                                355,
+                                371,
+                                "Kuzan|Aokiji"
+                            ],
+                            [
+                                377,
+                                394,
+                                "Hie Hie no Mi"
+                            ],
+                            [
+                                431,
+                                451,
+                                "Borsalino|Kizaru"
+                            ],
+                            [
+                                500,
+                                554,
+                                "File:Akainu Wounds Jinbe and Luffy.png|right|120px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "Akainu Wounds Jinbe and Luffy.png",
+                        "size": "120",
+                        "start": 500,
+                        "end": 554
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Akainu",
+                        "link_title": "/wiki/Sakazuki",
+                        "is_wikipedia": false,
+                        "start": 263,
+                        "end": 282
+                    },
+                    {
+                        "text": "Aokiji",
+                        "link_title": "/wiki/Kuzan",
+                        "is_wikipedia": false,
+                        "start": 355,
+                        "end": 371
+                    },
+                    {
+                        "text": "Kizaru",
+                        "link_title": "/wiki/Borsalino",
+                        "is_wikipedia": false,
+                        "start": 431,
+                        "end": 451
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Magu Magu no Mi",
+                        "link_title": "/wiki/Magu Magu no Mi",
+                        "is_wikipedia": false,
+                        "start": 288,
+                        "end": 307
+                    },
+                    {
+                        "text": "Hie Hie no Mi",
+                        "link_title": "/wiki/Hie Hie no Mi",
+                        "is_wikipedia": false,
+                        "start": 377,
+                        "end": 394
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "akainu",
+                        "sakazuki",
+                        "kuzan",
+                        "borsalino"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "devil_fruit",
+                        "admirals",
+                        "abilities"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Akainu's ability is the Magu Magu no Mi (Magma Magma Fruit) as revealed in SBS."
+            },
+            {
+                "number": 21,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "This is a question. Is the scar on Luffy's chest from 2 years ago when Akainu attacked Jinbe and Luffy? I remembered when I watched the anime yesterday... P.N. Princess Shirasuboshi ''(*Shirasuboshi is Anchovy in Japanese, as well as a pun on Shirahoshi)''",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "You're right. Akainu punched through Jinbe's left shoulder and into Luffy's chest! Anyway, this marks the end of this SBS Question Corner. We had some technical difficulties, so the SBS with Brook's voice actor that was supposed to be in this volume will be moved to the next. This will be the very last Voice Actor SBS so make sure you have no regrets! See you next volume!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy",
+                        "akainu",
+                        "jinbe",
+                        "brook"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "informative"
+                    ],
+                    "topics": [
+                        "scars",
+                        "voice_actor_SBS"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Luffy's scar is indeed from 2 years ago when Akainu attacked Jinbe and Luffy, and the SBS with Brook's voice actor will be moved to the next volume."
+            }
+        ],
+        "page": "138",
+        "chapter_number": "610",
+        "page_header": "SBS62 Header 6.png"
+    }
+]

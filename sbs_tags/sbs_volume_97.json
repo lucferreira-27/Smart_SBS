@@ -1,0 +1,1553 @@
+[
+    {
+        "qa": [
+            {
+                "number": 0,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "N/A",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "\u2191 Whaaa?! Wait, wait...!! The SBS has started! But that's not the issue!! The one in the header is Nakatsugawa Usopp, the character from the official spin off [[One Piece in Love|''Koisuru One Piece'']], isn't it?!! I look forward to reading each new chapter every week!! Through there's no point in having a spin off here with the original!! Get out of here...!!",
+                        "matches": [
+                            [
+                                159,
+                                202,
+                                "One Piece in Love|''Koisuru One Piece''"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "''Koisuru One Piece''",
+                        "link_title": "/wiki/One Piece in Love",
+                        "is_wikipedia": false,
+                        "start": 159,
+                        "end": 202
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "usopp"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "surprise",
+                        "funny"
+                    ],
+                    "topics": [
+                        "spin_off",
+                        "koisuru_one_piece"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "Oda is surprised to start the SBS and mentions Usopp from the spin-off 'Koisuru One Piece,' expressing his excitement for reading each new chapter."
+            },
+            {
+                "number": 1,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "A pleasure to meet you!! I've been reading for many years, so for a kappa enthusiast such as I, the appearance of [[Kawamatsu]] made my heart flutter! So I wrote you a letter to request Kawamatsu's birthday to be on June 14th (World Cucumber Day)! P.N. ala",
+                        "matches": [
+                            [
+                                114,
+                                127,
+                                "Kawamatsu"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Wait, wait... I agree that Kawamatsu is really cool character, I get how you feel, but... for a reader to choose character's birthday so nonchalantly in <big>PERFECTLY OKAY...!!</big>\n\n''Note: It is believed that kappa were great cucumber lovers and are closely related to them, so in fact some even celebrate kappa day on World Cucumber Day''",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Kawamatsu",
+                        "link_title": "/wiki/Kawamatsu",
+                        "is_wikipedia": false,
+                        "start": 114,
+                        "end": 127
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "kawamatsu"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "happy",
+                        "funny"
+                    ],
+                    "topics": [
+                        "character_birthday",
+                        "kappa",
+                        "world_cucumber_day"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader requests Kawamatsu's birthday to be on June 14th, World Cucumber Day, and Oda approves the idea, explaining the connection between kappa and cucumbers."
+            },
+            {
+                "number": 2,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Is it okay if I make my birthday October 11th? P.N. Himawari Store",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "<big>PERFECTLY OKAY...!!</big>\n\n[[File:SBS97 Kyoshiro.png|thumb|200px]]",
+                        "matches": [
+                            [
+                                32,
+                                71,
+                                "File:SBS97 Kyoshiro.png|thumb|200px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS97 Kyoshiro.png",
+                        "size": "200",
+                        "start": 32,
+                        "end": 71
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "happy"
+                    ],
+                    "topics": [
+                        "birthday"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "It's perfectly okay to make your birthday October 11th according to Oda."
+            },
+            {
+                "number": 3,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Our staff enjoyed eating that fried shrimp on [[Denjiro|Kyoshiro]]'s head. P.N. Taka Taka",
+                        "matches": [
+                            [
+                                46,
+                                66,
+                                "Denjiro|Kyoshiro"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Oh... you had me worried for a second there!{{-}}\n\n[[File:SBS97 Chapter 972.png|thumb|200px|''\"Man, we look so stupid now!!\"'']]",
+                        "matches": [
+                            [
+                                51,
+                                128,
+                                "File:SBS97 Chapter 972.png|thumb|200px|''\"Man, we look so stupid now!!\"''"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS97 Chapter 972.png",
+                        "size": "200",
+                        "start": 51,
+                        "end": 128
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Kyoshiro",
+                        "link_title": "/wiki/Denjiro",
+                        "is_wikipedia": false,
+                        "start": 46,
+                        "end": 66
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "kyoshiro"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "food"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader enjoys fried shrimp on Denjiro's head, and Oda is relieved after initial concern."
+            },
+            {
+                "number": 4,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "The guy who said: \"Man, we look so stupid now!!\" in [[Chapter 972]] is actually my grandpa. Shurororo P.N. A man who loved Chahan",
+                        "matches": [
+                            [
+                                52,
+                                67,
+                                "Chapter 972"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Aaah, is that so...? It's good that he reflects on his errors.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Chapter 972",
+                        "link_title": "/wiki/Chapter 972",
+                        "is_wikipedia": false,
+                        "start": 52,
+                        "end": 67
+                    }
+                ],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "family",
+                        "reflection",
+                        "food"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "In Chapter 972, the person who said 'Man, we look so stupid now!' is revealed to be 'Shurororo P.N., a man who loved Chahan,' which Oda affirms and comments on."
+            },
+            {
+                "number": 5,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "One Piece is as hot as oden. Coming at live a directly from a scene. P.N. Miito",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Beware of sunburns in [[Wano Country]]!! Why so sunny, Wano Country! (no real meaning to this)\n\n''Note: Oda tries to make a play on words with \"wano kuni dake ni\" which means \"because this is Wano Country\" to sound like a catchy TV personality, but admits right after that it was awful.''",
+                        "matches": [
+                            [
+                                22,
+                                38,
+                                "Wano Country"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Wano Country",
+                        "link_title": "/wiki/Wano Country",
+                        "is_wikipedia": false,
+                        "start": 22,
+                        "end": 38
+                    }
+                ],
+                "tags": {
+                    "characters": [],
+                    "places": [
+                        "Wano Country"
+                    ],
+                    "emotions": [
+                        "playful",
+                        "light-hearted"
+                    ],
+                    "topics": [
+                        "wordplay",
+                        "Wano Country",
+                        "Oda's personal life"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader Miito compares One Piece's popularity to the heat of oden, prompting Oda to playfully comment on the sunny weather in Wano Country."
+            }
+        ],
+        "page": "44",
+        "chapter_number": "976",
+        "page_header": "SBS97 Header 1.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 6,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Please tell me the names and heights of [[Orochi Oniwabanshu]]'s members! P.N. Crying Kyoshiro",
+                        "matches": [
+                            [
+                                40,
+                                62,
+                                "Orochi Oniwabanshu"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Sure thing. If this is too much to remember then don't worry about doing so!! By the way, I also threw in their special attacks.\n\n[[File:SBS97 Orochi Oniwabanshu 2.png|thumb|center|400px]]\n\n*[[Fukurokuju]]: 221 cm, \"Earlobe Cracker\"\n*[[Daikoku]]: 436 cm, \"Transformation\"\n*[[Hanzo]]: 544 cm, \"Floating\"\n*[[Sarutobi]]: 378 cm, \"Illusion\"\n*[[Kazekage]]: 192 cm, \"Summoning\"\n*[[Jigoku Benten]]: 225 cm, \"Silencer Gun\"\n*[[Fujin]]: 200 cm, \"Oil Wrestling\"\n*[[Raijin]]: 200 cm, \"Oil Wrestling\"\n*[[Bishamon]]: 182 cm, \"Water Droplet\"\n*[[Chome]]: 150 cm, \"Paralysis\"\n*[[Yazaemon]]: 180 cm, \"Arrow\"\n\n[[File:SBS97 Orochi.png|thumb|200px]]",
+                        "matches": [
+                            [
+                                130,
+                                188,
+                                "File:SBS97 Orochi Oniwabanshu 2.png|thumb|center|400px"
+                            ],
+                            [
+                                191,
+                                205,
+                                "Fukurokuju"
+                            ],
+                            [
+                                234,
+                                245,
+                                "Daikoku"
+                            ],
+                            [
+                                273,
+                                282,
+                                "Hanzo"
+                            ],
+                            [
+                                304,
+                                316,
+                                "Sarutobi"
+                            ],
+                            [
+                                338,
+                                350,
+                                "Kazekage"
+                            ],
+                            [
+                                373,
+                                390,
+                                "Jigoku Benten"
+                            ],
+                            [
+                                416,
+                                425,
+                                "Fujin"
+                            ],
+                            [
+                                452,
+                                462,
+                                "Raijin"
+                            ],
+                            [
+                                489,
+                                501,
+                                "Bishamon"
+                            ],
+                            [
+                                528,
+                                537,
+                                "Chome"
+                            ],
+                            [
+                                560,
+                                572,
+                                "Yazaemon"
+                            ],
+                            [
+                                591,
+                                628,
+                                "File:SBS97 Orochi.png|thumb|200px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS97 Orochi Oniwabanshu 2.png",
+                        "size": "400",
+                        "start": 130,
+                        "end": 188
+                    },
+                    {
+                        "file": "SBS97 Orochi.png",
+                        "size": "200",
+                        "start": 591,
+                        "end": 628
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Orochi Oniwabanshu",
+                        "link_title": "/wiki/Orochi Oniwabanshu",
+                        "is_wikipedia": false,
+                        "start": 40,
+                        "end": 62
+                    },
+                    {
+                        "text": "Fukurokuju",
+                        "link_title": "/wiki/Fukurokuju",
+                        "is_wikipedia": false,
+                        "start": 191,
+                        "end": 205
+                    },
+                    {
+                        "text": "Daikoku",
+                        "link_title": "/wiki/Daikoku",
+                        "is_wikipedia": false,
+                        "start": 234,
+                        "end": 245
+                    },
+                    {
+                        "text": "Hanzo",
+                        "link_title": "/wiki/Hanzo",
+                        "is_wikipedia": false,
+                        "start": 273,
+                        "end": 282
+                    },
+                    {
+                        "text": "Sarutobi",
+                        "link_title": "/wiki/Sarutobi",
+                        "is_wikipedia": false,
+                        "start": 304,
+                        "end": 316
+                    },
+                    {
+                        "text": "Kazekage",
+                        "link_title": "/wiki/Kazekage",
+                        "is_wikipedia": false,
+                        "start": 338,
+                        "end": 350
+                    },
+                    {
+                        "text": "Jigoku Benten",
+                        "link_title": "/wiki/Jigoku Benten",
+                        "is_wikipedia": false,
+                        "start": 373,
+                        "end": 390
+                    },
+                    {
+                        "text": "Fujin",
+                        "link_title": "/wiki/Fujin",
+                        "is_wikipedia": false,
+                        "start": 416,
+                        "end": 425
+                    },
+                    {
+                        "text": "Raijin",
+                        "link_title": "/wiki/Raijin",
+                        "is_wikipedia": false,
+                        "start": 452,
+                        "end": 462
+                    },
+                    {
+                        "text": "Bishamon",
+                        "link_title": "/wiki/Bishamon",
+                        "is_wikipedia": false,
+                        "start": 489,
+                        "end": 501
+                    },
+                    {
+                        "text": "Chome",
+                        "link_title": "/wiki/Chome",
+                        "is_wikipedia": false,
+                        "start": 528,
+                        "end": 537
+                    },
+                    {
+                        "text": "Yazaemon",
+                        "link_title": "/wiki/Yazaemon",
+                        "is_wikipedia": false,
+                        "start": 560,
+                        "end": 572
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "orochi_oniwabanshu",
+                        "fukurokuju",
+                        "daikoku",
+                        "hanzo",
+                        "sarutobi",
+                        "kazekage",
+                        "jigoku_benten",
+                        "fujin",
+                        "raijin",
+                        "bishamon",
+                        "chome",
+                        "yazaemon"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "heights",
+                        "special_attacks"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda provides names, heights, and special attacks of Orochi Oniwabanshu's members, suggesting not to worry too much about remembering them."
+            },
+            {
+                "number": 7,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "[[Kurozumi Orochi|Orochi]] has two really long teeth, doesn't that make it hard to eat? Please ask him for me! P.N. Ami",
+                        "matches": [
+                            [
+                                0,
+                                26,
+                                "Kurozumi Orochi|Orochi"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Indeed, let's ask him. Shogun Orochi, how is it?\n\nOrochi: Not a problem at all! ''Chomp chomp chom--ouch!!'' See!?",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Not at all, it seems!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Orochi",
+                        "link_title": "/wiki/Kurozumi Orochi",
+                        "is_wikipedia": false,
+                        "start": 0,
+                        "end": 26
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "kurozumi_orochi"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "silly"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": true
+                },
+                "summary": "Orochi's long teeth don't cause eating problems, as confirmed by Orochi himself in a playful exchange with Oda."
+            }
+        ],
+        "page": "62",
+        "chapter_number": "977",
+        "page_header": "SBS97 Header 2.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 8,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchi!! A question. Who has the bigger head, Fukurokuju or Vice Admiral [[Strawberry]]? It makes me anxious and I can't sleep at night P.N. KaiKai",
+                        "matches": [
+                            [
+                                74,
+                                88,
+                                "Strawberry"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "About this, it becomes clear if you compare two. Vice Admiral Strawberry wins. It's said that his head grows more every time he gets sad.{{-}}\n\n[[File:SBS97 Straw Hat.png|thumb|200px|''\"No matter what we go through, I'll never leave your side.\"'' Note: his T-shirt has kanji for \"Straw\"]]",
+                        "matches": [
+                            [
+                                144,
+                                288,
+                                "File:SBS97 Straw Hat.png|thumb|200px|''\"No matter what we go through, I'll never leave your side.\"'' Note: his T-shirt has kanji for \"Straw\""
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS97 Straw Hat.png",
+                        "size": "200",
+                        "start": 144,
+                        "end": 288
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Strawberry",
+                        "link_title": "/wiki/Strawberry",
+                        "is_wikipedia": false,
+                        "start": 74,
+                        "end": 88
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "fukurokuju",
+                        "vice_admiral_strawberry"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "anxious"
+                    ],
+                    "topics": [
+                        "head_size_comparison"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Vice Admiral Strawberry has a bigger head than Fukurokuju, and it's said that his head grows more every time he gets sad. "
+            },
+            {
+                "number": 9,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Lately we've seen many swords in their human forms, but I want to see [[Monkey D. Luffy|Luffy]]'s [[Straw Hat|straw hat]] in human form as well! I hope you can deliver! P.N. Akimasa",
+                        "matches": [
+                            [
+                                70,
+                                95,
+                                "Monkey D. Luffy|Luffy"
+                            ],
+                            [
+                                98,
+                                121,
+                                "Straw Hat|straw hat"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Alright. a new request. This time we will do something that we have not done before. But well, as you all already know, anthropomorphization is my speciality. I even reproduced the scars Buggy left on it!\u2192",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Luffy",
+                        "link_title": "/wiki/Monkey D. Luffy",
+                        "is_wikipedia": false,
+                        "start": 70,
+                        "end": 95
+                    },
+                    {
+                        "text": "straw hat",
+                        "link_title": "/wiki/Straw Hat",
+                        "is_wikipedia": false,
+                        "start": 98,
+                        "end": 121
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy",
+                        "buggy"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "excited"
+                    ],
+                    "topics": [
+                        "straw_hat",
+                        "anthropomorphization"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader asks to see Luffy's straw hat in human form, Oda responds confirming it will happen and mentions his expertise in anthropomorphization."
+            },
+            {
+                "number": 10,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei!! I have a question. Why is the current Wano Country being deceived about the truth of the [[Kozuki Family]]? Thanks to [[Shinobu]] the misunderstanding should have been cleared, so...? P.N. Y.U",
+                        "matches": [
+                            [
+                                102,
+                                119,
+                                "Kozuki Family"
+                            ],
+                            [
+                                131,
+                                142,
+                                "Shinobu"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Those who believed in the Kozuki Family have been persecuted by Orochi and [[Kaidou]]. Meanwhile, children were educated through deceptive \"brainwash education\". \"Pressure\", \"brainwashing\", these things are causing all sorts of problems even in the present-day world. Frightening, isn't it!",
+                        "matches": [
+                            [
+                                75,
+                                85,
+                                "Kaidou"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Kozuki Family",
+                        "link_title": "/wiki/Kozuki Family",
+                        "is_wikipedia": false,
+                        "start": 102,
+                        "end": 119
+                    },
+                    {
+                        "text": "Shinobu",
+                        "link_title": "/wiki/Shinobu",
+                        "is_wikipedia": false,
+                        "start": 131,
+                        "end": 142
+                    },
+                    {
+                        "text": "Kaidou",
+                        "link_title": "/wiki/Kaidou",
+                        "is_wikipedia": false,
+                        "start": 75,
+                        "end": 85
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "kozuki_family",
+                        "shinobu",
+                        "orochi",
+                        "kaidou"
+                    ],
+                    "places": [
+                        "wano"
+                    ],
+                    "emotions": [
+                        "frightening"
+                    ],
+                    "topics": [
+                        "wano_country",
+                        "brainwash_education",
+                        "persecution"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda explains that the Wano Country is deceived due to persecution, brainwashing, and pressure by Orochi and Kaidou, mirroring real-world problems."
+            }
+        ],
+        "page": "80",
+        "chapter_number": "978",
+        "page_header": "SBS97 Header 3.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 11,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "A question for Odacchi!! Is it true that you will finish [[One Piece (Manga)|One Piece]] after five years? Even if it is true, such an official announcement is still hard for fans!! Lots of fans and friends I know were crying when they heard the sudden announcement! How do you intend to take responsibility?!! That's what I'd like to say, but what I think I really want is for Odacchi to finally take a long vacation. P.N. pari_bentham",
+                        "matches": [
+                            [
+                                57,
+                                88,
+                                "One Piece (Manga)|One Piece"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes it is. Rather than finishing the whole series, It's that series will end, because the most exciting part of Luffy's adventure, being the story of \"What is One Piece?\", will come to its conclusion. Things are heating up in Wano Country right now, but if Luffy can set sail from here safely, there will be developments on a global scale, a thrilling story likes of which no one has even read before I'll draw the \"Greatest War\" in One Piece history. It will be exciting!! In other words, I made such a announcement so readers could be mentally prepared to understand that even a story as long as this one is properly heading towards its end. That said, for now just take your time and enjoy Wano while its hot. I'll be draw  with all my strength!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "One Piece",
+                        "link_title": "/wiki/One Piece (Manga)",
+                        "is_wikipedia": false,
+                        "start": 57,
+                        "end": 88
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "luffy"
+                    ],
+                    "places": [
+                        "wano"
+                    ],
+                    "emotions": [
+                        "surprising",
+                        "relieved"
+                    ],
+                    "topics": [
+                        "ending",
+                        "wano_country",
+                        "greatest_war"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda confirms that One Piece will end after five years, with the series coming to its conclusion, but a 'Greatest War' in Wano Country will bring thrilling developments."
+            },
+            {
+                "number": 12,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei, hello!! The other day I ate the [[Muzu Muzu no Mi, Model: Kokan]]. It's really itchy. P.N. Emu Delusion",
+                        "matches": [
+                            [
+                                44,
+                                77,
+                                "Muzu Muzu no Mi, Model: Kokan"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Ooookay. Got it. Moving on.\n\n''Note: Muzu Muzu no Mi, Model: Kokan translates to \"Itchy Itchy Fruit, Model: Crotch\".''",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Muzu Muzu no Mi, Model: Kokan",
+                        "link_title": "/wiki/Muzu Muzu no Mi, Model: Kokan",
+                        "is_wikipedia": false,
+                        "start": 44,
+                        "end": 77
+                    }
+                ],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "devil_fruit"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "D ate the Muzu Muzu no Mi, Model: Kokan, which translates to Itchy Itchy Fruit, Model: Crotch, and is experiencing extreme itchiness."
+            },
+            {
+                "number": 13,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Here is the red-hot iron that you ordered. Stage Name: Kawata Shime",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Oh, so it's finally here! Winter is no more! Red-hot iron! Grabbing a bite of it seems like a good idea. Here we go! <big>AAAAAAAHHH!!!</big> So hot.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "happy"
+                    ],
+                    "topics": [
+                        "red-hot_iron"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader informs Oda about a red-hot iron delivery for a stage name, to which Oda humorously responds with excitement and a comical scenario."
+            }
+        ],
+        "page": "98",
+        "chapter_number": "979",
+        "page_header": "SBS97 Header 4.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 14,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-senseiiii!! Regarding [[Page One]]'s appearance, it was recently discovered in May 2020 that spinosaurs were amphibious swimmers!! Since Odacchi is always so busy, I thought I would tell~\u2661\u2026 w-w-wait, EEEEEH!!!! In [[Chapter 983]] it was already updated to a tail with finsssss!! Hey, c'mon~! When did you see  those newsssssss!!! P.N. Yuchabin",
+                        "matches": [
+                            [
+                                26,
+                                38,
+                                "Page One"
+                            ],
+                            [
+                                218,
+                                233,
+                                "Chapter 983"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Oh, so you noticed it? Indeed, ever since Page One's first appeared until he returned to story, fossil part of a spinosaurus have been found. Which changed his bone structure!! So I wondered what I should do, but I thought I could sneakily update it without anyone noticing it, lol. Paleontology makes new advances every day!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Page One",
+                        "link_title": "/wiki/Page One",
+                        "is_wikipedia": false,
+                        "start": 26,
+                        "end": 38
+                    },
+                    {
+                        "text": "Chapter 983",
+                        "link_title": "/wiki/Chapter 983",
+                        "is_wikipedia": false,
+                        "start": 218,
+                        "end": 233
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "page_one"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "amused",
+                        "playful"
+                    ],
+                    "topics": [
+                        "paleontology",
+                        "manga_update",
+                        "spinosaurs"
+                    ],
+                    "importance": [
+                        "high"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda explains how Page One's appearance was updated due to new discoveries about spinosauruses' bone structure, sneaking in the change without anyone noticing."
+            },
+            {
+                "number": 15,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "The next member of the [[Straw Hat Pirates|Straw Hat]] is actually me. P.N. Momo Daifuku",
+                        "matches": [
+                            [
+                                23,
+                                54,
+                                "Straw Hat Pirates|Straw Hat"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "<big>Wait, really!?</big> Such confidence...!! You're only are 12 after all...{{-}}\n\n[[File:SBS97 Nami.png|thumb|200px]]",
+                        "matches": [
+                            [
+                                85,
+                                120,
+                                "File:SBS97 Nami.png|thumb|200px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS97 Nami.png",
+                        "size": "200",
+                        "start": 85,
+                        "end": 120
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Straw Hat",
+                        "link_title": "/wiki/Straw Hat Pirates",
+                        "is_wikipedia": false,
+                        "start": 23,
+                        "end": 54
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "momo_daifuku"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "surprised"
+                    ],
+                    "topics": [
+                        "straw_hat_pirates",
+                        "new_member"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "A reader claims to be the next Straw Hat member, to which Oda responds in surprise, teasing the reader for their confidence."
+            },
+            {
+                "number": 16,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Rules are getting harsher all over the world, but I'm very grateful that there's no such thing here. Anyway, can I sniff [[Nami]]'s used towel? Her kunoichi outfit is so small, I worry about her. P.N. Sanadacchi",
+                        "matches": [
+                            [
+                                121,
+                                129,
+                                "Nami"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "<big>SANADAAAAAA!!</big> Guards, come quick! Why did you let this guy in?! I told you to not let guys like him in here, didn't I?! It's one of the conditions in your contract! Making perverted remarks is an instant kick out!! I'm striving to make this place as pure of content as Hikakin TV!! Get the hell out of here, Sanada!!{{-}}",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Nami",
+                        "link_title": "/wiki/Nami",
+                        "is_wikipedia": false,
+                        "start": 121,
+                        "end": 129
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "nami"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "angry",
+                        "serious"
+                    ],
+                    "topics": [
+                        "perverted",
+                        "rules"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": true
+                },
+                "summary": "Oda reacts strongly to a perverted question about Nami and kicks out the reader for making such remarks."
+            }
+        ],
+        "page": "136",
+        "chapter_number": "981",
+        "page_header": "SBS97 Header 5.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 17,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchi, pleased to meet you!! The introduction of everyone in the [[Beasts Pirates#Tobiroppo|Tobiroppo]] in [[Chapter 978]] was so cool, that I couldn't help but write you! I'm sure many are asking the same question, but please tell us the height, age, and favorite food of all of the Tobiroppo!! P.N. Youki Genia",
+                        "matches": [
+                            [
+                                67,
+                                105,
+                                "Beasts Pirates#Tobiroppo|Tobiroppo"
+                            ],
+                            [
+                                109,
+                                124,
+                                "Chapter 978"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Okay, I understand. They have sure become a fan favorite, the Tobiroppo. I gotta give what the people want. But please show some love for [[Queen]] too!!\n\n[[File:SBS97 Tobiroppo 2.png|thumb|center|400px]]\n\n*[[Who's Who]]: 336 cm, 38 years old, crab paella\n*[[Black Maria]]: 820 cm, 29 years old, mitarashi dango\n*[[Sasaki]]: 318 cm, 34 years old, asparagus\n*[[Ulti]]: 173 cm, 22 years old, twisted fries\n*[[Page One]]: 171 cm, 20 years old, nachos\n*[[X Drake]]: 233 cm, 33 years old, chicken rice\n\n[[File:SBS97 Nozdon.png|thumb|150px]]",
+                        "matches": [
+                            [
+                                138,
+                                147,
+                                "Queen"
+                            ],
+                            [
+                                155,
+                                204,
+                                "File:SBS97 Tobiroppo 2.png|thumb|center|400px"
+                            ],
+                            [
+                                207,
+                                220,
+                                "Who's Who"
+                            ],
+                            [
+                                257,
+                                272,
+                                "Black Maria"
+                            ],
+                            [
+                                313,
+                                323,
+                                "Sasaki"
+                            ],
+                            [
+                                358,
+                                366,
+                                "Ulti"
+                            ],
+                            [
+                                405,
+                                417,
+                                "Page One"
+                            ],
+                            [
+                                449,
+                                460,
+                                "X Drake"
+                            ],
+                            [
+                                498,
+                                535,
+                                "File:SBS97 Nozdon.png|thumb|150px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS97 Tobiroppo 2.png",
+                        "size": "400",
+                        "start": 155,
+                        "end": 204
+                    },
+                    {
+                        "file": "SBS97 Nozdon.png",
+                        "size": "150",
+                        "start": 498,
+                        "end": 535
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Tobiroppo",
+                        "link_title": "/wiki/Beasts Pirates#Tobiroppo",
+                        "is_wikipedia": false,
+                        "start": 67,
+                        "end": 105
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Chapter 978",
+                        "link_title": "/wiki/Chapter 978",
+                        "is_wikipedia": false,
+                        "start": 109,
+                        "end": 124
+                    },
+                    {
+                        "text": "Queen",
+                        "link_title": "/wiki/Queen",
+                        "is_wikipedia": false,
+                        "start": 138,
+                        "end": 147
+                    },
+                    {
+                        "text": "Who's Who",
+                        "link_title": "/wiki/Who's Who",
+                        "is_wikipedia": false,
+                        "start": 207,
+                        "end": 220
+                    },
+                    {
+                        "text": "Black Maria",
+                        "link_title": "/wiki/Black Maria",
+                        "is_wikipedia": false,
+                        "start": 257,
+                        "end": 272
+                    },
+                    {
+                        "text": "Sasaki",
+                        "link_title": "/wiki/Sasaki",
+                        "is_wikipedia": false,
+                        "start": 313,
+                        "end": 323
+                    },
+                    {
+                        "text": "Ulti",
+                        "link_title": "/wiki/Ulti",
+                        "is_wikipedia": false,
+                        "start": 358,
+                        "end": 366
+                    },
+                    {
+                        "text": "Page One",
+                        "link_title": "/wiki/Page One",
+                        "is_wikipedia": false,
+                        "start": 405,
+                        "end": 417
+                    },
+                    {
+                        "text": "X Drake",
+                        "link_title": "/wiki/X Drake",
+                        "is_wikipedia": false,
+                        "start": 449,
+                        "end": 460
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "who's_who",
+                        "black_maria",
+                        "sasaki",
+                        "ulti",
+                        "page_one",
+                        "x_drake",
+                        "queen"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "tobiroppo",
+                        "favorite_food",
+                        "height",
+                        "age"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda reveals the height, age, and favorite food of the Tobiroppo, including Who's Who, Black Maria, Sasaki, Ulti, Page One, and X Drake."
+            },
+            {
+                "number": 18,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "In [[Volume 96]] you introduced all the main members of the [[Roger Pirates]], and one character in particular you called Nozdon, but he had already been introduced in [[Blue Deep]] datebook as Seagull, so now I can only think of him as Seagull... What do I do? P.N. Marine Captain Tobbi Ota-kun",
+                        "matches": [
+                            [
+                                3,
+                                16,
+                                "Volume 96"
+                            ],
+                            [
+                                60,
+                                77,
+                                "Roger Pirates"
+                            ],
+                            [
+                                168,
+                                181,
+                                "Blue Deep"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Wha.........?! ...ohh~... him? Ahh, heheh. [[Seagull Guns Nozdon]], you mean? Yes, yes. Oh dear... Y...you can call him by whichever name you prefer... or even forget him outright.... It's up to you.",
+                        "matches": [
+                            [
+                                43,
+                                66,
+                                "Seagull Guns Nozdon"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Volume 96",
+                        "link_title": "/wiki/Volume 96",
+                        "is_wikipedia": false,
+                        "start": 3,
+                        "end": 16
+                    },
+                    {
+                        "text": "Roger Pirates",
+                        "link_title": "/wiki/Roger Pirates",
+                        "is_wikipedia": false,
+                        "start": 60,
+                        "end": 77
+                    },
+                    {
+                        "text": "Blue Deep",
+                        "link_title": "/wiki/Blue Deep",
+                        "is_wikipedia": false,
+                        "start": 168,
+                        "end": 181
+                    },
+                    {
+                        "text": "Seagull Guns Nozdon",
+                        "link_title": "/wiki/Seagull Guns Nozdon",
+                        "is_wikipedia": false,
+                        "start": 43,
+                        "end": 66
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "seagull_guns_nozdon"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "surprised",
+                        "humorous"
+                    ],
+                    "topics": [
+                        "character_name",
+                        "Roger_Pirates",
+                        "Blue_Deep",
+                        "character_consistency"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": true
+                },
+                "summary": "Oda confirms Seagull Guns Nozdon is the same character and suggests readers can use whichever name they prefer or forget him entirely."
+            }
+        ],
+        "page": "154",
+        "chapter_number": "982",
+        "page_header": "SBS97 Header 6.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 19,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Can [[Beasts Pirates#Gifters|Gifters]] change at will between their human and animal forms? Or does it depend on the fruit they eat? P.N. Kenkichi",
+                        "matches": [
+                            [
+                                4,
+                                38,
+                                "Beasts Pirates#Gifters|Gifters"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "It depends on the fruit. Because [[SMILE]]s are human-crafter Devil Fruits, so they're all sorts of unstable. Of course, you can end up with the strength of a certain creature, but in the end you may have a lion in the abdomen, which every time starts to fight with you, or a hippopotamus around your body, which always eats you. These people cannot transform at will and have to put up with it. Some SMILE users get really powerful transformations, but it's really a gamble.",
+                        "matches": [
+                            [
+                                33,
+                                42,
+                                "SMILE"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Gifters",
+                        "link_title": "/wiki/Beasts Pirates#Gifters",
+                        "is_wikipedia": false,
+                        "start": 4,
+                        "end": 38
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "SMILE",
+                        "link_title": "/wiki/SMILE",
+                        "is_wikipedia": false,
+                        "start": 33,
+                        "end": 42
+                    }
+                ],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [],
+                    "topics": [
+                        "devil_fruit",
+                        "smile_fruit",
+                        "gifters"
+                    ],
+                    "importance": "hight",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Gifters' ability to change between human and animal forms depends on the SMILE fruit they eat, which can result in unstable and uncontrollable transformations."
+            },
+            {
+                "number": 20,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oh? Nobody wants to see [[Sanji]] in his 40 and 60 ages? Well, I get to ask now! Please draw how [[Tony Tony Chopper|Chopper]] will look in the future! Please!! P.N. 420-Land",
+                        "matches": [
+                            [
+                                24,
+                                33,
+                                "Sanji"
+                            ],
+                            [
+                                97,
+                                126,
+                                "Tony Tony Chopper|Chopper"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "You want to see that? Here it is.\n\n[[File:SBS97 Chopper.png|thumb|center|400px]]\n*Age 40: Leave it to me!!\n*Age 60: Here it is, this will work on whatever you have.\n\nA future where \"something\" happens\n*Age 40: Straw Hat? Don't you dare mention that name again to me!\n*Age 60: Bring in the sacrifice, now!!",
+                        "matches": [
+                            [
+                                35,
+                                80,
+                                "File:SBS97 Chopper.png|thumb|center|400px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Alright, the SBS ends here! Until next time!!",
+                        "matches": []
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS97 Chopper.png",
+                        "size": "400",
+                        "start": 35,
+                        "end": 80
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Chopper",
+                        "link_title": "/wiki/Tony Tony Chopper",
+                        "is_wikipedia": false,
+                        "start": 97,
+                        "end": 126
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Sanji",
+                        "link_title": "/wiki/Sanji",
+                        "is_wikipedia": false,
+                        "start": 24,
+                        "end": 33
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "sanji",
+                        "tony_tony_chopper"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "character_design",
+                        "future_appearances"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "D asks for a drawing of how Chopper will look in the future, Oda responds with images showing Chopper at ages 40 and 60, and then ends the Q&A."
+            }
+        ],
+        "page": "172",
+        "chapter_number": "983",
+        "page_header": "SBS97 Header 7.png"
+    }
+]

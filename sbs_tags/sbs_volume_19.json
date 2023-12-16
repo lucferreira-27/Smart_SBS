@@ -1,0 +1,816 @@
+[
+    {
+        "qa": [
+            {
+                "number": 1,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello, Ei-chan. I think I'm in love with Miss Merry Christmas' way of shortening her comments to say things as quickly as possible. And so, I'd like to start this one like Miss Merry Christmas would.\n\n\"S...!\" (Start the SBS!!)",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "WHAAAAAAAAAT?!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "excited"
+                    ],
+                    "topics": [],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader suggests starting SBS like Miss Merry Christmas, Oda reacts with surprise."
+            },
+            {
+                "number": 2,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "[[Eiichiro Oda|Oda]]-sensei! Please draw the six main characters with your left hand! <ref name=chap167>''One Piece Manga'' Vol. 19 SBS questions [[Chapter 167]] page 26.</ref>\n\n[[File:SBS Vol 19 1.png|left|Oda draws Luffy, Nami and Zoro with his left hand.]]",
+                        "matches": [
+                            [
+                                0,
+                                20,
+                                "Eiichiro Oda|Oda"
+                            ],
+                            [
+                                146,
+                                161,
+                                "Chapter 167"
+                            ],
+                            [
+                                178,
+                                259,
+                                "File:SBS Vol 19 1.png|left|Oda draws Luffy, Nami and Zoro with his left hand."
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "...This is wasting enough space as it is already so can I just stop at three?",
+                        "matches": []
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS Vol 19 1.png",
+                        "size": null,
+                        "start": 178,
+                        "end": 259
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Oda",
+                        "link_title": "/wiki/Eiichiro Oda",
+                        "is_wikipedia": false,
+                        "start": 0,
+                        "end": 20
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Chapter 167",
+                        "link_title": "/wiki/Chapter 167",
+                        "is_wikipedia": false,
+                        "start": 146,
+                        "end": 161
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy",
+                        "nami",
+                        "zoro"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader requests Oda to draw the six main characters with his left hand, Oda agrees but only draws Luffy, Nami, and Zoro."
+            },
+            {
+                "number": 3,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I've been wondering for a while now, how old are [[Nefertari Vivi|Vivi]] and [[Tony Tony Chopper|Chopper]]? Vivi looks to be about the same age as the rest, but Chopper just seems like a kid! Please tell me their ages!\u00a0<ref name=chap167 />",
+                        "matches": [
+                            [
+                                49,
+                                72,
+                                "Nefertari Vivi|Vivi"
+                            ],
+                            [
+                                77,
+                                106,
+                                "Tony Tony Chopper|Chopper"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "First, Vivi is 16. Chopper is a human reindeer, so as a human he would be 15. Yeah. That sounds about right.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Vivi",
+                        "link_title": "/wiki/Nefertari Vivi",
+                        "is_wikipedia": false,
+                        "start": 49,
+                        "end": 72
+                    },
+                    {
+                        "text": "Chopper",
+                        "link_title": "/wiki/Tony Tony Chopper",
+                        "is_wikipedia": false,
+                        "start": 77,
+                        "end": 106
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "Nefertari Vivi",
+                        "Tony Tony Chopper",
+                        "Luffy"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "happy"
+                    ],
+                    "topics": [
+                        "characters_ages"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Vivi is 16 and Chopper, as a human, is 15 according to Oda's SBS of One Piece."
+            },
+            {
+                "number": 4,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "What would happen if I ordered \"Fried rice but with no rice!!\" at a Chinese restaurant?!",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Go try it and find out. Then order some boiled tofu without the tofu. Okay?! What does this have to do with the SBS?",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "playful",
+                        "amused"
+                    ],
+                    "topics": [],
+                    "importance": [
+                        "low"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader asks what'd happen if they ordered fried rice with no rice, Oda tells them to try it and order boiled tofu without tofu, wonders about SBS relevance."
+            }
+        ],
+        "page": 26,
+        "chapter_number": 167,
+        "page_header": "SBS Vol 19 header.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 5,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I have a question, sensei. How old are [[Dorry]] and [[Brogy]]?<ref name=chap168>''One Piece Manga'' - SBS questions Vol. 19 [[Chapter 168]] page 46</ref>",
+                        "matches": [
+                            [
+                                39,
+                                48,
+                                "Dorry"
+                            ],
+                            [
+                                53,
+                                62,
+                                "Brogy"
+                            ],
+                            [
+                                125,
+                                140,
+                                "Chapter 168"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Ah, good question. First of all, giants live to be around 300 years old, but they mature as half as slow as humans. So they'd only be considered \"adults\" around 40. When Dorry and Brogy came to [[Little Garden]] and started fighting, they were 58 years old (29 in human years). And they've been fighting for 100 years, so they are 158. But they'll live to be 300, so they've still got a lot of fight in them left. They're just a little older than Dr. [[Kureha]].",
+                        "matches": [
+                            [
+                                194,
+                                211,
+                                "Little Garden"
+                            ],
+                            [
+                                451,
+                                461,
+                                "Kureha"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Dorry",
+                        "link_title": "/wiki/Dorry",
+                        "is_wikipedia": false,
+                        "start": 39,
+                        "end": 48
+                    },
+                    {
+                        "text": "Brogy",
+                        "link_title": "/wiki/Brogy",
+                        "is_wikipedia": false,
+                        "start": 53,
+                        "end": 62
+                    },
+                    {
+                        "text": "Chapter 168",
+                        "link_title": "/wiki/Chapter 168",
+                        "is_wikipedia": false,
+                        "start": 125,
+                        "end": 140
+                    },
+                    {
+                        "text": "Little Garden",
+                        "link_title": "/wiki/Little Garden",
+                        "is_wikipedia": false,
+                        "start": 194,
+                        "end": 211
+                    },
+                    {
+                        "text": "Kureha",
+                        "link_title": "/wiki/Kureha",
+                        "is_wikipedia": false,
+                        "start": 451,
+                        "end": 461
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "dorry",
+                        "brogy",
+                        "odda",
+                        "little_garden",
+                        "dr_kureha"
+                    ],
+                    "places": [
+                        "little_garden"
+                    ],
+                    "topics": [
+                        "giants_backstory",
+                        "devil_fruit"
+                    ],
+                    "emotions": [
+                        "happy"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda reveals giants, like Dorry and Brogy, live to about 300 years old and reach 'adulthood' at 40. They are currently 158, still having fought for 100 years since age 58."
+            },
+            {
+                "number": 6,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "What do you think? \n\n''(Really bad drawn face)''\n\nA chick.",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Oooooh... very nice. Next question.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [],
+                    "importance": [
+                        "low"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader sends a crudely drawn face of a chick, Oda appreciates but moves on to the next question."
+            },
+            {
+                "number": 7,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hellllo! Aaah, my nose won't stop running. Aaah, it finally stopped. Oda-san, I've been wondering about something. Something about Blue-Nosed Chopper. What does the X-mark on his hat mean? Aaaah, my nose is running again.\u00a0<ref name=chap168 />",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Okay, then. So about your running nose... Whoops, not that. I mean about the X-mark on Chopper's hat. It's actually the same as that thing. You know, the cross mark you see in hospitals. It's just tilted diagonally. Oh, and I don't think many people noticed this, but Hiriluk's hair was also the same shape. The shape of a hospital cross.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy",
+                        "blue-nosed_chopper",
+                        "hiriluk"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "happy"
+                    ],
+                    "topics": [
+                        "chopper's_hat",
+                        "hospital_cross"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader asks about Chopper's hat X-mark, Oda reveals it's a stylized hospital cross, similar to Hiriluk's hair."
+            }
+        ],
+        "page": "46",
+        "chapter_number": "168",
+        "page_header": null
+    },
+    {
+        "qa": [
+            {
+                "number": 8,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Yo, Ei-chan. Got a question. Does that mark [[Marianne|Miss Goldenweek]] draws mean anything? Couldn't she just slap the colors on him? Tell me, man!<ref name=chap170>''One Piece Manga'' - SBS questions Vol. 19 [[Chapter 170]] page 86.</ref>",
+                        "matches": [
+                            [
+                                44,
+                                72,
+                                "Marianne|Miss Goldenweek"
+                            ],
+                            [
+                                211,
+                                226,
+                                "Chapter 170"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yup. It does. It does have a meaning.\n\n[[File:SBS Vol 19 Colors Trap.png|center|\"Colors trap\".]]\n\nSee! \"So what?\" seems to be how you're feeling but... Hey, it's better than nothing.",
+                        "matches": [
+                            [
+                                39,
+                                96,
+                                "File:SBS Vol 19 Colors Trap.png|center|\"Colors trap\"."
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS Vol 19 Colors Trap.png",
+                        "size": null,
+                        "start": 39,
+                        "end": 96
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Miss Goldenweek",
+                        "link_title": "/wiki/Marianne",
+                        "is_wikipedia": false,
+                        "start": 44,
+                        "end": 72
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Chapter 170",
+                        "link_title": "/wiki/Chapter 170",
+                        "is_wikipedia": false,
+                        "start": 211,
+                        "end": 226
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "O: Ei-chan",
+                        "Marianne|Miss Goldenweek"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "skeptical",
+                        "amused"
+                    ],
+                    "topics": [
+                        "colors trap",
+                        "devil fruit"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda confirms Miss Goldenweek's mark has meaning, explaining it's called 'Colors Trap'. Despite seeming unimportant, Oda suggests it's better than nothing."
+            },
+            {
+                "number": 9,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Did you go to college, sensei? Also, in middle and high school, did the clubs you entered have anything to do with manga or drawing? I would like to be a manga artist in the future, too. (I'm in 8th grade and worried about my future. Please respond!!)<ref name=chap170 />",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Well, I dropped out after one year of college. Also, I've never had any sort of art or drawing lessons in my life. There's a lot of other mangaka who're like that. I'm going to give you a serious answer because it was a serious question: Relying on someone else, no matter what special school you went to, is the most dangerous thing you can do.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "worried",
+                        "serious"
+                    ],
+                    "topics": [
+                        "manga_artist",
+                        "manga_creation",
+                        "education"
+                    ],
+                    "importance": "high",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda dropped out of college after a year, never formally studied art, and encourages readers not to rely on schools to become a manga artist."
+            },
+            {
+                "number": 10,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hey!! Oda!! Sensei... Try THIS challenge!! Say \"Roronoa\" 10 times fast!! Roronoa, Roronoa, Rorororoa, Nononoa, Roronoa, Roroano... NEXT!!",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Sheesh, you can't even say it yourself, you bum. Oh well, lemme try. NONODO... *CHOMP*!! (bit my tongue). OGHAY, NEKTHT!! (bloody).",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "reader",
+                        "Oda"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny",
+                        "playful"
+                    ],
+                    "topics": [],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader challenges Oda to say 'Roronoa' 10 times fast, Oda tries but bites his tongue instead."
+            }
+        ],
+        "page": "86",
+        "chapter_number": "170",
+        "page_header": null
+    },
+    {
+        "qa": [
+            {
+                "number": 11,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei!! I found something rather surprising about the [[Mr. Mellow|delivery man]] on pages 117-118 of [[Volume 18]]!! It says \"Half-Boiled\" on his T-shirt. But!! On page 69!! Those are the same people, right? And on his T-shirt, it says, \"Full-Boiled\"!! What's up with him?! Tell me!!<ref name=chap173>''One Piece Manga'' - SBS questions Vol. 19 [[Chapter 173]] page 146.</ref>",
+                        "matches": [
+                            [
+                                59,
+                                86,
+                                "Mr. Mellow|delivery man"
+                            ],
+                            [
+                                107,
+                                120,
+                                "Volume 18"
+                            ],
+                            [
+                                351,
+                                366,
+                                "Chapter 173"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "HE HAS MATURED.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "delivery man",
+                        "link_title": "/wiki/Mr. Mellow",
+                        "is_wikipedia": false,
+                        "start": 59,
+                        "end": 86
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Volume 18",
+                        "link_title": "/wiki/Volume 18",
+                        "is_wikipedia": false,
+                        "start": 107,
+                        "end": 120
+                    },
+                    {
+                        "text": "Chapter 173",
+                        "link_title": "/wiki/Chapter 173",
+                        "is_wikipedia": false,
+                        "start": 351,
+                        "end": 366
+                    }
+                ],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "amused",
+                        "funny"
+                    ],
+                    "topics": [
+                        "delivery man",
+                        "trivia",
+                        "manga details"
+                    ],
+                    "importance": [
+                        "high"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader notices a discrepancy in a character's shirt that changes from 'Half-Boiled' to 'Full-Boiled'; Oda responds that the character has 'matured'."
+            },
+            {
+                "number": 12,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Are the \"[[Den Den Mushi]]\"\u00a0animals or machines?",
+                        "matches": [
+                            [
+                                9,
+                                26,
+                                "Den Den Mushi"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "They're animals. Insects.\n*Baby Den Den Mushi: Its small size makes it portable. However, its signals are weak, and cannot reach over the sea to another island.\n*Den Den Mushi: Too big to carry around, but its strength makes it useful for talking to far-off islands. Can also act as a fax machine if the accessory is attached.\n*Black Den Den Mushi (different species): They do not grow as they age. They enjoy eavesdropping, but dislike communicating with others. Commonly used as listening devices, or \"wiretaps\".",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Since being raised by humans gets them plenty of food, they don't mind being used and tamed.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Den Den Mushi",
+                        "link_title": "/wiki/Den Den Mushi",
+                        "is_wikipedia": false,
+                        "start": 9,
+                        "end": 26
+                    }
+                ],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "den_den_mushi",
+                        "devil_fruit"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Den Den Mushi are insects, not machines. Baby ones are portable but signal weak, normal size ones are big but strong and reach far, black ones are eavesdropping devices; raised by humans, they get food and tamed happily."
+            }
+        ],
+        "page": "146",
+        "chapter_number": "173",
+        "page_header": "SBS Vol 19 3.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 13,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hey! Didn' ah see yer fase some'ere's befor? Ain't you dat lil' Eiichiro Oda! Hoooey, yuh done grown up big!! Heh?! Ah look cyute, yah sey? Sheeucks, yore embarasin' me!! Yeh now, I gots some onyins and potatoes, y'all shuld come on bah and help to eat it! -Kesen Numakomachi-",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Y'all speaken that Miyagi-accent too much, ain' nowun kin unnerstan' whatcha be sayeen!! -General of Higo-",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "eiichiro_oda"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "happy",
+                        "funny"
+                    ],
+                    "topics": [],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A fan using a Miyagi accent heavily compliments Oda's growth and invites him to eat sweet potatoes; the 'General of Higo' remarks their speech is hard to understand."
+            },
+            {
+                "number": 14,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-san, among the [[Erimaki Runner]]s on page 110 of Volume 18, one of them doesn't have anything hanging from his neck. Why not? Tell me if you can. Byecha!\n\n-4th Grade Ancient History Professor-<ref>''One Piece Manga'' - SBS questions [[Chapter 175]] page 186.</ref>",
+                        "matches": [
+                            [
+                                19,
+                                37,
+                                "Erimaki Runner"
+                            ],
+                            [
+                                238,
+                                253,
+                                "Chapter 175"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "That's right. He's the only one without any orders to carry. So he's thinking, \"Huh? Why am I running?\" which comes out as \"Eh?\" You can tell the Baroque Works is obviously going to fire him.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Erimaki Runner",
+                        "link_title": "/wiki/Erimaki Runner",
+                        "is_wikipedia": false,
+                        "start": 19,
+                        "end": 37
+                    },
+                    {
+                        "text": "Chapter 175",
+                        "link_title": "/wiki/Chapter 175",
+                        "is_wikipedia": false,
+                        "start": 238,
+                        "end": 253
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "odda-san",
+                        "baroque works"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "amused",
+                        "confused"
+                    ],
+                    "topics": [
+                        "baroque works members",
+                        "ermaki runners"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "A Baroque Works runner lacks orders, questioning why he's running, leading to potential dismissal."
+            },
+            {
+                "number": 15,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Nice to meet you, Oda-sensei. I'll just get right to the point. Crocus-san has got the two S's backwards in the Volume 18 SBS! AHAHAHAHAHA!! What's up with that? (seriously) Well, Crocus? HMMMMM?? -From Akiko-",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "OH DEAR!! WELP, SEE YOU NEXT VOLUME!! GOODBYE!!!\n\n(We noticed before it went to press, but it was too much of a pain to fix...).",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "oda",
+                        "crocus"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "amused",
+                        "playful"
+                    ],
+                    "topics": [
+                        "sbs",
+                        "printing_error"
+                    ],
+                    "importance": [
+                        "low"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader notified Oda about Crocus having the two S's backwards in the Volume 18 SBS, Oda acknowledged the mistake and mentioned they noticed it before printing but decided not to fix it."
+            }
+        ],
+        "page": "186",
+        "chapter_number": "175",
+        "page_header": null
+    }
+]

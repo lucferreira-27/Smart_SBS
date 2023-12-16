@@ -1,0 +1,2030 @@
+[
+    {
+        "qa": [
+            {
+                "number": 0,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "N/A",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "\u2191 Eeeeeeeh!? How do you know that!? Damnit, someone read my future! I really was going to say that...!! Gulp...\n\n[[File:SBS88 Luffy and Wanda.png|thumb|200px]]",
+                        "matches": [
+                            [
+                                113,
+                                159,
+                                "File:SBS88 Luffy and Wanda.png|thumb|200px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS88 Luffy and Wanda.png",
+                        "size": "200",
+                        "start": 113,
+                        "end": 159
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "moneky_d_luffy"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "surprised",
+                        "funny"
+                    ],
+                    "topics": [],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda reacts to a reader knowing his future plans and expresses surprise and frustration."
+            },
+            {
+                "number": 1,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchi, Garchu.\u2661\u2661 Does this [[Mink Tribe]]'s greeting, Garchu, comes from Nepalese \"Timilai Maya Garchu (I love you)\" right? P.N. I want Wanda to Garchu me",
+                        "matches": [
+                            [
+                                29,
+                                43,
+                                "Mink Tribe"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes, that's right. That's exactly right about the Minks.\n\n[[File:SBS88 Nami.png|thumb|200px]]",
+                        "matches": [
+                            [
+                                58,
+                                93,
+                                "File:SBS88 Nami.png|thumb|200px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS88 Nami.png",
+                        "size": "200",
+                        "start": 58,
+                        "end": 93
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Mink Tribe",
+                        "link_title": "/wiki/Mink Tribe",
+                        "is_wikipedia": false,
+                        "start": 29,
+                        "end": 43
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "wanda",
+                        "nami"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "mink_tribe",
+                        "greeting"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "The Mink Tribe's greeting 'Garchu' does indeed come from the Nepalese phrase 'Timilai Maya Garchu (I love you)', and Oda confirms this."
+            },
+            {
+                "number": 2,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "<big>I WANT TO GARCHU WITH [[Nami|NAMI]].</big> P.N. Captain Nobuo",
+                        "matches": [
+                            [
+                                27,
+                                40,
+                                "Nami|NAMI"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Fine. Next.\n\n[[File:SBS88 Carrot.png|thumb|180px]]",
+                        "matches": [
+                            [
+                                13,
+                                50,
+                                "File:SBS88 Carrot.png|thumb|180px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS88 Carrot.png",
+                        "size": "180",
+                        "start": 13,
+                        "end": 50
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "NAMI",
+                        "link_title": "/wiki/Nami",
+                        "is_wikipedia": false,
+                        "start": 27,
+                        "end": 40
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "nami"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        ""
+                    ],
+                    "topics": [],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader wants to 'Garchu' with Nami and Oda dismisses the request quickly."
+            },
+            {
+                "number": 3,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Are [[Carrot]] and [[Wanda]]'s boobs furry? Or are they smooth? P.N. Gankuri",
+                        "matches": [
+                            [
+                                4,
+                                14,
+                                "Carrot"
+                            ],
+                            [
+                                19,
+                                28,
+                                "Wanda"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I see, well since their whole bodies are covered in furry, they would be furry... <big>HEY HEY! STOP IT!!</big> What have you started with this simply perverted question...!! Ah...! Sorry for getting upset. You're not an adult yet.\n\n[[File:SBS88 Luffy.png|thumb|200px]]",
+                        "matches": [
+                            [
+                                233,
+                                269,
+                                "File:SBS88 Luffy.png|thumb|200px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS88 Luffy.png",
+                        "size": "200",
+                        "start": 233,
+                        "end": 269
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Carrot",
+                        "link_title": "/wiki/Carrot",
+                        "is_wikipedia": false,
+                        "start": 4,
+                        "end": 14
+                    },
+                    {
+                        "text": "Wanda",
+                        "link_title": "/wiki/Wanda",
+                        "is_wikipedia": false,
+                        "start": 19,
+                        "end": 28
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "carrot",
+                        "wanda"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny",
+                        "perverted"
+                    ],
+                    "topics": [
+                        "body",
+                        "perverted",
+                        "animal parts"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda confirms that Carrot and Wanda's breasts would be furry, due to their whole bodies being covered in fur."
+            },
+            {
+                "number": 4,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchi, save me -I recently caught the \"If I don't scarf food like [[Monkey D. Luffy|Luffy]], I'll die disease.\" from S Hiroto",
+                        "matches": [
+                            [
+                                68,
+                                93,
+                                "Monkey D. Luffy|Luffy"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "This is what it is-! I want to answer a questions from hilarious kids. Hey Hiroto-kun. Don't eat too much! You run the risk of getting hypoglycemia and by repeatedly overeating there may be a decline in your physical strength and insomnia among other symptoms with the possibility of getting a major disease. Are you feeling stressed by your job? In regards to how you have your meals... <big>I'M SORRY!! YOU'RE NOT AN ADULT YET!!</big> (cries)",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Luffy",
+                        "link_title": "/wiki/Monkey D. Luffy",
+                        "is_wikipedia": false,
+                        "start": 68,
+                        "end": 93
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny",
+                        "sad"
+                    ],
+                    "topics": [
+                        "eating_habits",
+                        "stress_management"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "Oda advises a reader to avoid overeating to prevent health issues and suggests they might be stressed due to their job."
+            }
+        ],
+        "page": "24",
+        "chapter_number": "880",
+        "page_header": "SBS88 Header 1.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 5,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Smoothie's squeezed drinks have unimaginable flavors, but there is one I know!! Kirin!! [This is a big Japanese Brewery name, like Budweiser in America, but also the word for giraffe] That's what adults drink. Do you like it Odacchi? P.N. Ryota Ehara",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "That's right! Good job knowing that. In this panel, [[Stussy]] says it is tasty and smooth. It's a mystery- how if you squeeze a giraffe, beer comes out of it! I want to gulp it down on a hot day.",
+                        "matches": [
+                            [
+                                52,
+                                62,
+                                "Stussy"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Stussy",
+                        "link_title": "/wiki/Stussy",
+                        "is_wikipedia": false,
+                        "start": 52,
+                        "end": 62
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "stussy"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "drinks",
+                        "squeezed drinks",
+                        "flavors",
+                        "giraffe",
+                        "beer",
+                        "beverages"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Eiichiro Oda jokingly acknowledges the connection to a Japanese brewery and expresses interest in trying the drink mentioned in the series."
+            },
+            {
+                "number": 6,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Who is the panda girl with the split mouth that is Big Mom's subordinate? P.N. OP Girl\n\n[[File:SBS88 Galette and Poire.png|thumb|300px|Left: Galette, right: Poire]]",
+                        "matches": [
+                            [
+                                88,
+                                164,
+                                "File:SBS88 Galette and Poire.png|thumb|300px|Left: Galette, right: Poire"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Right. That is the 19th daughter of the [[Charlotte Family]], [[Charlotte Poire]]. She has the same father as the Minister of Butter, [[Charlotte Galette|Galette]], and they are twins.",
+                        "matches": [
+                            [
+                                40,
+                                60,
+                                "Charlotte Family"
+                            ],
+                            [
+                                62,
+                                81,
+                                "Charlotte Poire"
+                            ],
+                            [
+                                134,
+                                163,
+                                "Charlotte Galette|Galette"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS88 Galette and Poire.png",
+                        "size": "300",
+                        "start": 88,
+                        "end": 164
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Galette",
+                        "link_title": "/wiki/Charlotte Galette",
+                        "is_wikipedia": false,
+                        "start": 134,
+                        "end": 163
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Charlotte Family",
+                        "link_title": "/wiki/Charlotte Family",
+                        "is_wikipedia": false,
+                        "start": 40,
+                        "end": 60
+                    },
+                    {
+                        "text": "Charlotte Poire",
+                        "link_title": "/wiki/Charlotte Poire",
+                        "is_wikipedia": false,
+                        "start": 62,
+                        "end": 81
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "charlotte_poire",
+                        "charlotte_galette"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "charlotte_family",
+                        "big_mom_pirates"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Charlotte Poire is the panda girl with the split mouth, Big Mom's 19th daughter and twin of Galette, the Minister of Butter."
+            },
+            {
+                "number": 8,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello, Odacchi!! Please tell us the two commanders, Smoothie and Cracker's age and height!! P.N. Mochi Mochi Donuts",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes. Here's the answers to those two questions!\n\n{| style=\"margin:auto;\"\n|[[File:SBS88 Perospero.png|78px]]||\n[[Charlotte Perospero]]<br />50 years old<br />333&nbsp;cm<br />Likes: Candy<br />Dislikes: Peppermint Candy\n|[[File:SBS88 Cracker.png|78px]]||\n[[Charlotte Cracker]]<br />45 years old<br />307&nbsp;cm<br />Likes: Biscuits<br />Dislikes: Kimchi and Carbonated Drinks\n|[[File:SBS88 Smoothie.png|78px]]||\n[[Charlotte Smoothie]]<br />35 years old<br />464&nbsp;cm<br />Likes: Smoothies<br />Dislikes: Meat\n|}",
+                        "matches": [
+                            [
+                                74,
+                                107,
+                                "File:SBS88 Perospero.png|78px"
+                            ],
+                            [
+                                110,
+                                133,
+                                "Charlotte Perospero"
+                            ],
+                            [
+                                220,
+                                251,
+                                "File:SBS88 Cracker.png|78px"
+                            ],
+                            [
+                                254,
+                                275,
+                                "Charlotte Cracker"
+                            ],
+                            [
+                                377,
+                                409,
+                                "File:SBS88 Smoothie.png|78px"
+                            ],
+                            [
+                                412,
+                                434,
+                                "Charlotte Smoothie"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS88 Perospero.png",
+                        "size": "78",
+                        "start": 74,
+                        "end": 107
+                    },
+                    {
+                        "file": "SBS88 Cracker.png",
+                        "size": "78",
+                        "start": 220,
+                        "end": 251
+                    },
+                    {
+                        "file": "SBS88 Smoothie.png",
+                        "size": "78",
+                        "start": 377,
+                        "end": 409
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Charlotte Perospero",
+                        "link_title": "/wiki/Charlotte Perospero",
+                        "is_wikipedia": false,
+                        "start": 110,
+                        "end": 133
+                    },
+                    {
+                        "text": "Charlotte Cracker",
+                        "link_title": "/wiki/Charlotte Cracker",
+                        "is_wikipedia": false,
+                        "start": 254,
+                        "end": 275
+                    },
+                    {
+                        "text": "Charlotte Smoothie",
+                        "link_title": "/wiki/Charlotte Smoothie",
+                        "is_wikipedia": false,
+                        "start": 412,
+                        "end": 434
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "charlotte_perospero",
+                        "charlotte_cracker",
+                        "charlotte_smoothie"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "informative"
+                    ],
+                    "topics": [
+                        "age",
+                        "height",
+                        "charlotte_family"
+                    ],
+                    "importance": [
+                        "high"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Perospero is 50 years old, 333cm; Cracker is 45 years old, 307cm; Smoothie is 35 years old, 464cm."
+            }
+        ],
+        "page": "42",
+        "chapter_number": "881",
+        "page_header": "SBS88 Header 2.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 9,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei!!!! He kept his promise.\u2661 Will you come to the wedding? P.N. Shogo Michibata",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "That's! Everyone, please take a look at this, please. From the [[SBS Volume 58|volume 58 SBS]]:\u2193\n\n::",
+                        "matches": [
+                            [
+                                63,
+                                94,
+                                "SBS Volume 58|volume 58 SBS"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "volume 58 SBS",
+                        "link_title": "/wiki/SBS Volume 58",
+                        "is_wikipedia": false,
+                        "start": 63,
+                        "end": 94
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "happy"
+                    ],
+                    "topics": [
+                        "promise",
+                        "wedding"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "D asks Oda if he will attend their wedding, referring to a promise he made. Oda directs readers to the SBS Volume 58 for the answer."
+            },
+            {
+                "number": 10,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei~! There's a person who promised to marry me if this was published in SBS, so please publish it.\u2661 Odacchi, please make me happy\u2661\u2661 P.N. Michibatake Shou-- \n::",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Of course. I've published it. To her boy: Keep your promises!\n\nThey're getting married!! Thanks to the SBS!? (laughs) I guess it can help people, this Corner. I can't go to the wedding, but congratulations! May your life be filled with happiness~\u2661 I published your second letter (laughs)\n\n[[File:SBS88 Katakuri.png|thumb|200px]]",
+                        "matches": [
+                            [
+                                289,
+                                328,
+                                "File:SBS88 Katakuri.png|thumb|200px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS88 Katakuri.png",
+                        "size": "200",
+                        "start": 289,
+                        "end": 328
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "happy",
+                        "funny"
+                    ],
+                    "topics": [
+                        "SBS_publishing",
+                        "wedding",
+                        "happiness"
+                    ],
+                    "importance": "hight",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda publishes a letter from a reader and congratulates them on their upcoming wedding, expressing well wishes and humor."
+            },
+            {
+                "number": 11,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "[[Charlotte Katakuri|Katakuri]] is really an ikemen [handsome, perfect guy]. His model is definitely <big>ME, RIGHT?</big> P.N. Sana Pii (Sanadacchi)",
+                        "matches": [
+                            [
+                                0,
+                                31,
+                                "Charlotte Katakuri|Katakuri"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes. That might be right.\n\n[[File:SBS88 Lola and Chiffon.png|thumb|200px]]",
+                        "matches": [
+                            [
+                                27,
+                                74,
+                                "File:SBS88 Lola and Chiffon.png|thumb|200px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS88 Lola and Chiffon.png",
+                        "size": "200",
+                        "start": 27,
+                        "end": 74
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Katakuri",
+                        "link_title": "/wiki/Charlotte Katakuri",
+                        "is_wikipedia": false,
+                        "start": 0,
+                        "end": 31
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "charlotte_katakuri"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "appearance",
+                        "character_model"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda agrees that Katakuri is a handsome character, and the reader might resemble him."
+            },
+            {
+                "number": 12,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "[[Charlotte Lola|Lola]] & [[Charlotte Chiffon|Chiffon]] are really hags. Their models are definitely my wife, right? P.N. The Inner Woman (Sanadacchi)",
+                        "matches": [
+                            [
+                                0,
+                                23,
+                                "Charlotte Lola|Lola"
+                            ],
+                            [
+                                26,
+                                55,
+                                "Charlotte Chiffon|Chiffon"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "It'll be good if you're crushed by a single wife. Sanadacchi.\n\n[[File:SBS88 Pez.png|thumb|200px]]",
+                        "matches": [
+                            [
+                                63,
+                                97,
+                                "File:SBS88 Pez.png|thumb|200px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS88 Pez.png",
+                        "size": "200",
+                        "start": 63,
+                        "end": 97
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Lola",
+                        "link_title": "/wiki/Charlotte Lola",
+                        "is_wikipedia": false,
+                        "start": 0,
+                        "end": 23
+                    },
+                    {
+                        "text": "Chiffon",
+                        "link_title": "/wiki/Charlotte Chiffon",
+                        "is_wikipedia": false,
+                        "start": 26,
+                        "end": 55
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "charlotte_lola",
+                        "charlotte_chiffon"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "family",
+                        "relationship"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "Reader Sanadacchi suggests that Lola and Chiffon resemble their wife, Oda encourages the reader with a mischievous response."
+            },
+            {
+                "number": 13,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "[[Capone Pez|Pez]] is so cute. But our son is cuter. P.N. Sanadacchi",
+                        "matches": [
+                            [
+                                0,
+                                18,
+                                "Capone Pez|Pez"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Sounds like you're happy after all, good for you!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Pez",
+                        "link_title": "/wiki/Capone Pez",
+                        "is_wikipedia": false,
+                        "start": 0,
+                        "end": 18
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "capone_pez"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "happy"
+                    ],
+                    "topics": [
+                        "family"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader comments on the cuteness of Capone Pez and declares their own son to be even cuter, to which Oda responds positively."
+            }
+        ],
+        "page": "60",
+        "chapter_number": "882",
+        "page_header": "SBS88 Header 3.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 14,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei, hello! What do you think of Katakuri-san, [[Charlotte Daifuku|Daifuku]]-san, and [[Charlotte Oven|Oven]]-san's birthday being November 25 (a play on number pronunciations and such in the phrase \"<u>ii</u> o<u>ni</u>isan mitsu<u>go</u>\" meaning \"three good big brothers\")? P.N. Sakuragi",
+                        "matches": [
+                            [
+                                54,
+                                83,
+                                "Charlotte Daifuku|Daifuku"
+                            ],
+                            [
+                                93,
+                                116,
+                                "Charlotte Oven|Oven"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "What do I think, you ask, I don't think anything about! It's fine!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Daifuku",
+                        "link_title": "/wiki/Charlotte Daifuku",
+                        "is_wikipedia": false,
+                        "start": 54,
+                        "end": 83
+                    },
+                    {
+                        "text": "Oven",
+                        "link_title": "/wiki/Charlotte Oven",
+                        "is_wikipedia": false,
+                        "start": 93,
+                        "end": 116
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "charlotte_katakuri",
+                        "charlotte_daifuku",
+                        "charlotte_oven"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "indifferent"
+                    ],
+                    "topics": [
+                        "birthdays",
+                        "Charlotte Family",
+                        "Japanese wordplay"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "The reader asks about the significance of the Charlotte siblings' birthdays, to which Oda responds casually that he doesn't think much about it."
+            },
+            {
+                "number": 16,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "If the [[Worst Generation]]'s rookies had to work in the real world, what would their jobs be? P.N. Neat",
+                        "matches": [
+                            [
+                                7,
+                                27,
+                                "Worst Generation"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Fine. I'll answer the two questions about the Worst Generation together! You already  know about Luffy and [[Roronoa Zoro|Zoro]]. I'll put Killer's answer with Kid's picture.\n\n{| style=\"margin:auto;\"\n|[[File:SBS88 Teach.png|76px]]||\n[[Marshall D. Teach]]<br />Somalia<br />Archeologist\n|[[File:SBS88 Kid.png|76px]]||\n[[Eustass Kid|Eustass \"Captain\" Kid]]<br />Scotland<br />Weapons Merchant<br />([[Killer]]: Pasta Shop)\n|[[File:SBS88 Law.png|76px]]||\n[[Trafalgar D. Water Law|Trafalgar Law]]<br />Germany<br />Doctor\n|-\n|[[File:SBS88 Bege.png|76px]]||\n[[Capone Bege|Capone \"Gang\" Bege]]<br />Italy<br />Shoe Shop\n|[[File:SBS88 Apoo.png|76px]]||\n[[Scratchmen Apoo]]<br />China<br />DJ\n|[[File:SBS88 Hawkins.png|76px]]||\n[[Basil Hawkins]]<br />Egypt<br />Interior Designer\n|-\n|[[File:SBS88 Drake.png|76px]]||\n[[X Drake]]<br />Turkey<br />Zookeeper\n|[[File:SBS88 Bonney.png|76px]]||\n[[Jewelry Bonney]]<br />Australia<br />Pizza Shop\n|[[File:SBS88 Urouge.png|76px]]||\n[[Urouge]]<br />India<br />Cabaret Club Manager\n|}\n\nThis is my proper imagining of them.",
+                        "matches": [
+                            [
+                                107,
+                                128,
+                                "Roronoa Zoro|Zoro"
+                            ],
+                            [
+                                201,
+                                230,
+                                "File:SBS88 Teach.png|76px"
+                            ],
+                            [
+                                233,
+                                254,
+                                "Marshall D. Teach"
+                            ],
+                            [
+                                287,
+                                314,
+                                "File:SBS88 Kid.png|76px"
+                            ],
+                            [
+                                317,
+                                354,
+                                "Eustass Kid|Eustass \"Captain\" Kid"
+                            ],
+                            [
+                                397,
+                                407,
+                                "Killer"
+                            ],
+                            [
+                                422,
+                                449,
+                                "File:SBS88 Law.png|76px"
+                            ],
+                            [
+                                452,
+                                492,
+                                "Trafalgar D. Water Law|Trafalgar Law"
+                            ],
+                            [
+                                522,
+                                550,
+                                "File:SBS88 Bege.png|76px"
+                            ],
+                            [
+                                553,
+                                587,
+                                "Capone Bege|Capone \"Gang\" Bege"
+                            ],
+                            [
+                                615,
+                                643,
+                                "File:SBS88 Apoo.png|76px"
+                            ],
+                            [
+                                646,
+                                665,
+                                "Scratchmen Apoo"
+                            ],
+                            [
+                                686,
+                                717,
+                                "File:SBS88 Hawkins.png|76px"
+                            ],
+                            [
+                                720,
+                                737,
+                                "Basil Hawkins"
+                            ],
+                            [
+                                776,
+                                805,
+                                "File:SBS88 Drake.png|76px"
+                            ],
+                            [
+                                808,
+                                819,
+                                "X Drake"
+                            ],
+                            [
+                                848,
+                                878,
+                                "File:SBS88 Bonney.png|76px"
+                            ],
+                            [
+                                881,
+                                899,
+                                "Jewelry Bonney"
+                            ],
+                            [
+                                932,
+                                962,
+                                "File:SBS88 Urouge.png|76px"
+                            ],
+                            [
+                                965,
+                                975,
+                                "Urouge"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS88 Teach.png",
+                        "size": "76",
+                        "start": 201,
+                        "end": 230
+                    },
+                    {
+                        "file": "SBS88 Kid.png",
+                        "size": "76",
+                        "start": 287,
+                        "end": 314
+                    },
+                    {
+                        "file": "SBS88 Law.png",
+                        "size": "76",
+                        "start": 422,
+                        "end": 449
+                    },
+                    {
+                        "file": "SBS88 Bege.png",
+                        "size": "76",
+                        "start": 522,
+                        "end": 550
+                    },
+                    {
+                        "file": "SBS88 Apoo.png",
+                        "size": "76",
+                        "start": 615,
+                        "end": 643
+                    },
+                    {
+                        "file": "SBS88 Hawkins.png",
+                        "size": "76",
+                        "start": 686,
+                        "end": 717
+                    },
+                    {
+                        "file": "SBS88 Drake.png",
+                        "size": "76",
+                        "start": 776,
+                        "end": 805
+                    },
+                    {
+                        "file": "SBS88 Bonney.png",
+                        "size": "76",
+                        "start": 848,
+                        "end": 878
+                    },
+                    {
+                        "file": "SBS88 Urouge.png",
+                        "size": "76",
+                        "start": 932,
+                        "end": 962
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Zoro",
+                        "link_title": "/wiki/Roronoa Zoro",
+                        "is_wikipedia": false,
+                        "start": 107,
+                        "end": 128
+                    },
+                    {
+                        "text": "Eustass \"Captain\" Kid",
+                        "link_title": "/wiki/Eustass Kid",
+                        "is_wikipedia": false,
+                        "start": 317,
+                        "end": 354
+                    },
+                    {
+                        "text": "Trafalgar Law",
+                        "link_title": "/wiki/Trafalgar D. Water Law",
+                        "is_wikipedia": false,
+                        "start": 452,
+                        "end": 492
+                    },
+                    {
+                        "text": "Capone \"Gang\" Bege",
+                        "link_title": "/wiki/Capone Bege",
+                        "is_wikipedia": false,
+                        "start": 553,
+                        "end": 587
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Worst Generation",
+                        "link_title": "/wiki/Worst Generation",
+                        "is_wikipedia": false,
+                        "start": 7,
+                        "end": 27
+                    },
+                    {
+                        "text": "Marshall D. Teach",
+                        "link_title": "/wiki/Marshall D. Teach",
+                        "is_wikipedia": false,
+                        "start": 233,
+                        "end": 254
+                    },
+                    {
+                        "text": "Killer",
+                        "link_title": "/wiki/Killer",
+                        "is_wikipedia": false,
+                        "start": 397,
+                        "end": 407
+                    },
+                    {
+                        "text": "Scratchmen Apoo",
+                        "link_title": "/wiki/Scratchmen Apoo",
+                        "is_wikipedia": false,
+                        "start": 646,
+                        "end": 665
+                    },
+                    {
+                        "text": "Basil Hawkins",
+                        "link_title": "/wiki/Basil Hawkins",
+                        "is_wikipedia": false,
+                        "start": 720,
+                        "end": 737
+                    },
+                    {
+                        "text": "X Drake",
+                        "link_title": "/wiki/X Drake",
+                        "is_wikipedia": false,
+                        "start": 808,
+                        "end": 819
+                    },
+                    {
+                        "text": "Jewelry Bonney",
+                        "link_title": "/wiki/Jewelry Bonney",
+                        "is_wikipedia": false,
+                        "start": 881,
+                        "end": 899
+                    },
+                    {
+                        "text": "Urouge",
+                        "link_title": "/wiki/Urouge",
+                        "is_wikipedia": false,
+                        "start": 965,
+                        "end": 975
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy",
+                        "roronoa_zoro",
+                        "eustass_kid",
+                        "killer",
+                        "trafalgar_law",
+                        "capone_bege",
+                        "scratchmen_apoo",
+                        "basil_hawkins",
+                        "x_drake",
+                        "jewelry_bonney",
+                        "urouge"
+                    ],
+                    "places": [
+                        "somalia",
+                        "scotland",
+                        "germany",
+                        "italy",
+                        "china",
+                        "egypt",
+                        "turkey",
+                        "australia",
+                        "india"
+                    ],
+                    "emotions": [
+                        "happy"
+                    ],
+                    "topics": [
+                        "worst_generation",
+                        "luffy_crew",
+                        "jobs",
+                        "funny"
+                    ],
+                    "importance": [
+                        "high"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda imagines the Worst Generation's jobs in the real world: Luffy and Zoro remain unknown, while others take on roles such as archeologist, weapons merchant, doctor, and more."
+            }
+        ],
+        "page": "78",
+        "chapter_number": "883",
+        "page_header": "SBS88 Header 4.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 17,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello, Odacchi! There's something I noticed. Katakuri isn't supposed to eat in front of people, yet in [[Volume 86|volume 86]], in the 3rd panel of the 3rd page of [[Chapter 861]], he eats something. Looking closely, there's a bite mark. P.N. Minamimaru",
+                        "matches": [
+                            [
+                                103,
+                                126,
+                                "Volume 86|volume 86"
+                            ],
+                            [
+                                164,
+                                179,
+                                "Chapter 861"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Good job finding that~ (laughs) Yes. It's not that Katakuri doesn't eat in front of people. He doesn't let other people see him eat. Now let me show you. [[File:SBS88 Katakuri Eating.png|center|400px]] Could you see it!? You couldn't see it. He wasn't born with a split mouth. Actually this speed has a source cause, but... I might reveal that in the main story, I'm still thinking about it.\n\n[[File:SBS88 Rook Bege.png|thumb|200px]]",
+                        "matches": [
+                            [
+                                154,
+                                201,
+                                "File:SBS88 Katakuri Eating.png|center|400px"
+                            ],
+                            [
+                                393,
+                                433,
+                                "File:SBS88 Rook Bege.png|thumb|200px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS88 Katakuri Eating.png",
+                        "size": "400",
+                        "start": 154,
+                        "end": 201
+                    },
+                    {
+                        "file": "SBS88 Rook Bege.png",
+                        "size": "200",
+                        "start": 393,
+                        "end": 433
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "volume 86",
+                        "link_title": "/wiki/Volume 86",
+                        "is_wikipedia": false,
+                        "start": 103,
+                        "end": 126
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Chapter 861",
+                        "link_title": "/wiki/Chapter 861",
+                        "is_wikipedia": false,
+                        "start": 164,
+                        "end": 179
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "charlotte_katakuri"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "character_traits",
+                        "manga_anomalies",
+                        "character_backstory"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Katakuri doesn't eat in front of people, but he doesn't let others see him eat; there's a reason for this which may be revealed in the main story."
+            },
+            {
+                "number": 18,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "How much to stay at Rook Bege for a night? P.N. Match and Takeshi",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Since it's inside Bege's body, if he approves, you're in. Just paying won't mean you get to stay.\n\n[[File:SBS88 Dorry and Brogy.png|thumb|200px]]",
+                        "matches": [
+                            [
+                                99,
+                                145,
+                                "File:SBS88 Dorry and Brogy.png|thumb|200px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS88 Dorry and Brogy.png",
+                        "size": "200",
+                        "start": 99,
+                        "end": 145
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "rook_bege"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "accommodation"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Bege's approval is required to stay at Rook Bege for a night, payment alone won't suffice."
+            },
+            {
+                "number": 19,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Lately there's been a lot of tall guys, like Katakuri and [[Donquixote Doflamingo|Doflamingo]], coming out one after the other, but about how many meters tall is the shortest [[Giants|Giant]]? P.N. BENI\n\n[[File:SBS88 Linlin.png|thumb|200px]]",
+                        "matches": [
+                            [
+                                58,
+                                94,
+                                "Donquixote Doflamingo|Doflamingo"
+                            ],
+                            [
+                                175,
+                                191,
+                                "Giants|Giant"
+                            ],
+                            [
+                                204,
+                                241,
+                                "File:SBS88 Linlin.png|thumb|200px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Firstly, [[Charlotte Linlin|Big Mom]]'s height, who looks like a Giant, is 8m 80&nbsp;cm. She's bigger than [[Edward Newgate|Whitebeard]]. On the other hand, the shortest real Giant is 12m, so they are about two heads taller than Big Mom. The full length of a large bus or truck is about 12m or so. Please think of this feeling as if you'd found a giant laying down.",
+                        "matches": [
+                            [
+                                9,
+                                37,
+                                "Charlotte Linlin|Big Mom"
+                            ],
+                            [
+                                108,
+                                137,
+                                "Edward Newgate|Whitebeard"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS88 Linlin.png",
+                        "size": "200",
+                        "start": 204,
+                        "end": 241
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Doflamingo",
+                        "link_title": "/wiki/Donquixote Doflamingo",
+                        "is_wikipedia": false,
+                        "start": 58,
+                        "end": 94
+                    },
+                    {
+                        "text": "Giant",
+                        "link_title": "/wiki/Giants",
+                        "is_wikipedia": false,
+                        "start": 175,
+                        "end": 191
+                    },
+                    {
+                        "text": "Big Mom",
+                        "link_title": "/wiki/Charlotte Linlin",
+                        "is_wikipedia": false,
+                        "start": 9,
+                        "end": 37
+                    },
+                    {
+                        "text": "Whitebeard",
+                        "link_title": "/wiki/Edward Newgate",
+                        "is_wikipedia": false,
+                        "start": 108,
+                        "end": 137
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "katakuri",
+                        "doflamingo",
+                        "big_mom",
+                        "whitebeard"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "giant",
+                        "height"
+                    ],
+                    "importance": [
+                        "high"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "The shortest real Giant in One Piece is 12 meters tall, about two heads taller than Big Mom."
+            }
+        ],
+        "page": "96",
+        "chapter_number": "884",
+        "page_header": "SBS88 Header 5.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 20,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello, Odacchi. In [[Chapter 883|chapter 883]], you revealed Katakuri's shocking true face, so is it Odacchi's policy to not draw perfect characters? Incidentally, because of this, I feel closer to Katakuri. If he has to carry around such an image, it would really build up stress. P.N. Minamimaru",
+                        "matches": [
+                            [
+                                19,
+                                46,
+                                "Chapter 883|chapter 883"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "How nice, Minamimaru-kun! Explosive laughter at Katakuri. Explosive laughter! You ask if it's a policy, but perfect people are so boring. People love other people's flaws. (Deep story)\n\n[[File:SBS88 Doflamingo.png|thumb|200px]]",
+                        "matches": [
+                            [
+                                186,
+                                227,
+                                "File:SBS88 Doflamingo.png|thumb|200px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS88 Doflamingo.png",
+                        "size": "200",
+                        "start": 186,
+                        "end": 227
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "chapter 883",
+                        "link_title": "/wiki/Chapter 883",
+                        "is_wikipedia": false,
+                        "start": 19,
+                        "end": 46
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "katakuri"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "happy",
+                        "funny"
+                    ],
+                    "topics": [
+                        "character_design",
+                        "imperfection"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda explains that perfect characters are boring and people love other people's flaws, erupting with laughter at the question about Katakuri's true face."
+            },
+            {
+                "number": 21,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Where is the Young Master right now? P.N. Sama Prince",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Level 6 of [[Impel Down]].\n\n[[File:SBS88 Tsuru.png|thumb|200px]]",
+                        "matches": [
+                            [
+                                11,
+                                25,
+                                "Impel Down"
+                            ],
+                            [
+                                28,
+                                64,
+                                "File:SBS88 Tsuru.png|thumb|200px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS88 Tsuru.png",
+                        "size": "200",
+                        "start": 28,
+                        "end": 64
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Impel Down",
+                        "link_title": "/wiki/Impel Down",
+                        "is_wikipedia": false,
+                        "start": 11,
+                        "end": 25
+                    }
+                ],
+                "tags": {
+                    "characters": [],
+                    "places": [
+                        "Impel Down"
+                    ],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "The Young Master is on Level 6 of Impel Down."
+            },
+            {
+                "number": 22,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Did [[Tsuru|Otsuru]]-san bring the newspaper to Doflamingo every day because he desired it? P.N. Coo",
+                        "matches": [
+                            [
+                                4,
+                                20,
+                                "Tsuru|Otsuru"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "No way, you shouldn't give that kind of service to a single prisoner. But Doflamingo seems to have a lot of acquaintances in the prison. I'm sure he gets his hands on the newspaper from time to time using his cunning hand. Fufufufu!!\n\n[[File:SBS88 Lao G.png|thumb|200px]]",
+                        "matches": [
+                            [
+                                235,
+                                271,
+                                "File:SBS88 Lao G.png|thumb|200px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS88 Lao G.png",
+                        "size": "200",
+                        "start": 235,
+                        "end": 271
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Otsuru",
+                        "link_title": "/wiki/Tsuru",
+                        "is_wikipedia": false,
+                        "start": 4,
+                        "end": 20
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "doflamingo",
+                        "lao_g"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "prison_life",
+                        "service",
+                        "doflamingo"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Doflamingo did not receive the newspaper daily from Tsuru, as it would be undue favoritism. He acquired it through cunning means and prison connections."
+            },
+            {
+                "number": 23,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Does [[Lao G]] rinse? P.N. Suka Junky",
+                        "matches": [
+                            [
+                                5,
+                                14,
+                                "Lao G"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Ummm. <big>I DON'T KNOW, YOU BASTARD!!</big>\n\n[[File:SBS88 Luffy and Alvida.png|thumb|200px|''? I don't know a beautiful woman like you.'']]",
+                        "matches": [
+                            [
+                                46,
+                                140,
+                                "File:SBS88 Luffy and Alvida.png|thumb|200px|''? I don't know a beautiful woman like you.''"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS88 Luffy and Alvida.png",
+                        "size": "200",
+                        "start": 46,
+                        "end": 140
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Lao G",
+                        "link_title": "/wiki/Lao G",
+                        "is_wikipedia": false,
+                        "start": 5,
+                        "end": 14
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "lao_g"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "hygiene",
+                        "SBS_question"
+                    ],
+                    "importance": [
+                        "low"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Eiichiro Oda responds aggressively to a reader's question about Lao G, and includes a humorous image caption."
+            },
+            {
+                "number": 24,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "What does Luffy consider a 'beauty'? If he called [[Alvida]] a beauty, then why he aren't other beauties, like Nami, [[Nico Robin|Robin]], and [[Boa Hancock|Hancock]], considered 'beauties'? P.N. Nrimatomogisu",
+                        "matches": [
+                            [
+                                50,
+                                60,
+                                "Alvida"
+                            ],
+                            [
+                                117,
+                                137,
+                                "Nico Robin|Robin"
+                            ],
+                            [
+                                143,
+                                166,
+                                "Boa Hancock|Hancock"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "It's true that he indeed called Alvida a beauty. However, when normal people say 'a beauty' they mean it as a compliment, but in Luffy's case, it's just a classification. Luffy understands whether a face is pretty or not, but he doesn't care about that.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Robin",
+                        "link_title": "/wiki/Nico Robin",
+                        "is_wikipedia": false,
+                        "start": 117,
+                        "end": 137
+                    },
+                    {
+                        "text": "Hancock",
+                        "link_title": "/wiki/Boa Hancock",
+                        "is_wikipedia": false,
+                        "start": 143,
+                        "end": 166
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Alvida",
+                        "link_title": "/wiki/Alvida",
+                        "is_wikipedia": false,
+                        "start": 50,
+                        "end": 60
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy",
+                        "alvida",
+                        "nami",
+                        "nico_robin",
+                        "boa_hancock"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "beauty",
+                        "luffy's perspective"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Luffy calls Alvida a beauty, but he doesn't compliment her, he just classifies her as such and doesn't care much about physical beauty."
+            }
+        ],
+        "page": "152",
+        "chapter_number": "887",
+        "page_header": "SBS88 Header 6.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 25,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Of the One Piece world's mail delivery staff, can the [[Animal Species/Summit War Saga#Carrier Bat|Carrier Bats]] deliver packages too? Do pirate crews exchange mid and end of year gifts with each other? P.N. Boneless Ham\n\n[[File:SBS88 Mail Birds.png|thumb|200px]]",
+                        "matches": [
+                            [
+                                54,
+                                113,
+                                "Animal Species/Summit War Saga#Carrier Bat|Carrier Bats"
+                            ],
+                            [
+                                223,
+                                264,
+                                "File:SBS88 Mail Birds.png|thumb|200px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I don't want to see pirates getting along like that. It doesn't happen. Carrier Bats are mainly used as a means of contact by the [[World Government]]. For private letters, one can negotiate with a [[Animal Species#News Coo|News Coo]] to deliver it. There's also a private company called \"Small Bird Delivery,\" but they have a small space and short distance. \"Albatross Delivery\" does long distance, but there's a lot of things they won't deliver. Mail services outside of the government's just aren't that developed. For deliveries between pirates, it's common to use boats. They don't have addresses either, so parting ways with people is heavier than we can imagine.",
+                        "matches": [
+                            [
+                                130,
+                                150,
+                                "World Government"
+                            ],
+                            [
+                                198,
+                                234,
+                                "Animal Species#News Coo|News Coo"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS88 Mail Birds.png",
+                        "size": "200",
+                        "start": 223,
+                        "end": 264
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Carrier Bats",
+                        "link_title": "/wiki/Animal Species/Summit War Saga#Carrier Bat",
+                        "is_wikipedia": false,
+                        "start": 54,
+                        "end": 113
+                    },
+                    {
+                        "text": "News Coo",
+                        "link_title": "/wiki/Animal Species#News Coo",
+                        "is_wikipedia": false,
+                        "start": 198,
+                        "end": 234
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "World Government",
+                        "link_title": "/wiki/World Government",
+                        "is_wikipedia": false,
+                        "start": 130,
+                        "end": 150
+                    }
+                ],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "mail_delivery",
+                        "pirate_crews",
+                        "animal_species",
+                        "world_government"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Carrier Bats are mainly used by the World Government, while pirates use boats for deliveries and don't exchange gifts with each other."
+            },
+            {
+                "number": 26,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello. Oda-sensei. I counted your answered questions (including non-questions) in the SBS. (The drawings and games were omitted). I'm not sure if it's right, but here!!!! 1,199 questions (from volumes [[Volume 4|4]] to [[Volume 86|86]]) do-don!! How amazing. So do your best going forward to answer things like more \"That's a question!?\" questions and \"serious questions\" and \"there's an idiot questions\" and \"Strange (perverted or dirty) questions.\" [drawn peace sign hand] (laughs) P.N. BLACK Little Brat",
+                        "matches": [
+                            [
+                                201,
+                                215,
+                                "Volume 4|4"
+                            ],
+                            [
+                                219,
+                                235,
+                                "Volume 86|86"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "You counted the number of questions!? Thanks a lot. I've already answered over 1,200 questions, I see. Every time I'm sincerely glad I can talk with all you readers in this corner. I want this to be precious!\n\n[[File:SBS88 Chinjao.png|thumb|200px]]",
+                        "matches": [
+                            [
+                                210,
+                                248,
+                                "File:SBS88 Chinjao.png|thumb|200px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS88 Chinjao.png",
+                        "size": "200",
+                        "start": 210,
+                        "end": 248
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "4",
+                        "link_title": "/wiki/Volume 4",
+                        "is_wikipedia": false,
+                        "start": 201,
+                        "end": 215
+                    },
+                    {
+                        "text": "86",
+                        "link_title": "/wiki/Volume 86",
+                        "is_wikipedia": false,
+                        "start": 219,
+                        "end": 235
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "happy",
+                        "funny"
+                    ],
+                    "topics": [
+                        "SBS_corner",
+                        "reader_interaction"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader expresses amazement at 1,199 answered questions, Oda appreciates the support and values interactions with readers."
+            },
+            {
+                "number": 27,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I have a question for you Odacchi! Does Don [[Chinjao]] rinse? Hiyahoho hiyahoho P.N. Suka Junky",
+                        "matches": [
+                            [
+                                44,
+                                55,
+                                "Chinjao"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "<big>SHUT UP, YOU BASTARD!!</big> Well, that's the SBS until the next volume.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Chinjao",
+                        "link_title": "/wiki/Chinjao",
+                        "is_wikipedia": false,
+                        "start": 44,
+                        "end": 55
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "don_chinjao"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "angry"
+                    ],
+                    "topics": [
+                        "sbs_format"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "D asks if Don Chinjao rinses, Oda responds with a big 'SHUT UP, YOU BASTARD!!' and ends the SBS."
+            }
+        ],
+        "page": "170",
+        "chapter_number": "888",
+        "page_header": "SBS88 Header 7.png"
+    }
+]

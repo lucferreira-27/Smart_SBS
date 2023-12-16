@@ -1,0 +1,509 @@
+[
+    {
+        "qa": [
+            {
+                "number": 1,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello, Oda-sensei. Listen, I'm going to tell you my dream. I want to be an animator because of One Piece. So, with the hope of becoming one, let me say THOSE WORDS! Please!!! Now... \n\n\"One Piece readers! SBS IS STARTIIIING!!\" \n\nAh, finally. Thanks a lot. \n\nTako Musume",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Fgah!!... fngah!!... daa!!!....... haahaa... That was dangerous... I couldn't get my finger out of my nose. Everyone, be careful when you're picking your nose!\n\nLet's start SBSSSS!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda replies comically to a reader's dream of becoming an animator due to One Piece, then jokingly warns about picking noses before starting the SBS."
+            },
+            {
+                "number": 2,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I have one... just one... question for the honorable (no, really) Oda Eiichiro-sama. Can I ask? What? Ok? Yay!! Then let me really ask you.\n\nWHAT SPECIES DO YOU BELONG TO?",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "HUMAN, DUMBASS. NEXT!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "Oda_Eiichiro"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "sassy",
+                        "funny"
+                    ],
+                    "topics": [
+                        "self_deprecation"
+                    ],
+                    "importance": "hight",
+                    "isCharacterInsertion": true
+                },
+                "summary": "D asks Oda what species he belongs to, Oda responds with 'HUMAN, DUMBASS.'"
+            },
+            {
+                "number": 3,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hey!! This is sudden, but I came up with Luffy's new attack. I think I'll just do it to Odacchi, so please take it. \n\nGOMU GOMU NO GOMUUUU!! How was it?\n\nGrampa",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Waaa. That hurt... hmmmmm... it was kinda... RUBBERYYYY!\n\nYes. That reaction... Is that good enough?\n\nAnyways, I'll go to the next question.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "moneky_d_luffy"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "new_attack",
+                        "rubber",
+                        "funny_reaction"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "A reader suggests a new attack for Luffy, calling it 'Gomu Gomu no Gomuuuu,' and Oda responds playfully, saying it was 'kinda... RUBBERYYYY!'"
+            }
+        ],
+        "page": 26,
+        "chapter_number": 256,
+        "page_header": "SBS Vol 28 header.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 4,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello! Oda-sensei! In an SBS in Volume 25, you said, \"Manga is for drawing people's dreams.\" I was very moved by those words. But there's something wrong with that. My dream is to see Nami naked, butit's never drawn. Do you know why?",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Nami naked, eh?. We all want to see it. She was in the bath before. That hand's in the way, damn it!! Seriously. And Vivi was covered by that stupid towel!! It's an emergency. I'll try harder on the camera angle next time!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "nami",
+                        "vivi"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "fanservice",
+                        "manga"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": true
+                },
+                "summary": "A reader expresses disappointment about Nami never being drawn naked, to which Oda acknowledges and expresses his intent to improve camera angles in future."
+            },
+            {
+                "number": 5,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Nico Robin's range in growing her body parts 200 Hana Hanas. Right? \n\nTomoya",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yeah. Something like that.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "nico_robin"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "hana_hana_fruit"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Nico Robin can grow up to 200 limbs using her Hana Hana no Mi Devil Fruit powers."
+            },
+            {
+                "number": 6,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei!!!! My dad told me, \"One Piece is a WEIRD manga\", so I said, \"NO!! ONE PIECE IS A GREAT MANGA!!\" Almost. (really)",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "What?! That's a silent scream!! Why don't you say it out loud! Everybody, repeat after me!! \"ONE PIECE IS A WEIRD MANGA!!\"\n\nWhoo hoo! It's Spring.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "funny",
+                        "happy"
+                    ],
+                    "topics": [],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader's dad called One Piece 'weird', Oda encourages embracing it, and mentions it's spring."
+            },
+            {
+                "number": 7,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei and the characters of One Piece say \"Spirit\" a lot, but what exactly is Spirit?! I don't get it. I looked it up in the dictionary and... it wasn't even in there! Do other readers get it? Please tell me!",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "\"Spirit\" is \"to feel strongly\". When someone hopes for something really hard, it happens. Those people are glamorous.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "hopeful"
+                    ],
+                    "topics": [
+                        "spirit",
+                        "emotions"
+                    ],
+                    "importance": "hight",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Spirit in One Piece is about feeling strongly and hoping for something with great determination, making those people glamorous."
+            }
+        ],
+        "page": "46",
+        "chapter_number": "257",
+        "page_header": null
+    },
+    {
+        "qa": [
+            {
+                "number": 8,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Yo! Odacchi! I can't even do my homework because I think about this too much, so listen! You said in some SBS that you sometimes make the same expressions as the ones you're drawing. I didn't know that Odacchi's eyeballs could LEAVE THE SKULL.",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Of course. It's my speciality. When I'm really surprised, they fly away. My personal best is 18 Yaaarghs. The world record is 84 Yaarghs. Everyone is working hard to beat it.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "Oda's_personal_life"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda confirms that he makes the same expressions as the ones he's drawing, and mentions his eyeballs flying away when he's really surprised."
+            },
+            {
+                "number": 9,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Are the \"Shichibukai\" (Seven Armed Seas) modeled after the Privateers, who were used by England and France as a last resort to counter Spain, a major power at that time, by letting pirates raid Spanish towns in exchange for giving the government a part of the plunder?",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Hah!! A serious question. (cries) Yes! Privateers! Simply put, \"licensed pirates\" really did exist back in the day. For the home country, they were heroes. For other countries, they were looters. When you look back at history, the reason why pirates were not generalized as \"criminals\" is because of these pirate heroes. But that doesn't decide whether it was good or bad thing. Pirates are pirates. If the crime was too big, it can be confused with justice.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "serious",
+                        "crying"
+                    ],
+                    "topics": [
+                        "Shichibukai",
+                        "privateers",
+                        "pirates",
+                        "history"
+                    ],
+                    "importance": "hight",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda compares the Shichibukai to privateers, licensed pirates who raided for their home country, seen as heroes or looters depending on perspective."
+            }
+        ],
+        "page": "104",
+        "chapter_number": "260",
+        "page_header": null
+    },
+    {
+        "qa": [
+            {
+                "number": 10,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello, Oda-san! I've been wanting to ask this, but you know Whitebeard Volume 25's pages 158-159? What I wanted to ask was about those nurses. Why are they all wearing leopard print tights? Is it just a coincidence? Or does the Strongest Man, Whitebeard, Edward Newgate like leopard prints? Please tell me, Oda-san. \n\nLeopard print.",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Leopard prints have this kinda... wild feeling... Isn't it great? Oh, and I hear there are more hospitals where nurses wear pants... \"That's sad. I'm gonna cry now...\", Whitebeard said. He wishes all nurses would wear clothes like that!! What a naughty geezer!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "whitebeard"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "clothing",
+                        "whitebeard"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda explains that leopard prints have a wild feeling and Whitebeard enjoys it, expressing his disappointment at more nurses not wearing such clothes."
+            },
+            {
+                "number": 11,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hey, Oda-sensei!! I want to be a manga artist, and I want to submit my work to Jump, but there's something I'm confused about... Do I have to use tones or something special like that? Where are they being sold? Please answer seriously!!\n\nAn amateur who aspires to be a manga artist.",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes. This kind of question comes up a lot. I think I'll have a brief manga basics page made one of these days. You can't get equipment for manga at the stationary store. Let's all go to an art store. The people there should be able to tell you all about some, too.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "serious"
+                    ],
+                    "topics": [
+                        "manga_artist",
+                        "Jump",
+                        "manga_basics"
+                    ],
+                    "importance": "hight",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda suggests going to an art store for manga materials and hints at creating a manga basics page in the future."
+            }
+        ],
+        "page": "124",
+        "chapter_number": "261",
+        "page_header": null
+    },
+    {
+        "qa": [
+            {
+                "number": 12,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Am I an monkey? Or am I a \"saruagari\"?\n\nMasira Pirates",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Saruagari. One Piece readers are all saruagari!!... Don't run, guys. You don't like it? It's a compliment. I don't know what it means, though. Go with it.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "saruagari",
+                        "compliment",
+                        "reader community"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "The reader asks if they are a monkey or 'saruagari,' Oda confirms 'saruagari' and says it's a compliment, though he doesn't know the meaning."
+            },
+            {
+                "number": 13,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "HI!! Eiichi! You said in Volume 27 that the Jaya arc was \"A man's romance\"?! As a woman of 18 years, how would you define my \"burning passion for adventure\" and \"infinite dreams\"?! And all my blood goes to my head when I read your manga!!! Take responsibility for it!!! Please take responsibility and include the girls, too. \n\nFrom Her New Nye Co.",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "A woman's romance? No, it's a bit complicated. The word \"man\" is sometimes used like an adjective. Really good women have men in themselves. You call them \"chic\". So I'll scream it once again: Men and women can use \"A MAN'S ROMANCE\"!! Women are included!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "romance",
+                        "gender_representation"
+                    ],
+                    "importance": "hight",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda clarifies 'a man's romance' as an expression for both men and women with 'chic' qualities, emphasizing that women are included in the term."
+            },
+            {
+                "number": 14,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Nice to meet you, Oda-sensei <3. I have a question. On my high school exam, I was asked who I look up to, and I told my parents I might answer \"Luffy\". Then they told me not to, because it's embarrassing. I really admire Luffy, though!! \n\nOda-sensei, say something to my parents, please! \n\nUsagi",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Ouou!! Mom, Mom!! How dare you!! You... yeah, you'd be embarrassed if you answered that you admire Luffy\n\nSee you next volume!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "humorous"
+                    ],
+                    "topics": [
+                        "idolization",
+                        "embracement"
+                    ],
+                    "importance": [
+                        "high"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "Oda defends Luffy as a role model, shouting at the reader's parents for discouraging admiration for the character."
+            }
+        ],
+        "page": "164",
+        "chapter_number": "263",
+        "page_header": null
+    }
+]

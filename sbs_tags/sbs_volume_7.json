@@ -1,0 +1,1081 @@
+[
+    {
+        "qa": [
+            {
+                "number": 1,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "To Master Ei. What time is it now~?",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Uhhhh... Right now it's... 12:09am! Let's start the SBS Corner!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [],
+                    "importance": [
+                        "high"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Eiichiro Oda starts the SBS Corner after revealing it's 12:09am."
+            },
+            {
+                "number": 2,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Does Shanks like me?",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I don't care!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "shanks"
+                    ],
+                    "emotions": [
+                        "indifferent"
+                    ],
+                    "topics": [
+                        "relationships"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Shanks doesn't care about you."
+            },
+            {
+                "number": 3,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei! A little while ago, my friend came up and said, \"I've found the perfect Devil Fruit for you\", so I went ahead and ate it. Now it may just be my mind playing tricks on me, but I get the feeling that all the jokes I say aren't very funny.",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Ohhhhhh... That one, huh? Allright, I'll lay it on you straight. You have eaten the \"[[Samu Samu no Mi]]\". If you eat that fruit, nothing but bad jokes come out of your mouth. And to make matters worse, you can't swim. You really got the raw end of the deal there, my friend. Ha ha ha ha. Laugh it up, laugh it up. Ha ha ha.\n\n''(Note: Samu(i) means 'cold', and is often used when someone says a bad joke. Kind of the same as when a comic says \"tough audience\".)''\n\n\n\n[[File:SBS Vol 7 Minatomo.png|right|250px]]",
+                        "matches": [
+                            [
+                                85,
+                                104,
+                                "Samu Samu no Mi"
+                            ],
+                            [
+                                467,
+                                510,
+                                "File:SBS Vol 7 Minatomo.png|right|250px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS Vol 7 Minatomo.png",
+                        "size": "250",
+                        "start": 467,
+                        "end": 510
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Samu Samu no Mi",
+                        "link_title": "/wiki/Samu Samu no Mi",
+                        "is_wikipedia": false,
+                        "start": 85,
+                        "end": 104
+                    }
+                ],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "playful",
+                        "funny"
+                    ],
+                    "topics": [
+                        "devil_fruit",
+                        "jokes"
+                    ],
+                    "importance": "hight",
+                    "isCharacterInsertion": false
+                },
+                "summary": "D ate the 'Samu Samu no Mi' Devil Fruit, which makes all jokes come out bad and prevents the user from swimming."
+            },
+            {
+                "number": 4,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "In the first volume, when the bandits enter the bar they destroy the door, so why is it that when they leave, it's repaired?!",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "That was the work of the carpenter \"[[Minatomo (East Blue)|Minatomo]]-san\". He has a short temper, so he cannot pass by a broken door or what-have-you without repairing it. I assure you, this wasn't my mistake.\n\n''(Text: \"Don't joke around, punk!! Quit lookin' at me~\").''",
+                        "matches": [
+                            [
+                                36,
+                                69,
+                                "Minatomo (East Blue)|Minatomo"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Minatomo",
+                        "link_title": "/wiki/Minatomo (East Blue)",
+                        "is_wikipedia": false,
+                        "start": 36,
+                        "end": 69
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "minatomo"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "repair",
+                        "bar",
+                        "carpenter"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "The bandits destroying the bar's door was fixed by the carpenter Minatomo-san, who cannot pass by a broken door without repairing it."
+            }
+        ],
+        "page": 26,
+        "chapter_number": 54,
+        "page_header": "SBS Vol 7 header.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 5,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Why does Sanji-san's eyebrow curl up at the end? Is it for fashion? Make it clear!!",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Hey!! You there, sit down!! Now listen!! Everyone lives in circles!! The Sun, the Moon, and the Earth all spin in circles!! And!! If the Earth suddenly stopped spinning!! The planet would be covered in tidal waves!! It would be terrible!! Now remember that Sanji's eyebrow channels that same powerful circular energy!! Reflect upon this!! You may go!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "sanji"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "sanji's_eyebrow",
+                        "fashion"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Sanji's eyebrow curls up in a circular fashion to channel powerful circular energy, similar to the spinning of the Sun, Moon, and Earth."
+            },
+            {
+                "number": 6,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "A question. How old is [[Sanji]]-san?",
+                        "matches": [
+                            [
+                                23,
+                                32,
+                                "Sanji"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "19 years old. The same as [[Roronoa Zoro|Zoro]].",
+                        "matches": [
+                            [
+                                26,
+                                47,
+                                "Roronoa Zoro|Zoro"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Zoro",
+                        "link_title": "/wiki/Roronoa Zoro",
+                        "is_wikipedia": false,
+                        "start": 26,
+                        "end": 47
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Sanji",
+                        "link_title": "/wiki/Sanji",
+                        "is_wikipedia": false,
+                        "start": 23,
+                        "end": 32
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "sanji",
+                        "roronoa_zoro"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Sanji is 19 years old, same as Zoro."
+            },
+            {
+                "number": 7,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Nami, Nami Nami, Nami, I love Nami. I won't give her over to that Sanji guy!! Therefore, I propose a duel, for Nami. Tomorrow, at 3pm, on the Red Line. Be there! Oda-sensei, is this okay?",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "OK!! Fight!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "nami",
+                        "sanji"
+                    ],
+                    "places": [
+                        "red_line"
+                    ],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "duel",
+                        "relationships"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader proposes a duel for Nami's love, and Oda gives the green light for the fight to happen."
+            },
+            {
+                "number": 8,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "How many assistants do you have? What do they do?",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "There are four. They help me with the backgrounds and so forth. They stay at my house and help me for 3 days and 2 nights a week, but to tell you the truth, I wouldn't be able to finish a chapter without them. However, it's such a silly place with all of us together that doing the work is very fun.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "funny",
+                        "happy"
+                    ],
+                    "topics": [
+                        "assistants",
+                        "workplace",
+                        "silly_place"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda has four assistants who help with backgrounds and stay at his house to work 3 days and 2 nights a week, making the work enjoyable."
+            }
+        ],
+        "page": "46",
+        "chapter_number": "55",
+        "page_header": null
+    },
+    {
+        "qa": [
+            {
+                "number": 9,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I have a question. How quickly can Captain [[Kuro]] run 100 meters?",
+                        "matches": [
+                            [
+                                43,
+                                51,
+                                "Kuro"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "To tell you the truth, it is extremely hard to measure his speed correctly, but I don't think it would take more than 5 seconds. Think of it as 4 point something. Whoa! That's a world record.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Kuro",
+                        "link_title": "/wiki/Kuro",
+                        "is_wikipedia": false,
+                        "start": 43,
+                        "end": 51
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "kuro"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "speed",
+                        "world_record"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Kuro's 100 meter dash would take less than 5 seconds, possibly 4 point something, setting a world record."
+            },
+            {
+                "number": 10,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Are [[Patty]] and [[Carne]]'s names from \"s<u>pa</u>ghe<u>tti</u>\" and \"<u>cal</u>zo<u>ne</u>\"? ''(Note: Calzone spelled in Japanese is Caruts\u014dne (\u30ab\u30eb\u30c4\u30a9\u30fc\u30cd), and Carne is spelled Carune (\u30ab\u30eb\u30cd))''",
+                        "matches": [
+                            [
+                                4,
+                                13,
+                                "Patty"
+                            ],
+                            [
+                                18,
+                                27,
+                                "Carne"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Hmmm! It is true that their names are derived from food-related words, but that's not right. Patty is taken from the name of a type of dessert chef (patissiere). And Carne is taken directly from the Spanish word for meat.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Patty",
+                        "link_title": "/wiki/Patty",
+                        "is_wikipedia": false,
+                        "start": 4,
+                        "end": 13
+                    },
+                    {
+                        "text": "Carne",
+                        "link_title": "/wiki/Carne",
+                        "is_wikipedia": false,
+                        "start": 18,
+                        "end": 27
+                    }
+                ],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "character_names",
+                        "food"
+                    ],
+                    "importance": "hight",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Patty's name is derived from a dessert chef, while Carne's name is directly from the Spanish word for meat."
+            },
+            {
+                "number": 11,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "If Luffy is 7,200 Funky Gomu Gomus, does that mean Sanji is about 8,500 Funky Ero Eros?",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Oh, no, not at all. He can get at least 930 Fairy Tale Ero Eros.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "luffy",
+                        "sanji"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "power_scaling"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Sanji can perform at least 930 Fairy Tale Ero Eros, not 8,500 Funky Ero Eros like Luffy's 7,200 Funky Gomu Gomus."
+            },
+            {
+                "number": 12,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Could you make the [[One Piece (Manga)|One Piece]] [[Wikipedia:Tank\u014dbon|tank\u014dbon]] a little cheaper? (like 100 yen...)",
+                        "matches": [
+                            [
+                                19,
+                                50,
+                                "One Piece (Manga)|One Piece"
+                            ],
+                            [
+                                51,
+                                82,
+                                "Wikipedia:Tank\u014dbon|tank\u014dbon"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Right now... 1 book is 410 yen. And Jump costs 220 yen... When I was in elementary school, a tank\u014dbon was 360 yen and a Jump cost 170 yen. But the price of everything rises. There's nothing I can do about it. It's the same for everyone. And 100 yen is just never gonna happen.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "One Piece",
+                        "link_title": "/wiki/One Piece (Manga)",
+                        "is_wikipedia": false,
+                        "start": 19,
+                        "end": 50
+                    },
+                    {
+                        "text": "tank\u014dbon",
+                        "link_title": "/wiki/Wikipedia:Tank\u014dbon",
+                        "is_wikipedia": false,
+                        "start": 51,
+                        "end": 82
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "manga_publishing",
+                        "price_increase"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda explains that the price of One Piece tank\u014dbon is 410 yen, and it's not possible to reduce it to 100 yen due to rising costs."
+            },
+            {
+                "number": 13,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Sensei! When you are drawing the characters of One Piece, and Luffy is mad, for example, do you get a mad expression on your face, or look really strained?? Tell me!! I do it.",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Oh, I sure do. I make lots of faces when I draw. When I drew the double page spread of the break-up of the Usopp Pirate Crew, my face got really tired. I cried so much when I drew that, I thought my face was going to cramp up.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "luffy",
+                        "usopp"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "strained",
+                        "sad"
+                    ],
+                    "topics": [
+                        "drawing",
+                        "emotional impact"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda admits to making faces while drawing, including crying while illustrating the break-up of the Usopp Pirate Crew."
+            }
+        ],
+        "page": "88",
+        "chapter_number": "57",
+        "page_header": null
+    },
+    {
+        "qa": [
+            {
+                "number": 14,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Are those three-roped things of hair coming out of [[Zeff]]'s nose a mustache? Or it is nose hair? Or fake hair?",
+                        "matches": [
+                            [
+                                51,
+                                59,
+                                "Zeff"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "It's braided hair. The technical name is \"somehow okay hair\".\n\n''(Note: Oda's answer to that question is a pun. He says \"yosage\" (which could mean \"okay hair\") instead of \"osage\", or \"braided hair\".)''",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Zeff",
+                        "link_title": "/wiki/Zeff",
+                        "is_wikipedia": false,
+                        "start": 51,
+                        "end": 59
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "Zeff"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "hair_style"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Zeff's three-roped hair coming out of his nose is actually braided hair, with a pun on the name 'yosage' sounding like 'osage' (braided hair)."
+            },
+            {
+                "number": 15,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei! I thought of a great move! \n\n1. Luffy stretches out his arm.\n\n2. Zoro cuts his arm off.\n\n3. The arm shoots away.\n\nNote: the move can only be used twice!",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Whoa whoa whoa whoa whoa whoa...",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy",
+                        "roronoa_zoro"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "surprised",
+                        "funny"
+                    ],
+                    "topics": [
+                        "fighting_moves",
+                        "joke"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader suggests a move where Luffy's arm is cut off by Zoro and shoots away, but Oda's response is a surprised 'Whoa whoa whoa whoa whoa whoa...'"
+            },
+            {
+                "number": 16,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "To Odacchi: I am your betrothed. When are we going to be married? Should it be November 1? We're going to kiss in the marriage ceremony, right?! I'm sooooo nervous *kiss*! Actually, I'm Namie Amuro's little sister.",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Okay... to the hospital.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "namie_amuro"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "nervous"
+                    ],
+                    "topics": [
+                        "marriage",
+                        "nervousness"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A fan jokingly claims to be Oda's betrothed, prompting Oda to suggest they go to the hospital."
+            },
+            {
+                "number": 17,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I wanna say something to the guy who said Zoro's stomach band was for \"old fogies\" in the SBS on p.&nbsp;130 of Volume 4!! You, yes, you!! First, I too wondered, why does \"Cool Guy Zoro\" have a stomach band? But then, once I realized that it's a part of Zoro, it became okay! I, yes I shall allow it! So you should too! Now we're friends!",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "...Oh! A friendship between readers has bloomed... Wonderful.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "roronoa_zoro"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "amused",
+                        "friendly"
+                    ],
+                    "topics": [
+                        "zoro's_stomach_band"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader defends Zoro's stomach band, leading to Oda acknowledging the friendship between readers as wonderful."
+            },
+            {
+                "number": 18,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Only the upper half of [[Buggy]]'s body can fly around (or float, or whatever), right? So he should be able to\u00a0send only\u00a0''his top half''\u00a0to the Grand Line through the air. Why doesn't he do that?",
+                        "matches": [
+                            [
+                                23,
+                                32,
+                                "Buggy"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "He cannot. A\u00a0[[Bara Bara no Mi|Bara Bara]]\u00a0man\u00a0has a certain distance limit to his ability. There is a 200 Bara Bara diameter circle around the point where the person touches the ground. Outside of that distance, he cannot control those parts of his body.",
+                        "matches": [
+                            [
+                                13,
+                                42,
+                                "Bara Bara no Mi|Bara Bara"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Bara Bara",
+                        "link_title": "/wiki/Bara Bara no Mi",
+                        "is_wikipedia": false,
+                        "start": 13,
+                        "end": 42
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Buggy",
+                        "link_title": "/wiki/Buggy",
+                        "is_wikipedia": false,
+                        "start": 23,
+                        "end": 32
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "buggy"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "devil_fruit",
+                        "bara_bara_no_mi"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Buggy can't send his top half to the Grand Line because of the distance limit of his Bara Bara no Mi ability."
+            }
+        ],
+        "page": "108",
+        "chapter_number": "58",
+        "page_header": null
+    },
+    {
+        "qa": [
+            {
+                "number": 19,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Did you know that Koby's father is the world champion of\u00a0jump-rope?",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "No... I didn't know that. Koby's dad sure is\u00a0<span style=\"font-weight:normal;\">amazing</span>...",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "koby"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "surprised",
+                        "impressed"
+                    ],
+                    "topics": [
+                        "family",
+                        "achievement"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Koby's father being the world jump-rope champion surprises Oda."
+            },
+            {
+                "number": 20,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Is it true that\u00a0[[Kuro|Klahadore]]'s pet is a mammoth?",
+                        "matches": [
+                            [
+                                16,
+                                34,
+                                "Kuro|Klahadore"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "No... I didn't know that either. I supposed he was keeping it around that mansion...?",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Klahadore",
+                        "link_title": "/wiki/Kuro",
+                        "is_wikipedia": false,
+                        "start": 16,
+                        "end": 34
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "kuro",
+                        "klahadore"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "pet",
+                        "speculation"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Kuro's pet is not a mammoth, and Oda didn't know that either, thinking the pet was kept around the mansion."
+            },
+            {
+                "number": 21,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "What criteria do you use to pick your \"[[Usopp Gallery Pirates]]\"?",
+                        "matches": [
+                            [
+                                39,
+                                64,
+                                "Usopp Gallery Pirates"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Well, the drawing skill, how fun it is, the artistic sense... But of course, the most valuable thing for any postcard is SPIRIT.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Usopp Gallery Pirates",
+                        "link_title": "/wiki/Usopp Gallery Pirates",
+                        "is_wikipedia": false,
+                        "start": 39,
+                        "end": 64
+                    }
+                ],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "Usopp_Gallery_Pirates",
+                        "artistic_sense",
+                        "spirit"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda picks the Usopp Gallery Pirates based on drawing skill, fun, artistic sense, but the most important is the spirit."
+            },
+            {
+                "number": 22,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "When I was working at a fruit stand a little while ago, there was some little brat who said, \"How dumb, this place doesn't have any Gomu Gomu no Mi\". If a kid like that comes to the shop again, what should I say? Please tell me. (Seriously).",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "In those situations, this is what all these characters would do.\n\nMakino-san: \"Yes, I'm sorry, we don't have any\". Shrug it off like an adult.\n\nShanks: \"DAHAHAHAHA!! You're 10 years too young for a Devil Fruit!!\" Tease them.\n\nLuffy: \"I'll blow you away right now\". Show no mercy.",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Mimic the character you feel most similar to. I take no responsability for what happens.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "makino",
+                        "shanks",
+                        "luffy"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "devil_fruit",
+                        "character_behavior"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda suggests mimicking a character's response, from being apologetic to teasing, or showing no mercy, but warns of potential consequences."
+            },
+            {
+                "number": 23,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Take a Character [[Fan Poll]]!!",
+                        "matches": [
+                            [
+                                17,
+                                29,
+                                "Fan Poll"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Uhhh, I won't do it in the books, but I already did one in Jump, and the results will appear on page 148. (This poll was run for about two or three weeks after [[Chapter 49]], \"The Storm\".)",
+                        "matches": [
+                            [
+                                160,
+                                174,
+                                "Chapter 49"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Fan Poll",
+                        "link_title": "/wiki/Fan Poll",
+                        "is_wikipedia": false,
+                        "start": 17,
+                        "end": 29
+                    },
+                    {
+                        "text": "Chapter 49",
+                        "link_title": "/wiki/Chapter 49",
+                        "is_wikipedia": false,
+                        "start": 160,
+                        "end": 174
+                    }
+                ],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [],
+                    "topics": [
+                        "fan_poll",
+                        "manga_publishing"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Readers request a character fan poll, Oda declines, but mentions a previous poll in Jump with results in Chapter 49."
+            }
+        ],
+        "page": "128",
+        "chapter_number": "59",
+        "page_header": null
+    }
+]

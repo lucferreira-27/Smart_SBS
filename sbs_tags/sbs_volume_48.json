@@ -1,0 +1,1308 @@
+[
+    {
+        "qa": [
+            {
+                "number": 1,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Ding dong. Delivery! I've come with those porno magazines you ordered. But I'm not giving them to you unless you let me start the SBS. What? You just want your porno?! So I can start the SBS, then?! Here goes!!! \"START THE SBS!!!\" ...And enjoy your porn! P.N. Tani-san",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "You know, folks, when it comes to me, there's only one thing more important than three meals a day, one thing more important than the SBS, and that's PORNO MAGS. This one's pretty good, too. Wow, that is one HOT curve. And look at those BAZONGAS!! I mean, they're just busting out of the- HOW DAMN HORNY AM I SUPPOSED TO BE, ANYWAY?! Stop making me look bad!!\n\n\n[[File:Sbs ch460 1.png|right|120px]]",
+                        "matches": [
+                            [
+                                362,
+                                398,
+                                "File:Sbs ch460 1.png|right|120px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "Sbs ch460 1.png",
+                        "size": "120",
+                        "start": 362,
+                        "end": 398
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "funny",
+                        "perverted"
+                    ],
+                    "topics": [
+                        "SBS",
+                        "porno_magazines"
+                    ],
+                    "importance": [
+                        "low"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda jokes about delivery of 'porno mags' before starting the SBS, emphasizing their importance over meals and the Q&A session."
+            },
+            {
+                "number": 2,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello, Odacchi! I have a question; will you hear me out? ...Oh, you will? Thanks! Here goes. In the song the Straw Hats sing called \"Family\", they have a line that goes \"We're not acquaintances, we're not friends, we're family\". If the Straw Hats really were an actual family, who would be the dad, and who would be the mom? P.N. Nashi",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "\"Family\" has been aired on TV, and it seems to be the most popular out of all the character songs. I really love it, too. My answer would currently be something like this.\n\n* Dad: [[Franky]] (Thug)\n* Mom: [[Nico Robin|Robin]]\n* First Son: [[Roronoa Zoro|Zoro]]\n* Second Son: [[Sanji]] (Punk)\n* Daughter: [[Nami]]\n* Third Son: [[Usopp]]\n* Fourth Son: [[Monkey D. Luffy|Luffy]]\n* Youngest: [[Tony Tony Chopper|Chopper]]\n\n\n[[File:Sbs ch460 2.png|right|100px]]",
+                        "matches": [
+                            [
+                                180,
+                                190,
+                                "Franky"
+                            ],
+                            [
+                                205,
+                                225,
+                                "Nico Robin|Robin"
+                            ],
+                            [
+                                239,
+                                260,
+                                "Roronoa Zoro|Zoro"
+                            ],
+                            [
+                                275,
+                                284,
+                                "Sanji"
+                            ],
+                            [
+                                304,
+                                312,
+                                "Nami"
+                            ],
+                            [
+                                326,
+                                335,
+                                "Usopp"
+                            ],
+                            [
+                                350,
+                                375,
+                                "Monkey D. Luffy|Luffy"
+                            ],
+                            [
+                                388,
+                                417,
+                                "Tony Tony Chopper|Chopper"
+                            ],
+                            [
+                                420,
+                                456,
+                                "File:Sbs ch460 2.png|right|100px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "Sbs ch460 2.png",
+                        "size": "100",
+                        "start": 420,
+                        "end": 456
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Robin",
+                        "link_title": "/wiki/Nico Robin",
+                        "is_wikipedia": false,
+                        "start": 205,
+                        "end": 225
+                    },
+                    {
+                        "text": "Zoro",
+                        "link_title": "/wiki/Roronoa Zoro",
+                        "is_wikipedia": false,
+                        "start": 239,
+                        "end": 260
+                    },
+                    {
+                        "text": "Luffy",
+                        "link_title": "/wiki/Monkey D. Luffy",
+                        "is_wikipedia": false,
+                        "start": 350,
+                        "end": 375
+                    },
+                    {
+                        "text": "Chopper",
+                        "link_title": "/wiki/Tony Tony Chopper",
+                        "is_wikipedia": false,
+                        "start": 388,
+                        "end": 417
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Franky",
+                        "link_title": "/wiki/Franky",
+                        "is_wikipedia": false,
+                        "start": 180,
+                        "end": 190
+                    },
+                    {
+                        "text": "Sanji",
+                        "link_title": "/wiki/Sanji",
+                        "is_wikipedia": false,
+                        "start": 275,
+                        "end": 284
+                    },
+                    {
+                        "text": "Nami",
+                        "link_title": "/wiki/Nami",
+                        "is_wikipedia": false,
+                        "start": 304,
+                        "end": 312
+                    },
+                    {
+                        "text": "Usopp",
+                        "link_title": "/wiki/Usopp",
+                        "is_wikipedia": false,
+                        "start": 326,
+                        "end": 335
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "franky",
+                        "nico_robin",
+                        "roronoa_zoro",
+                        "sanji",
+                        "nami",
+                        "usopp",
+                        "monkey_d_luffy",
+                        "tony_tony_chopper"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "happy"
+                    ],
+                    "topics": [
+                        "straw_hat_family",
+                        "character_songs",
+                        "family_dynamics"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "In the song 'Family' the Straw Hats have a line about being family, Oda answers with who would be dad, mom, and siblings."
+            },
+            {
+                "number": 3,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Tell us [[Portgas D. Ace|Flame Fist Ace]]'s height and weight! Personally I think January 1 would be great for his birthday! What do you say?! BY. AI \u2764",
+                        "matches": [
+                            [
+                                8,
+                                41,
+                                "Portgas D. Ace|Flame Fist Ace"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yeah, since an ace is worth one in cards. That works. He'd be about 185&nbsp;cm tall.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Flame Fist Ace",
+                        "link_title": "/wiki/Portgas D. Ace",
+                        "is_wikipedia": false,
+                        "start": 8,
+                        "end": 41
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "portgas_d_ace"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "happy"
+                    ],
+                    "topics": [
+                        "birthday",
+                        "measurement_system"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Ace is about 185cm tall and January 1 would be a good birthday for him, as an ace is worth one in cards."
+            }
+        ],
+        "page": 26,
+        "chapter_number": 460,
+        "page_header": "SBS Vol 48 header.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 4,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Question for Oda-sensei, chapa! Is Captain [[T Bone]] a General Zombie? Or is he just another boney man like our friend [[Brook]]? P.N. Chapapa Village Resident",
+                        "matches": [
+                            [
+                                43,
+                                53,
+                                "T Bone"
+                            ],
+                            [
+                                120,
+                                129,
+                                "Brook"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Ooh, good question. Well, if you want to solve this by a process of elimination, he's not a Wild (animal) Zombie, and he's not a Surprise Zombie. Soldier Zombies are those without weapons, but since Captain T Bone is armed, that would mean that, as you say, he is a General Zombie. (NOTE: ACTUALLY A HUMAN.)\n\n\n[[File:Sbs ch461 2.png|right|120px]]",
+                        "matches": [
+                            [
+                                310,
+                                346,
+                                "File:Sbs ch461 2.png|right|120px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "Sbs ch461 2.png",
+                        "size": "120",
+                        "start": 310,
+                        "end": 346
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "T Bone",
+                        "link_title": "/wiki/T Bone",
+                        "is_wikipedia": false,
+                        "start": 43,
+                        "end": 53
+                    },
+                    {
+                        "text": "Brook",
+                        "link_title": "/wiki/Brook",
+                        "is_wikipedia": false,
+                        "start": 120,
+                        "end": 129
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "t_bone",
+                        "brook"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "zombies",
+                        "sbs",
+                        "process_of_elimination"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "T Bone is not a Wild or Surprise Zombie, since he's armed, he is classified as a General Zombie, although he's actually a human."
+            },
+            {
+                "number": 5,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Horohorohoro... \"NEGATIVE HOLLOW\"!! Swiiishh... You're a little too bummed, Oda-san!! What would you like to be when you're reborn? P.N. Koby's classmate",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "...I can't... I just can't do it. I don't have the will to go on. Time to die... But... If I had the chance to be reborn... I'd be... well... a stain. A stain on a rug. A very... persistent stain.\n\n\n[[File:Sbs ch461 3.png|right|180px]]",
+                        "matches": [
+                            [
+                                199,
+                                235,
+                                "File:Sbs ch461 3.png|right|180px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "Sbs ch461 3.png",
+                        "size": "180",
+                        "start": 199,
+                        "end": 235
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "koby"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "negative",
+                        "funny"
+                    ],
+                    "topics": [
+                        "rebirth",
+                        "death"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader suggests Oda is too bummed and asks what he would like to be when reborn; Oda humorously replies as a persistent stain on a rug."
+            },
+            {
+                "number": 6,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei, I realize you're very busy, but I do have a question. Nami's shorts changed between Chapters [[Chapter 445|445]] and [[Chapter 446|446]], in Volume 46... What happened? Thriller Bark is such a mysterious place, after all. P.N. Makigon",
+                        "matches": [
+                            [
+                                105,
+                                124,
+                                "Chapter 445|445"
+                            ],
+                            [
+                                129,
+                                148,
+                                "Chapter 446|446"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "...I can't do this... I'm sorry... I suck sooo much... Time to die. But... That might have been a pair of shorts made from an easily-bleachable fabric... No, no, that would just be making up excuses. If I'm reborn, I'd want to be drool... A very... dribbly drool.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "445",
+                        "link_title": "/wiki/Chapter 445",
+                        "is_wikipedia": false,
+                        "start": 105,
+                        "end": 124
+                    },
+                    {
+                        "text": "446",
+                        "link_title": "/wiki/Chapter 446",
+                        "is_wikipedia": false,
+                        "start": 129,
+                        "end": 148
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "nami"
+                    ],
+                    "places": [
+                        "thriller_bark"
+                    ],
+                    "emotions": [
+                        "silly"
+                    ],
+                    "topics": [
+                        "clothing"
+                    ],
+                    "importance": [
+                        "low"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda apologizes and jokes about wanting to be reborn as drool, while timidly suggesting Nami's shorts may have been made from easily-bleachable fabric."
+            }
+        ],
+        "page": "46",
+        "chapter_number": "461",
+        "page_header": "Sbs ch461 1.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 7,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchi. I love your manga. I have a question. What happens if Chopper eats four Rumble Balls? I've always wondered about that. Draw a picture, please. Nickname: Hama-chan",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Very good, sir. \u2192\nWhen he eats three, his Devil Fruit Powers go wild, but if he eats FOUR Rumble Balls, the author goes wild.\n\n''(Chopper: It's on me, I insist (catchphrase))''\n\n\n[[File:Sbs ch462 2.png|right|120px]]",
+                        "matches": [
+                            [
+                                179,
+                                215,
+                                "File:Sbs ch462 2.png|right|120px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "Sbs ch462 2.png",
+                        "size": "120",
+                        "start": 179,
+                        "end": 215
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "tony_tony_chopper"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "devil_fruit"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "Chopper's Devil Fruit Powers go wild when he eats three Rumble Balls, but if he eats four, the author goes wild."
+            },
+            {
+                "number": 8,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello, Oda-sensei!! This is the first time I've ever sent you a letter! On p. 161 of Volume 46, the chapter titled \"[[Chapter 448|Moria]]\", there is a zombie with the number 767. And yet, on p. 173 of the chapter titled \"[[Chapter 449|The Mysterious Four of Thriller Bark]]\", the zombie in Hogback's lab says 741. Why is that? Did you... MAKE A MISTAKE?! Give me a serious answer!! P.N. Snowdrop from the Drum Kingdom",
+                        "matches": [
+                            [
+                                116,
+                                137,
+                                "Chapter 448|Moria"
+                            ],
+                            [
+                                221,
+                                273,
+                                "Chapter 449|The Mysterious Four of Thriller Bark"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "You really pay attention to detail! So what you're asking is, why is the zombie just being created given a lower number? As a matter of fact, it makes perfect sense. This is because zombies get purified all the time, leaving empty numbers behind. Since zombies are constantly being lost when their shadow owners die, intruders purify them with salt, or Moria simply uses them like disposable pawns, the newer zombies must be created to fill those holes in the numbering order. So it is quite often that zombies with lower numbers are created. You also might be interested, though it's of no real consequence, to learn these specific number ranges.\n\n* Wild Zombies: 0-199\n* Surprise Zombies: 200-399\n* Soldier Zombies: 400-799\n* General Zombies: 800-899\n* Special Zombie: 900\n\nThe zombie army is maintained by filling in the empty ranks according to this chart.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Moria",
+                        "link_title": "/wiki/Chapter 448",
+                        "is_wikipedia": false,
+                        "start": 116,
+                        "end": 137
+                    },
+                    {
+                        "text": "The Mysterious Four of Thriller Bark",
+                        "link_title": "/wiki/Chapter 449",
+                        "is_wikipedia": false,
+                        "start": 221,
+                        "end": 273
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [
+                        "Thriller_Bark",
+                        "Drum_Kingdom"
+                    ],
+                    "emotions": [
+                        "informative"
+                    ],
+                    "topics": [
+                        "zombies",
+                        "Thriller_Bark_arc",
+                        "zombie_numbering"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda explains that lower numbered zombies are created to fill holes due to zombie purification or being used as disposable pawns. He also provides number ranges for different types of zombies."
+            }
+        ],
+        "page": "66",
+        "chapter_number": "462",
+        "page_header": "Sbs ch462 1.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 8,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "N/A",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "It's game time! Answer's at the bottom, so no peeking!!\n\n[[File:SBS_Volume_48_Chapter_464_Page_106.png|right|180px]]\nThank you, P.N. Nyaokichi-san!! Now find the two keys!!\n\n\nLook for the secret keys! The clues are these three photos. Also, it looks like the weapon storeroom key from Dr. Kureha's castle is here, too!! Can you tell which one it is?!\n\n\n\n\nNami: Where should I hide these once you've found them?\n\n\n\nAnswers:-~<nowiki>[[BR]]</nowiki> ~-Secret Key \u2192 D-4\nStoreroom Key \u2192 C-8",
+                        "matches": [
+                            [
+                                57,
+                                116,
+                                "File:SBS_Volume_48_Chapter_464_Page_106.png|right|180px"
+                            ],
+                            [
+                                432,
+                                438,
+                                "BR"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS_Volume_48_Chapter_464_Page_106.png",
+                        "size": "180",
+                        "start": 57,
+                        "end": 116
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "BR",
+                        "link_title": "/wiki/BR",
+                        "is_wikipedia": false,
+                        "start": 432,
+                        "end": 438
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "nami"
+                    ],
+                    "places": [
+                        "dr_kurehas_castle"
+                    ],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "treasure_hunt"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "Nami hides the keys D-4 and C-8 after them being found by the readers, as per the hints given in the images."
+            }
+        ],
+        "page": "106",
+        "chapter_number": "464",
+        "page_header": null
+    },
+    {
+        "qa": [
+            {
+                "number": 9,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Sensei! When [[Absalom]] says \"Being mean to [[Kumashi]] must fill you with ecstasy. Ecsmacy?\" and \"So cruel to [[Hogback]]. Cruelback.\" Is that just because he likes bad jokes?",
+                        "matches": [
+                            [
+                                13,
+                                24,
+                                "Absalom"
+                            ],
+                            [
+                                45,
+                                56,
+                                "Kumashi"
+                            ],
+                            [
+                                112,
+                                123,
+                                "Hogback"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "YES. EVEN HIS SENSE OF HUMOR IS INVISIBLE!!\n\n\n[[File:Sbs ch465 2.png|right|100px]]",
+                        "matches": [
+                            [
+                                46,
+                                82,
+                                "File:Sbs ch465 2.png|right|100px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "Sbs ch465 2.png",
+                        "size": "100",
+                        "start": 46,
+                        "end": 82
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Absalom",
+                        "link_title": "/wiki/Absalom",
+                        "is_wikipedia": false,
+                        "start": 13,
+                        "end": 24
+                    },
+                    {
+                        "text": "Kumashi",
+                        "link_title": "/wiki/Kumashi",
+                        "is_wikipedia": false,
+                        "start": 45,
+                        "end": 56
+                    },
+                    {
+                        "text": "Hogback",
+                        "link_title": "/wiki/Hogback",
+                        "is_wikipedia": false,
+                        "start": 112,
+                        "end": 123
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "absalom",
+                        "kumashi",
+                        "hogback"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "sense_of_humor",
+                        "invisible"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Absalom's weird jokes are just part of his sense of humor, which even Oda finds 'invisible'."
+            },
+            {
+                "number": 10,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello, Odacchi. I'm a high school senior re-reading Volume 47. About Ab-sama's wild and cute mouthy mouth, did that belong to the lion [[Nami]] saw from the carriage in Volume 46?! Did they switch faces?! Like plastic surgery?! I guess that chin of his must have had some mental complex that kept him from getting married! Let me hear the truth from YOUR mouth, now. P.N. Failing Exam Student\n\n[[File:Sbs ch465 2b.png|right|100px]]",
+                        "matches": [
+                            [
+                                135,
+                                143,
+                                "Nami"
+                            ],
+                            [
+                                394,
+                                431,
+                                "File:Sbs ch465 2b.png|right|100px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I see, so you noticed that... I'm afraid I will keep my mouth shut, however. Yes, it is true that that lion's muzzle was transplanted to Absalom's face by Hogback. However, there's no proof that the human mouth the lion has originally came from Absalom. There might be a different zombie with the same scars. I'm keeping my mouth shut, for the few Absalom fans out there.",
+                        "matches": []
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "Sbs ch465 2b.png",
+                        "size": "100",
+                        "start": 394,
+                        "end": 431
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Nami",
+                        "link_title": "/wiki/Nami",
+                        "is_wikipedia": false,
+                        "start": 135,
+                        "end": 143
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "nami",
+                        "absalom",
+                        "hogback"
+                    ],
+                    "places": [],
+                    "topics": [
+                        "zombies",
+                        "transplant",
+                        "plastic_surgery"
+                    ],
+                    "emotions": [
+                        "playful"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Absalom's 'mouthy mouth' belonged to the lion from Volume 46, transplanted by Hogback, but no proof it's from Absalom."
+            },
+            {
+                "number": 11,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Greetings, Odacchi-sama. In one of the volumes (I forget which one), the topic of voice actors came up, and you said you'd make a list. So make that list already!! P.N. Voice",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes. Voice-kun here wants to be an actor. I remember my promise. I said that I'd introduce the voice actors to you. However, in the various OP-related publications that are out, we HAVE done just that. I thought it might be redundant to do it again here, but I have a good idea! How about a special SBS-only Let's Ask the Voice Actors section?! I don't have their permission, of course. But I think it might work out! If not, I'll answer for them. First entry is the Straw Hat Pirates' actors. Write up your message or questions and address them to the person you want to ask, then send it to the SBS Usopp Gallery address listed in this book. They're good, funny people, so you can ask anything.\n\n* Luffy: [[Wikipedia:Mayumi Tanaka|Mayumi Tanaka]]\n* Zoro: [[Wikipedia:Kazuya Nakai|Kazuya Nakai]]\n* Nami: [[Wikipedia:Akemi Okamura|Akemi Okamura]]\n* Usopp: [[Wikipedia:Kappei Yamaguchi|Kappei Yamaguchi]]\n* Sanji: [[Wikipedia:Hiroaki Hirata|Hiroaki Hirata]]\n* Chopper: [[Wikipedia:Ikue Otani|Ikue Otani]]\n* Robin: [[Wikipedia:Yuriko Yamaguchi (voice actor)|Yuriko Yamaguchi]]\n* Franky: [[Wikipedia:Kazuki Yao|Kazuki Yao]]",
+                        "matches": [
+                            [
+                                707,
+                                748,
+                                "Wikipedia:Mayumi Tanaka|Mayumi Tanaka"
+                            ],
+                            [
+                                757,
+                                796,
+                                "Wikipedia:Kazuya Nakai|Kazuya Nakai"
+                            ],
+                            [
+                                805,
+                                846,
+                                "Wikipedia:Akemi Okamura|Akemi Okamura"
+                            ],
+                            [
+                                856,
+                                903,
+                                "Wikipedia:Kappei Yamaguchi|Kappei Yamaguchi"
+                            ],
+                            [
+                                913,
+                                956,
+                                "Wikipedia:Hiroaki Hirata|Hiroaki Hirata"
+                            ],
+                            [
+                                968,
+                                1003,
+                                "Wikipedia:Ikue Otani|Ikue Otani"
+                            ],
+                            [
+                                1013,
+                                1074,
+                                "Wikipedia:Yuriko Yamaguchi (voice actor)|Yuriko Yamaguchi"
+                            ],
+                            [
+                                1085,
+                                1120,
+                                "Wikipedia:Kazuki Yao|Kazuki Yao"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Mayumi Tanaka",
+                        "link_title": "/wiki/Wikipedia:Mayumi Tanaka",
+                        "is_wikipedia": false,
+                        "start": 707,
+                        "end": 748
+                    },
+                    {
+                        "text": "Kazuya Nakai",
+                        "link_title": "/wiki/Wikipedia:Kazuya Nakai",
+                        "is_wikipedia": false,
+                        "start": 757,
+                        "end": 796
+                    },
+                    {
+                        "text": "Akemi Okamura",
+                        "link_title": "/wiki/Wikipedia:Akemi Okamura",
+                        "is_wikipedia": false,
+                        "start": 805,
+                        "end": 846
+                    },
+                    {
+                        "text": "Kappei Yamaguchi",
+                        "link_title": "/wiki/Wikipedia:Kappei Yamaguchi",
+                        "is_wikipedia": false,
+                        "start": 856,
+                        "end": 903
+                    },
+                    {
+                        "text": "Hiroaki Hirata",
+                        "link_title": "/wiki/Wikipedia:Hiroaki Hirata",
+                        "is_wikipedia": false,
+                        "start": 913,
+                        "end": 956
+                    },
+                    {
+                        "text": "Ikue Otani",
+                        "link_title": "/wiki/Wikipedia:Ikue Otani",
+                        "is_wikipedia": false,
+                        "start": 968,
+                        "end": 1003
+                    },
+                    {
+                        "text": "Yuriko Yamaguchi",
+                        "link_title": "/wiki/Wikipedia:Yuriko Yamaguchi (voice actor)",
+                        "is_wikipedia": false,
+                        "start": 1013,
+                        "end": 1074
+                    },
+                    {
+                        "text": "Kazuki Yao",
+                        "link_title": "/wiki/Wikipedia:Kazuki Yao",
+                        "is_wikipedia": false,
+                        "start": 1085,
+                        "end": 1120
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "luffy",
+                        "zoro",
+                        "nami",
+                        "usopp",
+                        "sanji",
+                        "chopper",
+                        "robin",
+                        "franky"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "excited",
+                        "funny"
+                    ],
+                    "topics": [
+                        "voice_actors",
+                        "sbs_only_section"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "Oda plans a special SBS-only section for voice actor Q&A, sharing the Japanese voice actors for the Straw Hat Pirates."
+            }
+        ],
+        "page": "126",
+        "chapter_number": "465",
+        "page_header": "Sbs ch465 1.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 12,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "[[Babe|Mr. 4]]'s gun \"[[Lassoo]]\" had the \"[[Inu Inu no Mi, Model: Dachshund]]\". CP9's [[Jabra]] had the \"[[Inu Inu no Mi, Model: Wolf]]\". So the Devil Fruits don't have the same type twice, but they CAN have different models? P.N. Hito Hito no Mi, Model Beautiful Girl \u2764\n\n[[File:Sbs ch467 1b.png|100px|right]]",
+                        "matches": [
+                            [
+                                0,
+                                14,
+                                "Babe|Mr. 4"
+                            ],
+                            [
+                                22,
+                                32,
+                                "Lassoo"
+                            ],
+                            [
+                                43,
+                                78,
+                                "Inu Inu no Mi, Model: Dachshund"
+                            ],
+                            [
+                                87,
+                                96,
+                                "Jabra"
+                            ],
+                            [
+                                106,
+                                136,
+                                "Inu Inu no Mi, Model: Wolf"
+                            ],
+                            [
+                                273,
+                                310,
+                                "File:Sbs ch467 1b.png|100px|right"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "In the case of Zoan-types, a different \"model\" is basically a different fruit. Just like those Inu Inu no Mi examples, there's also the [[Ushi Ushi no Mi, Model: Bison]] ([[Dalton]]) and [[Ushi Ushi no Mi, Model: Giraffe|Model Giraffe]] ([[Kaku]]). Just think of them as entirely different fruits.\n\n\n[[File:Sbs ch467 2.png|right|100px]]",
+                        "matches": [
+                            [
+                                136,
+                                169,
+                                "Ushi Ushi no Mi, Model: Bison"
+                            ],
+                            [
+                                171,
+                                181,
+                                "Dalton"
+                            ],
+                            [
+                                187,
+                                236,
+                                "Ushi Ushi no Mi, Model: Giraffe|Model Giraffe"
+                            ],
+                            [
+                                238,
+                                246,
+                                "Kaku"
+                            ],
+                            [
+                                300,
+                                336,
+                                "File:Sbs ch467 2.png|right|100px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "Sbs ch467 1b.png",
+                        "size": "100",
+                        "start": 273,
+                        "end": 310
+                    },
+                    {
+                        "file": "Sbs ch467 2.png",
+                        "size": "100",
+                        "start": 300,
+                        "end": 336
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Mr. 4",
+                        "link_title": "/wiki/Babe",
+                        "is_wikipedia": false,
+                        "start": 0,
+                        "end": 14
+                    },
+                    {
+                        "text": "Model Giraffe",
+                        "link_title": "/wiki/Ushi Ushi no Mi, Model: Giraffe",
+                        "is_wikipedia": false,
+                        "start": 187,
+                        "end": 236
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Lassoo",
+                        "link_title": "/wiki/Lassoo",
+                        "is_wikipedia": false,
+                        "start": 22,
+                        "end": 32
+                    },
+                    {
+                        "text": "Inu Inu no Mi, Model: Dachshund",
+                        "link_title": "/wiki/Inu Inu no Mi, Model: Dachshund",
+                        "is_wikipedia": false,
+                        "start": 43,
+                        "end": 78
+                    },
+                    {
+                        "text": "Jabra",
+                        "link_title": "/wiki/Jabra",
+                        "is_wikipedia": false,
+                        "start": 87,
+                        "end": 96
+                    },
+                    {
+                        "text": "Inu Inu no Mi, Model: Wolf",
+                        "link_title": "/wiki/Inu Inu no Mi, Model: Wolf",
+                        "is_wikipedia": false,
+                        "start": 106,
+                        "end": 136
+                    },
+                    {
+                        "text": "Ushi Ushi no Mi, Model: Bison",
+                        "link_title": "/wiki/Ushi Ushi no Mi, Model: Bison",
+                        "is_wikipedia": false,
+                        "start": 136,
+                        "end": 169
+                    },
+                    {
+                        "text": "Dalton",
+                        "link_title": "/wiki/Dalton",
+                        "is_wikipedia": false,
+                        "start": 171,
+                        "end": 181
+                    },
+                    {
+                        "text": "Kaku",
+                        "link_title": "/wiki/Kaku",
+                        "is_wikipedia": false,
+                        "start": 238,
+                        "end": 246
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "mr_4",
+                        "lassoo",
+                        "jabra",
+                        "kaku",
+                        "dalton"
+                    ],
+                    "places": [],
+                    "topics": [
+                        "devil_fruit",
+                        "zoan_types"
+                    ],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Devil Fruits can have different models within the same type, like the Inu Inu no Mi having models for Dachshund and Wolf, alongside others like the Ushi Ushi no Mi having Bison and Giraffe models."
+            },
+            {
+                "number": 13,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Excuse me!! May I pose a serious question to the typically-vulgar SBS?? In Volume 46, Usopp said that the same power doesn't exist twice. But this doesn't make sense with what you said in the [[SBS Volume 45|Volume 45 SBS]]... If the [[Gomu Gomu no Mi]] was in a book of fruits, then Luffy HAD to have eaten at least the SECOND known example of the fruit! Now, most beautiful and intelligent Ei-chan, explain it all! \u2729 P.N. Takafi",
+                        "matches": [
+                            [
+                                192,
+                                223,
+                                "SBS Volume 45|Volume 45 SBS"
+                            ],
+                            [
+                                234,
+                                253,
+                                "Gomu Gomu no Mi"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Very sharp of you. But I'm cool. I haven't made any mistakes. As a hint, let me rephrase what Usopp is saying. \"The same powers don't exist twice AT THE SAME TIME\". How's that? For more detail, you'll just have to wait for [[Vegapunk|a certain professor]] to make his appearance in the story, and explain exactly what the Devil Fruits REALLY are... Eventually.\n\n\n[[File:Sbs ch467 3.png|right|120px]]",
+                        "matches": [
+                            [
+                                223,
+                                255,
+                                "Vegapunk|a certain professor"
+                            ],
+                            [
+                                363,
+                                399,
+                                "File:Sbs ch467 3.png|right|120px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "Sbs ch467 3.png",
+                        "size": "120",
+                        "start": 363,
+                        "end": 399
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Volume 45 SBS",
+                        "link_title": "/wiki/SBS Volume 45",
+                        "is_wikipedia": false,
+                        "start": 192,
+                        "end": 223
+                    },
+                    {
+                        "text": "a certain professor",
+                        "link_title": "/wiki/Vegapunk",
+                        "is_wikipedia": false,
+                        "start": 223,
+                        "end": 255
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Gomu Gomu no Mi",
+                        "link_title": "/wiki/Gomu Gomu no Mi",
+                        "is_wikipedia": false,
+                        "start": 234,
+                        "end": 253
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "usopp",
+                        "luffy",
+                        "vegapunk"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "cool"
+                    ],
+                    "topics": [
+                        "devil_fruit",
+                        "vegapunk_explanation"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Usopp's statement about the same power not existing twice refers to not at the same time; Oda hints at a certain professor's explanation of Devil Fruits."
+            },
+            {
+                "number": 14,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei, greetings!! I've made a sudden discovery! When you take off the dust cover of Volume 46, the person popping out of the snake looks an awful lot like the sketch of the \"[[Unforgivable Mask]]\" character from [[Color Walk 2]]! Just who is he, anyway? Tell me!! by Hiromu",
+                        "matches": [
+                            [
+                                180,
+                                201,
+                                "Unforgivable Mask"
+                            ],
+                            [
+                                218,
+                                234,
+                                "Color Walk 2"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Whoa!! You've gone too far! You're in danger!! They'll come for your life!! Okay, look, this is all I'm gonna say. He's [[Pandaman]]'s rival!! He's been hired by [[Tomato Gang]]!! Later!! See you next volume!!",
+                        "matches": [
+                            [
+                                120,
+                                132,
+                                "Pandaman"
+                            ],
+                            [
+                                162,
+                                177,
+                                "Tomato Gang"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Unforgivable Mask",
+                        "link_title": "/wiki/Unforgivable Mask",
+                        "is_wikipedia": false,
+                        "start": 180,
+                        "end": 201
+                    },
+                    {
+                        "text": "Color Walk 2",
+                        "link_title": "/wiki/Color Walk 2",
+                        "is_wikipedia": false,
+                        "start": 218,
+                        "end": 234
+                    },
+                    {
+                        "text": "Pandaman",
+                        "link_title": "/wiki/Pandaman",
+                        "is_wikipedia": false,
+                        "start": 120,
+                        "end": 132
+                    },
+                    {
+                        "text": "Tomato Gang",
+                        "link_title": "/wiki/Tomato Gang",
+                        "is_wikipedia": false,
+                        "start": 162,
+                        "end": 177
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "Pandaman"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "mystery_character",
+                        "Color_Walk",
+                        "Pandaman",
+                        "Tomato_Gang"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "The reader discovers a character resembling 'Unforgivable Mask' under Volume 46's dust cover; Oda labels him as Pandaman's rival and a member of the Tomato Gang."
+            }
+        ],
+        "page": "166",
+        "chapter_number": "467",
+        "page_header": "Sbs ch467 1.png"
+    }
+]

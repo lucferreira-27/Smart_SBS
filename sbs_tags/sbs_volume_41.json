@@ -1,0 +1,861 @@
+[
+    {
+        "qa": [
+            {
+                "number": 1,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Heya, Oda-sensei. HNY!! & HDYD. I've got a very simple concern on my mind. Why is it that there are all these foreign editions of [[One Piece (Manga)|One Piece]], and yet we never start the SBS in English...? I'll try it out. \"Let's begin SBS!!\" How about that? Now I can take my exams in peace! P.N. Nanpou",
+                        "matches": [
+                            [
+                                130,
+                                161,
+                                "One Piece (Manga)|One Piece"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Ooh! I like the global touch. That's right, reach out and touch the world, SBS! When I try to imagine the SBS Corner being translated into other languages around the globe, I GET THE WILLIES (DONNNN)!!\n[[File:SBS41 1 New Shichibukai.png|right|80px]]",
+                        "matches": [
+                            [
+                                202,
+                                249,
+                                "File:SBS41 1 New Shichibukai.png|right|80px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS41 1 New Shichibukai.png",
+                        "size": "80",
+                        "start": 202,
+                        "end": 249
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "One Piece",
+                        "link_title": "/wiki/One Piece (Manga)",
+                        "is_wikipedia": false,
+                        "start": 130,
+                        "end": 161
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "humorous"
+                    ],
+                    "topics": [
+                        "SBS_corner",
+                        "global_touch",
+                        "foreign_editions",
+                        "translator"
+                    ],
+                    "importance": "low",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader asks why SBS isn't in English, Oda likes the global touch and imagines it being translated into other languages, getting the 'willies.'"
+            },
+            {
+                "number": 2,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "ODA-SAN. PLEASE PUT HIM (\u2192) IN THE [[Shichibukai|SHICHIBUKAI]]. from Hikari-kun",
+                        "matches": [
+                            [
+                                35,
+                                62,
+                                "Shichibukai|SHICHIBUKAI"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "NO.\n\n\n[[File:SBS41 1 Dog Gossip.png|right|150px]]",
+                        "matches": [
+                            [
+                                6,
+                                49,
+                                "File:SBS41 1 Dog Gossip.png|right|150px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS41 1 Dog Gossip.png",
+                        "size": "150",
+                        "start": 6,
+                        "end": 49
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "SHICHIBUKAI",
+                        "link_title": "/wiki/Shichibukai",
+                        "is_wikipedia": false,
+                        "start": 35,
+                        "end": 62
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "shichibukai",
+                        "fan_theory"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader asks Oda to make a character a Shichibukai, Oda declines without explanation."
+            },
+            {
+                "number": 3,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "To Oda-sensei. The guard dog on the right in the first panel of p.&nbsp;61 in Volume 40 looks like it's talking with the dog next to it. Is this true? If so, can we ask Chopper what it's saying? P.N. Right Baskerville",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I wonder what he could be saying. Chopper!\n\nChopper: This is what they're saying. Left Dog: \"I heard [[Jabra]] from [[CP9]] got turned down by [[Gatherine]] the waitress.\" Right Dog: \"OMG really? (lol)\"",
+                        "matches": [
+                            [
+                                101,
+                                110,
+                                "Jabra"
+                            ],
+                            [
+                                116,
+                                123,
+                                "CP9"
+                            ],
+                            [
+                                143,
+                                156,
+                                "Gatherine"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes, it appears EVERY LIVING THING on the island cannot get enough of this rumor.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Jabra",
+                        "link_title": "/wiki/Jabra",
+                        "is_wikipedia": false,
+                        "start": 101,
+                        "end": 110
+                    },
+                    {
+                        "text": "CP9",
+                        "link_title": "/wiki/CP9",
+                        "is_wikipedia": false,
+                        "start": 116,
+                        "end": 123
+                    },
+                    {
+                        "text": "Gatherine",
+                        "link_title": "/wiki/Gatherine",
+                        "is_wikipedia": false,
+                        "start": 143,
+                        "end": 156
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "tony_tony_chopper",
+                        "jabra",
+                        "gatherine"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "rumor",
+                        "conversation",
+                        "island_life"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "The reader asks about the dogs in a panel, and Oda confirms that they are indeed talking about a CP9 member's failed romance."
+            }
+        ],
+        "page": 26,
+        "chapter_number": 389,
+        "page_header": "SBS Vol 41 header.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 4,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "In [[Chapter 367]], [[Sanji|Sanji-kun]] destroys the [[Den Den Mushi]]. That's so mean!!! The Den Den Mushi didn't do anything wrong! Even a Den Den Mushi would cry if that happened to it! It cries when it hurts! It cries because its heart hurts even more than its body! So let's apologize to it, shall we? P.N. Naoko",
+                        "matches": [
+                            [
+                                3,
+                                18,
+                                "Chapter 367"
+                            ],
+                            [
+                                20,
+                                39,
+                                "Sanji|Sanji-kun"
+                            ],
+                            [
+                                53,
+                                70,
+                                "Den Den Mushi"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Oh, well, you see... OK, I admit, I may have created that impression, but it's okay. On the right is a wild Den Den Mushi. It has the ability to communicate with its species through radio (thought) waves. Humans attach buttons and receivers to them so they can contact specific other Den Den Mushi. So, you can destroy the receiver without hurting the Den Den Mushi.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Sanji-kun",
+                        "link_title": "/wiki/Sanji",
+                        "is_wikipedia": false,
+                        "start": 20,
+                        "end": 39
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Chapter 367",
+                        "link_title": "/wiki/Chapter 367",
+                        "is_wikipedia": false,
+                        "start": 3,
+                        "end": 18
+                    },
+                    {
+                        "text": "Den Den Mushi",
+                        "link_title": "/wiki/Den Den Mushi",
+                        "is_wikipedia": false,
+                        "start": 53,
+                        "end": 70
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "sanji"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "den_den_mushi",
+                        "communication",
+                        "misunderstanding"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "Oda explains that a Den Den Mushi can't be hurt by destroying its receiver as it communicates through thought waves, not physical harm."
+            },
+            {
+                "number": 5,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "ODA-SAN, THAT'S SEXUAL HARASSMENT. by Girls' Representative",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "What? What was?! I didn't even say anything that sexual!! This is so out of the blue.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "surprised",
+                        "defensive"
+                    ],
+                    "topics": [
+                        "sexual harassment",
+                        "misunderstanding"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader accuses Oda of sexual harassment, to which Oda denies and expresses bewilderment."
+            },
+            {
+                "number": 6,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "WHAT CUP SIZE IS [[Nami|NAMI]]'s 95CM BUST? by Nami-loving Erotic-man",
+                        "matches": [
+                            [
+                                17,
+                                30,
+                                "Nami|NAMI"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "YOU'RE THE CULPRIT!!! It's questions like these that get me in trouble with girls like the one above!! But we all wanna know, huh! Still, cups are hard to guess. They got all that under-this and thunder-that. It makes no sense. So let's ask our female readers for the answer. Girls, what cup are Nami and Robin? (\u2190 sexual harassment)",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "NAMI",
+                        "link_title": "/wiki/Nami",
+                        "is_wikipedia": false,
+                        "start": 17,
+                        "end": 30
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "nami",
+                        "robin"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "cup_size",
+                        "sexual_harassment"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda dismisses the question about Nami's cup size and asks female readers to answer, calling it 'sexual harassment'."
+            }
+        ],
+        "page": "66",
+        "chapter_number": "391",
+        "page_header": "SBS41 2 Den Den Mushi Receiver.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 7,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei, I have prepared a fresh, boiling-hot oden (hodgepodge stew) for you. Take it away, Sensei!! P.N. Demomo",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Wow! I sure love oden. It's hot? No it ain't! Watch this, I'll totally eat this kinchaku mochi in one bite! YEOWWWWWWW!!! HOT-OT-OT-HOT-HOT! YAAAHH!! YEO-EO-EOWOWOWOWWW!!! Gyaaaa!! Look!! The skin of my gums is like... falling off!! Dammit!!! ...okay. Was that the kind of joke you were expecting?\n\n''(Note: Kinchaku mochi is a type of mochi (rice cake) that is used primarily in oden.)''\n[[File:SBS_Vol_41_06.png|right|120px]]",
+                        "matches": [
+                            [
+                                389,
+                                427,
+                                "File:SBS_Vol_41_06.png|right|120px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS_Vol_41_06.png",
+                        "size": "120",
+                        "start": 389,
+                        "end": 427
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "oda"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny",
+                        "surprised",
+                        "playful"
+                    ],
+                    "topics": [
+                        "food",
+                        "joke"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Eiichiro Oda jokes about eating a hot kinchaku mochi, a type of mochi used in oden, and ends up burning his mouth, making a humorous note about the experience."
+            },
+            {
+                "number": 8,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "A question for Odacchi! Lately, my family has surfaced a theory that:\n*\"Gyuki Yuzume\" \u2192 Gyugyu-zume (Packed in tight)\n*\"Enbima Yonezu Onigiri\" \u2192 Ebi Mayonnaise Onigiri (Shrimp Mayonnaise Rice Ball)\nAre these correct? By Hachikou",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Why, absolutely not... W-w-we... we wouldn't do anything so... so punny. R-right, [[Roronoa Zoro|Zoro-kun]]? W-we wouldn't... it's just silly.\n\nZoro: Yeah, y... y-y-you're imagining things.",
+                        "matches": [
+                            [
+                                82,
+                                107,
+                                "Roronoa Zoro|Zoro-kun"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "LOOK AT YOU, YOU'RE FREAKIN' OUT!!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Zoro-kun",
+                        "link_title": "/wiki/Roronoa Zoro",
+                        "is_wikipedia": false,
+                        "start": 82,
+                        "end": 107
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "roronoa_zoro"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "fan_theory",
+                        "food"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "The reader presents a theory about a wordplay, but Oda denies it, with Zoro mocking the idea."
+            }
+        ],
+        "page": "126",
+        "chapter_number": "394",
+        "page_header": null
+    },
+    {
+        "qa": [
+            {
+                "number": 9,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Gimme a backrub!! P.N. Mieda",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Rub rub. Okay, next postcard.\n[[File:SBS41 4 Sogeking Autograph.png|right|300px]]",
+                        "matches": [
+                            [
+                                30,
+                                81,
+                                "File:SBS41 4 Sogeking Autograph.png|right|300px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS41 4 Sogeking Autograph.png",
+                        "size": "300",
+                        "start": 30,
+                        "end": 81
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "playful"
+                    ],
+                    "topics": [
+                        "backrub",
+                        "autograph"
+                    ],
+                    "importance": [
+                        "low"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "Reader asks for a backrub, Oda playfully responds and moves on to the next question."
+            },
+            {
+                "number": 10,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "In Chapter 376, \"Got It!!!\" what kind of autograph does [[Sogeking]] give to [[Tony Tony Chopper|Chopper]]?? Tell me Please. by Identical to T-Bone (Actually, it is my sister who is identical to T-Bone)",
+                        "matches": [
+                            [
+                                56,
+                                68,
+                                "Sogeking"
+                            ],
+                            [
+                                77,
+                                106,
+                                "Tony Tony Chopper|Chopper"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Like this (\u2192).",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Chopper",
+                        "link_title": "/wiki/Tony Tony Chopper",
+                        "is_wikipedia": false,
+                        "start": 77,
+                        "end": 106
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Sogeking",
+                        "link_title": "/wiki/Sogeking",
+                        "is_wikipedia": false,
+                        "start": 56,
+                        "end": 68
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "sogeking",
+                        "tony_tony_chopper"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "autograph",
+                        "identical_to_t-bone"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Sogeking gives Chopper an autograph in the shape of an arrow (\u2192), as shown in Chapter 376."
+            },
+            {
+                "number": 11,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "To Odacchi Do you think we can fly with will of spirit? P.N. Rikuzuki",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Long ago, humans flew through the sky. Then, one time somebody said, \"I'm not flying in the sky.\" Since then, people stopped flying. Because we lost our wings of \"belief.\" Or whatever. Something like that. (\u2190 Hey!!)",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "belief",
+                        "human potential"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda jokes about the concept of flying with the will of the spirit, suggesting that humans once flew but stopped believing, losing their 'wings of belief.'"
+            },
+            {
+                "number": 12,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "What would happen if you got a haircut with Rankyaku? by Anga II",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "It'd slice your head right off and get rid of all your hair troubles forever! Or you might actually survive it. If you are one of those people, go ahead.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "haircut",
+                        "Rankyaku"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Rankyaku would likely slice your head right off, getting rid of all your hair troubles forever, or you might actually survive it, so go ahead if you dare."
+            },
+            {
+                "number": 13,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "GOMU GOMUUUU!! 300 POUND!! CANNONNN!! DONNNNN!! .N. Bored Guy",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "[[Rokushiki#Soru|\"Soru\"]]!! Whoosh!!",
+                        "matches": [
+                            [
+                                0,
+                                25,
+                                "Rokushiki#Soru|\"Soru\""
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "\"Soru\"",
+                        "link_title": "/wiki/Rokushiki#Soru",
+                        "is_wikipedia": false,
+                        "start": 0,
+                        "end": 25
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "fighting_style",
+                        "technique"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A fan imitates Luffy's attack, and Oda responds with a sound effect for a Rokushiki technique."
+            }
+        ],
+        "page": "146",
+        "chapter_number": "395",
+        "page_header": null
+    },
+    {
+        "qa": [
+            {
+                "number": 14,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hey, Oda-sensei!! This is kinda random, but I was just wondering what [[Wanze]]'s thing (\u2192) was used for? by Nappe",
+                        "matches": [
+                            [
+                                70,
+                                79,
+                                "Wanze"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Those are \"Pop Up Goggles\"! Special ordered! He is the head cook, so of course, he uses them while cooking. It's for when he cuts the onions!! He absolutely treasures those goggles because they keep him from crying. Also, he does not use them for anything other than slicing onions!!\n\n\n[[File:SBS_Vol_41_07.png|right|90px]]",
+                        "matches": [
+                            [
+                                286,
+                                323,
+                                "File:SBS_Vol_41_07.png|right|90px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS_Vol_41_07.png",
+                        "size": "90",
+                        "start": 286,
+                        "end": 323
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Wanze",
+                        "link_title": "/wiki/Wanze",
+                        "is_wikipedia": false,
+                        "start": 70,
+                        "end": 79
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "wanze"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "cooking",
+                        "wanze's goggles",
+                        "pop up goggles"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Wanze's 'Pop Up Goggles' are special ordered and used for cutting onions to prevent tears, and he treasures them for that purpose only."
+            },
+            {
+                "number": 15,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchi! Here's a question for you! [[Crocodile]] can't fight water because he's \"sand,\" right? Then how does he bathe?! Does he at all?! That's filthy!! Do you bathe, Odacchi? by Crocodile's Mother",
+                        "matches": [
+                            [
+                                36,
+                                49,
+                                "Crocodile"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "First of all, let's discuss the problem of [[Devil Fruit]] users bathing themselves. People who have eaten a Devil Fruit are \"hated\" by the sea, and cannot swim. The \"sea\" here can refer to anything from rivers, pools and baths to any kind of standing water. On a worldwide level, they are all the \"sea.\" When these people enter the water, not only can they not use their powers, they have trouble moving their bodies at all. They might be able to struggle a bit, but it wouldn't do much good. That's if their entire bodies are submerged in the \"sea.\" With less than half the body or just the limbs, it gets easier. Also, rain and dripping water have no effect at all. Therefore, hip baths or showers are the most common choice. Now, in Crocodile's case, \"water\" is the weakness of his very powers, so his abilities are robbed even in the shower. But it's not like there are enemies around when you take a shower, so I'd bet he would take them even with his powers being blocked. Don't you think? ---And to answer your final question, about myself bathing. As it happens, I do bathe. Twice! In a year!\n\nSee you next volume!",
+                        "matches": [
+                            [
+                                43,
+                                58,
+                                "Devil Fruit"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Crocodile",
+                        "link_title": "/wiki/Crocodile",
+                        "is_wikipedia": false,
+                        "start": 36,
+                        "end": 49
+                    },
+                    {
+                        "text": "Devil Fruit",
+                        "link_title": "/wiki/Devil Fruit",
+                        "is_wikipedia": false,
+                        "start": 43,
+                        "end": 58
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "crocodile"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "devil_fruit",
+                        "bathing"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Devil Fruit users are 'hated' by water, so they have trouble bathing; Crocodile's powers are robbed even in the shower, but he would probably still take them, and Oda bathes twice a year."
+            }
+        ],
+        "page": "206",
+        "chapter_number": "398",
+        "page_header": "SBS41 5 Wanze Goggles.png"
+    }
+]

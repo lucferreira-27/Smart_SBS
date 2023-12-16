@@ -1,0 +1,720 @@
+[
+    {
+        "qa": [
+            {
+                "number": 1,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Who's going to slip in the first \"Start the SBS!!\" this volume? I can't wait to find out...<br />\nOh! It's me. --Nomi",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "You just said it!! That's my face on the right!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "nomi"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "SBS"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "A reader asks who will initiate the SBS session, and Oda humorously reveals the question itself starts the session."
+            },
+            {
+                "number": 2,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Take this, Odacchi!<br />\nLand of Nothing! --I'm the Master",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Urk!! I... I can't...!!<br />\nHrg... can't... breathe...!! I... can breathe?<br />\nOkay, next question.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "struggling"
+                    ],
+                    "topics": [],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader challenges Oda with a technique from the series and Oda responds humorously before moving on to the next question."
+            },
+            {
+                "number": 3,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Um... I have a problem. My ''One Piece''-loving friend keeps telling me that I look just like [[Koby]]. What should I do about this? (cries)<br />\nYou have to take responsibility! (angry) --Yuminami Kobayashi Pigeon",
+                        "matches": [
+                            [
+                                94,
+                                102,
+                                "Koby"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "What?! Wow, you're really angry! What's so bad about that? Koby has gotten so much cooler lately! I just... can't take responsibility for this. I mean, who's saying this to you?",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Koby",
+                        "link_title": "/wiki/Koby",
+                        "is_wikipedia": false,
+                        "start": 94,
+                        "end": 102
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "koby"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "cries",
+                        "angry"
+                    ],
+                    "topics": [
+                        "lookalike",
+                        "responsibility"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "The reader's friend says they resemble Koby, but Oda mentions Koby has become cooler and cannot take responsibility for this comparison."
+            },
+            {
+                "number": 4,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchi!! Hey, Odacchi! One of my friends totally looks like Koby!!! But he's really angry at you because of it, so watch out!!! Anyway, here's my question; In chapter 653... --Yuminami Kobayashi Cat",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Wait a second!!! It's you!!<br />\nI was totally getting chewed out because you keep teasing the kid in the previous letter!! What's the big idea?! And looking at your pen names... you two seem to get along just fine!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "koby"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "playful"
+                    ],
+                    "topics": [
+                        "fans",
+                        "pen_name"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "A reader teases Oda about a friend resembling Koby, causing Oda to scold the reader for teasing others under different pen names."
+            }
+        ],
+        "page": "66",
+        "chapter_number": "693",
+        "page_header": "SBS70 Header 1.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 4,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "N/A",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Well, since I didn't answer the last question from the previous section, let's start with that.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [],
+                    "topics": [],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda starts his Q&A session, addressing a previously unanswered question."
+            },
+            {
+                "number": 5,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "In chapter 653, when [[Shirahoshi]] and the crew promised to go on a walk in a real forest the next time they met, why did [[Roronoa Zoro|Zoro]] and [[Franky]] not do the pinky promise?! --Yuminami Kobayashi Cat",
+                        "matches": [
+                            [
+                                21,
+                                35,
+                                "Shirahoshi"
+                            ],
+                            [
+                                123,
+                                144,
+                                "Roronoa Zoro|Zoro"
+                            ],
+                            [
+                                149,
+                                159,
+                                "Franky"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Hmm... seems like many people were bothered by this. There's no real deep meaning to this, but based on the path the story traveled and the individual characters' actions, it seemed like maybe those two in particular hadn't had much interaction with [[Shirahoshi]], so why would they feel the need to hold out their pinkies? Of course, given that their captain and crewmates made that promise, I'm sure Zoro and Franky felt just like the rest of them, don't worry.",
+                        "matches": [
+                            [
+                                250,
+                                264,
+                                "Shirahoshi"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Zoro",
+                        "link_title": "/wiki/Roronoa Zoro",
+                        "is_wikipedia": false,
+                        "start": 123,
+                        "end": 144
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Shirahoshi",
+                        "link_title": "/wiki/Shirahoshi",
+                        "is_wikipedia": false,
+                        "start": 21,
+                        "end": 35
+                    },
+                    {
+                        "text": "Franky",
+                        "link_title": "/wiki/Franky",
+                        "is_wikipedia": false,
+                        "start": 149,
+                        "end": 159
+                    },
+                    {
+                        "text": "Shirahoshi",
+                        "link_title": "/wiki/Shirahoshi",
+                        "is_wikipedia": false,
+                        "start": 250,
+                        "end": 264
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "shirahoshi",
+                        "roronoa_zoro",
+                        "franky"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "character_interaction",
+                        "promises"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Zoro and Franky didn't do the pinky promise because they hadn't interacted much with Shirahoshi, but they likely felt the same as the rest of the crew."
+            },
+            {
+                "number": 6,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "In chapter 692, there's a scene where [[Nami]] and [[Monkey D. Luffy|Luffy]] reunite. You can see a stocky-looking sailor who appears to be carrying [[Tashigi]] on his shoulder. That's her, right?! Why is she riding him? She told Zoro, \"Let me down when we find my men.\" Is Zoro really that worried about her health? Heehee. --Someta",
+                        "matches": [
+                            [
+                                38,
+                                46,
+                                "Nami"
+                            ],
+                            [
+                                51,
+                                76,
+                                "Monkey D. Luffy|Luffy"
+                            ],
+                            [
+                                149,
+                                160,
+                                "Tashigi"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Well spotted. Yes, that is Tashigi, but that wasn't on Zoro's orders. I think Tashigi being embarrassed by Zoro was simply that she didn't want her subordinates to see her being helped by a pirate, but being carried by her own men is different. I suppose she might be embarrassed in a different way, though. I don't really know how young women think.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Luffy",
+                        "link_title": "/wiki/Monkey D. Luffy",
+                        "is_wikipedia": false,
+                        "start": 51,
+                        "end": 76
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Nami",
+                        "link_title": "/wiki/Nami",
+                        "is_wikipedia": false,
+                        "start": 38,
+                        "end": 46
+                    },
+                    {
+                        "text": "Tashigi",
+                        "link_title": "/wiki/Tashigi",
+                        "is_wikipedia": false,
+                        "start": 149,
+                        "end": 160
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "nami",
+                        "monkey_d_luffy",
+                        "tashigi",
+                        "zoro"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "embarrassed",
+                        "funny"
+                    ],
+                    "topics": [
+                        "relationships",
+                        "character_interaction",
+                        "perception"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Tashigi was indeed being carried by a stocky-looking sailor, as she didn't want her subordinates to see her being helped by a pirate, but being carried by her own men is different."
+            }
+        ],
+        "page": "84",
+        "chapter_number": "694",
+        "page_header": "SBS70 Header 2.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 7,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "In the last panel of the tenth page of Chapter 602 (Volume 61), she says, \"Creatures I've never seen before! One, two, three, four...\" So that would be Brook, Franky, Chopper, and who? --Chopper's Friend's Owner",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I'm assuming it's Sanji with a bizarre look on his face.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "sanji"
+                    ],
+                    "places": [],
+                    "emotions": [],
+                    "topics": [
+                        "mystery"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "Sanji is the fourth member being counted in the last panel based on his bizarre expression."
+            },
+            {
+                "number": 8,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello! I'm usually a graphic-novel-only reader, but I heard about how incredible this color chapter cover was, and rushed out to buy the issue of Jump with chapter 691 (^_^). And I just so happened to spot, on the right edge over Brook's shoulder, among all the younger versions of the Marine officers, what appears to be the same person who was to the right of Ivankov on the page after Whitebeard's order to \"back up Luffy with all you've got.\" Is that really the same person?!! Did he go from the Marines to being a pirate?!! --Anri",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "That's very well spotted. So how does the same face show up in both the Marines and a pirate crew? Well, there was a fellow originally introduced in the book One Piece Green (in Japan) as \"Pirate Captain Andre,\" a member of Whitebeard's fleet. But the people I drew in the Chapter 691 cover illustration are all past versions of Marine officers. The guy with the same face shown here is actually still in the Marines, and his name is Candre. A few years ago during the Paramount War arc, I'm pretty sure I drew Candre as well, fighting on the side of the Marines--search for him if you're bored sometime! You see, the twin brothers Andre and Candre were forced to fight against each other in the big war!!<br />\nIt's a very big and pointless story!!<br />\nBut thanks for spotting them!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "brook",
+                        "ivankov",
+                        "whitebeard",
+                        "candre"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny",
+                        "amused"
+                    ],
+                    "topics": [
+                        "character_introduction",
+                        "marine",
+                        "pirate",
+                        "chapter_cover"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda confirms a shared face between a pirate and Marine as belonging to twin brothers, forced to fight against each other in the Paramount War."
+            }
+        ],
+        "page": "104",
+        "chapter_number": "695",
+        "page_header": "SBS70 Header 3.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 9,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchi, speak in Kansai dialect! --Enoki",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Whaaat? I cain't do that! It's jes' plain impossible, ya jerk! I cain't do it!! Don't make me whupyer behind!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "playful"
+                    ],
+                    "topics": [
+                        "dialect",
+                        "language",
+                        "funny"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Enoki asks Oda to speak in Kansai dialect, and Oda responds saying it's impossible and threatens to 'whupyer behind'."
+            },
+            {
+                "number": 10,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "The crew's hair has to grow out on those long voyages, right? Does someone give the rest haircuts? Nami or Robin, perhaps? --I Want to be a Hairdresser",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "True, their hair does grow out. So who gives haircuts on the crew? Why, it's Zoro. He turns on the rest and goes, \"Tiger Trap!!\" Just kidding!! What the hell, man?!! I'm gonnawhupyer behind!! Shuer yerpiehole!! Why, I oughtta!! The real answer is prolly Usopp or Robin. Maybe I should draw a heart-warmin' picture of a haircut someday.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "roronoa_zoro",
+                        "usopp",
+                        "nico_robin"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "haircuts",
+                        "crew_life"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "The crew's hair grows out during voyages, and Usopp or Robin likely gives haircuts; Oda jokes about Zoro giving haircuts with his special move."
+            },
+            {
+                "number": 11,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Can I drink the bath water after Nami's been in it? --ChageroKiyomizu",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "What the hell, man?!! What in tarnation are you thinkin'?! This is a manga for all ages!! Excuse me, officer! This man's a pervert, can ya arrest him for me? Huh? What'm I holding, ya say? Why, it's a pretty lady's flute. What's wrong with lickin' it whiles I walk around plum-naked? What--hey! Not me! He's the pervert, I swear! No, stop! I got deadlines ta meet!<br />\n<small>What?! Impersonation of a Kansai resident? What's that s'pose ta mean?! Who cares?! No, look, the readers put me up to it...</small>",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "indignant",
+                        "humorous"
+                    ],
+                    "topics": [
+                        "perverted",
+                        "funny"
+                    ],
+                    "importance": "hight",
+                    "isCharacterInsertion": true
+                },
+                "summary": "Oda strongly condemns the question and jokes about being naked and licking a flute while impersonating a Kansai resident."
+            }
+        ],
+        "page": "124",
+        "chapter_number": "696",
+        "page_header": "SBS70 Header 4.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 12,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I have a request for Odacchi! I want to see the childhood looks for the following Whitebeard Crew folks: Whitebeard, Marco, Jozu, Vista, and Izo!!! --Arinko",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Sure thing.\n{{Gallery|width=230|height=230|captionalign=center|position=center\n|Edward Newgate as a Child.png|Whitebeard\n|Marco as a Child.png|Marco\n|Jozu as a Child.png|Jozu\n|Vista as a Child.png|Vista\n|Izou as a Child.png|Izou\n}}",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "edward_newgate",
+                        "marco",
+                        "jozu",
+                        "vista",
+                        "izou"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "whitebeard_crew",
+                        "childhood",
+                        "request"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Odacchi shares childhood images of Whitebeard Crew members in response to reader's request."
+            }
+        ],
+        "page": "144",
+        "chapter_number": "697",
+        "page_header": "SBS70 Header 5.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 13,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "What do you think of how young people are driving cars less and less? --Maeda A.K.A. Kimotowa",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Hmmmmm... Hmmmm. I don't care.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "indifferent"
+                    ],
+                    "topics": [
+                        "car_driving_trends"
+                    ],
+                    "importance": "low",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda dismisses the question about young people driving less with a simple 'I don't care'."
+            },
+            {
+                "number": 14,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Tell me the name of the penguin Mr. Kuzan was riding! Is he related to the Galapagos penguin?! Was he treading water under the surface the entire time he was waiting for Mr. Kuzan?! He's so cute, I can't help but want to know more! Tell me!! --Kunugi",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yep, that's a big penguin. He's a member of the \"super penguin\" species, which is very adept at treading water. He fits well with Kuzan's Hie Hie Style, and has been accompanying him since he left the Marines. His name is Camel. Also, he's a hardboiled dude, so don't call him cute or you'll get burned.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "kuzan",
+                        "camel"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "curious",
+                        "playful"
+                    ],
+                    "topics": [
+                        "penguin",
+                        "Hie_Hie_Style",
+                        "Marines",
+                        "super_penguin_species"
+                    ],
+                    "importance": "high",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Kuzan's penguin, named Camel, is a 'super penguin' adept at treading water, fitting well with Kuzan's Hie Hie Style and being a hardboiled dude."
+            },
+            {
+                "number": 15,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I have a question. Is the character of Borsalino based on Kunie Tanaka's role of \"Borsalino 2\" from the Movie ''Truck Yaro: Bakuso Ichiban-boshi''? --AkuaNoichigo",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "You saw that movie?! That's fantastic. It's quite an old film. I wonder if it's out on DVD and Blu-ray now. I have the entire Truck Yaro series on VHS tapes. You are correct, Borsalino comes from that role. There's an Alain Delon film called Borsalino as well, and I suspect that Kunie Tanaka's character was named in homage to that movie. Alan Delon's a super-cool actor too. His movies are older, so most people probably haven't seen them. I don't mind, though. I did this to satisfy myself. That's all for this installment of the SBS! See you again soon!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "borsalino",
+                        "kunie_tanaka"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "happy"
+                    ],
+                    "topics": [
+                        "movie_reference",
+                        "character_inspiration"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Borsalino is indeed based on Kunie Tanaka's role in the movie 'Truck Yaro: Bakuso Ichiban-boshi', as confirmed by Oda, who also mentions an homage to the Alain Delon film."
+            }
+        ],
+        "page": "184",
+        "chapter_number": "699",
+        "page_header": "SBS70 Header 6.png"
+    }
+]

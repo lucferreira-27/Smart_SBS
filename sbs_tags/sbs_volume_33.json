@@ -1,0 +1,856 @@
+[
+    {
+        "qa": [
+            {
+                "number": 1,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Yooooo, Oda(T)! I looooveee One Piece as always (and the SBS too)! <3 So please let me say that popular phrase...! <3 Huh? Oda(T)'s not here! Oh welll!\nLET'S START THE SBS! <3\nAwesome, I got to say it! <3 Sorry, Oda(T)!\n\n-P.N:\u00a0President of the Friends of ONE PIECE organization-",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Ughh... Adding so many hearts... But it's soooo cuuuuuteee I'll forgive youuu <3 I was waiting since morning to start the SBS, but I'll forgiiiveeee youuuuu <3",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "happy",
+                        "funny"
+                    ],
+                    "topics": [],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "Oda forgives the reader for their excessive use of hearts and playfully mentions waiting all morning to start the Q&A."
+            },
+            {
+                "number": 2,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello, Oda-sensei.\u00a0One Piece continues to make me laugh, cheer me up and give me dreams. Thank you very much.\n\nTAKE THIS! ODA!! (...sensei) \"USOOOOPP! SPELL!\" (DON!)\n\n\"Black ink spills over your completed manuscript!\" (Splash!)\n\n\"All your assistants suddenly couldn't come to work!\" (Empty Silence!)\u00a0\n\n\"3 blank pages turn up in your finished manuscript after handing it in.\"\u00a0 (Flap...)\n\nHow's that? -From Hokuto Volume Destroyer-",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "IT WAS COMPLETELY INEFFECTIVE. (Collapse!)",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "usopp"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "manga_creation",
+                        "straw_hat_crew",
+                        "fans_feedback"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader sends a playful scenario to Oda, who humorously rejects its effectiveness."
+            },
+            {
+                "number": 4,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello, dear\u00a0Oda-sensei who has a wonderful smile. I enjoy reading\u00a0[[One Piece (Manga)|One Piece]]\u00a0very much. By the way, I tried very hard... even having to skip meals... to find how many times\u00a0[[Pandaman]], the character that could even be said to be your cameo,\u00a0appeared during\u00a0the [[Skypiea Arc|Sky Island arc]].\n\n\u00a0And the result! Pandaman appeared...\n\n(Drrrrrruuuuummmroooolllll!)\n\n17 times! Am I right?\n\nby Hikari",
+                        "matches": [
+                            [
+                                66,
+                                97,
+                                "One Piece (Manga)|One Piece"
+                            ],
+                            [
+                                194,
+                                206,
+                                "Pandaman"
+                            ],
+                            [
+                                284,
+                                314,
+                                "Skypiea Arc|Sky Island arc"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Well done, all of you. But I can't tell you the real answer. (\u2190 doesn't remember)",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "One Piece",
+                        "link_title": "/wiki/One Piece (Manga)",
+                        "is_wikipedia": false,
+                        "start": 66,
+                        "end": 97
+                    },
+                    {
+                        "text": "Sky Island arc",
+                        "link_title": "/wiki/Skypiea Arc",
+                        "is_wikipedia": false,
+                        "start": 284,
+                        "end": 314
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Pandaman",
+                        "link_title": "/wiki/Pandaman",
+                        "is_wikipedia": false,
+                        "start": 194,
+                        "end": 206
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "pandaman"
+                    ],
+                    "places": [
+                        "skypiea"
+                    ],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "cameo",
+                        "skypiea_arc"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Hikari asks how many times Pandaman appeared in the Skypiea Arc, Oda praises the effort but doesn't remember the real answer."
+            },
+            {
+                "number": 5,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei! I searched for Pandaman in Volumes 5 to 31, and I found he showed up 92 times! Aim for 100!\n\nP.N. Pandaman No. 2",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "[[File:SBS Vol 33 01.png|thumb|left|390px|Name: Gargon (randomly picked)]]\n[[File:SBS Vol 33 02.png|thumb|right|191px|Volume 17, Miracle Combination (Chessmarimo!!)]]{{-}}\nNote (\u2191): ''Left side from top: Luffy, Chopper, Nami and Zoro. Right side from top: Sanji, Robin and Usopp.''\n\n[[Image:SBS Vol 33 03.png|right|180px]]",
+                        "matches": [
+                            [
+                                0,
+                                74,
+                                "File:SBS Vol 33 01.png|thumb|left|390px|Name: Gargon (randomly picked)"
+                            ],
+                            [
+                                75,
+                                166,
+                                "File:SBS Vol 33 02.png|thumb|right|191px|Volume 17, Miracle Combination (Chessmarimo!!)"
+                            ],
+                            [
+                                283,
+                                322,
+                                "Image:SBS Vol 33 03.png|right|180px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS Vol 33 01.png",
+                        "size": "390",
+                        "start": 0,
+                        "end": 74
+                    },
+                    {
+                        "file": "SBS Vol 33 02.png",
+                        "size": "191",
+                        "start": 75,
+                        "end": 166
+                    },
+                    {
+                        "file": ":SBS Vol 33 03.png",
+                        "size": "180",
+                        "start": 283,
+                        "end": 322
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "luffy",
+                        "chopper",
+                        "nami",
+                        "zoro",
+                        "sanji",
+                        "robin",
+                        "usopp"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "pandaman",
+                        "volume",
+                        "characters"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Pandaman appears 92 times in Volumes 5 to 31, with the reader encouraged to aim for 100; Oda provides visual notes and confirms the characters in the mentioned volumes."
+            },
+            {
+                "number": 6,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I have a question. If [[Wapol]] ate [[Monkey D. Luffy|Luffy]],\u00a0[[Nami]],\u00a0[[Sanji]],\u00a0[[Roronoa Zoro|Zoro]],\u00a0[[Tony Tony Chopper|Chopper]],\u00a0[[Usopp]] and [[Nico Robin|Robin]], and then performed the \"[[Chessmarimo|Miracle Combination]]\" like\u00a0in Volume 17, what would happen? Please draw the result. Also, what would its name be? By Kiyutaro (^_^;)",
+                        "matches": [
+                            [
+                                22,
+                                31,
+                                "Wapol"
+                            ],
+                            [
+                                36,
+                                61,
+                                "Monkey D. Luffy|Luffy"
+                            ],
+                            [
+                                63,
+                                71,
+                                "Nami"
+                            ],
+                            [
+                                73,
+                                82,
+                                "Sanji"
+                            ],
+                            [
+                                84,
+                                105,
+                                "Roronoa Zoro|Zoro"
+                            ],
+                            [
+                                107,
+                                136,
+                                "Tony Tony Chopper|Chopper"
+                            ],
+                            [
+                                138,
+                                147,
+                                "Usopp"
+                            ],
+                            [
+                                152,
+                                172,
+                                "Nico Robin|Robin"
+                            ],
+                            [
+                                198,
+                                233,
+                                "Chessmarimo|Miracle Combination"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes, actually. It's also known as the Brocken Spectre. It's caused by the same reason you see in my story, so it can also happen in Japan. Also, around the head of the shadow you can see a beautiful ring of rainbow light, which is known as a \"goraigou\", or \"glory\" in English. I'd like to see one with my own eyes, once. It must be cool.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Luffy",
+                        "link_title": "/wiki/Monkey D. Luffy",
+                        "is_wikipedia": false,
+                        "start": 36,
+                        "end": 61
+                    },
+                    {
+                        "text": "Zoro",
+                        "link_title": "/wiki/Roronoa Zoro",
+                        "is_wikipedia": false,
+                        "start": 84,
+                        "end": 105
+                    },
+                    {
+                        "text": "Chopper",
+                        "link_title": "/wiki/Tony Tony Chopper",
+                        "is_wikipedia": false,
+                        "start": 107,
+                        "end": 136
+                    },
+                    {
+                        "text": "Robin",
+                        "link_title": "/wiki/Nico Robin",
+                        "is_wikipedia": false,
+                        "start": 152,
+                        "end": 172
+                    },
+                    {
+                        "text": "Miracle Combination",
+                        "link_title": "/wiki/Chessmarimo",
+                        "is_wikipedia": false,
+                        "start": 198,
+                        "end": 233
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Wapol",
+                        "link_title": "/wiki/Wapol",
+                        "is_wikipedia": false,
+                        "start": 22,
+                        "end": 31
+                    },
+                    {
+                        "text": "Nami",
+                        "link_title": "/wiki/Nami",
+                        "is_wikipedia": false,
+                        "start": 63,
+                        "end": 71
+                    },
+                    {
+                        "text": "Sanji",
+                        "link_title": "/wiki/Sanji",
+                        "is_wikipedia": false,
+                        "start": 73,
+                        "end": 82
+                    },
+                    {
+                        "text": "Usopp",
+                        "link_title": "/wiki/Usopp",
+                        "is_wikipedia": false,
+                        "start": 138,
+                        "end": 147
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "wapol",
+                        "monkey_d_luffy",
+                        "nami",
+                        "sanji",
+                        "roronoa_zoro",
+                        "tony_tony_chopper",
+                        "usopp",
+                        "nico_robin"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "devil_fruit",
+                        "fan_theory"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda didn't answer the question, but instead talked about the Brocken Spectre phenomenon and expressed a desire to witness it in person."
+            },
+            {
+                "number": 7,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Greetings, Oda-sensei. I'm always enjoying your manga. Cutting to the chase, I have a question about the \"monsters\" in Vol. 32,\u00a0[[Chapter 299]]. At the highest peak of the\u00a0[[Wikipedia:Harz|Harz]]\u00a0Mountain ranges in Germany, located\u00a0on the\u00a0[[Wikipedia:The Brocken|Mt. Brocken]]\u00a0there's a phenomenon termed the\u00a0[[Wikipedia:Brocken spectre|Brocken Effect]]. Was this what inspired your idea?\n\nSorry if I'm wrong... In any case, please take good care and work hard! <3 P.N. Akiu",
+                        "matches": [
+                            [
+                                128,
+                                143,
+                                "Chapter 299"
+                            ],
+                            [
+                                172,
+                                195,
+                                "Wikipedia:Harz|Harz"
+                            ],
+                            [
+                                239,
+                                276,
+                                "Wikipedia:The Brocken|Mt. Brocken"
+                            ],
+                            [
+                                309,
+                                353,
+                                "Wikipedia:Brocken spectre|Brocken Effect"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Well then, allow the man himself to sing'em! Take it away!\n\nLuffy: Yo. Huh? You want to hear my song? Sure, no problem.\n\n''\"Hmmmm-hmhmhmhmm''<br />\n''In the Eastern islaaands, the Sun is early to riiiiiisssseee!''<br />\n''Gets'em all hyper hyper, its people are foooooolllllsss!''<br />\n''In the Western islaaands, the nights are looonnggg!''<br />\n''Gets your body itchin for action, its people are fooooollllsss!''<br />\n''Aaaaahh, ah ah ahaaaa... that was a yaaaawnnnn!''<br />\n''Everyone's a smiley smiley fooooooooolllll!\"''\n\nAnd that's how it goes! See ya!",
+                        "matches": []
+                    },
+                    {
+                        "type": "question",
+                        "text": "Greetings, Oda-sensei. I have a question to ask you. In Volume 28, Luffy sang songs about \"Southern Islands\" and \"Northern Islands\", but are there also songs about Eastern and Western Islands? If there are, please tell me. \nP.N. Kawagucchi Yuzo",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Harz",
+                        "link_title": "/wiki/Wikipedia:Harz",
+                        "is_wikipedia": false,
+                        "start": 172,
+                        "end": 195
+                    },
+                    {
+                        "text": "Mt. Brocken",
+                        "link_title": "/wiki/Wikipedia:The Brocken",
+                        "is_wikipedia": false,
+                        "start": 239,
+                        "end": 276
+                    },
+                    {
+                        "text": "Brocken Effect",
+                        "link_title": "/wiki/Wikipedia:Brocken spectre",
+                        "is_wikipedia": false,
+                        "start": 309,
+                        "end": 353
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Chapter 299",
+                        "link_title": "/wiki/Chapter 299",
+                        "is_wikipedia": false,
+                        "start": 128,
+                        "end": 143
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy"
+                    ],
+                    "places": [
+                        "Eastern_Islands",
+                        "Western_Islands"
+                    ],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "Luffy_songs",
+                        "inspiration",
+                        "manga_influence"
+                    ],
+                    "importance": [
+                        "high"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "D: Reader asks if Luffy sang songs about Eastern and Western Islands, Oda responds with a Luffy-created song lyrics."
+            },
+            {
+                "number": 8,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "N/A",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yeah, that's fine.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda replies with a simple affirmation."
+            },
+            {
+                "number": 9,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Good day to you, Odacchi! By the way, I'd like to know the birthday of our idol, [[Tashigi]]-chan. Since she's so clumsy (toroi), how about if its October 6 (to = 10, ro = 6)?!\u00a0OK, that sounds awesome! Wonderful! \n\n...and so, Master Chief Petty Officer Tashigi's birthday is \n\nOFFICIALLY\u00a0OCTOBER 6TH!\n\nAnybody got a problem with that?! Bring it on!! \n\n(Eeek, I'm sorry!! I love Tashigi. Please give her a birthday!!)\n\nP.N. Spicy\u00a0\u2606 Taro",
+                        "matches": [
+                            [
+                                81,
+                                92,
+                                "Tashigi"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "YES.That's because love can strike at any time to steal your heart away.\n\n(Wow, I said something cool.){{-}}",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Tashigi",
+                        "link_title": "/wiki/Tashigi",
+                        "is_wikipedia": false,
+                        "start": 81,
+                        "end": 92
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "tashigi"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny",
+                        "happy"
+                    ],
+                    "topics": [
+                        "character_birthday",
+                        "author_comment"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "D requests Tashigi's birthday, suggesting October 6 due to her clumsiness; Oda confirms October 6 as Tashigi's birthday, emphasizing the unpredictability of love."
+            },
+            {
+                "number": 10,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "\"CAN LOVE HURRICANES SUDDENLY FORM?!\"\nP. N. Mikan Chips",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes. Well. The names came from a variety of sources. I can't tell you a whole lot of in-depth information, but in general it's pretty simple.\n*\"El Thor\" \u2192 [[Wikipedia:Thor|Thor]] \u2192 God of War and Lightning in [[Wikipedia:Norse mythology|Norse mythology]].\n*\"Hino\" \u2192 Hino \u2192 Giant Lightning Bird of the [[Wikipedia:Iroquois|Iroquois]] natives of North America.\n*\"Kiten\" \u2192 Kiten \u2192 Japanese lightning beast.\n*\"Julungul\" \u2192 Jagtjadbulla \u2192 One of the Lightning Brothers in [[Wikipedia:Arnhem Land|Arnhem Land]] (N. Australia) rock art\n*\"Mamaragan\" \u2192 [[Wikipedia:Mamaragan|Mamaragan]] \u2192 Lightning God of Central Australia\n*\"Amal\" \u2192 Amaru \u2192 A play on \"amoru/amakudaru\", which means \"to descend from heaven\". Japanese lightning-fall\n*\"Kari\" \u2192 Kari \u2192 Lightning God of Malay pygmy tribes\n\nThat should cover it. Also, \"Vari\" came from the sound of lightning \"vari vari\". So it was pretty much random. Not a real word in any language per se.",
+                        "matches": [
+                            [
+                                155,
+                                178,
+                                "Wikipedia:Thor|Thor"
+                            ],
+                            [
+                                209,
+                                254,
+                                "Wikipedia:Norse mythology|Norse mythology"
+                            ],
+                            [
+                                301,
+                                332,
+                                "Wikipedia:Iroquois|Iroquois"
+                            ],
+                            [
+                                466,
+                                503,
+                                "Wikipedia:Arnhem Land|Arnhem Land"
+                            ],
+                            [
+                                543,
+                                576,
+                                "Wikipedia:Mamaragan|Mamaragan"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Thor",
+                        "link_title": "/wiki/Wikipedia:Thor",
+                        "is_wikipedia": false,
+                        "start": 155,
+                        "end": 178
+                    },
+                    {
+                        "text": "Norse mythology",
+                        "link_title": "/wiki/Wikipedia:Norse mythology",
+                        "is_wikipedia": false,
+                        "start": 209,
+                        "end": 254
+                    },
+                    {
+                        "text": "Iroquois",
+                        "link_title": "/wiki/Wikipedia:Iroquois",
+                        "is_wikipedia": false,
+                        "start": 301,
+                        "end": 332
+                    },
+                    {
+                        "text": "Arnhem Land",
+                        "link_title": "/wiki/Wikipedia:Arnhem Land",
+                        "is_wikipedia": false,
+                        "start": 466,
+                        "end": 503
+                    },
+                    {
+                        "text": "Mamaragan",
+                        "link_title": "/wiki/Wikipedia:Mamaragan",
+                        "is_wikipedia": false,
+                        "start": 543,
+                        "end": 576
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "informative"
+                    ],
+                    "topics": [
+                        "naming",
+                        "lightning",
+                        "mythology"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda explains the source of names for characters, including lightning gods from various mythologies and the random origin of the name 'Vari'."
+            },
+            {
+                "number": 11,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello, Oda-sensei. I have serious suspicions, so forgive me if I pose a serious question. It's about the names of [[Enel]]'s special [[Goro Goro no Mi|attacks]]. It seems to me like many originate from the names of Scandinavian gods and Indian spirits. Can you please tell us what they all came from originally?\n\n[[File:SBS Vol 33 08.png|right|120px]]",
+                        "matches": [
+                            [
+                                114,
+                                122,
+                                "Enel"
+                            ],
+                            [
+                                133,
+                                160,
+                                "Goro Goro no Mi|attacks"
+                            ],
+                            [
+                                313,
+                                351,
+                                "File:SBS Vol 33 08.png|right|120px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "\"Heso\" can be thought of as the stock term for all [[Skypieans]] greetings. There's no one word/phrase in Japanese/English that completely corresponds to it. It can mean anything from, \"good morning\", \"good day\", \"good evening\", to\u00a0\"how are you feeling\", \"goodbye\", \"take care\", among others.\n\nIt really depends on the context.\n\nWhen they say \"heso\", you answer \"heso\". It's all in the context.\n\n''(Note: \"Heso\" is Japanese for bellybutton)''\n\n[[File:SBS Vol 33 05.png|right|100px]]",
+                        "matches": [
+                            [
+                                51,
+                                64,
+                                "Skypieans"
+                            ],
+                            [
+                                444,
+                                482,
+                                "File:SBS Vol 33 05.png|right|100px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS Vol 33 08.png",
+                        "size": "120",
+                        "start": 313,
+                        "end": 351
+                    },
+                    {
+                        "file": "SBS Vol 33 05.png",
+                        "size": "100",
+                        "start": 444,
+                        "end": 482
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "attacks",
+                        "link_title": "/wiki/Goro Goro no Mi",
+                        "is_wikipedia": false,
+                        "start": 133,
+                        "end": 160
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Enel",
+                        "link_title": "/wiki/Enel",
+                        "is_wikipedia": false,
+                        "start": 114,
+                        "end": 122
+                    },
+                    {
+                        "text": "Skypieans",
+                        "link_title": "/wiki/Skypieans",
+                        "is_wikipedia": false,
+                        "start": 51,
+                        "end": 64
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "enel",
+                        "skypieans"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "devil_fruit",
+                        "language_culture"
+                    ],
+                    "importance": [
+                        "high"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Enel's special attacks are inspired by names of Scandinavian gods and Indian spirits, 'Heso' is a stock term for Skypieans greetings with various meanings."
+            },
+            {
+                "number": 12,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei, I have a question. On page 71 of Volume 30, [[Conis]] says, \"I have to bring them back!!\" and then \"Heso!\" If \"heso\" is supposed to mean \"hello\", then this doesn't make much sense... What exactly does it mean? I've been wondering so much that I finally wrote this postcard. Please tell us the answer.\nP.N. Wanko",
+                        "matches": [
+                            [
+                                56,
+                                65,
+                                "Conis"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "IN HIS PAAAAAAAANTS.\n\nAnd now, to wrap things up...",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Conis",
+                        "link_title": "/wiki/Conis",
+                        "is_wikipedia": false,
+                        "start": 56,
+                        "end": 65
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "conis"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "language",
+                        "joke"
+                    ],
+                    "importance": [
+                        "high"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Conis's 'heso' is a filler word used to break the tension, which doesn't directly translate to 'hello,' and Oda playfully avoids giving a serious answer."
+            },
+            {
+                "number": 13,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello, here's my question! If [[Tonjit|Tonjit-san]] was on those stilts for ten years... \n\nHow did he go to the bathroom?! W... was it...? \n\nPlease answer in <span style=\"border-bottom: 3px double\">TONJIT-SPEAK</span>.",
+                        "matches": [
+                            [
+                                30,
+                                51,
+                                "Tonjit|Tonjit-san"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "NO, IT'S OVER!\u00a0See you next volume!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Tonjit-san",
+                        "link_title": "/wiki/Tonjit",
+                        "is_wikipedia": false,
+                        "start": 30,
+                        "end": 51
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "tonjit"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "bathroom_issue",
+                        "tonjit_speak"
+                    ],
+                    "importance": [
+                        "low"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Tonjit managed to go to the bathroom by... finding a secret method! Oda dodges the explicit request by joking and ending the session."
+            }
+        ],
+        "page": null,
+        "chapter_number": null,
+        "page_header": "SBS Vol 33 header.png"
+    }
+]

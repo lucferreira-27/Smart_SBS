@@ -1,0 +1,932 @@
+[
+    {
+        "qa": [
+            {
+                "number": 1,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Mow. Moo. Moo. Mo. Mow....now, let's start the SBS. Follow the rhythm, Odacchi! One, two, three, go! P.N. Yukari Member (Cow) Fusae",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "C'mon, everyone! Mow. Moo. Moo. Mo. Mow. WHAT DOES THAT MEAN?! What kind of greeting is that? And who is Fusae?\n\n[[File:Califa Criminal brand.png|thumb|right|120px|Kalifa wearing the \"Criminal\" brand]]",
+                        "matches": [
+                            [
+                                113,
+                                201,
+                                "File:Califa Criminal brand.png|thumb|right|120px|Kalifa wearing the \"Criminal\" brand"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "Califa Criminal brand.png",
+                        "size": "120",
+                        "start": 113,
+                        "end": 201
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "SBS",
+                        "greeting",
+                        "Fusae"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "D asks a nonsensical greeting, and Oda queries its meaning and the identity of Fusae, alongside an image of Kalifa wearing the 'Criminal' brand."
+            },
+            {
+                "number": 2,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "In the CP9 Off-Duty Report from Chapter 502 of Volume 51, is [[Kalifa]] wearing the Criminal brand that's tearing up Fish-Man Island?! Why is that up on land? And is Kalifa a brand junkie? P.N. MOTO",
+                        "matches": [
+                            [
+                                61,
+                                71,
+                                "Kalifa"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Very well spotted. Yes, that's a T-shirt from [[Pappag]]'s \"Criminal\" brand. I feel like Kalifa does enjoy brand clothing. Criminal's popular on [[Fish-Man Island]], but it's also sold up on land. By the way, in Japanese we also call a criminal the \"hoshi\", or \"star\", in police lingo. That's why the star is a big part of the brand.",
+                        "matches": [
+                            [
+                                46,
+                                56,
+                                "Pappag"
+                            ],
+                            [
+                                145,
+                                164,
+                                "Fish-Man Island"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Kalifa",
+                        "link_title": "/wiki/Kalifa",
+                        "is_wikipedia": false,
+                        "start": 61,
+                        "end": 71
+                    },
+                    {
+                        "text": "Pappag",
+                        "link_title": "/wiki/Pappag",
+                        "is_wikipedia": false,
+                        "start": 46,
+                        "end": 56
+                    },
+                    {
+                        "text": "Fish-Man Island",
+                        "link_title": "/wiki/Fish-Man Island",
+                        "is_wikipedia": false,
+                        "start": 145,
+                        "end": 164
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "kalifa",
+                        "pappag"
+                    ],
+                    "places": [
+                        "fish-man_island"
+                    ],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "clothing_brand"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Kalifa is indeed wearing a T-shirt from Pappag's 'Criminal' brand, which is popular on Fish-Man Island and sold on land; she enjoys brand clothing."
+            },
+            {
+                "number": 3,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei, hello this is [[Borsalino]]!! About the hyper-cutie mermaid [[Camie]]-chan! How about her birthday being November 3, for K (11) and Mi (3)? P.N. Say Yes!",
+                        "matches": [
+                            [
+                                26,
+                                39,
+                                "Borsalino"
+                            ],
+                            [
+                                72,
+                                81,
+                                "Camie"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Hello Borsalino! Sure. Sure Borsalino!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Borsalino",
+                        "link_title": "/wiki/Borsalino",
+                        "is_wikipedia": false,
+                        "start": 26,
+                        "end": 39
+                    },
+                    {
+                        "text": "Camie",
+                        "link_title": "/wiki/Camie",
+                        "is_wikipedia": false,
+                        "start": 72,
+                        "end": 81
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "borsalino",
+                        "camie"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "camie_birthday"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "Borsalino suggests a birthday for the character Camie, and Oda agrees to it."
+            }
+        ],
+        "page": "48",
+        "chapter_number": "514",
+        "page_header": "SBS Vol 53 Chap 514 header.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 4,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "So you're not going to grow an afro, Oda-sensei? I really think you should do it. by Hiromu",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Hell no! When did I promise to do that?!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "defensive"
+                    ],
+                    "topics": [
+                        "Oda's_personal_life"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda firmly denies any intention to grow an afro, rejecting the notion altogether."
+            },
+            {
+                "number": 5,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Why did you want to be a pirate, Odacchi? You're a grown-up now! P.N. Urumoru",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I never said I wanted to! Why am I being chastised like this?\n\n\n[[Image:Silvers Rayleigh sbs 53.png|thumb|120px|right]]",
+                        "matches": [
+                            [
+                                64,
+                                119,
+                                "Image:Silvers Rayleigh sbs 53.png|thumb|120px|right"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": ":Silvers Rayleigh sbs 53.png",
+                        "size": "120",
+                        "start": 64,
+                        "end": 119
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "defensive"
+                    ],
+                    "topics": [],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda denies wanting to be a pirate and wonders why he's being scolded."
+            },
+            {
+                "number": 6,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "The Dark King [[Silvers Rayleigh]] is too awesome. He gives me the chills. By the way, I spotted a younger Rayleigh in Buggy's flashback scene from Chapter 19 (p. 34, Volume 3). I was amazed that this character's appearance had been created so long ago. P.N. Kanpura",
+                        "matches": [
+                            [
+                                14,
+                                34,
+                                "Silvers Rayleigh"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Mmm!! Yes, I received many letters to this extent, and it's having so many attentive readers like this that makes it worthwhile to do these things. I did explain that this man was in fact the first mate of the ship in an SBS quite a while back, so yes... he was indeed the Right Arm of the [[Pirate#Pirate King|Pirate King]], Silvers Rayleigh! The great thing is that Kanpura-san is a 48-year-old dude. I love that I'm giving someone like that the chills.",
+                        "matches": [
+                            [
+                                290,
+                                324,
+                                "Pirate#Pirate King|Pirate King"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Pirate King",
+                        "link_title": "/wiki/Pirate#Pirate King",
+                        "is_wikipedia": false,
+                        "start": 290,
+                        "end": 324
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Silvers Rayleigh",
+                        "link_title": "/wiki/Silvers Rayleigh",
+                        "is_wikipedia": false,
+                        "start": 14,
+                        "end": 34
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "silvers_rayleigh",
+                        "buggy"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "amazed",
+                        "happy",
+                        "funny"
+                    ],
+                    "topics": [
+                        "silvers_rayleigh",
+                        "buggy",
+                        "fan_reaction",
+                        "sbs_explanation"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda appreciates the reader's attention to detail and confirms that the character in Buggy's flashback is indeed Silvers Rayleigh, the first mate of the Pirate King."
+            },
+            {
+                "number": 7,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Is that Volume 12 of One Piece that [[Bartholomew Kuma|Kuma]] carries around? My friend just INSISTS that it's Volume 13, and he won't see reason. What's your opinion, Oda-san? Penname Yuma x 527",
+                        "matches": [
+                            [
+                                36,
+                                61,
+                                "Bartholomew Kuma|Kuma"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "12-13 was around when we got into the Grand Line. I dunno, Kuma always seems like he's bored, so maybe he's carrying Volume 33 so he can get a few laughs from the Davy Back Fight. Or maybe he's cradling his very first appearance in Volume 25. Which volume could it be?! Gosh, it's so hard to tell. Give it all a good thinking over, folks! Seeya!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Kuma",
+                        "link_title": "/wiki/Bartholomew Kuma",
+                        "is_wikipedia": false,
+                        "start": 36,
+                        "end": 61
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "bartholomew_kuma"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "manga_volume",
+                        "bartholomew_kuma"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Kuma might be carrying Volume 33 for laughs from the Davy Back Fight or Volume 25 for his first appearance; Oda suggests considering both possibilities."
+            }
+        ],
+        "page": "88",
+        "chapter_number": "516",
+        "page_header": "SBS Vol 53 Chap 516 header.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 8,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Question for Odacchi! In one of the earlier SBS sections, you said the volume release schedule for One Piece is two months, two months, three months! But it seems like lately, it's been more like three months and three months! Is it some publishing schedule thing? Or do you get tired of putting together the volumes? Tell us! Tell us, or I'll burn that pile of nudie mags over there! You want them to turn into ash and dust? P.N. Syouya",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "These are reference materials! I need them to do my work! Well, when I said that, it was the truth, as that was the schedule at the time. But the three-month breaks have been more often recently, I admit. The reason is that because I sometimes take breaks from Jump (in which I do other work instead), it means I don't end up with enough chapters to put out a volume in two months. From now on, you should probably assume it will be three-month waits with an occasional two months. Also, while I'm at it, I'm going to announce that the other thing I mentioned in the SBS about having 11-chapter volumes will no longer occur. About the previous volume, they increased the price slightly on all the Jump volumes. At the same time, they told me that fitting in 11 chapters would mean a 20-yen bump. If you end up paying 20 more yen for a volume, it's not as much of a bonus anymore, is it? So in the future, there will only be 10 chapters in a volume, max. Just letting you know!\n\n[[Image:Slave bit tongue.png|thumb|120px|right|Pirate who bit his tungue]]",
+                        "matches": [
+                            [
+                                978,
+                                1052,
+                                "Image:Slave bit tongue.png|thumb|120px|right|Pirate who bit his tungue"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": ":Slave bit tongue.png",
+                        "size": "120",
+                        "start": 978,
+                        "end": 1052
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "manga_publishing_schedule",
+                        "SBS_announcements"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda explains that the volume release schedule has been more like three months and three months lately due to taking breaks from Jump, with a change to 10-chapter volumes."
+            },
+            {
+                "number": 9,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei! I've discovered something! The second panel on p. 39 of Volume 52. Right in the middle of the celebrating former slaves is [[Lacueva]], the pirate who bit his tongue and fell unconscious in Volume 51!! And he seems totally awake and pumped!!! And on top of that, his tongue is flat on the end!!! I was so shocked and pleased to have noticed this. P.N. Trafalgar Tomo",
+                        "matches": [
+                            [
+                                135,
+                                146,
+                                "Lacueva"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Isn't that great? I'm so glad he didn't die. If you chop you tongue off, you die, folks! Be careful!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Lacueva",
+                        "link_title": "/wiki/Lacueva",
+                        "is_wikipedia": false,
+                        "start": 135,
+                        "end": 146
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "lacueva"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "happy",
+                        "funny"
+                    ],
+                    "topics": [
+                        "character_appearance",
+                        "comic_detail"
+                    ],
+                    "importance": "hight",
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader points out a continuity error with a character from Volume 51, and Oda humorously acknowledges the mistake and emphasizes the consequences of cutting off one's tongue."
+            }
+        ],
+        "page": "108",
+        "chapter_number": "517",
+        "page_header": "SBS Vol 53 Chap 517 header.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 10,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello, Oda-sensei! I'm curious as to the faces that are on the berry bills that get used as money in the world of One Piece! You've never really drawn them in detail before! So use this as a golden opportunity! Oh, and for each of the denominations, of course. P.N. Pussycat Aki",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I see. Yeah, I guess I haven't drawn them in detail. There, all drawn. What? You think I'm being lazy? Never! Wait! Yes, that does happen. Anyway, these are finalized. It's official.\n\n[[File:SBS53 4 Mizuta Twins 1.png|right|90px]]",
+                        "matches": [
+                            [
+                                184,
+                                230,
+                                "File:SBS53 4 Mizuta Twins 1.png|right|90px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS53 4 Mizuta Twins 1.png",
+                        "size": "90",
+                        "start": 184,
+                        "end": 230
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "currency",
+                        "money",
+                        "illustrations"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader asks Oda about the faces on the berry bills; Oda hadn't drawn them in detail, but now he has finalized and drawn them."
+            },
+            {
+                "number": 11,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "In [[Chapter 487]], [[Brook]] picked up a skeleton with a polka-dot shirt, which is the guy who asked to be given sword lessons in life. But in [[Chapter 488]], you can see him alive as Brook is saying, \"Shall we sing?\" They supposedly died as they sang, so he must have gotten stabbed with the sword later... when was that? And who did it? P.N. Kopin",
+                        "matches": [
+                            [
+                                3,
+                                18,
+                                "Chapter 487"
+                            ],
+                            [
+                                20,
+                                29,
+                                "Brook"
+                            ],
+                            [
+                                144,
+                                159,
+                                "Chapter 488"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Very close eye you've got. I got a couple letters about this, so allow me to introduce you! These are the identical twin [[Mizuta Madaisuki|Mizuta]] [[Mizuta Mawaritosuki|brothers]].\n\n[[File:SBS53 4 Mizuta Twins 2.png|center|300px]]\n\n<div align=center>''Left: Elder Brother: [[Mizuta Madaisuki]] (\"I died from a stab to the head!!\")<br />Right: Younger Brother: [[Mizuta Mawaritosuki]] (\"I died while singing\")''</div>",
+                        "matches": [
+                            [
+                                121,
+                                148,
+                                "Mizuta Madaisuki|Mizuta"
+                            ],
+                            [
+                                149,
+                                181,
+                                "Mizuta Mawaritosuki|brothers"
+                            ],
+                            [
+                                184,
+                                232,
+                                "File:SBS53 4 Mizuta Twins 2.png|center|300px"
+                            ],
+                            [
+                                275,
+                                295,
+                                "Mizuta Madaisuki"
+                            ],
+                            [
+                                362,
+                                385,
+                                "Mizuta Mawaritosuki"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS53 4 Mizuta Twins 2.png",
+                        "size": "300",
+                        "start": 184,
+                        "end": 232
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Mizuta",
+                        "link_title": "/wiki/Mizuta Madaisuki",
+                        "is_wikipedia": false,
+                        "start": 121,
+                        "end": 148
+                    },
+                    {
+                        "text": "brothers",
+                        "link_title": "/wiki/Mizuta Mawaritosuki",
+                        "is_wikipedia": false,
+                        "start": 149,
+                        "end": 181
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Chapter 487",
+                        "link_title": "/wiki/Chapter 487",
+                        "is_wikipedia": false,
+                        "start": 3,
+                        "end": 18
+                    },
+                    {
+                        "text": "Brook",
+                        "link_title": "/wiki/Brook",
+                        "is_wikipedia": false,
+                        "start": 20,
+                        "end": 29
+                    },
+                    {
+                        "text": "Chapter 488",
+                        "link_title": "/wiki/Chapter 488",
+                        "is_wikipedia": false,
+                        "start": 144,
+                        "end": 159
+                    },
+                    {
+                        "text": "Mizuta Madaisuki",
+                        "link_title": "/wiki/Mizuta Madaisuki",
+                        "is_wikipedia": false,
+                        "start": 275,
+                        "end": 295
+                    },
+                    {
+                        "text": "Mizuta Mawaritosuki",
+                        "link_title": "/wiki/Mizuta Mawaritosuki",
+                        "is_wikipedia": false,
+                        "start": 362,
+                        "end": 385
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "brook",
+                        "mizuta_madaisuki",
+                        "mizuta_mawaritosuki"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "surprising"
+                    ],
+                    "topics": [
+                        "mizuta_twins",
+                        "brook_singing",
+                        "brook_backstory"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "Brook encountered Mizuta Madaisuki, who asked for sword lessons before getting stabbed, and his twin brother Mizuta Mawaritosuki, who died while singing."
+            }
+        ],
+        "page": "128",
+        "chapter_number": "518",
+        "page_header": "SBS Vol 53 Chap 518 header.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 12,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I noticed that the cover page in Issue 48 of Jump ([[Chapter 519]]) was pasted with gray screentone. You once used a black background for the cover, but I understood once I saw the number 519 was the number of the final chapter of your beloved Akira Toriyama's Dragon Ball. So it was a message that you had finally caught up to him, right?",
+                        "matches": [
+                            [
+                                51,
+                                66,
+                                "Chapter 519"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Ahh, very good. You understand! That's right. Well, it wasn't a message so much as it was a personal mark to myself. Of course, some of you may think that because Dragon Ball had only 42 volumes, that I passed it long ago, but as that was started as a gag manga originally, it only has 15 pages per chapter. One Piece is a story manga with 19-page chapters, so after the same 12 years, I end up with 53 volumes instead. Sorry for costing you more money! I'm hoping to finally getting around to finishing One Piece, but as I'd hate to leave this expansive story I've created without a proper ending, I'm afraid it will just have to keep going for a bit.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Chapter 519",
+                        "link_title": "/wiki/Chapter 519",
+                        "is_wikipedia": false,
+                        "start": 51,
+                        "end": 66
+                    }
+                ],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "amused"
+                    ],
+                    "topics": [
+                        "manga",
+                        "publication",
+                        "Akira_Toriyama",
+                        "One_Piece",
+                        "Dragon_Ball"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda explains the significance of using gray screentone on the cover page, indicating catching up to Dragon Ball's final chapter and mentions the longer chapters in One Piece."
+            },
+            {
+                "number": 13,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello, Oda-sensei. [[CP9]] is sweeping my entire school. It's a Shigan battle everyday, and my body is full of holes. By the way, I heard that you can use the legendary SEVEN Forms, which is even better than the normal Six. What's the very last one? Please tell us. P.N. CP608",
+                        "matches": [
+                            [
+                                19,
+                                26,
+                                "CP9"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "YOU FOUND OUT? ...Yes. That's right. I was trying to hide it, but in fact, I am the legendary Seven Forms User. The Six Forms are, of course, Shigan, Geppou, Tekkai, Soru, Kamie, and, uhhhh... oh yeah, Rankyaku! But I can use one more superhuman form! And that is... \"CHOKKAI\" (Bother)! Umm, that's when I bug the hell out of people who are seriously trying to fight me... It's umm, well, a very annoying and obnoxious move, but... Do you have a problem with that?!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "CP9",
+                        "link_title": "/wiki/CP9",
+                        "is_wikipedia": false,
+                        "start": 19,
+                        "end": 26
+                    }
+                ],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "Rokushiki",
+                        "fighting_style",
+                        "Seven_Forms"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda reveals the legendary Seven Forms User, the last form 'CHOKKAI' is for annoying and interrupting serious fighters."
+            },
+            {
+                "number": 14,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-san, if you were to take a vacation, where would you prefer to go? POOF!! from Junpei-san",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "!!!... (See you again next volume! Our new corner will begin on p. 188)",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Well, here's Nakai-san. Please introduce yourself in a low voice.\n\nN: Hello, I'm Kazuya Nakai. My favorite sweets are... rice cakes wrapped in oak leaves.",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I wasn't asking.\n\nN: Don't be so cold, Odacchi.",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I'm not being cold. There's a certain order and amount of space we have here. So please do the SBS right. You know what SBS stands for, right?\n\nN: Of course. The \"(S)orry, (B)ut I'm too (S)tupid\" corner.",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "You DON'T know!! ...And why are you looking so satisfied with that joke?''\n\nN: Let me try again. It's the \"I (S)haved my head (B)ald, now it's (S)hivery\" corner.",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "What kind of corner is that?! Forget it! Here you go: your questions. (thwump!) Have fun cutting those down.\n\nN: Okay.\n\nNakai-san's SBS continues on p. 208!\n\nPreview for Next Volume's VA SBS\nWe're now taking questions for these two people in the next two volumes! Have no regrets!\nNami (Akemi Okamura-san) Usopp (Kappei Yamaguchi-san)\nLet's all ask Nami-san dirty\u2014er, cute questions, and send Usopp idiotic\u2014er, hilarious ones! Send to the SBS address at the end of the volume.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "kazuya_nakai",
+                        "nami",
+                        "usopp"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "SBS_corner",
+                        "vacation",
+                        "next_volume_preview"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "Oda announces a new Q&A session and scolds Nakai for his jokes, then provides a preview for the next volume's VA SBS."
+            },
+            {
+                "number": 24,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I love watching the anime! This is a question for Nakai-san. Zoro seems to get hurt more than anyone in One Piece. Do you ever take damage as a result of your role?? Please tell us! from Spirit of Zero\n\nN: Remember what the captain said? We aim for reality. When I have to play those scenes, I get the rest of the cast to beat me up!",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Thanks very much! We're done now. Time to leave, Nakai-san. Whoa, why are you scarfing down that onigiri? Next postcard will be the last one! Stop eating! Stop screaming \"katana\"! You're spitting rice! Look, the last one will be good, so if you have a funny answer, I might use it in the manga. Give it a shot.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "roronoa_zoro"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "playful",
+                        "silly"
+                    ],
+                    "topics": [
+                        "voice_actor",
+                        "behind_the_scenes"
+                    ],
+                    "importance": "hight",
+                    "isCharacterInsertion": true
+                },
+                "summary": "Nakai-san mentions aiming for reality in playing Zoro, even getting the cast to beat him up for those scenes."
+            },
+            {
+                "number": 25,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "To Nakai-san. PLEASE BE MY BROTHER!! P.N. Marimo Korigori\n\nN: DON'T CALL ME BROTHER! I'M A GIRL IN MY HEART! (accidentally said aloud)",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "THAT'S WORTHLESS!! Enjoy the voice actor SBS in the next volume!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "roronoa_zoro",
+                        "nami"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "voice_actor_SBS"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "Nakai denies being called 'brother' and accidentally reveals her true gender identity, to which Oda reacts humorously."
+            }
+        ],
+        "page": "168",
+        "chapter_number": "520",
+        "page_header": "SBS Vol 53 Chap 520 header.png"
+    }
+]

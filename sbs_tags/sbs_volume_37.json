@@ -1,0 +1,826 @@
+[
+    {
+        "qa": [
+            {
+                "number": 1,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Dokusha means Reader\n*",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Oda\n__TOC__\n{{-}}",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "author_interaction"
+                    ],
+                    "importance": "high",
+                    "isCharacterInsertion": false
+                },
+                "summary": "The reader addresses themselves as 'dokusha' and Oda's name is mentioned as 'Oda.'"
+            },
+            {
+                "number": 2,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Wait \u00d72 [[Eiichiro Oda|Oda]]-sensei~. I never heard you were married!! Why didn't you tell us earlier?! And that you're 30 now... aargh!! I don't have anything to give you for a gift. So... I've just got one thing to say. \"START THE SBS \u2661.\" Yaay, congratulations. Ahh, I feel so much better now. P.N. Sai Too",
+                        "matches": [
+                            [
+                                8,
+                                28,
+                                "Eiichiro Oda|Oda"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Thank you very much! Wait- IT STARTED ALREADY!!! (gonnn) Aww, that's OK, I forgive you this time. I've gotten a literal mountain of congratulatory mail on this, so I'm in a good mood (grin). An author with good fans is a happy author. But just so you know, this hasn't changed the way I live my life one bit, so I'll still be living the same manga life I always have!\n\n[[File:SBS37 1 Luffy Bracelet.png|right|150px]]",
+                        "matches": [
+                            [
+                                369,
+                                416,
+                                "File:SBS37 1 Luffy Bracelet.png|right|150px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS37 1 Luffy Bracelet.png",
+                        "size": "150",
+                        "start": 369,
+                        "end": 416
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Oda",
+                        "link_title": "/wiki/Eiichiro Oda",
+                        "is_wikipedia": false,
+                        "start": 8,
+                        "end": 28
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "happy",
+                        "forgiving"
+                    ],
+                    "topics": [
+                        "marriage",
+                        "birthday",
+                        "fan interaction",
+                        "author's life"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda thanks a fan for congratulating him on his marriage and turning 30, and mentions that it hasn't changed his manga life."
+            },
+            {
+                "number": 3,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I have a question, Sensei. In the middle of the [[Skypiea Arc|Sky Island arc]] ([[Chapter 244]]), [[Monkey D. Luffy|Luffy]] is shown wearing a wristband and bracelet. Why is this? Is he just dressing up? He took them off when they left the island.",
+                        "matches": [
+                            [
+                                48,
+                                78,
+                                "Skypiea Arc|Sky Island arc"
+                            ],
+                            [
+                                80,
+                                95,
+                                "Chapter 244"
+                            ],
+                            [
+                                98,
+                                123,
+                                "Monkey D. Luffy|Luffy"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Right. No meaning to it. It's just for fashion. To be precise, at the time he was with [[Usopp]] and [[Sanji]]. When they were changing into their adventure gear, Luffy stared at them and thought, \"Ooh! That looks adventurous!\" and borrowed the wristband from Usopp, at which point Sanji said, \"Put this on, too,\" and gave him the bracelet. Something like that. Basically Luffy, Zoro and Chopper cannot dress up on their own. If they do, it's because either Sanji, Usopp, Nami or Robin is with them.",
+                        "matches": [
+                            [
+                                87,
+                                96,
+                                "Usopp"
+                            ],
+                            [
+                                101,
+                                110,
+                                "Sanji"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Sky Island arc",
+                        "link_title": "/wiki/Skypiea Arc",
+                        "is_wikipedia": false,
+                        "start": 48,
+                        "end": 78
+                    },
+                    {
+                        "text": "Luffy",
+                        "link_title": "/wiki/Monkey D. Luffy",
+                        "is_wikipedia": false,
+                        "start": 98,
+                        "end": 123
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Chapter 244",
+                        "link_title": "/wiki/Chapter 244",
+                        "is_wikipedia": false,
+                        "start": 80,
+                        "end": 95
+                    },
+                    {
+                        "text": "Usopp",
+                        "link_title": "/wiki/Usopp",
+                        "is_wikipedia": false,
+                        "start": 87,
+                        "end": 96
+                    },
+                    {
+                        "text": "Sanji",
+                        "link_title": "/wiki/Sanji",
+                        "is_wikipedia": false,
+                        "start": 101,
+                        "end": 110
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy",
+                        "usopp",
+                        "sanji",
+                        "zoro",
+                        "chopper",
+                        "nami",
+                        "robin"
+                    ],
+                    "places": [
+                        "skypiea"
+                    ],
+                    "emotions": [
+                        "silly"
+                    ],
+                    "topics": [
+                        "fashion",
+                        "clothing",
+                        "adventure"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Luffy wore the wristband and bracelet for fashion during the Sky Island arc, borrowing them from Usopp and Sanji while changing into adventure gear."
+            },
+            {
+                "number": 4,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I was just thinking, when [[Tony Tony Chopper|Chopper]] is his teeny (normal) size, how does he hold things? Does he squeeze them in between his hooves? I can't help but wonder. P.N. Greenapple",
+                        "matches": [
+                            [
+                                26,
+                                55,
+                                "Tony Tony Chopper|Chopper"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "These things are best shown through art.\n[[File:SBS Vol 37 02.png|center|500px]]\nTHAT'S HOW!!! HE GOT IT!!! (attempts to silence argument by sheer force)",
+                        "matches": [
+                            [
+                                41,
+                                80,
+                                "File:SBS Vol 37 02.png|center|500px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS Vol 37 02.png",
+                        "size": "500",
+                        "start": 41,
+                        "end": 80
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Chopper",
+                        "link_title": "/wiki/Tony Tony Chopper",
+                        "is_wikipedia": false,
+                        "start": 26,
+                        "end": 55
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "tony_tony_chopper"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "character_physical_ability",
+                        "art"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Chopper holds things in his teeny (normal) size by squeezing them between his hooves, as shown in the art."
+            },
+            {
+                "number": 5,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchi! I have a question. Do you come up with the [[Devil Fruit]] Powers that are original to the [[One Piece (Anime)|Anime]] show? Let me know.",
+                        "matches": [
+                            [
+                                52,
+                                67,
+                                "Devil Fruit"
+                            ],
+                            [
+                                100,
+                                127,
+                                "One Piece (Anime)|Anime"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Basically, all that happens is that the anime's scriptwriters come up with powers that they want to use in the story, and I say \"Yeah, that sounds good,\" or \"No, sorry, I want to use that one in the future.\" That's all.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Anime",
+                        "link_title": "/wiki/One Piece (Anime)",
+                        "is_wikipedia": false,
+                        "start": 100,
+                        "end": 127
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Devil Fruit",
+                        "link_title": "/wiki/Devil Fruit",
+                        "is_wikipedia": false,
+                        "start": 52,
+                        "end": 67
+                    }
+                ],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "devil_fruit",
+                        "anime",
+                        "originality"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "The anime scriptwriters create original Devil Fruit Powers, and Oda approves or denies them based on his future story plans."
+            },
+            {
+                "number": 6,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchi-sensei. I'm super \u00d72 curious about something! And that is... whose nose is longer, Usopp or [[Kaku]]? Plus, Odacchi-sensei, it's not very nice to draw people with artificial noses. Damn is it long. P.N. From the crew",
+                        "matches": [
+                            [
+                                100,
+                                108,
+                                "Kaku"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Let's compare.\n[[File:SBS37 2 Usopp vs Kaku.png|center]]\n\nAha! Usopp wins by a rounded nose-tip!",
+                        "matches": [
+                            [
+                                15,
+                                56,
+                                "File:SBS37 2 Usopp vs Kaku.png|center"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS37 2 Usopp vs Kaku.png",
+                        "size": null,
+                        "start": 15,
+                        "end": 56
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Kaku",
+                        "link_title": "/wiki/Kaku",
+                        "is_wikipedia": false,
+                        "start": 100,
+                        "end": 108
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "usopp",
+                        "kaku"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "character_comparison",
+                        "artificial_nose"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Usopp's nose is longer than Kaku's according to Oda, as shown in the drawing."
+            },
+            {
+                "number": 7,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "DID YOU CALL ME? ([[Enel]] appears). from Tada-kun",
+                        "matches": [
+                            [
+                                18,
+                                26,
+                                "Enel"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "No no... huh? Wah! Scary! It's Enel. I can't move! He zapped me. Ow! Next one, please.\n\n\n[[File:SBS_Vol_37.08.png|right|120px]]",
+                        "matches": [
+                            [
+                                89,
+                                127,
+                                "File:SBS_Vol_37.08.png|right|120px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS_Vol_37.08.png",
+                        "size": "120",
+                        "start": 89,
+                        "end": 127
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Enel",
+                        "link_title": "/wiki/Enel",
+                        "is_wikipedia": false,
+                        "start": 18,
+                        "end": 26
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "enel"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "scared",
+                        "surprised",
+                        "pain"
+                    ],
+                    "topics": [],
+                    "importance": "normal",
+                    "isCharacterInsertion": true
+                },
+                "summary": "Enel appears in the question, Oda acts scared and mentions being zapped, then asks for the next question."
+            },
+            {
+                "number": 8,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "To Oda-sensei. I thought the scene where [[Kalifa|Kalifa-san]] makes [[Iceburg]] tea was really nice. What does a woman need to become a wonderful secretary like Kalifa-san? from #1 Fan.",
+                        "matches": [
+                            [
+                                41,
+                                62,
+                                "Kalifa|Kalifa-san"
+                            ],
+                            [
+                                69,
+                                80,
+                                "Iceburg"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Glasses and papers. And you should say \"Insolence!\" a lot.\n\n\n[[File:SBS_Vol_37.09.png|right|80px]]",
+                        "matches": [
+                            [
+                                61,
+                                98,
+                                "File:SBS_Vol_37.09.png|right|80px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS_Vol_37.09.png",
+                        "size": "80",
+                        "start": 61,
+                        "end": 98
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Kalifa-san",
+                        "link_title": "/wiki/Kalifa",
+                        "is_wikipedia": false,
+                        "start": 41,
+                        "end": 62
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Iceburg",
+                        "link_title": "/wiki/Iceburg",
+                        "is_wikipedia": false,
+                        "start": 69,
+                        "end": 80
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "kalifa",
+                        "iceburg"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "secretary_skills",
+                        "humor"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda suggests that to be a wonderful secretary like Kalifa, one needs glasses, papers, and to say 'Insolence!' a lot."
+            },
+            {
+                "number": 9,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "How many [[Wikipedia:Marimo|Marimos]] is your brain, Sensei? (Assuming Einstein's is 273 Marimos) P.N. Kamaboko",
+                        "matches": [
+                            [
+                                9,
+                                37,
+                                "Wikipedia:Marimo|Marimos"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "How many Marimos? I think you mean \"How many SUPER Marimos!\" ...OK, I regret saying that.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Marimos",
+                        "link_title": "/wiki/Wikipedia:Marimo",
+                        "is_wikipedia": false,
+                        "start": 9,
+                        "end": 37
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "regret"
+                    ],
+                    "topics": [
+                        "marimos",
+                        "intelligence"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda playfully responds to a question about the size of his brain compared to Marimos, joking about having 'SUPER Marimos'."
+            },
+            {
+                "number": 10,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "YAY. KAPOW (PUT ON AFRO) OH YEAH!!! OLA!! P.N. Tamago",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Okay. Next.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "P.N. Tamago"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "happy",
+                        "funny"
+                    ],
+                    "topics": [],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader excitedly expresses themselves, Oda swiftly moves on to the next question."
+            },
+            {
+                "number": 11,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Shimaboo ([[Wikipedia:Mitsutoshi Shimabukuro|Mitsutoshi Shimabukuro]]) said that he went on a trip to an onsen hot spring last year with about 10 other manga artists. Did you go too? Or not? Were you late for the bus?! P.N. Monday-Saturday",
+                        "matches": [
+                            [
+                                10,
+                                69,
+                                "Wikipedia:Mitsutoshi Shimabukuro|Mitsutoshi Shimabukuro"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I did. The hot springs are so pretty with all the snow. And because it was outdoors, I went running around in the snow and CAUGHT A COLD!! (AS DID SOME OTHERS)",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Mitsutoshi Shimabukuro",
+                        "link_title": "/wiki/Wikipedia:Mitsutoshi Shimabukuro",
+                        "is_wikipedia": false,
+                        "start": 10,
+                        "end": 69
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [
+                        "onsen_hot_spring"
+                    ],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "travel",
+                        "health",
+                        "fun"
+                    ],
+                    "importance": "hight",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda confirms he went to the hot spring with other manga artists, enjoyed the snow, but caught a cold along with others."
+            },
+            {
+                "number": 13,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Good day, Oda-sensei. I am Richie Usapon, president of the Japan Healthy Men's Organization (current members: 1). I have a request to make of you, Oda-sensei... actually to Sanji-san. \"PLEASE TELL ME [[Nico Robin|ROBIN]]'s MEASUREMENTS!!\" I am so, so so serious.",
+                        "matches": [
+                            [
+                                200,
+                                220,
+                                "Nico Robin|ROBIN"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "What are you guys?! 3 Size Explorers?! Well... I do get these questions a lot!! And they never end. So let's settle this one once and for all. Come on out, Mr. Cook!!\n\nSanji: There's got to be a better way to introduce me! Well anyways, I know what's going on... and I'm your man for the job. Here are their measurements according to my well-trained eye!!\n[[File:SBS37 4 Nami & Robin Measurements.png|thumb|center|500px|Nami: Height 169 B 95 W 55 H 85. Robin: Height 188 B 99 W 59 H 89]]\nWhew, that's hot! I'm in love all over again!",
+                        "matches": [
+                            [
+                                356,
+                                487,
+                                "File:SBS37 4 Nami & Robin Measurements.png|thumb|center|500px|Nami: Height 169 B 95 W 55 H 85. Robin: Height 188 B 99 W 59 H 89"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "question",
+                        "text": "Hi, Oda-sensei! In Volume 36 you were saying that [[Nami]]'s breasts had grown in size from years ago, so what are her 3 sizes now? I'd bet that every man in the country is dying to know this, so don't hold out on us!",
+                        "matches": [
+                            [
+                                50,
+                                58,
+                                "Nami"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS37 4 Nami & Robin Measurements.png",
+                        "size": "500",
+                        "start": 356,
+                        "end": 487
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "ROBIN",
+                        "link_title": "/wiki/Nico Robin",
+                        "is_wikipedia": false,
+                        "start": 200,
+                        "end": 220
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "sanji",
+                        "nami",
+                        "robin"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "cheeky",
+                        "funny"
+                    ],
+                    "topics": [
+                        "measurements",
+                        "fan_request",
+                        "body_image"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "Richie from Japan Healthy Men's Organization requests Robin's measurements; Sanji provides them, and another reader asks for Nami's 3 sizes."
+            },
+            {
+                "number": 14,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "N/A",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes, of course it's for their fashion! The name of that hairstyle is the \"Squfare.\" You pronounce it as if you were trying to say \"square\". Ready? \"Squfare\". Yes, let the tension out of your shoulders and say it lifelessly: \"Squfare\".",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "playful"
+                    ],
+                    "topics": [
+                        "fashion",
+                        "hairstyles"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda explains that the hairstyle in question is called the 'Squfare' and the pronunciation is similar to 'square'."
+            },
+            {
+                "number": 15,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-shan, hello! Ummm, are [[Mozu and Kiwi]]'s hairstyles natural? Or is it some kind of crazy, ultra-fashionable hairdo? I wish I could see them from a direct side perspective. Thanx!! P.N. Afro Zoro = Natural Monument!!",
+                        "matches": [
+                            [
+                                27,
+                                44,
+                                "Mozu and Kiwi"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Ooooh, let's do the tasks! Let's see, 16/4 ... 16/4. 999/9 is ... 999/9. So it's easy. I was always good at dividing without a trace. I could calmly solve a whole book of such exercises! Kari kari kari *quickly writes* (passed 1 hour) Kari kari kari *quickly writes*... (1 hour has passed) Kari kari kari *quickly writes*... still *hrum* more... oops! It seems I ate a handful of mistakes. And again to the tasks! Kari kari kari kali kali kali kali kalifa kalifa... oops! I started thinking about the sexual secretary... Hey!! DO NOT GET YOUR HOMEWORK!!! (farewell joke successfully fixed) And all this for SBS! We're done! See you in the next volume!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Mozu and Kiwi",
+                        "link_title": "/wiki/Mozu and Kiwi",
+                        "is_wikipedia": false,
+                        "start": 27,
+                        "end": 44
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "mozu",
+                        "kiwi"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "humorous"
+                    ],
+                    "topics": [
+                        "hairstyles",
+                        "SBS",
+                        "joke"
+                    ],
+                    "importance": "low",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda responds with a comical diversion, avoiding the question about Mozu and Kiwi's hairstyles."
+            }
+        ],
+        "page": null,
+        "chapter_number": null,
+        "page_header": "SBS Vol 37 header.png"
+    }
+]

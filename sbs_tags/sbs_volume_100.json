@@ -1,0 +1,1451 @@
+[
+    {
+        "qa": [
+            {
+                "number": 1,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei! Over there, there is a UFO here with a beauty with giant breasts! Now, let's begin the memorable <big>100TH VOLUME OF SBS!!</big> P.N. One Hundred",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Ah---!!!! Begin---!!! Wait a minute! Does this not work? This time I have to announce... No good!? Volume 100!? Ugh... uh... about that...! There is no beauty with giant breasts here!!\n\n[[File:SBS100 Robin's breasts.png|thumb|200px]]",
+                        "matches": [
+                            [
+                                186,
+                                233,
+                                "File:SBS100 Robin's breasts.png|thumb|200px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS100 Robin's breasts.png",
+                        "size": "200",
+                        "start": 186,
+                        "end": 233
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "funny",
+                        "amused"
+                    ],
+                    "topics": [
+                        "sbs",
+                        "volume 100",
+                        "author's comment"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda acknowledges starting the 100th volume SBS, but is confused by a reader's claim of a UFO with a well-endowed woman."
+            },
+            {
+                "number": 2,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "In [[SBS Volume 99]] you said you wanted to please the PTA. No matter how hard you try, it's absolutely impossible, so give up and draw an anthropomorphic version of [[Nico Robin|Robin]]-can's breasts. P.N. Heart Stay Error",
+                        "matches": [
+                            [
+                                3,
+                                20,
+                                "SBS Volume 99"
+                            ],
+                            [
+                                166,
+                                186,
+                                "Nico Robin|Robin"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "<big>DRAW WHAT!!!? DON'T SAY \u201cBREASTS\u201d IN VOLUME 100!!</big> We are not always like this. Well, the next one is a serious postcard!\n\n[[File:SBS100 Yamato.png|thumb|200px]]",
+                        "matches": [
+                            [
+                                133,
+                                171,
+                                "File:SBS100 Yamato.png|thumb|200px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS100 Yamato.png",
+                        "size": "200",
+                        "start": 133,
+                        "end": 171
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Robin",
+                        "link_title": "/wiki/Nico Robin",
+                        "is_wikipedia": false,
+                        "start": 166,
+                        "end": 186
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "SBS Volume 99",
+                        "link_title": "/wiki/SBS Volume 99",
+                        "is_wikipedia": false,
+                        "start": 3,
+                        "end": 20
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy",
+                        "nico_robin"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny",
+                        "embarrassed"
+                    ],
+                    "topics": [
+                        "sbs",
+                        "reader_questions"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader requests an anthropomorphic version of Robin's breasts in SBS Volume 99; Oda refuses and says they're not always like that, moving on to a serious postcard."
+            },
+            {
+                "number": 3,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I was curious what the title would be for [[Chapter 1000]], and I couldn't sleep at night. I thought it would be a tribute to [[Chapter 100]], but it turned out to be a surprise \"Luffy Straw Hat\", what an illusion. It's much better than [[Yamato]]'s chest on its side. P.N. Ugh",
+                        "matches": [
+                            [
+                                42,
+                                58,
+                                "Chapter 1000"
+                            ],
+                            [
+                                126,
+                                141,
+                                "Chapter 100"
+                            ],
+                            [
+                                237,
+                                247,
+                                "Yamato"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "<big>YOU CAN'T DO IT!!</big> Whoa!! Sorry, I lost control!! Oops~ did I accidentally say something? The next person will return this corner back to normal!\n\n[[File:SBS100 Nami.png|thumb|200px]]",
+                        "matches": [
+                            [
+                                157,
+                                193,
+                                "File:SBS100 Nami.png|thumb|200px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS100 Nami.png",
+                        "size": "200",
+                        "start": 157,
+                        "end": 193
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Chapter 1000",
+                        "link_title": "/wiki/Chapter 1000",
+                        "is_wikipedia": false,
+                        "start": 42,
+                        "end": 58
+                    },
+                    {
+                        "text": "Chapter 100",
+                        "link_title": "/wiki/Chapter 100",
+                        "is_wikipedia": false,
+                        "start": 126,
+                        "end": 141
+                    },
+                    {
+                        "text": "Yamato",
+                        "link_title": "/wiki/Yamato",
+                        "is_wikipedia": false,
+                        "start": 237,
+                        "end": 247
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "chapter_1000_title",
+                        "devil_fruit"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader wondered what Chapter 1000's title would be, hoping for a tribute to Chapter 100, but was surprised with \"Luffy Straw Hat\"; Oda reacted excitedly, promising the next question would return to normal"
+            },
+            {
+                "number": 4,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Lately I'm very worried about the direction of this corner. I will return this corner back to normal! <big>I WANT TO SEE A CLOSE-UP OF O-[[Nami|NAMI]]!</big> P.N. Sanadacchi",
+                        "matches": [
+                            [
+                                137,
+                                150,
+                                "Nami|NAMI"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "<big>SANADA---!!! YOU PERVERT, GET OUT OF HERE!!!</big> What's up with first page!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "NAMI",
+                        "link_title": "/wiki/Nami",
+                        "is_wikipedia": false,
+                        "start": 137,
+                        "end": 150
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy",
+                        "nami"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "happy",
+                        "funny"
+                    ],
+                    "topics": [],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader requests a close-up of Nami, Oda denies the request, surprised by the perverted request at the start of his Q&A."
+            }
+        ],
+        "page": "44",
+        "chapter_number": "1006",
+        "page_header": "Vol. 100 SBS Header 1.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 5,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "What would [[Usopp]] look like if he wore a mask with his nose? \u2013 P.N. Hercules",
+                        "matches": [
+                            [
+                                11,
+                                20,
+                                "Usopp"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "There, thanks for the postcard. This is it.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Usopp",
+                        "link_title": "/wiki/Usopp",
+                        "is_wikipedia": false,
+                        "start": 11,
+                        "end": 20
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "Usopp"
+                    ],
+                    "topics": [
+                        "mask"
+                    ],
+                    "importance": "normal",
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda reveals what Usopp would look like with a mask displaying his nose."
+            },
+            {
+                "number": 6,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello Odacchi. Boss [[Jinbe]]'s joining is cool. I have a question about the words \"please allow me to introduce myself!\" in [[Chapter 976]]. I heard this phrase in the lyrics of the song \u3066\u306a\u3082\u3093\u3084\u4e09\u5ea6\u7b20 (Tenamonya Sandogasa) when I was listening to the best period drama CD. Did you take it from there~!? P.N. Petan",
+                        "matches": [
+                            [
+                                20,
+                                29,
+                                "Jinbe"
+                            ],
+                            [
+                                125,
+                                140,
+                                "Chapter 976"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Hmm~ You didn't write your age but your interest is very old~ Just like me when I was younger. (laughs) This phrase you can heard in historical dramas and chivalry movies, To be honest, as well as lines that begin with \"Hikeenasutte!!\". Roughly speaking, it is his greeting from the old yakuza. It's like introducing yourself \"Oh, listen to me! My name is \u25cb\u25cb, I was born in \u25cb\u25cb...\". This is called \"cutting morality\".\n\n[[File:SBS100 Yama and Koyama.png|thumb|200px]]",
+                        "matches": [
+                            [
+                                418,
+                                465,
+                                "File:SBS100 Yama and Koyama.png|thumb|200px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS100 Yama and Koyama.png",
+                        "size": "200",
+                        "start": 418,
+                        "end": 465
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Jinbe",
+                        "link_title": "/wiki/Jinbe",
+                        "is_wikipedia": false,
+                        "start": 20,
+                        "end": 29
+                    },
+                    {
+                        "text": "Chapter 976",
+                        "link_title": "/wiki/Chapter 976",
+                        "is_wikipedia": false,
+                        "start": 125,
+                        "end": 140
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "jinbe"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "happy",
+                        "funny"
+                    ],
+                    "topics": [
+                        "one_piece_refrence",
+                        "historical_drama",
+                        "yakuza"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda got the phrase 'please allow me to introduce myself' from historical dramas and chivalry movies, not specifically from the song \u3066\u306a\u3082\u3093\u3084\u4e09\u5ea6\u7b20 (Tenamonya Sandogasa). It's a greeting from old yakuza introductions."
+            },
+            {
+                "number": 7,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello Odacchi! In [[Volume 95]], page 173, the peron called Yama-san was a big pig considered the god of the mountain, right? Although [[Kozuki Oden|Oden]] wanted to cut him in half, he lived. I'm so glad he's alive. Does Wano have amazing medical knowledge? \u2013 P.N. very like Sanji's lightning shopkeeper",
+                        "matches": [
+                            [
+                                18,
+                                31,
+                                "Volume 95"
+                            ],
+                            [
+                                135,
+                                155,
+                                "Kozuki Oden|Oden"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "That's right. It's alive. Haven't you heard about it? If an arm or something is cut with a clean cut, then the surface can be put back together! Yes! So Yamagami, because Oden's cut was so clean, he was able to put himself back together!! It is great!! Yamagami's son was called \"[[Koyama]]\".",
+                        "matches": [
+                            [
+                                280,
+                                290,
+                                "Koyama"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Oden",
+                        "link_title": "/wiki/Kozuki Oden",
+                        "is_wikipedia": false,
+                        "start": 135,
+                        "end": 155
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Volume 95",
+                        "link_title": "/wiki/Volume 95",
+                        "is_wikipedia": false,
+                        "start": 18,
+                        "end": 31
+                    },
+                    {
+                        "text": "Koyama",
+                        "link_title": "/wiki/Koyama",
+                        "is_wikipedia": false,
+                        "start": 280,
+                        "end": 290
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "odacchi",
+                        "yama-san",
+                        "kozuki oden",
+                        "koyama"
+                    ],
+                    "places": [
+                        "wano"
+                    ],
+                    "topics": [
+                        "devil_fruit",
+                        "kaido_backstory"
+                    ],
+                    "emotions": [
+                        "happy",
+                        "funny"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader confuses Yama-san, a living pig, with Kozuki Oden's mountain-god target; Oda explains Yama-san survived due to clean cut."
+            }
+        ],
+        "page": "62",
+        "chapter_number": "1007",
+        "page_header": "Vol. 100 SBS Header 2.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 8,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Are [[Ulti]] and [[Page One]] really siblings? I'm curious if you're calling me \"Aniki!\" just like my younger brother calls you \"Anego\"! I'm very curious about them.\u2661\u2661 P.N. Don (20 years old)",
+                        "matches": [
+                            [
+                                4,
+                                12,
+                                "Ulti"
+                            ],
+                            [
+                                17,
+                                29,
+                                "Page One"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes. They are really siblings. Their father was a pirate, but he died. [[Kaidou]] knew their father, so he ended up taking them in later. Ulti is very smart and she stole two Devil Fruits from Kaido and that's how she and her brother became strong, so that they can survive in this crew, where the strong survive and the weak are crushed. They even managed to become Tobiroppo.\n\n[[File:SBS100 Hawkins.png|thumb|200px]]",
+                        "matches": [
+                            [
+                                71,
+                                81,
+                                "Kaidou"
+                            ],
+                            [
+                                379,
+                                418,
+                                "File:SBS100 Hawkins.png|thumb|200px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS100 Hawkins.png",
+                        "size": "200",
+                        "start": 379,
+                        "end": 418
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Ulti",
+                        "link_title": "/wiki/Ulti",
+                        "is_wikipedia": false,
+                        "start": 4,
+                        "end": 12
+                    },
+                    {
+                        "text": "Page One",
+                        "link_title": "/wiki/Page One",
+                        "is_wikipedia": false,
+                        "start": 17,
+                        "end": 29
+                    },
+                    {
+                        "text": "Kaidou",
+                        "link_title": "/wiki/Kaidou",
+                        "is_wikipedia": false,
+                        "start": 71,
+                        "end": 81
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "Ulti",
+                        "Page One",
+                        "Kaido",
+                        "Oda"
+                    ],
+                    "places": [
+                        "Wano"
+                    ],
+                    "topics": [
+                        "Kaido's backstory",
+                        "Devil Fruits",
+                        "Tobiroppo"
+                    ],
+                    "emotions": [
+                        "curious",
+                        "happy"
+                    ],
+                    "importance": "high",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Ulti and Page One are siblings, taken in by Kaido after their father's death; they became strong to survive in Kaido's crew and became Tobiroppo."
+            },
+            {
+                "number": 9,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchi, I have a question!! Tell me why [[Basil Hawkins]] have such eyebrows!! 1. He was born this way. 2. They have been painted. 3. He has thick eyebrows and this is the result of waxing them. 4. He finished with them for a punishment of a game. I love Hawkins' eyebrows!! P.N. Palm Rye",
+                        "matches": [
+                            [
+                                41,
+                                58,
+                                "Basil Hawkins"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes. Um. Those eyebrows are one triangle and one hair. So Hawkins has six hairs above his eyes.\n\n[[File:SBS100 Wano Country Map.png|thumb|200px]]\n[[File:SBS100 Wano Country and Onigashima.png|thumb|200px]]",
+                        "matches": [
+                            [
+                                97,
+                                145,
+                                "File:SBS100 Wano Country Map.png|thumb|200px"
+                            ],
+                            [
+                                146,
+                                205,
+                                "File:SBS100 Wano Country and Onigashima.png|thumb|200px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS100 Wano Country Map.png",
+                        "size": "200",
+                        "start": 97,
+                        "end": 145
+                    },
+                    {
+                        "file": "SBS100 Wano Country and Onigashima.png",
+                        "size": "200",
+                        "start": 146,
+                        "end": 205
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Basil Hawkins",
+                        "link_title": "/wiki/Basil Hawkins",
+                        "is_wikipedia": false,
+                        "start": 41,
+                        "end": 58
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "basil_hawkins"
+                    ],
+                    "places": [
+                        "wano"
+                    ],
+                    "topics": [
+                        "devil_fruit",
+                        "character_design"
+                    ],
+                    "emotions": [
+                        "happy",
+                        "amused"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader asked why Basil Hawkins has unique eyebrows, Oda confirms he has six hairs above his eyes, shaped as one triangle and one hair."
+            },
+            {
+                "number": 10,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-san! Is [[Wano Country]] made as a model? P.N. Captain Shunya",
+                        "matches": [
+                            [
+                                12,
+                                28,
+                                "Wano Country"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes. That's right! The prototype of the Japanese archipelago. This was the original idea. First setting. There used to be Hokkaido, also known as Onigashima, but for the convenience of the story, it became the current location.{{-}}",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Wano Country",
+                        "link_title": "/wiki/Wano Country",
+                        "is_wikipedia": false,
+                        "start": 12,
+                        "end": 28
+                    }
+                ],
+                "tags": {
+                    "characters": [],
+                    "places": [
+                        "wano",
+                        "hokkaido",
+                        "onigashima"
+                    ],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "wano_backstory"
+                    ],
+                    "importance": [
+                        "high"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Wano Country in One Piece is modeled after the Japanese archipelago, with Onigashima as its Hokkaido, reveals Oda."
+            }
+        ],
+        "page": "100",
+        "chapter_number": "1009",
+        "page_header": "Vol. 100 SBS Header 3.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 11,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I have a question for Oda-sensei! In [[Volume 95]], on page 33 One Piece, is this person in [[Flower Capital#Rasetsu Town|Flower Capital's Rasetsu Town]] [[Shinobu]] without makeup? P.N. YAMATORO",
+                        "matches": [
+                            [
+                                37,
+                                50,
+                                "Volume 95"
+                            ],
+                            [
+                                92,
+                                153,
+                                "Flower Capital#Rasetsu Town|Flower Capital's Rasetsu Town"
+                            ],
+                            [
+                                154,
+                                165,
+                                "Shinobu"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Oh. You good find! He is actually Shinobu's older brother. His name is \"[[Shinosuke]]\". He loved his sister and knew that she would be hunted down and killed after she left the Onibawanshu group, so he became a deserter as well, thus protecting his sister while acting as a Kozuki samurai.",
+                        "matches": [
+                            [
+                                72,
+                                85,
+                                "Shinosuke"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Flower Capital's Rasetsu Town",
+                        "link_title": "/wiki/Flower Capital#Rasetsu Town",
+                        "is_wikipedia": false,
+                        "start": 92,
+                        "end": 153
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Volume 95",
+                        "link_title": "/wiki/Volume 95",
+                        "is_wikipedia": false,
+                        "start": 37,
+                        "end": 50
+                    },
+                    {
+                        "text": "Shinobu",
+                        "link_title": "/wiki/Shinobu",
+                        "is_wikipedia": false,
+                        "start": 154,
+                        "end": 165
+                    },
+                    {
+                        "text": "Shinosuke",
+                        "link_title": "/wiki/Shinosuke",
+                        "is_wikipedia": false,
+                        "start": 72,
+                        "end": 85
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "shinobu",
+                        "shinosuke"
+                    ],
+                    "places": [
+                        "flower capital's rasetsu town",
+                        "wano"
+                    ],
+                    "topics": [
+                        "kaido's backstory",
+                        "kozuki samurai"
+                    ],
+                    "emotions": [
+                        "happy"
+                    ],
+                    "importance": [
+                        "high"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda confirms a reader's observation of Shinosuke, Shinobu's older brother, disguised as a Kozuki samurai in Rasetsu Town."
+            },
+            {
+                "number": 12,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Does [[Franky]] check \"I'm not a robot\"? P.N. Takataka",
+                        "matches": [
+                            [
+                                5,
+                                15,
+                                "Franky"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "No, he is a cyborg, so he's not a robot...huh?\n\n[[File:SBS100 Drawing.png|thumb|200px]]",
+                        "matches": [
+                            [
+                                48,
+                                87,
+                                "File:SBS100 Drawing.png|thumb|200px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS100 Drawing.png",
+                        "size": "200",
+                        "start": 48,
+                        "end": 87
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Franky",
+                        "link_title": "/wiki/Franky",
+                        "is_wikipedia": false,
+                        "start": 5,
+                        "end": 15
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "franky"
+                    ],
+                    "topics": [
+                        "cyborg"
+                    ],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda confirms Franky, a cyborg, doesn't need to confirm 'I'm not a robot' because he isn't one."
+            },
+            {
+                "number": 13,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei! Please tell us about strengh and skill of CP ([[Cipher Pol]])! I think it should be from strongest [[CP0]], [[CP9]], CP8, CP7... to weakest. What do you say? Please tell me! There's nothing I can do about this guy, but please put him in the CPO!\u2192 P.N. The boy who fell in love with Wapol",
+                        "matches": [
+                            [
+                                58,
+                                72,
+                                "Cipher Pol"
+                            ],
+                            [
+                                111,
+                                118,
+                                "CP0"
+                            ],
+                            [
+                                120,
+                                127,
+                                "CP9"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Ignore Rokuo Gan-kun for the time being. Cipher Pol is basically a group of spies. This means that they are people who work in government's shadow. Citizens only know from CP1 to CP8. The higher the number, the more important the missions they are entrusted with, but legendary CP9 has the privilege of eliminating people who get in the way of the government, and is a group of assassins that should not exist. CP0 (Cipher Pol, Group 0) is different, they are directly under the command of the Heavenly Dragons, and because they receive direct orders from them, so they are the strongest.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Cipher Pol",
+                        "link_title": "/wiki/Cipher Pol",
+                        "is_wikipedia": false,
+                        "start": 58,
+                        "end": 72
+                    },
+                    {
+                        "text": "CP0",
+                        "link_title": "/wiki/CP0",
+                        "is_wikipedia": false,
+                        "start": 111,
+                        "end": 118
+                    },
+                    {
+                        "text": "CP9",
+                        "link_title": "/wiki/CP9",
+                        "is_wikipedia": false,
+                        "start": 120,
+                        "end": 127
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "odasensei",
+                        "rokuo gan-kun",
+                        "cp",
+                        "cp0",
+                        "cp9",
+                        "cp8",
+                        "cp7",
+                        "heavenly dragons"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "happy",
+                        "funny"
+                    ],
+                    "topics": [
+                        "cipher pol",
+                        "strength",
+                        "skills",
+                        "government",
+                        "assassins"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "CP0 is the strongest Cipher Pol group, directly under the Heavenly Dragons' command; CP9 are government assassins; other CPs have increasingly important missions based on their number."
+            }
+        ],
+        "page": "138",
+        "chapter_number": "1011",
+        "page_header": "Vol. 100 SBS Header 4.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 14,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei! I want to marry [[Charlotte Katakuri|Katakuri]]! P.N. Lactic acid bacteria lactic acid bacteria intestinal environment is super normal",
+                        "matches": [
+                            [
+                                28,
+                                59,
+                                "Charlotte Katakuri|Katakuri"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Your nickname is very long!!! Yes. I see... But Katakuri's height is 509 cm, will that suit you?\n\n[[File:SBS100 Roger and Oden.png|thumb|200px]]",
+                        "matches": [
+                            [
+                                98,
+                                144,
+                                "File:SBS100 Roger and Oden.png|thumb|200px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS100 Roger and Oden.png",
+                        "size": "200",
+                        "start": 98,
+                        "end": 144
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Katakuri",
+                        "link_title": "/wiki/Charlotte Katakuri",
+                        "is_wikipedia": false,
+                        "start": 28,
+                        "end": 59
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "moneky_d_luffy",
+                        "charlotte_katakuri"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "happy",
+                        "funny"
+                    ],
+                    "topics": [
+                        "marriage"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader wants to marry Katakuri, Oda notes Katakuri's height is 509 cm and asks if it's suitable. SBS100."
+            },
+            {
+                "number": 15,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I always play in kindergarten and use [[Oden Two Sword Style#Kozuki Oden|\"Tougen Shirataki\"]] and [[Ace (Sword)#Techniques|\"Kamusari\"]]. Will I get stronger? P.N. Taisei",
+                        "matches": [
+                            [
+                                38,
+                                93,
+                                "Oden Two Sword Style#Kozuki Oden|\"Tougen Shirataki\""
+                            ],
+                            [
+                                98,
+                                135,
+                                "Ace (Sword)#Techniques|\"Kamusari\""
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Wow!! Bump...... .................................Ha!! Take a minute! Take it easy Haki!?\n\n[[File:SBS100 Hassaikai.png|thumb|210px|Dialogue on the right: \"What are you doing? Going out! I won't go outside!\"<br /> Dialogue on the left: I will not go outside!]]",
+                        "matches": [
+                            [
+                                91,
+                                259,
+                                "File:SBS100 Hassaikai.png|thumb|210px|Dialogue on the right: \"What are you doing? Going out! I won't go outside!\"<br /> Dialogue on the left: I will not go outside!"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS100 Hassaikai.png",
+                        "size": "210",
+                        "start": 91,
+                        "end": 259
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "\"Tougen Shirataki\"",
+                        "link_title": "/wiki/Oden Two Sword Style#Kozuki Oden",
+                        "is_wikipedia": false,
+                        "start": 38,
+                        "end": 93
+                    },
+                    {
+                        "text": "\"Kamusari\"",
+                        "link_title": "/wiki/Ace (Sword)#Techniques",
+                        "is_wikipedia": false,
+                        "start": 98,
+                        "end": 135
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "kozuki oden",
+                        "ace"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "amused",
+                        "excited"
+                    ],
+                    "topics": [
+                        "oden two sword style",
+                        "ace's sword",
+                        "haki"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader asks if using 'Tougen Shirataki' and 'Kamusari' fighting styles will make them stronger, Oda comically responds that they should take it easy with Haki."
+            },
+            {
+                "number": 16,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchi, heso! I have a question! Does [[Kaidou]]'s kanabo have a name!? Also, how cool would that kanabo be if it was anthropomorphized!? P.N. Takase",
+                        "matches": [
+                            [
+                                39,
+                                49,
+                                "Kaidou"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Kita. Good question! Let's see~. What goes first? Oh, kanabo is called \u201c[[Hassaikai]]\u201d (A reference to the Eight Commanders of Buddhism). It unranked, but if Kaido dropped her, she'd would be considered a legend. Well, let's go with anthropomorphism!! I think Kaido is much scarier...!!",
+                        "matches": [
+                            [
+                                72,
+                                85,
+                                "Hassaikai"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Kaidou",
+                        "link_title": "/wiki/Kaidou",
+                        "is_wikipedia": false,
+                        "start": 39,
+                        "end": 49
+                    },
+                    {
+                        "text": "Hassaikai",
+                        "link_title": "/wiki/Hassaikai",
+                        "is_wikipedia": false,
+                        "start": 72,
+                        "end": 85
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "kaidou"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "happy",
+                        "funny"
+                    ],
+                    "topics": [
+                        "kaido's_kanabo",
+                        "devil_fruit"
+                    ],
+                    "importance": [
+                        "high"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader asks if Kaidou's kanabo has a name, Odacchi reveals it's called 'Hassaikai'. They also imagine it anthropomorphized, but Odacchi finds Kaidou scarier."
+            }
+        ],
+        "page": "154",
+        "chapter_number": "1012",
+        "page_header": "Vol. 100 SBS Header 5.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 17,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello! I like history and I found not only the Edo period, but also the recent Heian and Taisho periods. Which era would you like to go to? P.N. Amagiri Momoka",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Is it a good pattern to go to the past. You can see samurai!? Oiran too!? I love period dramas!!?? Yes. Buf, if I get cavities there I don't need anesthesia. It is very painful to go to the dentist. If you really want to travel, you better go to the future! Laugh",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "happy",
+                        "excited"
+                    ],
+                    "topics": [
+                        "time_travel",
+                        "Edo_period",
+                        "Heian_period",
+                        "Taisho_period",
+                        "samurai",
+                        "oiran",
+                        "dental_health"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda would prefer traveling to the future over historical periods, to avoid dental pain from potential cavities."
+            },
+            {
+                "number": 18,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Please draw Robin at 40 and 60 age! P.N. Lifetime costume",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Eh, should I?\n[[File:SBS100 Robin.png|thumb|center|400px]]\nFuture:\n*Age 40: Must be good, be young.\u2661\n*Age 60: Will you join me to go investigate something?\n\nFuture where something happens:\n*Age 40: My books? I threw them all away.\n*Age 60: That boy... How much would you give me for him?",
+                        "matches": [
+                            [
+                                14,
+                                58,
+                                "File:SBS100 Robin.png|thumb|center|400px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS100 Robin.png",
+                        "size": "400",
+                        "start": 14,
+                        "end": 58
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        " Robin "
+                    ],
+                    "places": [],
+                    "emotions": [
+                        " happy ",
+                        " funny "
+                    ],
+                    "topics": [
+                        " future ",
+                        " appearance "
+                    ],
+                    "importance": [
+                        " normal "
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader asked Oda to draw Robin at ages 40 and 60. Oda agrees to draw her at those ages, with different outcomes depending on if 'something happens' in the future."
+            }
+        ],
+        "page": "172",
+        "chapter_number": "1013",
+        "page_header": "Vol. 100 SBS Header 6.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 19,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I've been reading since [[Volume 1|volume 1]], but when you draw your penis Odacchi? P.N. Different dimension pork belly",
+                        "matches": [
+                            [
+                                24,
+                                45,
+                                "Volume 1|volume 1"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "<big>I WILL NEVER BE DRAWN IT!!</big>\n\n[[File:SBS100 Maria.png|thumb|200px]]",
+                        "matches": [
+                            [
+                                39,
+                                76,
+                                "File:SBS100 Maria.png|thumb|200px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS100 Maria.png",
+                        "size": "200",
+                        "start": 39,
+                        "end": 76
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "volume 1",
+                        "link_title": "/wiki/Volume 1",
+                        "is_wikipedia": false,
+                        "start": 24,
+                        "end": 45
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [],
+                    "importance": [
+                        "low"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader asks when Oda has drawn his penis, Oda responds he never will."
+            },
+            {
+                "number": 20,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Doesn't [[Black Maria]]'s ability is similar to [[SMILE]]s?? P.N. Ebi",
+                        "matches": [
+                            [
+                                8,
+                                23,
+                                "Black Maria"
+                            ],
+                            [
+                                48,
+                                57,
+                                "SMILE"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I see! Of course, if it's an hybrid form up until now, it shouldn't have two faces, and it's supposed to have spider hands. But in fact, he doesn't have a completely fixed type. You can change the transformation point with a relatively small amount of operation, just like Chopper can control the transformation.\n\n[[File:SBS 100 Black Maria.png|thumb|left|200px]]\n\u2190I think Black Maria couldn't afford turning completely into a spider because isn't pretty, so she must have used some drug and such to change her hybrid form.{{-}}\n\n[[File:SBS100 Jinbe's Jolly Roger.png|thumb|150px]]",
+                        "matches": [
+                            [
+                                314,
+                                363,
+                                "File:SBS 100 Black Maria.png|thumb|left|200px"
+                            ],
+                            [
+                                530,
+                                581,
+                                "File:SBS100 Jinbe's Jolly Roger.png|thumb|150px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS 100 Black Maria.png",
+                        "size": "200",
+                        "start": 314,
+                        "end": 363
+                    },
+                    {
+                        "file": "SBS100 Jinbe's Jolly Roger.png",
+                        "size": "150",
+                        "start": 530,
+                        "end": 581
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Black Maria",
+                        "link_title": "/wiki/Black Maria",
+                        "is_wikipedia": false,
+                        "start": 8,
+                        "end": 23
+                    },
+                    {
+                        "text": "SMILE",
+                        "link_title": "/wiki/SMILE",
+                        "is_wikipedia": false,
+                        "start": 48,
+                        "end": 57
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "black Maria"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "smile",
+                        "devil fruit",
+                        "character transformations"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda explains Black Maria's ability is like SMILEs, but she can change transformation points, similar to Chopper's control. He suspects she uses drugs for her hybrid form."
+            },
+            {
+                "number": 21,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I've waited 10 years for Jinbe to join the Straw Hat Pirates. I'm a Jinbe's fan, so I made this symbol myself. Please make this symbol Jinbe's symbol! from Joshua.H\n\n[[File:Jinbe's Jolly Roger.png|thumb|150px]]",
+                        "matches": [
+                            [
+                                166,
+                                210,
+                                "File:Jinbe's Jolly Roger.png|thumb|150px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Whoa!! It's really cool!! I really want to use it as it is!! But flags have to follow a pattern, so let me change it up a bit\u2192  can i arrange it? Joshua invented the symbol and I made it official!!\n\nThat's it! This concludes SBS Volume 100! We are still looking for questions for Jinbe's voice actor, <big>KATSUHISA H\u014cKI</big>-san! Enjoy the ads at the end of this volume!! See you in the next volume~~!!{{-}}",
+                        "matches": []
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "Jinbe's Jolly Roger.png",
+                        "size": "150",
+                        "start": 166,
+                        "end": 210
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "Jinbe",
+                        "Eiichiro Oda",
+                        "Joshua.H",
+                        "Katsuhisa Hoki"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "happy",
+                        "excited"
+                    ],
+                    "topics": [
+                        "jolly_roger",
+                        "fan_art"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Jinbe's fan designed a symbol for him, Oda likes it and makes it official after modifying it slightly for pattern reasons."
+            }
+        ],
+        "page": "190",
+        "chapter_number": "1014",
+        "page_header": "Vol. 100 SBS Header 7.png"
+    }
+]

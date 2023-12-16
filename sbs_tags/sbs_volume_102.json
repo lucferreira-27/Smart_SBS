@@ -1,0 +1,1751 @@
+[
+    {
+        "qa": [
+            {
+                "number": 1,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Enough already! Everyone! Let's let Odacchi say \"Start the SBS\" every once in a while! Go on, Odacchi! (0.1 seconds later) Alright, now <big>THE SBS HAS STARTED!!</big> P.N. Yato Sumitaro",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "<big>S...!! IT ALREADY STARTED!! 0.1 SECONDS ISN'T ENOUGH TIME!!</big>\n\n[[File:SBS102 Shiawase Punch.png|thumb|200px]]",
+                        "matches": [
+                            [
+                                72,
+                                118,
+                                "File:SBS102 Shiawase Punch.png|thumb|200px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS102 Shiawase Punch.png",
+                        "size": "200",
+                        "start": 72,
+                        "end": 118
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "happy",
+                        "funny"
+                    ],
+                    "topics": [],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda complains that he wasn't given enough time to say 'The SBS has started', which was prompted by a reader's request."
+            },
+            {
+                "number": 2,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "<big>I WANT A [[Nami/Abilities and Powers#Other Techniques|SHIAWASE PUNCH]] FIGURINE.</big> P.N. Captain Nobuo",
+                        "matches": [
+                            [
+                                14,
+                                75,
+                                "Nami/Abilities and Powers#Other Techniques|SHIAWASE PUNCH"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "<big>YOU'RE VERY LOUD!!</big> What the hell is this, right from the start!? Figurines can be spun around 360 degrees, so that idea is out!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "SHIAWASE PUNCH",
+                        "link_title": "/wiki/Nami/Abilities and Powers#Other Techniques",
+                        "is_wikipedia": false,
+                        "start": 14,
+                        "end": 75
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "nami"
+                    ],
+                    "topics": [
+                        "figurine",
+                        "abilities and powers"
+                    ],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader requests a figurine of Nami's Shiawase Punch, Oda declines due to 360 degree spinning restrictions."
+            },
+            {
+                "number": 3,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "If [[Monkey D. Luffy|Luffy]], [[Eustass Kid|Kid]], and [[Trafalgar D. Water Law|Law]] played a game of rock-paper-scissors, who would win? Would it be Luffy because he can see the future? P.N. Taisei (6-Year-Old Senior)",
+                        "matches": [
+                            [
+                                3,
+                                28,
+                                "Monkey D. Luffy|Luffy"
+                            ],
+                            [
+                                30,
+                                49,
+                                "Eustass Kid|Kid"
+                            ],
+                            [
+                                55,
+                                85,
+                                "Trafalgar D. Water Law|Law"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Okay! This is a great question! It's true that Luffy can see the future and could do that to win! But Luffy hates cheating, so I don't think he'd look into the future. The three of them don't get along very well with each other, I think they'd end up fighting no matter who wins!\n\n[[File:SBS102 Enel Jolly Roger.png|thumb|100px]]",
+                        "matches": [
+                            [
+                                281,
+                                329,
+                                "File:SBS102 Enel Jolly Roger.png|thumb|100px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS102 Enel Jolly Roger.png",
+                        "size": "100",
+                        "start": 281,
+                        "end": 329
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Luffy",
+                        "link_title": "/wiki/Monkey D. Luffy",
+                        "is_wikipedia": false,
+                        "start": 3,
+                        "end": 28
+                    },
+                    {
+                        "text": "Kid",
+                        "link_title": "/wiki/Eustass Kid",
+                        "is_wikipedia": false,
+                        "start": 30,
+                        "end": 49
+                    },
+                    {
+                        "text": "Law",
+                        "link_title": "/wiki/Trafalgar D. Water Law",
+                        "is_wikipedia": false,
+                        "start": 55,
+                        "end": 85
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy",
+                        "eustass_kid",
+                        "trafalgar_d_water_law",
+                        "enel"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "happy",
+                        "funny"
+                    ],
+                    "topics": [
+                        "game_rock_paper_scissors",
+                        "devil_fruit"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda believes Luffy, Kid, and Law would end up fighting in a rock-paper-scissors game due to their poor relations, even if Luffy could use his Future Sight to win, but he hates cheating so wouldn't."
+            },
+            {
+                "number": 4,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Heso, Oda-sensei! If [[Enel]] were to actually become a pirate in the [[Blue Sea]], I wonder what kind of [[Jolly Roger|Pirate Flag]] he would fly?? I'm very curious. Something like this? \u2192 P.N. Shiba",
+                        "matches": [
+                            [
+                                21,
+                                29,
+                                "Enel"
+                            ],
+                            [
+                                70,
+                                82,
+                                "Blue Sea"
+                            ],
+                            [
+                                106,
+                                133,
+                                "Jolly Roger|Pirate Flag"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Ah, that's good.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Pirate Flag",
+                        "link_title": "/wiki/Jolly Roger",
+                        "is_wikipedia": false,
+                        "start": 106,
+                        "end": 133
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Enel",
+                        "link_title": "/wiki/Enel",
+                        "is_wikipedia": false,
+                        "start": 21,
+                        "end": 29
+                    },
+                    {
+                        "text": "Blue Sea",
+                        "link_title": "/wiki/Blue Sea",
+                        "is_wikipedia": false,
+                        "start": 70,
+                        "end": 82
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "enel"
+                    ],
+                    "places": [
+                        "blue sea"
+                    ],
+                    "topics": [
+                        "pirate flag",
+                        "jolly roger"
+                    ],
+                    "emotions": [
+                        "curious"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader asks about Enel's pirate flag if he joined the Blue Sea, Oda approves the question."
+            }
+        ],
+        "page": "24",
+        "chapter_number": "1026",
+        "page_header": "Vol. 102 SBS Header 1.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 5,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I got so excited by the powerful scene where [[Kozuki Momonosuke|Momonosuke]] and [[Kaidou]] became dragons and squared off against each other!!! I wonder if this scene was modeled after the Twin Dragons painting at Kennin-ji Temple, which Odacchi had previously visited for an interview!? P.N. Tsubocchi",
+                        "matches": [
+                            [
+                                45,
+                                77,
+                                "Kozuki Momonosuke|Momonosuke"
+                            ],
+                            [
+                                82,
+                                92,
+                                "Kaidou"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "That's right. I went to Kyoto before entering [[Wano Country]]. I saw it in person, there were two huge dragons on the ceiling, the painting was very impactful. I thought to myself: \"I definitely have to draw this\".\n\n[[File:SBS102 Franky Airbag 2.png|thumb|250x250px|\"Puts strain on the heels.\"]]",
+                        "matches": [
+                            [
+                                46,
+                                62,
+                                "Wano Country"
+                            ],
+                            [
+                                217,
+                                296,
+                                "File:SBS102 Franky Airbag 2.png|thumb|250x250px|\"Puts strain on the heels.\""
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS102 Franky Airbag 2.png",
+                        "size": "250x250",
+                        "start": 217,
+                        "end": 296
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Momonosuke",
+                        "link_title": "/wiki/Kozuki Momonosuke",
+                        "is_wikipedia": false,
+                        "start": 45,
+                        "end": 77
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Kaidou",
+                        "link_title": "/wiki/Kaidou",
+                        "is_wikipedia": false,
+                        "start": 82,
+                        "end": 92
+                    },
+                    {
+                        "text": "Wano Country",
+                        "link_title": "/wiki/Wano Country",
+                        "is_wikipedia": false,
+                        "start": 46,
+                        "end": 62
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "Kozuki Momonosuke",
+                        "Kaidou"
+                    ],
+                    "places": [
+                        "Wano Country"
+                    ],
+                    "topics": [
+                        "kaido's backstory",
+                        "dragon transformation"
+                    ],
+                    "emotions": [
+                        "excited"
+                    ],
+                    "importance": "high",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda visited Kennin-ji Temple in Kyoto and was inspired by the Twin Dragons painting, which he included in the Kozuki Momonosuke and Kaidou scene; Oda also comments on Franky's airbag, stating it puts strain on the heels."
+            },
+            {
+                "number": 6,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "How does [[Franky]] sleep? P.N. Born on New Year's Day\n\n[[File:SBS102 Franky Airbag.png|thumb|300px]]",
+                        "matches": [
+                            [
+                                9,
+                                19,
+                                "Franky"
+                            ],
+                            [
+                                56,
+                                101,
+                                "File:SBS102 Franky Airbag.png|thumb|300px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Here's a clear illustration, haha. This is totally fine. Franky can produce a cushion called the \"Franky Airbag\" from around the back of his head and waist, so he can sleep comfortably in any location.\n\n[[File:SBS102 Franky.png|thumb|200px]]",
+                        "matches": [
+                            [
+                                203,
+                                241,
+                                "File:SBS102 Franky.png|thumb|200px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS102 Franky Airbag.png",
+                        "size": "300",
+                        "start": 56,
+                        "end": 101
+                    },
+                    {
+                        "file": "SBS102 Franky.png",
+                        "size": "200",
+                        "start": 203,
+                        "end": 241
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Franky",
+                        "link_title": "/wiki/Franky",
+                        "is_wikipedia": false,
+                        "start": 9,
+                        "end": 19
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "franky"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "happy",
+                        "funny"
+                    ],
+                    "topics": [
+                        "franky's_airbag"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Franky can sleep anywhere using his 'Franky Airbag' which inflates from his waist and head, according to Oda's illustration."
+            },
+            {
+                "number": 7,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Are the lines on Franky's arms hair? P.N. Takataka",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "It's hair.\n\n[[File:SBS102 Zoro vs. Kaidou.png|thumb|200px]]",
+                        "matches": [
+                            [
+                                12,
+                                59,
+                                "File:SBS102 Zoro vs. Kaidou.png|thumb|200px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS102 Zoro vs. Kaidou.png",
+                        "size": "200",
+                        "start": 12,
+                        "end": 59
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "franky"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "franky's_appearance"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Franky's arm lines are hair, per Oda's SBS response to Takataka."
+            },
+            {
+                "number": 8,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Is the [[Three Sword Style/Nine Sword Style#After the Timeskip|Nine Sword Style: Ashura Bakkei: Moja no Tawamure]] technique used by [[Roronoa Zoro|Zoro]] in [[Chapter 1010]] named after the rakugo story \"''[[Wikipedia:ja:\u5730\u7344\u516b\u666f\u4ea1\u8005\u622f|Jigoku Bakkei: Moja no Tawamure]]''\"? P.N. Khema",
+                        "matches": [
+                            [
+                                7,
+                                114,
+                                "Three Sword Style/Nine Sword Style#After the Timeskip|Nine Sword Style: Ashura Bakkei: Moja no Tawamure"
+                            ],
+                            [
+                                133,
+                                154,
+                                "Roronoa Zoro|Zoro"
+                            ],
+                            [
+                                158,
+                                174,
+                                "Chapter 1010"
+                            ],
+                            [
+                                207,
+                                263,
+                                "Wikipedia:ja:\u5730\u7344\u516b\u666f\u4ea1\u8005\u622f|Jigoku Bakkei: Moja no Tawamure"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "That's right! It's a well-known rakugo story. I know, I know, none of you listen to rakugo! But isn't the title cool!? The performance was the specialty of Master Beicho Katsura and the story is like a sightseeing tour through hell, it's enthralling.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Nine Sword Style: Ashura Bakkei: Moja no Tawamure",
+                        "link_title": "/wiki/Three Sword Style/Nine Sword Style#After the Timeskip",
+                        "is_wikipedia": false,
+                        "start": 7,
+                        "end": 114
+                    },
+                    {
+                        "text": "Zoro",
+                        "link_title": "/wiki/Roronoa Zoro",
+                        "is_wikipedia": false,
+                        "start": 133,
+                        "end": 154
+                    },
+                    {
+                        "text": "Jigoku Bakkei: Moja no Tawamure",
+                        "link_title": "/wiki/Wikipedia:ja:\u5730\u7344\u516b\u666f\u4ea1\u8005\u622f",
+                        "is_wikipedia": false,
+                        "start": 207,
+                        "end": 263
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Chapter 1010",
+                        "link_title": "/wiki/Chapter 1010",
+                        "is_wikipedia": false,
+                        "start": 158,
+                        "end": 174
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "roronoa_zoro"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "happy",
+                        "funny"
+                    ],
+                    "topics": [
+                        "nine_sword_style",
+                        "rakugo_story"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda confirms Zoro's 'Nine Sword Style: Ashura Bakkei: Moja no Tawamure' technique in Chapter 1010 is named after the rakugo story 'Jigoku Bakkei: Moja no Tawamure'."
+            }
+        ],
+        "page": "60",
+        "chapter_number": "1028",
+        "page_header": "Vol. 102 SBS Header 2.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 9,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Heso, Oda-sensei! I've always had a nose that grows longer every time I tell a lie, but nowhere near as long as my beloved [[Usopp]]'s! Therefore, please tell me <big>THE TOP 5 BEST LONG NOSES and THE LENGTH OF USOPP'S NOSE!!</big> P.N. Toy Bakery",
+                        "matches": [
+                            [
+                                123,
+                                132,
+                                "Usopp"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I see. You've named a lot of different long-nosed characters, but I'm gonna leave out [[Kozuki Sukiyaki|Tenguyama Hitetsu]] and the [[Giants]]:\n\n[[File:SBS102 Long-Nosed Characters.png|center|thumb|400px|<span style=\"font-size:0.95em;\">Usopp, [[Banchina]], [[Kaku]], [[Arlong]], [[Mozu and Kiwi|Kiwi, Mozu]], [[Catarina Devon]], [[Vasco Shot]], [[Foxy]], [[Charlotte Mont-d'Or|Mont-d'Or]], [[Charlotte Perospero|Perospero]]</span>]]\n\nWell then, starting from fifth place! It's Kaku! Next, fourth place is Usopp!! Aw, how unfortunate. As you'd expect, Usopp is no match for the competitors with height differences and huge faces! By the way, Usopp's nose is 13 cm. Now, third place is Catarina Devon! Second place is Arlong! And finally, the long-nosed champion is~! Vasco Shot!! The world is vast. I wonder if someone will appear and break this record!?\n\n[[File:SBS102 Nami.png|thumb|200px]]",
+                        "matches": [
+                            [
+                                86,
+                                123,
+                                "Kozuki Sukiyaki|Tenguyama Hitetsu"
+                            ],
+                            [
+                                132,
+                                142,
+                                "Giants"
+                            ],
+                            [
+                                145,
+                                255,
+                                "File:SBS102 Long-Nosed Characters.png|center|thumb|400px|<span style=\"font-size:0.95em;\">Usopp, [[Banchina"
+                            ],
+                            [
+                                257,
+                                265,
+                                "Kaku"
+                            ],
+                            [
+                                267,
+                                277,
+                                "Arlong"
+                            ],
+                            [
+                                279,
+                                307,
+                                "Mozu and Kiwi|Kiwi, Mozu"
+                            ],
+                            [
+                                309,
+                                327,
+                                "Catarina Devon"
+                            ],
+                            [
+                                329,
+                                343,
+                                "Vasco Shot"
+                            ],
+                            [
+                                345,
+                                353,
+                                "Foxy"
+                            ],
+                            [
+                                355,
+                                388,
+                                "Charlotte Mont-d'Or|Mont-d'Or"
+                            ],
+                            [
+                                390,
+                                423,
+                                "Charlotte Perospero|Perospero"
+                            ],
+                            [
+                                855,
+                                891,
+                                "File:SBS102 Nami.png|thumb|200px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS102 Long-Nosed Characters.png",
+                        "size": "400",
+                        "start": 145,
+                        "end": 255
+                    },
+                    {
+                        "file": "SBS102 Nami.png",
+                        "size": "200",
+                        "start": 855,
+                        "end": 891
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Tenguyama Hitetsu",
+                        "link_title": "/wiki/Kozuki Sukiyaki",
+                        "is_wikipedia": false,
+                        "start": 86,
+                        "end": 123
+                    },
+                    {
+                        "text": "Kiwi, Mozu",
+                        "link_title": "/wiki/Mozu and Kiwi",
+                        "is_wikipedia": false,
+                        "start": 279,
+                        "end": 307
+                    },
+                    {
+                        "text": "Mont-d'Or",
+                        "link_title": "/wiki/Charlotte Mont-d'Or",
+                        "is_wikipedia": false,
+                        "start": 355,
+                        "end": 388
+                    },
+                    {
+                        "text": "Perospero",
+                        "link_title": "/wiki/Charlotte Perospero",
+                        "is_wikipedia": false,
+                        "start": 390,
+                        "end": 423
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Usopp",
+                        "link_title": "/wiki/Usopp",
+                        "is_wikipedia": false,
+                        "start": 123,
+                        "end": 132
+                    },
+                    {
+                        "text": "Giants",
+                        "link_title": "/wiki/Giants",
+                        "is_wikipedia": false,
+                        "start": 132,
+                        "end": 142
+                    },
+                    {
+                        "text": "Kaku",
+                        "link_title": "/wiki/Kaku",
+                        "is_wikipedia": false,
+                        "start": 257,
+                        "end": 265
+                    },
+                    {
+                        "text": "Arlong",
+                        "link_title": "/wiki/Arlong",
+                        "is_wikipedia": false,
+                        "start": 267,
+                        "end": 277
+                    },
+                    {
+                        "text": "Catarina Devon",
+                        "link_title": "/wiki/Catarina Devon",
+                        "is_wikipedia": false,
+                        "start": 309,
+                        "end": 327
+                    },
+                    {
+                        "text": "Vasco Shot",
+                        "link_title": "/wiki/Vasco Shot",
+                        "is_wikipedia": false,
+                        "start": 329,
+                        "end": 343
+                    },
+                    {
+                        "text": "Foxy",
+                        "link_title": "/wiki/Foxy",
+                        "is_wikipedia": false,
+                        "start": 345,
+                        "end": 353
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "usopp",
+                        "kaku",
+                        "banchina",
+                        "arlong",
+                        "mozu_and_kiwi",
+                        "catarina_devon",
+                        "vasco_shot",
+                        "foxy",
+                        "charlotte_mont_d_or",
+                        "charlotte_perospero",
+                        "kozuki_sukiyaki",
+                        "tenguyama_hitetsu",
+                        "nami"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "happy",
+                        "funny"
+                    ],
+                    "topics": [
+                        "devil_fruit",
+                        "one_piece_characters"
+                    ],
+                    "importance": [
+                        "high"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda lists top 5 longest noses in One Piece: Kaku (5th), Usopp (4th) whose nose is 13 cm, Catarina Devon (3rd), Arlong (2nd), Vasco Shot (1st)."
+            },
+            {
+                "number": 10,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I want to become [[Nami|O-Nami]]'s retainer, so can I have the big kibi dango that O-Nami has dangling from her chest? P.N. Sanadacchi",
+                        "matches": [
+                            [
+                                17,
+                                32,
+                                "Nami|O-Nami"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Hey, this is Sanada-kun, isn't it? Oh, you just want some kibi dango, huh? O-Nami's... From her chest... <big>GET OUT OF HERE!!!</big>",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "O-Nami",
+                        "link_title": "/wiki/Nami",
+                        "is_wikipedia": false,
+                        "start": 17,
+                        "end": 32
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy",
+                        "nami",
+                        "sanadacchi"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny",
+                        "amused"
+                    ],
+                    "topics": [
+                        "devil_fruit"
+                    ],
+                    "importance": [
+                        "high"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A fan asked Oda if they could have the kibi dango from Nami's chest, Oda replied to stay away from there."
+            }
+        ],
+        "page": "78",
+        "chapter_number": "1029",
+        "page_header": "Vol. 102 SBS Header 3.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 11,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Please personify Usopp's weapon, [[Kuro Kabuto]], and his clasped satchel. P.N. New Sogeking",
+                        "matches": [
+                            [
+                                33,
+                                48,
+                                "Kuro Kabuto"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Sure, no problem.\n\n[[File:SBS102 Black & Gummer.png|center|400px]]",
+                        "matches": [
+                            [
+                                19,
+                                66,
+                                "File:SBS102 Black & Gummer.png|center|400px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS102 Black & Gummer.png",
+                        "size": "400",
+                        "start": 19,
+                        "end": 66
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Kuro Kabuto",
+                        "link_title": "/wiki/Kuro Kabuto",
+                        "is_wikipedia": false,
+                        "start": 33,
+                        "end": 48
+                    }
+                ],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [],
+                    "importance": [
+                        "low"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda personifies Usopp's weapon Kuro Kabuto as a serious, formal butler; his clasped satchel as a shy, loyal dog."
+            },
+            {
+                "number": 12,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello, Odacchi! I've been wondering for a long time now, when and where did Luffy first learn the term \"Pirate King\"? P.N. Masazou\n\n[[File:SBS102 Roger, Shanks and Garp.png|thumb|200px]]",
+                        "matches": [
+                            [
+                                132,
+                                186,
+                                "File:SBS102 Roger, Shanks and Garp.png|thumb|200px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "He learned about it from [[Shanks]]' stories. Of course, Shanks didn't tell him that he used to be on the [[Gol D. Roger|Pirate King]]'s ship. Before meeting Shanks, [[Monkey D. Garp|Garp]] had told him to become a [[Marines|Marine]], but since he wanted to be able to adventure freely, Luffy was already somewhat resistant to the idea.\n\n[[File:SBS102 Heart Pirates.png|thumb|200px]]",
+                        "matches": [
+                            [
+                                25,
+                                35,
+                                "Shanks"
+                            ],
+                            [
+                                106,
+                                134,
+                                "Gol D. Roger|Pirate King"
+                            ],
+                            [
+                                166,
+                                189,
+                                "Monkey D. Garp|Garp"
+                            ],
+                            [
+                                215,
+                                233,
+                                "Marines|Marine"
+                            ],
+                            [
+                                338,
+                                383,
+                                "File:SBS102 Heart Pirates.png|thumb|200px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS102 Roger, Shanks and Garp.png",
+                        "size": "200",
+                        "start": 132,
+                        "end": 186
+                    },
+                    {
+                        "file": "SBS102 Heart Pirates.png",
+                        "size": "200",
+                        "start": 338,
+                        "end": 383
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Pirate King",
+                        "link_title": "/wiki/Gol D. Roger",
+                        "is_wikipedia": false,
+                        "start": 106,
+                        "end": 134
+                    },
+                    {
+                        "text": "Garp",
+                        "link_title": "/wiki/Monkey D. Garp",
+                        "is_wikipedia": false,
+                        "start": 166,
+                        "end": 189
+                    },
+                    {
+                        "text": "Marine",
+                        "link_title": "/wiki/Marines",
+                        "is_wikipedia": false,
+                        "start": 215,
+                        "end": 233
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Shanks",
+                        "link_title": "/wiki/Shanks",
+                        "is_wikipedia": false,
+                        "start": 25,
+                        "end": 35
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy",
+                        "shanks",
+                        "gol_d_roger",
+                        "monkey_d_gp",
+                        "heart_pirates"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "happy"
+                    ],
+                    "topics": [
+                        "pirate_king",
+                        "shanks_stories",
+                        "marines"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Luffy learned Pirate King from Shanks' stories, Garp wanted him to be a Marine. Shanks didn't mention being on Pirate King's ship."
+            },
+            {
+                "number": 13,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello, Odacchi! Looking at the [[Cover Page|cover page]] of [[Chapter 1031]], it seems like [[Bepo]] is the No. 2 of the [[Heart Pirates]], right!? I was surprised because I thought that [[Penguin]], [[Shachi]], and Bepo were all tied for No. 2! Are you saying that Bepo (with [[Sulong]]?) is the strongest between them? P.N. Pudding-ya",
+                        "matches": [
+                            [
+                                31,
+                                56,
+                                "Cover Page|cover page"
+                            ],
+                            [
+                                60,
+                                76,
+                                "Chapter 1031"
+                            ],
+                            [
+                                92,
+                                100,
+                                "Bepo"
+                            ],
+                            [
+                                121,
+                                138,
+                                "Heart Pirates"
+                            ],
+                            [
+                                187,
+                                198,
+                                "Penguin"
+                            ],
+                            [
+                                200,
+                                210,
+                                "Shachi"
+                            ],
+                            [
+                                277,
+                                287,
+                                "Sulong"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "That cover, huh? Similar to Zoro, not all of those characters have the title of [[First Mate|first mate]]. I selected the No. 2s as I saw fit. Usually, Shachi and Penguin are more dependable, but those two\u2014who have seen Bepo's Sulong form\u2014are no match for Bepo in terms of fighting power...! I acknowledge him.",
+                        "matches": [
+                            [
+                                80,
+                                105,
+                                "First Mate|first mate"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "cover page",
+                        "link_title": "/wiki/Cover Page",
+                        "is_wikipedia": false,
+                        "start": 31,
+                        "end": 56
+                    },
+                    {
+                        "text": "first mate",
+                        "link_title": "/wiki/First Mate",
+                        "is_wikipedia": false,
+                        "start": 80,
+                        "end": 105
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Chapter 1031",
+                        "link_title": "/wiki/Chapter 1031",
+                        "is_wikipedia": false,
+                        "start": 60,
+                        "end": 76
+                    },
+                    {
+                        "text": "Bepo",
+                        "link_title": "/wiki/Bepo",
+                        "is_wikipedia": false,
+                        "start": 92,
+                        "end": 100
+                    },
+                    {
+                        "text": "Heart Pirates",
+                        "link_title": "/wiki/Heart Pirates",
+                        "is_wikipedia": false,
+                        "start": 121,
+                        "end": 138
+                    },
+                    {
+                        "text": "Penguin",
+                        "link_title": "/wiki/Penguin",
+                        "is_wikipedia": false,
+                        "start": 187,
+                        "end": 198
+                    },
+                    {
+                        "text": "Shachi",
+                        "link_title": "/wiki/Shachi",
+                        "is_wikipedia": false,
+                        "start": 200,
+                        "end": 210
+                    },
+                    {
+                        "text": "Sulong",
+                        "link_title": "/wiki/Sulong",
+                        "is_wikipedia": false,
+                        "start": 277,
+                        "end": 287
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "bepo",
+                        "heart_pirates",
+                        "zoro",
+                        "penguin",
+                        "shachi"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "happy",
+                        "surprised"
+                    ],
+                    "topics": [
+                        "first_mate",
+                        "sulong"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda confirms Bepo is Heart Pirates' No. 2 on Cover Page 1031, clarifying it's not necessarily based on fighting strength; Shachi and Penguin typically more reliable, but they acknowledge Bepo's superior fighting power in Sulong form."
+            }
+        ],
+        "page": "116",
+        "chapter_number": "1031",
+        "page_header": "Vol. 102 SBS Header 4.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 14,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Kid and [[Killer]] are beyond cool! The other members of the [[Kid Pirates]] are drawn here and there, so could you please tell me their names? P.N. Koutarou",
+                        "matches": [
+                            [
+                                8,
+                                18,
+                                "Killer"
+                            ],
+                            [
+                                61,
+                                76,
+                                "Kid Pirates"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Sure. Uh, I'll show you the rough sketches, but not of all the members. The Kid Pirates has 31 people. You don't need to remember them! Haha.\n\n[[File:SBS102 Kid Pirates.png|thumb|center|480px]]\n\n(From left to right, top to bottom. Row One: [[Bubblegum]], [[Wire]], Eustass \"Captain\" Kid, Killer, [[Heat]], and [[Papas]]. Row Two: [[Hip]], [[Gig]], [[Dive]], [[Quincy]], [[Boogie]], and [[Emma]]. Row Three: [[Reck]], [[UK]], [[Jaguar]], [[House]], [[Pomp]], and [[Hop]]. Row Three: [[Mosh]], [[Disc J]], [[Moai]], and [[Compo]].",
+                        "matches": [
+                            [
+                                143,
+                                193,
+                                "File:SBS102 Kid Pirates.png|thumb|center|480px"
+                            ],
+                            [
+                                240,
+                                253,
+                                "Bubblegum"
+                            ],
+                            [
+                                255,
+                                263,
+                                "Wire"
+                            ],
+                            [
+                                296,
+                                304,
+                                "Heat"
+                            ],
+                            [
+                                310,
+                                319,
+                                "Papas"
+                            ],
+                            [
+                                330,
+                                337,
+                                "Hip"
+                            ],
+                            [
+                                339,
+                                346,
+                                "Gig"
+                            ],
+                            [
+                                348,
+                                356,
+                                "Dive"
+                            ],
+                            [
+                                358,
+                                368,
+                                "Quincy"
+                            ],
+                            [
+                                370,
+                                380,
+                                "Boogie"
+                            ],
+                            [
+                                386,
+                                394,
+                                "Emma"
+                            ],
+                            [
+                                407,
+                                415,
+                                "Reck"
+                            ],
+                            [
+                                417,
+                                423,
+                                "UK"
+                            ],
+                            [
+                                425,
+                                435,
+                                "Jaguar"
+                            ],
+                            [
+                                437,
+                                446,
+                                "House"
+                            ],
+                            [
+                                448,
+                                456,
+                                "Pomp"
+                            ],
+                            [
+                                462,
+                                469,
+                                "Hop"
+                            ],
+                            [
+                                482,
+                                490,
+                                "Mosh"
+                            ],
+                            [
+                                492,
+                                502,
+                                "Disc J"
+                            ],
+                            [
+                                504,
+                                512,
+                                "Moai"
+                            ],
+                            [
+                                518,
+                                527,
+                                "Compo"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS102 Kid Pirates.png",
+                        "size": "480",
+                        "start": 143,
+                        "end": 193
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Killer",
+                        "link_title": "/wiki/Killer",
+                        "is_wikipedia": false,
+                        "start": 8,
+                        "end": 18
+                    },
+                    {
+                        "text": "Kid Pirates",
+                        "link_title": "/wiki/Kid Pirates",
+                        "is_wikipedia": false,
+                        "start": 61,
+                        "end": 76
+                    },
+                    {
+                        "text": "Bubblegum",
+                        "link_title": "/wiki/Bubblegum",
+                        "is_wikipedia": false,
+                        "start": 240,
+                        "end": 253
+                    },
+                    {
+                        "text": "Wire",
+                        "link_title": "/wiki/Wire",
+                        "is_wikipedia": false,
+                        "start": 255,
+                        "end": 263
+                    },
+                    {
+                        "text": "Heat",
+                        "link_title": "/wiki/Heat",
+                        "is_wikipedia": false,
+                        "start": 296,
+                        "end": 304
+                    },
+                    {
+                        "text": "Papas",
+                        "link_title": "/wiki/Papas",
+                        "is_wikipedia": false,
+                        "start": 310,
+                        "end": 319
+                    },
+                    {
+                        "text": "Hip",
+                        "link_title": "/wiki/Hip",
+                        "is_wikipedia": false,
+                        "start": 330,
+                        "end": 337
+                    },
+                    {
+                        "text": "Gig",
+                        "link_title": "/wiki/Gig",
+                        "is_wikipedia": false,
+                        "start": 339,
+                        "end": 346
+                    },
+                    {
+                        "text": "Dive",
+                        "link_title": "/wiki/Dive",
+                        "is_wikipedia": false,
+                        "start": 348,
+                        "end": 356
+                    },
+                    {
+                        "text": "Quincy",
+                        "link_title": "/wiki/Quincy",
+                        "is_wikipedia": false,
+                        "start": 358,
+                        "end": 368
+                    },
+                    {
+                        "text": "Boogie",
+                        "link_title": "/wiki/Boogie",
+                        "is_wikipedia": false,
+                        "start": 370,
+                        "end": 380
+                    },
+                    {
+                        "text": "Emma",
+                        "link_title": "/wiki/Emma",
+                        "is_wikipedia": false,
+                        "start": 386,
+                        "end": 394
+                    },
+                    {
+                        "text": "Reck",
+                        "link_title": "/wiki/Reck",
+                        "is_wikipedia": false,
+                        "start": 407,
+                        "end": 415
+                    },
+                    {
+                        "text": "UK",
+                        "link_title": "/wiki/UK",
+                        "is_wikipedia": false,
+                        "start": 417,
+                        "end": 423
+                    },
+                    {
+                        "text": "Jaguar",
+                        "link_title": "/wiki/Jaguar",
+                        "is_wikipedia": false,
+                        "start": 425,
+                        "end": 435
+                    },
+                    {
+                        "text": "House",
+                        "link_title": "/wiki/House",
+                        "is_wikipedia": false,
+                        "start": 437,
+                        "end": 446
+                    },
+                    {
+                        "text": "Pomp",
+                        "link_title": "/wiki/Pomp",
+                        "is_wikipedia": false,
+                        "start": 448,
+                        "end": 456
+                    },
+                    {
+                        "text": "Hop",
+                        "link_title": "/wiki/Hop",
+                        "is_wikipedia": false,
+                        "start": 462,
+                        "end": 469
+                    },
+                    {
+                        "text": "Mosh",
+                        "link_title": "/wiki/Mosh",
+                        "is_wikipedia": false,
+                        "start": 482,
+                        "end": 490
+                    },
+                    {
+                        "text": "Disc J",
+                        "link_title": "/wiki/Disc J",
+                        "is_wikipedia": false,
+                        "start": 492,
+                        "end": 502
+                    },
+                    {
+                        "text": "Moai",
+                        "link_title": "/wiki/Moai",
+                        "is_wikipedia": false,
+                        "start": 504,
+                        "end": 512
+                    },
+                    {
+                        "text": "Compo",
+                        "link_title": "/wiki/Compo",
+                        "is_wikipedia": false,
+                        "start": 518,
+                        "end": 527
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "eustass_kid",
+                        "killer",
+                        "bubblegum",
+                        "wire",
+                        "heat",
+                        "papas",
+                        "hip",
+                        "gig",
+                        "dive",
+                        "quincy",
+                        "boogie",
+                        "emma",
+                        "reck",
+                        "uk",
+                        "jaguar",
+                        "house",
+                        "pomp",
+                        "hop",
+                        "mosh",
+                        "disc_j",
+                        "moai",
+                        "compo"
+                    ],
+                    "places": [],
+                    "topics": [
+                        "kid_pirates"
+                    ],
+                    "emotions": [
+                        "happy"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda reveals Kid Pirates has 31 members, including Kid, Killer, Bubblegum, Wire, Heat, Papas, Hip, Gig, Dive, Quincy, Boogie, Emma, Reck, UK, Jaguar, House, Pomp, Hop, Mosh, Disc J, Moai, and Compo."
+            }
+        ],
+        "page": "134",
+        "chapter_number": "1032",
+        "page_header": "Vol. 102 SBS Header 5.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 14,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "N/A",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Alright! Previously, I asked you guys a question about those stripes covering [[Nico Robin|Robin]]'s chest when she uses [[Hana Hana no Mi#Other Body Parts 2|Gigante Fleur]]! I received various answers! Here are some of them!!",
+                        "matches": [
+                            [
+                                78,
+                                98,
+                                "Nico Robin|Robin"
+                            ],
+                            [
+                                121,
+                                173,
+                                "Hana Hana no Mi#Other Body Parts 2|Gigante Fleur"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Robin",
+                        "link_title": "/wiki/Nico Robin",
+                        "is_wikipedia": false,
+                        "start": 78,
+                        "end": 98
+                    },
+                    {
+                        "text": "Gigante Fleur",
+                        "link_title": "/wiki/Hana Hana no Mi#Other Body Parts 2",
+                        "is_wikipedia": false,
+                        "start": 121,
+                        "end": 173
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy",
+                        "nico_robin"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "happy",
+                        "excited"
+                    ],
+                    "topics": [
+                        "hana_hana_no_mi",
+                        "gigante_fleur"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda reveals he previously asked readers about Robin's chest stripes in Gigante Fleur, shares various fan responses."
+            },
+            {
+                "number": 18,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "That was the only scar I was able to leave that one time I fought Robin and she beat me to a pulp. P.N. Tanigu Knows Reo",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I see!! Thank you so much for all those points of view! Now, which was chosen as the official answer!!? Dadudududu~dum!! Take it away, Robin-san!!\n\n[[File:SBS102 Robin.png|thumb|200px]]\nRobin: They're onions. \u2661 Fufufu...!",
+                        "matches": [
+                            [
+                                148,
+                                185,
+                                "File:SBS102 Robin.png|thumb|200px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "question",
+                        "text": "Vertical stripes to keep Robin from feeling naked and horizontally striped!! P.N. Tamaemon",
+                        "matches": []
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS102 Robin.png",
+                        "size": "200",
+                        "start": 148,
+                        "end": 185
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy",
+                        "robin"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "happy",
+                        "funny"
+                    ],
+                    "topics": [
+                        "devil_fruit"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader asked about a scar from fighting Robin, Oda thanked the reader for their observations and revealed Robin's official answer: the stripes are onions."
+            },
+            {
+                "number": 19,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Those are Demonio Lines. Like how veins pop out when people get angry. If she gets angrier than this, you'll get Demonio Fleur!! They're the warning lines. P.N. Kuriki Daichi",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "<big>A PERVERTED WOMAN APPEARED!!!</big> This SBS Corner is over! Damn it! I don't care how big Zoro's chest is! About 110? The SBS ends here!\n\nHowever, this volume has more SBS by [[Jinbe]]'s voice actor, H\u014dki-san! (On page 168.)",
+                        "matches": [
+                            [
+                                181,
+                                190,
+                                "Jinbe"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "question",
+                        "text": "They were never breasts to begin with, aren't they onions? \u2013 P.N. I'm Right, Ain't I?",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Oooh!! Little bit!! I'm singing!! No, introduce yourself! I know you have confidence in your throat!\n\nH: Oh yeah? Do you do that with me? Hmm~ the sea~\u266a",
+                        "matches": []
+                    },
+                    {
+                        "type": "question",
+                        "text": "Hello, Odacchi!! There's no end to the boob jokes in the SBS these days, is there? Are breasts the only thing men think about!? I'm fed up with reading this stuff. I was miserable when it became a booby-fest for an entire page in [[Volume 100]]. Are you nothing more than a pervert!!? But. Do you know...? The thing we ladies want to know... <big>REVEAL ZORO'S CHEST MEASUREMENT!!!</big> P.N. Roromiki",
+                        "matches": [
+                            [
+                                230,
+                                244,
+                                "Volume 100"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "It's terrible. No, really, thank you for waiting. Readers have been waiting too! Well then, it's already too much, so let's go! This is the corner of SBS. Do you know what \"SBS\" means?\n\nH: (S) SON'NANI (SO MUCH) (B) BOKU NO KOTO GA (ABOUT ME) (S) SUKINA NO KA (DO YOU LIKE IT)!?",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I like it but it's different~!! It's going to be blurry~. Already.\n\nH: (S) SSON'NANI (SO MUCH) (B) BOKU WA (I) (B) BOKETE NAI ZO!! (I'M NOT STUPID)!!",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I beat the blur!! It's \"SBB\"!! And~It's time. Please do it!! Yes, this is a postcard!! (thump)\n\nH: Alright, leave it to me!!\n\n''Mr. Katsuhisa H\u014dki's SBS continue to P186!!''",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Jinbe",
+                        "link_title": "/wiki/Jinbe",
+                        "is_wikipedia": false,
+                        "start": 181,
+                        "end": 190
+                    }
+                ],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "topics": [
+                        "perverted_joke",
+                        "sbs_corner"
+                    ],
+                    "emotions": [
+                        "humorous",
+                        "amused"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader asks about Boa Hancock's Demonio Lines, Oda ends the SBS. Jinbe's voice actor, H\u014dki-san, starts a new SBS. A reader complains about frequent breast jokes, requests Zoro's chest measurement. Oda teases the answer, H\u014dki helps. Oda reveals it's a postcard from H\u014dki."
+            },
+            {
+                "number": 33,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "N/A",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes! Thank you for your hard work, H\u014dki-san~ It's time!! Are you saying something useless like \"Poo Poo no Mi\"! I can't stand being fainted by farts... ugh!! Grass... Patter...!!!\n\nH: Ah. Odacchi!! Ikan has no pulse. Well then, everyone, disband!! Let's go home!",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Don't leave me alone!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "Oda",
+                        "Hoki-san"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "anxious",
+                        "funny"
+                    ],
+                    "topics": [
+                        "devil_fruit"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda starts the SBS, thanking readers for their support; a fan submits a fake devil fruit idea, Poo Poo no Mi, which Oda dislikes; another fan has their character, Ikan, die, causing Oda to plead not to be left alone."
+            }
+        ],
+        "page": "152",
+        "chapter_number": "1033",
+        "page_header": "Vol. 102 SBS Header 6.png"
+    }
+]

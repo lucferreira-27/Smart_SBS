@@ -1,0 +1,895 @@
+[
+    {
+        "qa": [
+            {
+                "number": 0,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "N/A",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "(Up arrow) EEEEH!? EEEH... EEEH... SBS STARTED.\n\n[[File:SBS83 pirates of heart 1.png|right|200px]]",
+                        "matches": [
+                            [
+                                49,
+                                98,
+                                "File:SBS83 pirates of heart 1.png|right|200px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS83 pirates of heart 1.png",
+                        "size": "200",
+                        "start": 49,
+                        "end": 98
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "surprised",
+                        "excited"
+                    ],
+                    "topics": [],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda starts the SBS session with his usual exclamation and a pirate-themed image."
+            },
+            {
+                "number": 1,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei, hello. It's about the introduction of the 20 crew members of the \"[[Heart Pirates]]\" who got a raw deal in chapter 815!! I thought there are only men in the crew, but there are women too? Right?? I'm surprised. P.N. Shirokuro Panda",
+                        "matches": [
+                            [
+                                78,
+                                95,
+                                "Heart Pirates"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "EEEEH!! That's quite a surprise! Everyone says, why do you want to know!! ... Well. Before, I drew the members who disagreed with forming an alliance with the [[Straw Hat Pirates]]. I will reintroduce the three members who were left out due to lack of space.\n{| style=\"margin:auto; width: 400px; align:center;\"\n|[[File:SBS83 Ikkaku 1.png]] [[Ikkaku]]\n|[[File:SBS83 Uni 1.png]] [[Uni]]\n|[[File:SBS83 Cilone 1.png]] [[Clione]]\n|}\nT/L notes:\n{| style=\"margin:auto; width: 400px; align:center;\"\n|''Narwhal: Narwhal is also a class of submarine''\n|''Sea urchin''\n|''A genus of small floating sea slugs/sea angels''\n|}\n\n[[File:SBS83 1 Sketch.png|thumb|left|300px]] ''\u2190 This scene. Maybe they weren't convinced\u00a0about\u00a0the alliance yet.''\n\n[[File:SBS83 Weevil 1.png|right|150px]]",
+                        "matches": [
+                            [
+                                159,
+                                180,
+                                "Straw Hat Pirates"
+                            ],
+                            [
+                                312,
+                                339,
+                                "File:SBS83 Ikkaku 1.png"
+                            ],
+                            [
+                                340,
+                                350,
+                                "Ikkaku"
+                            ],
+                            [
+                                352,
+                                376,
+                                "File:SBS83 Uni 1.png"
+                            ],
+                            [
+                                377,
+                                384,
+                                "Uni"
+                            ],
+                            [
+                                386,
+                                413,
+                                "File:SBS83 Cilone 1.png"
+                            ],
+                            [
+                                414,
+                                424,
+                                "Clione"
+                            ],
+                            [
+                                614,
+                                658,
+                                "File:SBS83 1 Sketch.png|thumb|left|300px"
+                            ],
+                            [
+                                731,
+                                770,
+                                "File:SBS83 Weevil 1.png|right|150px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS83 Ikkaku 1.png",
+                        "size": null,
+                        "start": 312,
+                        "end": 339
+                    },
+                    {
+                        "file": "SBS83 Uni 1.png",
+                        "size": null,
+                        "start": 352,
+                        "end": 376
+                    },
+                    {
+                        "file": "SBS83 Cilone 1.png",
+                        "size": null,
+                        "start": 386,
+                        "end": 413
+                    },
+                    {
+                        "file": "SBS83 1 Sketch.png",
+                        "size": "300",
+                        "start": 614,
+                        "end": 658
+                    },
+                    {
+                        "file": "SBS83 Weevil 1.png",
+                        "size": "150",
+                        "start": 731,
+                        "end": 770
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Heart Pirates",
+                        "link_title": "/wiki/Heart Pirates",
+                        "is_wikipedia": false,
+                        "start": 78,
+                        "end": 95
+                    },
+                    {
+                        "text": "Straw Hat Pirates",
+                        "link_title": "/wiki/Straw Hat Pirates",
+                        "is_wikipedia": false,
+                        "start": 159,
+                        "end": 180
+                    },
+                    {
+                        "text": "Ikkaku",
+                        "link_title": "/wiki/Ikkaku",
+                        "is_wikipedia": false,
+                        "start": 340,
+                        "end": 350
+                    },
+                    {
+                        "text": "Uni",
+                        "link_title": "/wiki/Uni",
+                        "is_wikipedia": false,
+                        "start": 377,
+                        "end": 384
+                    },
+                    {
+                        "text": "Clione",
+                        "link_title": "/wiki/Clione",
+                        "is_wikipedia": false,
+                        "start": 414,
+                        "end": 424
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "heart_pirates",
+                        "ikkaku",
+                        "uni",
+                        "clione"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "surprised"
+                    ],
+                    "topics": [
+                        "crew_members",
+                        "alliance",
+                        "straw_hat_pirates",
+                        "gender_diversity"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "Oda reintroduces three female members of the Heart Pirates who disagreed with forming an alliance with the Straw Hat Pirates due to space constraints."
+            },
+            {
+                "number": 2,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei, no matter how often you say he's Whitebeard's son. Weevil just isn't!! He just doesn't resemble Whitebeard in the slightest! P.N. Whitebeard's Big Fan",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Hey, Just as expected. Someone who doesn't believe that he's the biological son of Whitebeard and has become one of the Shichibukai. Your opinion has met my expectations. FUFUFUFUFUFUFUFUFU... UFUFUFUFUFUFUFUFUFU.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "weevil",
+                        "whitebeard"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "amused"
+                    ],
+                    "topics": [
+                        "weevil_parentage",
+                        "shichibukai"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader questions whether Weevil is really Whitebeard's son, with Oda teasingly responding to the skepticism."
+            },
+            {
+                "number": 3,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "In chapter 792, a neighboring country called \"Apple Nine\" as featured. Could the name of this country, by any chance, derive from ringoku (ringo (apple) - ku (nine)) Apple Nine? P.N. Haru",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "FUFUFUFUFUFU..GEHOFUFUFUFU.\n\n''T/L note: ringoku = neighboring country''",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [
+                        "Apple Nine"
+                    ],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "language",
+                        "world_building"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "The reader asks if the neighboring country Apple Nine in chapter 792 is derived from ringoku (apple-ku) and Oda simply laughs mischievously in response."
+            },
+            {
+                "number": 4,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei, how do people of the Longleg tribe ride bicycles? Please explain in detail. P.N. K.Jun-kun",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Well you see, they would struggle to ride on a normal bicycle, so they have their own bicycle shops in the country where Longleg tribe members come from. There, they make bicycles specifically altered for people with long legs, so they have no problem riding bicycles. Thanks for your concern though!\n\n[[File:SBS83 Wanda 2.png|thumb|150px]]",
+                        "matches": [
+                            [
+                                302,
+                                340,
+                                "File:SBS83 Wanda 2.png|thumb|150px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS83 Wanda 2.png",
+                        "size": "150",
+                        "start": 302,
+                        "end": 340
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "informative"
+                    ],
+                    "topics": [
+                        "Longleg_tribe",
+                        "bicycles",
+                        "customization"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Longleg tribe members struggle to ride normal bicycles, so they have specially altered bicycles from shops in their country, made for people with long legs."
+            },
+            {
+                "number": 5,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "The mink tribe uses words like yugara, or agara, or yutia, right? It seems they are used when addressing somebody, but is there any idea behind it? Please tell me. On this occasion, please \"Garuchuu\" me. (Laughs) P.N. Jinbei's Disciple Mag",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Garuchuu. Yes. I think this might be confusing at first, but it's simple.\n{| style=\"margin:auto; width: 600px; align:center;\"\n|\"aitsu\" Male \"agara\"/Female \"atia\"<br />[T/L: He/She (over there): Derives from ano yatsu]\n|\"soitsu\" Male \"sogara\"/Female \"soita\"<br />[T/L: He/She (close to the speaking person): Derives from sono yatsu]\n|\"yatsu\" Male \"yagara\"/Female \"yatia\"<br />[T/L: He/She (general)]\n|\"anata\" Male \"yugara\"/Female \"yutia\"<br />[T/L: You (more formal)]\n|}\n\nThat's basically it. Additionally, plural forms would be \"yugara-ra\" and so on. Please read it spontaneously. It's a miracle how a species, living in an isolated country, can communicate with words like this.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [
+                        "mink_tribe",
+                        "isolated_country"
+                    ],
+                    "emotions": [
+                        "happy",
+                        "funny"
+                    ],
+                    "topics": [
+                        "language_communication",
+                        "mink_tribe_culture"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "The Mink tribe uses specific words like yugara, agara, and yutia, which are based on gender and formality, and also have plural forms."
+            },
+            {
+                "number": 6,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchi!! In the sbs from volume 82 you told us how to escape from Akainu, bears, ghosts and the like. But when I try to do this before my angered mother I'm just beaten up... Is my mother stronger than Akainu? P.N. Star Fairy",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "You better watch out! you're being too brash! A mother is the strongest living being in the world, even stronger than Kaido!! Don't you dare do it again! But, you know, your mother loves you more than anyone else.\n\n[[File:SBS83 Violet 3.png|right|150px]]",
+                        "matches": [
+                            [
+                                215,
+                                254,
+                                "File:SBS83 Violet 3.png|right|150px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS83 Violet 3.png",
+                        "size": "150",
+                        "start": 215,
+                        "end": 254
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "warning",
+                        "protective",
+                        "affectionate"
+                    ],
+                    "topics": [
+                        "family",
+                        "strength",
+                        "love"
+                    ],
+                    "importance": "hight",
+                    "isCharacterInsertion": true
+                },
+                "summary": "Oda reassures the reader that their mother is stronger than anyone, including Kaido, and warns them not to anger her, while also acknowledging the mother's love."
+            },
+            {
+                "number": 7,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I love the Dressrosa arc and have read it many times... but there is one thing I don't really understand. So I sent this question to the current sbs and you. \"Why did Viola and Doflamingo call each other \"Doffy\", \"Violet\" in chapter 788 \"How I fight\"?\" What were both of them thinking of at that time back then? P.N. Fuki",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Hm, she was dashing against the enemy. There is a deep secret setting I can't tell you about though. I informed the supervisor about it, but since it is a pretty adult part of the story it remains hidden in the shonen manga which One Piece is. To all adults, please try to imagine yourselves. Dressrosa is truly a passionate country!!\n\n[[File:SBS83 Hercales 3.png|right|100px]]",
+                        "matches": [
+                            [
+                                336,
+                                377,
+                                "File:SBS83 Hercales 3.png|right|100px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS83 Hercales 3.png",
+                        "size": "100",
+                        "start": 336,
+                        "end": 377
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "viola",
+                        "doflamingo"
+                    ],
+                    "places": [
+                        "dressrosa"
+                    ],
+                    "emotions": [
+                        "curious",
+                        "playful"
+                    ],
+                    "topics": [
+                        "secrets",
+                        "character relationship"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Viola and Doflamingo called each other 'Doffy' and 'Violet' as part of a deep secret adult part of the story, which remains hidden in the shonen manga."
+            },
+            {
+                "number": 8,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello Odacchi! Hercales-n always uses \"n\" at the end of words. Could his actual name, in truth, not be heracles at all? P.N Uchi-san",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Well... in regard to this, it could be an eternal mystery-n.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "character_name",
+                        "mystery"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Heracles-n's actual name remains an eternal mystery, according to Oda."
+            },
+            {
+                "number": 9,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchi, here's a question! What is with Zou's legs? Are the inhabitants of Long Ring Long Land, surprisingly, Long Legs?!?! P.N. Shoko-tan",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes, you focused on something interesting. Indeed, if you think of the form of a normal elephant, you think something like \"sea? But it's too deep [for elephants to stand in the water]!\". The truth is, the scientific name of this elephant is \"Naitamie Norida Elephant\" which possesses oversized legs with multiple joints. Maybe I will include this in the main story someday, but that's basically it.\n\n''T/L note: Backwards for dari no e mitai na = It looks like Dal\u00ed's picture''\n\n[[File:SBS83 sheep clash 4.png|right|150px]]",
+                        "matches": [
+                            [
+                                480,
+                                524,
+                                "File:SBS83 sheep clash 4.png|right|150px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS83 sheep clash 4.png",
+                        "size": "150",
+                        "start": 480,
+                        "end": 524
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [
+                        "Zou",
+                        "Long Ring Long Land"
+                    ],
+                    "emotions": [
+                        "interesting",
+                        "funny"
+                    ],
+                    "topics": [
+                        "Zou's Legs",
+                        "Long Ring Long Land inhabitants",
+                        "Naitamie Norida Elephant"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Zou's legs are oversized with multiple joints, resembling the 'Naitamie Norida Elephant,' potentially being included in the main story in the future."
+            },
+            {
+                "number": 10,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Am I the only one thinking that the technique called \"Sheep's Horn\" from chapter 795 looks like poop? It weights heavily on my mind, I even can't grab tapioca with my chopsticks. P.N. Friends seem to be able to drink black coffee\n\n''T/L note: A type of starch extracted from cassava root which is also used for tapioca pearls in bubble tea''",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "To me it looks like poop as well.\n\n[[File:SBS83 zou face 4.png|right|150px]]",
+                        "matches": [
+                            [
+                                35,
+                                76,
+                                "File:SBS83 zou face 4.png|right|150px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS83 zou face 4.png",
+                        "size": "150",
+                        "start": 35,
+                        "end": 76
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "technique_appearance",
+                        "food",
+                        "SBS"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "Reader questions if a technique in chapter 795 looks like poop, and Oda agrees, adding a picture for reference."
+            },
+            {
+                "number": 11,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hi Oda-sensei. Did you know that the best high quality coffee in the world is made from the excrements of elephants? When it comes to an elephant of 1000 years, I think some good dung should come out. So absolutely, please brew coffee! P.N. Sanadacchi",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I'm hearing about that for the first time!! I searched, it's true!! I theoretically understand, still, I will contain myself after all!! And that's that.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "surprised",
+                        "amused"
+                    ],
+                    "topics": [
+                        "coffee",
+                        "elephants",
+                        "food"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader tells Oda about high-quality coffee made from elephant dung; Oda learns about it, but decides to contain himself."
+            },
+            {
+                "number": 12,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-san. Heso!! When talking Skypiea skills, pumpkins are one of them and the guy who told them about a plant called this pumpkin is a botanist named Noland, is not it? When I saw Dressrosa, they were everywhere! Could Noland also teach how to plant pumpkins on the Tontatta tribe when they meet? P.N. Kamiki-kun",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes. It is true. Perfect. Pumpkin is very nutritious. And it seems that wherever Noland goes it is rooted there. Maybe he is a man who loves nature.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "noland",
+                        "tontatta tribe"
+                    ],
+                    "places": [
+                        "skypiea",
+                        "dressrosa"
+                    ],
+                    "emotions": [
+                        "happy"
+                    ],
+                    "topics": [
+                        "skypiea_skills",
+                        "pumpkins",
+                        "botany",
+                        "tontatta_tribe",
+                        "nature"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Noland is indeed associated with pumpkins and may have taught the Tontatta tribe how to plant them, as they appeared in Dressrosa."
+            },
+            {
+                "number": 13,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "There's something I want to ask about Vito's \"Monster Gun\" from the Fire Tank Pirates. He has a very big hand. Although, the clothes that he uses appear normal size. So how did he put his hand in there? P.N. Stark Yang\n\n[[File:SBS83 Vito.png|right|400px]]",
+                        "matches": [
+                            [
+                                220,
+                                255,
+                                "File:SBS83 Vito.png|right|400px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "LIKE THIS!!",
+                        "matches": []
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS83 Vito.png",
+                        "size": "400",
+                        "start": 220,
+                        "end": 255
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "vito"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "clothing",
+                        "Vito's Monster Gun",
+                        "Fire Tank Pirates"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "Vito's 'Monster Gun' ability is a mystery, but Oda humorously suggests that Vito probably just squeezed his big hand into the normal-sized clothes."
+            },
+            {
+                "number": 14,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchi!! You said in Volume 79 \"It's all empty as you please\". So I tried my best and thought. Vi (Bi> B> 13), O (O> 0), Ra (LA) // 130> 1/30!! That's the blank part!! I'm a genius!! (laugh) So. Please!! P.N.Natsumikan * @ Vivi",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Eeeeeeh! OK.\n\n[[File:SBS83 Hapo.png|right|60px]]",
+                        "matches": [
+                            [
+                                14,
+                                48,
+                                "File:SBS83 Hapo.png|right|60px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS83 Hapo.png",
+                        "size": "60",
+                        "start": 14,
+                        "end": 48
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "vivi"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "surprised",
+                        "amused"
+                    ],
+                    "topics": [
+                        "volume_79_mystery"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader attempts to fill in a blank part from a previous volume, and Oda suggests he's on the right track, surprising the reader."
+            },
+            {
+                "number": 15,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei. Hello! I'll fill in the blanks on the birthday calendar.\n#Sai> August (8). 13 (Happo Navy, 13th Leader) Happo, literally means eight treasures\n#Baby 5> May (5), 15 (May (May (5)), Do (10) + (Baby 5)) Meido = Maid\n#Chinjao> December (12), 12 (12th Leader)\n#Boo> August (8), 20 (Happou Navy, Bu-u (2-0))\nBy the way. How old is Sai? How much time separates him from his partner? Referring to... I'll... envy them. P.N.Uholishia\n\n[[File:SBS83 SHGF.png|right|400px]]",
+                        "matches": [
+                            [
+                                438,
+                                473,
+                                "File:SBS83 SHGF.png|right|400px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Eeeeeh!? Not what ~ Sai's age is..No. I'll show you everything that receives a bottle of sake.\n#Sai: 28 years old\n#Hajrudin: 81 years old\n#Bartolomeo: 24 years old\n#Cavendish: 26 years old\n#Orlumbus: 42 years old\n#Ideo: 22 years old\n#Leo: 25 years old\n#(Baby 5: 24 years old)\nYoung Sai. Does he look so old to you?",
+                        "matches": []
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS83 SHGF.png",
+                        "size": "400",
+                        "start": 438,
+                        "end": 473
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "sai",
+                        "hajrudin",
+                        "bartolomeo",
+                        "cavendish",
+                        "orlumbus",
+                        "ideo",
+                        "leo",
+                        "baby_5"
+                    ],
+                    "places": [],
+                    "topics": [
+                        "age",
+                        "birthday calendar",
+                        "Happo Navy",
+                        "partner",
+                        "envy"
+                    ],
+                    "emotions": [
+                        "surprise",
+                        "funny"
+                    ],
+                    "importance": "hight",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda reveals the ages of various One Piece characters, including Sai who is 28 years old, and jokes about Sai looking young despite his age."
+            },
+            {
+                "number": 16,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchi~~! What happens if I pull a woman's underwear like [[Smoker]]~? (From [[SBS Volume 67]]) If I do not intend to try, I will not know! OK. Come on! To Eiichiro Oda-sama! I was arrested. Why? P.N. Shimizu Chamoro",
+                        "matches": [
+                            [
+                                59,
+                                69,
+                                "Smoker"
+                            ],
+                            [
+                                78,
+                                95,
+                                "SBS Volume 67"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes. Our SBS ends here! See you again~~!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Smoker",
+                        "link_title": "/wiki/Smoker",
+                        "is_wikipedia": false,
+                        "start": 59,
+                        "end": 69
+                    },
+                    {
+                        "text": "SBS Volume 67",
+                        "link_title": "/wiki/SBS Volume 67",
+                        "is_wikipedia": false,
+                        "start": 78,
+                        "end": 95
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "smoker"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "perverted"
+                    ],
+                    "importance": [
+                        "low"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda ends the SBS by jokingly avoiding the question about pulling a woman's underwear and ends with a friendly farewell to the readers."
+            }
+        ],
+        "page": null,
+        "chapter_number": null,
+        "page_header": null
+    }
+]

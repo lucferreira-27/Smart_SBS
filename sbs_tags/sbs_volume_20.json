@@ -1,0 +1,1031 @@
+[
+    {
+        "qa": [
+            {
+                "number": 1,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "HELLLOOOO to all you good little children reading the SBS Corner! Well, you sound enthusiastic. A nice friend of ours has come today. Here he is, \"Eiichiro-kun\". (applause) Thank you for coming. Why don't we have Eiichiro-kun announce the title of the Corner, okay? Go ahead.",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "(Yes, this day has finally come. I can start the SBS).\n\nSPLIT THE ESPANOLA.\n\n(Dammit, I screwed up!)",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "Eiichiro-kun",
+                        "O:"
+                    ],
+                    "places": [],
+                    "topics": [
+                        "SBS Corner"
+                    ],
+                    "emotions": [
+                        "excited",
+                        "nervous"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A fan enthusiastically introduces Oda, who starts the SBS Corner; Oda regrets making a mistake in the Spanish island's name, Espa\u00f1ola."
+            },
+            {
+                "number": 2,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "(Note: the question was written in Chinese language)",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Pardon? Hmm... Oh I see. It's a letter from a One Piece fan in Taiwan. Well, since Japanese also uses Chinese characters, I think I can make out the meaning. It's PROBABLY asking this:\n\n\"Why do all the crew members other than [[Nami]] wear only one outfit?\"\n\nThere is a reason for that, you know. First of all, they definitely have many changes of the same outfit. And also, Nami doesn't give them much allowance. Stuff like that.",
+                        "matches": [
+                            [
+                                226,
+                                234,
+                                "Nami"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Nami",
+                        "link_title": "/wiki/Nami",
+                        "is_wikipedia": false,
+                        "start": 226,
+                        "end": 234
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy",
+                        "nami"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "clothing",
+                        "nami's frugality",
+                        "crew dynamics"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda explains a reader's question about why One Piece crew members other than Nami each wear only one outfit, stating they have multiple outfits and Nami is stingy."
+            },
+            {
+                "number": 3,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei, out of the 5 crew members [[Monkey D. Luffy|Luffy]], [[Roronoa Zoro|Zoro]], [[Usopp]], Nami, and [[Sanji]], what animals do you think they most resemble?",
+                        "matches": [
+                            [
+                                38,
+                                63,
+                                "Monkey D. Luffy|Luffy"
+                            ],
+                            [
+                                65,
+                                86,
+                                "Roronoa Zoro|Zoro"
+                            ],
+                            [
+                                88,
+                                97,
+                                "Usopp"
+                            ],
+                            [
+                                109,
+                                118,
+                                "Sanji"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "*Luffy's a monkey.\n*Zoro is... a shark.\n*Usopp, an armadillo.\n*Nami's a cat.\n*And Sanji's a duck.\n\nBut there's one thing I AM confident about.\n\nI THINK [[Tony Tony Chopper|CHOPPER]] IS A REINDEER. (DOOOON)",
+                        "matches": [
+                            [
+                                152,
+                                181,
+                                "Tony Tony Chopper|CHOPPER"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Luffy",
+                        "link_title": "/wiki/Monkey D. Luffy",
+                        "is_wikipedia": false,
+                        "start": 38,
+                        "end": 63
+                    },
+                    {
+                        "text": "Zoro",
+                        "link_title": "/wiki/Roronoa Zoro",
+                        "is_wikipedia": false,
+                        "start": 65,
+                        "end": 86
+                    },
+                    {
+                        "text": "CHOPPER",
+                        "link_title": "/wiki/Tony Tony Chopper",
+                        "is_wikipedia": false,
+                        "start": 152,
+                        "end": 181
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Usopp",
+                        "link_title": "/wiki/Usopp",
+                        "is_wikipedia": false,
+                        "start": 88,
+                        "end": 97
+                    },
+                    {
+                        "text": "Sanji",
+                        "link_title": "/wiki/Sanji",
+                        "is_wikipedia": false,
+                        "start": 109,
+                        "end": 118
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy",
+                        "roronoa_zoro",
+                        "usopp",
+                        "nami",
+                        "sanji",
+                        "tony_tony_chopper",
+                        "chopper"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "happy",
+                        "funny"
+                    ],
+                    "topics": [
+                        "character_resemblance"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda compares Luffy to a monkey, Zoro to a shark, Usopp to an armadillo, Nami to a cat, and Sanji to a duck; he's confident Chopper is a reindeer."
+            }
+        ],
+        "page": 26,
+        "chapter_number": 177,
+        "page_header": "SBS Vol 20 header.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 4,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Why does [[Buggy]] not bleed when he splits his body up?",
+                        "matches": [
+                            [
+                                9,
+                                18,
+                                "Buggy"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "C-come on... don't be difficult. He would be too scary if he started gushing blood everywhere.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Buggy",
+                        "link_title": "/wiki/Buggy",
+                        "is_wikipedia": false,
+                        "start": 9,
+                        "end": 18
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "Buggy"
+                    ],
+                    "topics": [
+                        "Devil Fruit"
+                    ],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader asks why Buggy doesn't bleed when splitting his body, Oda responds it'd be too scary with blood."
+            },
+            {
+                "number": 5,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I have secret question to discuss with you, Master Oda (this is a normal letter). Please (x10) tell me your home address. I hope this finds you in good health, kuhahahaha.",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Okay. Post number 202... whoa. If I told you that, you'd be ringing my doorbell and running away every day.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "o: Eiichiro Oda"
+                    ],
+                    "emotions": [
+                        "playful"
+                    ],
+                    "topics": [
+                        "Oda's personal life"
+                    ],
+                    "importance": [
+                        "low"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A fan asks for Oda's home address, but Oda declines, saying it would result in constant disruptions."
+            },
+            {
+                "number": 6,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "[[Tashigi]]'s age, height and weight please!",
+                        "matches": [
+                            [
+                                0,
+                                11,
+                                "Tashigi"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Tashigi? Tashigi is 21. Surprisingly adult, isn't she? She is 170 cm tall. And she is a lady, so no weight for you.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Tashigi",
+                        "link_title": "/wiki/Tashigi",
+                        "is_wikipedia": false,
+                        "start": 0,
+                        "end": 11
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "tashigi"
+                    ],
+                    "topics": [
+                        "age",
+                        "height",
+                        "weight"
+                    ],
+                    "emotions": [
+                        "happy"
+                    ],
+                    "importance": "normal"
+                },
+                "summary": "Tashigi is 21, 170 cm tall, and Oda won't reveal her weight."
+            },
+            {
+                "number": 7,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Question, Odacchi! [[Portgas D. Ace|Ace]] ate the [[Mera Mera no Mi]] so he can...\n\n*(1) \"Can turn his body into flame\"?\n*(2) \"Can shoot flame from his body\", which one is it?",
+                        "matches": [
+                            [
+                                19,
+                                41,
+                                "Portgas D. Ace|Ace"
+                            ],
+                            [
+                                50,
+                                69,
+                                "Mera Mera no Mi"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "The answer is (1). But his secret move \"Hiken\" (Fire Fist) is a skill where he raises his \"firepower\" and turns his fist into a huge flame, so it ends up looking more like (2).",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Ace",
+                        "link_title": "/wiki/Portgas D. Ace",
+                        "is_wikipedia": false,
+                        "start": 19,
+                        "end": 41
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Mera Mera no Mi",
+                        "link_title": "/wiki/Mera Mera no Mi",
+                        "is_wikipedia": false,
+                        "start": 50,
+                        "end": 69
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "Portgas D. Ace"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "happy"
+                    ],
+                    "topics": [
+                        "Mera Mera no Mi",
+                        "Hiken"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Ace can turn his body into flame (Mera Mera no Mi ability), but his Hiken move raises firepower and turns his fist into a huge flame."
+            },
+            {
+                "number": 8,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "THE SBS HAS STARTED. (past tense).",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Hahaha! Yeah right... Whoa!! It HAS started!! (slow-witted).",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "happy",
+                        "funny"
+                    ],
+                    "topics": [],
+                    "importance": [
+                        "high"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "The SBS has started, with Oda expressing slight surprise."
+            }
+        ],
+        "page": "66",
+        "chapter_number": "179",
+        "page_header": null
+    },
+    {
+        "qa": [
+            {
+                "number": 9,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "One of my friends said to me, \"How can you read SHOUNEN Jump when you're a GIRL?!\" But I answered him by saying, \"What's wrong with a girl buying and reading Shounen Jump? Am I a criminal? I was a man in my former life!!!\" (probably...).",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I see. So you had one of those quarrels, \"Pen Name Nishi-chan\". But never fear, damn you! It's okay, dammit! 'Cause besides, Shounen Weekly Jump is a boys' magazine with a 30% female readership, to tell you the truth. Basically, out of every 10 Jump readers, 3 of them are girls. And that percentage carries over into One Piece readership as well. Just make some simple calculations and assume you have 1,200,000 friends around the country. If you understand the zeal of a young boy's soul, then of course, boys, girls, old guys and ladies can all bring it on! Come at us, dammit!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "funny",
+                        "happy"
+                    ],
+                    "topics": [
+                        "reader's_friends",
+                        "one_piece_readership",
+                        "shounen_jump"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda reassures 'Pen Name Nishi-chan' that it's fine for girls to read Shounen Jump, stating it has a 30% female readership, including One Piece."
+            },
+            {
+                "number": 10,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei! There was a music question in my finals! And on the question was about \"Bach\". Apparently, historians label Bach as a \"Baroque\" artist... So maybe [[Igaram]] (who looks like Bach) + Baroque style = \"[[Baroque Works]]!!\" So... Am I right?",
+                        "matches": [
+                            [
+                                159,
+                                169,
+                                "Igaram"
+                            ],
+                            [
+                                211,
+                                228,
+                                "Baroque Works"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yup. That's right. It's going to be extremely difficult for me to explain this one. Baroque was a style of art, literature and music prevalent in 17th century Europe. In my own very simple description, it was absurdly extravagant. Excessively ostentatious. Therefore, I made the Baroque Works a collection of characters that are each over-the-top in their own ways.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Igaram",
+                        "link_title": "/wiki/Igaram",
+                        "is_wikipedia": false,
+                        "start": 159,
+                        "end": 169
+                    },
+                    {
+                        "text": "Baroque Works",
+                        "link_title": "/wiki/Baroque Works",
+                        "is_wikipedia": false,
+                        "start": 211,
+                        "end": 228
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "eiichiro_oda",
+                        "igaram"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "happy",
+                        "funny"
+                    ],
+                    "topics": [
+                        "baroque_works",
+                        "baroque_style",
+                        "art_history"
+                    ],
+                    "importance": "high",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda confirms that Igaram's appearance and Baroque style inspired the name 'Baroque Works'. He describes Baroque as 'absurdly extravagant' and 'over-the-top'."
+            }
+        ],
+        "page": "86",
+        "chapter_number": "180",
+        "page_header": null
+    },
+    {
+        "qa": [
+            {
+                "number": 11,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I have a request. The other day, I found a White Walky (aka Hairy Hippo) on the side of the road. Please raise it in your house, Oda-sensei. From, New York Cocoa",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "NO THANK YOU.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "amused",
+                        "polite"
+                    ],
+                    "topics": [],
+                    "importance": [
+                        "low"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader asks Oda to raise a White Walky at his home, but Oda declines the offer."
+            },
+            {
+                "number": 12,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "This is a question from a Tokyo-area 28 year old male (working in the manga editor field). I would like to know the names of all the [[Super Spot-Billed Duck Troops]] members. Oda-sensei, I simply MUST know. T-they're so cute... I know this must be very hard for you, but please... do it for me.\n\n[[Image:SBS Vol 20 1.png|thumb|Super Spot-Billed Duck Troops members.]]",
+                        "matches": [
+                            [
+                                133,
+                                166,
+                                "Super Spot-Billed Duck Troops"
+                            ],
+                            [
+                                297,
+                                368,
+                                "Image:SBS Vol 20 1.png|thumb|Super Spot-Billed Duck Troops members."
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Hey! Hey!! Hold on just a dang tootin' minute. I know who you are. You're that former One Piece editor with a weakness for cute things, working for a certain Jump editorial department, Da-asa or Asada or whatever, right?! You, sir, are relentless. And now you're sending business questions to the SBS via email?! This is supposed to be sacred ground for my readers... ah, well. Oh but, thanks for helping me out for those 4 years. In any case, since OTHER people have asked this too, I'll answer it. The bottom row, starting from the left, is [[Cowboy]], [[Bourbon Jr.]], [[Karoo]], [[Kentauros]], and [[Hikoichi]]. The top row is [[Stomp]] and [[Ivan X]] . That's all. I had the names all established, but putting them all in the manga would be too hard to figure out, so I decided not to.",
+                        "matches": [
+                            [
+                                543,
+                                553,
+                                "Cowboy"
+                            ],
+                            [
+                                555,
+                                570,
+                                "Bourbon Jr."
+                            ],
+                            [
+                                572,
+                                581,
+                                "Karoo"
+                            ],
+                            [
+                                583,
+                                596,
+                                "Kentauros"
+                            ],
+                            [
+                                602,
+                                614,
+                                "Hikoichi"
+                            ],
+                            [
+                                631,
+                                640,
+                                "Stomp"
+                            ],
+                            [
+                                645,
+                                655,
+                                "Ivan X"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": ":SBS Vol 20 1.png",
+                        "size": null,
+                        "start": 297,
+                        "end": 368
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Super Spot-Billed Duck Troops",
+                        "link_title": "/wiki/Super Spot-Billed Duck Troops",
+                        "is_wikipedia": false,
+                        "start": 133,
+                        "end": 166
+                    },
+                    {
+                        "text": "Cowboy",
+                        "link_title": "/wiki/Cowboy",
+                        "is_wikipedia": false,
+                        "start": 543,
+                        "end": 553
+                    },
+                    {
+                        "text": "Bourbon Jr.",
+                        "link_title": "/wiki/Bourbon Jr.",
+                        "is_wikipedia": false,
+                        "start": 555,
+                        "end": 570
+                    },
+                    {
+                        "text": "Karoo",
+                        "link_title": "/wiki/Karoo",
+                        "is_wikipedia": false,
+                        "start": 572,
+                        "end": 581
+                    },
+                    {
+                        "text": "Kentauros",
+                        "link_title": "/wiki/Kentauros",
+                        "is_wikipedia": false,
+                        "start": 583,
+                        "end": 596
+                    },
+                    {
+                        "text": "Hikoichi",
+                        "link_title": "/wiki/Hikoichi",
+                        "is_wikipedia": false,
+                        "start": 602,
+                        "end": 614
+                    },
+                    {
+                        "text": "Stomp",
+                        "link_title": "/wiki/Stomp",
+                        "is_wikipedia": false,
+                        "start": 631,
+                        "end": 640
+                    },
+                    {
+                        "text": "Ivan X",
+                        "link_title": "/wiki/Ivan X",
+                        "is_wikipedia": false,
+                        "start": 645,
+                        "end": 655
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "cowboy",
+                        "bourbon_jr",
+                        "karoo",
+                        "kentauros",
+                        "hikoichi",
+                        "stomp",
+                        "ivan_x"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "happy",
+                        "funny"
+                    ],
+                    "topics": [
+                        "super_spot_billed_duck_troops",
+                        "oda's_personal_life"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda recognizes a former One Piece editor's question about Super Spot-Billed Duck Troops' members' names: Cowboy, Bourbon Jr., Karoo, Kentauros, Hikoichi, Stomp, Ivan X."
+            }
+        ],
+        "page": "106",
+        "chapter_number": "181",
+        "page_header": null
+    },
+    {
+        "qa": [
+            {
+                "number": 13,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Okay, there's something I need to ask you about, Odacchi. I was reading [[Wanted!|WANTED!]] (Odacchi's one-shot collection) today, and I was wondering, doesn't it seem like a bunch of your characters pick their noses a lot? (P.N. Pleasure)",
+                        "matches": [
+                            [
+                                72,
+                                91,
+                                "Wanted!|WANTED!"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yeah, they do. Pick, pick, picky. So you wonder why... well, doesn't everyone pick their nose? The other mangakas just have their cameras pointed away when it happens. If you don't pick your nose... your boogers would collect up!! Oh dear... another dirty topic. Printing this kind of stuff makes all the female readers cringe. It'll happen again. But the guys laugh their asses off! Right?! Okay, next.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "WANTED!",
+                        "link_title": "/wiki/Wanted!",
+                        "is_wikipedia": false,
+                        "start": 72,
+                        "end": 91
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "odacchi"
+                    ],
+                    "topics": [
+                        "one-shot collection",
+                        "nose picking"
+                    ],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader points out characters in Odacchi's one-shot collection often pick their noses, Oda agrees and says it's because everyone picks their nose and if they didn't their boogers would collect."
+            },
+            {
+                "number": 14,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "To Oda-sensei. Hello! I simply must ask you a very serious question. On page 94 of [[One Piece]] Vol. 18, the \"[[Spiders Cafe]]\" looks an awful lot like the \"[[Wikipedia:Bagdad Cafe|Bagdad Cafe]]\", directed by [[Wikipedia:Percy Adlon|Percy Adlon]]. Did you use that as inspiration? I really like that movie, so please tell me if it's true.",
+                        "matches": [
+                            [
+                                83,
+                                96,
+                                "One Piece"
+                            ],
+                            [
+                                111,
+                                127,
+                                "Spiders Cafe"
+                            ],
+                            [
+                                158,
+                                195,
+                                "Wikipedia:Bagdad Cafe|Bagdad Cafe"
+                            ],
+                            [
+                                210,
+                                247,
+                                "Wikipedia:Percy Adlon|Percy Adlon"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Wow, I'm impressed. 15 years old and you like that movie? That's right. I just loved the atmosphere of that movie so much. But that kind of refined coolness is so out of place in a shounen manga, I was really the only one who knew what it was from. Anyone with good taste should watch it. It'll stick in your heart. \"Baghdad Cafe\".",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Bagdad Cafe",
+                        "link_title": "/wiki/Wikipedia:Bagdad Cafe",
+                        "is_wikipedia": false,
+                        "start": 158,
+                        "end": 195
+                    },
+                    {
+                        "text": "Percy Adlon",
+                        "link_title": "/wiki/Wikipedia:Percy Adlon",
+                        "is_wikipedia": false,
+                        "start": 210,
+                        "end": 247
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "One Piece",
+                        "link_title": "/wiki/One Piece",
+                        "is_wikipedia": false,
+                        "start": 83,
+                        "end": 96
+                    },
+                    {
+                        "text": "Spiders Cafe",
+                        "link_title": "/wiki/Spiders Cafe",
+                        "is_wikipedia": false,
+                        "start": 111,
+                        "end": 127
+                    }
+                ],
+                "tags": {
+                    "characters": [],
+                    "places": [
+                        "spiders cafe"
+                    ],
+                    "emotions": [
+                        "happy",
+                        "impressed"
+                    ],
+                    "topics": [
+                        "percy adlon",
+                        "bagdad cafe",
+                        "inspiration",
+                        "movie"
+                    ],
+                    "importance": "high",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader asks if Percy Adlon's Bagdad Cafe inspired One Piece's Spiders Cafe. Oda confirms, praising reader's taste."
+            },
+            {
+                "number": 15,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei, I went to a flower shop, and they were selling \"Crocus\" flower seeds. Does that have any connection to [[Crocus]]-san?",
+                        "matches": [
+                            [
+                                115,
+                                125,
+                                "Crocus"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "It means \"trust\" in the language of flowers.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Crocus",
+                        "link_title": "/wiki/Crocus",
+                        "is_wikipedia": false,
+                        "start": 115,
+                        "end": 125
+                    }
+                ],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "flowers",
+                        "language of flowers"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader asks if 'Crocus' flower seeds connect to Crocus-san, Oda says they symbolize 'trust' in flower language."
+            }
+        ],
+        "page": "146",
+        "chapter_number": "183",
+        "page_header": null
+    },
+    {
+        "qa": [
+            {
+                "number": 16,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "All the guys at school talk about is \"Nami's chest\"! Please scold them for me!!",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Ahhh... but... Well, there's no age written on this postcard, but judging from the writing, I'd say you're probably in middle school. And you know guys in middle school. They're all little pervs. They can't help it. i really don't have the right to scold them. (hey).",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "nami"
+                    ],
+                    "emotions": [
+                        "frustrated",
+                        "funny"
+                    ],
+                    "topics": [
+                        "fan behavior"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda sympathizes with a middle school reader about classmates focusing on Nami's chest, acknowledging typical adolescent behavior."
+            },
+            {
+                "number": 17,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "WHAT HAPPENS IF A PERSON EATS A HITO HITO NO MI?",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I suppose I should say they \"BECOME HUMAN\". Uh, I guess you could say that means like becoming an adult, or finding your true spirit or something. So basically, people will live more human-like. Well. I guess you could say that. Or not. Basically, not. Goodbye. (runs away).",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "devil_fruit"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda explains that eating Hito Hito no Mi devil fruit turns a person more human-like, but in a vague way, then runs away."
+            },
+            {
+                "number": 18,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-chan!! Today is the day for you to answer this!! What about Sanji's left eye?!",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "There it is... again. I get a lot of these. So many, in fact, that I usually just ignored them... all right. I will finally answer one of One Piece's 7 great mysteries, \"Sanji's Left Eye\"!! Come on out, Sanji!!\n\nSanji: Hey. You called? What? You want me to show you my left eye?! THAT'S what you called me for? Honestly... fine, fine. You wanna see it? There you go, take a good look. See?",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "WHOAAAAA!!! FOR REAL?!! WOW...!! THE SBS IS OVER!! SEE YOU NEXT TIME!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy",
+                        "odacchan",
+                        "sanji"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "happy",
+                        "funny"
+                    ],
+                    "topics": [
+                        "sanji's_left_eye",
+                        "one_piece_mysteries"
+                    ],
+                    "importance": "high",
+                    "isCharacterInsertion": true
+                },
+                "summary": "Oda confirms Sanji's left eye is normal, ending it as one of One Piece's 7 great mysteries, SBS session over."
+            }
+        ],
+        "page": "165",
+        "chapter_number": "184",
+        "page_header": null
+    }
+]

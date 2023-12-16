@@ -1,0 +1,485 @@
+[
+    {
+        "qa": [
+            {
+                "number": 0,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "N/A",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Um... in the SBS Sections a few volumes back, everyone kept asking about foreign versions of One Piece. Amazingly enough, even I, the author, had no idea in which countries One Piece is published. So, I asked the [[Wikipedia:Shueisha|Shueisha]] publishing's international department to investigate for me. Thanks to everyone that helped. Below is the list of countries and languages that One Piece is published in as of October 2002. You will definitely not be able to buy these versions in Japan.\n\nThere are eleven Countries:\n{|width=\"100%\" align=\"center|-\"\n|width=\"50%\" valign=\"top\"|\n*[[One Piece in Taiwan|Taiwan]] (Mandarin)\n*[[One Piece in Korea|Korea]] (Korean)\n*[[One Piece in Singapore|Singapore]](Mandarin)\n*[[One Piece in France|France]] (French)\n*[[One Piece in Spain|Spain]] (Spanish)\n*[[One Piece in Brazil|Brazil]] (Portuguese)\n|valign=\"top\"|\n*[[One Piece in China|Hong Kong]] (Cantonese)\n*[[One Piece in Thailand|Thailand]] (Thai)\n*[[One Piece in Malaysia|Malaysia]] (Malay)\n*[[One Piece in Italy|Italy]] (Italian)\n*[[One Piece in Germany|Germany]] (German)\n|}\nThere are four more countries that plan to publish One Piece in 2003:\n{|width=\"100%\" align=\"center|-\"\n|width=\"50%\" valign=\"top\"|\n*[[One Piece in Indonesia|Indonesia]] (Indonesian)\n*[[One Piece in Sweden|Sweden]] (Swedish)\n|valign=\"top\"|\n*[[One Piece in Denmark|Denmark]] (Danish)\n*[[One Piece in Latin America|Mexico]] (Spanish)\n|}\nThat's what I heard. Amazing, right?",
+                        "matches": [
+                            [
+                                213,
+                                244,
+                                "Wikipedia:Shueisha|Shueisha"
+                            ],
+                            [
+                                587,
+                                617,
+                                "One Piece in Taiwan|Taiwan"
+                            ],
+                            [
+                                630,
+                                658,
+                                "One Piece in Korea|Korea"
+                            ],
+                            [
+                                669,
+                                705,
+                                "One Piece in Singapore|Singapore"
+                            ],
+                            [
+                                717,
+                                747,
+                                "One Piece in France|France"
+                            ],
+                            [
+                                758,
+                                786,
+                                "One Piece in Spain|Spain"
+                            ],
+                            [
+                                798,
+                                828,
+                                "One Piece in Brazil|Brazil"
+                            ],
+                            [
+                                858,
+                                890,
+                                "One Piece in China|Hong Kong"
+                            ],
+                            [
+                                904,
+                                938,
+                                "One Piece in Thailand|Thailand"
+                            ],
+                            [
+                                947,
+                                981,
+                                "One Piece in Malaysia|Malaysia"
+                            ],
+                            [
+                                991,
+                                1019,
+                                "One Piece in Italy|Italy"
+                            ],
+                            [
+                                1031,
+                                1063,
+                                "One Piece in Germany|Germany"
+                            ],
+                            [
+                                1206,
+                                1242,
+                                "One Piece in Indonesia|Indonesia"
+                            ],
+                            [
+                                1257,
+                                1287,
+                                "One Piece in Sweden|Sweden"
+                            ],
+                            [
+                                1314,
+                                1346,
+                                "One Piece in Denmark|Denmark"
+                            ],
+                            [
+                                1357,
+                                1394,
+                                "One Piece in Latin America|Mexico"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Shueisha",
+                        "link_title": "/wiki/Wikipedia:Shueisha",
+                        "is_wikipedia": false,
+                        "start": 213,
+                        "end": 244
+                    },
+                    {
+                        "text": "Taiwan",
+                        "link_title": "/wiki/One Piece in Taiwan",
+                        "is_wikipedia": false,
+                        "start": 587,
+                        "end": 617
+                    },
+                    {
+                        "text": "Korea",
+                        "link_title": "/wiki/One Piece in Korea",
+                        "is_wikipedia": false,
+                        "start": 630,
+                        "end": 658
+                    },
+                    {
+                        "text": "Singapore",
+                        "link_title": "/wiki/One Piece in Singapore",
+                        "is_wikipedia": false,
+                        "start": 669,
+                        "end": 705
+                    },
+                    {
+                        "text": "France",
+                        "link_title": "/wiki/One Piece in France",
+                        "is_wikipedia": false,
+                        "start": 717,
+                        "end": 747
+                    },
+                    {
+                        "text": "Spain",
+                        "link_title": "/wiki/One Piece in Spain",
+                        "is_wikipedia": false,
+                        "start": 758,
+                        "end": 786
+                    },
+                    {
+                        "text": "Brazil",
+                        "link_title": "/wiki/One Piece in Brazil",
+                        "is_wikipedia": false,
+                        "start": 798,
+                        "end": 828
+                    },
+                    {
+                        "text": "Hong Kong",
+                        "link_title": "/wiki/One Piece in China",
+                        "is_wikipedia": false,
+                        "start": 858,
+                        "end": 890
+                    },
+                    {
+                        "text": "Thailand",
+                        "link_title": "/wiki/One Piece in Thailand",
+                        "is_wikipedia": false,
+                        "start": 904,
+                        "end": 938
+                    },
+                    {
+                        "text": "Malaysia",
+                        "link_title": "/wiki/One Piece in Malaysia",
+                        "is_wikipedia": false,
+                        "start": 947,
+                        "end": 981
+                    },
+                    {
+                        "text": "Italy",
+                        "link_title": "/wiki/One Piece in Italy",
+                        "is_wikipedia": false,
+                        "start": 991,
+                        "end": 1019
+                    },
+                    {
+                        "text": "Germany",
+                        "link_title": "/wiki/One Piece in Germany",
+                        "is_wikipedia": false,
+                        "start": 1031,
+                        "end": 1063
+                    },
+                    {
+                        "text": "Indonesia",
+                        "link_title": "/wiki/One Piece in Indonesia",
+                        "is_wikipedia": false,
+                        "start": 1206,
+                        "end": 1242
+                    },
+                    {
+                        "text": "Sweden",
+                        "link_title": "/wiki/One Piece in Sweden",
+                        "is_wikipedia": false,
+                        "start": 1257,
+                        "end": 1287
+                    },
+                    {
+                        "text": "Denmark",
+                        "link_title": "/wiki/One Piece in Denmark",
+                        "is_wikipedia": false,
+                        "start": 1314,
+                        "end": 1346
+                    },
+                    {
+                        "text": "Mexico",
+                        "link_title": "/wiki/One Piece in Latin America",
+                        "is_wikipedia": false,
+                        "start": 1357,
+                        "end": 1394
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [
+                        "Taiwan",
+                        "Korea",
+                        "Singapore",
+                        "France",
+                        "Spain",
+                        "Brazil",
+                        "Hong Kong",
+                        "Thailand",
+                        "Malaysia",
+                        "Italy",
+                        "Germany",
+                        "Indonesia",
+                        "Sweden",
+                        "Denmark",
+                        "Mexico"
+                    ],
+                    "topics": [
+                        "international_publishing",
+                        "one_piece_versions",
+                        "languages"
+                    ],
+                    "emotions": [
+                        "informative"
+                    ],
+                    "importance": "hight",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda reveals the list of countries and languages where One Piece is published, with eleven countries already releasing it and four more planning to publish in 2003."
+            }
+        ],
+        "page": 26,
+        "chapter_number": 237,
+        "page_header": "SBS Vol 26 header.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 0,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "N/A",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "In the foreign versions, some of the main characters' foreign names sound rather interesting. Let's check them out now. Some are pretty strange.\n\n[[File:SBS26 Foreign 1.png|center|400px]]\nContinues on p.62...",
+                        "matches": [
+                            [
+                                146,
+                                187,
+                                "File:SBS26 Foreign 1.png|center|400px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "As for the anime, it's already in Taiwan, Hong Kong, Indonesia, Thailand, Singapore, Italy and Greece. So Luffy and the others are talking in those countries' languages! I want to see it...",
+                        "matches": []
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS26 Foreign 1.png",
+                        "size": "400",
+                        "start": 146,
+                        "end": 187
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "moneky_d_luffy"
+                    ],
+                    "places": [],
+                    "emotions": [],
+                    "topics": [
+                        "foreign_names",
+                        "anime_distribution"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda talks about the interesting foreign names of One Piece characters and mentions the anime being available in various countries."
+            }
+        ],
+        "page": "44",
+        "chapter_number": "238",
+        "page_header": null
+    },
+    {
+        "qa": [
+            {
+                "number": 0,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "N/A",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Different countries have different spellings, but a lot of them have the same pronunciation, so I picked the ones that sound unique and listed them. I didn't include [[Nico Robin]] because she hasn't appeared in the books published in those countries yet. Obviously they're behind the Japanese releases. By the way, sometimes I get mail from readers in foreign countries, but I can't read them. (Doh!) I can still understand their feelings, though, so I'm happy. Thank you.",
+                        "matches": [
+                            [
+                                166,
+                                180,
+                                "Nico Robin"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Nico Robin",
+                        "link_title": "/wiki/Nico Robin",
+                        "is_wikipedia": false,
+                        "start": 166,
+                        "end": 180
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "nico_robin"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "happy"
+                    ],
+                    "topics": [
+                        "foreign_countries",
+                        "language",
+                        "reader_feedback"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda explains the naming of characters in different countries and mentions not including Nico Robin due to her not appearing in foreign releases, but appreciates the support from international readers."
+            }
+        ],
+        "page": "62",
+        "chapter_number": "239",
+        "page_header": "SBS26 Foreign 2.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 0,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "N/A",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "The one on the left is the cover insert for Volume 10 of the [[One Piece in France|French]] version. It talked about how I am the same age as Sazae-san. Of course, French readers don't know about Sazae, so they had to add an explanation below. Sorry about that, making you have to go this far... from now on, I'll be careful and try not to blabber. (Yes!) Now, look at the right, I was surprised... they even translated \"SBS\"... it's such fine work... even these little Q&A games made it across the sea. Now all the kids in the world are going to say \"Oh, the Japanese are so silly\".\n\nOk, you are also our friend.",
+                        "matches": [
+                            [
+                                61,
+                                91,
+                                "One Piece in France|French"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "French",
+                        "link_title": "/wiki/One Piece in France",
+                        "is_wikipedia": false,
+                        "start": 61,
+                        "end": 91
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [
+                        "France"
+                    ],
+                    "emotions": [
+                        "happy",
+                        "funny"
+                    ],
+                    "topics": [
+                        "SBS",
+                        "cultural_differences",
+                        "translation"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda expresses gratitude for the French translation of Volume 10 and apologizes for potential confusion about cultural references."
+            }
+        ],
+        "page": "116",
+        "chapter_number": "242",
+        "page_header": "SBS26 Ch.242.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 0,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "N/A",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Oh... it's English. This is the [[One Piece in North America|American]] version. It only happened recently, but starting from November 2002, \"Shounen Jump Weekly\" is going to transform into \"Shonen Jump\" and enter the American market. The lineup for the magazine is: \"Dragon Ball\", \"Yu-Gi-Oh!\", \"Sandland\", \"Shaman King\", \"Naruto\" and \"One Piece\". Oh, I wonder what it's like. So that's it! Not only will you see One Piece in a lot of countries, but you'll also see lots of other Japanese manga series. I can't wait to see what will happen in the future, although I'll probably still be doing the same thing. Well then, the Special SBS International Investigation Committee is over. Starting from the next volume, the stupid, the fun SBS Q&A will return. See you next volume!!",
+                        "matches": [
+                            [
+                                32,
+                                71,
+                                "One Piece in North America|American"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "American",
+                        "link_title": "/wiki/One Piece in North America",
+                        "is_wikipedia": false,
+                        "start": 32,
+                        "end": 71
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [
+                        "America"
+                    ],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "manga",
+                        "international_market",
+                        "future",
+                        "SBS_Q&A"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda talks about One Piece being included in the American version of Shonen Jump and expresses excitement for the future of the series in different countries."
+            }
+        ],
+        "page": "134",
+        "chapter_number": "243",
+        "page_header": "SBS26 Ch.243.png"
+    }
+]

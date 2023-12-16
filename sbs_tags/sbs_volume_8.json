@@ -1,0 +1,979 @@
+[
+    {
+        "qa": [
+            {
+                "number": 1,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Dokusha (Reader)\n*",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "(Oda)",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "topics": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda does not provide a specific question or answer in this instance."
+            }
+        ],
+        "page": 44,
+        "chapter_number": 64,
+        "page_header": "SBS Vol 8 header.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 2,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Salutations. I am an earthlien* who lives in the same house that Usopp's father Yassop's friend's brother's girlfriend lived in a long time ago. *An earthlien is half-earthling, half alien.",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Wowwwww. Let the SBS begin!! (Donnn)",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "usopp",
+                        "yassop"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader claims to live in the same house as a character's distant relative, to which Oda expresses amazement and starts the Q&A."
+            },
+            {
+                "number": 3,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "The hourglasses on both sides of [[Krieg|Don Krieg]]'s skull and bones are supposed to indicate a threat to the enemy, but were hourglasses really used for that meaning? At that period in time?",
+                        "matches": [
+                            [
+                                33,
+                                52,
+                                "Krieg|Don Krieg"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "There really were pirate flags with hourglasses on them. It basically indicated the time left until the death of their prey, so it holds a meaning like, \"It's only a matter of time until your surrender\".",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Don Krieg",
+                        "link_title": "/wiki/Krieg",
+                        "is_wikipedia": false,
+                        "start": 33,
+                        "end": 52
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "don_krieg"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "pirate_flags",
+                        "symbolism"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Pirate flags with hourglasses indicated time left until prey's death, signaling imminent surrender in One Piece world."
+            },
+            {
+                "number": 4,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei. Since [[Monkey D. Luffy|Luffy]] is a Gomu Human, does that mean his \"penis\" can stretch, too?",
+                        "matches": [
+                            [
+                                18,
+                                43,
+                                "Monkey D. Luffy|Luffy"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "His penis can stretch too.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Luffy",
+                        "link_title": "/wiki/Monkey D. Luffy",
+                        "is_wikipedia": false,
+                        "start": 18,
+                        "end": 43
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "devil_fruit"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Luffy's penis can stretch because he is a Gomu Human."
+            },
+            {
+                "number": 5,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I have a question. How many g/cm<sup>3</sup> is [[Sanji]]'s kick power? I would like you to give me an answer to two decimals, please.",
+                        "matches": [
+                            [
+                                48,
+                                57,
+                                "Sanji"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "To tell you the truth, it's impossible to measure. There are games at the arcade that measure your kick power? Well, if Sanji used one of those, he would destroy not only the game, but the wall of the entire building. But if you tried to put it into a form of measurement, I would say 21 bats. The power to destroy 21 wooden baseball bats in one kick.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Sanji",
+                        "link_title": "/wiki/Sanji",
+                        "is_wikipedia": false,
+                        "start": 48,
+                        "end": 57
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "sanji"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "sanji's_power",
+                        "strength_measurement"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Sanji's kick power is impossible to measure, but if quantified, it would be equivalent to the power to destroy 21 wooden baseball bats in one kick."
+            }
+        ],
+        "page": "44",
+        "chapter_number": "64",
+        "page_header": null
+    },
+    {
+        "qa": [
+            {
+                "number": 6,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Yo!! Ei-chan!! Are you still working on One Piece? Keep drawing, man!! Okay, Ei-chan, here's my question. Who are the \"[[One Piece (Manga)|One Piece]]\" characters with the highest and lowest IQ's?! Okay, that's enough for today.",
+                        "matches": [
+                            [
+                                119,
+                                150,
+                                "One Piece (Manga)|One Piece"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I'll tell you. But when I say \"in One Piece\". I really mean, \"of all the characters introduced so far in One Piece\". And having cleared that up, the character with the highest IQ is Shanks' first mate, [[Benn Beckman]]. He is a great crewmate, who<span style=\"font-weight:normal;\">\u00a0supports Shanks with his\u00a0</span>astonishing wisdom and strength. And right after him would probably be Captain [[Kuro]], then [[Nami]], etc. Now as for the lowest IQ... I can't decide the worst one. They're all idiots.",
+                        "matches": [
+                            [
+                                202,
+                                218,
+                                "Benn Beckman"
+                            ],
+                            [
+                                393,
+                                401,
+                                "Kuro"
+                            ],
+                            [
+                                408,
+                                416,
+                                "Nami"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "One Piece",
+                        "link_title": "/wiki/One Piece (Manga)",
+                        "is_wikipedia": false,
+                        "start": 119,
+                        "end": 150
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Benn Beckman",
+                        "link_title": "/wiki/Benn Beckman",
+                        "is_wikipedia": false,
+                        "start": 202,
+                        "end": 218
+                    },
+                    {
+                        "text": "Kuro",
+                        "link_title": "/wiki/Kuro",
+                        "is_wikipedia": false,
+                        "start": 393,
+                        "end": 401
+                    },
+                    {
+                        "text": "Nami",
+                        "link_title": "/wiki/Nami",
+                        "is_wikipedia": false,
+                        "start": 408,
+                        "end": 416
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "benn_beckman",
+                        "kuro",
+                        "nami"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "playful"
+                    ],
+                    "topics": [
+                        "intelligence",
+                        "character_attributes"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "The character with the highest IQ in One Piece is Benn Beckman, while there's no clear character with the lowest IQ as they are all considered idiots."
+            },
+            {
+                "number": 7,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei, is your house really made of cardboard? (I heard from a friend.)",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes. Whether it's rainy or sunny or snowy, I always draw my manga. But don't worry. The certificate ink I use is waterproof!! (Caution: good children should not believe me!)",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "Oda_personal_life"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda jokes about his house being made of cardboard, assures that his manga drawing is not affected by weather, and humorously mentions waterproof ink."
+            },
+            {
+                "number": 8,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "What is that cape-like thing that [[Buchi]] of the Nyaban Brothers has? Is it a futon?",
+                        "matches": [
+                            [
+                                34,
+                                43,
+                                "Buchi"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Actually, it's a \"kotatsu-buton\". He's a cat, after all.\n\n''(A kotatsu-buton is the futon that covers a kotatsu, which is a table with a heater underneath. The cover keeps the heat underneath, and cats are said to love hiding under the kotatsu where it's warm).''",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Buchi",
+                        "link_title": "/wiki/Buchi",
+                        "is_wikipedia": false,
+                        "start": 34,
+                        "end": 43
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "buchi"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "clothing",
+                        "cats",
+                        "japanese_culture"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Buchi of the Nyaban Brothers wears a cape-like kotatsu-buton, a futon that covers a kotatsu, fitting for a cat who loves warm places."
+            },
+            {
+                "number": 9,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Is Luffy's pose on the cover of Volume 3 from Ken Shimura-san's \"Aiiin\"?",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Oh my god, you're right!! It's Aiiin!! It really is. Yes, it is Aiiin.\n\n''(\"Aiiin\" is a well-known gag from veteran comedian Shimura Ken. Ken's recent famous characters are Baka Tono (Stupid Lord) and Henna Ojisan. Baka Tono's signature pose is \"Aiiiiiiin!\" The sub-unit of Morning Musume, Mini Moni even did an entire song on it called \"Ai~n! Dance Song\")''",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "cover_pose_reference",
+                        "gag_reference"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Luffy's pose on Volume 3's cover is indeed from Ken Shimura-san's 'Aiiin' gag, as stated by Oda."
+            }
+        ],
+        "page": "64",
+        "chapter_number": "65",
+        "page_header": null
+    },
+    {
+        "qa": [
+            {
+                "number": 10,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Does Sanji-san like to say shit?",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "He loves to say shit.\n\n[[File:SBS Vol8 MarinesRank.png|right|300px]]",
+                        "matches": [
+                            [
+                                23,
+                                68,
+                                "File:SBS Vol8 MarinesRank.png|right|300px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS Vol8 MarinesRank.png",
+                        "size": "300",
+                        "start": 23,
+                        "end": 68
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "sanji"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "language",
+                        "sanji's behavior"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Sanji loves to say 'shit'."
+            },
+            {
+                "number": 11,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I don't understand the [[Marines]] system very well. Is Captain [Taisa] the highest rank? Is [[Koby]] at the headquarters? Or a base?? Where does Lieutenant [Taii] [[Fullbody]] stand?",
+                        "matches": [
+                            [
+                                23,
+                                34,
+                                "Marines"
+                            ],
+                            [
+                                93,
+                                101,
+                                "Koby"
+                            ],
+                            [
+                                164,
+                                176,
+                                "Fullbody"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "This is it(\u2192). This is the entire explanation of the Marines system in the world of \"One Piece\". The base Koby is in is the 153rd branch. Officers of the rank of Captain [Taisa] and above command the bases spread out all over the world. I wonder when the day\u00a0<span style=\"font-weight:normal;\">Koby advances to be an Officer</span>\u00a0will come.\n\n''(also see [[Marines#Rank System|Marines-Rank System]].)''{{-}}",
+                        "matches": [
+                            [
+                                355,
+                                398,
+                                "Marines#Rank System|Marines-Rank System"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Marines-Rank System",
+                        "link_title": "/wiki/Marines#Rank System",
+                        "is_wikipedia": false,
+                        "start": 355,
+                        "end": 398
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Marines",
+                        "link_title": "/wiki/Marines",
+                        "is_wikipedia": false,
+                        "start": 23,
+                        "end": 34
+                    },
+                    {
+                        "text": "Koby",
+                        "link_title": "/wiki/Koby",
+                        "is_wikipedia": false,
+                        "start": 93,
+                        "end": 101
+                    },
+                    {
+                        "text": "Fullbody",
+                        "link_title": "/wiki/Fullbody",
+                        "is_wikipedia": false,
+                        "start": 164,
+                        "end": 176
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "koby",
+                        "fullbody"
+                    ],
+                    "places": [
+                        "marines",
+                        "153rd branch"
+                    ],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "marines_rank_system",
+                        "ranks",
+                        "promotions"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda explains that Captain is not the highest rank in the Marines, and Koby is currently at the 153rd branch, working towards advancing as an officer."
+            },
+            {
+                "number": 12,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "In [[Volume 5]], pg. 159 (3rd panel), did that fat guy in the lower left corner manage to steal her food?",
+                        "matches": [
+                            [
+                                3,
+                                15,
+                                "Volume 5"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Well spotted!! Amazing!! That would be Mr. [[Motzel]], the gourmet, yes? He ate her food. Then they fought afterwards. The girl beside him is Mr. Motzel's daughter.",
+                        "matches": [
+                            [
+                                43,
+                                53,
+                                "Motzel"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Volume 5",
+                        "link_title": "/wiki/Volume 5",
+                        "is_wikipedia": false,
+                        "start": 3,
+                        "end": 15
+                    },
+                    {
+                        "text": "Motzel",
+                        "link_title": "/wiki/Motzel",
+                        "is_wikipedia": false,
+                        "start": 43,
+                        "end": 53
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "motzel"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "amazed"
+                    ],
+                    "topics": [
+                        "food",
+                        "fight"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Mr. Motzel, the gourmet, did steal her food and then fought afterwards, while the girl beside him is Mr. Motzel's daughter."
+            }
+        ],
+        "page": "84",
+        "chapter_number": "66",
+        "page_header": null
+    },
+    {
+        "qa": [
+            {
+                "number": 13,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Sensei, there's somethign I really want to have--a ONE PIECE Class Schedule!!\n\n[[File:SBS_Volume_8_Class_Schedule.png|thumb|A One Piece class schedule]]",
+                        "matches": [
+                            [
+                                79,
+                                152,
+                                "File:SBS_Volume_8_Class_Schedule.png|thumb|A One Piece class schedule"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Class Schedule... ahh... that brings back memories! How about something like this!? Use a copier to enlarge it or shrink it, and use it however you like!! Are there schools with seven periods? I drew it that way, just in case.{{-}}",
+                        "matches": []
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS_Volume_8_Class_Schedule.png",
+                        "size": null,
+                        "start": 79,
+                        "end": 152
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "nostalgic"
+                    ],
+                    "topics": [
+                        "class_schedule",
+                        "school",
+                        "memories"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader asks for a One Piece class schedule; Oda reminisces and provides a printed class schedule to enlarge, shrink, and use, designed with seven periods for flexibility."
+            }
+        ],
+        "page": "104",
+        "chapter_number": "67",
+        "page_header": null
+    },
+    {
+        "qa": [
+            {
+                "number": 14,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "If I want to be a girl as cool and courageous as Zoro, how should I start?",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "A girl, eh? Hmmm. First, you squat!! Then, in order to become courageous, eat some sardines!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "roronoa_zoro"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "gender_identity",
+                        "courage",
+                        "sardines"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "To be a cool and courageous girl like Zoro, squat and eat sardines, according to Oda."
+            },
+            {
+                "number": 15,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Konnichiwa Oda-sensei, I mean, nihao!! I wracked my non-existent brains and created a song for Luffy. Please read, dance and cry!\n\nFirst verse:\n::Gomu \u00d73 goooooomu yayyyyyy\n::I'm a gomu ningen, in other words, a rubber man?\n::Gomu \u00d73 goooooomu yahoooo\n::lalalalah lalah lalalalah oooh\n\nSecond verse:\n::Gomu \u00d73 goooooomu streeetch\n::I'm a pirate king, in other words, amazing!!\n::(Gomu \u00d73 gooomu)\u00d72 Amuuun\n\nHow is it? I am the champion, right? I'm ready to take on the world, right? Shall I go? Okay.. Here I go!!",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yayyyyyy!! Get outta here!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "moneky_d_luffy"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "happy",
+                        "funny"
+                    ],
+                    "topics": [
+                        "fan_song",
+                        "Luffy"
+                    ],
+                    "importance": "low",
+                    "isCharacterInsertion": true
+                },
+                "summary": "A reader presents a Luffy song to Oda and the response is a cheerful dismissal."
+            },
+            {
+                "number": 16,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Is Luffy made of natural rubber? Or artificial rubber? -A Meteorological Agency Investigation- (Ministry of Education rip off)",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "He's naturally\u00a0<s>stupid</s> rubber.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "moneky_d_luffy"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "devil_fruit"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Luffy is made of natural rubber, as confirmed by Oda."
+            },
+            {
+                "number": 17,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "When we were talking about One Piece, I said I like Shanks, my friend S. likes Zoro, and I. likes Luffy, but R. likes Buggy and Jango. Should they go see a doctor?",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Choosing those two is certainly a\u00a0<span style=\"font-weight:normal;\">serious illness</span>... But you should just tell them to rest at home and take it easy. And then tell them to get... stronger... and that life is worth living, and... stuff...",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "shanks",
+                        "zoro",
+                        "luffy",
+                        "buggy",
+                        "jango"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "fan_preference"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Fans liking characters like Buggy and Jango is a serious illness, and Oda advises them to rest at home and take it easy."
+            }
+        ],
+        "page": "146",
+        "chapter_number": "69",
+        "page_header": null
+    },
+    {
+        "qa": [
+            {
+                "number": 18,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "In \"Monkey D. Luffy\", what does the D stand for?! Is it \"donburi\" (a bowl)? Or maybe \"daibutsu\" (giant Buddha statue)? Or maybe...!! I'm really curious. Please tell me.",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I've gotten a ridiculous number of these letters... So many. But I cannot answer that question. I can't answer it... yet. Please just read it as\u00a0\"D\"\u00a0and don't think too deeply into it, for now.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "curious"
+                    ],
+                    "topics": [
+                        "d_initial_meaning"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "The reader asks what the 'D' in Monkey D. Luffy stands for, and Oda mentions he can't answer yet, just to read it as 'D' for now."
+            },
+            {
+                "number": 19,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "What is the connection between pirates and rum? Why is that every book mentions pirates and rum together in the same sentence?",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "It's not just pirates and rum, but sailors and rum. In short, rum is cheap. Because of that, back in the sailing days of England, the liquor they supplied the navy with changed from brandy to rum, and the hard-drinking men of the sea became associated with rum. As for why they would take so much liquor, it was because the water would go bad on longer voyages.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "pirates",
+                        "rum",
+                        "sailors",
+                        "navy",
+                        "sailing",
+                        "liquor",
+                        "voyages"
+                    ],
+                    "importance": "hight",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Rum became associated with sailors, including pirates, because it was cheap and used as a substitute for water on long voyages due to water going bad."
+            },
+            {
+                "number": 20,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Last night, I met a guy from the Planet Gomu Gomu. When I asked him, \"How far can you stretch your arm?\" he said \"705 Poison Gomu Gomus.\" How much is 705 Poison Gomu Gomus?",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "You met someone from the Gomu Gomu Planet?! Wow!! That's great!! A \"Poison Gomu Gomu\" is 10 times as much as a \"Gomu Gomu\". So in other words, 7,050 Gomu Gomus!! That's an astronomical length!! But be careful. Gomu Gomuns are notorious for giving the most ridiculous answers in the universe.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [
+                        "Planet Gomu Gomu"
+                    ],
+                    "emotions": [
+                        "amazed",
+                        "funny"
+                    ],
+                    "topics": [
+                        "Gomu Gomu",
+                        "stretching arm"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "The reader asks about the length of a Gomu Gomu, and Oda explains that 705 Poison Gomu Gomus are equivalent to 7,050 Gomu Gomus."
+            }
+        ],
+        "page": "168",
+        "chapter_number": "70",
+        "page_header": null
+    }
+]

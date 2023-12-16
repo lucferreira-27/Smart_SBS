@@ -1,0 +1,813 @@
+[
+    {
+        "qa": [
+            {
+                "number": 1,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "<span style=\"font-size:1.5em\"> I WILL START! THE SB...!!</span> Nvm. P.N. Pisces Yoko, the pirate\n\n[[File:SBS77 1 Usopp Gallery Pirates.png|thumb|150px]]",
+                        "matches": [
+                            [
+                                99,
+                                153,
+                                "File:SBS77 1 Usopp Gallery Pirates.png|thumb|150px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "<span style=\"font-size:1.5em\"> You're just gonna stop there?!?!?! ''(shock)''</span>\n\n...Right. Well I'll be starting it nevertheless.\n\nGuys guys, hear me out for a bit!! Take a look \u2192\n\nThis is a work of art that was submitted and featured as part of the Usopp Gallery Pirates segment in volume 23. ---and then, there's this super popular series that's currently being published in the Shonen Jump magazines called \"[[Wikipedia:My Hero Academia|My Hero Academia]]\". Take a look at the authors.\n\n[[File:SBS77 1 My Hero Academia.png|thumb|left|150px]]\n\n<span style=\"font-size:1.5em\">\u2190\u2192THEY'RE THE SAME!!!</span>\n\nThis is volume 23 we're talking about, so I guess that makes it around 10 years ago? The same person who, as a boy, submitted this postcard, is now a widely recognized and extremely successful professional mangaka himself!! Not only that, but his work actually ended up being serialized in the Shonen Jump magazine right alongside \"ONE PIECE\" itself!! This news gives me ecstatic joy. You see, a bit back at the Jump new years event, he himself actually came forward and told me about this. You should've told me earlier, I would've totally rooted for you!!\n\nWith that being said, please go and check out Kohei Horikoshi-sensei's series \"My Hero Academia\"!!",
+                        "matches": [
+                            [
+                                416,
+                                463,
+                                "Wikipedia:My Hero Academia|My Hero Academia"
+                            ],
+                            [
+                                495,
+                                549,
+                                "File:SBS77 1 My Hero Academia.png|thumb|left|150px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS77 1 Usopp Gallery Pirates.png",
+                        "size": "150",
+                        "start": 99,
+                        "end": 153
+                    },
+                    {
+                        "file": "SBS77 1 My Hero Academia.png",
+                        "size": "150",
+                        "start": 495,
+                        "end": 549
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "My Hero Academia",
+                        "link_title": "/wiki/Wikipedia:My Hero Academia",
+                        "is_wikipedia": false,
+                        "start": 416,
+                        "end": 463
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "shock",
+                        "joy",
+                        "ecstatic"
+                    ],
+                    "topics": [
+                        "My_Hero_Academia",
+                        "mangaka",
+                        "Shonen_Jump",
+                        "Usopp_Gallery_Pirates",
+                        "success"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda shares the story of a fan's success with their own manga series and encourages readers to check out 'My Hero Academia' by Kohei Horikoshi."
+            }
+        ],
+        "page": "28",
+        "chapter_number": "764",
+        "page_header": "SBS77 Header 1.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 2,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda sensei, is it because you ate the Ero Ero no Mi that you enhance the size of Nami and Robin's boobies in your drawings? Please enhance the size of my mom and my sister's boobies too. Also, please enhance the size of my p*nis. P.N. Idle Idle no Mi user (age 8)",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yeah. In fact, I do remember about this one time that I ate a really gross-tasting fruit for dessert and... ever since then, I became like this and...\n\n<span style=\"font-size:1.5em\">What do you mean I became like this!! ''(shock)'' Such rudeness!!</span>\n\nI hope for the various belongings of your family to grow larger than the body.\n\n[[File:SBS77 2 Kanjuro.png|thumb|150px]]",
+                        "matches": [
+                            [
+                                336,
+                                376,
+                                "File:SBS77 2 Kanjuro.png|thumb|150px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS77 2 Kanjuro.png",
+                        "size": "150",
+                        "start": 336,
+                        "end": 376
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "nami",
+                        "robin"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "shock",
+                        "funny"
+                    ],
+                    "topics": [
+                        "devil_fruit",
+                        "body_image",
+                        "humor"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": true
+                },
+                "summary": "Oda responds to a rude question about drawing women by humorously referencing eating a fruit for dessert."
+            },
+            {
+                "number": 3,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchi, hello!! So about the conversation that Kanjuro and Kinemon are having in (volume 76) chapter 754, page 2!!\n\nThat dialogue comes straight from a [[Wikipedia:Rakugo|Rakugo]]\u00a0performance, doesn't it!\n\nThe \"Summer Doctor\" one!! Odacchi, do you really like Rakugo??\n\nTell me who you like best from \"Hanashika\"!!\n\nPersonally, [[Wikipedia:Shijaku Katsura II|Nidaime Shijaku Katsura]] is my fave!! P.N. Fukutaro age 16",
+                        "matches": [
+                            [
+                                153,
+                                180,
+                                "Wikipedia:Rakugo|Rakugo"
+                            ],
+                            [
+                                329,
+                                385,
+                                "Wikipedia:Shijaku Katsura II|Nidaime Shijaku Katsura"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "You're right. That particular scene was a scene that I wanted for Rakugo fans to have a chuckle at. \"Chisha\" (\u8435\u82e3)\u00a0would be the old word for lettuce.\u00a0In Rakugo, there is a particular phrase that goes \"the summer doctor always makes my stomach hurt\", and that line was supposed to be a pun on this phrase. There is also a Rakugo story known as \"Escape Sparrow\", which is about how a sparrow that someone with ''insanely good drawing skills'' drew sprung out of the paper and came to life.\n\nThere are lots of Hanashika people that I like. After all, I've loved them all ever since I was in elementary school! Let's see, so there's Hanashika Kosanji, Gontaro and Kyotaro, Tatekawa Danshi and Shinosuke, Kinba Sanyute and Katsura Bunchin and Jakusaburo, Shincho Kokontei and Shinchou and... <span style=\"font-size:1.5em\">THIS WILL NEVER END!!!</span>\n\nRakugo is super fun! I bet none of you even care (cries).",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Rakugo",
+                        "link_title": "/wiki/Wikipedia:Rakugo",
+                        "is_wikipedia": false,
+                        "start": 153,
+                        "end": 180
+                    },
+                    {
+                        "text": "Nidaime Shijaku Katsura",
+                        "link_title": "/wiki/Wikipedia:Shijaku Katsura II",
+                        "is_wikipedia": false,
+                        "start": 329,
+                        "end": 385
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "happy",
+                        "funny"
+                    ],
+                    "topics": [
+                        "rakugo",
+                        "hanashika"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda confirms the dialogue is from a Rakugo performance, referencing a pun on an old word for lettuce and shares many favorite Hanashika performers from elementary school."
+            }
+        ],
+        "page": "46",
+        "chapter_number": "765",
+        "page_header": "SBS77 Header 2.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 4,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Could the large scar on Sabo's face possibly come from the time...\n\n<span style=\"font-size:1.5em\">That he fought with me</span>...!?",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "No.\n\n[[File:SBS77 3 Corazon.png|thumb|150px]]",
+                        "matches": [
+                            [
+                                5,
+                                45,
+                                "File:SBS77 3 Corazon.png|thumb|150px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS77 3 Corazon.png",
+                        "size": "150",
+                        "start": 5,
+                        "end": 45
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "sabo"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "sabo's_scar"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Sabo's scar did not come from his fight with Doflamingo, as shown in a SBS illustration by Oda."
+            },
+            {
+                "number": 5,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Question. On Law-san's coat, there is a logo that reads \"corazan\". Is this talking about the Cora-san that Law loves? Is Law's coat specially custom made? \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 P.N. himeji",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes. So, to be specific, the coat reads \"Corazon (coraz\u00f3n)\" rather than \"Cora-san\". In Spanish, this word means \"heart\". While this is in fact straight up Cora-san's code name, it can be said that there isn't really a problem with the captain of the \"Heart Pirates\" wearing this coat either. Even speaking ability-wise, Law is a \"death surgeon\" known with his unique skill of cutting peoples' \"hearts\" out. While to society, it may seem like a symbol of fear and power, I'm quite positive that Law himself had \"Cora-san\" in mind. It's definitely custom made.\n\n[[File:SBS77 3 Rosinante.png|thumb|150px]]",
+                        "matches": [
+                            [
+                                560,
+                                602,
+                                "File:SBS77 3 Rosinante.png|thumb|150px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS77 3 Rosinante.png",
+                        "size": "150",
+                        "start": 560,
+                        "end": 602
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "law",
+                        "corazon"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "informative"
+                    ],
+                    "topics": [
+                        "law's_coat",
+                        "corazon",
+                        "heart_pirates"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Law's coat with the 'Coraz\u00f3n' logo refers to Cora-san, a nod to his love for him, elaborated by Oda citing the Spanish meaning of 'heart' and its connection to Law's persona."
+            },
+            {
+                "number": 6,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello, Oda-sensei. About Rosinante's name... \n\nIs it derived from the full-length novel written by Cervantes? Since the main character, Don Quixote, rode around on a horse named Rosinante, it intrigued me enough that I decided to submit a postcard. Please give us a detailed explanation! P.N. 0196",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "\"Don Quixote\", I see. In a nutshell, it's a satirical story about a slightly insane knight.\n\nLet me explain myself in detail!!\n\n<span style=\"font-size:1.5em\">I named him on a whim.</span>",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "rosinante",
+                        "don_quixote"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "amused"
+                    ],
+                    "topics": [
+                        "character_name_origin",
+                        "literature_reference"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Rosinante's name is not derived from the novel 'Don Quixote,' but rather it was named on a whim by Oda."
+            }
+        ],
+        "page": "98",
+        "chapter_number": "768",
+        "page_header": "SBS77 Header 3.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 7,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Does Gladius's penis blow up? P.N. Muranko",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "It does. <span style=\"font-size:1.5em\">That's terrifying!!! ''(shock)''</span>",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "gladius"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "shock",
+                        "funny"
+                    ],
+                    "topics": [
+                        "body_parts",
+                        "explosions"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Gladius's penis can blow up, as confirmed by Oda in a shocking response."
+            },
+            {
+                "number": 8,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "How old is Corazon? Why is it that Sugar isn't present in the Dofla-family flashback scenes? P.N. Roronoa Romugen\n\n[[File:SBS77 4 Monet and Sugar.png|thumb|200px]]",
+                        "matches": [
+                            [
+                                115,
+                                163,
+                                "File:SBS77 4 Monet and Sugar.png|thumb|200px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Corazon is 2 years younger than Doflamingo. He died at the age of 26. So Sugar and Monet would end up joining after this incident. These two were rescued from an extremely misfortunate environment by Doflamingo himself, and as sisters aged 9 and 17, they resolved to throw their lives away if it were for the sake of the Family. They were provided with Devil Fruits after joining. You see, Doflamingo is very observant of the \"environments\" that people grow up in.\n\n[[File:SBS77 4 Luffy.png|thumb|150px]]",
+                        "matches": [
+                            [
+                                466,
+                                504,
+                                "File:SBS77 4 Luffy.png|thumb|150px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS77 4 Monet and Sugar.png",
+                        "size": "200",
+                        "start": 115,
+                        "end": 163
+                    },
+                    {
+                        "file": "SBS77 4 Luffy.png",
+                        "size": "150",
+                        "start": 466,
+                        "end": 504
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "corazon",
+                        "sugar",
+                        "monet",
+                        "doflamingo",
+                        "luffy"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "devil_fruit",
+                        "family",
+                        "character_backstory"
+                    ],
+                    "importance": [
+                        "high"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Corazon is 2 years younger than Doflamingo and died at 26. Sugar and Monet joined the Doflamingo family after Corazon's death, at ages 9 and 17, and were given Devil Fruits."
+            },
+            {
+                "number": 9,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchi, hello! I totally just decided to randomly read Luffy's palms without permission or being asked to! \n\nAnd so guess what I found out!!\n\nTurns out he has <span style=\"font-size:1.5em\">THE CONQUERER'S PALM, aka the \"MASUKAKE LINE\"</span>!!!\n\nEverything I looked up about his palm lines are literally straight up Luffy's personality! Now his Haoshoku Haki makes sense too! That's our Odacchi!!\n\nTo think that you even went as far as taking his palm lines into account when developing him as a character... absolutely incredible!!! P.N. tauteniKimi",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "...... ...... w...<span style=\"font-size:1.5em\"> WELL OBVIOUSLY? ''(sweats profusely)''</span>\n\nThat's right, I always take care to take even a character's p... p... palm lines into account when I design them. You see, I thought this just had to be the line that best suited Luffy! mosu... Masukake Line!? You're absolutely correct, I'm amazed you even noticed!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "awkward",
+                        "surprised"
+                    ],
+                    "topics": [
+                        "palm_lines",
+                        "haoshoku_haki",
+                        "character_design"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader excitedly shares that Luffy's palm reflects his personality, including Haoshoku Haki, to which Oda nervously confirms he indeed considers palm lines when creating characters."
+            }
+        ],
+        "page": "116",
+        "chapter_number": "769",
+        "page_header": "SBS77 Header 4.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 10,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "A question for Ei-chan. If you take a single bite out of a Devil Fruit, and then someone else eats the rest of it, will they still be able to gain the ability? Take it away, Ei-chan. P.N. \u2606Monkey-chan\u2606",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Ehh, <span style=\"font-size:1.5em\">They will not.</span> Once someone takes a single bite out of the fruit, the ability becomes solely theirs in that moment, and from then on, the fruit simply becomes a insanely gross-tasting fruit. Still, everyone takes care to eat the whole thing without knowing this.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "devil_fruit"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Eiichiro Oda explains that if someone takes a single bite of a Devil Fruit, the ability becomes solely theirs, and eating the rest won't grant the ability."
+            },
+            {
+                "number": 11,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Please reveal the age and height of revolutionaries Sabo, Koala, and Hack as well as what species of fish-man Hack is! Also, can Hack's birthday be 8(Ha)/9(KKu)? P.N. Katana\u2605Romantic",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes. And that's gotta be his birthday, for sure.\n{| style=\"margin:auto; width: 660px; align:center;\"\n|[[File:SBS77 5 Sabo.png|75px]]||\n187&nbsp;cm<br />\nage 22\n|[[File:SBS77 5 Koala.png|75px]]||\n160&nbsp;cm<br />\nage 23\n|[[File:SBS77 5 Hack.png|75px]]||\n280&nbsp;cm<br />\nage 38 ([[Wikipedia:Japanese soldierfish|Brocade Perch]] Fish-Man)\n|}\n{| style=\"margin:auto; width: 630px; align:center;\"\n|Sabo||\n|Koala||\n|Hack||\n|}\n{{-}}\n[[File:SBS77 5 Sai and Baby 5.png|thumb|left|150px]]",
+                        "matches": [
+                            [
+                                102,
+                                132,
+                                "File:SBS77 5 Sabo.png|75px"
+                            ],
+                            [
+                                161,
+                                192,
+                                "File:SBS77 5 Koala.png|75px"
+                            ],
+                            [
+                                221,
+                                251,
+                                "File:SBS77 5 Hack.png|75px"
+                            ],
+                            [
+                                280,
+                                328,
+                                "Wikipedia:Japanese soldierfish|Brocade Perch"
+                            ],
+                            [
+                                428,
+                                480,
+                                "File:SBS77 5 Sai and Baby 5.png|thumb|left|150px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS77 5 Sabo.png",
+                        "size": "75",
+                        "start": 102,
+                        "end": 132
+                    },
+                    {
+                        "file": "SBS77 5 Koala.png",
+                        "size": "75",
+                        "start": 161,
+                        "end": 192
+                    },
+                    {
+                        "file": "SBS77 5 Hack.png",
+                        "size": "75",
+                        "start": 221,
+                        "end": 251
+                    },
+                    {
+                        "file": "SBS77 5 Sai and Baby 5.png",
+                        "size": "150",
+                        "start": 428,
+                        "end": 480
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Brocade Perch",
+                        "link_title": "/wiki/Wikipedia:Japanese soldierfish",
+                        "is_wikipedia": false,
+                        "start": 280,
+                        "end": 328
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "sabo",
+                        "koala",
+                        "hack"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "age",
+                        "height",
+                        "species",
+                        "birthday"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Sabo is 22 years old, 187 cm tall; Koala is 23 years old, 160 cm tall; and Hack is 38 years old, 280 cm tall, a Brocade Perch Fish-Man."
+            },
+            {
+                "number": 12,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "<u>''*Celebrate*''</u> Congratulations on their marriage!! That is, Baby 5 and Sai!! By the way, what kind of woman is this \"Uhoricia\" that was mentioned as Sai's ex-fiance? I imagine a rather gorrilla-esque... strong, independant woman... P.N. Heidi's senpai\n\n[[File:SBS77 5 Uholisia.png|thumb|200px|''\"Sai <3\"'']]",
+                        "matches": [
+                            [
+                                261,
+                                315,
+                                "File:SBS77 5 Uholisia.png|thumb|200px|''\"Sai <3\"''"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I heard that she is a woman with gorgeous hair and a cool look to her eyes \u2192\n{{-}}",
+                        "matches": []
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS77 5 Uholisia.png",
+                        "size": "200",
+                        "start": 261,
+                        "end": 315
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "baby_5",
+                        "sai"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "happy"
+                    ],
+                    "topics": [
+                        "marriage",
+                        "relationships"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Sai's ex-fiance Uhoricia is a woman with gorgeous hair and a cool look in her eyes, not gorilla-esque as imagined."
+            }
+        ],
+        "page": "154",
+        "chapter_number": "771",
+        "page_header": "SBS77 Header 5.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 13,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-san, hello~. About Bartolomeo, he said something about how his barriers have a limit or whatever, so how many Bari-Bari's worth is its maximum capacity? P.N. Hoichael Jackson",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Great question. There is in fact a limit to the space his barriers can cover, as well as how many barriers he can put up at a time. He can only hold up one barrier at a time, and they say that this one barrier can cover up to 50 thousand Bari-Bari's!! Amazing! 1 Bari-Bari equates to roughly 100x that of 1 Bori-Bari-Bari, so in other words, his barrier capacity is just about 500 Pickle-Pori-Pori-Bari-Bari's.\n\n<font color=#999999>''(Translator's Note: Bari, Bori, and Pori are all Japanese sound effects that roughly translate to 'crunching'.)''</font>\n\n[[File:SBS77 6 Castles.png|thumb|150px]]",
+                        "matches": [
+                            [
+                                556,
+                                596,
+                                "File:SBS77 6 Castles.png|thumb|150px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS77 6 Castles.png",
+                        "size": "150",
+                        "start": 556,
+                        "end": 596
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "bartolomeo"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "informative",
+                        "funny"
+                    ],
+                    "topics": [
+                        "barriers",
+                        "devil_fruit",
+                        "power_scale"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Bartolomeo's barriers have a limit of one at a time, covering up to 50 thousand Bari-Bari's, roughly 500 Pickle-Pori-Pori-Bari-Bari's."
+            },
+            {
+                "number": 14,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "In chapter 765, from looking at what we see of the castle, the island that Corazon and Law were on was the same island as Noland's homeland, \"Lvneel Kingdom\"!! I wonder if Corazon was thinking, \"maybe if we go to the island that was able to cure Tree Fever, which also caused people's skin color to change...!!\" and took Law there. Just my wild imagination itself is starting to make me tear up. Please pass the kleenex. P.N. Sacred Tree-kun",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Correct. They are, in fact, the same place.\u00a0\n\nThe scenerey really hasn't changed at all from the past there.\n\nYou were imagining a scenario like that?!\n\nNow you're making me tear up too.\n\nCorazon is such a good guy~ (cries).",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "corazon",
+                        "law"
+                    ],
+                    "places": [
+                        "Lvneel Kingdom"
+                    ],
+                    "emotions": [
+                        "sentimental",
+                        "tearful"
+                    ],
+                    "topics": [
+                        "nostalgia",
+                        "island connection"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Corazon and Law's island is the same as Lvneel Kingdom; Oda confirms and gets emotional over the reader's speculation about Corazon's good deeds."
+            },
+            {
+                "number": 15,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "To tell you the truth, about Cora-san's birthday...\n\n<span style=\"font-size:1.5em\">0 7 1 5 [No Sound Corazon]</span>\u00a0that's right... <span style=\"font-size:1.5em\">it turns out to be 7/15...!!</span>\u00a0P.N. Yabu Smith\n\n<font color=#999999>''(Translator's Note: With a stretch, the numbers 0715 can be related to the Japanese pronunciation of \"No Sound Corazon\" [Oto Nai Corazon] with the 0 representing to the \"O\" in \"Oto\", the 7 and 1 combined to create the word \"Nai\", and the 5 standing in for the \"Co\" in \"Corazon\").''</font>",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Mmkay. What he said. Right then, SBS ends here.\n\nThe Tokyo One Piece Tower just recently opened! Go there! Okay then, see you in the next volume!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "corazon"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "corazon_birthday",
+                        "japanese_pronunciation",
+                        "tokyo_one_piece_tower"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Cora-san's birthday is confirmed to be 7/15, with a play on Japanese pronunciation of 'No Sound Corazon'; Oda mentions the opening of Tokyo One Piece Tower."
+            }
+        ],
+        "page": "192",
+        "chapter_number": "773",
+        "page_header": "SBS77 Header 6.png"
+    }
+]

@@ -1,0 +1,803 @@
+[
+    {
+        "qa": [
+            {
+                "number": 1,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Otada-sentasei, hetallota! Itas thtais hatard to reatad? Atand tanow, betagin the StaBtaS!! P.N. Tanuki",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "What?! Pen-name \"Ta-nuki\"?! As in, \"take out the Ta\"? Okay, so I'll just read this without the letters \"ta\". Here we go. \"Oda-sensei, hello! Is this hard to read? And now, begin the SBS!!\" Woo-hoo, that wasn't so hard!! Wait, THEY STARTED IT ALREADY!!!\n[[File:SBS42 1 Kuro Soru.png|right|120px]]",
+                        "matches": [
+                            [
+                                253,
+                                295,
+                                "File:SBS42 1 Kuro Soru.png|right|120px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS42 1 Kuro Soru.png",
+                        "size": "120",
+                        "start": 253,
+                        "end": 295
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "surprise",
+                        "funny"
+                    ],
+                    "topics": [
+                        "SBS",
+                        "pen_name"
+                    ],
+                    "importance": "hight",
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader greets Oda using a quirky pen name and asks if it's hard to read, to which Oda responds by removing the specified letters and starting the Q&A."
+            },
+            {
+                "number": 2,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Which is faster, between Captain Kuro's \"[[Shakushi]]\" and CP9's \"[[Soru]]\"? TELL ME. by Niku-oh",
+                        "matches": [
+                            [
+                                41,
+                                53,
+                                "Shakushi"
+                            ],
+                            [
+                                66,
+                                74,
+                                "Soru"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Ah yes. I got a surprising number of questions about this one. Captain Kuro's Shakushi (introduced in Volume 5) was a pretty tough one. To answer the question, speedwise they are about the same. But when Captain Kuro uses his trick, the speed is so great that he doesn't even know who he's attacking, but CP9 has complete control of their move at the same speed. So if there were a competition, CP9 would be overwhelmingly stronger.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Shakushi",
+                        "link_title": "/wiki/Shakushi",
+                        "is_wikipedia": false,
+                        "start": 41,
+                        "end": 53
+                    },
+                    {
+                        "text": "Soru",
+                        "link_title": "/wiki/Soru",
+                        "is_wikipedia": false,
+                        "start": 66,
+                        "end": 74
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "captain_kuro",
+                        "cp9"
+                    ],
+                    "places": [],
+                    "emotions": [],
+                    "topics": [
+                        "devil_fruit",
+                        "fighting_techniques"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Captain Kuro's Shakushi and CP9's Soru have about the same speed, but CP9 has better control at the same speed, making them stronger in a competition."
+            },
+            {
+                "number": 3,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei, hello!! In [[Author's Notes#Volume 38|Volume 38]], you wrote \"When you don't know the answer on a test, just write instrumental\", so I tried that myself. But when I got the test back, it was checked wrong. Why was it checked wrong? Please tell me why. P.N. Katsufumi Four!!",
+                        "matches": [
+                            [
+                                23,
+                                61,
+                                "Author's Notes#Volume 38|Volume 38"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "The results are not the point. The real treasure here is your courage, for taking the first step forward. (\u2190?)",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Volume 38",
+                        "link_title": "/wiki/Author's Notes#Volume 38",
+                        "is_wikipedia": false,
+                        "start": 23,
+                        "end": 61
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "encouraging"
+                    ],
+                    "topics": [
+                        "advice",
+                        "test-taking",
+                        "encouragement"
+                    ],
+                    "importance": "hight",
+                    "isCharacterInsertion": false
+                },
+                "summary": "A fan tried Oda's advice of writing 'instrumental' when not knowing an answer but got marked wrong; Oda valued the fan's courage."
+            }
+        ],
+        "page": 46,
+        "chapter_number": 401,
+        "page_header": "SBS Vol 42 header.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 4,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei!! Please help me!! My dad and I and my little brother are caught in the [[Sogeking]] trap! We can't get out!! We're always singing \"On the Island of Snipers\u266a\" whenever and wherever we go!! This must be that terrible affliction. The uh, \"I-must-have-Soge-King-or-I-will-die-itis\"!! Quick, what's the cure?! Tell me!! Soge!! by Mega King",
+                        "matches": [
+                            [
+                                83,
+                                95,
+                                "Sogeking"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Oh, I see. Okay! C'mon, Soge King!! Help us solve this problem!!\n\nSogeking: Hello there. Are you having trouble? Never fear! You will die without me? Don't worry, I'm not going anywhere! Why? Because... \"The Island of Snipers\" is... within your heart...",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Okay, all done. Next question.\n\nSogeking: What do you mean, all done?!!",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "All done, all done.\n\n[[File:SBS42 2 Gatherine.png|thumb|120px|Gatherine]]",
+                        "matches": [
+                            [
+                                21,
+                                73,
+                                "File:SBS42 2 Gatherine.png|thumb|120px|Gatherine"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Sogeking",
+                        "link_title": "/wiki/Sogeking",
+                        "is_wikipedia": false,
+                        "start": 83,
+                        "end": 95
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "sogeking"
+                    ],
+                    "places": [
+                        "island_of_snipers"
+                    ],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "sogeking",
+                        "affliction"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "A reader asks for help with a Sogeking song addiction, and Oda and Sogeking humorously respond before moving on to the next question."
+            },
+            {
+                "number": 5,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei, I have a question. In Volume 40, p. 36 ([[Chapter 379]], \"Doriki\") the waitress named [[Gatherine|Gatherine-san]] turned down [[Jabra]]. What kind of guys DOES she like? Or does she already have a boyfriend? I can't sleep at night...It's all I think about... P.N. General Recycle",
+                        "matches": [
+                            [
+                                52,
+                                67,
+                                "Chapter 379"
+                            ],
+                            [
+                                98,
+                                125,
+                                "Gatherine|Gatherine-san"
+                            ],
+                            [
+                                138,
+                                147,
+                                "Jabra"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "The idol of [[Enies Lobby]], Gatherine has pined after one man all of this time. Her exact words when she turned down Jabra were this: \"I'm sorry, but I'm in love with Lucci-san!! I mean, all a guy has is looks, right?!\" The number of men who have crashed and burned before this burning love must be countless. Good luck, Jabra!",
+                        "matches": [
+                            [
+                                12,
+                                27,
+                                "Enies Lobby"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Gatherine-san",
+                        "link_title": "/wiki/Gatherine",
+                        "is_wikipedia": false,
+                        "start": 98,
+                        "end": 125
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Chapter 379",
+                        "link_title": "/wiki/Chapter 379",
+                        "is_wikipedia": false,
+                        "start": 52,
+                        "end": 67
+                    },
+                    {
+                        "text": "Jabra",
+                        "link_title": "/wiki/Jabra",
+                        "is_wikipedia": false,
+                        "start": 138,
+                        "end": 147
+                    },
+                    {
+                        "text": "Enies Lobby",
+                        "link_title": "/wiki/Enies Lobby",
+                        "is_wikipedia": false,
+                        "start": 12,
+                        "end": 27
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "gatherine",
+                        "jabra",
+                        "lucci"
+                    ],
+                    "places": [
+                        "enies_lobby"
+                    ],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "relationships",
+                        "love",
+                        "comedy"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "Gatherine-san from Volume 40 turned down Jabra and is in love with Lucci-san, believing looks are all a guy has."
+            }
+        ],
+        "page": "66",
+        "chapter_number": "402",
+        "page_header": "SBS_Vol_42_02.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 5,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "N/A",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Here's a sudden new project! I call it \"(S)onna (J)ouhou (I)rimasen\" (I didn't need to know that). The SJI Corner!! This time, I'll show you the faces of \"[[Wanze]]\" from my sketchbook before he became the guy we all know!!\n\n#''Started as a girl!?''\n#''Became a man!''\n#''Started looking weird!''\n#''Cabbage!? What the heck's this! (I'll give you a cabbage!!)''\n#''Whoa!! Now THAT looks weird!!''\n#''Complete!! (All done)''\n\n[[File:SBS42 3 Wanze Development.png|center|500px]]",
+                        "matches": [
+                            [
+                                155,
+                                164,
+                                "Wanze"
+                            ],
+                            [
+                                425,
+                                476,
+                                "File:SBS42 3 Wanze Development.png|center|500px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS42 3 Wanze Development.png",
+                        "size": "500",
+                        "start": 425,
+                        "end": 476
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Wanze",
+                        "link_title": "/wiki/Wanze",
+                        "is_wikipedia": false,
+                        "start": 155,
+                        "end": 164
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "wanze"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "character_development",
+                        "sketchbook"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda introduces a new project called SJI Corner, showing the development of character Wanze from his sketchbook, revealing the initial girl-like appearance and the final version."
+            }
+        ],
+        "page": "86",
+        "chapter_number": "403",
+        "page_header": "SBS_Vol_42_06.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 6,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Don't take all the sauce, jerk!!! by Sunny-Side Up Must Have Salt",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Okay. Moving on.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader complains about sauce, author dismisses it and moves on."
+            },
+            {
+                "number": 7,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hi, Oda-sensei! I have a serious question. [[One Piece (Manga)|One Piece]] has been going on for quite some time, hasn't it? Have you thought of the ending already? Though personally, I wouldn't mind if it continued on forever. One Piece is the BEST!!! from Mac",
+                        "matches": [
+                            [
+                                43,
+                                74,
+                                "One Piece (Manga)|One Piece"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I've answered this in some magazines and interviews. Originally, my plan was that One Piece would continue for five years. I've always had the climax in my head from the start, I've just been working toward it since. But my original estimates were a bit short, and I was unable to finish up my story within five years (ROFL). And now our pirates have been adventuring for nine years, and I have no idea how much longer they will be at it (hey!).",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "One Piece",
+                        "link_title": "/wiki/One Piece (Manga)",
+                        "is_wikipedia": false,
+                        "start": 43,
+                        "end": 74
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "ending",
+                        "story_duration"
+                    ],
+                    "importance": "hight",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda initially planned One Piece to last 5 years but extended it; he has the ending in mind since the beginning, but it's now uncertain how long it will continue."
+            },
+            {
+                "number": 8,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "O-Odacchi, what's up? Last month I bought the game \"One Piece Pirates Carnival.\" Now, here is my question...",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "HEY!!! That's IT?! What's the question?!!\n\n\n[[File:SBS42 4 Wanze Onions.png|right|100px]]",
+                        "matches": [
+                            [
+                                44,
+                                89,
+                                "File:SBS42 4 Wanze Onions.png|right|100px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS42 4 Wanze Onions.png",
+                        "size": "100",
+                        "start": 44,
+                        "end": 89
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "impatient"
+                    ],
+                    "topics": [],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda gets frustrated when a reader mentions buying a One Piece game but doesn't ask a question."
+            },
+            {
+                "number": 9,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "In the SBS Corner for [[Volume 41]], you talked about [[Wanze]]'s goggles, remember? In actuality, the part of onions that causes you to cry comes in through the nose, so wearing goggles will have no effect. So, be sure to let Wanze know. \"When you cut onions, just push those goggles right into your nostrils, then you're all set.\" from Housekeeping Student, Year 1",
+                        "matches": [
+                            [
+                                22,
+                                35,
+                                "Volume 41"
+                            ],
+                            [
+                                54,
+                                63,
+                                "Wanze"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Ooh, I see. What a loser! Wanze, you dork! Hey! Consider yourself warned, thanks!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Volume 41",
+                        "link_title": "/wiki/Volume 41",
+                        "is_wikipedia": false,
+                        "start": 22,
+                        "end": 35
+                    },
+                    {
+                        "text": "Wanze",
+                        "link_title": "/wiki/Wanze",
+                        "is_wikipedia": false,
+                        "start": 54,
+                        "end": 63
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "wanze"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "cooking",
+                        "silly"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "A reader informs Oda that wearing goggles won't prevent onion tears, leading Oda to mock Wanze and agree with the correction."
+            }
+        ],
+        "page": "126",
+        "chapter_number": "405",
+        "page_header": null
+    },
+    {
+        "qa": [
+            {
+                "number": 10,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello, Oda-sensei. It's nice to meet you, I've always been a One Piece fan. Now, I have a bit of a serious question. In class the other day, I learned that the word \"Rob\" stands for \"steal\". So I got curious, and after searching, learned that \"Lucci\" means \"light\" in Italian. Put them together, it's \"steal the light\". I thought it was fascinating, because \"stealing\" is a concept that runs throughout One Piece, not just in this part. So you must have named him that on purpose, right? P.N. Refect",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "...y... y... well, yeah. I-I... I did (shocked). You know me. I'm the guy who comes up with the deep meaningful names. Yep. In fact, \"Rob Lucci\" even means \"steal the light\", or SO I HEAR. (\u2190Had no idea)\n\n\n[[File:SBS42 5 Nami's Cup Size.png|right|120px]]",
+                        "matches": [
+                            [
+                                206,
+                                254,
+                                "File:SBS42 5 Nami's Cup Size.png|right|120px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS42 5 Nami's Cup Size.png",
+                        "size": "120",
+                        "start": 206,
+                        "end": 254
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "rob_lucci"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "shocked",
+                        "funny"
+                    ],
+                    "topics": [
+                        "name_meaning",
+                        "character_names"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "D: A fan mentions the Italian meanings of 'Rob' and 'Lucci' and guesses 'Rob Lucci' means 'steal the light'; O: Oda is surprised but goes along and agrees with the interpretation."
+            },
+            {
+                "number": 11,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I am \"Sogeking-ko\", a proponent of all healthy young boys everywhere! Healthy young boys of this country!! Remember the question in the SBS of Volume 41, asking about [[Nami|Nami-san]]'s cup size?! According to my rotoscopic vision, Nami-san's under bust size is 65. So her regular bust size of 95 would make her an I cup!!! (donnn) That's HUGE!!! I'm a D cup... Boys... can you accept this answer??",
+                        "matches": [
+                            [
+                                167,
+                                184,
+                                "Nami|Nami-san"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Well, I must say I received a lot of answers to this question from my female readers. Thank you for your detailed and in-depth explanations. But you know, the boys aren't gonna read any of these complicated, difficult answers, so I'm just gonna report on the most common result! Nami and Robin are I cups. Wow.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Nami-san",
+                        "link_title": "/wiki/Nami",
+                        "is_wikipedia": false,
+                        "start": 167,
+                        "end": 184
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "sogeking",
+                        "nami",
+                        "robin"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "cup_size_discussion",
+                        "female_readers_response"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "Sogeking-ko claims Nami's cup size in One Piece, but Oda dismisses it and states that Nami and Robin are I cups."
+            }
+        ],
+        "page": "146",
+        "chapter_number": "406",
+        "page_header": "SBS_Vol_42_09.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 12,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Now, I have a question. About the books being thrown away by [[Nico Olvia|Olvia]]'s group in the 5th panel of p. 170 in Volume 41! The book titled [[Brag Men]]!! Isn't that the same as the one Nami's reading on p. 142 of Volume 13?! Isn't it?! Isn't it?! Okay, I asked three times. If I'm wrong, I'm gonna ring your doorbell and run away. From P*N Sogequeen\u2606\u2605",
+                        "matches": [
+                            [
+                                61,
+                                81,
+                                "Nico Olvia|Olvia"
+                            ],
+                            [
+                                147,
+                                159,
+                                "Brag Men"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Oooh. Here's a surprise. Thanks for reading so deeply into it. That's amazing. You are correct. It's the book that had info about the Island of Giants, [[Little Garden]], a book that is read all around the world now, as a tome of \"adventures on the Grand Line\". Eyewitness tales about the unbelievable islands, people and happenings in this mysterious sea, related by fearless explorers, all so outlandish and bizarre to normal readers around the world that they were collected in a book of tall tales and given this humiliating title. If this book only exists today because the brave scholars of [[Ohara]] gave their lives to protect it 20 years ago, it fills your heart with something warm. So, are these \"Brag men\" truly just liars? Maybe you can tell the truth behind the stories, through the looking glass of Luffy's adventures. See you in the SBS next volume!!!",
+                        "matches": [
+                            [
+                                152,
+                                169,
+                                "Little Garden"
+                            ],
+                            [
+                                597,
+                                606,
+                                "Ohara"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Olvia",
+                        "link_title": "/wiki/Nico Olvia",
+                        "is_wikipedia": false,
+                        "start": 61,
+                        "end": 81
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Brag Men",
+                        "link_title": "/wiki/Brag Men",
+                        "is_wikipedia": false,
+                        "start": 147,
+                        "end": 159
+                    },
+                    {
+                        "text": "Little Garden",
+                        "link_title": "/wiki/Little Garden",
+                        "is_wikipedia": false,
+                        "start": 152,
+                        "end": 169
+                    },
+                    {
+                        "text": "Ohara",
+                        "link_title": "/wiki/Ohara",
+                        "is_wikipedia": false,
+                        "start": 597,
+                        "end": 606
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "nico_olvia",
+                        "nami",
+                        "luffy"
+                    ],
+                    "places": [
+                        "little_garden",
+                        "grand_line",
+                        "ohara"
+                    ],
+                    "topics": [
+                        "books",
+                        "adventures",
+                        "grand_line",
+                        "ohara",
+                        "island_of_giants",
+                        "sbs_next_volume"
+                    ],
+                    "emotions": [
+                        "surprise",
+                        "curiosity"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda confirms that the book Nami was reading is the same one mentioned by Nico Olvia's group, filled with stories about the Grand Line's islands and people, promising more in the next volume's SBS."
+            }
+        ],
+        "page": "186",
+        "chapter_number": "408",
+        "page_header": "SBS42 6 Brag Men.png"
+    }
+]

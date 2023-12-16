@@ -1,0 +1,1384 @@
+[
+    {
+        "qa": [
+            {
+                "number": 0,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "N/A",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Ah, the radio show is starting!\n\nRadio: ...Coming from Tokyo, a request by Oda Eiichiro-kun! The upcoming song, the SBS, is abo...bobo...bout to...bebebeginn!!!!! P.N. Nakahara-ji",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "It started from the radio!!!?\n\n[[File:SBS 92 Wano Country.png|thumb|300px]]",
+                        "matches": [
+                            [
+                                31,
+                                75,
+                                "File:SBS 92 Wano Country.png|thumb|300px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [
+                        "tokyo",
+                        "wano"
+                    ],
+                    "emotions": [
+                        "excited"
+                    ],
+                    "topics": [
+                        "radio",
+                        "SBS"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda is excited as the radio show mentions him, and the SBS is about to begin."
+            },
+            {
+                "number": 1,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "It might be too quick to ask, but why have you been using the sound effects [Beben] and [Ben] in [[Wano Country]] so far? P.N. Bebebe-n",
+                        "matches": [
+                            [
+                                97,
+                                113,
+                                "Wano Country"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes you're right. Up until now, it was always [Don] or [Dodon]. I have been using [Ben!] because its the sound that an instrument called a biwa (Japanese lute) makes. However, I've been drawing a shamisen being played instead. So when we get to this scene in the anime, I'm hoping they can put on a good production with the sound mixing team. I'm counting on you, Toei Animation!!\n\n[[File:SBS 92 Robin.png|thumb|300px]]",
+                        "matches": [
+                            [
+                                382,
+                                419,
+                                "File:SBS 92 Robin.png|thumb|300px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS 92 Robin.png",
+                        "size": "300",
+                        "start": 382,
+                        "end": 419
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Wano Country",
+                        "link_title": "/wiki/Wano Country",
+                        "is_wikipedia": false,
+                        "start": 97,
+                        "end": 113
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy",
+                        "roronoa_zoro",
+                        "nico_robin"
+                    ],
+                    "places": [
+                        "wano_country"
+                    ],
+                    "emotions": [
+                        "hopeful",
+                        "appreciative"
+                    ],
+                    "topics": [
+                        "sound_effects",
+                        "music",
+                        "anime_production"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda explains the use of sound effects 'Beben' and 'Ben' in Wano Country, expressing a hope for Toei Animation to create an accurate sound production in the anime."
+            },
+            {
+                "number": 2,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I have a question, Odacchi. The women you draw almost always have a large bust. When they're in Wano, they all wear kimonos and I've noticed that their busts get hidden away. I'm curious. Is it really okay even if Japanese women don't have big busts??? P.N. Chii-chan",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes, this topic. Before, when I didn't know much about kimonos, I drew chests with their normal emphasis. However, I received a lot of letters from fans who were kimono pros telling me women with large busts would purposefully find ways to hide them to emphasize the beauty of their silhouette as well as teaching me tips on how they do this. Well in the end, the way anybody wears their clothes is up to them but I was convinced that the beauty of kimono lies in the silhouette (body line) so that's what I've been emphasizing in my drawing! If they took them off, it would be incredible!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [
+                        "Wano"
+                    ],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "clothing",
+                        "body_image",
+                        "beauty"
+                    ],
+                    "importance": "high",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda explains that after learning about kimonos, he emphasizes the beauty of the silhouette and received advice from fans on how women with large busts hide them in kimonos."
+            }
+        ],
+        "page": "24",
+        "chapter_number": "922",
+        "page_header": "SBS 92 Header 1.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 3,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchi-dono! I have a question-de gozaru!! The building that appeared in Wano, it has everything from roundness, distortion, to a feeling of commitment-de gozaru but is that thing above the Sumo Ring a hanging roof?\n[[File:SBS 92 Sumo Ring's Roof.png|thumb|left|200px]]\n\u2190 Is that roof floating-de gozaru!?? P.N. Director's Nurse",
+                        "matches": [
+                            [
+                                217,
+                                270,
+                                "File:SBS 92 Sumo Ring's Roof.png|thumb|left|200px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Ah yes. It is floating. No, actually, it is flying. It's a kite. In order to show the performance inside the ring, the roof usually hangs from the ceiling. Since Sumo is performed outside in Bakura Town, the roof flies up instead. It looks heavy but it's actually very light. To explain that it was a kite would have taken too much time in the story so if you want, you can think of it as a balloon instead!\n\n[[File:SBS 92 Flag.png|thumb|400px]]",
+                        "matches": [
+                            [
+                                409,
+                                445,
+                                "File:SBS 92 Flag.png|thumb|400px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS 92 Sumo Ring's Roof.png",
+                        "size": "200",
+                        "start": 217,
+                        "end": 270
+                    },
+                    {
+                        "file": "SBS 92 Flag.png",
+                        "size": "400",
+                        "start": 409,
+                        "end": 445
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [
+                        "wano",
+                        "bakura_town"
+                    ],
+                    "emotions": [
+                        "informative"
+                    ],
+                    "topics": [
+                        "architecture",
+                        "sumo_ring",
+                        "wano_culture"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "The building in Wano has a floating roof, which is actually a kite to show the performance inside the Sumo Ring."
+            },
+            {
+                "number": 4,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchi!! I noticed something. In [[Volume 91]], [[Chapter 916|Ch. 916]], Pg. 116 when [[Monkey D. Luffy|Luffy]] defeated \"Yokozuna\" [[Urashima]] there was a flag that read [\u731b\u5ca9\u65a7\u95a2] (Fierce Boulder Axe Gate). Back in [[Volume 1]], [[Chapter 4|Ch. 4]], there was a character named \"Axe-Hand Morgan\" right!? Could it be that [[Morgan]] was actually originally from Wano?? I'm right aren't I?? - from Riku-kun\n\n[[File:SBS 92 Morgan.png|thumb|200px]]",
+                        "matches": [
+                            [
+                                34,
+                                47,
+                                "Volume 91"
+                            ],
+                            [
+                                49,
+                                72,
+                                "Chapter 916|Ch. 916"
+                            ],
+                            [
+                                87,
+                                112,
+                                "Monkey D. Luffy|Luffy"
+                            ],
+                            [
+                                133,
+                                145,
+                                "Urashima"
+                            ],
+                            [
+                                215,
+                                227,
+                                "Volume 1"
+                            ],
+                            [
+                                229,
+                                248,
+                                "Chapter 4|Ch. 4"
+                            ],
+                            [
+                                321,
+                                331,
+                                "Morgan"
+                            ],
+                            [
+                                406,
+                                444,
+                                "File:SBS 92 Morgan.png|thumb|200px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Well spotted! Indeed it is related to Morgan. \"Indeed\"!? This was actually a joke by the background artists of this scene. It was a situation of \"Our staff\" VS \"Readers\" (LOL). In Wano, because all the store signs and embellishments are in Japanese, I needed to come up with words to fill them all. It was really hard to come up with what words to tell my artists to write in for each one so I asked them to just hide words related to [ONE PIECE] around the background. In that same panel, you can see [\u8e0a\u96c0\u4f0d\u95a2] (Jumping Sparrow Five Gate), [\u96f9\u4e09\u6d77\u95a2] (Hail Three Sea Gate) and [\u6d77\u56db\u6012\u95a2] (Sea Four Angry Gate) written as well. So what do you think these are related to? (LOL). There are probably more words hidden in other panels as well!!",
+                        "matches": []
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS 92 Morgan.png",
+                        "size": "200",
+                        "start": 406,
+                        "end": 444
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Ch. 916",
+                        "link_title": "/wiki/Chapter 916",
+                        "is_wikipedia": false,
+                        "start": 49,
+                        "end": 72
+                    },
+                    {
+                        "text": "Luffy",
+                        "link_title": "/wiki/Monkey D. Luffy",
+                        "is_wikipedia": false,
+                        "start": 87,
+                        "end": 112
+                    },
+                    {
+                        "text": "Ch. 4",
+                        "link_title": "/wiki/Chapter 4",
+                        "is_wikipedia": false,
+                        "start": 229,
+                        "end": 248
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Volume 91",
+                        "link_title": "/wiki/Volume 91",
+                        "is_wikipedia": false,
+                        "start": 34,
+                        "end": 47
+                    },
+                    {
+                        "text": "Urashima",
+                        "link_title": "/wiki/Urashima",
+                        "is_wikipedia": false,
+                        "start": 133,
+                        "end": 145
+                    },
+                    {
+                        "text": "Volume 1",
+                        "link_title": "/wiki/Volume 1",
+                        "is_wikipedia": false,
+                        "start": 215,
+                        "end": 227
+                    },
+                    {
+                        "text": "Morgan",
+                        "link_title": "/wiki/Morgan",
+                        "is_wikipedia": false,
+                        "start": 321,
+                        "end": 331
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy",
+                        "urashima",
+                        "morgan"
+                    ],
+                    "places": [
+                        "wano"
+                    ],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "wordplay"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "The flag in Chapter 916 and Axe-Hand Morgan are not related, as it was a joke by background artists to hide words related to One Piece in Wano's store signs."
+            }
+        ],
+        "page": "42",
+        "chapter_number": "923",
+        "page_header": "SBS 92 Header 2.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 4,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "N/A",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I received a difference from P.N.\u3086! Thank you very much! ! The answer is below, so be sure to find it again!\n\n[[File:SBS 92 Marines.png|thumb|center|400px]]\nAnswers:\n#There are two bars on [[Sakazuki|Akainu]]'s hat in the first Panel.\n#The length of [[Issho|Fujitora's]] [[wikipedia:Epaulette|Epaulette]] in the first Panel is longer.\n#Fujitora's scarf in\u00a0the first panel is rolled differently.\n#[[Monkey D. Garp|Garp]]'s socks in Panel 2 are half taken off.\n#[[Hina]]'s hair bun is in different directions in the first and second Panel.\n#[[Sengoku]]\u00a0has some hair decorating items on his head in the second panel.\n#The length of Sengoku's beard tail is shorter in the second panel.\n#Rice Crackers besides Sengoku's feet is missing in the first panel.\n#[[Smoker]]'s Coat has differently-colored cuffs in the two images.",
+                        "matches": [
+                            [
+                                110,
+                                156,
+                                "File:SBS 92 Marines.png|thumb|center|400px"
+                            ],
+                            [
+                                189,
+                                208,
+                                "Sakazuki|Akainu"
+                            ],
+                            [
+                                250,
+                                270,
+                                "Issho|Fujitora's"
+                            ],
+                            [
+                                271,
+                                304,
+                                "wikipedia:Epaulette|Epaulette"
+                            ],
+                            [
+                                396,
+                                419,
+                                "Monkey D. Garp|Garp"
+                            ],
+                            [
+                                460,
+                                468,
+                                "Hina"
+                            ],
+                            [
+                                539,
+                                550,
+                                "Sengoku"
+                            ],
+                            [
+                                753,
+                                763,
+                                "Smoker"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS 92 Marines.png",
+                        "size": "400",
+                        "start": 110,
+                        "end": 156
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Akainu",
+                        "link_title": "/wiki/Sakazuki",
+                        "is_wikipedia": false,
+                        "start": 189,
+                        "end": 208
+                    },
+                    {
+                        "text": "Fujitora's",
+                        "link_title": "/wiki/Issho",
+                        "is_wikipedia": false,
+                        "start": 250,
+                        "end": 270
+                    },
+                    {
+                        "text": "Epaulette",
+                        "link_title": "/wiki/Epaulette",
+                        "is_wikipedia": true,
+                        "start": 271,
+                        "end": 304
+                    },
+                    {
+                        "text": "Garp",
+                        "link_title": "/wiki/Monkey D. Garp",
+                        "is_wikipedia": false,
+                        "start": 396,
+                        "end": 419
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Hina",
+                        "link_title": "/wiki/Hina",
+                        "is_wikipedia": false,
+                        "start": 460,
+                        "end": 468
+                    },
+                    {
+                        "text": "Sengoku",
+                        "link_title": "/wiki/Sengoku",
+                        "is_wikipedia": false,
+                        "start": 539,
+                        "end": 550
+                    },
+                    {
+                        "text": "Smoker",
+                        "link_title": "/wiki/Smoker",
+                        "is_wikipedia": false,
+                        "start": 753,
+                        "end": 763
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "akainu",
+                        "fujitora",
+                        "monkey_d_garp",
+                        "hina",
+                        "sengoku",
+                        "smoker"
+                    ],
+                    "places": [],
+                    "topics": [
+                        "marines",
+                        "clothing",
+                        "visual details"
+                    ],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Readers submitted observations about various characters' details in specific panels and Oda provided the confirmed differences or changes in each case."
+            }
+        ],
+        "page": "58",
+        "chapter_number": "924",
+        "page_header": "SBS 92 Header 3.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 4,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "N/A",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Well then everyone I've got an announcement to make. At the new year's meeting of Jump, I found out that there was a fellow nakama from the [[Usopp Gallery Pirates]]! Starting from March of this year, the series \"Ne0;lation\" will be serializing in Jump: by Mizuki Yoda, someone who previously submitted of the Usopp Gallery Pirates.\n[[File:SBS 92 General Franky.png|thumb|left|200px]]\n\u2190 Right here! [[Volume 65|Vol. 65]]'s Yodacchi-san from Tokyo\n[[File:SBS 92 Ne0;lation.png|thumb|300px]]\n\n\n\n\nAnd here's his serialization! \u2192\n\nWe got another pro!\n\nThe Usopp Gallery Pirates!\n\nIt's become a gateway for pros!\n\nBut that's not all!!\n\nJust kidding, but still I'm very happy!\n\n<span style=\"font-size:1.5em\">It's Mizuki Yoda's Ne0;lation!!</span>\n\nIt's a manga about young genius hacker. Please check it out and support it. Best of luck!\n\n[[File:SBS 92 Zoro.png|thumb|200px]]",
+                        "matches": [
+                            [
+                                140,
+                                165,
+                                "Usopp Gallery Pirates"
+                            ],
+                            [
+                                333,
+                                384,
+                                "File:SBS 92 General Franky.png|thumb|left|200px"
+                            ],
+                            [
+                                399,
+                                420,
+                                "Volume 65|Vol. 65"
+                            ],
+                            [
+                                447,
+                                489,
+                                "File:SBS 92 Ne0;lation.png|thumb|300px"
+                            ],
+                            [
+                                833,
+                                869,
+                                "File:SBS 92 Zoro.png|thumb|200px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS 92 General Franky.png",
+                        "size": "200",
+                        "start": 333,
+                        "end": 384
+                    },
+                    {
+                        "file": "SBS 92 Ne0;lation.png",
+                        "size": "300",
+                        "start": 447,
+                        "end": 489
+                    },
+                    {
+                        "file": "SBS 92 Zoro.png",
+                        "size": "200",
+                        "start": 833,
+                        "end": 869
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Vol. 65",
+                        "link_title": "/wiki/Volume 65",
+                        "is_wikipedia": false,
+                        "start": 399,
+                        "end": 420
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Usopp Gallery Pirates",
+                        "link_title": "/wiki/Usopp Gallery Pirates",
+                        "is_wikipedia": false,
+                        "start": 140,
+                        "end": 165
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "mizuki_yoda"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "happy",
+                        "funny"
+                    ],
+                    "topics": [
+                        "manga",
+                        "Usopp_Gallery_Pirates",
+                        "serializing",
+                        "Ne0;lation",
+                        "Jump",
+                        "announcement",
+                        "pros",
+                        "gateway"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda announces a new series, Ne0;lation, by Mizuki Yoda, who was previously part of Usopp Gallery Pirates, and encourages support for the manga."
+            },
+            {
+                "number": 5,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello Oda-sensei!! It's my first time contributing to SBS!! [[Roronoa Zoro|Zoro]] is in possession of the three swords [[Wado Ichimonji]], [[Sandai Kitetsu]], and [[Shusui]]. If the power of these three took the form of people, what would they look like? (In other words, can you do a personification of them!!) P.N. Katsuki",
+                        "matches": [
+                            [
+                                60,
+                                81,
+                                "Roronoa Zoro|Zoro"
+                            ],
+                            [
+                                119,
+                                137,
+                                "Wado Ichimonji"
+                            ],
+                            [
+                                139,
+                                157,
+                                "Sandai Kitetsu"
+                            ],
+                            [
+                                163,
+                                173,
+                                "Shusui"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Got it.\n\n[[File:SBS 92 Swords.png|thumb|300px|''Left:'' Wado Ichimonji<br />''Middle:'' Sandai Kitetsu<br />''Right:'' Shusui]]\n\u2192\n\nIts done. The personification was a success.",
+                        "matches": [
+                            [
+                                9,
+                                127,
+                                "File:SBS 92 Swords.png|thumb|300px|''Left:'' Wado Ichimonji<br />''Middle:'' Sandai Kitetsu<br />''Right:'' Shusui"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS 92 Swords.png",
+                        "size": "300",
+                        "start": 9,
+                        "end": 127
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Zoro",
+                        "link_title": "/wiki/Roronoa Zoro",
+                        "is_wikipedia": false,
+                        "start": 60,
+                        "end": 81
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Wado Ichimonji",
+                        "link_title": "/wiki/Wado Ichimonji",
+                        "is_wikipedia": false,
+                        "start": 119,
+                        "end": 137
+                    },
+                    {
+                        "text": "Sandai Kitetsu",
+                        "link_title": "/wiki/Sandai Kitetsu",
+                        "is_wikipedia": false,
+                        "start": 139,
+                        "end": 157
+                    },
+                    {
+                        "text": "Shusui",
+                        "link_title": "/wiki/Shusui",
+                        "is_wikipedia": false,
+                        "start": 163,
+                        "end": 173
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "roronoa_zoro"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "swords",
+                        "personification"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "D: Reader asks Oda to personify Zoro's swords, Oda provides an illustration and confirms a successful personification."
+            }
+        ],
+        "page": "76",
+        "chapter_number": "925",
+        "page_header": "SBS 92 Header 4.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 6,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Back on Zou, when [[Kozuki Momonosuke|Momonosuke]] mentioned that he met [[Gol D. Roger|Roger]], I thought that for some reason or another, this was an adult that became a child and was using his position as a child to get spoiled by [[Nami]]-san and [[Nico Robin|Robin]]-chan. Now that we know that Momonosuke is someone who leaped through time and whose actual age is still 8 years old, doesn't that mean he is just a normal Perverted Kid!? P.N. Taku Miso\n\n[[File:SBS 92 Momonosuke's Perverted Side.png|thumb|200px]]",
+                        "matches": [
+                            [
+                                18,
+                                50,
+                                "Kozuki Momonosuke|Momonosuke"
+                            ],
+                            [
+                                73,
+                                95,
+                                "Gol D. Roger|Roger"
+                            ],
+                            [
+                                234,
+                                242,
+                                "Nami"
+                            ],
+                            [
+                                251,
+                                271,
+                                "Nico Robin|Robin"
+                            ],
+                            [
+                                459,
+                                518,
+                                "File:SBS 92 Momonosuke's Perverted Side.png|thumb|200px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Think about it. Remember what it was like when you were an 8 year old boy. That's right, you were a pervert. All young boys are perverted!!\n\n[[File:SBS 92 Nami's Breast.png|thumb|200px]]",
+                        "matches": [
+                            [
+                                141,
+                                186,
+                                "File:SBS 92 Nami's Breast.png|thumb|200px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS 92 Momonosuke's Perverted Side.png",
+                        "size": "200",
+                        "start": 459,
+                        "end": 518
+                    },
+                    {
+                        "file": "SBS 92 Nami's Breast.png",
+                        "size": "200",
+                        "start": 141,
+                        "end": 186
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Momonosuke",
+                        "link_title": "/wiki/Kozuki Momonosuke",
+                        "is_wikipedia": false,
+                        "start": 18,
+                        "end": 50
+                    },
+                    {
+                        "text": "Roger",
+                        "link_title": "/wiki/Gol D. Roger",
+                        "is_wikipedia": false,
+                        "start": 73,
+                        "end": 95
+                    },
+                    {
+                        "text": "Robin",
+                        "link_title": "/wiki/Nico Robin",
+                        "is_wikipedia": false,
+                        "start": 251,
+                        "end": 271
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Nami",
+                        "link_title": "/wiki/Nami",
+                        "is_wikipedia": false,
+                        "start": 234,
+                        "end": 242
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "kozuki_momonosuke",
+                        "gol_d_roger",
+                        "nami",
+                        "nico_robin"
+                    ],
+                    "places": [],
+                    "topics": [
+                        "age",
+                        "perception",
+                        "childhood"
+                    ],
+                    "emotions": [
+                        "humorous"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Momonosuke's perverted behavior is normal for his age; all young boys are perverted."
+            },
+            {
+                "number": 7,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I have a wholesome question! I figured out why men want to become Nami's slave. It's because she has two huge \"Kibi Dangos\" right? P.N. Sanada-chi",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Get out of my room, Sanada.\n\n[[File:SBS 92 Minatomo.png|thumb|200px]]",
+                        "matches": [
+                            [
+                                29,
+                                69,
+                                "File:SBS 92 Minatomo.png|thumb|200px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS 92 Minatomo.png",
+                        "size": "200",
+                        "start": 29,
+                        "end": 69
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "nami"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "perverted",
+                        "fan_theory"
+                    ],
+                    "importance": [
+                        "low"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader humorously mentions Nami's 'Kibi Dangos' as the reason for men wanting to be her slave, but Oda dismisses the idea and tells the reader to leave."
+            },
+            {
+                "number": 8,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "In [[Chapter 909|Ch. 909]], was the carpenter boss that appeared in Wano the same one that was introduced in the [[SBS Volume 7|Vol. 7's SBS]], the carpenter Minatomo-san? P.N. Yacchi",
+                        "matches": [
+                            [
+                                3,
+                                26,
+                                "Chapter 909|Ch. 909"
+                            ],
+                            [
+                                113,
+                                142,
+                                "SBS Volume 7|Vol. 7's SBS"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes he is!! Back then, he was fixing the broken door to the bar in [[Foosha Village]]. He was introduced as Carpenter Minatomo-san, exclaiming \"Who did this!?\". And now, he somehow ended up in the New World in the closed bordered country of Wano! Isn't that weird!? That's right, they actually aren't the same person! They have the same last name because they're related by blood. The fact of the matter is, a ship from Wano reached [[East Blue]] a few decades ago.\n\n''One of the descendants of someone on that ship is a person that everybody is familiar with...''\n\nThis part might be featured later in the main story so I won't mention any more than that. It isn't going to be a major plot line, it will just be a minor story.",
+                        "matches": [
+                            [
+                                67,
+                                85,
+                                "Foosha Village"
+                            ],
+                            [
+                                433,
+                                446,
+                                "East Blue"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Ch. 909",
+                        "link_title": "/wiki/Chapter 909",
+                        "is_wikipedia": false,
+                        "start": 3,
+                        "end": 26
+                    },
+                    {
+                        "text": "Vol. 7's SBS",
+                        "link_title": "/wiki/SBS Volume 7",
+                        "is_wikipedia": false,
+                        "start": 113,
+                        "end": 142
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Foosha Village",
+                        "link_title": "/wiki/Foosha Village",
+                        "is_wikipedia": false,
+                        "start": 67,
+                        "end": 85
+                    },
+                    {
+                        "text": "East Blue",
+                        "link_title": "/wiki/East Blue",
+                        "is_wikipedia": false,
+                        "start": 433,
+                        "end": 446
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "carpenter_minatomo_san"
+                    ],
+                    "places": [
+                        "wano",
+                        "foosha_village",
+                        "east_blue"
+                    ],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "family",
+                        "world_building"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "The carpenter boss in Wano is related to the one in Foosha Village, as they share the same last name; their connection will be a minor story in the main plot."
+            }
+        ],
+        "page": "94",
+        "chapter_number": "926",
+        "page_header": "SBS 92 Header 5.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 9,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei!! Please tell us the favorite and least favorite foods of the seven commanders of the [[Straw Hat Grand Fleet]]!! P.N. Rabbit Princess",
+                        "matches": [
+                            [
+                                97,
+                                122,
+                                "Straw Hat Grand Fleet"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Coming right up.\n\n[[File:SBS 92 SHGF Foods.png|thumb|center|300px]]\n\n*[[Cavendish]] - Favorite: Roses; Hated: Ramen\n*[[Bartolomeo]] - Favorite: Cheap sweets; Hated: Vegetables\n*Don [[Sai]] - Favorite: Bento from his beloved; Hated: Crab\n*[[Ideo]] - Favorite: Doner Kebab; Hated: Pork\n*[[Leo]] - Favorite: Pumpkin; Hated: All spicy foods\n*[[Hajrudin]] - Favorite: Meatballs; Hated: Semla\n*[[Orlumbus]] - Favorite: Boiled eggs; Hated: Fanciful cooking.\n\n[[File:SBS 92 Shiryu.png|thumb|200px]]",
+                        "matches": [
+                            [
+                                18,
+                                67,
+                                "File:SBS 92 SHGF Foods.png|thumb|center|300px"
+                            ],
+                            [
+                                70,
+                                83,
+                                "Cavendish"
+                            ],
+                            [
+                                117,
+                                131,
+                                "Bartolomeo"
+                            ],
+                            [
+                                181,
+                                188,
+                                "Sai"
+                            ],
+                            [
+                                238,
+                                246,
+                                "Ideo"
+                            ],
+                            [
+                                285,
+                                292,
+                                "Leo"
+                            ],
+                            [
+                                338,
+                                350,
+                                "Hajrudin"
+                            ],
+                            [
+                                388,
+                                400,
+                                "Orlumbus"
+                            ],
+                            [
+                                452,
+                                490,
+                                "File:SBS 92 Shiryu.png|thumb|200px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS 92 SHGF Foods.png",
+                        "size": "300",
+                        "start": 18,
+                        "end": 67
+                    },
+                    {
+                        "file": "SBS 92 Shiryu.png",
+                        "size": "200",
+                        "start": 452,
+                        "end": 490
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Straw Hat Grand Fleet",
+                        "link_title": "/wiki/Straw Hat Grand Fleet",
+                        "is_wikipedia": false,
+                        "start": 97,
+                        "end": 122
+                    },
+                    {
+                        "text": "Cavendish",
+                        "link_title": "/wiki/Cavendish",
+                        "is_wikipedia": false,
+                        "start": 70,
+                        "end": 83
+                    },
+                    {
+                        "text": "Bartolomeo",
+                        "link_title": "/wiki/Bartolomeo",
+                        "is_wikipedia": false,
+                        "start": 117,
+                        "end": 131
+                    },
+                    {
+                        "text": "Sai",
+                        "link_title": "/wiki/Sai",
+                        "is_wikipedia": false,
+                        "start": 181,
+                        "end": 188
+                    },
+                    {
+                        "text": "Ideo",
+                        "link_title": "/wiki/Ideo",
+                        "is_wikipedia": false,
+                        "start": 238,
+                        "end": 246
+                    },
+                    {
+                        "text": "Leo",
+                        "link_title": "/wiki/Leo",
+                        "is_wikipedia": false,
+                        "start": 285,
+                        "end": 292
+                    },
+                    {
+                        "text": "Hajrudin",
+                        "link_title": "/wiki/Hajrudin",
+                        "is_wikipedia": false,
+                        "start": 338,
+                        "end": 350
+                    },
+                    {
+                        "text": "Orlumbus",
+                        "link_title": "/wiki/Orlumbus",
+                        "is_wikipedia": false,
+                        "start": 388,
+                        "end": 400
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "cavendish",
+                        "bartolomeo",
+                        "sai",
+                        "ideo",
+                        "leo",
+                        "hajrudin",
+                        "orlumbus"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "food"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Favorite and least favorite foods of the seven commanders of Straw Hat Grand Fleet revealed: from roses to ramen, and doner kebab to pork."
+            },
+            {
+                "number": 10,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Now that Shiliew has obtained the Suke Suke powers, will he also try and peep in women's baths? P.N. Apu",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "He is still a man. So of course he will!!\n\n[[File:SBS 92 Kogarashi Monjirou.png|thumb|200px]]",
+                        "matches": [
+                            [
+                                43,
+                                93,
+                                "File:SBS 92 Kogarashi Monjirou.png|thumb|200px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS 92 Kogarashi Monjirou.png",
+                        "size": "200",
+                        "start": 43,
+                        "end": 93
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "Shiliew"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "Suke_Suke_powers",
+                        "peeping",
+                        "baths"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Shiliew will definitely use his new powers to peep in women's baths, as he is still a man."
+            },
+            {
+                "number": 11,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "\"It's got nothing to do with me\". Since Oda-sensei's so young, I was wondering if you had heard of \"Kogarashi Monjirou\". Honestly, seeing Luffy chewing on a long toothpick like that, I had to know. Sorry if I'm wrong P.N. Heromichi \"Captain\" Kikk (57 years old)\n\n[[File:SBS 92 Luffy.png|thumb|200px]]",
+                        "matches": [
+                            [
+                                263,
+                                300,
+                                "File:SBS 92 Luffy.png|thumb|200px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "A letter from 57-years old reader. You've correct! Kogarashi Monjirou is an old movie based on a novel where the protagonist is always chewing on a toothpick. He even used it as a blowgun, it was so cool. It's very dangerous thouth, so please don't try this at home! Oh, and on the topic of classic novels, the character dozing [[Denjiro|Kyoshiro]] is based on a novel called Slepping Kyoshiro.",
+                        "matches": [
+                            [
+                                328,
+                                348,
+                                "Denjiro|Kyoshiro"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS 92 Luffy.png",
+                        "size": "200",
+                        "start": 263,
+                        "end": 300
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Kyoshiro",
+                        "link_title": "/wiki/Denjiro",
+                        "is_wikipedia": false,
+                        "start": 328,
+                        "end": 348
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "luffy",
+                        "kyoshiro"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "movies",
+                        "classic_novels",
+                        "danger",
+                        "toothpick",
+                        "fan_theory"
+                    ],
+                    "importance": [
+                        "high"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda acknowledges the reference to 'Kogarashi Monjirou' due to Luffy's toothpick, warning about its danger and mentioning the inspiration for a character from a classic novel."
+            }
+        ],
+        "page": "146",
+        "chapter_number": "929",
+        "page_header": "SBS 92 Header 6.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 12,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchi, I have a request! I know other readers must have said \"I want to see what Nami and Robin look like in the future\" but DEFFFFFFFFINITELY do not draw them please! PLEASE!!! P.N. 420 Land",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Eh...You're not convincing anyone there huh....\n\n[[File:SBS 92 Nami.png|thumb|center|400px]]\n*Age 40: Come back again once you become an adult \u2661\n*Age 60: Me? I passed 40 a long time ago \u2661 Fufufu\n\nA future where \"something\" happens\n\n*Age 40: Hand over the money I tell you!!!\n*Age 60: Won't you buy my magic pot?\n\nYes, I finished drawing Nami! Robin will have to wait for the next request to come in.{{-}}",
+                        "matches": [
+                            [
+                                49,
+                                92,
+                                "File:SBS 92 Nami.png|thumb|center|400px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS 92 Nami.png",
+                        "size": "400",
+                        "start": 49,
+                        "end": 92
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "nami",
+                        "robin"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "playful"
+                    ],
+                    "topics": [
+                        "ageing",
+                        "character_design"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader doesn't want to see Nami and Robin in the future, but Oda teases with a drawing of Nami at 40 and 60 years old."
+            },
+            {
+                "number": 13,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei, I have a question!! Since coming to Wano, Sanji's goatee has been missing the line that leads up to his mouth. I was thinking, could this be his way of expressing his separation from his father Judge? P.N. Yubara",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "[[File:SBS 92 Sanji.png|thumb|left|200px]] Ah! You're right! I completely forgot about it! No, he just shaved it off! That damn Sanji! I'll definitely draw it in this time! No, I'm pretty sure Sanji is going to return to his old look! Ah! Time's up!! SBS will return in the next volume!",
+                        "matches": [
+                            [
+                                0,
+                                42,
+                                "File:SBS 92 Sanji.png|thumb|left|200px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS 92 Sanji.png",
+                        "size": "200",
+                        "start": 0,
+                        "end": 42
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "sanji"
+                    ],
+                    "places": [
+                        "wano"
+                    ],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "sanji's_goatee",
+                        "character_design"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Sanji's missing goatee in Wano might symbolize his separation from his father, but Oda clarifies it was simply shaved off, promising to draw it in eventually."
+            }
+        ],
+        "page": "164",
+        "chapter_number": "930",
+        "page_header": "SBS 92 Header 7.png"
+    }
+]

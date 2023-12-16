@@ -1,0 +1,1483 @@
+[
+    {
+        "qa": [
+            {
+                "number": 1,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-san! Do you know [[Kozuki Oden|Oden]]'s Huff Huff game? This is a message game that you put oden in and huff huff. Well, what are you saying? \"Hafufuhafu fuhafufuhafu\" P.N. Kei",
+                        "matches": [
+                            [
+                                21,
+                                41,
+                                "Kozuki Oden|Oden"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Huh? It's an interesting game, but understand it at all. The answer is written. Er. Answer \"I'm starting SBS\"? I see, <big>IT'S ABOUT TO START!!!</big>",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Oden",
+                        "link_title": "/wiki/Kozuki Oden",
+                        "is_wikipedia": false,
+                        "start": 21,
+                        "end": 41
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "kozuki_oden"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "happy",
+                        "funny"
+                    ],
+                    "topics": [
+                        "fan_game"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader asks about Oden's Huff Huff game, Oda reveals it's a message game and SBS is about to start."
+            },
+            {
+                "number": 2,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello Oda-san! People tend to think that One Piece has many young fans, but there are many housewives like me who struggle to make dinner every day. Can I make a fan club for housewives?\nP.N. Hito Natsu",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Oh, please, please! This is the cushion. Hey. Let him go slowly. This is \u00d8NE PIECE, a manga that welcomes women and members of the PTA with particular courtesy\u2661",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "happy"
+                    ],
+                    "topics": [
+                        "one_piece_reader_base"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "A fan asks if she can make a One Piece fan club for housewives, Oda gladly agrees and welcomes women and PTA members warmly."
+            },
+            {
+                "number": 3,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello Odacchi!! My dream is to be clutched by [[Nico Robin|Robin]]-san, so Odacchi, could you ask Robin-san to clutch for me?? P.N. Robin-san's favorite girl",
+                        "matches": [
+                            [
+                                46,
+                                66,
+                                "Nico Robin|Robin"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Hey, hey, hey, girls! Girls! What are you going to do if you're rude! All the housewives are here today, so be quiet! Okay!?\n\nD : Hello Odacchi! Recently, SBS has become rough, so why don't you make a corner like this? Its name is also <big>S</big> (sugoku) (extremely) <big>E</big> (ero i) (erotic) <big>S</big> (shitsu mon) (constant) <big>CORNER!</big> P.N. Kanikama",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Alright!! No Collier!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Robin",
+                        "link_title": "/wiki/Nico Robin",
+                        "is_wikipedia": false,
+                        "start": 46,
+                        "end": 66
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "nico_robin"
+                    ],
+                    "topics": [
+                        "fan_theory"
+                    ],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "A fan asks Robin to clutch them, Oda declines and tells readers to behave; Another reader proposes a 'Extremely Erotic Constant Corner', Oda agrees with the name but not the content."
+            }
+        ],
+        "page": "22",
+        "chapter_number": "1016",
+        "page_header": "SBS101 Header 1.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 4,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchi! Let me marry [[Galdino|Mr. 3]] ! P.N.Ryokuchako",
+                        "matches": [
+                            [
+                                22,
+                                39,
+                                "Galdino|Mr. 3"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Good! Good luck!\n\n[[File:SBS101 Sakazuki.png|thumb|200px|''\"Don't forgive pirates \"evil!!!\"'']]",
+                        "matches": [
+                            [
+                                18,
+                                95,
+                                "File:SBS101 Sakazuki.png|thumb|200px|''\"Don't forgive pirates \"evil!!!\"''"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS101 Sakazuki.png",
+                        "size": "200",
+                        "start": 18,
+                        "end": 95
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Mr. 3",
+                        "link_title": "/wiki/Galdino",
+                        "is_wikipedia": false,
+                        "start": 22,
+                        "end": 39
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "galdino",
+                        "mr. 3"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "happy",
+                        "funny"
+                    ],
+                    "topics": [],
+                    "importance": [
+                        "high"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader wants to marry Mr. 3 from One Piece, Oda approves and wishes them luck; Oda also shares a drawing of Sakazuki."
+            },
+            {
+                "number": 5,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "If I were [[Sakazuki|Akainu]], I would surely say this. <big>DONT'T FORGIVE THE PERVERT NAMED SANADA!!!</big> P.N. Captain Nobuo",
+                        "matches": [
+                            [
+                                10,
+                                29,
+                                "Sakazuki|Akainu"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Oh! You said something nice! That's right!! Don't forgive that pervert! It's okay this time! I can't really put it on. 500 security guards were deployed at the SBS venue. Enjoy peaceful SBS~!!\n\n[[File:SBS101 Dolls.png|thumb|200px]]",
+                        "matches": [
+                            [
+                                194,
+                                231,
+                                "File:SBS101 Dolls.png|thumb|200px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS101 Dolls.png",
+                        "size": "200",
+                        "start": 194,
+                        "end": 231
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Akainu",
+                        "link_title": "/wiki/Sakazuki",
+                        "is_wikipedia": false,
+                        "start": 10,
+                        "end": 29
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "sakazuki",
+                        "akainu",
+                        "sanada"
+                    ],
+                    "places": [],
+                    "topics": [
+                        "devil_fruit",
+                        "one_piece_sbs"
+                    ],
+                    "emotions": [
+                        "happy",
+                        "funny"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader asks what Akainu would say; Oda agrees, saying not to forgive pervert Sanada. Oda mentions 500 guards were deployed at the SBS venue."
+            },
+            {
+                "number": 6,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello Oda-san. I'm a newcomer to watching One Piece on YouTube, but I look forward to it every week. When I was attending Tsujimura-sensei's doll class, I saw a collaboration work with One Piece. Right now, I'm making puppets with a vague dream of seeing a puppet show like \"Shin Hakkenden\" or \"Sanada Ten Braves\" by Akasaya Nine People. from Moon-san",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Hey, I went to Jusaburo Tsujimura's doll class! Hey. No wonder I like dolls! Tsujimura-san, a doll artist who I respect and had the opportunity to talk about in the 6th volume of the ONE PIECE illustration collection \"GORILLA\". The samurai of Wano Kuni were made with Tsujimura-san's design in mind, so I'm happy that it's like a reverse import. If you search \"one piece\" or \"puppet show\" on YouTube, you can see Tsuki's doll making. Amazing. I like it fight!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "Oda-san",
+                        "Tsujimura-sensei",
+                        "Akasaya Nine People"
+                    ],
+                    "places": [
+                        "Wano Kuni"
+                    ],
+                    "topics": [
+                        "One Piece YouTube",
+                        "doll making",
+                        "ONE PIECE illustration collection",
+                        "samurai"
+                    ],
+                    "emotions": [
+                        "happy",
+                        "excited"
+                    ],
+                    "importance": [
+                        "high"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A fan of One Piece attended Tsujimura-sensei's doll class and is making puppets, inspired by Akasaya Nine People's work. Oda respects Tsujimura-san and designed Wano Kuni's samurai with their style in mind. Tsuki's doll making can be seen on YouTube."
+            }
+        ],
+        "page": "40",
+        "chapter_number": "1017",
+        "page_header": "SBS101 Header 2.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 7,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "How does [[King]] eat when he in mask? P.N. Ebi",
+                        "matches": [
+                            [
+                                9,
+                                17,
+                                "King"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Ah. Let's give him a dango. What!! Only the mouth is a pteranodon!!\n[[File:SBS101 King Eat.png|thumb|center|400px|<span style=\"font-size:1em;\">Left: Nom, Right: Chomp Chomp</span>]]",
+                        "matches": [
+                            [
+                                68,
+                                181,
+                                "File:SBS101 King Eat.png|thumb|center|400px|<span style=\"font-size:1em;\">Left: Nom, Right: Chomp Chomp</span>"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS101 King Eat.png",
+                        "size": "400",
+                        "start": 68,
+                        "end": 181
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "King",
+                        "link_title": "/wiki/King",
+                        "is_wikipedia": false,
+                        "start": 9,
+                        "end": 17
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "King"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "devil_fruit"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda explains that King the Pteranodon can eat dango through his mask's mouth."
+            },
+            {
+                "number": 8,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello Odacchi! Recently, there are a lot of people who look like One Piece YouTubers, but do you watch those channels too, Odacchi? There are no bad people in One Piece Mania!! (laughs) P.N. Massun",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I know of its existence, and I have seen many things. Everyone is really knowledgeable and surprised. I'm going to guess what they're talking about, so I'm not going to watch it lol. It's dangerous for me to think that people at that level are readers, and there are many readers who read lightly, so I have to draw One Piece that suits everyone. When he sees people picking up stories like that, he seems to be depraved and thinks he doesn't need an explanation here lol. That's why I won't put in strict checks, so please have fun and get along. Oh, and the official YouTube channel \"Friends are there Tube\" has started, so please check it out.\n\n[[File:SBS101 Takeru.png|thumb|180px|Dialogue on the right: \"Takeru's me, isn't it\"</br>Dialogue on the left: Ahahaha]]",
+                        "matches": [
+                            [
+                                648,
+                                767,
+                                "File:SBS101 Takeru.png|thumb|180px|Dialogue on the right: \"Takeru's me, isn't it\"</br>Dialogue on the left: Ahahaha"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS101 Takeru.png",
+                        "size": "180",
+                        "start": 648,
+                        "end": 767
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "happy",
+                        "funny"
+                    ],
+                    "topics": [
+                        "onepiece youtubers",
+                        "official youtube channel"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda is aware of One Piece YouTubers, finds viewers knowledgeable, and thinks it's dangerous to assume they represent all readers; he won't change his storytelling based on YouTubers; he introduces the 'Friends are there Tube' channel."
+            },
+            {
+                "number": 9,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello Odacchi!! I learned the name and anthropomorphization of [[Kaidou]]'s kanabo club in [[SBS Volume 100|volume 100]], so I'd also want to know name and anthropomorphization of [[Yamato]]'s kanabo club!!!! P.N. Kota",
+                        "matches": [
+                            [
+                                63,
+                                73,
+                                "Kaidou"
+                            ],
+                            [
+                                91,
+                                120,
+                                "SBS Volume 100|volume 100"
+                            ],
+                            [
+                                180,
+                                190,
+                                "Yamato"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes, I'm good at it! His name is \"[[Takeru]]\".{{-}}",
+                        "matches": [
+                            [
+                                34,
+                                44,
+                                "Takeru"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "volume 100",
+                        "link_title": "/wiki/SBS Volume 100",
+                        "is_wikipedia": false,
+                        "start": 91,
+                        "end": 120
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Kaidou",
+                        "link_title": "/wiki/Kaidou",
+                        "is_wikipedia": false,
+                        "start": 63,
+                        "end": 73
+                    },
+                    {
+                        "text": "Yamato",
+                        "link_title": "/wiki/Yamato",
+                        "is_wikipedia": false,
+                        "start": 180,
+                        "end": 190
+                    },
+                    {
+                        "text": "Takeru",
+                        "link_title": "/wiki/Takeru",
+                        "is_wikipedia": false,
+                        "start": 34,
+                        "end": 44
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "kaidou",
+                        "yamato",
+                        "takeru"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "happy"
+                    ],
+                    "topics": [
+                        "kaido_backstory",
+                        "devil_fruit"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader asks about the name and anthropomorphization of Yamato's kanabo club, Oda responds with the name 'Takeru'."
+            }
+        ],
+        "page": "78",
+        "chapter_number": "1019",
+        "page_header": "SBS101 Header 3.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 10,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello, Oda-sensei. I have a question. Please tell me the names of the [[Red Hair Pirates]]' members other than [[Lucky Roux]], [[Benn Beckman]], [[Yasopp]] and [[Rockstar]]. P.N. I love rabbits",
+                        "matches": [
+                            [
+                                70,
+                                90,
+                                "Red Hair Pirates"
+                            ],
+                            [
+                                111,
+                                125,
+                                "Lucky Roux"
+                            ],
+                            [
+                                127,
+                                143,
+                                "Benn Beckman"
+                            ],
+                            [
+                                145,
+                                155,
+                                "Yasopp"
+                            ],
+                            [
+                                160,
+                                172,
+                                "Rockstar"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "The Red Hair Pirates are now a huge crew, including their affiliates. The people who showed up in the [[Summit War of Marineford]] became the current \"executives\", and they know [[Monkey D. Luffy|Luffy]].\n\n[[File:SBS101 RH Members.png|thumb|center|400px|<span style=\"font-size:1em;\">[[Shanks]], Benn Beckman, Lucky Roux, Yasopp, [[Limejuice]], [[Bonk Punch]], [[Monster]], [[Building Snake]], [[Hongo]] [[Gab|Howling Gab]] and Rockstar</span>]]\n\nRockstar may be strong, but he doesn't have the title of officer.\n\n[[File:SBS101 Killer SMILE.png|thumb|150px|\"Pawoo!\"]]",
+                        "matches": [
+                            [
+                                102,
+                                130,
+                                "Summit War of Marineford"
+                            ],
+                            [
+                                178,
+                                203,
+                                "Monkey D. Luffy|Luffy"
+                            ],
+                            [
+                                206,
+                                293,
+                                "File:SBS101 RH Members.png|thumb|center|400px|<span style=\"font-size:1em;\">[[Shanks"
+                            ],
+                            [
+                                329,
+                                342,
+                                "Limejuice"
+                            ],
+                            [
+                                344,
+                                358,
+                                "Bonk Punch"
+                            ],
+                            [
+                                360,
+                                371,
+                                "Monster"
+                            ],
+                            [
+                                373,
+                                391,
+                                "Building Snake"
+                            ],
+                            [
+                                393,
+                                402,
+                                "Hongo"
+                            ],
+                            [
+                                403,
+                                422,
+                                "Gab|Howling Gab"
+                            ],
+                            [
+                                513,
+                                566,
+                                "File:SBS101 Killer SMILE.png|thumb|150px|\"Pawoo!\""
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS101 RH Members.png",
+                        "size": "400",
+                        "start": 206,
+                        "end": 293
+                    },
+                    {
+                        "file": "SBS101 Killer SMILE.png",
+                        "size": "150",
+                        "start": 513,
+                        "end": 566
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Luffy",
+                        "link_title": "/wiki/Monkey D. Luffy",
+                        "is_wikipedia": false,
+                        "start": 178,
+                        "end": 203
+                    },
+                    {
+                        "text": "Howling Gab",
+                        "link_title": "/wiki/Gab",
+                        "is_wikipedia": false,
+                        "start": 403,
+                        "end": 422
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Red Hair Pirates",
+                        "link_title": "/wiki/Red Hair Pirates",
+                        "is_wikipedia": false,
+                        "start": 70,
+                        "end": 90
+                    },
+                    {
+                        "text": "Lucky Roux",
+                        "link_title": "/wiki/Lucky Roux",
+                        "is_wikipedia": false,
+                        "start": 111,
+                        "end": 125
+                    },
+                    {
+                        "text": "Benn Beckman",
+                        "link_title": "/wiki/Benn Beckman",
+                        "is_wikipedia": false,
+                        "start": 127,
+                        "end": 143
+                    },
+                    {
+                        "text": "Yasopp",
+                        "link_title": "/wiki/Yasopp",
+                        "is_wikipedia": false,
+                        "start": 145,
+                        "end": 155
+                    },
+                    {
+                        "text": "Rockstar",
+                        "link_title": "/wiki/Rockstar",
+                        "is_wikipedia": false,
+                        "start": 160,
+                        "end": 172
+                    },
+                    {
+                        "text": "Summit War of Marineford",
+                        "link_title": "/wiki/Summit War of Marineford",
+                        "is_wikipedia": false,
+                        "start": 102,
+                        "end": 130
+                    },
+                    {
+                        "text": "Limejuice",
+                        "link_title": "/wiki/Limejuice",
+                        "is_wikipedia": false,
+                        "start": 329,
+                        "end": 342
+                    },
+                    {
+                        "text": "Bonk Punch",
+                        "link_title": "/wiki/Bonk Punch",
+                        "is_wikipedia": false,
+                        "start": 344,
+                        "end": 358
+                    },
+                    {
+                        "text": "Monster",
+                        "link_title": "/wiki/Monster",
+                        "is_wikipedia": false,
+                        "start": 360,
+                        "end": 371
+                    },
+                    {
+                        "text": "Building Snake",
+                        "link_title": "/wiki/Building Snake",
+                        "is_wikipedia": false,
+                        "start": 373,
+                        "end": 391
+                    },
+                    {
+                        "text": "Hongo",
+                        "link_title": "/wiki/Hongo",
+                        "is_wikipedia": false,
+                        "start": 393,
+                        "end": 402
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "red_hair_pirates",
+                        "shanks",
+                        "lucky_roux",
+                        "benn_beckman",
+                        "yasopp",
+                        "rockstar",
+                        "limejuice",
+                        "bonk_punch",
+                        "monster",
+                        "building_snake",
+                        "hongo_gab",
+                        "howling_gab",
+                        "luffy"
+                    ],
+                    "places": [
+                        "marineford"
+                    ],
+                    "topics": [
+                        "red_hair_pirates",
+                        "marineford",
+                        "character_ranking"
+                    ],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "The Red Hair Pirates have additional members such as Limejuice, Bonk Punch, Monster, Building Snake, Hongo, and Howling Gab, among others."
+            },
+            {
+                "number": 11,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Faffaffa!! Odacchi, I like the cheerful [[Killer]]-san, but what kind of smiley person would you be if you didn't fail? P.N.420 Land",
+                        "matches": [
+                            [
+                                40,
+                                50,
+                                "Killer"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Oh, that's interesting. It's true that there are a lot of people who don't really know whether [[SMILE]]'s ability is a success or a failure! Let's try it! What if the Killer's SMILE was a hit!? ...This is...How is it...!!",
+                        "matches": [
+                            [
+                                95,
+                                104,
+                                "SMILE"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Killer",
+                        "link_title": "/wiki/Killer",
+                        "is_wikipedia": false,
+                        "start": 40,
+                        "end": 50
+                    },
+                    {
+                        "text": "SMILE",
+                        "link_title": "/wiki/SMILE",
+                        "is_wikipedia": false,
+                        "start": 95,
+                        "end": 104
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "killer"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "cheerful",
+                        "funny"
+                    ],
+                    "topics": [
+                        "smile_devil_fruit"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Some fans are unsure if Killer's SMILE ability is a success or failure, and Oda ponders the outcome if it were a success."
+            }
+        ],
+        "page": "96",
+        "chapter_number": "1020",
+        "page_header": "SBS101 Header 4.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 12,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Please tell us [[Ulti]]'s ending number 1 and the worst one that was better than [[Page One]]!! P.N. Luna",
+                        "matches": [
+                            [
+                                15,
+                                23,
+                                "Ulti"
+                            ],
+                            [
+                                81,
+                                93,
+                                "Page One"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Well, I introduced \"Gonsu\" before, but it's true that we've been together for a long time and had various endings. \"Nari\" (classical \"to be\"), \"Hamahage\", \"Gowasu\" (very polite \"to be\"), \"Matcha\" (as in, the tea), \"Desu wa yo\" (very feminine), \"Potato\", \"Dattebayo\" (\"believe it\"), \"Zamasu\" (used by rich women), \"Aru yo\" (\"so it is\"), \"Pakikefaro\", \"Nanora\" (childish and cute sounding), \"Ti\" (from Ul-\"ti\"), \"Roppo\" (from Tobi-\"roppo\")... There is no word, but it seems that the worst ending is \"dragon\". It seems that she never thought it was better.\n\n[[File:SBS101 Doflamingo.png|thumb|150px|Inscription on bubble:''\"After all apple'\"\"<br>\nDoflaringo by sister]]",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Ulti",
+                        "link_title": "/wiki/Ulti",
+                        "is_wikipedia": false,
+                        "start": 15,
+                        "end": 23
+                    },
+                    {
+                        "text": "Page One",
+                        "link_title": "/wiki/Page One",
+                        "is_wikipedia": false,
+                        "start": 81,
+                        "end": 93
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "page_one",
+                        "ulti",
+                        "gonsu",
+                        "nari",
+                        "hamahage",
+                        "gowasu",
+                        "matcha",
+                        "desu wa yo",
+                        "potato",
+                        "dattebayo",
+                        "zamasu",
+                        "aru yo",
+                        "pakikefaro",
+                        "nanora",
+                        "ti",
+                        "roppu",
+                        "dragon",
+                        "doflamingo"
+                    ],
+                    "places": [],
+                    "topics": [
+                        "ending names",
+                        "SBS",
+                        "Ulti and Page One"
+                    ],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Ulti has had various endings like 'Nari,' 'Hamahage,' 'Potato,' and 'Dragon' which she never thought was better than Page One's worst ending."
+            },
+            {
+                "number": 13,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello Oda-sensei. Why does Oda-sensei cross the \"O\" of One Piece with her? I know it's a skull cross, but I'm worried that it's all written as \"O\" in SBS etc. P.N. Personification of Gigi",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "It's Nori!! I don't care about that, but there's a strange thing in the corner of the postcard!! \"Doflaringo\"! \"by sister\"! Your postcard is scribbled on by your sister! Lol Doflaringo is the best!\n\n[[File:SBS101 Black Maria.png|thumb|200px|''\"Go Maria-sama!!!\"'']]",
+                        "matches": [
+                            [
+                                199,
+                                265,
+                                "File:SBS101 Black Maria.png|thumb|200px|''\"Go Maria-sama!!!\"''"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS101 Black Maria.png",
+                        "size": "200",
+                        "start": 199,
+                        "end": 265
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "doflamingo"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "SBS",
+                        "sister"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Eiichiro Oda goofily comments on the letter and identifies a scribble as the work of the reader's sister, mentioning nothing about crossing the 'O' in 'One Piece.'"
+            },
+            {
+                "number": 14,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hi Odacchi!! I'm honored to be adopted by SBS, which I've been longing for, and I'm deeply moved by Maria!! By the way, why are all of [[Black Maria]]'s technique names so exquisitely lame? P.N. Jovshov",
+                        "matches": [
+                            [
+                                135,
+                                150,
+                                "Black Maria"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Do you hate it? Did you want her to fight without losing her coolness like that? As I said before, isn't that weak point of being a little lame, that's why I love you~? Laugh",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Black Maria",
+                        "link_title": "/wiki/Black Maria",
+                        "is_wikipedia": false,
+                        "start": 135,
+                        "end": 150
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "black_maria"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "fighting_style",
+                        "character_design"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "The reader asks about Black Maria's technique names being lame, and Oda responds by asking if they wanted her to fight without losing her coolness, expressing love for the lameness."
+            }
+        ],
+        "page": "114",
+        "chapter_number": "1021",
+        "page_header": "SBS101 Header 5.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 14,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "N/A",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes! This is a question from P.N. Mii-chan!! You can understand this if you think of a certain famous scene. Answer below!!\n\n[[File:SBS101 Letter.png|thumb|center|400px]]\nGive me a message! Straw Hat Anagram\n\nHuh? The [[Straw Hat Pirates]] are standing with Kanban cards. But it seems like there aren't many. What's more, they're standing separately, so the message doesn't get through!! Luffy says, \"If you put us in order, he'll read the message for a certain person\". Come on, let's line up and send a message!\n\n*[[Sanji]] \u2192 \"Ma\"\n*[[Tony Tony Chopper|Chopper]] \u2192 \"Si\"\n*Luffy \u2192 \"Na\"\n*[[Roronoa Zoro|Zoro]] \u2192 \"Zu\"\n*[[Nami]] \u2192 \"Ka\"\n*[[Usopp]] \u2192 \"To\"\n\n#Hint 1... Which country did the members here have fun with...?\n#Hint 2... You can read the message by following the \"order\" in the comics.\n\nBepo: \"Roar\"\nP.N. Mii\n\nI'm sorry I'm bad at drawing",
+                        "matches": [
+                            [
+                                125,
+                                170,
+                                "File:SBS101 Letter.png|thumb|center|400px"
+                            ],
+                            [
+                                218,
+                                239,
+                                "Straw Hat Pirates"
+                            ],
+                            [
+                                516,
+                                525,
+                                "Sanji"
+                            ],
+                            [
+                                534,
+                                563,
+                                "Tony Tony Chopper|Chopper"
+                            ],
+                            [
+                                586,
+                                607,
+                                "Roronoa Zoro|Zoro"
+                            ],
+                            [
+                                616,
+                                624,
+                                "Nami"
+                            ],
+                            [
+                                633,
+                                642,
+                                "Usopp"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS101 Letter.png",
+                        "size": "400",
+                        "start": 125,
+                        "end": 170
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Chopper",
+                        "link_title": "/wiki/Tony Tony Chopper",
+                        "is_wikipedia": false,
+                        "start": 534,
+                        "end": 563
+                    },
+                    {
+                        "text": "Zoro",
+                        "link_title": "/wiki/Roronoa Zoro",
+                        "is_wikipedia": false,
+                        "start": 586,
+                        "end": 607
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Straw Hat Pirates",
+                        "link_title": "/wiki/Straw Hat Pirates",
+                        "is_wikipedia": false,
+                        "start": 218,
+                        "end": 239
+                    },
+                    {
+                        "text": "Sanji",
+                        "link_title": "/wiki/Sanji",
+                        "is_wikipedia": false,
+                        "start": 516,
+                        "end": 525
+                    },
+                    {
+                        "text": "Nami",
+                        "link_title": "/wiki/Nami",
+                        "is_wikipedia": false,
+                        "start": 616,
+                        "end": 624
+                    },
+                    {
+                        "text": "Usopp",
+                        "link_title": "/wiki/Usopp",
+                        "is_wikipedia": false,
+                        "start": 633,
+                        "end": 642
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "sanji",
+                        "tony_tony_chopper",
+                        "luffy",
+                        "roronoa_zoro",
+                        "nami",
+                        "usopp",
+                        "bepo"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "straw_hat_pirates",
+                        "kanban_cards",
+                        "anagram",
+                        "comics"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "P.N. Mii-chan asks for a message using an anagram of Straw Hat Pirates, and Oda teases a crossword puzzle-like hint for the answer."
+            }
+        ],
+        "page": "132",
+        "chapter_number": "1022",
+        "page_header": "SBS101 Header 6.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 15,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-san, please tell us. Please draw a future where something happened to [[Franky]] at 40 and 60 age. P.N. I love Nami",
+                        "matches": [
+                            [
+                                74,
+                                84,
+                                "Franky"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "But Franky is already 36 years old, so let's make him 50 and 70.\n\n[[File:SBS101 Franky.png|thumb|center|400px]]\n\n*Age 50: It's cold. I'll turn on the island heating\n*Age 70: I fixed your bike. I put a cannon on it though\n\nA future where \"something\" happens\n\n*Age 50: MUST E-LI-MI-NA-TE ALL SHIPS OF THIS WORLD-ROBO\n*Age 70: I am ol' battleship Grampky~\u2669\n\n[[File:SBS101 Robin vs. Black Maria.png|thumb|200px]]",
+                        "matches": [
+                            [
+                                66,
+                                111,
+                                "File:SBS101 Franky.png|thumb|center|400px"
+                            ],
+                            [
+                                355,
+                                408,
+                                "File:SBS101 Robin vs. Black Maria.png|thumb|200px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS101 Franky.png",
+                        "size": "400",
+                        "start": 66,
+                        "end": 111
+                    },
+                    {
+                        "file": "SBS101 Robin vs. Black Maria.png",
+                        "size": "200",
+                        "start": 355,
+                        "end": 408
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Franky",
+                        "link_title": "/wiki/Franky",
+                        "is_wikipedia": false,
+                        "start": 74,
+                        "end": 84
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "franky",
+                        "nami"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "age_progression",
+                        "franky_future",
+                        "funny_future"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda draws Franky at 50 and 70, envisioning him as an island heating fixer and an elderly battleship."
+            },
+            {
+                "number": 16,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Why is there a strange pattern on Robin's breast, who has grown into a giant bloom? I was looking forward to it... but this is the second time I've felt such resentment. I will not forgive you. P.N. Nikuchiki",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I'm... I'm so angry...!! The first time was when Black Maria wrapped her in a bleached cloak......! I received a lot of angry comments about this. First of all, I will explain that the matter of Black's Maria's exposure is \"spider thread\". As for Robin... Well, it's possible to make clothes out of parts of Robin's body, but when she's that size, I thought I'd have to put in the extra effort to imitate her clothes, but if she's naked, it goes beyond the scope of a shonen manga. The answer that Robin-san and I gave was that pattern! What the hell is that? We are waiting for everyone's views at SBS!! What the hell!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "robin",
+                        "black_maria"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "angry",
+                        "resentment"
+                    ],
+                    "topics": [
+                        "clothing",
+                        "body_parts",
+                        "censorship"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda explains that the pattern on giant Robin's chest is to avoid nudity, and invites fans to share their thoughts on the design."
+            }
+        ],
+        "page": "150",
+        "chapter_number": "1023",
+        "page_header": "SBS101 Header 7.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 17,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Eiichiro Oda-sama, I watched [[Chapter 1024]] with great interest. Isn't that person who calls himself a certain person Zoro-dono's father? P.N. Rollomiki",
+                        "matches": [
+                            [
+                                29,
+                                45,
+                                "Chapter 1024"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I had a lot of questions for \"someone\". It would be silly to say that person himself is obfuscating his name, but there were many people who guessed it, so I'll introduce it. Those three are actually the daimyo of a ruined towns. \n\n[[File:SBS101 Daimyo.png|thumb|center|400px|<span style=\"font-size:1em;\">Daimyo of Ringo, [[Shimotsuki Ushimaru]]; Daimyo of Kibi, [[Fugetsu Omusubi]]; Daimyo of Udon, [[Uzuki Tempura]]</span>]]\n\n[[File:SBS101 Ushimaru and Onimaru.png|thumb|200px]]\nAfter Oden's death, all the villages rose up take revenge on [[Kurozumi Orochi|Orochi]], but were defeated by the [[Beast Pirates]]. Since Shimotsuki Ushimaru was once renown alongside [[Onimaru]], fox who fought Zoro, so when he stole [[Shusui]] from Zoro, he was surprised to see that Zoro looked exactly like young Ushimaru, but since that scene was a little confusing. I cut it because it is too much. I may not say it in the main story. So the answer is that Ushimaru is not Zoro's father. The names of the three characters won't appear in the main story, so I'll reveal them here, but I'm debating whether to draw Ushimaru's bloodline again or hide it, so I'll put it on hold. It's similar, isn't it?",
+                        "matches": [
+                            [
+                                232,
+                                345,
+                                "File:SBS101 Daimyo.png|thumb|center|400px|<span style=\"font-size:1em;\">Daimyo of Ringo, [[Shimotsuki Ushimaru"
+                            ],
+                            [
+                                363,
+                                382,
+                                "Fugetsu Omusubi"
+                            ],
+                            [
+                                400,
+                                417,
+                                "Uzuki Tempura"
+                            ],
+                            [
+                                428,
+                                480,
+                                "File:SBS101 Ushimaru and Onimaru.png|thumb|200px"
+                            ],
+                            [
+                                542,
+                                568,
+                                "Kurozumi Orochi|Orochi"
+                            ],
+                            [
+                                595,
+                                612,
+                                "Beast Pirates"
+                            ],
+                            [
+                                666,
+                                677,
+                                "Onimaru"
+                            ],
+                            [
+                                717,
+                                727,
+                                "Shusui"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS101 Daimyo.png",
+                        "size": "400",
+                        "start": 232,
+                        "end": 345
+                    },
+                    {
+                        "file": "SBS101 Ushimaru and Onimaru.png",
+                        "size": "200",
+                        "start": 428,
+                        "end": 480
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Orochi",
+                        "link_title": "/wiki/Kurozumi Orochi",
+                        "is_wikipedia": false,
+                        "start": 542,
+                        "end": 568
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Chapter 1024",
+                        "link_title": "/wiki/Chapter 1024",
+                        "is_wikipedia": false,
+                        "start": 29,
+                        "end": 45
+                    },
+                    {
+                        "text": "Fugetsu Omusubi",
+                        "link_title": "/wiki/Fugetsu Omusubi",
+                        "is_wikipedia": false,
+                        "start": 363,
+                        "end": 382
+                    },
+                    {
+                        "text": "Uzuki Tempura",
+                        "link_title": "/wiki/Uzuki Tempura",
+                        "is_wikipedia": false,
+                        "start": 400,
+                        "end": 417
+                    },
+                    {
+                        "text": "Beast Pirates",
+                        "link_title": "/wiki/Beast Pirates",
+                        "is_wikipedia": false,
+                        "start": 595,
+                        "end": 612
+                    },
+                    {
+                        "text": "Onimaru",
+                        "link_title": "/wiki/Onimaru",
+                        "is_wikipedia": false,
+                        "start": 666,
+                        "end": 677
+                    },
+                    {
+                        "text": "Shusui",
+                        "link_title": "/wiki/Shusui",
+                        "is_wikipedia": false,
+                        "start": 717,
+                        "end": 727
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "zoro",
+                        "oden",
+                        "orochi",
+                        "onimaru"
+                    ],
+                    "places": [
+                        "ringo",
+                        "kibi",
+                        "udon"
+                    ],
+                    "emotions": [
+                        "surprised",
+                        "confused"
+                    ],
+                    "topics": [
+                        "family",
+                        "revenge",
+                        "beast_pirates"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Zoro's possible father was revealed to be Shimotsuki Ushimaru, but Oda clarified later that Ushimaru is not Zoro's father and may not include this in the main story."
+            },
+            {
+                "number": 18,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "When I calculated the size of [[Shirahoshi]]'s original based on the figure, it turned out to be about the same size as a light car. After that, kei cars can only be seen as TT! P.N. Sanadacchi",
+                        "matches": [
+                            [
+                                30,
+                                44,
+                                "Shirahoshi"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "<big>SANADA\u2014\u2014\u2014!!!</big> We're closing SBS!! That didn't happen!! Konoyaro!! It's over!! Look at the end of the book too!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Shirahoshi",
+                        "link_title": "/wiki/Shirahoshi",
+                        "is_wikipedia": false,
+                        "start": 30,
+                        "end": 44
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "shirahoshi"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "size_comparison",
+                        "SBS_closing"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "The reader calculates Shirahoshi's original size to be like a light car, and Oda jokingly responds, closing the Q&A session with excitement."
+            }
+        ],
+        "page": "168",
+        "chapter_number": "1024",
+        "page_header": "SBS101 Header 8.png"
+    }
+]

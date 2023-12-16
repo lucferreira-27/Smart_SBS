@@ -1,0 +1,906 @@
+[
+    {
+        "qa": [
+            {
+                "number": 1,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "This is your daytime news. According to an 11:00 AM CP9 meeting, a Buster Call has been ordered on mangaka Eiichiro Oda's house. All residents of the area who are NOT Eiichiro Oda, please evacuate to a safe location. P.N. Zoro's Wife",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Whaaat?! A Buster Call?! Oh my God!! But I...!! I...!! I can't just run away!! I mean, the boys and girls around the country are-!! WAITING FOR THE SBS TO START!!!\n( \u2190 Not really waiting)\n\n\n[[File:SBS62_2hands.png|right|100px]]",
+                        "matches": [
+                            [
+                                190,
+                                227,
+                                "File:SBS62_2hands.png|right|100px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS62_2hands.png",
+                        "size": "100",
+                        "start": 190,
+                        "end": 227
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "eiichiro_oda"
+                    ],
+                    "places": [
+                        "unknown"
+                    ],
+                    "emotions": [
+                        "shocked",
+                        "urgent"
+                    ],
+                    "topics": [
+                        "SBS_start",
+                        "Buster_Call",
+                        "emergency"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "Oda amusingly reacts to a fictitious news report about a Buster Call on his house, expressing his dedication to the fans eagerly awaiting his SBS session."
+            },
+            {
+                "number": 2,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "To Oda-sensei. [[Nico Robin|Robin]]'s \"Cinco Fleur\". Why does \"Gorin\" (Five Flowers) turn into \"Cinco\"? Couldn't you just say \"Gorin-zaki\" like the kanji do? What language is Robin's attack in? I wish you would just make all her attacks in the pattern of \"_nko Fleur.\" P.N. Heita",
+                        "matches": [
+                            [
+                                15,
+                                35,
+                                "Nico Robin|Robin"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I see... So, because \"Cinco\" is so easy to mistake for \"Chinko\" (penis) you want me to just have her attack the \"Chinko\" instead. Now listen here, son. This is the beautiful, regal Nico Robin we're talking about here. Chinko? I mean, that's just... BRILLIANT. Didn't I mention the language sometime earlier? Oh well, it's Spanish. This is how it works.\n\n{| class=\"wikitable\" style=\"margin:auto; text-align:center; border-top:solid transparent; border-bottom:solid transparent; background-color:transparent\" width=\"100%\" cellpadding=\"1\"\n|style=\"width: 10%;\"|1\n|style=\"width: 10%;\"|2\n|style=\"width: 10%;\"|3\n|style=\"width: 10%;\"|4\n|style=\"width: 10%;\"|5\n|style=\"width: 10%;\"|6\n|style=\"width: 10%;\"|7\n|style=\"width: 10%;\"|8\n|style=\"width: 10%;\"|9\n|style=\"width: 10%;\"|10\n|-\n|style=\"width: 10%;\"|Uno\n|style=\"width: 10%;\"|Dos\n|style=\"width: 10%;\"|Tres\n|style=\"width: 10%;\"|Cuatro\n|style=\"width: 10%;\"|Cinco\n|style=\"width: 10%;\"|Seis\n|style=\"width: 10%;\"|Siete\n|style=\"width: 10%;\"|Ocho\n|style=\"width: 10%;\"|Nueve\n|style=\"width: 10%;\"|Diez\n|}\n\nAnd that's how they count. Have you ever heard any of them before?",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Robin",
+                        "link_title": "/wiki/Nico Robin",
+                        "is_wikipedia": false,
+                        "start": 15,
+                        "end": 35
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "nico_robin"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "attack_naming",
+                        "language"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda explains that 'Cinco Fleur' is in Spanish and not Japanese, and humorously references the potential misunderstanding of 'Cinco' with 'Chinko' (penis) due to similarities. He also provides a Spanish number chart."
+            }
+        ],
+        "page": 28,
+        "chapter_number": 410,
+        "page_header": "SBS Vol 43 header.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 3,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Do the names of [[Sodom]] and [[Gomorrah]] come from the cities that appear in the Old Testament of the bible? In the bible they were destroyed by God. Are they being integrated into the story by being destroyed by the great \"Godly\" power of the World Government? by Yoiko",
+                        "matches": [
+                            [
+                                16,
+                                25,
+                                "Sodom"
+                            ],
+                            [
+                                30,
+                                42,
+                                "Gomorrah"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Uh... One Piece isn't that deep of a story (*laugh*). But it IS where I got the names from.\n\n\n[[File:SBS Vol 43 02.png|right|90px]]",
+                        "matches": [
+                            [
+                                94,
+                                131,
+                                "File:SBS Vol 43 02.png|right|90px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS Vol 43 02.png",
+                        "size": "90",
+                        "start": 94,
+                        "end": 131
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Sodom",
+                        "link_title": "/wiki/Sodom",
+                        "is_wikipedia": false,
+                        "start": 16,
+                        "end": 25
+                    },
+                    {
+                        "text": "Gomorrah",
+                        "link_title": "/wiki/Gomorrah",
+                        "is_wikipedia": false,
+                        "start": 30,
+                        "end": 42
+                    }
+                ],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "name_origin"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "The names Sodom and Gomorrah in One Piece come from the biblical cities, but there's no deep symbolism regarding their destruction in the story."
+            },
+            {
+                "number": 4,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I want to know the name of the guy who gave Usopp the rice balls in Volume 36. He was such a nice guy (cry). P.N. Nice Old Guy",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Ahh, yes. It was a lovely gesture, wasn't it? I was thanking him as I drew it. Well, he's\n[[Happa Yamao|Happa-san]], a kindly old bandit-turned-carpenter. He moved there from [[Pucci]], the town of\ngourmets. He's a bachelor once-divorced, so he made those rice balls by himself. Packed\ninside them were the Water Seven specialty, Mizu Mizu Meat, so they must have been quite\ngood.\n\n\n[[File:SBS Vol 43 03.png|right|120px]]",
+                        "matches": [
+                            [
+                                90,
+                                115,
+                                "Happa Yamao|Happa-san"
+                            ],
+                            [
+                                175,
+                                184,
+                                "Pucci"
+                            ],
+                            [
+                                383,
+                                421,
+                                "File:SBS Vol 43 03.png|right|120px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS Vol 43 03.png",
+                        "size": "120",
+                        "start": 383,
+                        "end": 421
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Happa-san",
+                        "link_title": "/wiki/Happa Yamao",
+                        "is_wikipedia": false,
+                        "start": 90,
+                        "end": 115
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Pucci",
+                        "link_title": "/wiki/Pucci",
+                        "is_wikipedia": false,
+                        "start": 175,
+                        "end": 184
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "usopp",
+                        "happa_yamao"
+                    ],
+                    "places": [
+                        "pucci",
+                        "water_seven"
+                    ],
+                    "emotions": [
+                        "happy"
+                    ],
+                    "topics": [
+                        "food",
+                        "character backstory"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Usopp received rice balls from Happa-san, a former bandit-turned-carpenter from Pucci, packed with Mizu Mizu Meat, as a kind gesture."
+            },
+            {
+                "number": 5,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Blows shouldn't hurt [[Monkey D. Luffy|Luffy]], so why does he get bruises and swelling when [[Nami]] and the others beat the crap out of him?! Tell me!!! P.N. Zororin Love",
+                        "matches": [
+                            [
+                                21,
+                                46,
+                                "Monkey D. Luffy|Luffy"
+                            ],
+                            [
+                                93,
+                                101,
+                                "Nami"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "When the crew beats up on each other, it's always in admonishment with a strong sense of purpose, which is why it works so well!! It works on his spirit!! I bet Nami is thinking, \"It's his spirit that hurts deep down!!\" ...right? I guess not.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Luffy",
+                        "link_title": "/wiki/Monkey D. Luffy",
+                        "is_wikipedia": false,
+                        "start": 21,
+                        "end": 46
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Nami",
+                        "link_title": "/wiki/Nami",
+                        "is_wikipedia": false,
+                        "start": 93,
+                        "end": 101
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy",
+                        "nami"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "humorous"
+                    ],
+                    "topics": [
+                        "crew_dynamic",
+                        "friendship"
+                    ],
+                    "importance": [
+                        "high"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Luffy gets bruises and swelling from the crew's beatings, but it's all about admonishment and working on his spirit, according to Oda."
+            }
+        ],
+        "page": "48",
+        "chapter_number": "411",
+        "page_header": "SBS Vol 43 01.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 6,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sama, we send you a letter and the feelings of all of France! I write you this message as the representative of a French fansite of over 1,000 members! We hope to show you, and especially the fans in Japan, that there are One Piece fans in other countries around the world!!!\n\nQuestion: Oda-sensei, do you have a good french bread?? I am French, so I need a yummy french bread to begin the SBS!! And lastly,\n\n\"Que la volont\u00e9 du D soit avec vous Mr Oda! ''(May the Will of D be with you!!)''\n:Sign\u00e9! La Volont\u00e9 du D\" ''(The Will of D)''",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Ahem. The SBS has finally reached international status. I appreciate that you took the trouble to send them all the way to the office in Japan. And this question, which you sent across borders and around the world... IS THE BEST YOU COULD COME UP WITH?! Plus, the answer is, I DON'T HAVE ANY FRENCH BREAD. Though I'd like to have some authentic french bread someday. So now that I've answered your question, the French edition is about 10 volumes behind, which means you'll get to read this translated in 2 years. I hope you're still fans by then! Thank you!!\n\n\n[[File:SBS Vol 43 04.png|right|180px]]",
+                        "matches": [
+                            [
+                                562,
+                                600,
+                                "File:SBS Vol 43 04.png|right|180px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS Vol 43 04.png",
+                        "size": "180",
+                        "start": 562,
+                        "end": 600
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [
+                        "Japan",
+                        "France"
+                    ],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "international_fans",
+                        "French_bread",
+                        "SBS"
+                    ],
+                    "importance": "hight",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda jokes about question from French fan site, expressing appreciation for international support, but laments lack of French bread and translation delay for French edition."
+            },
+            {
+                "number": 7,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchi!! I've been spending sleepless nights wondering, when [[Kalifa]], crown jewel of CP9 uses the Six Forms' \"[[Rokushiki#Tekkai|Tekkai]]\", do her breasts still jiggle? Every time I get close to finding out, I get all bubbly... See, here come the bubbles again... blub blub... Bobajji! Boobabamb!! (Odacchi! You're the man!!) by Kathy Keisuke",
+                        "matches": [
+                            [
+                                62,
+                                72,
+                                "Kalifa"
+                            ],
+                            [
+                                114,
+                                141,
+                                "Rokushiki#Tekkai|Tekkai"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "And now we have a perverted question straight from Japan. What's that last part for?! You\nmean *I* have to check?! So I'm just a peeping tom now.\nBEY BIBBIN BIBBUH (They didn't jiggle)",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Tekkai",
+                        "link_title": "/wiki/Rokushiki#Tekkai",
+                        "is_wikipedia": false,
+                        "start": 114,
+                        "end": 141
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Kalifa",
+                        "link_title": "/wiki/Kalifa",
+                        "is_wikipedia": false,
+                        "start": 62,
+                        "end": 72
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "kalifa"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "perverted",
+                        "funny"
+                    ],
+                    "topics": [
+                        "rokushiki",
+                        "body_jiggling"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader asks if Kalifa's breasts jiggle when using Tekkai, Oda reacts in disbelief, and confirms they do not jiggle."
+            }
+        ],
+        "page": "88",
+        "chapter_number": "413",
+        "page_header": null
+    },
+    {
+        "qa": [
+            {
+                "number": 8,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Since the S (Set that) B (Birthday,) S (Son) Reader Corner is basically becoming a ritual now, I would like to take control of the Water Seven and CP9 Arc.\n\n*[[Iceburg]] - January 3 (Aisu... I = 1, Su = 3)\n*[[Franky]] - March 9 (Saib\u014dgu \"Cyborg\"... Sa = 3, Gu = 9)\n*[[Paulie]] - July 8 (Nawa \"Rope\"... Na = 7, Wa = 8)\n*[[Rob Lucci]] - June 2 (Robu... Ro = 6, Bu = 2)\n*[[Kaku]] - August 7 (Hana \"Nose\"... Ha = 8, Na = 7)\n*[[Kalifa]] - April 23 (Secretaries' Day)\n\n...and I assume these are fine with you? Well, keep working at it, Sensei!! by Exam Student",
+                        "matches": [
+                            [
+                                158,
+                                169,
+                                "Iceburg"
+                            ],
+                            [
+                                207,
+                                217,
+                                "Franky"
+                            ],
+                            [
+                                266,
+                                276,
+                                "Paulie"
+                            ],
+                            [
+                                319,
+                                332,
+                                "Rob Lucci"
+                            ],
+                            [
+                                368,
+                                376,
+                                "Kaku"
+                            ],
+                            [
+                                421,
+                                431,
+                                "Kalifa"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Ahhh... I see. Yeah, it does seem that way...Hmmm. There's a Secretaries' Day? Huh. Well then. Those all work for me.\n\n\n[[File:SBS Vol 43 09.png|right|150px]]",
+                        "matches": [
+                            [
+                                120,
+                                158,
+                                "File:SBS Vol 43 09.png|right|150px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS Vol 43 09.png",
+                        "size": "150",
+                        "start": 120,
+                        "end": 158
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Iceburg",
+                        "link_title": "/wiki/Iceburg",
+                        "is_wikipedia": false,
+                        "start": 158,
+                        "end": 169
+                    },
+                    {
+                        "text": "Franky",
+                        "link_title": "/wiki/Franky",
+                        "is_wikipedia": false,
+                        "start": 207,
+                        "end": 217
+                    },
+                    {
+                        "text": "Paulie",
+                        "link_title": "/wiki/Paulie",
+                        "is_wikipedia": false,
+                        "start": 266,
+                        "end": 276
+                    },
+                    {
+                        "text": "Rob Lucci",
+                        "link_title": "/wiki/Rob Lucci",
+                        "is_wikipedia": false,
+                        "start": 319,
+                        "end": 332
+                    },
+                    {
+                        "text": "Kaku",
+                        "link_title": "/wiki/Kaku",
+                        "is_wikipedia": false,
+                        "start": 368,
+                        "end": 376
+                    },
+                    {
+                        "text": "Kalifa",
+                        "link_title": "/wiki/Kalifa",
+                        "is_wikipedia": false,
+                        "start": 421,
+                        "end": 431
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "iceburg",
+                        "franky",
+                        "paulie",
+                        "rob_lucci",
+                        "kaku",
+                        "kalifa"
+                    ],
+                    "places": [
+                        "water_seven"
+                    ],
+                    "topics": [
+                        "birthdays",
+                        "CP9_Arc",
+                        "ritual"
+                    ],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader identifies character birthdays based on their names and corresponding numbers, and Oda approves the choices, expressing surprise at Secretaries' Day."
+            },
+            {
+                "number": 9,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Question!! If God [[Enel]] were to descend to the [[Blue Sea]], how much would his bounty be? Also, what would happen if he did that? Would he rule the Blue Sea? P.N. Gorozoro",
+                        "matches": [
+                            [
+                                18,
+                                26,
+                                "Enel"
+                            ],
+                            [
+                                50,
+                                62,
+                                "Blue Sea"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I see. Interesting question. Knowing how tricky he would be to beat, I'd imagine he could reach as much as {{B}}500,000,000. Luffy was lucky to be rubber. But like Luffy said, there all sorts of even crazier guys down on the Blue Sea. Enel would NOT rule it.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Enel",
+                        "link_title": "/wiki/Enel",
+                        "is_wikipedia": false,
+                        "start": 18,
+                        "end": 26
+                    },
+                    {
+                        "text": "Blue Sea",
+                        "link_title": "/wiki/Blue Sea",
+                        "is_wikipedia": false,
+                        "start": 50,
+                        "end": 62
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "enel",
+                        "luffy"
+                    ],
+                    "places": [
+                        "blue_sea"
+                    ],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "bounty",
+                        "enel_power",
+                        "blue_sea_power"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Enel's potential bounty in the Blue Sea could be 500,000,000 Berries; however, he would not rule it as there are even crazier individuals like Luffy there."
+            }
+        ],
+        "page": "128",
+        "chapter_number": "415",
+        "page_header": "SBS Vol 43 10.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 10,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Whatup Occhin! Nice to meet you. (At my school, we all call you Occhin.) Now, what I want to know is, when [[Sanji]] uses the Parage shot to Parage your face, like in Volume 39 [[Chapter 372]], how pretty will it make you? Lemme know. P.N. 34590",
+                        "matches": [
+                            [
+                                107,
+                                116,
+                                "Sanji"
+                            ],
+                            [
+                                177,
+                                192,
+                                "Chapter 372"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Oh, awesomely pretty. As you can see from Wanze's example above, it gives you super\ninternational movie star good looks. But there are two problems. One, Mr. Sanji don't\nkick the ladies. Two, he only changes your face. If you're a fatty boombah, you're just\ngonna look like a creep with a nice face.\n\n\n[[File:Volume 1.png|right|120px]]",
+                        "matches": [
+                            [
+                                302,
+                                335,
+                                "File:Volume 1.png|right|120px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "Volume 1.png",
+                        "size": "120",
+                        "start": 302,
+                        "end": 335
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Sanji",
+                        "link_title": "/wiki/Sanji",
+                        "is_wikipedia": false,
+                        "start": 107,
+                        "end": 116
+                    },
+                    {
+                        "text": "Chapter 372",
+                        "link_title": "/wiki/Chapter 372",
+                        "is_wikipedia": false,
+                        "start": 177,
+                        "end": 192
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "sanji",
+                        "wanze"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "joking"
+                    ],
+                    "topics": [
+                        "parage_shot",
+                        "beauty",
+                        "sanji's fighting style"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Sanji's Parage shot makes the face 'awesomely pretty,' but only changes the face and won't help if the person is overweight."
+            },
+            {
+                "number": 11,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hey there! I feel like asking you a pointless question that I've been wondering about! A typical tank\u014dbon will hold about 9 chapters, but sometimes One Piece has more like 10-11, right? Why is that? It seems like OP has been \"thick\" lately. And the content is hot! P.N. Jon",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yep. To get all technical now, a comic volume has at least 184 pages, which can usually be\nreached with 9 chapters, but in my case, sometimes I put my foot down and (selfishly) say\nI desire this chapter to be in yon volume! Which is why there are 10 or 11 at times.\nIt turns into a bit of a bonus for the readers. From my end, it's just the particulars\nof how the story comes across. Once, when I had an 11-chapter book followed by a\n9-chapter one, the readers complained about the content getting thinner. And now you\nknow why. (*laugh*)",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "manga_publishing",
+                        "author_decision"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda adds extra chapters for the joy of it, resulting in 'thicker' One Piece volumes; some volumes contain more chapters due to storytelling needs."
+            }
+        ],
+        "page": "168",
+        "chapter_number": "417",
+        "page_header": "SBS Vol 43 05.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 12,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei, I have a question! The part about the \"[[Klabautermann]]\" in Volume 35 Chapter 351, was that your idea? Or does it come from something in real life? Please tell us. P.N. The Secret Face Behind the Luffy Pirates",
+                        "matches": [
+                            [
+                                51,
+                                68,
+                                "Klabautermann"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "There are similar legends all around the world about ship fairies, but the Klabautermann legend in particular comes from German sailors. In Japan they call it \"funadama\" (spirit of the ship). It's easy just to think of it as the \"guardian spirit of the ship\". They believed that if a Klabautermann lived on the ship, you would sail safe and sound. \n[[File:SBS Vol 43 07.png|right|100px]]",
+                        "matches": [
+                            [
+                                349,
+                                387,
+                                "File:SBS Vol 43 07.png|right|100px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS Vol 43 07.png",
+                        "size": "100",
+                        "start": 349,
+                        "end": 387
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Klabautermann",
+                        "link_title": "/wiki/Klabautermann",
+                        "is_wikipedia": false,
+                        "start": 51,
+                        "end": 68
+                    }
+                ],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [],
+                    "topics": [
+                        "ship",
+                        "legend",
+                        "sailors",
+                        "spirit",
+                        "Klabautermann",
+                        "funadama"
+                    ],
+                    "importance": "hight",
+                    "isCharacterInsertion": false
+                },
+                "summary": "The 'Klabautermann' idea comes from German sailors and is similar to the 'funadama' in Japan, believed to be the guardian spirit of the ship for safe sailing."
+            },
+            {
+                "number": 13,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello. It's funny, if you hear \"Kaku-kaku\" you'd think of [[Kaku]], of course. But there's an even pointier (kaku-kaku) guy out there! Volume 35, page 131, third panel on the left, what's that full-body angled guy doing there? Who is that guy? If you don't answer me, I'll pound you as flat as he is!! P.N. Prince from Somewhere",
+                        "matches": [
+                            [
+                                58,
+                                66,
+                                "Kaku"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "There he is. Well... here's your answer!! His name is... [[Kakukaku|KAKUKAKU-SAN]]!!!\nToo easy? As it happens, Kakukaku-san is very erudite (hakugaku) and loves to have long,\noutspoken arguments with other people (kenken gakugaku). He's also easily frightened,\nso when he gets scared, he starts trembling... \"kakukaku\"...!\nTHAT'S WHAT HE'S LIKE!! (Not good enough?)\nSEE YOU IN THE SBS NEXT TIME!! (It's over?)",
+                        "matches": [
+                            [
+                                57,
+                                82,
+                                "Kakukaku|KAKUKAKU-SAN"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "KAKUKAKU-SAN",
+                        "link_title": "/wiki/Kakukaku",
+                        "is_wikipedia": false,
+                        "start": 57,
+                        "end": 82
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Kaku",
+                        "link_title": "/wiki/Kaku",
+                        "is_wikipedia": false,
+                        "start": 58,
+                        "end": 66
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "kaku",
+                        "kakukaku-san"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "character_description"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "The reader asks about a character who makes a brief appearance, and Oda introduces Kakukaku-san, describing his erudite nature and tendency to get easily frightened."
+            }
+        ],
+        "page": "188",
+        "chapter_number": "418",
+        "page_header": "SBS Vol 43 06.png"
+    }
+]

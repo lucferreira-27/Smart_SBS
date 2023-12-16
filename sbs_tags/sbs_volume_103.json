@@ -1,0 +1,1487 @@
+[
+    {
+        "qa": [
+            {
+                "number": 1,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "\"I'm ashamed of SBS!!!!\" P.N. Hebo",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Uwaaaaaah!! I was assshaaaameeeeeed!! That makes sense!! That doesn't make sense!! (cries)\n\n(Note: Reader makes a little wordplay. Usually SBSs start with readers \"SBS wo hajimemasu\" with hajimemasu being start, but reader this time starts with \"SBS wo hajimasu\" hajimemasu being \"ashamed\")\n\n[[File:SBS103 Mouse.png|thumb|130px]]",
+                        "matches": [
+                            [
+                                292,
+                                329,
+                                "File:SBS103 Mouse.png|thumb|130px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS103 Mouse.png",
+                        "size": "130",
+                        "start": 292,
+                        "end": 329
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "ashamed",
+                        "funny"
+                    ],
+                    "topics": [],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader jokes about being 'ashamed' to start the SBS, Oda plays along, expressing surprise and emotions."
+            },
+            {
+                "number": 2,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchi, please tell me. [[Some|Osome]]-chan's mouse \"[[Chuji]]\" looks exactly like the mouse that [[Sanji]] cooked for him when he was a child! Is it a relative or something? P.N. Fraland",
+                        "matches": [
+                            [
+                                25,
+                                39,
+                                "Some|Osome"
+                            ],
+                            [
+                                54,
+                                63,
+                                "Chuji"
+                            ],
+                            [
+                                99,
+                                108,
+                                "Sanji"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "You remembered well~. Sanji's core kindness can be seen by fact that he is liked by mouses. While they do look very similar, Chuji and the rat from Sanji's childhood are not relatives. I was relieved that Sanji wasn't taken in by [[Germa 66|Germa]]. However, the \"power of science\" that manifested in his body made Sanji even stronger. He's also gained the power to \"vanish,\" but don't worry. It's all about speed, not a trick you can use in the bathroom lol.",
+                        "matches": [
+                            [
+                                230,
+                                248,
+                                "Germa 66|Germa"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Osome",
+                        "link_title": "/wiki/Some",
+                        "is_wikipedia": false,
+                        "start": 25,
+                        "end": 39
+                    },
+                    {
+                        "text": "Germa",
+                        "link_title": "/wiki/Germa 66",
+                        "is_wikipedia": false,
+                        "start": 230,
+                        "end": 248
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Chuji",
+                        "link_title": "/wiki/Chuji",
+                        "is_wikipedia": false,
+                        "start": 54,
+                        "end": 63
+                    },
+                    {
+                        "text": "Sanji",
+                        "link_title": "/wiki/Sanji",
+                        "is_wikipedia": false,
+                        "start": 99,
+                        "end": 108
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy",
+                        "osome_chan",
+                        "sanji",
+                        "germa_66"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "happy",
+                        "funny"
+                    ],
+                    "topics": [
+                        "sanji's_backstory",
+                        "devil_fruit"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Readers note similarity between Sanji's childhood mouse and Chuji, Oda confirms no relation but Sanji's kindness attracts mice; mentions Sanji's 'power of science' boosting his strength and speed, not allowing him to vanish at will."
+            },
+            {
+                "number": 3,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I'd like to date [[Nami]]-san, but could Odacchi ask for her phone number?! Just don't let Sanji notice. P.N. Ramen Maru",
+                        "matches": [
+                            [
+                                17,
+                                25,
+                                "Nami"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes. 7373-737373. Please use a big [[Den Den Mushi]] instead of a smartphone! In the worst case, Sanji may be the one going to you by tracing your phone's location.\n{{-}}",
+                        "matches": [
+                            [
+                                35,
+                                52,
+                                "Den Den Mushi"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Nami",
+                        "link_title": "/wiki/Nami",
+                        "is_wikipedia": false,
+                        "start": 17,
+                        "end": 25
+                    },
+                    {
+                        "text": "Den Den Mushi",
+                        "link_title": "/wiki/Den Den Mushi",
+                        "is_wikipedia": false,
+                        "start": 35,
+                        "end": 52
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy",
+                        "nami",
+                        "sanji"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "happy",
+                        "funny"
+                    ],
+                    "topics": [
+                        "den_den_mushi",
+                        "sanji_traits"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader asked Oda for Nami's phone number, Oda gave the number 7373-737373 and recommended using a large Den Den Mushi to call."
+            }
+        ],
+        "page": "28",
+        "chapter_number": "1036",
+        "page_header": "SBS103 Header 1.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 4,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello Oda-sensei!! In [[Chapter 1032|chapter 1032]], [[Yamato]] and [[Fuga]] were having a friendly conversation, but since when did the two of them get along? P.N. Ryunosuke",
+                        "matches": [
+                            [
+                                22,
+                                51,
+                                "Chapter 1032|chapter 1032"
+                            ],
+                            [
+                                53,
+                                63,
+                                "Yamato"
+                            ],
+                            [
+                                68,
+                                76,
+                                "Fuga"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "This is it, I tried to draw it many times, but I couldn't draw it because there were too many battle scenes. As you can see, Fuga has a \"the power of the horse\". Actually, this is the result of stealing and eating [[SMILE]] from [[Kaidou]]'s room when he was hungry (laughs). Kaidou was angry and put Fuga in a prison cell, and the other Numbers laugh at him because of his weird legs. After going though those bad ex-periences, Yamato says to crying Fuga \"But those legs are cool!!\". After that, Fuga and Yamato became good friends.\n\n[[File:SBS103 King.png|thumb|300px]]",
+                        "matches": [
+                            [
+                                214,
+                                223,
+                                "SMILE"
+                            ],
+                            [
+                                229,
+                                239,
+                                "Kaidou"
+                            ],
+                            [
+                                535,
+                                571,
+                                "File:SBS103 King.png|thumb|300px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS103 King.png",
+                        "size": "300",
+                        "start": 535,
+                        "end": 571
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "chapter 1032",
+                        "link_title": "/wiki/Chapter 1032",
+                        "is_wikipedia": false,
+                        "start": 22,
+                        "end": 51
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Yamato",
+                        "link_title": "/wiki/Yamato",
+                        "is_wikipedia": false,
+                        "start": 53,
+                        "end": 63
+                    },
+                    {
+                        "text": "Fuga",
+                        "link_title": "/wiki/Fuga",
+                        "is_wikipedia": false,
+                        "start": 68,
+                        "end": 76
+                    },
+                    {
+                        "text": "SMILE",
+                        "link_title": "/wiki/SMILE",
+                        "is_wikipedia": false,
+                        "start": 214,
+                        "end": 223
+                    },
+                    {
+                        "text": "Kaidou",
+                        "link_title": "/wiki/Kaidou",
+                        "is_wikipedia": false,
+                        "start": 229,
+                        "end": 239
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "Yamato",
+                        "Fuga",
+                        "Kaidou"
+                    ],
+                    "places": [
+                        "Kaidou's room",
+                        "prison cell"
+                    ],
+                    "topics": [
+                        "SMILE",
+                        "backstory",
+                        "Numbers"
+                    ],
+                    "emotions": [
+                        "happy",
+                        "funny"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Yamato and Fuga became friends after Yamato complimented Fuga's weird legs, result of Kaidou's punishment for eating stolen SMILE."
+            },
+            {
+                "number": 5,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Does Karyudon (Fire Dragon Emperor) come from \"[[wikipedia:Udon|curry udon]]\"? Does [[King]] likes udon? P.N. Inutchi",
+                        "matches": [
+                            [
+                                47,
+                                76,
+                                "wikipedia:Udon|curry udon"
+                            ],
+                            [
+                                84,
+                                92,
+                                "King"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "It is Curry udon. His favorite food is [[wikipedia:Flying fish|flying fish]] [[wikipedia:Sashimi|sashimi]], but curry udon is also delicious!\n\n[[File:SBS103 Momonosuke.png|thumb|200px]]",
+                        "matches": [
+                            [
+                                39,
+                                76,
+                                "wikipedia:Flying fish|flying fish"
+                            ],
+                            [
+                                77,
+                                106,
+                                "wikipedia:Sashimi|sashimi"
+                            ],
+                            [
+                                143,
+                                185,
+                                "File:SBS103 Momonosuke.png|thumb|200px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS103 Momonosuke.png",
+                        "size": "200",
+                        "start": 143,
+                        "end": 185
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "curry udon",
+                        "link_title": "/wiki/Udon",
+                        "is_wikipedia": true,
+                        "start": 47,
+                        "end": 76
+                    },
+                    {
+                        "text": "flying fish",
+                        "link_title": "/wiki/Flying fish",
+                        "is_wikipedia": true,
+                        "start": 39,
+                        "end": 76
+                    },
+                    {
+                        "text": "sashimi",
+                        "link_title": "/wiki/Sashimi",
+                        "is_wikipedia": true,
+                        "start": 77,
+                        "end": 106
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "King",
+                        "link_title": "/wiki/King",
+                        "is_wikipedia": false,
+                        "start": 84,
+                        "end": 92
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "king"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "happy"
+                    ],
+                    "topics": [
+                        "kaido_backstory",
+                        "devil_fruit",
+                        "food"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda confirms Karyudon is from curry udon, King's favorite food is flying fish sashimi but he also enjoys curry udon."
+            },
+            {
+                "number": 6,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello Oda-sensei! [[Kozuki Momonosuke|Momonosuke]] is 8 years old, sensei, why is he so perverted? Is Oda-sensei the same? P.N. Yu-kun",
+                        "matches": [
+                            [
+                                18,
+                                50,
+                                "Kozuki Momonosuke|Momonosuke"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "The question is, when do boys get so pervy? I'm trying to keep this a secret! Because if you make this public, they won't be able to use their \"privileges\"!! I won't open my mouth!!\n{{-}}",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Momonosuke",
+                        "link_title": "/wiki/Kozuki Momonosuke",
+                        "is_wikipedia": false,
+                        "start": 18,
+                        "end": 50
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "kozuki_momonosuke",
+                        "odaaishi_eichiro"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny",
+                        "amused"
+                    ],
+                    "topics": [
+                        "characters_development",
+                        "author_personal_life"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader asks why Momonosuke, 8, is perverted; Oda jokes about boys' perversion starting young, won't say more to protect their 'privileges'."
+            }
+        ],
+        "page": "46",
+        "chapter_number": "1037",
+        "page_header": "SBS103 Header 2.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 7,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "23 years!! Thank you for waiting!!! I'm sorry!!! I just bought a cola!!! Eh... what? No~ I told you in [[SBS Volume 9]] that I wanted to drink cola~. I had already bought it, but I forgot to give it to you. Yes, please!! P.N. Fukada Kokoro",
+                        "matches": [
+                            [
+                                103,
+                                119,
+                                "SBS Volume 9"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "<big>EEEEEEEEEEEEEEH!!?</big> Huh!!? Really. ...T ...Thanks. But when I looked it up, the expiry date for cola was about half a year... No...!! I should drink it!! Okay!! Glups, glups, glups cough!! Falls...\n\n[[File:SBS103 Snatch.png|thumb|300px]]",
+                        "matches": [
+                            [
+                                209,
+                                247,
+                                "File:SBS103 Snatch.png|thumb|300px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS103 Snatch.png",
+                        "size": "300",
+                        "start": 209,
+                        "end": 247
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "SBS Volume 9",
+                        "link_title": "/wiki/SBS Volume 9",
+                        "is_wikipedia": false,
+                        "start": 103,
+                        "end": 119
+                    }
+                ],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "happy",
+                        "funny"
+                    ],
+                    "topics": [],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda thanks a reader for waiting 23 years for a cola, which he forgot to give; he drank it, but then fell down afterward."
+            },
+            {
+                "number": 8,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "In an English vocabulary book I've searched the meaning of the word \"snatch\" means \"the act to wrest (such as victory)\". I couldn't stop thinking about the relationship with the samurai's \"[[Sunacchi]]\", so can you tell us about that? P.N. Yashirai",
+                        "matches": [
+                            [
+                                189,
+                                201,
+                                "Sunacchi"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes, eh~ There is a slogan called \"chest\" in the swordsmanship of the Satsuma clan called Jigen-ryu. It means to jump into the opponent with an empty mind. If you use it as it is, it wouldn't make sense in the real-world, so I tried to use the word \"Sunacchi\" as a desperate slogan to \"Surrender your name and be as a child.\"\n{{-}}",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Sunacchi",
+                        "link_title": "/wiki/Sunacchi",
+                        "is_wikipedia": false,
+                        "start": 189,
+                        "end": 201
+                    }
+                ],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "happy",
+                        "funny"
+                    ],
+                    "topics": [
+                        "swordsmanship",
+                        "samurai"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda confirms 'Sunacchi' is a desperate slogan from Satsuma clan's Jigen-ryu swordsmanship, meaning 'Surrender your name and be as a child', inspired by English vocabulary book's definition of 'snatch'."
+            }
+        ],
+        "page": "84",
+        "chapter_number": "1039",
+        "page_header": "SBS103 Header 3.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 9,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchi! Thank you for your hard work!! I can't assemble my Yamato figure because I'm so curious about what [[Beasts Pirates#All-Stars|All-Stars]] and [[Beasts Pirates#Tobiroppo|Tobiroppo]] were like when they were children! If you don't mind, please draw them. Please! P.N. Setcho",
+                        "matches": [
+                            [
+                                108,
+                                146,
+                                "Beasts Pirates#All-Stars|All-Stars"
+                            ],
+                            [
+                                151,
+                                189,
+                                "Beasts Pirates#Tobiroppo|Tobiroppo"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "It's a pity that you can't assemble your Yamato figure. Okay. I drew [[X Drake|Drake]] before, so no need.\n\n[[File:All-Stars and Tobiroppo as Children.png|thumb|center|400px]]\n(From left to right, top to bottom. Row One: [[King]], [[Queen]], [[Jack]]. Row Two: [[Who's-Who]], [[Sasaki]], [[Black Maria]]. Row Three: [[Page One]], [[Ulti]].)\n{{-}}",
+                        "matches": [
+                            [
+                                69,
+                                86,
+                                "X Drake|Drake"
+                            ],
+                            [
+                                108,
+                                175,
+                                "File:All-Stars and Tobiroppo as Children.png|thumb|center|400px"
+                            ],
+                            [
+                                221,
+                                229,
+                                "King"
+                            ],
+                            [
+                                231,
+                                240,
+                                "Queen"
+                            ],
+                            [
+                                242,
+                                250,
+                                "Jack"
+                            ],
+                            [
+                                261,
+                                274,
+                                "Who's-Who"
+                            ],
+                            [
+                                276,
+                                286,
+                                "Sasaki"
+                            ],
+                            [
+                                288,
+                                303,
+                                "Black Maria"
+                            ],
+                            [
+                                316,
+                                328,
+                                "Page One"
+                            ],
+                            [
+                                330,
+                                338,
+                                "Ulti"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "All-Stars and Tobiroppo as Children.png",
+                        "size": "400",
+                        "start": 108,
+                        "end": 175
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "All-Stars",
+                        "link_title": "/wiki/Beasts Pirates#All-Stars",
+                        "is_wikipedia": false,
+                        "start": 108,
+                        "end": 146
+                    },
+                    {
+                        "text": "Tobiroppo",
+                        "link_title": "/wiki/Beasts Pirates#Tobiroppo",
+                        "is_wikipedia": false,
+                        "start": 151,
+                        "end": 189
+                    },
+                    {
+                        "text": "Drake",
+                        "link_title": "/wiki/X Drake",
+                        "is_wikipedia": false,
+                        "start": 69,
+                        "end": 86
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "King",
+                        "link_title": "/wiki/King",
+                        "is_wikipedia": false,
+                        "start": 221,
+                        "end": 229
+                    },
+                    {
+                        "text": "Queen",
+                        "link_title": "/wiki/Queen",
+                        "is_wikipedia": false,
+                        "start": 231,
+                        "end": 240
+                    },
+                    {
+                        "text": "Jack",
+                        "link_title": "/wiki/Jack",
+                        "is_wikipedia": false,
+                        "start": 242,
+                        "end": 250
+                    },
+                    {
+                        "text": "Who's-Who",
+                        "link_title": "/wiki/Who's-Who",
+                        "is_wikipedia": false,
+                        "start": 261,
+                        "end": 274
+                    },
+                    {
+                        "text": "Sasaki",
+                        "link_title": "/wiki/Sasaki",
+                        "is_wikipedia": false,
+                        "start": 276,
+                        "end": 286
+                    },
+                    {
+                        "text": "Black Maria",
+                        "link_title": "/wiki/Black Maria",
+                        "is_wikipedia": false,
+                        "start": 288,
+                        "end": 303
+                    },
+                    {
+                        "text": "Page One",
+                        "link_title": "/wiki/Page One",
+                        "is_wikipedia": false,
+                        "start": 316,
+                        "end": 328
+                    },
+                    {
+                        "text": "Ulti",
+                        "link_title": "/wiki/Ulti",
+                        "is_wikipedia": false,
+                        "start": 330,
+                        "end": 338
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "x_drake",
+                        "king",
+                        "queen",
+                        "jack",
+                        "who's_who",
+                        "sasaki",
+                        "black_maria",
+                        "page_one",
+                        "ulti"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "happy",
+                        "excited"
+                    ],
+                    "topics": [
+                        "beasts_pirates",
+                        "all_stars",
+                        "tobiropo",
+                        "childhood"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader requests childhood drawings of Beasts Pirates' All-Stars and Tobiroppo, Oda agrees and sketches them as children."
+            }
+        ],
+        "page": "100",
+        "chapter_number": "1040",
+        "page_header": "SBS103 Header 4.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 10,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-san, please tell us which PTA you like and which PTA you hate. P.N. Eyan",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "My favorite PTA is a PTA that enjoys One Piece with children!! I hate PT... there's no way I would hate it~~Nico Nico\u2661\n\n[[File:SBS103 Rosinante.png|thumb|200px]]",
+                        "matches": [
+                            [
+                                120,
+                                161,
+                                "File:SBS103 Rosinante.png|thumb|200px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS103 Rosinante.png",
+                        "size": "200",
+                        "start": 120,
+                        "end": 161
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "happy",
+                        "funny"
+                    ],
+                    "topics": [
+                        "PTA",
+                        "One Piece fandom"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda likes a PTA that enjoys One Piece with children, he doesn't hate PTAs but claims 'there's no way I would hate it'."
+            },
+            {
+                "number": 11,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "In the same way that [[Trafalgar D. Water Law|Law]] accepts the fate of being a member of the [[Will of D.|D. clan]], who is the \"natural enemy of God\", Oda-san should also live with accepting that he is a \"natural enemy of the PTA\". P.N. Inugami Nekosei",
+                        "matches": [
+                            [
+                                21,
+                                51,
+                                "Trafalgar D. Water Law|Law"
+                            ],
+                            [
+                                94,
+                                116,
+                                "Will of D.|D. clan"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "<big>NOOOOOO~!!</big> I want to be liked by the PTA!! But I also want to draw kids' dreams...!! Damn it...!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Law",
+                        "link_title": "/wiki/Trafalgar D. Water Law",
+                        "is_wikipedia": false,
+                        "start": 21,
+                        "end": 51
+                    },
+                    {
+                        "text": "D. clan",
+                        "link_title": "/wiki/Will of D.",
+                        "is_wikipedia": false,
+                        "start": 94,
+                        "end": 116
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "Trafalgar_D_Water_Law",
+                        "Eiichiro_Oda"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "sad",
+                        "funny"
+                    ],
+                    "topics": [
+                        "Will_of_D",
+                        "manga_creation"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda doesn't want to be seen as a 'natural enemy' of the Parent Teacher Association, despite his desire to draw children's dreams."
+            },
+            {
+                "number": 12,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello Oda-san! Can you poop? P.N. Koutarou",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I popped so much that I could see a town of Tokyo when I looked down!! Damn it...!!\n\n[[File:SBS103 Fukumi.png|thumb|200px|Fukumi]]",
+                        "matches": [
+                            [
+                                85,
+                                130,
+                                "File:SBS103 Fukumi.png|thumb|200px|Fukumi"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS103 Fukumi.png",
+                        "size": "200",
+                        "start": 85,
+                        "end": 130
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [
+                        "tokyo"
+                    ],
+                    "emotions": [
+                        "funny",
+                        "silly"
+                    ],
+                    "topics": [],
+                    "importance": [
+                        "low"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda confirmed they can poop, saying they saw a town resembling Tokyo after doing so."
+            },
+            {
+                "number": 13,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Nin Nin. It seems that [[Raizo]] and [[Fukurokuju]] are rival ninjas, but I want to know what happened between them. P.N. Koutarou",
+                        "matches": [
+                            [
+                                23,
+                                32,
+                                "Raizo"
+                            ],
+                            [
+                                37,
+                                51,
+                                "Fukurokuju"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Ah, I don't even need to talk about this, I just skipped this (laughs). Roughly speaking, it is like this. The genius ninja Raizo, who possesses \"Maki Maki no Jutsu\" and has an outstanding physical ability, loved [[Fukumi]], the sickly younger sister of Fukurokuju, the leader of the ninja corps. One day, while on a mission, he rescued Fukumi, and she fell in love with Raizo's dependable appearance and tried to kiss him, but Raizo, who is too naive, rejects her happiness and injures her. Raizo couldn't look at her face and escaped. In her sickbed, Fukumi kept calling Raizo's name until she died. Fukurokuju, who misunderstood it as a grudge, was angry and his earlobes stretched. And he promised that he would never forgive Raizo for the rest of his life. Raizo makes no excuses.\n{{-}}",
+                        "matches": [
+                            [
+                                213,
+                                223,
+                                "Fukumi"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Raizo",
+                        "link_title": "/wiki/Raizo",
+                        "is_wikipedia": false,
+                        "start": 23,
+                        "end": 32
+                    },
+                    {
+                        "text": "Fukurokuju",
+                        "link_title": "/wiki/Fukurokuju",
+                        "is_wikipedia": false,
+                        "start": 37,
+                        "end": 51
+                    },
+                    {
+                        "text": "Fukumi",
+                        "link_title": "/wiki/Fukumi",
+                        "is_wikipedia": false,
+                        "start": 213,
+                        "end": 223
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "raizo",
+                        "fukurokuju",
+                        "fukumi"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "sad",
+                        "angry"
+                    ],
+                    "topics": [
+                        "ninja_backstory",
+                        "rivalry"
+                    ],
+                    "importance": [
+                        "high"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Raizo and Fukurokuju were rival ninjas due to Raizo's rejection of Fukurokuju's sickly sister's love, leading to her death and Fukurokuju's lifelong grudge."
+            }
+        ],
+        "page": "118",
+        "chapter_number": "1041",
+        "page_header": "SBS103 Header 5.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 14,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello Oda-sensei. I will be a PTA officer from next year (laughs). I am (laughs). I would like to thank the villagers for their recommendation and do my best. P.N. Sanadacchi",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Well, from this corner, the PTA executives will finally come out, and it's worth the healthy work up until now... <big>SANADAAAAA!!! TELL ME IT'S A LIE!!</big>",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "odasensei",
+                        "sanadacchi"
+                    ],
+                    "emotions": [
+                        "happy",
+                        "funny"
+                    ],
+                    "topics": [
+                        "oda's_personal_life"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "A fan, Sanadacchi, will become a PTA officer next year, exciting Oda who jokes about a character with that name appearing in the manga."
+            },
+            {
+                "number": 15,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "If the Straw Hat Pirates were to write a month's worth of schedules on their calendars, what would each of them write the most schedules for? P.N. Ebi",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "In the first place, I think the navigator Nami is the only one who cares about \"date\" and \"time\". Sanji also cares about \"time\", and [[Nico Robin|Robin]] about \"date\". They don't do things like birthday parties very often. They just celebrate whatever they want, whenever they want. Excluding \"guard duty\" and \"helm duty\", they are all basically always on \"free time.\"",
+                        "matches": [
+                            [
+                                133,
+                                153,
+                                "Nico Robin|Robin"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Robin",
+                        "link_title": "/wiki/Nico Robin",
+                        "is_wikipedia": false,
+                        "start": 133,
+                        "end": 153
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy",
+                        "nami",
+                        "sanji",
+                        "nico_robin"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "happy",
+                        "funny"
+                    ],
+                    "topics": [
+                        "straw_hat_pirates",
+                        "daily_routine"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Nami and Robin might schedule dates, Sanji would note meal times; other Straw Hats have little need for scheduling."
+            },
+            {
+                "number": 16,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "What was favorite food from [[Wano Country]] that [[Monkey D. Luffy|Luffy]] and the others ate in Wano Country? P.N. Goemon",
+                        "matches": [
+                            [
+                                28,
+                                44,
+                                "Wano Country"
+                            ],
+                            [
+                                50,
+                                75,
+                                "Monkey D. Luffy|Luffy"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "It seems that they were able to try a lot of different foods there because they stayed there for a long time.\n\n[[File:SBS103 SH Foods.png|center|400px]]\n\n<table width=\"100%\">\n<td width=\"50%\" valign=\"top\">\n*Luffy: Oden\n*[[Roronoa Zoro|Zoro]]: Sushi\n*Nami: Oshiruko\n*[[Usopp]]: Saba Misoni\n*Sanji: Chawanmushi\n</td>\n<td width=\"50%\" valign=\"top\">\n*[[Tony Tony Chopper|Chopper]]: Ichigo Daifuku\n*Robin: Soba\n*[[Franky]]: Tendon\n*[[Brook]]: Mitarashi Dango\n*[[Jinbe]]: Ochazuke\n</td></table>\n{{-}}",
+                        "matches": [
+                            [
+                                111,
+                                152,
+                                "File:SBS103 SH Foods.png|center|400px"
+                            ],
+                            [
+                                219,
+                                240,
+                                "Roronoa Zoro|Zoro"
+                            ],
+                            [
+                                265,
+                                274,
+                                "Usopp"
+                            ],
+                            [
+                                345,
+                                374,
+                                "Tony Tony Chopper|Chopper"
+                            ],
+                            [
+                                405,
+                                415,
+                                "Franky"
+                            ],
+                            [
+                                425,
+                                434,
+                                "Brook"
+                            ],
+                            [
+                                453,
+                                462,
+                                "Jinbe"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS103 SH Foods.png",
+                        "size": "400",
+                        "start": 111,
+                        "end": 152
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Luffy",
+                        "link_title": "/wiki/Monkey D. Luffy",
+                        "is_wikipedia": false,
+                        "start": 50,
+                        "end": 75
+                    },
+                    {
+                        "text": "Zoro",
+                        "link_title": "/wiki/Roronoa Zoro",
+                        "is_wikipedia": false,
+                        "start": 219,
+                        "end": 240
+                    },
+                    {
+                        "text": "Chopper",
+                        "link_title": "/wiki/Tony Tony Chopper",
+                        "is_wikipedia": false,
+                        "start": 345,
+                        "end": 374
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Wano Country",
+                        "link_title": "/wiki/Wano Country",
+                        "is_wikipedia": false,
+                        "start": 28,
+                        "end": 44
+                    },
+                    {
+                        "text": "Usopp",
+                        "link_title": "/wiki/Usopp",
+                        "is_wikipedia": false,
+                        "start": 265,
+                        "end": 274
+                    },
+                    {
+                        "text": "Franky",
+                        "link_title": "/wiki/Franky",
+                        "is_wikipedia": false,
+                        "start": 405,
+                        "end": 415
+                    },
+                    {
+                        "text": "Brook",
+                        "link_title": "/wiki/Brook",
+                        "is_wikipedia": false,
+                        "start": 425,
+                        "end": 434
+                    },
+                    {
+                        "text": "Jinbe",
+                        "link_title": "/wiki/Jinbe",
+                        "is_wikipedia": false,
+                        "start": 453,
+                        "end": 462
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy",
+                        "roronoa_zoro",
+                        "nami",
+                        "usopp",
+                        "sanji",
+                        "tony_tony_chopper",
+                        "robin",
+                        "franky",
+                        "brook",
+                        "jinbe"
+                    ],
+                    "places": [
+                        "wano_country"
+                    ],
+                    "topics": [
+                        "favorite_food",
+                        "oden",
+                        "sushi",
+                        "oshiruko",
+                        "saba_misoni",
+                        "chawanmushi",
+                        "ichigo_daifuku",
+                        "soba",
+                        "tendon",
+                        "mitarashi_dango",
+                        "ochazuke"
+                    ],
+                    "emotions": [
+                        "happy"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Luffy's favorite Wano food is oden, Zoro prefers sushi, Nami likes oshiruko, Usopp enjoys saba misoni, Sanji favors chawanmushi, Chopper loves ichigo daifuku, Robin eat soba, Franky chose tendon, Brook likes mitarashi dango, and Jinbe's favorite is ochazuke."
+            }
+        ],
+        "page": "136",
+        "chapter_number": "1042",
+        "page_header": "SBS103 Header 6.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 17,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchi heso. My heart sounds like \"Dondottotto\u266a Dondottotto\u266c\". Why? P.N. Jinbei",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Eh...!? No way...!! Catch him!! Catch P.N. Jinbei right now!! This heartbeat...!! <big>IT'S A PERSON WITH HIGH BLOOD PRESSURE~!!</big> To the hospital~!!\n\n[[File:SBS103 Yamata no Orochi.png|thumb|250px]]",
+                        "matches": [
+                            [
+                                155,
+                                203,
+                                "File:SBS103 Yamata no Orochi.png|thumb|250px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS103 Yamata no Orochi.png",
+                        "size": "250",
+                        "start": 155,
+                        "end": 203
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "jinbei",
+                        "monkey_d_luffy"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "health"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader asking why their heart sounds like 'Dondottotto'; Oda jokingly responds it's a person with high blood pressure and suggests them to go to the hospital."
+            },
+            {
+                "number": 18,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Why is [[Kurozumi Orochi|Orochi]] still alive!? Does this mean that the [[Hebi Hebi no Mi, Model: Yamata no Orochi|Hebi Hebi no Mi, mythical model \"Yamata no Orochi\"]] have 8 lives?? P.N. Aba",
+                        "matches": [
+                            [
+                                7,
+                                33,
+                                "Kurozumi Orochi|Orochi"
+                            ],
+                            [
+                                72,
+                                167,
+                                "Hebi Hebi no Mi, Model: Yamata no Orochi|Hebi Hebi no Mi, mythical model \"Yamata no Orochi\""
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes. If you don't cut his head 8 times, he won't die! This is also his ability!! It's annoying!!\n\n[[File:Oto Oto no Mi User Diagram.png|thumb|300px]]",
+                        "matches": [
+                            [
+                                98,
+                                149,
+                                "File:Oto Oto no Mi User Diagram.png|thumb|300px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "Oto Oto no Mi User Diagram.png",
+                        "size": "300",
+                        "start": 98,
+                        "end": 149
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Orochi",
+                        "link_title": "/wiki/Kurozumi Orochi",
+                        "is_wikipedia": false,
+                        "start": 7,
+                        "end": 33
+                    },
+                    {
+                        "text": "Hebi Hebi no Mi, mythical model \"Yamata no Orochi\"",
+                        "link_title": "/wiki/Hebi Hebi no Mi, Model: Yamata no Orochi",
+                        "is_wikipedia": false,
+                        "start": 72,
+                        "end": 167
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "Kurozumi Orochi"
+                    ],
+                    "places": [
+                        "Wano"
+                    ],
+                    "topics": [
+                        "Hebi Hebi no Mi, mythical model \"Yamata no Orochi\"",
+                        "Devil Fruit abilities"
+                    ],
+                    "emotions": [
+                        "frustrated"
+                    ],
+                    "importance": [
+                        "high"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda confirms Orochi has 8 lives due to his Hebi Hebi no Mi, Model: Yamata no Orochi abilities, and finds it annoying."
+            },
+            {
+                "number": 19,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchi!! [[Scratchmen Apoo|Apoo]]'s full body are [[Oto Oto no Mi|instruments]]<br/>\nHead: Cymbals<br/>\nTeeth: Piano<br/>\nChest: Drum<br/>\nLeft arm: Trumpet<br/>\nRight arm: Stringed instrument<br/>\nHis chin is something that goes \"poof\", isn't it? What other instruments does he have? P.N. Norisen",
+                        "matches": [
+                            [
+                                10,
+                                34,
+                                "Scratchmen Apoo|Apoo"
+                            ],
+                            [
+                                51,
+                                80,
+                                "Oto Oto no Mi|instruments"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "This is it. He has a triangle in his crotch! Yes, it's over! SBS continues in next volume~~!!\n{{-}}",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Apoo",
+                        "link_title": "/wiki/Scratchmen Apoo",
+                        "is_wikipedia": false,
+                        "start": 10,
+                        "end": 34
+                    },
+                    {
+                        "text": "instruments",
+                        "link_title": "/wiki/Oto Oto no Mi",
+                        "is_wikipedia": false,
+                        "start": 51,
+                        "end": 80
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "Scratchmen Apoo",
+                        "Oda"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "amused",
+                        "excited"
+                    ],
+                    "topics": [
+                        "Devil Fruit"
+                    ],
+                    "importance": "high",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Apoo's body parts are various instruments, including a triangle at his crotch, according to Oda."
+            }
+        ],
+        "page": "154",
+        "chapter_number": "1043",
+        "page_header": "SBS103 Header 7.png"
+    }
+]

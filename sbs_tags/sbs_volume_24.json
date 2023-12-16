@@ -1,0 +1,641 @@
+[
+    {
+        "qa": [
+            {
+                "number": 1,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Dokusha (Reader)\n*",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Oda",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader asks if Nami will get a new tattoo, Oda reveals she'll get a new one on her lower back."
+            }
+        ],
+        "page": 26,
+        "chapter_number": 217,
+        "page_header": "SBS Vol 24 header.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 2,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Huh?! What, Eiichirou-kun?! Wait. I'm in a hurry!! Huh?! Say it?! Say what?! No, I will not!! I'm going now, okay?! Okay, goodbye!! (voice fading away) \n\nSTArt the s... b... s...!! (casually but kindly).",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "SO YOU ARE GONNA SAY IT?! ......Ah well, take care.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "excited",
+                        "happy",
+                        "amused"
+                    ],
+                    "topics": [],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader hurriedly starts Oda's SBS session, but leaves quickly; Oda is left confused but accepting."
+            },
+            {
+                "number": 3,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "JUST HOW MANY LITERS IS ODA-SENSEI? \n\n-by Nori (liquid type)-",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yeahhh. I think it was about... 4th grade or so. When I saw a kappa.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "amused"
+                    ],
+                    "topics": [],
+                    "importance": [
+                        "low"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader asks how many liters Oda is, Oda responds he was inspired to draw kappa in 4th grade after seeing one."
+            },
+            {
+                "number": 4,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "A question for Oda-sensei. In the Marines, there are some people who wear uniforms and some people who wear normal clothes. Is wearing regular clothes determined by rank, or is it all up to personal preference?",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Well... A little from column A, a little from column B. How do I explain this... Basically, when you first join the Marines, you are given a basic Marine uniform and cap. This is a pretty proud moment that you'd want to call home and tell your parents about. Private First Class (Ittouhei) and everyone below must wear these. So Jango and Fullbody are actually breaking the rules. For ranks Corporal (Gochou) and above, you can choose other types of uniforms or wear your own personal clothes. However, discretion is advised so that you still look the part of a Marine. Now when you attain the rank of Warrant Officer (Juni), you earn the privilege of wearing \"Justice\" on your clothes. For ranks Major (Shousa) and above, the Justice coat and suit is the most common attire. (For more info regarding Marine ranks, consult Volume 8.)",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "marine_uniforms",
+                        "marine_ranks"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Marines' uniforms depend on rank, starting with a basic one for newbies, personal clothes for Corporal and above, 'Justice' clothes for Warrant Officer and above; higher ranks often wear Justice coats."
+            }
+        ],
+        "page": "26",
+        "chapter_number": "217",
+        "page_header": null
+    },
+    {
+        "qa": [
+            {
+                "number": 5,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "It takes a while for time to pass in manga, doesn't it? Since it's a weekly story. So, should we wait like 2 more years for Luffy's birthday?",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "No, no, no. He has a birthday every year, just like everyone else. It's just that, in Luffy's case, every year is his 17th birthday. Doesn't that make you jealous?",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "moneky_d_luffy"
+                    ],
+                    "topics": [
+                        "luffy's_birthday"
+                    ],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Readers ask if they should wait 2 more years for Luffy's birthday due to manga's weekly story format. Oda confirms Luffy has a birthday every year, but it's always his 17th; this makes readers jealous."
+            },
+            {
+                "number": 6,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hold on, hold on, Oda-sensei. On the 2nd panel of page 215, chapter 216 \"Vivi's Adventure\" in Volume 23, I see 3 among the bystanders, THREE. He's just walkin' around! What in the WORLD is the meaning of this?! Didn't he die?! Give me an answer in a 75-character reply, right now!! (punctuation doesn't count)",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Ohh, he is there. Yup, that's him all right. What? But you want me to make a reply only 75 characters-long? On the reason why he's there?! Fine, here's why. BECAUSE... ah!! Crap, I' ve passed the character limit.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "Oda",
+                        "Vivi"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "excited",
+                        "funny"
+                    ],
+                    "topics": [
+                        "mystery"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda confirms the character in Volume 23, Chapter 216 is three, who was thought to be dead, but can't fully explain his presence due to character limit."
+            },
+            {
+                "number": 7,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Nice to meet you today, Oda-sensei. Now, here is my question to you. Who is it that takes those pictures for the wanted posters distributed by the Marines?\n\n[[File:Attach Manga Pre Timeskip Infobox.png|right]]",
+                        "matches": [
+                            [
+                                157,
+                                209,
+                                "File:Attach Manga Pre Timeskip Infobox.png|right"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "That'd be this dude here.\n\nName: [[Attach]]. Nickname: Atta-chan.\n\nHe's extremely quick and can sneak into any place he wants. He is called \"Flaming Atta-chan\" because he yells \"Fire!!\" whenever he hits the shutter.\n\nHead of the Marine Photography Department \"Flaming Atta-chan\".\n\nAttach: FIRE!! *FLASH!*\n{{-}}",
+                        "matches": [
+                            [
+                                33,
+                                43,
+                                "Attach"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "Attach Manga Pre Timeskip Infobox.png",
+                        "size": null,
+                        "start": 157,
+                        "end": 209
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Attach",
+                        "link_title": "/wiki/Attach",
+                        "is_wikipedia": false,
+                        "start": 33,
+                        "end": 43
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "oda",
+                        "atta-chan"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "marines",
+                        "wanted posters",
+                        "photography"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda reveals the Marine Photography Department head, Attach, is responsible for wanted poster photos, known as 'Flaming Atta-chan' for his yell and quick snaps."
+            }
+        ],
+        "page": "46",
+        "chapter_number": "218",
+        "page_header": null
+    },
+    {
+        "qa": [
+            {
+                "number": 8,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello. Here's my question, Oda-sensei. Among all your characters, which one do you think of as \"most similar to yourself\"? (I'm thinking I'm a lot like \"Usopp\"...)",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Hmm... Let's see. Clever mind. Cool and calm personality. Stand-out attire... Guess there's really only one character who fits that bill... RED-HAIR SHANKS... Huh? I can suddenly hear everyone shouting for some reason... Hahaha... AH! OWW!!! Please stop throwing things at me!! It really hurts!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy",
+                        "usopp",
+                        "red-hair_shanks"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "happy",
+                        "funny"
+                    ],
+                    "topics": [
+                        "characters_backstory",
+                        "one_piece_author"
+                    ],
+                    "importance": [
+                        "high"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda thinks Shanks is most similar to him, having a clever mind, cool personality, and distinctive attire; readers disagree, leading to Oda getting hurt from thrown objects."
+            },
+            {
+                "number": 9,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "About the Alabastian Civil War. I know there were 300 thousand royalist soldiers and 700 thousand rebels, but then in Volume 20, Chaka mentions \"2 million angry warriors\". Where did those extra 1.3 million guys come from? (I wonder if it was people who didn't join at first, like Toto, but then changed their minds...)",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "That's correct. Alabasta is a country with roughly 10 million citizens. To make things simpler to understand, I left out a bunch of things, but there are lots of other towns and villages besides the ones that appeared in the story. Hearing \"10 million\" might make 2 million seem smaller, but that's still an armed uprising of 2 million people. It's a very serious situation. A major rebellion.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [
+                        "alabasta"
+                    ],
+                    "emotions": [
+                        "confused",
+                        "curious"
+                    ],
+                    "topics": [
+                        "alabastian civil war",
+                        "population size"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda confirms 2 million rebel soldiers includes late-joiners from Alabasta's 10 million citizens; it's a significant uprising despite seeming smaller than 10 million."
+            },
+            {
+                "number": 10,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Salutations, Oda Eiichirou-sama. Previously, I went on a homestay trip to England. I have something to report to you, Oda Eiichirou-sama. THE TOILET PAPER WAS BROWN!!! (and slighty orange-ish)",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "FOR REALS?! Damn. Then you can't see the poop on it!! Is that because England is the country of Earl Grey tea?! Is it supposed to represent Earl Grey\u00a0tea?!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [
+                        "england"
+                    ],
+                    "emotions": [
+                        "surprised",
+                        "funny"
+                    ],
+                    "topics": [
+                        "toilet_paper"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader reports brown toilet paper in England, Oda wonders if it's due to Earl Grey tea and intended for poop invisibility."
+            }
+        ],
+        "page": "106",
+        "chapter_number": "221",
+        "page_header": null
+    },
+    {
+        "qa": [
+            {
+                "number": 11,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-chan! How you doin'?! (Inoki-impression) Umm, I have a question. In One Piece Volume 18, chapter 157, Luffy complains about lack of food with spirally eyes... but right behind him are Nami and her orange trees. Can't he just eat them? They're oranges...",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Oranges... Yes, there are oranges...... However... To pick and take one bite is to taste instant death. Yes, instant death. Going a whole week without food is usually not enough to kill a human. So whether you bear through it for some greater purpose still remaining in your life, or pick an orange (death) and try your luck with the navigator's fury... That's a pretty big gamble... That being said, if her friends really were starving to death, I don't think she'd be cold enough to just let them die. *Brrr*",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy",
+                        "nami"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "happy",
+                        "funny"
+                    ],
+                    "topics": [
+                        "devil_fruit",
+                        "food"
+                    ],
+                    "importance": "high",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda explains Luffy can't eat Nami's oranges as it means instant death, causing starvation or not, Nami wouldn't let them die from eating them."
+            },
+            {
+                "number": 12,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-senseeei! YOUR PHONE IS RINGING. -Pen name: That's Right-",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Nah, don't worry. It's just my editor.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "amused",
+                        "casual"
+                    ],
+                    "topics": [],
+                    "importance": [
+                        "low"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda's phone ringing is his editor, not an important call according to Oda."
+            },
+            {
+                "number": 13,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I need to ask you something, Oda-sensei. I want to give you a letter directly, but I don't know where to send it. Please tell me your address.",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Ahh. An address. For a letter.\n\n... BUT I GOT YOUR LETTER. (DUN-DUN-DUUNNN!)\n\nUmm. There are two adresses you can use. You can use the address for the editors' offices as written in Jump Magazine, or the special mailbox for the SBS questions only. Either way, it all comes right to me so don't worry.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [
+                        "jump_magazine_offices",
+                        "special_mailbox_for_sbs_questions"
+                    ],
+                    "emotions": [
+                        "happy"
+                    ],
+                    "topics": [
+                        "oda's_personal_life"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda reveals there are two addresses to send letters: the editors' offices or a special SBS mailbox, both reaching him."
+            }
+        ],
+        "page": "146",
+        "chapter_number": "223",
+        "page_header": null
+    },
+    {
+        "qa": [
+            {
+                "number": 14,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "How is it that the spikes from Miss Doublefinger's \"Toge Toge Fruit\" can also grow from outside her body (her clothes, that is)?",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Huh? Are you referring to the fact that the spikes would rip the clothes? If I did that, wouldn't this become an extraordinarily EROTIC MANGA?! And if I did that, then I'd have to draw it that way on book covers, so then everyone'd be super embarrassed when trying to buy it at the bookstore!! You want that?!\n\n[[File:SBS Vol 24 Chap 224.png|right]]",
+                        "matches": [
+                            [
+                                311,
+                                349,
+                                "File:SBS Vol 24 Chap 224.png|right"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS Vol 24 Chap 224.png",
+                        "size": null,
+                        "start": 311,
+                        "end": 349
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "miss_doublefinger"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny",
+                        "silly"
+                    ],
+                    "topics": [
+                        "devil_fruit"
+                    ],
+                    "importance": [
+                        "low"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda explains that Miss Doublefinger's spikes rip her clothes to avoid making One Piece overly erotic, as it would cause issues for readers buying it in stores."
+            },
+            {
+                "number": 15,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello, I am \"Sam's Daughter\". Wait wait, Oda-sensei!! I have a very big complaint! In Volume 23, the part with the quote that says, \"We picked flowers for you\" with the sfx that say *Flowerrr...!!* Yes, that part. Now doesn't Jango's flowers seem extremely LAZILY DRAWN? You probably just cut corners after drawing Fullbody's flowers! (this is you, after all...) HMPH! WHAT IS THE MEANING OF THIS?",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "DON'T BE PRESUMPTUOUS!!\n\nI CUT CORNERS ON BOTH OF THEM (DON!)\n\nOkay, now here's my \"Simple Rose-Drawing Lecture\".\n\nTriangles, triangles, triangles, more triangles, and even more triangles... Voila! A beautiful rose!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "o",
+                        "sam's daughter"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "angry",
+                        "funny"
+                    ],
+                    "topics": [
+                        "oda's drawing process"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader complains about Jango's lazily drawn flowers in Vol. 23; Oda responds by admitting he cut corners and provides a simple rose-drawing lecture using triangles."
+            },
+            {
+                "number": 16,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "You really like playing pranks, don't you, Oda-sensei? You're always drawing Pandaman everywhere... A-N-D S-O. I want you to let me play a prank, too. \"The SBS is over\". Something like that.",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Oh, it's over...? Well, see you next time.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "pandaman"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "playful"
+                    ],
+                    "topics": [
+                        "pranks",
+                        "SBS"
+                    ],
+                    "importance": [
+                        "low"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader asks Oda to let them play a prank in the SBS, and Oda responds by seemingly ending the session in a playful manner."
+            }
+        ],
+        "page": "166",
+        "chapter_number": "224",
+        "page_header": null
+    }
+]

@@ -1,0 +1,1827 @@
+[
+    {
+        "qa": [
+            {
+                "number": 0,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "N/A",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Hello, all. I suppose it's about time to start the SBS...\n\n[[File:SBS 82 Komashu.png|thumb|200px]]",
+                        "matches": [
+                            [
+                                59,
+                                98,
+                                "File:SBS 82 Komashu.png|thumb|200px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS 82 Komashu.png",
+                        "size": "200",
+                        "start": 59,
+                        "end": 98
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda starts the Q&A session."
+            },
+            {
+                "number": 1,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Aha! That face... you must be Eiichiro Oda. I've heard that lately, people have been forcefully taking over the beginnings of your precious little segments called the \"SBS\". I take it that this is the reason why you've arrived so early at the SBS auditorium this morning. BUT ALAS!!! You've failed to succeed in your mission once more, as I have been waiting at this exact spot for 3 whole days before this moment... all in order to fulfill my own desire. Well then, since the time has finally come, I'm proud to announce ... <big>\"THAT I WILL NOW BEGIN THE SBS!!!\"</big> P.N. Komashu\n\n(''Image text: <nowiki>*sneer*</nowiki> You're 100 years too early!!'')",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "<big>GAHHHHH!!!</big> So it seems I've come along... 100 years too early!!\n\n[[File:SBS 82 Luffy Haki 1.png|thumb|200px]]",
+                        "matches": [
+                            [
+                                76,
+                                120,
+                                "File:SBS 82 Luffy Haki 1.png|thumb|200px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS 82 Luffy Haki 1.png",
+                        "size": "200",
+                        "start": 76,
+                        "end": 120
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "surprised",
+                        "funny"
+                    ],
+                    "topics": [
+                        "SBS",
+                        "meeting",
+                        "funny"
+                    ],
+                    "importance": "hight",
+                    "isCharacterInsertion": true
+                },
+                "summary": "Fan playfully 'takes over' the Q&A session, pretending to be Oda, who responds in a comical manner."
+            },
+            {
+                "number": 2,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "The other day, when I glared at my 3 year old brother, he started to cry. Do you think this might be a sign that I have [[Haki/Haoshoku Haki|Conquerer's Haki]]? P.N. Kaoruko.U",
+                        "matches": [
+                            [
+                                120,
+                                159,
+                                "Haki/Haoshoku Haki|Conquerer's Haki"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Please be nicer to your poor brother.\n\n[[File:SBS 82 Akainu 1.png|thumb|200px]]",
+                        "matches": [
+                            [
+                                39,
+                                79,
+                                "File:SBS 82 Akainu 1.png|thumb|200px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS 82 Akainu 1.png",
+                        "size": "200",
+                        "start": 39,
+                        "end": 79
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Conquerer's Haki",
+                        "link_title": "/wiki/Haki/Haoshoku Haki",
+                        "is_wikipedia": false,
+                        "start": 120,
+                        "end": 159
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "kaoruko"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "sad"
+                    ],
+                    "topics": [
+                        "haki",
+                        "family"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader asks if making his brother cry with a glance means he has Conqueror's Haki, Oda advises reader to be nicer to his brother."
+            },
+            {
+                "number": 3,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "<big>Oda-sensei, please save me. [[Sakazuki|Akainu]] is standing right behind me. What do I do?</big> from T. Junpei\n\n[[File:SBS 82 How to whistle 1.png|thumb|200px]]",
+                        "matches": [
+                            [
+                                33,
+                                52,
+                                "Sakazuki|Akainu"
+                            ],
+                            [
+                                118,
+                                166,
+                                "File:SBS 82 How to whistle 1.png|thumb|200px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Calm down. I'm going to teach you a move that will allow you to escape this threat. First, turn your mouth into a \"3\" and stare into the direction of your upper left. Then, begin to whistle. This move will likely allow you to escape most enemies, ghosts, evil spirits and the like.",
+                        "matches": []
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS 82 How to whistle 1.png",
+                        "size": "200",
+                        "start": 118,
+                        "end": 166
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Akainu",
+                        "link_title": "/wiki/Sakazuki",
+                        "is_wikipedia": false,
+                        "start": 33,
+                        "end": 52
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "sakazuki"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "anxious"
+                    ],
+                    "topics": [
+                        "defense_techniques"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda advises on a special whistle technique to escape from Akainu, humorously suggesting how to avoid the threatening character."
+            },
+            {
+                "number": 4,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei! I know this is quite sudden, but please reveal the hobbies of the members of \"[[Worst Generation|The Worst Generation]]\"! P.N. K.S.9",
+                        "matches": [
+                            [
+                                90,
+                                131,
+                                "Worst Generation|The Worst Generation"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "[[File:SBS 82 Worst Generation.png|thumb|center|400px]]\n\n<table width=\"100%\">\n<td width=\"50%\" valign=\"top\">\n*[[Monkey D. Luffy|Luffy]]: Adventures and banquets\n*[[Roronoa Zoro|Zoro]]: Training and drinking\n*[[Trafalgar D. Water Law|Law]]: Wandering around and \u0441ollecting commemorative coins\n*[[Eustass Kid|Kid]]: Listening to music and \u0441ollecting weapons\n*[[Scratchmen Apoo|Apoo]]: DJing and surfing\n*[[Capone Bege|Bege]]: Viewing paintings and board games\n</td>\n<td width=\"50%\" valign=\"top\">\n*[[Basil Hawkins|Hawkins]]: Interior design and bathing\n*[[X Drake|Drake]]: Being a reptile maniac and study of astrophysics\n*[[Jewelry Bonney|Bonney]]: Eating and Jenga\n*[[Killer]]: Drums and cooking\n*[[Urouge]]: Drinking, lovemaking and traveling\n*[[Marshall D. Teach|Blackbeard]]: Gambling and historical research\n</td></table>\nYeah, something like that.\n\n[[File:SBS 82 Law's Submarine 2.png|thumb|200px]]",
+                        "matches": [
+                            [
+                                0,
+                                55,
+                                "File:SBS 82 Worst Generation.png|thumb|center|400px"
+                            ],
+                            [
+                                109,
+                                134,
+                                "Monkey D. Luffy|Luffy"
+                            ],
+                            [
+                                161,
+                                182,
+                                "Roronoa Zoro|Zoro"
+                            ],
+                            [
+                                207,
+                                237,
+                                "Trafalgar D. Water Law|Law"
+                            ],
+                            [
+                                292,
+                                311,
+                                "Eustass Kid|Kid"
+                            ],
+                            [
+                                356,
+                                380,
+                                "Scratchmen Apoo|Apoo"
+                            ],
+                            [
+                                401,
+                                421,
+                                "Capone Bege|Bege"
+                            ],
+                            [
+                                494,
+                                519,
+                                "Basil Hawkins|Hawkins"
+                            ],
+                            [
+                                550,
+                                567,
+                                "X Drake|Drake"
+                            ],
+                            [
+                                619,
+                                644,
+                                "Jewelry Bonney|Bonney"
+                            ],
+                            [
+                                664,
+                                674,
+                                "Killer"
+                            ],
+                            [
+                                695,
+                                705,
+                                "Urouge"
+                            ],
+                            [
+                                743,
+                                775,
+                                "Marshall D. Teach|Blackbeard"
+                            ],
+                            [
+                                852,
+                                901,
+                                "File:SBS 82 Law's Submarine 2.png|thumb|200px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS 82 Worst Generation.png",
+                        "size": "400",
+                        "start": 0,
+                        "end": 55
+                    },
+                    {
+                        "file": "SBS 82 Law's Submarine 2.png",
+                        "size": "200",
+                        "start": 852,
+                        "end": 901
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "The Worst Generation",
+                        "link_title": "/wiki/Worst Generation",
+                        "is_wikipedia": false,
+                        "start": 90,
+                        "end": 131
+                    },
+                    {
+                        "text": "Luffy",
+                        "link_title": "/wiki/Monkey D. Luffy",
+                        "is_wikipedia": false,
+                        "start": 109,
+                        "end": 134
+                    },
+                    {
+                        "text": "Zoro",
+                        "link_title": "/wiki/Roronoa Zoro",
+                        "is_wikipedia": false,
+                        "start": 161,
+                        "end": 182
+                    },
+                    {
+                        "text": "Law",
+                        "link_title": "/wiki/Trafalgar D. Water Law",
+                        "is_wikipedia": false,
+                        "start": 207,
+                        "end": 237
+                    },
+                    {
+                        "text": "Kid",
+                        "link_title": "/wiki/Eustass Kid",
+                        "is_wikipedia": false,
+                        "start": 292,
+                        "end": 311
+                    },
+                    {
+                        "text": "Apoo",
+                        "link_title": "/wiki/Scratchmen Apoo",
+                        "is_wikipedia": false,
+                        "start": 356,
+                        "end": 380
+                    },
+                    {
+                        "text": "Bege",
+                        "link_title": "/wiki/Capone Bege",
+                        "is_wikipedia": false,
+                        "start": 401,
+                        "end": 421
+                    },
+                    {
+                        "text": "Hawkins",
+                        "link_title": "/wiki/Basil Hawkins",
+                        "is_wikipedia": false,
+                        "start": 494,
+                        "end": 519
+                    },
+                    {
+                        "text": "Drake",
+                        "link_title": "/wiki/X Drake",
+                        "is_wikipedia": false,
+                        "start": 550,
+                        "end": 567
+                    },
+                    {
+                        "text": "Bonney",
+                        "link_title": "/wiki/Jewelry Bonney",
+                        "is_wikipedia": false,
+                        "start": 619,
+                        "end": 644
+                    },
+                    {
+                        "text": "Blackbeard",
+                        "link_title": "/wiki/Marshall D. Teach",
+                        "is_wikipedia": false,
+                        "start": 743,
+                        "end": 775
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Killer",
+                        "link_title": "/wiki/Killer",
+                        "is_wikipedia": false,
+                        "start": 664,
+                        "end": 674
+                    },
+                    {
+                        "text": "Urouge",
+                        "link_title": "/wiki/Urouge",
+                        "is_wikipedia": false,
+                        "start": 695,
+                        "end": 705
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy",
+                        "roronoa_zoro",
+                        "trafalgar_d_water_law",
+                        "eustass_kid",
+                        "scratchmen_apoo",
+                        "capone_bege",
+                        "basil_hawkins",
+                        "x_drake",
+                        "jewelry_bonney",
+                        "killer",
+                        "urouge",
+                        "marshall_d_teach"
+                    ],
+                    "places": [],
+                    "topics": [
+                        "hobbies",
+                        "worst_generation"
+                    ],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "The Worst Generation's hobbies: Luffy - adventures and banquets, Zoro - training and drinking, Law - wandering and collecting coins, Kid - music and weapon, Apoo - DJing and surfing."
+            },
+            {
+                "number": 5,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "The \"Grand Ship Collection\" simply calls it \"Law's Submarine\", but does his submarine really have no other fancy name like the [[Thousand Sunny]]? P.N. Looking for a full-time job at the Heart Pirates' crew",
+                        "matches": [
+                            [
+                                127,
+                                145,
+                                "Thousand Sunny"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Ah, I didn't even know that they had such merchandise! His submarine is called \"[[Polar Tang]]\". Haha, I suppose it's my fault for not introducing the names of boats and ships every time.",
+                        "matches": [
+                            [
+                                80,
+                                94,
+                                "Polar Tang"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Thousand Sunny",
+                        "link_title": "/wiki/Thousand Sunny",
+                        "is_wikipedia": false,
+                        "start": 127,
+                        "end": 145
+                    },
+                    {
+                        "text": "Polar Tang",
+                        "link_title": "/wiki/Polar Tang",
+                        "is_wikipedia": false,
+                        "start": 80,
+                        "end": 94
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "Trafalgar_Law"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "amused"
+                    ],
+                    "topics": [
+                        "ships",
+                        "merchandise"
+                    ],
+                    "importance": [
+                        "high"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Law's submarine is named 'Polar Tang' and it was not previously introduced in the story."
+            },
+            {
+                "number": 6,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "(In child's handwriting) I think gorillas taste good. I like Lassen. P.N. Taro Sasaki",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Thanks for the postcard.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "food"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "D thinks gorillas taste good and likes Lassen, signing with P.N. Taro Sasaki."
+            },
+            {
+                "number": 7,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei! I had an epiphany!! Could it be that the melody Master [[Nekomamushi]] was singing as he bathed was from \"Fate\" by Beethoven? Meow meow meow meoooooooow. Meow meow meow meoooooooooow \u266a P.N. Ryouta the Samurai",
+                        "matches": [
+                            [
+                                67,
+                                82,
+                                "Nekomamushi"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Woah. Now that you mention it.. his lyrics do fit perfectly! To think that Beethoven's \"Fate\" had such lyrics! Everyone, please try out these new lyrics in your next music class.\n\n[[File:SBS 82 Old Men 3.png|thumb|250px]]",
+                        "matches": [
+                            [
+                                180,
+                                221,
+                                "File:SBS 82 Old Men 3.png|thumb|250px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS 82 Old Men 3.png",
+                        "size": "250",
+                        "start": 180,
+                        "end": 221
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Nekomamushi",
+                        "link_title": "/wiki/Nekomamushi",
+                        "is_wikipedia": false,
+                        "start": 67,
+                        "end": 82
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "nekomamushi"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "amused"
+                    ],
+                    "topics": [
+                        "music",
+                        "funny"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda confirms that Nekomamushi's song lyrics match Beethoven's 'Fate,' and encourages readers to try the new lyrics in their music class."
+            },
+            {
+                "number": 8,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I feel like One Piece has tons of characters that are old dudes, but is that just because it can't be helped due to the nature of its story? Or is it because you have the \"I'll die if I don't draw old dudes\" disease? P.N. Uhocilia",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I love me some old dudes! I feel like age adds a new sense of depth to characters, both male and female. One Piece has tons of really interesting old people! But in the real world, age tends bring people down to a weaker state... and I've always disliked how there are some young people out there who just can't have a little respect for these aged individuals because of this. So with One Piece, I've brought to life one of my countless fantasies: which is for there to be super cool old people who've maintained their strength throughout the years.One day, you also will grow old. It'd be great if all of you could remain just as strong as the One Piece oldies are!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "positive",
+                        "inspirational"
+                    ],
+                    "topics": [
+                        "aging",
+                        "character_depth"
+                    ],
+                    "importance": "hight",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda loves old characters, feeling their age adds depth, and aims to portray them as maintaining their strength, challenging stereotypes, and inspiring respect for aging individuals."
+            },
+            {
+                "number": 9,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Mr. Oda, since you're the creator of One Piece, have you ever worn a one piece dress yourself? Also, please tell me how old [[Silvers Rayleigh]] is. P.N. Jabras Rayleigh",
+                        "matches": [
+                            [
+                                124,
+                                144,
+                                "Silvers Rayleigh"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Of course I always wear a one piece whenever I'm working. Rayleigh is 78. As a sort of a bonus, [[Gol D. Roger|Roger]] is 77, [[Monkey D. Garp|Garp]] 78, [[Sengoku]] 79, and [[Tsuru]] 76.\n\n[''T/N: He probably meant Roger would currently be 77 if he were still alive.'']",
+                        "matches": [
+                            [
+                                96,
+                                118,
+                                "Gol D. Roger|Roger"
+                            ],
+                            [
+                                126,
+                                149,
+                                "Monkey D. Garp|Garp"
+                            ],
+                            [
+                                154,
+                                165,
+                                "Sengoku"
+                            ],
+                            [
+                                174,
+                                183,
+                                "Tsuru"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Roger",
+                        "link_title": "/wiki/Gol D. Roger",
+                        "is_wikipedia": false,
+                        "start": 96,
+                        "end": 118
+                    },
+                    {
+                        "text": "Garp",
+                        "link_title": "/wiki/Monkey D. Garp",
+                        "is_wikipedia": false,
+                        "start": 126,
+                        "end": 149
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Silvers Rayleigh",
+                        "link_title": "/wiki/Silvers Rayleigh",
+                        "is_wikipedia": false,
+                        "start": 124,
+                        "end": 144
+                    },
+                    {
+                        "text": "Sengoku",
+                        "link_title": "/wiki/Sengoku",
+                        "is_wikipedia": false,
+                        "start": 154,
+                        "end": 165
+                    },
+                    {
+                        "text": "Tsuru",
+                        "link_title": "/wiki/Tsuru",
+                        "is_wikipedia": false,
+                        "start": 174,
+                        "end": 183
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "silvers_rayleigh",
+                        "gol_d_roger",
+                        "monkey_d_garp",
+                        "sengoku",
+                        "tsuru"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "light-hearted"
+                    ],
+                    "topics": [
+                        "oda's_personal_life",
+                        "character_ages"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda mentions he wears a one piece dress while working, and reveals the ages of various One Piece characters, with Rayleigh being 78 years old."
+            },
+            {
+                "number": 10,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei, I have a question for you. Currently, my sister and I are fighting over what [[Perona]]'s age is. Please end our fight for once and for all. Please also reveal Perona's height as a bonus. Please. Grade 6 age 12. P.N. Cherry Pop",
+                        "matches": [
+                            [
+                                89,
+                                99,
+                                "Perona"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Perona is currently 25. Her height is 160&nbsp;cm. Back when she fought Luffy and the crew, she was 23. She loves [[Gecko Moria|Moria]]\u00a0like a parent, since he found her when she was still a child and raised her ever since. She strongly believes that he is still alive, even after his disappearance at the Summit War.\n\n[[File:SBS 82 Happiness Punch.png|thumb|200px]]",
+                        "matches": [
+                            [
+                                114,
+                                135,
+                                "Gecko Moria|Moria"
+                            ],
+                            [
+                                319,
+                                366,
+                                "File:SBS 82 Happiness Punch.png|thumb|200px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS 82 Happiness Punch.png",
+                        "size": "200",
+                        "start": 319,
+                        "end": 366
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Moria",
+                        "link_title": "/wiki/Gecko Moria",
+                        "is_wikipedia": false,
+                        "start": 114,
+                        "end": 135
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Perona",
+                        "link_title": "/wiki/Perona",
+                        "is_wikipedia": false,
+                        "start": 89,
+                        "end": 99
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "perona",
+                        "luffy",
+                        "gecko_moria"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "age",
+                        "height",
+                        "perona's_relationship_with_moria"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Perona is 25 years old and 160 cm tall, and she has a strong bond with Gecko Moria."
+            },
+            {
+                "number": 11,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "<big>WHICH IS STRONGER... THE KING PUNCH OR THE [[Nami/Abilities_and_Powers#Other_Techniques|HAPPINESS PUNCH]]?</big> P.N. Captain Nobuo\n\n[[File:SBS 82 Elizabello.png|left|thumb|200px]]",
+                        "matches": [
+                            [
+                                48,
+                                110,
+                                "Nami/Abilities_and_Powers#Other_Techniques|HAPPINESS PUNCH"
+                            ],
+                            [
+                                138,
+                                185,
+                                "File:SBS 82 Elizabello.png|left|thumb|200px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "The Happiness Punch even managed to take out [[Nefertari Cobra|Cobra]], King of Alabasta, so perhaps [[Elizabello II|Elizabello]] wouldn't stand a chance either.\n\n[[File:SBS 82 Gambia 4.png|thumb]]",
+                        "matches": [
+                            [
+                                45,
+                                70,
+                                "Nefertari Cobra|Cobra"
+                            ],
+                            [
+                                101,
+                                129,
+                                "Elizabello II|Elizabello"
+                            ],
+                            [
+                                163,
+                                197,
+                                "File:SBS 82 Gambia 4.png|thumb"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS 82 Elizabello.png",
+                        "size": "200",
+                        "start": 138,
+                        "end": 185
+                    },
+                    {
+                        "file": "SBS 82 Gambia 4.png",
+                        "size": null,
+                        "start": 163,
+                        "end": 197
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "HAPPINESS PUNCH",
+                        "link_title": "/wiki/Nami/Abilities_and_Powers#Other_Techniques",
+                        "is_wikipedia": false,
+                        "start": 48,
+                        "end": 110
+                    },
+                    {
+                        "text": "Cobra",
+                        "link_title": "/wiki/Nefertari Cobra",
+                        "is_wikipedia": false,
+                        "start": 45,
+                        "end": 70
+                    },
+                    {
+                        "text": "Elizabello",
+                        "link_title": "/wiki/Elizabello II",
+                        "is_wikipedia": false,
+                        "start": 101,
+                        "end": 129
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "nami",
+                        "nefertari_cobra",
+                        "elizabello_ii"
+                    ],
+                    "places": [
+                        "alabasta"
+                    ],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "fighting_techniques"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "The Happiness Punch is stronger, as it was able to take out Cobra, the King of Alabasta."
+            },
+            {
+                "number": 12,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei, the other day, this rather flamboyant guy came knocking at our door, calling himself a \"Missionary from the (something) Club\". He was pretty suspect so I immediately contacted the police and had him leave, but now that I think of it... could that have been Mr. [[Gambia]]? If that was the case, I can't help but feel a little sorry for what I did. P.N. Chimney until you enter the house",
+                        "matches": [
+                            [
+                                273,
+                                283,
+                                "Gambia"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Whew, that was a real close one, mate! Gambia from the [[Barto Club]] is a missionary of \"Luffy-senpaism\". If you had let him stay, he would've had you listen to him for hours talking about how miraculous Luffy and his pirate crew are.",
+                        "matches": [
+                            [
+                                55,
+                                69,
+                                "Barto Club"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Gambia",
+                        "link_title": "/wiki/Gambia",
+                        "is_wikipedia": false,
+                        "start": 273,
+                        "end": 283
+                    },
+                    {
+                        "text": "Barto Club",
+                        "link_title": "/wiki/Barto Club",
+                        "is_wikipedia": false,
+                        "start": 55,
+                        "end": 69
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "gambia"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "silly",
+                        "regretful"
+                    ],
+                    "topics": [
+                        "barto_club",
+                        "luffy_senpaism"
+                    ],
+                    "importance": "hight",
+                    "isCharacterInsertion": true
+                },
+                "summary": "D wonders if a suspicious person was from the Barto Club, Oda confirms he is Gambia, a 'missionary of Luffy-senpaism'."
+            },
+            {
+                "number": 13,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello, Oda-sensei! Recently, all the [[Straw Hat Pirates|Straw Hats]] got new photos for their wanted posters... and I'm super stoked about it!!! By the way... how and where was [[Nami]]'s new photo taken?? So sexy... hahaha. P.N. Yutiko really likes Nami-san's voice.",
+                        "matches": [
+                            [
+                                37,
+                                69,
+                                "Straw Hat Pirates|Straw Hats"
+                            ],
+                            [
+                                178,
+                                186,
+                                "Nami"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "The fact that her pose is model-esque hasn't changed since the last poster, but here's pretty much what happened.\u00a0\n\nPhotographer: I'm a photographer from so-and-so magazine! (Lies) Wow, you're gorgeous!! Could you possibly strike a pose for us to use on the cover of one of our magazines?\u00a0\n\nNami: Oh, fine... if you insist. Make sure I look cute <3\"\u00a0\n\n\"Click!\"",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Something like that.\n\n[[File:SBS 82 Nami 5-2.png|thumb]]",
+                        "matches": [
+                            [
+                                22,
+                                56,
+                                "File:SBS 82 Nami 5-2.png|thumb"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Straw Hats",
+                        "link_title": "/wiki/Straw Hat Pirates",
+                        "is_wikipedia": false,
+                        "start": 37,
+                        "end": 69
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Nami",
+                        "link_title": "/wiki/Nami",
+                        "is_wikipedia": false,
+                        "start": 178,
+                        "end": 186
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "nami"
+                    ],
+                    "places": null,
+                    "emotions": [
+                        "funny",
+                        "silly"
+                    ],
+                    "topics": [
+                        "wanted_posters",
+                        "photography"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Nami's new wanted poster photo was taken by a photographer who lied about needing a magazine cover pose, and Nami agreed to it."
+            },
+            {
+                "number": 14,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I'm incredibly hyped over everything about New World Nami. As the creator, do you feel uncomfortable knowing that I'm thoroughly enjoying all the Nami merchandise that's being produced and plan on continuing to do so in the future? Should I tone it down a bit? Penname B.S.L",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I feel like Nami's popularity has been skyrocketing these days. Could it be because she makes more appearances now? Anyways, I suppose you're feeling a bit guilty because you're looking at my characters with lecherous eyes XD. This is just my personal opinion regarding all of the characters I've ever created... but in all honestly, it doesn't really bother me. One of my own great teachers told me once: everything within \"the world of manga\" is pretty much just merchandise. Nobody within that world is real, and it wouldn't be very professional of a creator to get offended over whatever a customer decides to do with the goods he has bought. I feel just about the same way. You're free to your own interpretations, fantasies, and any other methods of enjoyment. It makes me happy just knowing that you even care to follow along with my series at all.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "nami"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "happy",
+                        "funny"
+                    ],
+                    "topics": [
+                        "merchandise",
+                        "fan_interaction",
+                        "manga_creation"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda reassures a fan that enjoying Nami merchandise is fine and expresses gratitude for their support, citing advice from a mentor and emphasizing freedom of interpretation."
+            },
+            {
+                "number": 15,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Is Nami named after her extraordinary (''nami nami naranu'') rack? by Hiromu",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Don't you usually name kids as soon as they're born?! ''(shock)''",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "nami"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "shock"
+                    ],
+                    "topics": [],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda humorously deflects the question about Nami's name origin by suggesting it's a typical practice to name kids at birth."
+            },
+            {
+                "number": 16,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Greetings, Oda-sensei. even though [[Donquixote Doflamingo|Doflamingo]] is already a big boy, I still want to know: what are his favorite and least favorite foods? His favorite food is apples? And least favorite is peppers?\u00a0P.N. Donuts",
+                        "matches": [
+                            [
+                                35,
+                                71,
+                                "Donquixote Doflamingo|Doflamingo"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Hmm... Donuts, could it be that your favorite food is apples and your least favorite food is peppers? Doflamingo's favorite food would be lobster. In addition, he despises barbecues. I know, even though they're so fun! Word has it that he associates them with some sort of traumatic memory.\n\n[[File:SBS 82 ChopperxMilky 5.png|thumb]]",
+                        "matches": [
+                            [
+                                292,
+                                333,
+                                "File:SBS 82 ChopperxMilky 5.png|thumb"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS 82 ChopperxMilky 5.png",
+                        "size": null,
+                        "start": 292,
+                        "end": 333
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Doflamingo",
+                        "link_title": "/wiki/Donquixote Doflamingo",
+                        "is_wikipedia": false,
+                        "start": 35,
+                        "end": 71
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "donquixote_doflamingo"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "amused"
+                    ],
+                    "topics": [
+                        "food",
+                        "traumatic_memory"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Doflamingo's favorite food is lobster, and he despises barbecues due to a traumatic memory."
+            },
+            {
+                "number": 17,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I found a mink dude that was wearing a t-shirt with the face of the reindeer that [[Tony Tony Chopper|Chopper]] has a crush on, printed on it. I guess that makes the two of them rivals.\u00a0P.N. Takataka\n\n(''Image Text: Volume 81 chapter 807'')",
+                        "matches": [
+                            [
+                                82,
+                                111,
+                                "Tony Tony Chopper|Chopper"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "It's true. I'm impressed you managed to find that! You see how that shirt has \"Milky\" printed below her face? That's right; she's [[Milky]], beloved idol of the Guardians! Since female reindeers are the only ones amongst all female deer-like animals that grow horns, you're also correct about her being a reindeer mink. Chopper will probably never find anyone like her. Will he ever try to approach her? Only time will tell.\n\n[[File:SBS 82 Sabo 5.png|thumb]]",
+                        "matches": [
+                            [
+                                130,
+                                139,
+                                "Milky"
+                            ],
+                            [
+                                426,
+                                458,
+                                "File:SBS 82 Sabo 5.png|thumb"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS 82 Sabo 5.png",
+                        "size": null,
+                        "start": 426,
+                        "end": 458
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Chopper",
+                        "link_title": "/wiki/Tony Tony Chopper",
+                        "is_wikipedia": false,
+                        "start": 82,
+                        "end": 111
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Milky",
+                        "link_title": "/wiki/Milky",
+                        "is_wikipedia": false,
+                        "start": 130,
+                        "end": 139
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "tony_tony_chopper",
+                        "milky"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "mink",
+                        "idol",
+                        "rivalry",
+                        "fashion"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "A reader noticed a mink dude wearing a t-shirt with Chopper's crush, Milky's face, making them rivals; Oda explains Milky is a reindeer mink, and Chopper's future actions are uncertain."
+            },
+            {
+                "number": 18,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchi, I have a query for you. Just why did [[Sabo]] grow out his hair? Please select one of the following answers.\n#He copied [[Portgas D. Ace|Ace]]\n#He wanted to show off his golden locks\n#He wanted to look hot for [[Koala]]\n#For the fashion\n(Personally, it would satisfy me most if 3 ended up being the answer.)\u00a0P.N. Sweat Ninja",
+                        "matches": [
+                            [
+                                46,
+                                54,
+                                "Sabo"
+                            ],
+                            [
+                                129,
+                                151,
+                                "Portgas D. Ace|Ace"
+                            ],
+                            [
+                                219,
+                                228,
+                                "Koala"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "The answer is 5. To hide the large scar on his face. If you look at him really carefully from the front, his hair is parted ever so slightly to the left (his right), and he has a little more hair covering the right (his left) side of his face. I suppose you could say that he isn't quite fond of that particular scar.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Ace",
+                        "link_title": "/wiki/Portgas D. Ace",
+                        "is_wikipedia": false,
+                        "start": 129,
+                        "end": 151
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Sabo",
+                        "link_title": "/wiki/Sabo",
+                        "is_wikipedia": false,
+                        "start": 46,
+                        "end": 54
+                    },
+                    {
+                        "text": "Koala",
+                        "link_title": "/wiki/Koala",
+                        "is_wikipedia": false,
+                        "start": 219,
+                        "end": 228
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "sabo",
+                        "portgas_d_ace",
+                        "koala"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "sabo_hair",
+                        "appearance"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Sabo grew out his hair to hide a large scar on his face, not for any of the provided reasons."
+            },
+            {
+                "number": 19,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "How's 11/22 (I I NIyan NIyan- good kitty cat) for Master Nekomamushi's birthday? P.N. I do love cats after all.",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Whaaaaaaat?! Sure.\n\n[[File:SBS 82 Pica.png|thumb]]",
+                        "matches": [
+                            [
+                                20,
+                                50,
+                                "File:SBS 82 Pica.png|thumb"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS 82 Pica.png",
+                        "size": null,
+                        "start": 20,
+                        "end": 50
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "nekomamushi"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "surprised"
+                    ],
+                    "topics": [
+                        "birthday",
+                        "cats",
+                        "personal_life"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Nekomamushi's birthday is 11/22, as suggested by a reader who loves cats, and Oda confirms it with surprise."
+            },
+            {
+                "number": 20,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "This one is for P.N. Masao, Who's Birthday is on December 14 from [[Volume 81|volume 81]]!! I've racked my brains in order to make your wish come true!! How is [[Pica]] for your birthday buddy, with the number pun behind his birthday being \"He can freely manipulate rock\" (Jiyuni (12) ishi (14) o ayatsureru)?! Odacchi, what do you think?! P.N. Piteler",
+                        "matches": [
+                            [
+                                66,
+                                89,
+                                "Volume 81|volume 81"
+                            ],
+                            [
+                                160,
+                                168,
+                                "Pica"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "So kind! (Haha) Masao, the guy who just wanted to have a birthday buddy within the One Piece world... good for you, man! Make sure your voice is extra squeaky from now and on!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "volume 81",
+                        "link_title": "/wiki/Volume 81",
+                        "is_wikipedia": false,
+                        "start": 66,
+                        "end": 89
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Pica",
+                        "link_title": "/wiki/Pica",
+                        "is_wikipedia": false,
+                        "start": 160,
+                        "end": 168
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "pica"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "happy",
+                        "funny"
+                    ],
+                    "topics": [
+                        "birthday",
+                        "character_insertion"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "Reader wants Pica from One Piece as a birthday buddy for P.N. Masao, and Oda appreciates the thought, encouraging a squeaky voice for the occasion."
+            },
+            {
+                "number": 21,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei, heso!! As I was browsing through the list of birthdays, I realized that nobody from Alabasta other than [[Nefertari Vivi|Vivi]] had official birthdays yet, so I did my best to come up with some! How is:\n{| style=\"margin:auto; width:650px; align:center;\"\n|[[File:SBS82 King Cobra 7.png|75px]]\n|King Cobra (2/13)<br />\n\"kobura koku'ou\" = 213;<br />(13) is king and bu is (2)\n|[[File:SBS 82 Carue 7.png|75px]]\n|[[Karoo]] (11/8)<br />\n\"karu--\" = 118;<br />( -- becomes u (08)) and ka is (11)\n|}\n\n{| style=\"margin:auto; width:650px; align:center;\"\n|[[File:SBS 82 Pell 7.png|75px]]\n|[[Pell]] (8/23)<br />\n\"hayabusa = 823<br />(Japanese for Falcon);\n<br />both ha and ya are (8),<br />bu is (2) and sa is (3)\n|[[File:SBS 82 Chaka 7.png|75px]]\n|[[Chaka]] (4/26)<br />\n\"Jakkaru\" = 426 (Japanese for Jackal);<br />ji/shi is (4), ka is (2) and ru is (6)\n|}\n\n{| style=\"margin:auto; width:650px; align:center;\"\n|[[File:SBS 82 Corza 7.png|75px]]\n|[[Koza]] (5/26)<br />\n\"ko--za\" = 526;<br />ko/go is (5) and za is (26)\n|[[File:SBS 82 Igaram 7.png|75px]]\n|[[Igaram]] (12/6)<br />\n\"igaramu\" = 126;<br />i is (1), ga is (2) and mu is (6)\n|}\n...? P.N. Hii (20 years old)\n{{-}}",
+                        "matches": [
+                            [
+                                116,
+                                139,
+                                "Nefertari Vivi|Vivi"
+                            ],
+                            [
+                                267,
+                                303,
+                                "File:SBS82 King Cobra 7.png|75px"
+                            ],
+                            [
+                                386,
+                                418,
+                                "File:SBS 82 Carue 7.png|75px"
+                            ],
+                            [
+                                420,
+                                429,
+                                "Karoo"
+                            ],
+                            [
+                                556,
+                                587,
+                                "File:SBS 82 Pell 7.png|75px"
+                            ],
+                            [
+                                589,
+                                597,
+                                "Pell"
+                            ],
+                            [
+                                715,
+                                747,
+                                "File:SBS 82 Chaka 7.png|75px"
+                            ],
+                            [
+                                749,
+                                758,
+                                "Chaka"
+                            ],
+                            [
+                                911,
+                                943,
+                                "File:SBS 82 Corza 7.png|75px"
+                            ],
+                            [
+                                945,
+                                953,
+                                "Koza"
+                            ],
+                            [
+                                1017,
+                                1050,
+                                "File:SBS 82 Igaram 7.png|75px"
+                            ],
+                            [
+                                1052,
+                                1062,
+                                "Igaram"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Whaaaaaaaaaaaaaaaaat?!! ''(shock)'' Sure.\n\n[''T/N: It's hard to explain, but basically, all these birthdays are based off \"number puns\"- something that's rather common in Japan. These \"number puns\", known as \"goro awase\" (\u30b4\u30ed\u5408\u308f\u305b), use the various methods of counting that exist within the Japanese language to turn normal terms into numbers. For example, above, the word for \"freely\" (Jiyuni \u81ea\u7531\u306b) sounds like the word for \"twelve\" (jyuni \u5341\u4e8c), hence \"freely\" can be written as \"12\". Nevertheless, some of these are definitely a stretch.'']",
+                        "matches": []
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS82 King Cobra 7.png",
+                        "size": "75",
+                        "start": 267,
+                        "end": 303
+                    },
+                    {
+                        "file": "SBS 82 Carue 7.png",
+                        "size": "75",
+                        "start": 386,
+                        "end": 418
+                    },
+                    {
+                        "file": "SBS 82 Pell 7.png",
+                        "size": "75",
+                        "start": 556,
+                        "end": 587
+                    },
+                    {
+                        "file": "SBS 82 Chaka 7.png",
+                        "size": "75",
+                        "start": 715,
+                        "end": 747
+                    },
+                    {
+                        "file": "SBS 82 Corza 7.png",
+                        "size": "75",
+                        "start": 911,
+                        "end": 943
+                    },
+                    {
+                        "file": "SBS 82 Igaram 7.png",
+                        "size": "75",
+                        "start": 1017,
+                        "end": 1050
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Vivi",
+                        "link_title": "/wiki/Nefertari Vivi",
+                        "is_wikipedia": false,
+                        "start": 116,
+                        "end": 139
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Karoo",
+                        "link_title": "/wiki/Karoo",
+                        "is_wikipedia": false,
+                        "start": 420,
+                        "end": 429
+                    },
+                    {
+                        "text": "Pell",
+                        "link_title": "/wiki/Pell",
+                        "is_wikipedia": false,
+                        "start": 589,
+                        "end": 597
+                    },
+                    {
+                        "text": "Chaka",
+                        "link_title": "/wiki/Chaka",
+                        "is_wikipedia": false,
+                        "start": 749,
+                        "end": 758
+                    },
+                    {
+                        "text": "Koza",
+                        "link_title": "/wiki/Koza",
+                        "is_wikipedia": false,
+                        "start": 945,
+                        "end": 953
+                    },
+                    {
+                        "text": "Igaram",
+                        "link_title": "/wiki/Igaram",
+                        "is_wikipedia": false,
+                        "start": 1052,
+                        "end": 1062
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "vivi",
+                        "king_cobra",
+                        "karoo",
+                        "pell",
+                        "chaka",
+                        "koza",
+                        "igaram"
+                    ],
+                    "places": [
+                        "alabasta"
+                    ],
+                    "topics": [
+                        "birthdays",
+                        "number_puns",
+                        "japanese_culture"
+                    ],
+                    "emotions": [
+                        "shock",
+                        "funny"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda addresses reader's made up birthdays for Alabasta characters, explaining Japanese number puns and acknowledging it's a stretch."
+            },
+            {
+                "number": 22,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei, please draw the [[Straw Hat Grand Fleet]] captains' appearances from when they were children! I beg of you! P.N. Thank You Pirates",
+                        "matches": [
+                            [
+                                28,
+                                53,
+                                "Straw Hat Grand Fleet"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Here you go.\n\n[[File:SHGF Commanders as Children.png|thumb|center|500px]]\n\n(From left to right, top to bottom. Row One: [[Bartolomeo]], [[Leo]], and [[Hajrudin]]. Row Two: [[Orlumbus]] and [[Ideo]]. Row Three: [[Sai]], [[Cavendish]], and [[Farul]].)",
+                        "matches": [
+                            [
+                                14,
+                                73,
+                                "File:SHGF Commanders as Children.png|thumb|center|500px"
+                            ],
+                            [
+                                120,
+                                134,
+                                "Bartolomeo"
+                            ],
+                            [
+                                136,
+                                143,
+                                "Leo"
+                            ],
+                            [
+                                149,
+                                161,
+                                "Hajrudin"
+                            ],
+                            [
+                                172,
+                                184,
+                                "Orlumbus"
+                            ],
+                            [
+                                189,
+                                197,
+                                "Ideo"
+                            ],
+                            [
+                                210,
+                                217,
+                                "Sai"
+                            ],
+                            [
+                                219,
+                                232,
+                                "Cavendish"
+                            ],
+                            [
+                                238,
+                                247,
+                                "Farul"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Well then, let's wrap up the SBS for this volume! Check out and enjoy the back of the volume for some information on the upcoming movie and some UGP art. Now then, see you in the next volume!!",
+                        "matches": []
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SHGF Commanders as Children.png",
+                        "size": "500",
+                        "start": 14,
+                        "end": 73
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Straw Hat Grand Fleet",
+                        "link_title": "/wiki/Straw Hat Grand Fleet",
+                        "is_wikipedia": false,
+                        "start": 28,
+                        "end": 53
+                    },
+                    {
+                        "text": "Bartolomeo",
+                        "link_title": "/wiki/Bartolomeo",
+                        "is_wikipedia": false,
+                        "start": 120,
+                        "end": 134
+                    },
+                    {
+                        "text": "Leo",
+                        "link_title": "/wiki/Leo",
+                        "is_wikipedia": false,
+                        "start": 136,
+                        "end": 143
+                    },
+                    {
+                        "text": "Hajrudin",
+                        "link_title": "/wiki/Hajrudin",
+                        "is_wikipedia": false,
+                        "start": 149,
+                        "end": 161
+                    },
+                    {
+                        "text": "Orlumbus",
+                        "link_title": "/wiki/Orlumbus",
+                        "is_wikipedia": false,
+                        "start": 172,
+                        "end": 184
+                    },
+                    {
+                        "text": "Ideo",
+                        "link_title": "/wiki/Ideo",
+                        "is_wikipedia": false,
+                        "start": 189,
+                        "end": 197
+                    },
+                    {
+                        "text": "Sai",
+                        "link_title": "/wiki/Sai",
+                        "is_wikipedia": false,
+                        "start": 210,
+                        "end": 217
+                    },
+                    {
+                        "text": "Cavendish",
+                        "link_title": "/wiki/Cavendish",
+                        "is_wikipedia": false,
+                        "start": 219,
+                        "end": 232
+                    },
+                    {
+                        "text": "Farul",
+                        "link_title": "/wiki/Farul",
+                        "is_wikipedia": false,
+                        "start": 238,
+                        "end": 247
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "bartolomeo",
+                        "leo",
+                        "hajrudin",
+                        "orlumbus",
+                        "ideo",
+                        "sai",
+                        "cavendish",
+                        "farul"
+                    ],
+                    "places": [],
+                    "topics": [
+                        "straw_hat_grand_fleet",
+                        "upcoming_movie",
+                        "UGP_art"
+                    ],
+                    "emotions": [
+                        "happy"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda draws the Straw Hat Grand Fleet captains as children and ends the SBS for the volume with a teaser for the upcoming movie and UGP art."
+            }
+        ],
+        "page": null,
+        "chapter_number": null,
+        "page_header": null
+    }
+]

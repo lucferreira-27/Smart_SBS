@@ -1,0 +1,1370 @@
+[
+    {
+        "qa": [
+            {
+                "number": 1,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-chi, konichiwankosoba (TN: wanko soba is a type of noodle dish. The reader is making a portmanteau with konichiwa). Recently, Oda-chi hasn't been able to start SBS by himself, and I'm not going to let him do it this time either!! SBS! Shall we begin? P.N. Tatsuumi",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "What should I do? Should I start? Not start? Hold on!!\n\n[[File:SBS Volume 68 Backfart.png|150px|right]]",
+                        "matches": [
+                            [
+                                56,
+                                103,
+                                "File:SBS Volume 68 Backfart.png|150px|right"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS Volume 68 Backfart.png",
+                        "size": "150",
+                        "start": 56,
+                        "end": 103
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "playful"
+                    ],
+                    "topics": [
+                        "SBS",
+                        "author's_personal_life"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader Tatsuumi insists on starting the SBS, making a playful request to Oda to begin. Oda hints at a dilemma and includes a comical image."
+            },
+            {
+                "number": 2,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda sensei. I've been thinking, \"Just once I'd like to try to do the title call for my beloved question corner of this beloved manga!!\" With that thought, I've been practicing really hard. Please listen. SBS!- Let's begi-buuuu!!!<br />P.N. Matsumura D. Takuya* (''TN: A play on the Japanese idol, Kimura Takuya'')",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "You said that with your ass!! We're off to a smelly start...",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "SBS_title_call",
+                        "question_corner",
+                        "manga"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader tries a title call for the question corner, but Oda hilariously comments on it."
+            },
+            {
+                "number": 3,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "This is a bit sudden, but please say \"penis\" ten times! Do it quickly! There's no time! P.N. Atsuuma",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Penispenispenispenispenispenispenispenispenispenis.\n\n[[File:SBS Volume 68 Penismomizou.png|80px]]",
+                        "matches": [
+                            [
+                                53,
+                                97,
+                                "File:SBS Volume 68 Penismomizou.png|80px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS Volume 68 Penismomizou.png",
+                        "size": "80",
+                        "start": 53,
+                        "end": 97
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "silly"
+                    ],
+                    "importance": [
+                        "very_high"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader asks Oda to say 'penis' ten times quickly, and Oda does so, with an illustration of 'Penismomizou' included."
+            },
+            {
+                "number": 4,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Quiz time. Who's this? P.N. Atsuuma",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Hmm? Who indeed... Is he a popular character? Well he's got a big nose, so is he someone who appeared in a novel by [[Wikipedia:Ry\u016bnosuke Akutagawa|Akutagawa Ryunosuke]]*?<br />...The answer is...\n\n<big>Answer is Penismomizou</big>",
+                        "matches": [
+                            [
+                                116,
+                                169,
+                                "Wikipedia:Ry\u016bnosuke Akutagawa|Akutagawa Ryunosuke"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "As if I'd know that!!! What the hell!!\n\n''TN: Author who's most famous for \"Rashomon\". His second short story was \"The Nose\", in which the main character has a long, dangly nose.''",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Akutagawa Ryunosuke",
+                        "link_title": "/wiki/Wikipedia:Ry\u016bnosuke Akutagawa",
+                        "is_wikipedia": false,
+                        "start": 116,
+                        "end": 169
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "penismomizou"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "frustrated",
+                        "funny"
+                    ],
+                    "topics": [
+                        "quiz",
+                        "character_identity"
+                    ],
+                    "importance": "hight",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda humorously dodges a quiz question, revealing 'Penismomizou' as the answer and adding a literary reference as trivia."
+            },
+            {
+                "number": 5,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei, hello!!! This is sudden, but what are you thinking now? P.N. Chiko",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Ehh. I'm thinking erotic thought that have to do with the Japanese government.\n{{-}}",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "personal_life",
+                        "perverted"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda is thinking erotic thoughts related to the Japanese government."
+            }
+        ],
+        "page": "28",
+        "chapter_number": "668",
+        "page_header": "SBS68 Header 1.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 6,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Is it really true that this guy is now a [[Shichibukai]], after the two-year time skip!? P.N. My info source is my big brother",
+                        "matches": [
+                            [
+                                41,
+                                56,
+                                "Shichibukai"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "You've been revived!!! It's been a while- NOT!! What, you've grown a bit of a beard and look a bit more like an adult!? Get out of here!!\n{{-}}\n[[File:SBS Volume 68 Franky Beetlehair.png|right|150px]]",
+                        "matches": [
+                            [
+                                144,
+                                200,
+                                "File:SBS Volume 68 Franky Beetlehair.png|right|150px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS Volume 68 Franky Beetlehair.png",
+                        "size": "150",
+                        "start": 144,
+                        "end": 200
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Shichibukai",
+                        "link_title": "/wiki/Shichibukai",
+                        "is_wikipedia": false,
+                        "start": 41,
+                        "end": 56
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "franky"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "happy",
+                        "funny"
+                    ],
+                    "topics": [
+                        "shichibukai",
+                        "time_skip"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda teases the reader for their outdated info, implies the character has changed, and includes a picture of Franky with a new hairstyle."
+            },
+            {
+                "number": 7,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-senseeeei!! This is my first postcard to you. I'll be quick about it; here's my question. In the New World, [[Franky]] can change his hairstyle at will, but how many styles does he have? Please tell me. P.N. Ryuusei",
+                        "matches": [
+                            [
+                                112,
+                                122,
+                                "Franky"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "An infinite amount!!! We'll have fun with this from here on out.\n{{-}}\n[[File:SBS Volume 68 Usopp Pop Greens.png|right|150px]]\n[[File:Usopp's Garden of Pop Greens.png|right|200px]]",
+                        "matches": [
+                            [
+                                71,
+                                126,
+                                "File:SBS Volume 68 Usopp Pop Greens.png|right|150px"
+                            ],
+                            [
+                                127,
+                                180,
+                                "File:Usopp's Garden of Pop Greens.png|right|200px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS Volume 68 Usopp Pop Greens.png",
+                        "size": "150",
+                        "start": 71,
+                        "end": 126
+                    },
+                    {
+                        "file": "Usopp's Garden of Pop Greens.png",
+                        "size": "200",
+                        "start": 127,
+                        "end": 180
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Franky",
+                        "link_title": "/wiki/Franky",
+                        "is_wikipedia": false,
+                        "start": 112,
+                        "end": 122
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "franky",
+                        "usopp"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "franky_hairstyles",
+                        "new_world"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Franky in the New World can change his hairstyle infinitely, allowing for fun changes in the future. "
+            },
+            {
+                "number": 8,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oioioioioioi, good day to you. [[Usopp]]'s got those \"[[Pop Green|pop greens]]\" and all, but what would he do if they ever ran out? P.N. Girls with short hair are the best \u2661",
+                        "matches": [
+                            [
+                                31,
+                                40,
+                                "Usopp"
+                            ],
+                            [
+                                54,
+                                78,
+                                "Pop Green|pop greens"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Right. I've been getting this question a lot, for a while now. I thought about showing the answer in the actual comics, but I haven't had that sort of chance. There's actually a scene concerning this in the screenplay of the movie, \"[[One Piece Film: Z|Film Z]]\", which comes out in December. Everyone was worried because what he shoots are seeds, right? But it's alright. At the back of [[Thousand Sunny|Sunny-Go]], Usopp made a flower bed called \"Usopp's Garden\" where he mass produces pop greens. There's a scene in the movie where he's spraying insecticide, so those of you who see it can confirm. I'd like to include something about it in the comic as well.\n{{-}}",
+                        "matches": [
+                            [
+                                233,
+                                261,
+                                "One Piece Film: Z|Film Z"
+                            ],
+                            [
+                                388,
+                                415,
+                                "Thousand Sunny|Sunny-Go"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "pop greens",
+                        "link_title": "/wiki/Pop Green",
+                        "is_wikipedia": false,
+                        "start": 54,
+                        "end": 78
+                    },
+                    {
+                        "text": "Film Z",
+                        "link_title": "/wiki/One Piece Film: Z",
+                        "is_wikipedia": false,
+                        "start": 233,
+                        "end": 261
+                    },
+                    {
+                        "text": "Sunny-Go",
+                        "link_title": "/wiki/Thousand Sunny",
+                        "is_wikipedia": false,
+                        "start": 388,
+                        "end": 415
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Usopp",
+                        "link_title": "/wiki/Usopp",
+                        "is_wikipedia": false,
+                        "start": 31,
+                        "end": 40
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "usopp"
+                    ],
+                    "places": [
+                        "sunny-go"
+                    ],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "pop_greens",
+                        "one_piece_film_z",
+                        "usopp's_garden"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Usopp would mass produce pop greens in 'Usopp's Garden' at the back of Sunny-Go, as shown in 'One Piece Film: Z' screenplay."
+            }
+        ],
+        "page": "46",
+        "chapter_number": "669",
+        "page_header": "SBS68 Header 2.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 9,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Yoss, Oda-chi! Are you drawing manga? The truth is, I've counted all the exclamation marks that appear in One Piece!! Amazing, huh? Including stuff like \"!?\" and the marks at the end of sounds like \"DON!!!\" as of chapter 636, there've been 150,096. In other words, an average of 236 per chapter... Amazing, huh, Oda-tsu \u2661 P.N. Pomepomu",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "...!!... you really counted them all... \"But why?\"... is something I would ask if I were a thoughtless jerk! Yes! Exclamation points! Right, thank you!!!!!!!!!!\n\n[[File:SBS Volume 68 Black Rhino FR-U4.png|150px|right]]",
+                        "matches": [
+                            [
+                                162,
+                                218,
+                                "File:SBS Volume 68 Black Rhino FR-U4.png|150px|right"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS Volume 68 Black Rhino FR-U4.png",
+                        "size": "150",
+                        "start": 162,
+                        "end": 218
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "amused"
+                    ],
+                    "topics": [
+                        "exclamation_marks",
+                        "fan_interaction"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader reveals counting 150,096 exclamation marks in One Piece, to which Oda expresses surprise and gratitude."
+            },
+            {
+                "number": 10,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Please answer my super question in a super way. Oda-chi! I super-dont-understand the meaning of \"FR-U\" in [[Franky]]'s new weapon, \"[[Kurosai FR-U IV|Black Rhino FR-U IV]]\". I super-want-to-know. By Match and Takeshi",
+                        "matches": [
+                            [
+                                106,
+                                116,
+                                "Franky"
+                            ],
+                            [
+                                132,
+                                171,
+                                "Kurosai FR-U IV|Black Rhino FR-U IV"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes. \"FR-U\", is it? It's like this: \"FR (Franky Shogun's)-U (ude [TN: ude means \"arm\"])\". When the Black Rhino FR-U IV transforms, it becomes the arms for [[Franky Shogun]].\n\n\n[[File:SBS Volume 68 Sanji.png|150px|right]]",
+                        "matches": [
+                            [
+                                155,
+                                172,
+                                "Franky Shogun"
+                            ],
+                            [
+                                176,
+                                220,
+                                "File:SBS Volume 68 Sanji.png|150px|right"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS Volume 68 Sanji.png",
+                        "size": "150",
+                        "start": 176,
+                        "end": 220
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Black Rhino FR-U IV",
+                        "link_title": "/wiki/Kurosai FR-U IV",
+                        "is_wikipedia": false,
+                        "start": 132,
+                        "end": 171
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Franky",
+                        "link_title": "/wiki/Franky",
+                        "is_wikipedia": false,
+                        "start": 106,
+                        "end": 116
+                    },
+                    {
+                        "text": "Franky Shogun",
+                        "link_title": "/wiki/Franky Shogun",
+                        "is_wikipedia": false,
+                        "start": 155,
+                        "end": 172
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "franky",
+                        "franky_shogun"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "informative"
+                    ],
+                    "topics": [
+                        "franky_shogun",
+                        "meaning_of_FR-U"
+                    ],
+                    "importance": [
+                        "high"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda explains that 'FR-U' in the Black Rhino FR-U IV stands for 'Franky Shogun's arm'."
+            },
+            {
+                "number": 11,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei, hello. In regards to [[Sanji]], I feel that he looks like [[Wikipedia:Leonardo DiCaprio|Leonardo DiCaprio-san]] from the western movie, \"[[Wikipedia:Romeo + Juliet|Romeo and Juliet]]\". My friends say I'm dead wrong. Is Sanji's appearance based on someone in particular?? P.N. Noel",
+                        "matches": [
+                            [
+                                33,
+                                42,
+                                "Sanji"
+                            ],
+                            [
+                                70,
+                                123,
+                                "Wikipedia:Leonardo DiCaprio|Leonardo DiCaprio-san"
+                            ],
+                            [
+                                149,
+                                194,
+                                "Wikipedia:Romeo + Juliet|Romeo and Juliet"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "People used to guess DiCaprio a lot, in the past. But the truth is that Sanji has a much more unusual model. I might not go as far as to say \"model\", but I hoped to have a bit of this person's vibes come through. It's [[wikipedia:Steve Buscemi|Steve Buscemi]], as he appeared in the movie \"[[Wikipedia:Reservoir Dogs|Reservoir Dogs]]\". Cool, huh? Someone at Bandai was the only one to guess correctly, a while back.\n{{-}}",
+                        "matches": [
+                            [
+                                218,
+                                259,
+                                "wikipedia:Steve Buscemi|Steve Buscemi"
+                            ],
+                            [
+                                290,
+                                333,
+                                "Wikipedia:Reservoir Dogs|Reservoir Dogs"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Leonardo DiCaprio-san",
+                        "link_title": "/wiki/Wikipedia:Leonardo DiCaprio",
+                        "is_wikipedia": false,
+                        "start": 70,
+                        "end": 123
+                    },
+                    {
+                        "text": "Romeo and Juliet",
+                        "link_title": "/wiki/Wikipedia:Romeo + Juliet",
+                        "is_wikipedia": false,
+                        "start": 149,
+                        "end": 194
+                    },
+                    {
+                        "text": "Steve Buscemi",
+                        "link_title": "/wiki/Steve Buscemi",
+                        "is_wikipedia": true,
+                        "start": 218,
+                        "end": 259
+                    },
+                    {
+                        "text": "Reservoir Dogs",
+                        "link_title": "/wiki/Wikipedia:Reservoir Dogs",
+                        "is_wikipedia": false,
+                        "start": 290,
+                        "end": 333
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Sanji",
+                        "link_title": "/wiki/Sanji",
+                        "is_wikipedia": false,
+                        "start": 33,
+                        "end": 42
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "sanji"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "character_design",
+                        "actors_model"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Sanji's appearance was not based on Leonardo DiCaprio, but actually has vibes of Steve Buscemi from 'Reservoir Dogs'."
+            }
+        ],
+        "page": "64",
+        "chapter_number": "670",
+        "page_header": "SBS68 Header 3.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 12,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-kun, is it alright if I touch [[Nami]]'s boobs? P.N. Fake Tamori",
+                        "matches": [
+                            [
+                                34,
+                                42,
+                                "Nami"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "What are you talking about!? Are you nuts!?",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Nami",
+                        "link_title": "/wiki/Nami",
+                        "is_wikipedia": false,
+                        "start": 34,
+                        "end": 42
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "nami"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "angry"
+                    ],
+                    "topics": [
+                        "fan_theory"
+                    ],
+                    "importance": "hight",
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader asks if it's okay to touch Nami's boobs, and Oda responds incredulously, asking if they are nuts."
+            },
+            {
+                "number": 13,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Eh!!? What!!!? Say that one more time please!!!! P.N. Haribo The Third",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes, well... What are you talking about!? Are you nuts!?\n\n[[File:SBS68 4 Chibi Luffy.png|right|90px]]",
+                        "matches": [
+                            [
+                                58,
+                                101,
+                                "File:SBS68 4 Chibi Luffy.png|right|90px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS68 4 Chibi Luffy.png",
+                        "size": "90",
+                        "start": 58,
+                        "end": 101
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "moneky_d_luffy"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "surprised"
+                    ],
+                    "topics": [
+                        "confusion"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "Haribo The Third is asking Oda to repeat what he said, and Oda is questioning his sanity."
+            },
+            {
+                "number": 14,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Is the fact that [[Monkey D. Luffy|Luffy]] doesn't shrink after using [[Gear 3]] now because Oda-chi is a pervert/transformed, or because Luffy has improved? Please tell me!! P.N. I'm Legend",
+                        "matches": [
+                            [
+                                17,
+                                42,
+                                "Monkey D. Luffy|Luffy"
+                            ],
+                            [
+                                70,
+                                80,
+                                "Gear 3"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "It's because Luffy has improved. I don't know what you mean by the former option. You. Through his training, controlling [[Gear 2]] and Third has become easier for Luffy. When I told the anime staff \"He doesn't shrink anymore\", they cried out with joy, \"Oh thank god\". I'm also grateful because that was a pain for me too. Thank you Luffy!!",
+                        "matches": [
+                            [
+                                121,
+                                131,
+                                "Gear 2"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Luffy",
+                        "link_title": "/wiki/Monkey D. Luffy",
+                        "is_wikipedia": false,
+                        "start": 17,
+                        "end": 42
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Gear 3",
+                        "link_title": "/wiki/Gear 3",
+                        "is_wikipedia": false,
+                        "start": 70,
+                        "end": 80
+                    },
+                    {
+                        "text": "Gear 2",
+                        "link_title": "/wiki/Gear 2",
+                        "is_wikipedia": false,
+                        "start": 121,
+                        "end": 131
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "grateful",
+                        "funny"
+                    ],
+                    "topics": [
+                        "gear_3",
+                        "improvement"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Luffy's lack of shrinking after using Gear 3 is due to his improvement and training, not Oda's perversion; both Oda and the anime staff are relieved by this development."
+            },
+            {
+                "number": 15,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Greetings Oda-chi \u2661 Appearing in SBS is like a dream for me. Anyway, I have tons of questions I want to ask, but here's the one I'm most curious about, no doubt about it! Please tell me the ages and heights of the rookies \u2661 I'll be waiting until the end of time P.N. Lui",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Okay okay. This is how they were two years ago. Just add two years to those who've reappeared in the present. And go ahead and assume that their heights haven't changed. Because of her ability, Bonney's age is just an estimation.\n\n[[File:SBS68 4 Supernova Profiles.png|thumb|center|500px|<span style=word-spacing:1.3em>&nbsp;[[Urouge]], [[Scratchmen Apoo|Apoo]], [[X Drake|Drake]], [[Basil Hawkins|Hawkins]], [[Eustass Kid|Kid]], [[Killer]], [[Trafalgar D. Water Law|Law]], [[Jewelry Bonney|Bonney]], [[Capone Bege|Capone]].</span>]]",
+                        "matches": [
+                            [
+                                231,
+                                335,
+                                "File:SBS68 4 Supernova Profiles.png|thumb|center|500px|<span style=word-spacing:1.3em>&nbsp;[[Urouge"
+                            ],
+                            [
+                                337,
+                                361,
+                                "Scratchmen Apoo|Apoo"
+                            ],
+                            [
+                                363,
+                                380,
+                                "X Drake|Drake"
+                            ],
+                            [
+                                382,
+                                407,
+                                "Basil Hawkins|Hawkins"
+                            ],
+                            [
+                                409,
+                                428,
+                                "Eustass Kid|Kid"
+                            ],
+                            [
+                                430,
+                                440,
+                                "Killer"
+                            ],
+                            [
+                                442,
+                                472,
+                                "Trafalgar D. Water Law|Law"
+                            ],
+                            [
+                                474,
+                                499,
+                                "Jewelry Bonney|Bonney"
+                            ],
+                            [
+                                501,
+                                523,
+                                "Capone Bege|Capone"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS68 4 Supernova Profiles.png",
+                        "size": "500",
+                        "start": 231,
+                        "end": 335
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Apoo",
+                        "link_title": "/wiki/Scratchmen Apoo",
+                        "is_wikipedia": false,
+                        "start": 337,
+                        "end": 361
+                    },
+                    {
+                        "text": "Drake",
+                        "link_title": "/wiki/X Drake",
+                        "is_wikipedia": false,
+                        "start": 363,
+                        "end": 380
+                    },
+                    {
+                        "text": "Hawkins",
+                        "link_title": "/wiki/Basil Hawkins",
+                        "is_wikipedia": false,
+                        "start": 382,
+                        "end": 407
+                    },
+                    {
+                        "text": "Kid",
+                        "link_title": "/wiki/Eustass Kid",
+                        "is_wikipedia": false,
+                        "start": 409,
+                        "end": 428
+                    },
+                    {
+                        "text": "Law",
+                        "link_title": "/wiki/Trafalgar D. Water Law",
+                        "is_wikipedia": false,
+                        "start": 442,
+                        "end": 472
+                    },
+                    {
+                        "text": "Bonney",
+                        "link_title": "/wiki/Jewelry Bonney",
+                        "is_wikipedia": false,
+                        "start": 474,
+                        "end": 499
+                    },
+                    {
+                        "text": "Capone",
+                        "link_title": "/wiki/Capone Bege",
+                        "is_wikipedia": false,
+                        "start": 501,
+                        "end": 523
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Killer",
+                        "link_title": "/wiki/Killer",
+                        "is_wikipedia": false,
+                        "start": 430,
+                        "end": 440
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "urogue",
+                        "scratchmen_apoo",
+                        "x_drake",
+                        "basil_hawkins",
+                        "eustass_kid",
+                        "killer",
+                        "trafalgar_d_water_law",
+                        "jewelry_bonney",
+                        "capone_bege"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "character_profiles",
+                        "age",
+                        "height"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda provides ages and instructs to add two years for reappeared characters; Bonney's age is an estimation due to her ability."
+            }
+        ],
+        "page": "82",
+        "chapter_number": "671",
+        "page_header": "SBS68 Header 4.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 16,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Right before [[Portgas D. Ace|Ace]] died, he couldn't speak very loudly, so he asked for his final words to be told to everyone, afterwards. Did [[Monkey D. Luffy|Luffy]] ever end up passing on the message \"Thank you for loving me\" to everyone? P.N. Otohimememe",
+                        "matches": [
+                            [
+                                13,
+                                35,
+                                "Portgas D. Ace|Ace"
+                            ],
+                            [
+                                145,
+                                170,
+                                "Monkey D. Luffy|Luffy"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I see. He really did promise that, yeah. But as events unfolded, it doesn't seem like Luffy was able to meet with the [[Whitebeard Pirates]]' crew members. But, that's alright. Those crew members loved Ace and went to war as a result of that love, so not a single one of them would resent not directly receiving any words of thanks. At that time, Ace had a different wish. The thing that he made Luffy promise to \"tell everyone afterwards\" was what, exactly? To survive. So I think that those last few words that he managed to utter reached more people at that time than we could have ever imagined.\n\n[[File:SBS68 5 Three Cups.png|right|100px]]",
+                        "matches": [
+                            [
+                                118,
+                                140,
+                                "Whitebeard Pirates"
+                            ],
+                            [
+                                601,
+                                644,
+                                "File:SBS68 5 Three Cups.png|right|100px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS68 5 Three Cups.png",
+                        "size": "100",
+                        "start": 601,
+                        "end": 644
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Ace",
+                        "link_title": "/wiki/Portgas D. Ace",
+                        "is_wikipedia": false,
+                        "start": 13,
+                        "end": 35
+                    },
+                    {
+                        "text": "Luffy",
+                        "link_title": "/wiki/Monkey D. Luffy",
+                        "is_wikipedia": false,
+                        "start": 145,
+                        "end": 170
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Whitebeard Pirates",
+                        "link_title": "/wiki/Whitebeard Pirates",
+                        "is_wikipedia": false,
+                        "start": 118,
+                        "end": 140
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "portgas_d_ace",
+                        "monkey_d_luffy",
+                        "whitebeard_pirates"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "sad"
+                    ],
+                    "topics": [
+                        "ace's_last_words",
+                        "whitebeard_war",
+                        "promise_to_ace",
+                        "survival"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Luffy never passed Ace's message to everyone, but Ace's last wish for Luffy to survive reached more people than expected."
+            },
+            {
+                "number": 17,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-chi! I went to see the One Piece Exhibition. At that time, [[Chapter 668]], \"Pirate Alliance\" was the chapter in Jump!!! In the \"[[From the Decks of the World]]\" picture, there were three sake cups in front of Ace's grave!!! Is it alright to think THAT person visited Ace's grave?? I expect that only Luffy and that person really know for sure... P.N. Hairdresser Gonke",
+                        "matches": [
+                            [
+                                63,
+                                78,
+                                "Chapter 668"
+                            ],
+                            [
+                                133,
+                                164,
+                                "From the Decks of the World"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Right, this is the image from Chapter 668 that's in this very volume, but when it appeared in Jump, the advertisement messages covered up some parts and readers couldn't see it all very well. But at that time, the One Piece Exhibition was in Tokyo, and the person who wrote this letter went and saw the original image to confirm. You can also confirm it with this very volume. As for what you should think when you see this, well, I'll leave that to your imaginations for now.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Chapter 668",
+                        "link_title": "/wiki/Chapter 668",
+                        "is_wikipedia": false,
+                        "start": 63,
+                        "end": 78
+                    },
+                    {
+                        "text": "From the Decks of the World",
+                        "link_title": "/wiki/From the Decks of the World",
+                        "is_wikipedia": false,
+                        "start": 133,
+                        "end": 164
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy",
+                        "portgas_d_ace"
+                    ],
+                    "places": [
+                        "tokyo"
+                    ],
+                    "topics": [
+                        "one_piece_exhibition",
+                        "chapter_668",
+                        "portgas_d_ace_grave",
+                        "imagination"
+                    ],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "In Chapter 668, there were three sake cups in front of Ace's grave, and Oda suggests readers use their imaginations to interpret the significance of that scene."
+            }
+        ],
+        "page": "102",
+        "chapter_number": "672",
+        "page_header": "SBS68 Header 5.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 18,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Going along with the recent SBS Children Series, I'd like to see the [[Marines]]' [[Hina|Hina-san]], [[Smoker|Smo-yan]], and [[Tashigi|Tashigi-chan]] when they were kids!! P.N. Kumakoro",
+                        "matches": [
+                            [
+                                69,
+                                80,
+                                "Marines"
+                            ],
+                            [
+                                82,
+                                99,
+                                "Hina|Hina-san"
+                            ],
+                            [
+                                101,
+                                119,
+                                "Smoker|Smo-yan"
+                            ],
+                            [
+                                125,
+                                149,
+                                "Tashigi|Tashigi-chan"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Ok.\n{{Gallery|width=150|height=200|captionalign=center|position=center\n|Hina as a Child.png|Hina\n|Smoker as a Child.png|Smoker\n|Tashigi as a Child.png|Tashigi\n}}",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Hina-san",
+                        "link_title": "/wiki/Hina",
+                        "is_wikipedia": false,
+                        "start": 82,
+                        "end": 99
+                    },
+                    {
+                        "text": "Smo-yan",
+                        "link_title": "/wiki/Smoker",
+                        "is_wikipedia": false,
+                        "start": 101,
+                        "end": 119
+                    },
+                    {
+                        "text": "Tashigi-chan",
+                        "link_title": "/wiki/Tashigi",
+                        "is_wikipedia": false,
+                        "start": 125,
+                        "end": 149
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Marines",
+                        "link_title": "/wiki/Marines",
+                        "is_wikipedia": false,
+                        "start": 69,
+                        "end": 80
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "hina",
+                        "smoker",
+                        "tashigi"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "SBS_children_series"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader requests childhood images of Marines Hina, Smoker, and Tashigi, and Oda provides illustrations in response."
+            },
+            {
+                "number": 19,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Nice to meet you! I tried doing something interesting that I'd like to see go into SBS! *laughs* I tabulated how much of the art in [[Usopp Gallery Pirates|Usopp's Gallery Pirate Crew]] has come from each prefecture!! Here are the top five:<br />\n1. Tokyo (219 times), 2. Osaka (143 times), 3. Kanagawa (142 times), 4. Saitama (139 times), 5. Chiba (120 times)<br />\nTokyo is really something, huh!! It was really a pain counting them all! P.N. Nao\n[[File:SBS Volume 68 Chart.png|500px|center]]",
+                        "matches": [
+                            [
+                                132,
+                                185,
+                                "Usopp Gallery Pirates|Usopp's Gallery Pirate Crew"
+                            ],
+                            [
+                                449,
+                                494,
+                                "File:SBS Volume 68 Chart.png|500px|center"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Wow- thanks and good work!! But wait wait what!? The number of exclamation marks... the number of postcards... has counting things suddenly come into fashion!? I'll go ahead and count \"things that I've lost\"!! [T.N. This is Jinbe's wording, to Luffy, when he said \"Don't just count the things you've lost! Those things are gone!\"] One, two, three, fourrr ...fiiiive... ooh... let's end... SBS... *hic*... now!! *sniffle*...!! You'll find info about the movie... at the end of the volume... *hic*.",
+                        "matches": []
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS Volume 68 Chart.png",
+                        "size": "500",
+                        "start": 449,
+                        "end": 494
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Usopp's Gallery Pirate Crew",
+                        "link_title": "/wiki/Usopp Gallery Pirates",
+                        "is_wikipedia": false,
+                        "start": 132,
+                        "end": 185
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "usopp",
+                        "jinbe",
+                        "luffy"
+                    ],
+                    "places": [
+                        "tokyo",
+                        "osaka",
+                        "kanagawa",
+                        "saitama",
+                        "chiba"
+                    ],
+                    "emotions": [
+                        "funny",
+                        "confused",
+                        "tired",
+                        "sad"
+                    ],
+                    "topics": [
+                        "art",
+                        "counting",
+                        "SBS",
+                        "movie"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "A reader submits art statistics from Usopp's Gallery Pirate Crew and Oda jokingly considers counting 'things that I've lost' while mentioning info about the movie."
+            }
+        ],
+        "page": "122",
+        "chapter_number": "673",
+        "page_header": "SBS68 Header 6.png"
+    }
+]

@@ -1,0 +1,884 @@
+[
+    {
+        "qa": [
+            {
+                "number": 1,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Greetings to Oda-sensei and readers. I happen to be a ''PSYCHIC''. I will now accurately guess what Oda-sensei wants to say at the moment. ''\"I WILL START THE SBS.\"'' Take that. Aren't I amazing. P.N.M.MINORI",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "''YOU GOT IT RIIIIIGHT--!!! (SHOCK)'' Ehhh--?! How did you know?! That really scared me just now!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "shocked",
+                        "surprised"
+                    ],
+                    "topics": [],
+                    "importance": "normal",
+                    "isCharacterInsertion": true
+                },
+                "summary": "A reader claims to be psychic and accurately guesses Oda's intention to start the Q&A, surprising Oda."
+            },
+            {
+                "number": 2,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Is Akainu's dick Magu-Magu? P.N. \"DI\"",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Woah, woah.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "akainu"
+                    ],
+                    "emotions": [
+                        "surprised"
+                    ],
+                    "topics": [
+                        "perverted"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda reacts in surprise and doesn't provide a clear answer."
+            },
+            {
+                "number": 3,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Is Aokiji's dick Hie-Hie? P.N. \"C\"",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Hey, hey.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "aokiji"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader asks if Aokiji's devil fruit power is related to his genitalia, and Oda responds with a playful 'Hey, hey.'"
+            },
+            {
+                "number": 4,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Is Kizaru's dick Pika-Pika? P.N. \"K\"",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "''STOPPIIIIT---!! (SHOCK)'' What the hell are these questions, right from the beginning. YES TO ALL OF THEM, DAMMIT!!! (Vein pop, huffing)\n\n[[File:SBS66_1_Nami_Pillow.png|right|90px]]",
+                        "matches": [
+                            [
+                                140,
+                                183,
+                                "File:SBS66_1_Nami_Pillow.png|right|90px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS66_1_Nami_Pillow.png",
+                        "size": "90",
+                        "start": 140,
+                        "end": 183
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "kizaru"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "shocked",
+                        "angry",
+                        "funny"
+                    ],
+                    "topics": [
+                        "pika_pika",
+                        "SBS_questions"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda responds with frustration to a question about Kizaru's genitals, confirming it with anger and shock."
+            },
+            {
+                "number": 5,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchi Odacchi, when will the [http://en.wikipedia.org/wiki/Dakimakura hugging pillow] of New World Nami come out in stores? P.N. Captain Nobuo",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "''LIKE I'D KNOW--!! (SHOCK)'' I keep telling you guys, it's not like I'm involved in the producing of merchandise or that I watch over all the ONE PIECE goods that are produced! Oh, but speaking of merchandise, I'd like Franky's arms. You could wear them and grab people's heads for fun and stuff. It'd even makes sounds. What do you say,\u00a0[http://en.wikipedia.org/wiki/Bandai Mr. Bandai]. \n{{-}}\n\n[[File:SBS62_5oda.png|right|90px]]",
+                        "matches": [
+                            [
+                                397,
+                                431,
+                                "File:SBS62_5oda.png|right|90px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS62_5oda.png",
+                        "size": "90",
+                        "start": 397,
+                        "end": 431
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "nami",
+                        "franky"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "shock",
+                        "funny"
+                    ],
+                    "topics": [
+                        "merchandise",
+                        "franky's arms",
+                        "fan request"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda sarcastically responds to a reader's question about merchandise, expressing a desire for Franky's arms, and jests at Bandai to make it happen."
+            },
+            {
+                "number": 6,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Why is Oda-sensei's avatar a \"fish\"? Since it's Oda-sensei we're talking about here, it must have this... deep and wonderful meaning to it! P.N. Emi@3!04",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "NOPE, NOT AT ALL---.\n{{-}}\n\n[[File:SBS66_1_Kraken.png|right|150px]]",
+                        "matches": [
+                            [
+                                28,
+                                67,
+                                "File:SBS66_1_Kraken.png|right|150px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS66_1_Kraken.png",
+                        "size": "150",
+                        "start": 28,
+                        "end": 67
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "lighthearted"
+                    ],
+                    "topics": [
+                        "Oda's_personal_life"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda humorously dismisses any deep meaning behind his fish avatar."
+            },
+            {
+                "number": 7,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "If you turned a kraken into [http://en.wikipedia.org/wiki/Takoyaki takoyaki], how many servings would you be able to make out of him? P.N. Hunting Pirate Crew",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Well yeah--. Even if you put lots of octopus into each takoyaki as customer service... there'd be 10 million takoyaki made, so with 1 pack of 8 takoyaki... 1 million 250 thousand packs! You can eat him along with 1 million 250 thousand people!! Wait, don't eat your friend!! (shock) \n{{-}}",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "shock",
+                        "funny"
+                    ],
+                    "topics": [
+                        "food"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda calculates that turning a kraken into takoyaki would result in 10 million servings, feeding 1 million 250 thousand people, but reminds not to eat your friend."
+            }
+        ],
+        "page": "26",
+        "chapter_number": "647",
+        "page_header": "SBS66_Header_1.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 8,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei!! Greetings. During the move \"Kirisame\", Hody's back fin transformed into a sharp edge. Are the back fins of fish-men detachable? Are they trade-able? Or did he just stab the weapon fin onto his back next to his real fin?? Please tell me!! P.N. Meow",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "That, my friend, is a weapon that you can slide onto the fin. \n[[File:SBS66_2_Hody_Fin2.png|center|300px]]\n\n''(Translator's Note - Captions: ''\n*''Top left: Damned human!! ''\n*''Bottom Left: \u2190 there is a hole. ''\n*''Top center: Die damned human!! ''\n*''Bottom right: \u2191 mad at human. ''\n*''Top right: Fit!!)''",
+                        "matches": [
+                            [
+                                63,
+                                106,
+                                "File:SBS66_2_Hody_Fin2.png|center|300px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS66_2_Hody_Fin2.png",
+                        "size": "300",
+                        "start": 63,
+                        "end": 106
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "hody_jones"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "angry"
+                    ],
+                    "topics": [
+                        "fishmen",
+                        "weapons"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Hody's back fin is a weapon that can be slid onto his real fin."
+            },
+            {
+                "number": 9,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "''HELLODACCI----- ''phew-- how's dat. I, who loves ONE PIECE no matter how busy I am, have searched. (Might not be all that's there) \u2606 Are these, like, the fish-men's feeling/mood at the moment version t-shirts?! P.N. Horo Horo\n\n[[File:SBS66_2_T-Shirts.png|center|500px]]\n*''Nantoka= Somehow''\n*''Sonna!!= No way!!''\n*''Yoisho (Yoishow)= A-here-we-go''\n*''Bikkuri (Bick Ree)= Shocking~''\n*''E! Shoutai?= What! Identity?''\n*''Ishiga Ketsujyo= Lack of intention''\n*''Imasen= Not here''\n*''Dekin= Can't''\n*''Zaza= (Sound effect of waves)''\n*''Anshin Shiro= Relax''\n*''Nandato= What!!''\n*''Ita= There they are''",
+                        "matches": [
+                            [
+                                229,
+                                271,
+                                "File:SBS66_2_T-Shirts.png|center|500px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Woah--. You found a lot--. I'm impressed~! T-shirts that don't make sense once the situation changes. Very inefficient. Seems like in Fish-Man Island, the Aloha style is most common and Criminal Brand's Situation Explanation t-shirts are currently popular.",
+                        "matches": []
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS66_2_T-Shirts.png",
+                        "size": "500",
+                        "start": 229,
+                        "end": 271
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [
+                        "Fish-Man Island"
+                    ],
+                    "emotions": [
+                        "happy"
+                    ],
+                    "topics": [
+                        "fashion",
+                        "t-shirts",
+                        "Fish-Man Island"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda is impressed by the reader's collection of One Piece-themed t-shirts with nonsensical phrases, and comments on the popularity of certain styles on Fish-Man Island."
+            }
+        ],
+        "page": "66",
+        "chapter_number": "649",
+        "page_header": "SBS66_Header_2.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 10,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchi, Odacchi, Odacchi, Odacchi, Odacchi----!!! Yes. I tried calling you 5 times for no reason! Hello. Let's go right to the question. It's quite serious, too XD. On pages 198-9 of chapter 636 in volume 64, Chopper said that he needed a Rumble Ball for only one form, and the other 6 were available anytime, anywhere on his own free will. \"Guard Point\" is supposed to be included in those 6, right? But on page 38 of chapter 605 in volume 62, there is a Chopper who eats a Rumble Ball and does \"Guard Point\". Why is that--?! Please tell me your answer. Or else... I'll quit being your fan!! P.N. I vote for Odacchi \n\n[[File:SBS66_3_Rumble_Ball_Candy.png|right|100px]]",
+                        "matches": [
+                            [
+                                620,
+                                670,
+                                "File:SBS66_3_Rumble_Ball_Candy.png|right|100px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes. It's true-. After volume 65 came out, we now know that when Chopper uses a Rumble Ball, he can fight in his Monster Point form. ---and so, there's no way he needs one to transform into the other forms! What does this mean... answer for him!! Mr. \"P.N. Running is First Class Cowardice\"!!",
+                        "matches": []
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS66_3_Rumble_Ball_Candy.png",
+                        "size": "100",
+                        "start": 620,
+                        "end": 670
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "tony_tony_chopper"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "rumble_ball",
+                        "chopper_forms",
+                        "author_confirmation"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Chopper only needs a Rumble Ball to transform into Monster Point, not the other forms like Guard Point, as confirmed in volume 65."
+            },
+            {
+                "number": 11,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "In chapter 605 of volume 62, Chopper eats a Rumble Ball-like substance before transforming into his \"Guard Point\", but for Chopper who has grown over the last 2 years, he shouldn't have needed a real Rumble Ball. Of course I realized that that was the now-popular Rumble Ball candy, but most readers probably mistook this for the real deal!! Geez Chopper, you took such a misleading action...!! P.N. Running is First Class Cowardice",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yeah, I know right!! Silly Chopper! Really, for heaven's sake--. Thanks to you, there were lots and lots of my readers pointing that block out to me. Don't be eating candy in the middle of the abyss! You silly boy! ..mmhm, so with that said, let's list all the 7 new revealed forms of Mr. Chopper altogether!\n\n[[File:SBS Volume 66 Chopper's Post-Timeskip Transformations.png|center|500px]]\n\n''(T.N.: From left to right; (Can transform whenever [even though sometimes he feels the urge to eat a Rumble Ball Candy]) Brain Point, Walk Point, Heavy Point, Guard Point, Kung Fu Point, Horn Point, (Rumble Ball necessary [3 minute use]) Monster Point)''",
+                        "matches": [
+                            [
+                                310,
+                                389,
+                                "File:SBS Volume 66 Chopper's Post-Timeskip Transformations.png|center|500px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS Volume 66 Chopper's Post-Timeskip Transformations.png",
+                        "size": "500",
+                        "start": 310,
+                        "end": 389
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "tony_tony_chopper"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "tony_tony_chopper_forms",
+                        "rumble_ball_candy"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "Chopper's Rumble Ball transformation caused confusion, but Oda addresses it, revealing the seven new forms of Chopper post-timeskip."
+            }
+        ],
+        "page": "104",
+        "chapter_number": "651",
+        "page_header": "SBS66_Header_3.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 12,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchi sensei~~!! You said that nNami-SwaN was an I cup before,... In the \"New World\", I suspect that has changed? What is her cup size?? Please, oh please tell me! P.N. \u2661Rico\u2661Emi\u2661Nanami\u2661",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Goodness, this question keeps popping up ever since the Straw Hat entrance of the New World. I think it's about time I've got to wrap this case up. Let's call for him! Sa-nji~! \n{{-}}\n[[File:SBS66_4_Sanji.png|right|80px]]\n''S: You called? You need my bust scope again? You guys! Fine! I'll take a look for you! Nami-san and Robin-chan's... BUBAAAAAAAGHHHH\u2661''",
+                        "matches": [
+                            [
+                                184,
+                                221,
+                                "File:SBS66_4_Sanji.png|right|80px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "''SANJIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII~~!!! (panic)''.... So, HOW MANY cms DO ''YOU'' THINK NAMI AND ROBIN'S BREASTS ARE, AND WHAT DO YOU THINK THEIR CUP SIZES ARE?Answers in postcard format are welcome~~ (^^)!! (\u2190 Put it to the side) \n{{-}}\n[[File:SBS66_4_Kuuigosu.png|right|100px]]",
+                        "matches": [
+                            [
+                                245,
+                                286,
+                                "File:SBS66_4_Kuuigosu.png|right|100px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS66_4_Sanji.png",
+                        "size": "80",
+                        "start": 184,
+                        "end": 221
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "nami",
+                        "robin",
+                        "sanji"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "cup_size",
+                        "bust_scope",
+                        "SBS",
+                        "body_measurement"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": true
+                },
+                "summary": "A reader asks about Nami-Swan's cup size, prompting a humorous exchange between Oda and Sanji."
+            },
+            {
+                "number": 13,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "The \"piece of [[Kuuigosu]]\" from chapter 653. I recognize that when you read it backwards, you get \"Sugoiuku\" \u2192 \"Floats Unbelievably\". (sparkle) Then, I suddenly remembered about the \"piece of wood that floats unbelievably\" that made devil fruit user Mr. 3 float in the water after being K.O.ed in the Alabasta Arc; could it be that you were talking about this back then?! Well?! P.N. Daicha",
+                        "matches": [
+                            [
+                                14,
+                                26,
+                                "Kuuigosu"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Uh-huh. So you realized? I knew it! In the SBS of volume 25, I gave a blunt explanation of fruit user Mr. 3 floating on water, and yes. What I meant back then was ''PRECISELY THIS!!''Back then you know? You guys all probably thought I said something random only to avoid the moment of silence, right? Uh, wrong. I've already tho.. thought of this scenario from uh.. way back then, hehe... N, no... really! (sweat) \n{{-}}\n[[File:SBS66_4_Hancock-Whitebeard.png|right|150px]]",
+                        "matches": [
+                            [
+                                421,
+                                472,
+                                "File:SBS66_4_Hancock-Whitebeard.png|right|150px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS66_4_Hancock-Whitebeard.png",
+                        "size": "150",
+                        "start": 421,
+                        "end": 472
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Kuuigosu",
+                        "link_title": "/wiki/Kuuigosu",
+                        "is_wikipedia": false,
+                        "start": 14,
+                        "end": 26
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "mr_3"
+                    ],
+                    "places": [
+                        "alabasta"
+                    ],
+                    "emotions": [
+                        "embarrassed",
+                        "funny"
+                    ],
+                    "topics": [
+                        "devil_fruit",
+                        "sbs_explanation"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda confirms the 'Kuuigosu' message in chapter 653 is a callback to Mr. 3 floating on water in the Alabasta Arc, previously explained in SBS volume 25."
+            },
+            {
+                "number": 14,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "My Mother told me that the reason why most women in OP are very voluptuous and the men all have a well-built body with a defined 6-pack is because you tremendously wish to become like them in your dreams, but is this really true? P.N. I love Maruko!!",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Exactly. I WANT TO BECOME VOLUPTUOUS!!! (ex. of correct response: \"''That side?!!''\"){{-}}",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "body_shape",
+                        "dreams"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda jokingly agrees that he wishes to become voluptuous, as suggested by a fan's mother."
+            }
+        ],
+        "page": "142",
+        "chapter_number": "653",
+        "page_header": "SBS66_Header_4.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 15,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello Oda-sensei! In volume 62 when Sanji meets the mermaids and blows a shower of nosebleed, Chopper was saying his blood type was \"S\", but that sounds really different! What are the other blood types? If it's okay with you, I'd like to know the blood types of all the Straw Hats! P.N. Bepo {{-}}",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yeah. Sure.  \n[[File:SBS66_5_SH_Blood_Types.png|center|500px]]\n...so that's it. To be clear, the types include F, S, X, and XF. However in this world, the way people call blood types hasn't been united yet so there seems to be places where they use A, B, or C instead.",
+                        "matches": [
+                            [
+                                14,
+                                62,
+                                "File:SBS66_5_SH_Blood_Types.png|center|500px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS66_5_SH_Blood_Types.png",
+                        "size": "500",
+                        "start": 14,
+                        "end": 62
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "sanji",
+                        "chopper",
+                        "bepo"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "blood_types",
+                        "straw_hats"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda reveals the blood types of Straw Hat crew members as F, S, X, and XF, stating that blood types aren't unified in the One Piece world."
+            },
+            {
+                "number": 16,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "ODACCHI!!!! Question!! So, from the bottom left of pg. 55 of vol. 62 were these guys (\u2193), and, could it be possible that they originated from this guy (\u2192)?[[File:SBS66_5_Blobfish.png|right|300px]]\n\nIt's gotta be that, right?! When I looked up \"ugly animals\", this dude (\u2192) popped right up!!!!! How did Odacchi find this guy (\u2192)? Could it be Odacchi also looked up \"ugly animals\"? Odacchi, you're a really bored person with lots of time in your hands like me, aren't you... P.N. Currently in class",
+                        "matches": [
+                            [
+                                155,
+                                196,
+                                "File:SBS66_5_Blobfish.png|right|300px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes. You are correct. It's this guy. But that does not necessarily mean I look up crazy shit like that. Although I do look up crazier things. This fellow is known as the blobfish, and you can pretty much always find him in books about deep-sea fish. He's quite unique, after all. Of course, they aren't as huge as ships as shown in my works. It is a type of deep-sea fish around 60&nbsp;cm that actually exists. The fish that Luffy eats with Mayonnaise in chapter 654 is also this guy.\n\n\n{{-}}",
+                        "matches": []
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS66_5_Blobfish.png",
+                        "size": "300",
+                        "start": 155,
+                        "end": 196
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "luffy"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "blobfish",
+                        "deep_sea_fish",
+                        "authorial_research"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "The reader asks if the characters in a specific panel originated from an ugly animal, which Oda confirms as the blobfish, found in books about deep-sea fish."
+            }
+        ],
+        "page": "162",
+        "chapter_number": "654",
+        "page_header": "SBS66_Header_5.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 17,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "So recently you've been doing a lot of drawings of characters as children, so I thought why not ask for one of child-Perona. So, pardon me, but would you be so kind as to draw Perona as a child? (Absalom, Cindry, and Hogback, too) P.N. Witch Princess Eustass Luna",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Alrighty.\n\n[[File:SBS66_6_TB_Kids.png|center|500px]]\n\n(T.N.: Top left- Hogback, Top right- Absalom, Bottom left- Cindry, Bottom right- Perona)",
+                        "matches": [
+                            [
+                                11,
+                                52,
+                                "File:SBS66_6_TB_Kids.png|center|500px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS66_6_TB_Kids.png",
+                        "size": "500",
+                        "start": 11,
+                        "end": 52
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "perona",
+                        "absalom",
+                        "cindry",
+                        "hogback"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "character_design",
+                        "fan_request"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader asks for drawings of child versions of Perona, Absalom, Cindry, and Hogback, and Oda provides the requested illustrations in SBS."
+            },
+            {
+                "number": 18,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda sensei, hello! The young mermaids in the towns and coves are all beauties, aren't they? So, the question is, what did Ms. Kokoro look like when she was young? Please draw me a picture!!",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Sure thing--. That's it for this SBS~. See you in the next volume!! Ah, and one more corner before the volume ends.\n\n[[File:SBS66_6_Kokoro.png|center|400px]]{{-}}",
+                        "matches": [
+                            [
+                                117,
+                                157,
+                                "File:SBS66_6_Kokoro.png|center|400px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS66_6_Kokoro.png",
+                        "size": "400",
+                        "start": 117,
+                        "end": 157
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "kokoro"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "cheerful"
+                    ],
+                    "topics": [
+                        "age",
+                        "appearance"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader asks Oda to draw a young Ms. Kokoro, but Oda responds with the drawing and ends the Q&A session."
+            }
+        ],
+        "page": "182",
+        "chapter_number": "655",
+        "page_header": "SBS66_Header_6.png"
+    }
+]

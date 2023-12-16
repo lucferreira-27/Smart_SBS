@@ -1,0 +1,594 @@
+[
+    {
+        "qa": [
+            {
+                "number": 1,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Recently, we gained the ability to use \"KENBUNSHOKU HAKI\"\u2606<br />\nAnd so with that in mind, I will try to guess what Odacchi is about to do OK??<br />\nIt is... \"WE WILL START SBS!!!\"<br />P.N. Parks Yoyogi",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "GYAAAAAAAHHH!! (shock) MY MIND GOT READ----!!!!\n\nFuck it~~ so you're a Haki user!! Well-- then-- it has begun already, but here first of all, I have 3 things I must announce to everyone. Believe it or not, this 63rd Volume, once again due to my selfish complaints, is an eye-popping wonder containing 12 chapters in all. I didn't rise the price though. Due to this miracle, \"I could not add on even 1 page of post-volume extras--\". Truly sorry. [[File:SBS63_1 Brook.png|right|70px]]Next. -----Due to this, the extra pages are also cut down, so \"The seiyu-san SBS will be postponed to the next volume\"! Maaan, we're really sorry for making you wait for so long, Cho-san (Brook's voice). In the next volume for sure!! And then the third! ----Yes. \"These days I took a liking to ''stuffing'' volumes!\" Owee! Hey please don't throw stuff!! Whaaaat--. You don't want the emergency alert--??? But it was good! Mackerel'' stuffing''!!\n\n[[File:SBS63_1 Makino.png|right|100px]]",
+                        "matches": [
+                            [
+                                445,
+                                482,
+                                "File:SBS63_1 Brook.png|right|70px"
+                            ],
+                            [
+                                929,
+                                968,
+                                "File:SBS63_1 Makino.png|right|100px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS63_1 Brook.png",
+                        "size": "70",
+                        "start": 445,
+                        "end": 482
+                    },
+                    {
+                        "file": "SBS63_1 Makino.png",
+                        "size": "100",
+                        "start": 929,
+                        "end": 968
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "brook",
+                        "makino"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "shock",
+                        "apologetic",
+                        "playful"
+                    ],
+                    "topics": [
+                        "SBS_announcement",
+                        "volume_content"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "Oda announces 12 chapters in volume 63 with no extra pages and postpones the seiyu-san SBS to the next volume, while expressing his enjoyment of 'stuffing' volumes."
+            },
+            {
+                "number": 2,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "The thing that concerns me is the cover of chapter 614. You see how Makino-san is holding a baby? Does that mean that baby is <u>Makino-san's child</u>?! And does that mean <u>the father is me</u>?! P.N. Dandelion",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "'' NOT YOU!!!'' (Shock)\n\n...ah... Sorry. Well--. Seems Makino-san became a mother. She looks very happy. The father is maybe that person-. Yeah, probably that person.\n{{-}}",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "makino",
+                        "luffy"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "shock",
+                        "happy"
+                    ],
+                    "topics": [
+                        "family"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda confirms that the baby being held by Makino-san on the cover of chapter 614 is not the reader's child, and hints at a different possible father figure."
+            }
+        ],
+        "page": "24",
+        "chapter_number": "615",
+        "page_header": "SBS63 Header 1.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 3,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello Mr. Oda (bows). I needed to ask you a favor so I sent you my first fan letter! The favor would be: Please post this \"Real Shanks!\" P.N. Sui-chan",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I see, a Shanks you drew realistically--. Let's see.''...!! (shock).......!!!.......!!.....''\n\n[[File:SBS63_2 Chopper.png|right|250px]]",
+                        "matches": [
+                            [
+                                95,
+                                135,
+                                "File:SBS63_2 Chopper.png|right|250px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS63_2 Chopper.png",
+                        "size": "250",
+                        "start": 95,
+                        "end": 135
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "shanks"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "shock"
+                    ],
+                    "topics": [
+                        "fan_art",
+                        "Sui-chan's_fan_letter"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader asks Oda to post their 'Real Shanks' drawing, to which Oda seems surprised and intrigued by the request."
+            },
+            {
+                "number": 4,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Is two-years later Chopper's \"Hat\" a fusion of his original one and a blue one on top? If I'm wrong, answer me clearly, please. P.N. Oonuki = \u03c0 Down",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "You are not wrong. I just fused the two. Since the pink hat is Chopper's treasure, so it didn't necessarily change.\n\n[[File:SBS63_2 Kraken.png|right|190px]]",
+                        "matches": [
+                            [
+                                117,
+                                156,
+                                "File:SBS63_2 Kraken.png|right|190px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS63_2 Kraken.png",
+                        "size": "190",
+                        "start": 117,
+                        "end": 156
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "tony_tony_chopper"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "character_design",
+                        "clothing"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Chopper's two-year later hat is a fusion of his original one and a blue one on top, maintaining the pink hat as his treasure."
+            },
+            {
+                "number": 5,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I would like to see the picture of Kraken Robin was drawing. Penname Ruki",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I see, Let us take a peek....<br />\n''!!! (shock)......!!.......!!!....''\n\n[[File:SBS63_2 Fishwoman.png|right|100px]]",
+                        "matches": [
+                            [
+                                75,
+                                117,
+                                "File:SBS63_2 Fishwoman.png|right|100px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS63_2 Fishwoman.png",
+                        "size": "100",
+                        "start": 75,
+                        "end": 117
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "nico_robin"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "shocked"
+                    ],
+                    "topics": [
+                        "drawings",
+                        "art"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader Ruki asks to see the picture of Kraken Robin was drawing, so Oda shares it with a shocked reaction."
+            },
+            {
+                "number": 6,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "In Chapter 612's Gyoverly Hills, there is an Octopako-like (fish)woman, but why is she angry? P.N. Princess Shirasuboshi ''(*Shirasuboshi is Anchovy in Japanese, as well as a pun on Shirahoshi)''",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "She is there indeed-. Octopako is the female who appeared in Volume 22, Chapter 203's Coverstory Series and dumped Hachi, yes. I'm impressed you found her--. In fact, she actually happens to be a celebrity girl who grew up in Gyoverly Hills. Her dream is to marry the land's prince, but she has obviously never stepped a foot into Ryugu Palace. Even so, the ex-worker of Hachi's shop and some random group of pirates got invited to the Ryugu Palace so she is very dissatisfied, I see~~. \"Even I've never went there before! (ughh)\" would be the case there.\n\n{{-}}",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "octopako",
+                        "hachi"
+                    ],
+                    "places": [
+                        "gyoverly_hills",
+                        "ryugu_palace"
+                    ],
+                    "emotions": [
+                        "dissatisfied",
+                        "impressed"
+                    ],
+                    "topics": [
+                        "octopako",
+                        "gyoverly_hills",
+                        "ryugu_palace",
+                        "dream"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Octopako-like woman in Gyoverly Hills is angry because she wants to marry the land's prince but has never been to Ryugu Palace, unlike Hachi's ex-worker and some random pirates."
+            }
+        ],
+        "page": "42",
+        "chapter_number": "616",
+        "page_header": "SBS63 Header 2.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 7,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchi sensei!! Hear me out!! Please draw the 7 Shichibukai who made Luffy and Whitebeard suffer two years ago in the battle at Marineford as kids!! P.N. Harada Yutaka",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yeah. Sure-. Now I wonder how they look two years later~~. These are the ones that were in the Shichibukai at the time before the war actually began.\n\n[[File:Warlords as Children.png|center|500px]]\n\n(From left to right, top to bottom. Row One: Jinbe, Dracule Mihawk, Gecko Moria. Row Two: Boa Hancock, Sir Crocodile (former Shichibukai), Bartholomew Kuma. Row Three: Donquixote Doflamingo, Marshall D. Teach.)\n\n{{-}}",
+                        "matches": [
+                            [
+                                151,
+                                197,
+                                "File:Warlords as Children.png|center|500px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "Warlords as Children.png",
+                        "size": "500",
+                        "start": 151,
+                        "end": 197
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy",
+                        "whitebeard",
+                        "jinbe",
+                        "dracule_mihawk",
+                        "gecko_moria",
+                        "boa_hancock",
+                        "sir_crocodile",
+                        "bartholomew_kuma",
+                        "donquixote_doflamingo",
+                        "marshall_d_teach"
+                    ],
+                    "places": [],
+                    "topics": [
+                        "shichibukai",
+                        "marineford_battle",
+                        "childhood",
+                        "character_design"
+                    ],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda draws the 7 Shichibukai as kids who made Luffy and Whitebeard suffer in the battle at Marineford, including Jinbe, Mihawk, Moria, Hancock, Crocodile, Kuma, Doflamingo, and Blackbeard."
+            }
+        ],
+        "page": "80",
+        "chapter_number": "618",
+        "page_header": "SBS63 Header 3.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 8,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchi, today I noticed something unbelievable. The tails of Merfolk split when they hit their 30's.... which means, the \"Weirdo Bearded Dude\" with only one tail, \"Great Knight of the Sea\" King Neptune is in his damn 20's-------!!!!! Now then! Odacchi, go ahead if you have any excuses!! P.N. Tsuchinoko Capturing Team Captain",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes. Well--, rather than an excuse, it's just that I've never explained it and Neptune is actually fine like that. The explanation in the story was confusing, wasn't it? The only merfolk whose tails split so that they can go ashore and walk around are females. I think you'll be able to tell by taking a good look around Fish-Man Island, but there is clearly no male [[File:SBS63_4 Kokoro.png|right|75px]]merfolk over the age of 30 with split tails. The important fact is that the ladies all swim ashore in their 40s and 50s to live on land! Because I really wanted to draw only young, beautiful mermaids in the cove!! ''LET ME DREAM!!!'' I am... a mangaka...!!! This is a man's dream!<br />",
+                        "matches": [
+                            [
+                                367,
+                                405,
+                                "File:SBS63_4 Kokoro.png|right|75px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS63_4 Kokoro.png",
+                        "size": "75",
+                        "start": 367,
+                        "end": 405
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "king_neptune",
+                        "kokoro"
+                    ],
+                    "places": [
+                        "fish_man_island"
+                    ],
+                    "topics": [
+                        "merfolk",
+                        "ageing",
+                        "fish-man_island"
+                    ],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Merfolk tails only split for females over 30, and King Neptune is fine as he is, as explained in the confusing story."
+            },
+            {
+                "number": 9,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hiya, nice to meet you Odacchi! I am a 12 year old that loves Mr. 2 Bon Clay. The mermaids that made their appearance in Volume 62 were super duper cute. By the way, ''DO MERMAIDS POOP?'' P.N. I love Bakuman[[File:SBS63_4 Cove.png|right|75px]]",
+                        "matches": [
+                            [
+                                207,
+                                243,
+                                "File:SBS63_4 Cove.png|right|75px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "SHADDUP!! (shock) Could you read the air a bit more? Dude, we were just talking about how mermaids were a man's lifetime dream. And well according to my theories, one or two of those scales would have to peel off at some point, probably. I wonder if it would be from the back-- or front--. And then th*''GAHHHHHHHH---!!!!*''poo''*STOOOOOP----!!!!!*''.... Eh?! Sanji!!\n\n[[File:SBS63 4 Sanji.png|right|75px]]\nSanji: YOU SHITTY BASTARD!!! IF YOU SAY ANYMORE, I'M GOING TO SHRED YOU INTO PIECES!!! (roar) Mermaids don't do that stuff!! Got it??!",
+                        "matches": [
+                            [
+                                369,
+                                406,
+                                "File:SBS63 4 Sanji.png|right|75px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": ".....Yes. I'm sorry. (sweatdrop)\n\n{{-}}",
+                        "matches": []
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS63_4 Cove.png",
+                        "size": "75",
+                        "start": 207,
+                        "end": 243
+                    },
+                    {
+                        "file": "SBS63 4 Sanji.png",
+                        "size": "75",
+                        "start": 369,
+                        "end": 406
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "mr_2_bon_clay",
+                        "sanji"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "shock",
+                        "funny"
+                    ],
+                    "topics": [
+                        "mermaids",
+                        "bathroom_habits"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "A 12-year-old fan asks if mermaids poop, Oda imagines it comically, and Sanji interrupts angrily, insisting mermaids don't do that."
+            }
+        ],
+        "page": "98",
+        "chapter_number": "619",
+        "page_header": "SBS63 Header 4.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 10,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchi~~!!!! Good morning to you. Mind a question out of the blue? Could it be that the people in this scene... is Hancock and the others from a different angle? Answer me please\u2661 If you answer me, I'll give you my signature~~\u2661 P.N. Gonke Hair Stylist",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I don't want your signature. Still, the only thing I can say in response to this point-out is impressive. Amazing how you noticed such a small thing. If there was something I have to say, it'd be the fact that I do not necessarily want your signature.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "boa_hancock"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "The reader asks if a specific scene features Hancock and others from a different angle, Oda responds in awe of the reader's observation and declines the signature offer."
+            },
+            {
+                "number": 11,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Sensei, emergency report!! It seems like you and I are the only ones on the surface of earth currently wearing womens' panties on our heads. P.N. Makoto",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "EHHH!!? (shock) .......you.....you......you're kidding me right?! That. Huh? .....Come to think of it, in middle school..... everyone wore school caps... Come to think of it, I always got arrested by the police, and that was because I wasn't wearing any clothes and..... Oh well. I'm going to live positively!(\u2190Nice Guts) Okay but still, that person should be wearing panties on his head. In the next volume, we'll have the last voice actor SBS; Cho-san, the role of Brook will appear. Be eagerly waiting~~!{{-}}\n\n{| border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width: 500px; \"\n|[[File:SBS63_5 Perona.png|left|300px]]\n|\n*Usopp Gallery Pirates, SBS, or fanletters for me go to the \"Manga\" address.\n\n*Fan letters to anime staff as well as the voice actors, etc. go to the \"Anime\" address. See you in the next volume!\n|}",
+                        "matches": [
+                            [
+                                584,
+                                622,
+                                "File:SBS63_5 Perona.png|left|300px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS63_5 Perona.png",
+                        "size": "300",
+                        "start": 584,
+                        "end": 622
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "makoto",
+                        "cho",
+                        "brook"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "shock",
+                        "surprise",
+                        "funny"
+                    ],
+                    "topics": [
+                        "fan_letters",
+                        "voice_actor",
+                        "SBS",
+                        "underwear"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda jokes about wearing panties on his head, reminisces about middle school, and teases about upcoming SBS with voice actor Cho-san appearing as Brook. He also provides instructions for fan letters."
+            }
+        ],
+        "page": "116",
+        "chapter_number": "620",
+        "page_header": "SBS63 Header 5.png"
+    }
+]

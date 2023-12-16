@@ -1,0 +1,709 @@
+[
+    {
+        "qa": [
+            {
+                "number": 1,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oi... Odacchi...!! *hack*... this.. has nothing to do with you but.... *gasp*...!! Just now, over in that ally to your right.... I came across... a weakened old hag.... who was in need of help, y'know!? ----*fwoosh* (sound of Odacchi dashing away!) \n\n----alrighty!!!\\(^o^)/ --it's been my long awaited dream to say this:\n\nI WILL START THE SBS \u2605\n\nHooray---!!! I said it! \u00a0by Ayataro",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "------...? Weird... I don't see no old hag in need of he...\n\nHUH?! THE SBS ALREADY STARTED!! (SHOCK)\n\nHell, I've been tricked!! But I'm glad!!\n\nSo the weak old hag, in desperate need of help... doesn't exist after all...!\n\n[[File:SBS79_1_Robin.png|thumb|100px]]",
+                        "matches": [
+                            [
+                                223,
+                                261,
+                                "File:SBS79_1_Robin.png|thumb|100px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS79_1_Robin.png",
+                        "size": "100",
+                        "start": 223,
+                        "end": 261
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy",
+                        "eiichiro_oda"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny",
+                        "surprised"
+                    ],
+                    "topics": [
+                        "SBS",
+                        "trick"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader tricks Oda into starting the Q&A session with a fake story about an old hag, to the author's surprise and amusement."
+            },
+            {
+                "number": 2,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "About the \"Nico\" in \"Nico Robin\", could it possibly be that it's a reference to the NICe O's (so, breasts) she has? \u00a0 by Hiromu (*It's a pun with the japanese ' 'niko' ', which means\u00a0two.)",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "No.\n\n[[File:SBS79_1_Female_Figure.png|thumb|100px]]",
+                        "matches": [
+                            [
+                                5,
+                                51,
+                                "File:SBS79_1_Female_Figure.png|thumb|100px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS79_1_Female_Figure.png",
+                        "size": "100",
+                        "start": 5,
+                        "end": 51
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "nico_robin"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "name_origin"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "D: Asks if 'Nico' in 'Nico Robin' is a reference to her breasts, O: denies and includes a drawing of a female figure."
+            },
+            {
+                "number": 3,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Nice to meet you. This is sudden, but... please teach us a tip or two on how to draw that hawt hourglass body all ONE PIECE female characters seem to have! Make sure you don't forget to include their airbags \u2661\n\nP.N. If there's no bread, let them eat roses~",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes. Hello. It's drawing time at the SBS segment. I would suggest that you think of a woman's proportions as \"three circles, one X\". Now if you'll excuse me, I'll be leaving.\n\n(I only draw this kind of body, so I get a lot of complaint postcards from my female audience. Let's all stay strong and keep on living life.){{-}}",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "drawing",
+                        "female_body_proportions",
+                        "SBS_segment"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda suggests thinking of a woman's proportions as 'three circles, one X', drawing the hourglass body, but acknowledges receiving complaints from female audience."
+            },
+            {
+                "number": 4,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "On page 39 of volume 74, there's this scene where Doflamingo's underlings suddenly shut up and silently stand together in the elevator. When I was a child, I learned that we're supposed to be quiet when we're riding in an elevator, but could it be that these men were also taught this way? \u00a0 \u00a0 by Hiromu",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Hmmm. I see, being quiet. God knows what actually created that hilariously awkward moment. If someone had farted in that scene, that would have become a golden moment, wouldn't it.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "doflamingo"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "awkward",
+                        "funny"
+                    ],
+                    "topics": [
+                        "etiquette",
+                        "awkward moments",
+                        "humor"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Doflamingo's underlings suddenly standing silently in the elevator creates a hilariously awkward moment, leaving Oda to humorously speculate about the situation."
+            },
+            {
+                "number": 5,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "In the Straw Hat Crew, Sanji is obviously the one who is the best at cooking, but who else is good at cooking? What is everyone's speciality dish?\n\nP.N. I created the praying mantis rooster.",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Well then, I'll be presenting to you what each member is best at making.\n[[File:SBS79_2_Straw_Hat_Cooking.png|thumb|center|400px]]\n''(Luffy: Raw Meat on a Plate, Zoro: Sashimi, Nami: Roasted Duck with Orange Sauce, Usopp: Fish & Chips, Chopper: Mixed Juice, Robin:\u00a0Paella, Franky: Barbecue, Brook: Churrasco)''\n\nSanji is the best at cooking seafood, but he is overall good at making just about anything. Also, this has to do with how these characters grew up, but generally the ones other than Sanji who can actually do some decent cooking would be narrowed down to pretty much Nami, Usopp, and Robin.\n\nOther members can pretty much just kind of slice, roast, and mix ingredients.\u00a0\n\nOh, also, Nami's cooking requires a premium fee even among crew members.{{-}}",
+                        "matches": [
+                            [
+                                73,
+                                130,
+                                "File:SBS79_2_Straw_Hat_Cooking.png|thumb|center|400px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "It's time for a game!! Many thanks to P.N. Yuri-Chan's Daddy, who sent us a ''Spot the Difference'' puzzle for everyone to try out! There are 7 differences total. The answers are below, but make sure to hide them when you're playing. Now let's get hunting!",
+                        "matches": []
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS79_2_Straw_Hat_Cooking.png",
+                        "size": "400",
+                        "start": 73,
+                        "end": 130
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "sanji",
+                        "luffy",
+                        "zoro",
+                        "nami",
+                        "usopp",
+                        "chopper",
+                        "robin",
+                        "franky",
+                        "brook"
+                    ],
+                    "places": [],
+                    "topics": [
+                        "cooking",
+                        "speciality dish",
+                        "crew members",
+                        "game",
+                        "Spot the Difference"
+                    ],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Sanji excels at seafood, with Nami, Usopp, and Robin showing decent cooking skills; Luffy, Zoro, Chopper, Franky, and Brook can handle basic cooking tasks."
+            },
+            {
+                "number": 6,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchi!! I know this is sudden, but I kinda wanna try turning the Donquixote top executives (Trebol, Diamante, Pica) into hotties using Sanji's ''\"Parage Shot\"''!! \u00a0 \u00a0P.N. Soft Idiot",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Here.\n[[File:SBS79_3_Executive_Parage_Shot.png|thumb|center|600px]]",
+                        "matches": [
+                            [
+                                6,
+                                67,
+                                "File:SBS79_3_Executive_Parage_Shot.png|thumb|center|600px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS79_3_Executive_Parage_Shot.png",
+                        "size": "600",
+                        "start": 6,
+                        "end": 67
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "trebol",
+                        "diamante",
+                        "pica",
+                        "sanji"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "parage_shot",
+                        "donquixote_executives",
+                        "sanji"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader wants to turn Donquixote executives into hotties using Sanji's technique; Oda responds with an image of the executives transformed."
+            },
+            {
+                "number": 7,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "About the powers from the Dressrosa Arc that Doflamingo's officers have... are they pretty much just improved versions of the abilities that the Baroque Works members had (so like Ton Ton \u2192 Kiro Kiro, Beta Beta\u00a0\u2192 Doru Doru, Buki Buki\u00a0\u2192 Supa Supa, and Pamu Pamu \u2192 Bomu Bomu)? \u00a0 \u00a0 from TaokaS43",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "It's true that \"superior\" devil fruit abilities are a thing, but as of now, it's pretty much just these four pairs.\n[[File:SBS79_3_Devil_Fruit_Hierarchies.png|thumb|center|500px]]\n\n\n''(Ton Ton > Kiro Kiro, Hie Hie > Yuki Yuki, Magu Magu > Mera Mera, Buki Buki > Supa Supa)''\n\nThough there are other fruit pairs out there that might make you wonder ''don't they pretty much do the same thing?'', these abilities tend to be headed in different directions in terms of how they actually work or what they can do. Also, a superior ability does not necessarily equate to the character's strength. No ability alone guarantees victory in combat.\u00a0{{-}}",
+                        "matches": [
+                            [
+                                116,
+                                179,
+                                "File:SBS79_3_Devil_Fruit_Hierarchies.png|thumb|center|500px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS79_3_Devil_Fruit_Hierarchies.png",
+                        "size": "500",
+                        "start": 116,
+                        "end": 179
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [
+                        "Dressrosa"
+                    ],
+                    "emotions": [],
+                    "topics": [
+                        "Devil_Fruit",
+                        "combat",
+                        "abilities"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda confirms that powers in Dressrosa Arc are improved versions of Baroque Works' abilities, but there are other fruit pairs heading in different directions."
+            },
+            {
+                "number": 8,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchi!! Hello (lol). Since Dr. Hiriluk is a doctor ''(\u533b\u8005 - ishya)'', how about taking 1''(i)'' and then combining it with the sum of 4''(sh)'' and 8''(ya)'' to make his birthday January 12? \u00a0P.N. HaPHaruka",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Hiriluk, after all this time?! Come on now, you know that we can't just decide on important things like this on a whim...\n\nBUT I'M TOTALLY DOWN!! ''(big thumbs up)''\n\nYes, it's been decided.\n\nNow then, I would like everybody's attention for a moment! ''(Sa Kokode Chotto Minasan Kitekudasai!)''\n\nSKCMK Time!!\n\nSo about birthdays, you know how everyone is just kind of randomly making them up as we go? I mean it's fine, since I don't really give a damn about them anyways (yikes, I said it).\u00a0\n\nThe thing is though, I recently had one of my staff members look up all of the character birth dates we've decided on throughout the years. The results? A ''Birthday Calendar'', which I've included in the back of this volume. Please check it out. (Page 190)\n\nAlright! Crap, I never realized there were so many overlapping birthdays!! ''(shock)'' I've even received several letters in the past mentioning things like \"None of the characters have my birthday\". I see.\n\n..So, what I'm trying to say is... LET'S FILL THIS CALENDAR IN!!\n\nWhy don't we make it possible for all One Piece readers around the world to be able to say that they share a birthday with so and so character?\n\nAnd by the way, here's a disclaimer:\n\nI WON'T CHECK A SINGLE ONE OF THESE BIRTHDAYS!! Please just come up with plausible explanations on your own as for why a certain character should have that certain birthday, even if it's a stretch. It's likely they'll easily be affirmed without any trouble, as usual-\n\nSince I really don't give a damn about this stuff!!\n\nThis calendar is the latest version as of October 2015, but I'm sure the blanks will start to fill out soon enough as the volumes keep getting released. You can always write these new birthdays in on your own, or go to ONE PIECE.com to check out the birthday calendar that we'll make sure to keep updated. For anyone who would like the decide on a character's birthday, I'd love it if you went on our website and sent us your suggestions by checking the blank boxes on this online birthday calendar. We'll be waiting!! {{-}}",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "dr_hiriluk"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "happy",
+                        "funny"
+                    ],
+                    "topics": [
+                        "birthdays",
+                        "fan_interaction"
+                    ],
+                    "importance": "hight",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda agrees to the reader's suggestion of Dr. Hiriluk's birthday. He mentions a 'Birthday Calendar' at the back of the volume and invites readers to fill in character birthdays."
+            },
+            {
+                "number": 9,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Greetings, Mr. Oda. Just recently, I found out that you're supposed to give your dad sunflowers on Father's Day to show your love and respect. I really had no idea. About that one scene where Kyros fights Diamante in front of Rebecca... that was in a field of sunflowers, wasn't it. Now I get why they couldn't have been fighting in a field of cosmoses or tulips. Ja feel? Ja feel? Ja feel?? P.N. The three chestnuts",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Huh. I had no idea either (haha). It's carnations for Mother's Day, but I guess dads are supposed to get... ''sunflowers!!'' Not sure if it's just me, but aren't sunflowers a bit... large? Hahaha. I've heard that you're supposed to give other kinds of flowers on Father's Day as well, so I assume there must be various opinions on the matter out there. Nevertheless, I'm glad to find that there's an actual connection between \"sunflowers\" and \"fathers\"!\n\n[[File:SBS79_5_Gorilla.png|thumb|250px]]",
+                        "matches": [
+                            [
+                                455,
+                                495,
+                                "File:SBS79_5_Gorilla.png|thumb|250px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS79_5_Gorilla.png",
+                        "size": "250",
+                        "start": 455,
+                        "end": 495
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "amused"
+                    ],
+                    "topics": [
+                        "father's_day",
+                        "flowers"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda expresses surprise at the tradition of giving sunflowers to fathers on Father's Day but acknowledges the connection and humorously wonders if they are too large."
+            },
+            {
+                "number": 10,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Mr. Odaaaa! I've discovered a rather mischievous doing of yours!! It's on page 18 of chapter 743. In the scene where Sabo destroys the colosseum ring and people are freaking out... there's this sfx written in that goes \"GOGOGO\" to convey the loud rumbling sound the crushed ring was making, and if I'm not insane, I'm pretty sure there's a gorilla sitting nearby that sfx that has the letters \"rilla\" written on his hand. GoGoGorilla...! How sneaky of you! P.N. Sacred Tree kun",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Damn, I'm impressed you managed to actually find that. Even I had forgotten all about it XD",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "sabo"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "manga_details",
+                        "Eiichiro_Oda_sneaky_moments"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda acknowledges a reader's discovery of a hidden 'GoGoGorilla' message in a sound effect in chapter 743, finding it impressive."
+            },
+            {
+                "number": 11,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "''(in a child's handwriting)'' I am glad Kyros beat Diamante. [[File:SBS79_5_Child_Drawing.png|thumb|center|400px]]\n\n''(Next to drawing in child's handwriting: \"Bastard\")''",
+                        "matches": [
+                            [
+                                62,
+                                115,
+                                "File:SBS79_5_Child_Drawing.png|thumb|center|400px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I KNOW, RIGHT!! It felt so good to see that bastard finally get what he deserved! In fact, he's an idiot that deserves to trip, fall, and hit his head on Scarlet's grave, like, 10 times at least! Mr. Taichi Nakajima, thank you so much for your postcard!!!\n{{-}}",
+                        "matches": []
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS79_5_Child_Drawing.png",
+                        "size": "400",
+                        "start": 62,
+                        "end": 115
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "kyros",
+                        "diamante"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "happy",
+                        "funny"
+                    ],
+                    "topics": [
+                        "gladiator_colosseum",
+                        "victory"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Diamante's defeat by Kyros was celebrated and referred to as deserved justice, with the author expressing satisfaction over the outcome."
+            },
+            {
+                "number": 12,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Greetings, Sir Oda! So, I've been having this gut feeling that Luffy's pose when he's in Gear 4 kind of resembles a Japanese Nio statue. Do you have any deep reasoning as to why he does such a cool stance? When I get into a fight with my spouse sometime in the future, I am planning to use this pose as a method of intimidation. P.N. Sanadacchi",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I see this is a postcard from someone who is married. Not sure about using the \"Gear 4 stance\" during a couple's quarrel though. Don't you think you'd be less likely to jeopardize your life in the next fight if you used \"Fujitora's kneel of apology\" instead? (laughs) Anyways, yes, you are correct about the Japanese Nio statue! I know that there are all kinds of things that symbolize power around the world, but I decided to stick to my homeland for this one and pick up some inspiration from an age-old representation of Japanese strength. Can't wait to see Gear 4 come out in figurines and the anime!\n\n[[File:SBS79_6_Shirts.png|thumb|75px]]",
+                        "matches": [
+                            [
+                                606,
+                                644,
+                                "File:SBS79_6_Shirts.png|thumb|75px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS79_6_Shirts.png",
+                        "size": "75",
+                        "start": 606,
+                        "end": 644
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "moneky_d_luffy",
+                        "fujitora"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "gear_4",
+                        "japanese_culture",
+                        "strength",
+                        "anime_figurines"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda confirms that Luffy's Gear 4 pose is inspired by a Japanese Nio statue, advising using Fujitora's kneel of apology instead in couple's quarrel for less danger."
+            },
+            {
+                "number": 13,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei, I've discovered them...! In chapter 785, I found people wearing clothes with things like \"RIKUOUSAMADA\" (IT'SKINGRIKU), \"JANAINO?!\" (IT'S NOT?!), \"RYOUKAI!\" (ROGER!) and \"IKINOBIRU!!\" (IWILLSURVIVE!!). Could it be that Doflamingo has been ordering ''that'' popular line of clothing from Fish-Man Island? P.N. A Swordsman Willing To Sacrifice",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I suppose I've been found out. It's those \"explanation of the situation t-shirts\", back at it again. Looks like the brand fresh out of Fish-Man Island called \"JKS\" has found its way into Dressrosa as well. I'm pretty sure there's a bunch more, so please have some fun looking for them! My recommendation would be the \"ATAMANOTOGATTAKO\" (THEKIDWITHTHEPOINTYHEAD) series.\n{{-}}",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "doflamingo"
+                    ],
+                    "places": [
+                        "fish_man_island",
+                        "dressrosa"
+                    ],
+                    "emotions": [
+                        "playful"
+                    ],
+                    "topics": [
+                        "clothing",
+                        "Fish_Man_Island",
+                        "Dressrosa"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Doflamingo has been ordering 'explanation of the situation t-shirts' from Fish-Man Island, with a brand called 'JKS' making its way into Dressrosa as well."
+            },
+            {
+                "number": 14,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Mr. Oda, greeti-...ugh.. gah!!! *falls over* ...Well.. to tell you the truth... I've recently contracted this deadly disease known as the \"Cora-san I friggin' LOVE YOU disease\". Ahem. Yes. And so with that being said, please tell us Cora-san's height, favorite food, and least favorite food. P.N. A young maiden in love",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "How terrible. Here, I will give you a prescription for that. Please take the following medicines: \"Height 293cm\", \"Favorite Food Lettuce Cabbage and Dried Plum\", and \"Least Favorite Food Bread and Pizza\". Take care.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "corazon"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "sympathetic",
+                        "playful"
+                    ],
+                    "topics": [
+                        "health",
+                        "food",
+                        "fan_query"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda prescribes the 'Cora-san I friggin' LOVE YOU disease' sufferer with Cora-san's height, favorite foods, and least favorite foods as 'medicine'."
+            },
+            {
+                "number": 15,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hi Odacchi!! In chapter 785 of volume 78 when the lady is screaming for her child wearing a shirt with a bear, SHE MEANT ''THAT'' BEAR?! P.N. Bartholomew Kuma age 12\n\n[[File:SBS79_7_Kuma_1.png|thumb|150px]]",
+                        "matches": [
+                            [
+                                167,
+                                206,
+                                "File:SBS79_7_Kuma_1.png|thumb|150px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Ooookay. How about I explain? (haha) In chapter 785 of the previous volume, there is a mother amongst the crowd of chaos desperately searching for her child. She yells out, describing her child as one who is wearing a \"shirt with a bear (Kuma)\". Later on, due to Fujitora's heroic deeds, she was finally able to find her child as shown in a single panel, and if you look closely at the child's shirt, this is what you see:\u00a0\n[[File:SBS79_7_Kuma_2.png|thumb|left|250px]]\n[[File:SBS79_7_Kuma_3.png|thumb|150px]]\n\n''(Not kuma [Bear], but Kuma [Bear])''\n\n''(Bottom right: same thing tho)''\n\n...sooo... yes. Now that that's cleared up, everybody please stand up and help me end this SBS with a grand \"straight-man phrase\" directed at this particular parent-child duo. Three, two, one aaand\n\nYOU MEANT ''THAT'' KUMA?! (SHOCK)\n\nThank you very much, and see you in the next SBS! Please check out the back of this volume for some new information on the upcoming movie~!\n{{-}}",
+                        "matches": [
+                            [
+                                424,
+                                468,
+                                "File:SBS79_7_Kuma_2.png|thumb|left|250px"
+                            ],
+                            [
+                                469,
+                                508,
+                                "File:SBS79_7_Kuma_3.png|thumb|150px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS79_7_Kuma_1.png",
+                        "size": "150",
+                        "start": 167,
+                        "end": 206
+                    },
+                    {
+                        "file": "SBS79_7_Kuma_2.png",
+                        "size": "250",
+                        "start": 424,
+                        "end": 468
+                    },
+                    {
+                        "file": "SBS79_7_Kuma_3.png",
+                        "size": "150",
+                        "start": 469,
+                        "end": 508
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "bartholomew_kuma",
+                        "fujitora"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "chapter_785",
+                        "parent-child_relationship"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "The mother was indeed referring to Bartholomew Kuma when describing her child's shirt with a bear, and Oda humorously clarifies this in the SBS."
+            }
+        ],
+        "page": null,
+        "chapter_number": null,
+        "page_header": null
+    }
+]

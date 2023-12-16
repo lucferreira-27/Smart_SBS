@@ -1,0 +1,984 @@
+[
+    {
+        "qa": [
+            {
+                "number": 0,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "N/A",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Ok, I will start SBS!! Let's all say it!! YEA~~H!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "happy"
+                    ],
+                    "topics": [],
+                    "importance": "high",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda starts the Q&A session with enthusiasm."
+            },
+            {
+                "number": 1,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda sensei, Morningello. (good morning and hello) Actually, my friend Shouta (or Person S) likes Kana (or person K). But, Kana is going out with a different person. What should he do~~? P.N. D hosokawa (14)",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I see. HOW WOULD I KNOWWWW!!! YEAH~~!!\n\n[[File:SBS Vol 57 01.png|120px|right]]",
+                        "matches": [
+                            [
+                                40,
+                                78,
+                                "File:SBS Vol 57 01.png|120px|right"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS Vol 57 01.png",
+                        "size": "120",
+                        "start": 40,
+                        "end": 78
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "relationship"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "D asks Oda for relationship advice, but Oda playfully dismisses the question with enthusiasm."
+            },
+            {
+                "number": 2,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hey Odacchi! Questio~n. Is the former Baroque Works member Mr. 1's testicles also a steel blade? I wonder so much x2 that I can't sleep!! by Niwacchi in 8th grade",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "OK!!! THEN DON'T SLEEP!!!! YEAHHH!!!!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "mr_1"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "devil_fruit"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Mr. 1's testicles also a steel blade, to which Oda humorously tells the reader not to sleep if they're so curious."
+            },
+            {
+                "number": 3,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "[[File:SBS Vol 57 02.png|thumb|left|100px|''\"did'ya call?\" -Emperor Mitchel'']] \nP.N. Daichan of the forest{{-}}",
+                        "matches": [
+                            [
+                                0,
+                                79,
+                                "File:SBS Vol 57 02.png|thumb|left|100px|''\"did'ya call?\" -Emperor Mitchel''"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Ah, good work! You're the Emperor Mr. Mitchel! Yes yes, Whitebeard, Red Hair, Kaidou, Mitchel, really, they're superior. just saying~... GO HOME!! (shock) YEAH!! breathe... breathe.. ugh, no more stamina. From now on, I will talk normally.",
+                        "matches": []
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS Vol 57 02.png",
+                        "size": "100",
+                        "start": 0,
+                        "end": 79
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "emperor_mitchel",
+                        "whitebeard",
+                        "red_hair",
+                        "kaidou"
+                    ],
+                    "places": [],
+                    "topics": [
+                        "emperor_power",
+                        "breathless",
+                        "silly"
+                    ],
+                    "emotions": [
+                        "shock",
+                        "breathless",
+                        "silly"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda praises Mitchel as one of the superior emperors and then comically tells them to go home before mentioning he will talk normally from now on."
+            },
+            {
+                "number": 4,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Eiichirou.. YOU'VE GROWN SO MUCH... P.N. acting like a good guy",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "... oh well. This page is... oh well. I will work harder on the next SBS! Oh, and the movie \"STRONG WORLD\". Thanks to you all, it became a huge hit that happened never before. Thanks for watching guys, really. I will work hard on ONE PIECE from now on as well!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "grateful"
+                    ],
+                    "topics": [
+                        "SBS",
+                        "Strong World",
+                        "One Piece",
+                        "movie"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "The reader compliments Oda's growth, and he expresses gratitude for the support and promises to work harder on the next SBS and One Piece."
+            }
+        ],
+        "page": "44",
+        "chapter_number": "553",
+        "page_header": "SBS57 Header 1.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 5,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "It's a wonder how Luffy is always eating, yet he never becomes fat. I'm real jealous. P.N. A thousand varaeties 10422",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "No no, how ever much you eat, I think it would be hard for a guy that moves around so much to become fat.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "jealous"
+                    ],
+                    "topics": [
+                        "eating_habits",
+                        "body_figure"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Luffy's constant movement prevents him from becoming fat, according to Oda."
+            },
+            {
+                "number": 6,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "This is a question, but Luffy and his crew always seem to say \"I'll beat him up\" or something along those lines when they defeat a villain, right? Accurately, I don't think any enemies died. When the way of saying \"kill\" or \"crush\" is not used here, is it because they never kill their opponents? Is this some kind of policy? P.N. Tochitsuki\n\n[[File:SBS Vol 57 04.png|right|120px]]",
+                        "matches": [
+                            [
+                                343,
+                                381,
+                                "File:SBS Vol 57 04.png|right|120px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "It has publication reasons. There was a phone call from my granny in my hometown, and she said that \"it ain't good to use words sayin' that someone will kill the other\". It's obvious Luffy and his crew don't use it, but I think as for the enemies, that's just.. too bad. It is the mature me that thinks it is really bad word usage when a friend of mine dies from time to time. Well, as for the running gags and the ''evilll'' villains, it is used, but I use it thinking \"oh, this is a bad thing to say.\" Don't use it, everyone.",
+                        "matches": []
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS Vol 57 04.png",
+                        "size": "120",
+                        "start": 343,
+                        "end": 381
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "moneky_d_luffy"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "serious"
+                    ],
+                    "topics": [
+                        "morality",
+                        "violence",
+                        "Luffy's crew"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda explains that the reason for not using 'kill' or 'crush' when defeating villains is due to publication reasons and personal belief against using those words."
+            },
+            {
+                "number": 7,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Is the weapon Urouge holding a pencil? Or is it a \"chocobat\"? P.N. Fluffy #1\n\n[[File:SBS Vol 57 05.png|right|120px]]",
+                        "matches": [
+                            [
+                                78,
+                                116,
+                                "File:SBS Vol 57 05.png|right|120px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Well, it's a pencil. Still, did he set sail in order to find a sharpener it fits in? (Is the led in it 2B?)",
+                        "matches": []
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS Vol 57 05.png",
+                        "size": "120",
+                        "start": 78,
+                        "end": 116
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "urouge"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "weapon",
+                        "pencil",
+                        "chocobat"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Urouge's weapon is a pencil, and Oda wonders if he set sail to find a sharpener for it."
+            },
+            {
+                "number": 8,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "As representative of the Kita Kantou, I came to beg you this. Please make Whitebeard's birthday 4(shi)/6(ro). (Shiro means white) P.N. Gunma's super rich guy",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Alright then.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "whitebeard"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "birthday"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Gunma requests that Whitebejsonthday on April 6th, and Oda agrees."
+            }
+        ],
+        "page": "80",
+        "chapter_number": "555",
+        "page_header": "SBS57 Header 2.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 9,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchi! Hi! This is a serious question. Tell me your typical day's schedule!!!",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "A serious question, I see! Here it is \u2193\n*24:00 ~ 24:30 = Diarrhea and eating\n*24:30 ~ 6:00 = Disconsolate\n*6:00 ~ 8:30 = Sleep\n*8:30 ~ 9:00 = Eat\n*9:00 ~ 13:00 = Cossack dance\n*13:00 ~ 13:30 = Work (Drawing)\n*13:30 ~ 18:00 = Do stuff\n*18:00 ~ 19:00 = Eat\n*19:00 ~ 24:00 = Calmly sit there\nEveryone who wants to be a mangaka, use it as a reference!\n\n[[File:SBS Vol 57 07.png|right|120px]]",
+                        "matches": [
+                            [
+                                349,
+                                387,
+                                "File:SBS Vol 57 07.png|right|120px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS Vol 57 07.png",
+                        "size": "120",
+                        "start": 349,
+                        "end": 387
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "oda's_personal_life"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda humorously describes his daily schedule, involving eating, sleeping, drawing, and even cossack dancing as a part of his routine."
+            },
+            {
+                "number": 10,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I saw this and laughed my head off, but in volume 55, chapter 537, Hannyabal's panties have strawberries on them don't they? Does Hannyabal like those kinds of cute panties? If so, what other kinds does he have?",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I compliment you on cracking the case of Hannyabal's evil hobby. I hear Hannyabal's panty collection is amazing.\n\n[[File:SBS Vol 57 08.png|center|400px]]\n*Flowers\n*Huge breasts\n*Pink mushrooms\n*Frills\n*Loincloth\n*Super bikini\n*Mr. elephant\n\n[[File:SBS Vol 57 09.png|right|120px]]",
+                        "matches": [
+                            [
+                                114,
+                                153,
+                                "File:SBS Vol 57 08.png|center|400px"
+                            ],
+                            [
+                                241,
+                                279,
+                                "File:SBS Vol 57 09.png|right|120px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS Vol 57 08.png",
+                        "size": "400",
+                        "start": 114,
+                        "end": 153
+                    },
+                    {
+                        "file": "SBS Vol 57 09.png",
+                        "size": "120",
+                        "start": 241,
+                        "end": 279
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "hannyabal"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "panties",
+                        "hobby"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Dedicated fan notices Hannyabal's strawberry panties in Vol. 55, Ch. 537, and Oda humorously confirms his love for cute panties, listing his diverse collection."
+            },
+            {
+                "number": 11,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Konchikuwa-! (Combination of \"konnichiwa\";hello; and \"chikuwa\"; a japanese food) I'm a female \u2606 Ah!! I love chikuwas. By the way, I want to ask something!! Are Inazuma's glasses (\u2190 sunglasses??) 3D glasses??? Since the colors are different, I thought like \"Hum?!\"... If they aren't 3D, won't the colors mix and make it hard for him to see? Tell me ~ =3 P.N. Masaking",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I see~ ! Maybe -? Maybe. Then, he can see as many 3D movies as he wishes, huh. But do everyday things pop out as well? Like every time he sees a kid standing on the street, he would say \"don't run on the road!\" or something. When he sees Wanze, he would be like \"your eyes are popping out way too much!\". Oh, he doesn't need 3D glasses to see that. .... yeah, they are 3D glasses, probably.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "inazuma",
+                        "wanze"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "playful",
+                        "light-hearted"
+                    ],
+                    "topics": [
+                        "glasses",
+                        "3d_movies",
+                        "perception"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Inazuma's glasses are likely 3D glasses, allowing him to see 3D effects in everyday life, like kids standing on the street and Wanze's popping eyes."
+            }
+        ],
+        "page": "98",
+        "chapter_number": "556",
+        "page_header": "SBS57 Header 3.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 11,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "N/A",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Game corner!! A flashy game from P.N. pass'emmdowns! Thank you! Ok, see who's hat it is! Answer on pg. 170!\n\n[[File:SBS Vol 57 10.png|center|400px]]",
+                        "matches": [
+                            [
+                                109,
+                                148,
+                                "File:SBS Vol 57 10.png|center|400px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS Vol 57 10.png",
+                        "size": "400",
+                        "start": 109,
+                        "end": 148
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "game_corner",
+                        "P.N._pass'emmdowns"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda thanks a reader for a game corner submission and teases a hat reveal on page 170."
+            }
+        ],
+        "page": "116",
+        "chapter_number": "557",
+        "page_header": "SBS57 Header 4.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 12,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "If Hancock meets me, will she fall in love with me? P.N. Hokkaido horse",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "You're Hannyabal!! I know it for sure!! (Oda states this since P.N Hokkaido Horse speaks in a way Hannyabal does in Japanese.)",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "boa_hancock",
+                        "hannyabal"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "love",
+                        "character_impersonation"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "Hokkaido Horse asks if Hancock will fall in love with him, and Oda jokingly identifies him as Hannyabal due to his language style."
+            },
+            {
+                "number": 13,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Here's a question all the sudden. Are the models of the 3 marine admirals\n{|align=\"center\" width=\"20%\" align=\"center|\n|valign=\"top\"|Aokiji \u2193 Yusaku Matsuda\n[[File:SBS Vol 57 12.png|x125px]]\n|valign=\"top\"|Kizaru \u2193 Kunie Tanaka\n[[File:SBS Vol 57 13.png|x125px]]\n|valign=\"top\"|Akainu \u2193 Bunta Sugawara\n[[File:SBS Vol 57 14.png|x125px]]\n|}\n\n...? If not, I apologize. If so and there is an answer, please tell us! P.N. Marimo",
+                        "matches": [
+                            [
+                                156,
+                                189,
+                                "File:SBS Vol 57 12.png|x125px"
+                            ],
+                            [
+                                226,
+                                259,
+                                "File:SBS Vol 57 13.png|x125px"
+                            ],
+                            [
+                                298,
+                                331,
+                                "File:SBS Vol 57 14.png|x125px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes, yes. All of them are correct. The people these days probably don't know. All three guys are real famous actors of Japan. Why you ask, this is simply because I like them. For Mr. Bunta Sugawara, I want to use his face from the movie \"Fight with no Respect\", but his face is somewhat covered with a hat... just think it was for myself and don't mind it. Even if you don't know him, it's OK as long as you think of him as a \"cool\" guy. (He also has a voice actor role in \"Spirited Away\".)",
+                        "matches": []
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS Vol 57 12.png",
+                        "size": "x125",
+                        "start": 156,
+                        "end": 189
+                    },
+                    {
+                        "file": "SBS Vol 57 13.png",
+                        "size": "x125",
+                        "start": 226,
+                        "end": 259
+                    },
+                    {
+                        "file": "SBS Vol 57 14.png",
+                        "size": "x125",
+                        "start": 298,
+                        "end": 331
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "marines",
+                        "actors",
+                        "SBS_models",
+                        "Japanese_cinema"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "The marine admirals' models are real actors: Aokiji \u2193 Yusaku Matsuda, Kizaru \u2193 Kunie Tanaka, Akainu \u2193 Bunta Sugawara, whom Oda selected because he likes them."
+            },
+            {
+                "number": 14,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "In page 183 of volume 55, when Bon-chan is spinning, he turns into Pandaman for a second, but did Bon-chan ever touch Pandaman's face before? Pen Name \"Man who ate the Gari-Gari no mi\" (skinny skinny fruit)",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Oh! You're right! He is there. Really, for a split second! Which means, you are right. I wonder where they met. As expected from Bon-chan.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "bon_clay",
+                        "pandaman"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "surprised",
+                        "funny"
+                    ],
+                    "topics": [
+                        "bon_clay",
+                        "pandaman",
+                        "meeting"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Bon-chan briefly turns into Pandaman, and the reader asks if he ever touched Pandaman's face; Oda acknowledges it and wonders where they met."
+            }
+        ],
+        "page": "134",
+        "chapter_number": "558",
+        "page_header": "SBS Vol 57 Chap 558 header.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 15,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Sometimes, we see the appearance of humans and giants with horn like things, but in this world, are horns basically something sorta like buck teeth? P.N. Wozapomu",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yep, they're there. Guys that look unbelievably non-human here and there. Well, I guess. Don't think much about those traits. I look forward on drawing more and more interesting faces.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "human_anatomy",
+                        "character_design"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Horns in One Piece are seen on non-human characters, and the author looks forward to drawing more interesting faces without concerning much about the traits."
+            },
+            {
+                "number": 16,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "When my friend and I were discussing about ONE PIECE, we found out about something. That is the fact that Oda sensei, you never refer to Luffy and the others as \"The Straw Hat Pirates\" or \"The Luffy Pirates\". As far as I can remember, you've always called them \"The Straw Hats\". Is this another one of your policy type things? P.N. Policuu-\n\n[[File:SBS Vol 57 17.png|right|120px]]",
+                        "matches": [
+                            [
+                                342,
+                                380,
+                                "File:SBS Vol 57 17.png|right|120px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Oh ho-. Here it comes again. Deducing my policy action. Yes. You're correct. Anime or games, readers, I don't care what people call them. Call'em whatever. I decided to call them \"Straw hats\", so I won't call them anything else. Magnificent.\n\n[[File:SBS Vol 57 18.png|right|120px]]",
+                        "matches": [
+                            [
+                                243,
+                                281,
+                                "File:SBS Vol 57 18.png|right|120px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS Vol 57 17.png",
+                        "size": "120",
+                        "start": 342,
+                        "end": 380
+                    },
+                    {
+                        "file": "SBS Vol 57 18.png",
+                        "size": "120",
+                        "start": 243,
+                        "end": 281
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "moneky_d_luffy"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "playful"
+                    ],
+                    "topics": [
+                        "naming_policy"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda confirms that he calls the group 'Straw Hats' on purpose, and doesn't mind how others refer to them."
+            },
+            {
+                "number": 17,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I also have a mushroom that won't come off me. Could the Kuja tribe take it off for m- hm?! Oda sensei, it seems to me you have one growing on you? Wanna come with me?? P.N. Shimizu Chagero",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "That is your testicles. P.N. Shimizu Chagero. That is... Ah, I used such disgraceful words... I'll use astricks? (asterisks). THAT'S YOUR T*STICLES, CHAGEBURO!! T*STICLES!!!\n\nso from page 188, Voice actor SBS will activate!!",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "H.D.K!! (Hai, Domo, Konnichiwa ; Hi, Greetings, Hello) The 5th voice actor SBS is coming up!! This time, who is it, dammit- !! Yes!! Our precious perverted cook! SANJI'S VOICE'S OWNER!! If he shuts up, he's a hot guy. Hiroaki Hirata ''IN THE HOUSE!!''",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Now, everyone, the guy that never betrays our expectations, Hirata san is here -!\n\nH: Yo, sorry for making y\u2019all wait! Finally my turn has come around ~ \u266a Hallelujah to the wonderful ladies! Me~llorine Mellorine, Nami-san are you looking at meeee ~~? I'm in the SBS right n- *punch* bubedagasu...",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "!!! ..eh.. he said \"bubedagasu\"... What does that mean.\n\nH: Eh, uh isn't this a quote you wrote?!",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Was it now? I don't recall-. Well, these are the postcards, so let's start the SB-\n\nH: wait wait wait wait! Wait! You know, the thing you always do. That. You know i've been reading? This corner. \"What does SBS stand for?\" Aren't you gonna ask?!",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I don't care about that anymore. You all only think of making it a joke. ....Ah- it got gloomy in here... Alright, then what does SBS stand for?\n\nH: Ehhh~~?! (smirk smirk) It's not polite to suddenly ask those kinds of things you know~ ? (smirk smirk) Geez~~ even if you ask me so suddenly ~. Ehehe.",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I bet you didn't even think of anything... Hurry up now.\n\nH: (G)omen (I)ino ga (O)moiukaban! (Sorry, a suitable joke does not occur to me!)",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I WAS SO FRICKIN' RIGHT~~!!! (shock) It's SBS!!!\n\nThe rest of Hirata-san's SBS is on P 206!! \u2193",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "sanji",
+                        "nami"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny",
+                        "perverted"
+                    ],
+                    "topics": [
+                        "SBS",
+                        "voice_actor",
+                        "joke"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "A humorous exchange between Eiichiro Oda and a reader regarding the Kuja tribe and a mushroom, followed by an introduction to the 5th voice actor SBS featuring Sanji's voice actor."
+            },
+            {
+                "number": 30,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I think that Hirata-san, you are combined with Sanji in both mental terms and physical term, but what do you think Sanji's sacred left eye looks like? Please make a drawing. P.N. My bust size is 92&nbsp;cm <3\n\nH: [[File:SBS Vol 57 21.png|120px]]",
+                        "matches": [
+                            [
+                                213,
+                                245,
+                                "File:SBS Vol 57 21.png|120px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Ah, Mr. Hirata, it's almost time; you should wrap it u-... GYAAAHH!! TOO SCARY~~!!! (shock)\n\nH: KYAAAAA----!!!",
+                        "matches": []
+                    },
+                    {
+                        "type": "question",
+                        "text": "MR. HIRATA, WHAT PART OF YOU IS CURLY? P.N. Tamaki\n\nH: P**IS.\n\n[[File:SBS Vol 57 22.png|right|120px]]",
+                        "matches": [
+                            [
+                                63,
+                                101,
+                                "File:SBS Vol 57 22.png|right|120px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS Vol 57 21.png",
+                        "size": "120",
+                        "start": 213,
+                        "end": 245
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "sanji"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "shock",
+                        "funny"
+                    ],
+                    "topics": [
+                        "sacred_left_eye",
+                        "physical_appearance"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "A reader asks what Sanji's left eye looks like, prompting Eiichiro Oda to respond humorously and with shock, leading to a funny exchange with another reader."
+            }
+        ],
+        "page": "152",
+        "chapter_number": "559",
+        "page_header": "SBS Vol 57 Chap 559 header.png"
+    }
+]

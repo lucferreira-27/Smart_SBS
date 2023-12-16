@@ -1,0 +1,929 @@
+[
+    {
+        "qa": [
+            {
+                "number": 1,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hi Odacchi! I've been counting. Ever since that faithful day in volume 10 when Timmy Ueda first stole the SBS title call (which started in volume 4), readers have begun the SBS corner 60 times! (Doom!) I simply cannot believe that they would be shameless enough to steal your glory!! Go on, Oda Sensei. Scream those words as loud as you can today. Say the words, \"the SBS has begun!!!\" And once again, the reader proudly proclaims, \"Start the SBS!!!\"\u2014Shokotan",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "The SBS has begun!!!> I said it!! Thank you!! Wait, noooo!!!> This is not what I want!! (waiting)",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "SBS_corner",
+                        "reader_interaction"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda reluctantly starts the SBS session but then regrets it immediately, while the reader humorously urges him on."
+            },
+            {
+                "number": 2,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Would Heraclesun be really bad at\u00a0''shitori'', the word game where you have to start each word with the last letter of the previous word? --Seikun",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Well since you lose by ending a word in\u00a0\"n,\"\u00a0I'd say so.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "heraclesun"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "word_game",
+                        "shitori"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Heraclesun would be bad at shitori because he would likely end words in 'n' which results in a loss."
+            },
+            {
+                "number": 3,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "In chapter 840, \"The Iron Mask,\" young Sanji was reading a storybook about Noland. But I'm more curious about that book of Devil Fruits sitting next to him! That must be the book he used to find out about the Clear-Clear fruit in chapter 464!! --Dorry",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Well spotted. Sanji did indeed mention both books before in his travels.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "sanji"
+                    ],
+                    "places": [],
+                    "emotions": [],
+                    "topics": [
+                        "devil_fruit"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Sanji's brief mention of both books in his travels confirms the connection between the book of Devil Fruits and his discovery of the Clear-Clear fruit."
+            }
+        ],
+        "page": "24",
+        "chapter_number": "849",
+        "page_header": "SBS85 Header 1.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 3,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "N/A",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Truly, even with 81 volumes meat is still eaten so vigorously (''sfx : mori mori''). The answer was there. Carrot says this in 807. The meat comprises of \"hippo, lizard, crocodile and frog\". And etc. As the Mink Tribe are born hairy, they do not eat hairy animals but eat meat of fowl and amphibians that do not possess hair.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "carrot"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "food",
+                        "mink_tribe"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Carrot from the Mink Tribe mentions in volume 81 that they eat meat from animals like hippo, lizard, crocodile, and frog, and because they are born hairy, they don't eat hairy animals."
+            },
+            {
+                "number": 4,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "This Nami character figure I bought, where should I decorate it? P.N. Captain Nobuo",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I don't know!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "nami"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "collectibles"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Nobuo asks where to decorate a Nami figure, but Oda playfully responds he doesn't know."
+            },
+            {
+                "number": 5,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchi...I will start this SBS.\n\n........I mean, it has already started. P.N. Kakkun Shogo",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "What the...!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "surprised"
+                    ],
+                    "topics": [],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "The reader starts the Q&A session with a playful remark, catching Oda off guard."
+            },
+            {
+                "number": 6,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchi! The Pudding-chan who appeared in chapter 850 had a third eye on her forehead!! Having said that, is the girl who appeared in chapter 651 Pudding-chan? It's clear that it is, isn't it! P.N. Resident of Newkama Land",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "That's right! Nitro was also there.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "pudding",
+                        "nitro"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "character_identity",
+                        "mystery"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Pudding-chan from chapter 850 is the same as the girl from chapter 651, and Nitro was also present in that scene."
+            }
+        ],
+        "page": "60",
+        "chapter_number": "851",
+        "page_header": "SBS85 Header 2.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 7,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Why don't Sanji's eyes turn into hearts when he is talking with Reiju? P.N. Match & Takeshi",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "That's how it is with brothers and sisters, right? I used to get in numerous fights with my elder sister when I was a kid. It would be weird if Sanji turns his eyes into hearts to talk with Reiju.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "sanji",
+                        "reiju"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "family",
+                        "relationship"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Sanji's eyes don't turn into hearts when talking to Reiju because it would be weird for siblings to act that way, as seen in Oda's own experience with his sister."
+            },
+            {
+                "number": 8,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Who is the fastest crewmate when they run a 50-meter race? P.N. Nagatanigawa\n\n[[File:SBS85 Race.png|right|400px]]",
+                        "matches": [
+                            [
+                                78,
+                                113,
+                                "File:SBS85 Race.png|right|400px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "It's hard to answer..\n# Brook\n# Sanji\n# Luffy\n# Chopper\n# Zoro\n# Usopp\n# Nami\n# Robin\n# Franky.\u00a0\n*Brook is fast since his body weight is light.\n*Chopper would be ranked higher if he used Walk Point. (another translation: Chopper is ranked high because he can use Walk Point.)\n*Zoro would be ranked higher in the shorter distance race since he would not run off the track.\n*Franky is ranked low since he is heavy.\n{{-}}",
+                        "matches": []
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS85 Race.png",
+                        "size": "400",
+                        "start": 78,
+                        "end": 113
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "brooks",
+                        "sanji",
+                        "luffy",
+                        "chopper",
+                        "zoro",
+                        "usopp",
+                        "nami",
+                        "robin",
+                        "franky"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "race",
+                        "crewmates",
+                        "abilities"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "The crewmate ranking in a 50-meter race from fastest to slowest: Brook, Sanji, Luffy, Chopper (using Walk Point), Zoro, Usopp, Nami, Robin, Franky."
+            },
+            {
+                "number": 9,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Big Mom is a woman, but she uses the masculine pronoun, \"Ore\" (\u304a\u308c). Why is this? P.N. Youth Age 12",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Even today, there are regions of the country where women still use the [[First Person Pronoun Usage|pronoun]] \"ore\" when referring to themselves. In the past, it was once used equally by both men and women, so I didn't really think it was that unusal of an idea. But if that's weird to you, I'm surprised that I didn't get more questions about the pronoun that I completely invented for Ivankov, \"Vatashi\" (\u30f4\u30a1\u30bf\u30fc\u30b7).",
+                        "matches": [
+                            [
+                                71,
+                                109,
+                                "First Person Pronoun Usage|pronoun"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "pronoun",
+                        "link_title": "/wiki/First Person Pronoun Usage",
+                        "is_wikipedia": false,
+                        "start": 71,
+                        "end": 109
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "big_mom",
+                        "ivankov"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "surprised"
+                    ],
+                    "topics": [
+                        "pronouns",
+                        "gender",
+                        "language",
+                        "regional_culture"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda explains that in some regions, women use the pronoun 'ore,' which was historically used by both genders, and then mentions the 'Vatashi' pronoun he invented for Ivankov."
+            }
+        ],
+        "page": "78",
+        "chapter_number": "852",
+        "page_header": "SBS85 Header 3.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 10,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "How can I become a editor in Jump? Did editors graduate from famous colleges? P.N. Koichiro",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I can feel your sincerity about this, Koichiro. You really want to be an editor, don't you? As a matter of fact, many editors do have higher education degrees. But they're all freaks and perverts. The only requirement for hiring at Shueisha, the publisher of ''Jump'', is a degree from a four-year college. You don't need to have graduated from a very famous university to take the company test. And everyone turns into a pervert as a result of all the studying. Keep your head straight, work hard, and you can be my editor someday, Koichiro.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "encouraging",
+                        "playful"
+                    ],
+                    "topics": [
+                        "editing",
+                        "career",
+                        "Shueisha",
+                        "sincerity"
+                    ],
+                    "importance": "hight",
+                    "isCharacterInsertion": false
+                },
+                "summary": "To become a Jump editor, a four-year college degree is the only requirement, and while many have higher education, it's not necessary to graduate from a famous university."
+            },
+            {
+                "number": 11,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Can I lick the syrup off of Nami's body? P.N. Chamoro Shimizu",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "It's you again, you pervert!! You keep ruining the morals of this manga!! But hang on!! I feel like the handwriting on this postcard is different!! Did you always have such nice handwriting?! You better not be an imposter!! If this isn't the real Chamoro...you can go.\n\nNo, you can't!!! Don't send me these postcards, whoever you are!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "nami"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "angry",
+                        "perverted"
+                    ],
+                    "topics": [],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda scolds a reader for inappropriate behavior and questions the authenticity of the postcard."
+            },
+            {
+                "number": 12,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "The 2nd division commander before Ace is me. P.N. Capt. Nobuo",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "You're kidding!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "ace"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "surprised"
+                    ],
+                    "topics": [
+                        "division_commander",
+                        "Ace"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda is surprised to learn that the 2nd division commander before Ace is the reader, Capt. Nobuo."
+            }
+        ],
+        "page": "96",
+        "chapter_number": "853",
+        "page_header": "SBS85 Header 4.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 13,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "In the \"sons' cups\" scene in chapter 800 (volume 80), there's a panel where everyone holds out their cups. On the sound effect bubble, there are eight marks! But there are seven of them! So who was the last one?! Tell us! P.N. Mutsu 2",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Whoa...! You noticed that?! Who does that?! It does seem weird that there are seven cups, and yet the sound effect is coming from eight directions. This is kind of like a live-TV incident. As a matter of fact, the last one belongs to some old lady who just wandered by. I'm very sorry. She's very sorry too, so I hope you can let this one slide.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "surprised",
+                        "apologetic"
+                    ],
+                    "topics": [
+                        "mystery",
+                        "anime"
+                    ],
+                    "importance": "hight",
+                    "isCharacterInsertion": false
+                },
+                "summary": "In Chapter 800, there's a panel with seven cups and eight sound effect marks; Oda humorously explains the last cup belongs to an old lady who wandered by."
+            },
+            {
+                "number": 14,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "What is a heart full of belief? P.N. Rukia, age 12",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "It could be, for example, the strength of mind not to be led astray by the deceptive lies of adults who cannot admit their own mistakes. You have to be strong enough to say, \"No old lady's just gonna be 'passing by' on a boat! That makes no sense!!\"\n\n[[File:SBS85 Doflamingo 1.png|300px]]",
+                        "matches": [
+                            [
+                                251,
+                                288,
+                                "File:SBS85 Doflamingo 1.png|300px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS85 Doflamingo 1.png",
+                        "size": "300",
+                        "start": 251,
+                        "end": 288
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "doflamingo"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "determined",
+                        "strong"
+                    ],
+                    "topics": [
+                        "belief",
+                        "strength",
+                        "deception"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": true
+                },
+                "summary": "Oda defines a heart full of belief as the strength of mind to resist deceptive lies and stand up for what you believe in, illustrated with a humorous example."
+            },
+            {
+                "number": 15,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "If Doflamingo took off his glasses, what would he look like? P.N. Saki & Shun",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Oh! Good timing! Look, Doflamingo's about to remove his glasses right now!!{{-}}",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "doflamingo"
+                    ],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "appearance"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "The question humorously inquires about Doflamingo's appearance without his glasses, and Oda playful suggests he's about to remove them."
+            }
+        ],
+        "page": "114",
+        "chapter_number": "854",
+        "page_header": "SBS85 Header 5.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 15,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "N/A",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Aaaaah!! Underneath his sunglasses was another pair of sunglasses!! So what's under that pair, then?!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "silly"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "D: What's under Sanji's sunglasses? O: That's top secret! "
+            },
+            {
+                "number": 16,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello, Oda Sensei! My birthday is October 11. There were no characters on my birthday so far, so I came up with an idea! 10/11 could be ''ichi (1) ban oo (0) kii wan-wan (1 1 )'', meaning \"the biggest doggy\"! That could be the birthday for Duke Inuarashi, Ruler of Day of the Mokomo Dukedom!! P.N. Masaju",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "What?! You want to decide it just like that?! Okay.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "duke_inuarashi"
+                    ],
+                    "places": [
+                        "mokomo_dukedom"
+                    ],
+                    "emotions": [
+                        "surprised"
+                    ],
+                    "topics": [
+                        "birthday",
+                        "character_birthdays"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Duke Inuarashi, Ruler of Day of the Mokomo Dukedom's birthday is now on October 11, as suggested by a reader, P.N. Masaju."
+            },
+            {
+                "number": 17,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "My birthday is July 9, but there aren't any characters that share it! So how about if Sanji's mother, Vinsmoke Sora, was born on 7/9? July for its beautiful clear \"sky\" (sora), and 9 for the ku sound in \"Vinsmoke\"! P.N. Space Planet Peace",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Oof, what a stretch! You know what? I'm not going...to turn that down!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "sanji",
+                        "vinsmoke_sora"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "joking"
+                    ],
+                    "topics": [
+                        "birthdays",
+                        "family",
+                        "name_origin",
+                        "author_response"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader suggests a birthday for Sanji's mother and Oda playfully accepts the idea, despite the stretch."
+            },
+            {
+                "number": 18,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei! I thought of a birthday. The most famous of all the hidden characters of ''One Piece'', Pandaman, is born on February 29th. (Because it's a special day that's usually hiding.) P.N. Kajusa",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Oh man, that's perfect! But I can't just rubber-stamp that...unless I do! Do you share a birthday with any characters? You can check the birthday calendar on the one-piece.com website.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "pandaman"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "birthday_calendar",
+                        "hidden_characters"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader suggests Pandaman's birthday, Oda finds it perfect but asks about reader's birthday and suggests checking the one-piece.com website for character birthdays."
+            }
+        ],
+        "page": "132",
+        "chapter_number": "855",
+        "page_header": "SBS85 Header 6.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 19,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "You said Zoro doesn't eat ice in the previous SBS, but he ate it in chapter 701. P.N. Dobbin",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "!!!.....Right...\n\nYeah... It looks that way, right?!\n\nYeah. Well... It only looks like he's eating his ice. Just an impression. But the thing is...Zoro doesn't have a mustache, soooo...I dunno, that might not be Zoro...y'know? So that's probably not him. I mean...is that Zolo? I'm not sure...",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "roronoa_zoro"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "silly"
+                    ],
+                    "topics": [
+                        "food"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Zoro appears to be eating ice in chapter 701, but Oda suggests it may not be him since Zoro doesn't have a mustache."
+            },
+            {
+                "number": 20,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "In chapter 845, I spotted three other characters who look just like Opera. Are they identical quadruplets, just like Sanji and his brothers? P.N. ?\n\n[[File:SBS85 Quintuplets.png|right|200px]]",
+                        "matches": [
+                            [
+                                149,
+                                191,
+                                "File:SBS85 Quintuplets.png|right|200px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Technically, they're quintuplets, but you don't see the last one. There's Opera, fifth son of Charlotte; Counter, the sixth son; Cadenza, the seventh son; Cabaletta, the eighth son; and Gala, the ninth son. Big Mom is currently 68 years old, and for about 42 years, she had children annually. Yet she had 85 children, so there are tons of twins and triplets. The biggest batch is a decuplet bunch who are all 18 years old now\u2014five boys and five girls!! Big Mom, indeed!!{{-}}",
+                        "matches": []
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS85 Quintuplets.png",
+                        "size": "200",
+                        "start": 149,
+                        "end": 191
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "opera",
+                        "counter",
+                        "cadenza",
+                        "cabaletta",
+                        "gala",
+                        "big_mom"
+                    ],
+                    "places": [],
+                    "topics": [
+                        "family",
+                        "big_mom",
+                        "siblings"
+                    ],
+                    "emotions": [
+                        "informative"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Characters spotted in chapter 845 are quintuplets, including Opera, Counter, Cadenza, Cabaletta, and Gala, part of Big Mom's large family with many twins and triplets."
+            },
+            {
+                "number": 21,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "In the corner of page 58 of volume 83, is Nami wearing armor? Is that just a sign of how much she fears an Emperor of the Sea? And the way she takes it off in an instant is super impressive!! P.N. Kawamacho",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Uh, that was her gear from fighting the sea ants the night before. She changed because they reached the island. And now, we're out of time! See you in the SBS next volume!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "nami"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "impressed"
+                    ],
+                    "topics": [
+                        "clothing",
+                        "fear",
+                        "armor"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Nami's armor in volume 83 was from fighting sea ants, not a sign of fear for an Emperor of the Sea, and she changed upon reaching the island."
+            }
+        ],
+        "page": "150",
+        "chapter_number": "856",
+        "page_header": "SBS85 Header 7.png"
+    }
+]

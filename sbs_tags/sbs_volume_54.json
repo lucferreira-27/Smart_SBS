@@ -1,0 +1,1048 @@
+[
+    {
+        "qa": [
+            {
+                "number": 1,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I want to see Killer's face. -Choko",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yeah, me too.\n\n[[File:SBS54 1 Happiness Punch.png|right|120px]]",
+                        "matches": [
+                            [
+                                15,
+                                63,
+                                "File:SBS54 1 Happiness Punch.png|right|120px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS54 1 Happiness Punch.png",
+                        "size": "120",
+                        "start": 15,
+                        "end": 63
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "killer"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader wants to see Killer's face, and Oda agrees, but no specific details are given."
+            },
+            {
+                "number": 2,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hey, Oda. In volume 53, chapter 518, Hancock's \"Mero Mero Mellow\" had no effect on Luffy at all, but in volume 23, chapter 213, it looked like he had a reaction to Nami's \"Happiness Punch\". Why did he respond to Nami's naked body but no to Hancock's? Is Nami's body just that amazing? -Kazu\n\n[[File:SBS54 1 Mero Mero Mellow.png|right|115px]]",
+                        "matches": [
+                            [
+                                292,
+                                341,
+                                "File:SBS54 1 Mero Mero Mellow.png|right|115px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Wow, I got a lot of questions about this. Is this what you guys are paying attention to? Don't just read manga all day, go study some more!! Okay? Well, I say that, but I do nothing but draw manga. I noticed this when we were drawing it, but if Luffy had a nosebleed when he saw Hancock's body, I think you would all be like \"Ehh!?\". That's not the Luffy we know. I believe that Luffy reacted to Nami's naked body twice, in volumes 18 and 23, and both times it happened, Usopp was with him! He's the suspicious one! In other words, when Luffy is alone, his reaction is what it was with Hancock. He's interested, but he's not entranced by her. But when he's with Usopp, who's the same age, it's like a kid on a school trip: his bad side comes out!! Yeah, both sides of Luffy feel right to me, so the culprit is definitely Usopp!!",
+                        "matches": []
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS54 1 Mero Mero Mellow.png",
+                        "size": "115",
+                        "start": 292,
+                        "end": 341
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy",
+                        "nami",
+                        "hancock",
+                        "usopp"
+                    ],
+                    "places": [],
+                    "topics": [
+                        "character_reaction",
+                        "nudity",
+                        "manga_reading",
+                        "personality"
+                    ],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda explains that Luffy's reaction to Nami's nudity was due to Usopp's influence, while Luffy's lack of reaction to Hancock was because he was alone and not entranced."
+            }
+        ],
+        "page": "26",
+        "chapter_number": "523",
+        "page_header": "SBS Vol 54 Chap 523 header.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 3,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Nice to meet you. I'm always reading One Piece. Here's my question: when I reread from volume 1, I noticed that Luffy doesn't have a lot of thought bubbles. Why is that? Thanks for your answer. -Mizuiro Ribon\n\n[[File:SBS54 2 Luffy.png|right|120px]]",
+                        "matches": [
+                            [
+                                210,
+                                248,
+                                "File:SBS54 2 Luffy.png|right|120px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I see~ You've noticed something interesting in the 54 volumes we have. Just like how I write \"ore\" in hiragana, I've just been doing it for so long that it's become something like my policy. I decided this in the beginning. For Luffy, it would be something like,\n\n[[File:SBS54 2 Luffy's Thoughts.png|500px]]\n\nThis is the kind of stuff that goes on in Luffy's mind. For the readers, I wanted to make him a straight shooting kind of man, so I wrote him thinking like, \"If he's thinking it, he'll say it\" and \"Action speaks louder than words\". In the Sky Island arc, he dealt with the Mont Blanc Cricket situation by saying thing in his heart, but he's saying it with the same voice, so I decided that it was OK. From, here on, Luffy will act before he thinks!!\n\n[[File:SBS54 2 Wanze.png|right|70px]]",
+                        "matches": [
+                            [
+                                264,
+                                307,
+                                "File:SBS54 2 Luffy's Thoughts.png|500px"
+                            ],
+                            [
+                                760,
+                                797,
+                                "File:SBS54 2 Wanze.png|right|70px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS54 2 Luffy.png",
+                        "size": "120",
+                        "start": 210,
+                        "end": 248
+                    },
+                    {
+                        "file": "SBS54 2 Luffy's Thoughts.png",
+                        "size": "500",
+                        "start": 264,
+                        "end": 307
+                    },
+                    {
+                        "file": "SBS54 2 Wanze.png",
+                        "size": "70",
+                        "start": 760,
+                        "end": 797
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy",
+                        "mont_blanc_cricket",
+                        "wanze"
+                    ],
+                    "places": [
+                        "sky_island"
+                    ],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "luffy's_thoughts",
+                        "character_development"
+                    ],
+                    "importance": [
+                        "high"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda explains that Luffy's lack of thought bubbles is intentional, reflecting his straightforward nature and 'action speaks louder than words' philosophy."
+            },
+            {
+                "number": 4,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda! Your fly is... ah, forget that part. Anyway, here's my question: is one of the Yonko Wanze? My friends are all interested. -School-skipping pirates",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Uh... Is my fly okay!? I'm seriously worried... Really, is it okay!!?\n\n[[File:SBS54 2 Marigold.png|right|65px]]",
+                        "matches": [
+                            [
+                                71,
+                                111,
+                                "File:SBS54 2 Marigold.png|right|65px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS54 2 Marigold.png",
+                        "size": "65",
+                        "start": 71,
+                        "end": 111
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "wanze"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "yonko",
+                        "funny"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "Reader asks if one of the Yonko is Wanze, Oda responds in concern about his fly being open."
+            },
+            {
+                "number": 5,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I have a question. In chapter 521, on page 183, in Lady Hebihime's flashback scene, it looks like Marigold is thinner! And she was quite the hottie too!! What happened to her!? Please tell me. ? - I love Chopper?",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "She didn't get fatter! It's muscle! She got stronger! She put on some muscles!! She's just eating chanko<sup><font color=\"RED\">1</font></sup>!!\n\n<sup><font color=\"RED\">1</font></sup>A type of stew that sumo wrestlers traditionally eat.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "marigold"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "character_fashion",
+                        "physical_change",
+                        "food"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Marigold got stronger and put on muscles, she's just eating chanko, a stew that sumo wrestlers traditionally eat."
+            }
+        ],
+        "page": "46",
+        "chapter_number": "524",
+        "page_header": "SBS Vol 54 Chap 524 header.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 6,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Starting with Lady Hebihime, I've totally fallen for the cool and cute Kuja girls, especially that wild girl with the jacket who smokes. However, I don't know any of their names! Like that girl who takes memos and the other Kuja pirates. Please tell me their names! -Ice Fish",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "The Kuja girls? That's a pretty cool name for them. Well, they do have names, and it's not like people don't want to know them, so here are some pages from my sketchbook. People who have free time can check these out.\n\n[[File:SBS54 3 Kuja.png|thumb|center|450px|<span style=\"font-size:0.95em;\">[[Ran]], [[Rindo]], [[Daisy]], [[Cosmos]], [[Blue Fan]] ([[Kuja Pirates]]); [[Nerine]] (memo-freak); [[Belladonna]] ([[doctor]]); [[Enishida]] (maid).</span>]]\n\n[[File:SBS54 3 Absalom.png|right|70px]]",
+                        "matches": [
+                            [
+                                219,
+                                301,
+                                "File:SBS54 3 Kuja.png|thumb|center|450px|<span style=\"font-size:0.95em;\">[[Ran"
+                            ],
+                            [
+                                303,
+                                312,
+                                "Rindo"
+                            ],
+                            [
+                                314,
+                                323,
+                                "Daisy"
+                            ],
+                            [
+                                325,
+                                335,
+                                "Cosmos"
+                            ],
+                            [
+                                337,
+                                349,
+                                "Blue Fan"
+                            ],
+                            [
+                                351,
+                                367,
+                                "Kuja Pirates"
+                            ],
+                            [
+                                370,
+                                380,
+                                "Nerine"
+                            ],
+                            [
+                                395,
+                                409,
+                                "Belladonna"
+                            ],
+                            [
+                                411,
+                                421,
+                                "doctor"
+                            ],
+                            [
+                                424,
+                                436,
+                                "Enishida"
+                            ],
+                            [
+                                455,
+                                494,
+                                "File:SBS54 3 Absalom.png|right|70px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS54 3 Kuja.png",
+                        "size": "450",
+                        "start": 219,
+                        "end": 301
+                    },
+                    {
+                        "file": "SBS54 3 Absalom.png",
+                        "size": "70",
+                        "start": 455,
+                        "end": 494
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Rindo",
+                        "link_title": "/wiki/Rindo",
+                        "is_wikipedia": false,
+                        "start": 303,
+                        "end": 312
+                    },
+                    {
+                        "text": "Daisy",
+                        "link_title": "/wiki/Daisy",
+                        "is_wikipedia": false,
+                        "start": 314,
+                        "end": 323
+                    },
+                    {
+                        "text": "Cosmos",
+                        "link_title": "/wiki/Cosmos",
+                        "is_wikipedia": false,
+                        "start": 325,
+                        "end": 335
+                    },
+                    {
+                        "text": "Blue Fan",
+                        "link_title": "/wiki/Blue Fan",
+                        "is_wikipedia": false,
+                        "start": 337,
+                        "end": 349
+                    },
+                    {
+                        "text": "Kuja Pirates",
+                        "link_title": "/wiki/Kuja Pirates",
+                        "is_wikipedia": false,
+                        "start": 351,
+                        "end": 367
+                    },
+                    {
+                        "text": "Nerine",
+                        "link_title": "/wiki/Nerine",
+                        "is_wikipedia": false,
+                        "start": 370,
+                        "end": 380
+                    },
+                    {
+                        "text": "Belladonna",
+                        "link_title": "/wiki/Belladonna",
+                        "is_wikipedia": false,
+                        "start": 395,
+                        "end": 409
+                    },
+                    {
+                        "text": "doctor",
+                        "link_title": "/wiki/doctor",
+                        "is_wikipedia": false,
+                        "start": 411,
+                        "end": 421
+                    },
+                    {
+                        "text": "Enishida",
+                        "link_title": "/wiki/Enishida",
+                        "is_wikipedia": false,
+                        "start": 424,
+                        "end": 436
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "ran",
+                        "rindo",
+                        "daisy",
+                        "cosmos",
+                        "blue_fan",
+                        "nerine",
+                        "belladonna",
+                        "enishida"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "informative"
+                    ],
+                    "topics": [
+                        "kuja_pirates",
+                        "characters",
+                        "sketchbook"
+                    ],
+                    "importance": [
+                        "high"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda provides the names of various Kuja girls including Ran, Rindo, Daisy, Cosmos and Nerine who is the 'memo-freak'."
+            },
+            {
+                "number": 7,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Sensei... what would you do if you ate the [[Suke Suke no Mi]]? P.N. Kikori",
+                        "matches": [
+                            [
+                                43,
+                                62,
+                                "Suke Suke no Mi"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "EHEH \u2661 ...... bo<nowiki>~~~~</nowiki>... ehehe...\u2661 ...Ah!! Next please.\n\n[[File:SBS54 3 Buggy in Newspaper.png|right|80px]]",
+                        "matches": [
+                            [
+                                73,
+                                123,
+                                "File:SBS54 3 Buggy in Newspaper.png|right|80px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS54 3 Buggy in Newspaper.png",
+                        "size": "80",
+                        "start": 73,
+                        "end": 123
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Suke Suke no Mi",
+                        "link_title": "/wiki/Suke Suke no Mi",
+                        "is_wikipedia": false,
+                        "start": 43,
+                        "end": 62
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy",
+                        "roronoa_zoro",
+                        "nami",
+                        "sanji",
+                        "tony_tony_chopper",
+                        "robin",
+                        "franky",
+                        "brook",
+                        "jinbe",
+                        "buggy"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "evasive",
+                        "playful"
+                    ],
+                    "topics": [
+                        "devil_fruit"
+                    ],
+                    "importance": [
+                        "low"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "D asks what Oda would do if he ate the Suke Suke no Mi, but Oda laughs and moves on to the next question."
+            },
+            {
+                "number": 8,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Good mortening<sup><font color=\"RED\">2</font></sup>!! Hey Odacchi, in volume 53, on page 193, in the third panel, Elder Nyon is reading a newspaper, and Buggy is in it. Was he finally caught!? What happened to him? -Okage",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "You guys were reading that closely again... My readers' eyes are scary good. That's right. That's definitely Buggy. If you read this volume then, you'd find out that what happened to him, right!? He was caught! What happened was that he went to what he thought was Captain John's treasure cave, but it was actually a Marine garrison, and so he was caught! Or so it says in the article.\n\n<sup><font color=\"RED\">2</font></sup>A play on morning, afternoon and evening.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "buggy",
+                        "elder_nyon",
+                        "captain_john"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "buggy_captured",
+                        "captain_john_treasure",
+                        "marine_garrison"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Elder Nyon was seen reading a newspaper with a story about Buggy being caught after entering a Marine garrison while seeking treasure."
+            }
+        ],
+        "page": "86",
+        "chapter_number": "526",
+        "page_header": "SBS Vol 54 Chap 526 header.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 9,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello, Oda. This is the first letter I've written to you. I always have fun reading. Really. So when you wrote in a SBS in volume 53 that you were going to slowly bring One Piece to a close, I ran to get a pen. Please don't say anything like that again. Don't say you're sorry for making us spent money, please. I know that this is a SBS, but I don't have any questions. - Taba",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "What do you mean no question!! But after I said that in [[SBS Volume 53#Chapter 520, Page 168|Volume 53]], I got a mountain of postcards like this, so I was surprised. There's no deep meaning behind it! Um, first, when I was talking about an ideal length of publication, I was thinking about the readers who have to buy all of the books. As an author, I always want new readers, but people who started reading in the middle, for example, might not know that Luffy was the first member of the Straw Hat Pirates. [[File:SBS54 4 Romance Dawn.png|right|120px]] I want them to know what kind of adventures they had and the friends they made along the way, but I can't just tell them to buy more than 50 books, right!? Even I know that kids don't have that kind of money! To deal with this and let people know the past story, we've made several summary books. But this time, My desire to make it as cheap as possible has been granted by two companies, \"Caramel Mama\" and \"Hearty Way!\" It's too cheap!! Because it's free!! Nice fight, guys!! They've made a site called \"[http://www.j-onepiece.com ONE PIECE WEB]\"! It has a perfect story guide. It explains the entire past story!! kids who can't afford all of the books can just go to this site! Access it! (Adults, you go buy the books, please.) So when I said that before, it was because I was worried about this, so I apologize. It's not like I'm losing my passion. I've only wanted to do one thing from the beginning, and that's to tell lots of stories and make an interesting manga until the end. In the big picture, One Piece is roughly in its middle third. If you have time, please stay with us. I'll always fight to make a story unlike any you've read before. And check out the website too!!",
+                        "matches": [
+                            [
+                                56,
+                                105,
+                                "SBS Volume 53#Chapter 520, Page 168|Volume 53"
+                            ],
+                            [
+                                511,
+                                556,
+                                "File:SBS54 4 Romance Dawn.png|right|120px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS54 4 Romance Dawn.png",
+                        "size": "120",
+                        "start": 511,
+                        "end": 556
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Volume 53",
+                        "link_title": "/wiki/SBS Volume 53#Chapter 520, Page 168",
+                        "is_wikipedia": false,
+                        "start": 56,
+                        "end": 105
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "apologetic",
+                        "passionate"
+                    ],
+                    "topics": [
+                        "publication_length",
+                        "One_Piece_WEB",
+                        "SBS_volume_53"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda reassures readers about his passion for storytelling and addresses concerns about the length of the series, mentioning a free website for new readers to catch up on the story."
+            }
+        ],
+        "page": "106",
+        "chapter_number": "527",
+        "page_header": "SBS Vol 54 header.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 10,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Mr. Oda. It looks like Boa Hancock appeared on the Jump cover 9 years ago! I was very surprised. Is that really her? Tell Me! - PX-10000",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Wow, that really surprised me!! This was unexpected. Thank you, person on the Internet who found this. I honestly forgot about it myself. This picture is from \"Color Works 2\", an illustration collection. But at about that time, the story was entering the Grand Line, so I was asked to draw some enemies that would appear in the background, so I drew about four, and one of them was indeed Hancock. Naturally, when she actually appeared, I changed some things. But it's true that 9 years ago, I drew the Shichibukai Boa Hancock, Yup.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "boa_hancock"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "surprised",
+                        "thankful"
+                    ],
+                    "topics": [
+                        "jump_cover",
+                        "color_works_2",
+                        "grand_line",
+                        "shichibukai"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda confirms Boa Hancock appeared on a Jump cover 9 years ago, from an illustration collection, as a background enemy before her proper introduction."
+            },
+            {
+                "number": 11,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchi, hello. I'm writing a letter from Liguria (a region of Italy, not as cool as Water Seven, though). When Spandine lands at Ohara, there are two agents with him, and I'd like to know if they have any connection with the current CP9 agents. Especially the man with glasses - I think he looks kinda like what Kalifa's dad would look like... Thanks For creating Robin!!! -Dario\n\n[[File:SBS54 5 Laskey.png|right|70px]]",
+                        "matches": [
+                            [
+                                382,
+                                420,
+                                "File:SBS54 5 Laskey.png|right|70px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "It's Kalifa's dad! Yup, that's really the case. But I didn't really drop any hints about this, so I just decided on a whim to make him Kalifa's dad, and there's some backstory about that. The majority of CP9 is made up of orphaned children who were left to the government, but I thought it would be interesting if they also had the children of CP9 members, kind of like thoroughbreds. Kumadori's mom is different.",
+                        "matches": []
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS54 5 Laskey.png",
+                        "size": "70",
+                        "start": 382,
+                        "end": 420
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "spandine",
+                        "kalifa",
+                        "kumadori",
+                        "robin"
+                    ],
+                    "places": [
+                        "ohara",
+                        "water_seven"
+                    ],
+                    "emotions": [
+                        "informative",
+                        "interesting"
+                    ],
+                    "topics": [
+                        "cp9",
+                        "robin_creation",
+                        "backstory"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "Spandine's agents at Ohara include the man with glasses, who is revealed to be Kalifa's dad, adding to the backstory of CP9 members' lineage."
+            }
+        ],
+        "page": "126",
+        "chapter_number": "528",
+        "page_header": "SBS Vol 54 Chap 528 header.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 12,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello Oda-sensei. I found out something about Nami's attacks. When she was fighting Kalifa, she used Mirage Tempo Fata Morgana, right? According to a book, that's the name of a famous witch, Morgana... But it's also a mirage that occurs in the Italian sea? Mmm, I don't really get it. Could you please explain this? -Leiru",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Sure. I see. There are lots of explanations here. First, I named it after a mirage that can be seen on the island of Sicily in the Italian sea, which was in turn named after an illusionary fairy, called \"Fata Morgana.\" But a witch named Morgana also appears in a European legend. I'm not really sure about the details. Either way, people thought that the mirage was something mysterious that the witch had done, so they named it after her.\n\n[[File:SBS54 6 Hancock Shanks Birthdays.png|right|60px]]",
+                        "matches": [
+                            [
+                                441,
+                                497,
+                                "File:SBS54 6 Hancock Shanks Birthdays.png|right|60px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS54 6 Hancock Shanks Birthdays.png",
+                        "size": "60",
+                        "start": 441,
+                        "end": 497
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "nami",
+                        "kalifa"
+                    ],
+                    "places": [
+                        "sicily",
+                        "italian_sea"
+                    ],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "nami's_attacks",
+                        "mirages",
+                        "fata_morgana",
+                        "witch_legend"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Nami's attack is named after the Italian sea mirage Fata Morgana, which was in turn named after an illusionary fairy, but also relates to the European legend of the witch Morgana."
+            },
+            {
+                "number": 13,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Please Make Hancock's birthday September 2. Please. 9 (ku) / 2 (ja). -SUN",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Kay.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "boa_hancock"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "birthday",
+                        "character_insertion"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "SBS question asking for Boa Hancock's birthday to be September 2, and Oda agrees."
+            },
+            {
+                "number": 14,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "It's about time for you to pick a birthday for Shanks!! I came up with 3/9, For Shan (3) kusu (9). Oda!! Please decide!! Please!! -Purin",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Okay, that's fine.\n\n[[File:SBS54 6 Koropokkuru.png|right|120px]]{{-}}",
+                        "matches": [
+                            [
+                                20,
+                                64,
+                                "File:SBS54 6 Koropokkuru.png|right|120px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS54 6 Koropokkuru.png",
+                        "size": "120",
+                        "start": 20,
+                        "end": 64
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "shanks"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "happy"
+                    ],
+                    "topics": [
+                        "birthday",
+                        "character"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "Reader suggests a birthday for Shanks, and Oda agrees with their suggestion."
+            }
+        ],
+        "page": "146",
+        "chapter_number": "529",
+        "page_header": "SBS Vol 54 Chap 529 header.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 14,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "N/A",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Best, answer! Yes. That's great, let's do this whole thing seriously, just like that. So do you know what SBS stands for? Make it cute if you can.\n\nA: Okay, I got it. Useless idiots should be beaten<sup><font color=\"RED\">3</font></sup>. ?\n\n<sup><font color=\"RED\">3</font></sup>(S)houmonai (B)aka wa (S)hibuku wa yo",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "So scary!! Wait. I just introduced you as a sweet older sister type!! Don't destroy the kids' dreams, please!\n\nA: Eh? No good? Then I'll try again. Boys like that should be beaten<sup><font color=\"RED\">4</font></sup>. ?\n\n<sup><font color=\"RED\">4</font></sup>(S)onna (B)ouya wa (S)hibuku wa yo",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Do you have to use \"beating\"!? Let's just start, here are the postcards. (Dosa). Please do your best!!\n\nA: Right, I'll take care of it. ?\n\nNEXT TIME, ON VOICE ACTOR SBS\n\nNext time and the time after that, we have these two!! Don't leave anything unsaid!!\n\nUsopp (Yamaguchi Kappei)\n\nSanji (Hirata Hiroaki)",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "usopp",
+                        "sanji"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "SBS_meaning",
+                        "voice_actor_SBS"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda and an assistant discuss the meaning of SBS, with the assistant playfully suggesting beating 'useless idiots' and 'boys like that.' Oda reprimands and announces upcoming voice actor interviews."
+            }
+        ],
+        "page": "166",
+        "chapter_number": "530",
+        "page_header": "SBS Vol 54 Chap 530 header.png"
+    },
+    {
+        "qa": [],
+        "page": "206",
+        "chapter_number": "532",
+        "page_header": "SBS Vol 54 Chap 532 header.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 25,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello, [[Wikipedia:Akemi Okamura|Ms. Okamura]]! Here's my question: In the previous and the previous previous voice actor SBS, Ms. Tanaka and Mr. Nakai said that they strive for realism when they perform, so do you do the same? If so, when you did the \"Happiness Punch,\" how did you... Uh, never Mind. Forget I said anything. -Nami Fan Club Member no. 73\n\nA: Of course I work for realism too. When we did that, I didn't even wear under-WHA? ARE YOU TRYING TO GET ME ????!?",
+                        "matches": [
+                            [
+                                7,
+                                46,
+                                "Wikipedia:Akemi Okamura|Ms. Okamura"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "That's not negative at all!!! Right. Time's up, Ms. Okamura. The next question is kinda dangerous, so it might be better if you avoided it.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Ms. Okamura",
+                        "link_title": "/wiki/Wikipedia:Akemi Okamura",
+                        "is_wikipedia": false,
+                        "start": 7,
+                        "end": 46
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "nami"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "surprised",
+                        "playful"
+                    ],
+                    "topics": [
+                        "voice_acting",
+                        "realism"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A fan asks Ms. Okamura if she strives for realism in her voice acting, but things get awkward when she mentions the 'Happiness Punch'; Oda intervenes to avoid a potentially sensitive topic."
+            },
+            {
+                "number": 26,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "To Ms. Nami's Question Corner SBS: There are lots of scenes where Nami hits the other characters, so do you really hit the other cast members? You guys work for realism, right? And why don't you hit Chopper very much? Is it because he's cute? -Tanuki\n\nA: Of course I do it for real. And I don't hit Chopper because his voice actress is my senior at the office, you know!? (Adult conversation ?)",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "You've got too many demands!! Ah... She's gone. Farewell, Ms. Okamura. And thank you! Voice actor SBS! See you next time!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "nami",
+                        "chopper"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "playful"
+                    ],
+                    "topics": [
+                        "voice_actor_relationship"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "Nami's voice actress asks if she hits other characters for realism, and Oda jokes she hits for real and avoids hitting Chopper because his voice actress is his senior."
+            }
+        ],
+        "page": "207",
+        "chapter_number": "532",
+        "page_header": "SBS54 1 Happiness Punch.png"
+    }
+]

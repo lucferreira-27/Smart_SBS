@@ -1,0 +1,1018 @@
+[
+    {
+        "qa": [
+            {
+                "number": 1,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "One day, I heard a voice. \"Give me the order!!\" It was the voice of Zunesha. So I asked, \"What order?\" And Zunesha said, \"Order me...to start the SBS!!!\" So...start the SBS!!! P.N. Middle-Aged Man Who Wants to Eat the Clear-Clear Fruit",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Aaaah!! It's Zunesha!! Zunesha is starting the SBS!! Run away!! Aaah...eeek...",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "zunesha"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [],
+                    "importance": "normal",
+                    "isCharacterInsertion": true
+                },
+                "summary": "The reader hears a voice from Zunesha, the elephant, asking to start the Q&A session, frightening Oda."
+            },
+            {
+                "number": 2,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "When I try to pet my cat during the dry season, I get a little electric prickle. Could my cat be a mink? P.N. Year of the China Rabbit Y",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "That is absolutely a mink. Watch out\u2014it might be waiting for the dawn of the world, or hiding a ninja.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "mink",
+                        "electric_prickle"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "D wants to know if their cat is a mink due to getting an electric shock when petting it, and Oda humorously confirms it by saying to watch out for its ninja skills."
+            },
+            {
+                "number": 3,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I want to be Momonosuke!! P.N. Captain Nobuo",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I understand. Let me be clear: \"On the inside, every man was once Momonosuke.\" And your heart will be Momonosuke for eternity!! I'm not there yet, but I hope to be Momonosuke when I am an old geezer!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "momonosuke"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "inspirational"
+                    ],
+                    "topics": [
+                        "aspiration",
+                        "personal development"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Eiichiro Oda reassures a reader that everyone was once like Momonosuke on the inside and hopes to be like him in old age."
+            },
+            {
+                "number": 4,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Does Hancock's cooking taste good? P.N. Eryngii",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "It used to be bad, but she's gotten much better at cooking meat over the last two years. It looks good, but only Luffy's eaten it, so who really knows.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "boa_hancock",
+                        "monkey_d_luffy"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "cooking",
+                        "character_development"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Hancock's cooking used to be bad, but she's now good at cooking meat, although only Luffy has tasted it."
+            },
+            {
+                "number": 5,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "In what order did Bepo, Penguin and Shachi join the Heart Pirates? P.N. Amefurashi",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "It's a long answer, but so many people asked that I decided to run through it here. You've read the backstory of Law in volumes 76 and 77. After the incident 13 years ago, Law wandered into the next town over on [[Swallow Island]], crying his eyes out.\n*[[Shachi]] and [[Penguin]] were snotty little kids growing up on [[Swallow Island]] in the [[North Blue]].\n*Fourteen years ago, [[Bepo]] left [[Zou]] in search of his older brother, got on a ship to the North Blue, and wound up on Swallow Island a year later.\n*On the edge of town, Law spotted two young ruffians picking on a polar bear. When they turned on him next, he ended up beating them and saving the polar bear. Ultimately, all three of them wound up respecting and following him.\n\n[[File:SBS84 Heart.png|200px|right]]\n**[[Trafalgar D. Water Law|Law]], age 13 (now 26)\n**[[Penguin]], age 15 (now 28)\n**[[Shachi]], age 14 (now 27)\n**[[Bepo]], age 9 (now 22)\n\n*Bepo studied seafaring and navigation in the hopes of returning to Zou. Eventually, the four of them founded the Heart Pirates together. So the answer to your question is \"at the same time\"! You won't see this in the manga!",
+                        "matches": [
+                            [
+                                212,
+                                230,
+                                "Swallow Island"
+                            ],
+                            [
+                                254,
+                                264,
+                                "Shachi"
+                            ],
+                            [
+                                269,
+                                280,
+                                "Penguin"
+                            ],
+                            [
+                                319,
+                                337,
+                                "Swallow Island"
+                            ],
+                            [
+                                345,
+                                359,
+                                "North Blue"
+                            ],
+                            [
+                                382,
+                                390,
+                                "Bepo"
+                            ],
+                            [
+                                396,
+                                403,
+                                "Zou"
+                            ],
+                            [
+                                744,
+                                780,
+                                "File:SBS84 Heart.png|200px|right"
+                            ],
+                            [
+                                783,
+                                813,
+                                "Trafalgar D. Water Law|Law"
+                            ],
+                            [
+                                833,
+                                844,
+                                "Penguin"
+                            ],
+                            [
+                                864,
+                                874,
+                                "Shachi"
+                            ],
+                            [
+                                894,
+                                902,
+                                "Bepo"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS84 Heart.png",
+                        "size": "200",
+                        "start": 744,
+                        "end": 780
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Law",
+                        "link_title": "/wiki/Trafalgar D. Water Law",
+                        "is_wikipedia": false,
+                        "start": 783,
+                        "end": 813
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Swallow Island",
+                        "link_title": "/wiki/Swallow Island",
+                        "is_wikipedia": false,
+                        "start": 212,
+                        "end": 230
+                    },
+                    {
+                        "text": "Shachi",
+                        "link_title": "/wiki/Shachi",
+                        "is_wikipedia": false,
+                        "start": 254,
+                        "end": 264
+                    },
+                    {
+                        "text": "Penguin",
+                        "link_title": "/wiki/Penguin",
+                        "is_wikipedia": false,
+                        "start": 269,
+                        "end": 280
+                    },
+                    {
+                        "text": "Swallow Island",
+                        "link_title": "/wiki/Swallow Island",
+                        "is_wikipedia": false,
+                        "start": 319,
+                        "end": 337
+                    },
+                    {
+                        "text": "North Blue",
+                        "link_title": "/wiki/North Blue",
+                        "is_wikipedia": false,
+                        "start": 345,
+                        "end": 359
+                    },
+                    {
+                        "text": "Bepo",
+                        "link_title": "/wiki/Bepo",
+                        "is_wikipedia": false,
+                        "start": 382,
+                        "end": 390
+                    },
+                    {
+                        "text": "Zou",
+                        "link_title": "/wiki/Zou",
+                        "is_wikipedia": false,
+                        "start": 396,
+                        "end": 403
+                    },
+                    {
+                        "text": "Penguin",
+                        "link_title": "/wiki/Penguin",
+                        "is_wikipedia": false,
+                        "start": 833,
+                        "end": 844
+                    },
+                    {
+                        "text": "Shachi",
+                        "link_title": "/wiki/Shachi",
+                        "is_wikipedia": false,
+                        "start": 864,
+                        "end": 874
+                    },
+                    {
+                        "text": "Bepo",
+                        "link_title": "/wiki/Bepo",
+                        "is_wikipedia": false,
+                        "start": 894,
+                        "end": 902
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "bepo",
+                        "penguin",
+                        "shachi",
+                        "trafalgar_d_water_law"
+                    ],
+                    "places": [
+                        "swallow_island",
+                        "north_blue",
+                        "zou"
+                    ],
+                    "emotions": [
+                        "nostalgic"
+                    ],
+                    "topics": [
+                        "heart_pirates_backstory",
+                        "trafalgar_d_water_law_backstory",
+                        "north_blue",
+                        "zou"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Bepo, Penguin, and Shachi all joined the Heart Pirates at the same time, as explained in Law's backstory in volumes 76 and 77."
+            },
+            {
+                "number": 6,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I was born on June 13th, but I don't share a birthday with any character. I was trying to think of one so I didn't feel so lonely, and then I realized that 6 can stand for \"Mugiwara\" and 13 can be read as \"Ichimi\"! So how about if June 13th is \"Straw Hat Crew Day\"?! It's a party!!! P.N. cherry",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "What?! If you think you can get away with that...you're right! I also got some suggestions for the Donquixote Family members from Andy and Mary's Lamb...but I won't just take them without a fight! Here are the birthdays and the phrases the numbers stand for in Japanese...\n[[File:SBS84 Birthday.png|right|300px]]\n*[[Diamante]]: May 29th (\"Colosseum Flag\")\n*[[Trebol]]: March 18th (\"Chief of Staff's Boogers\")\n*[[Vergo]]: July 5th (G-5, with G being the seventh letter)\n*[[Senor Pink]]: June 12th (Lover's Day)\n*[[Sugar]]: October 22nd (Looks 10, actually 22)\n*[[Giolla]]: January 25th (National Beauty Day)\n*[[Dellinger]]: August 11th (\"High Heels\")\n*[[Gladius]]: August 6th (\"Pamu Pamu\")\n*[[Machvise]]: August 13th (\"Vise\")\n*[[Lao G]]: October 7th (\"Old Geezer\")\n*[[Buffalo]]: April 8th (National Tire Day)",
+                        "matches": [
+                            [
+                                273,
+                                312,
+                                "File:SBS84 Birthday.png|right|300px"
+                            ],
+                            [
+                                314,
+                                326,
+                                "Diamante"
+                            ],
+                            [
+                                357,
+                                367,
+                                "Trebol"
+                            ],
+                            [
+                                410,
+                                419,
+                                "Vergo"
+                            ],
+                            [
+                                470,
+                                484,
+                                "Senor Pink"
+                            ],
+                            [
+                                511,
+                                520,
+                                "Sugar"
+                            ],
+                            [
+                                560,
+                                570,
+                                "Giolla"
+                            ],
+                            [
+                                608,
+                                621,
+                                "Dellinger"
+                            ],
+                            [
+                                651,
+                                662,
+                                "Gladius"
+                            ],
+                            [
+                                690,
+                                702,
+                                "Machvise"
+                            ],
+                            [
+                                726,
+                                735,
+                                "Lao G"
+                            ],
+                            [
+                                765,
+                                776,
+                                "Buffalo"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS84 Birthday.png",
+                        "size": "300",
+                        "start": 273,
+                        "end": 312
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Diamante",
+                        "link_title": "/wiki/Diamante",
+                        "is_wikipedia": false,
+                        "start": 314,
+                        "end": 326
+                    },
+                    {
+                        "text": "Trebol",
+                        "link_title": "/wiki/Trebol",
+                        "is_wikipedia": false,
+                        "start": 357,
+                        "end": 367
+                    },
+                    {
+                        "text": "Vergo",
+                        "link_title": "/wiki/Vergo",
+                        "is_wikipedia": false,
+                        "start": 410,
+                        "end": 419
+                    },
+                    {
+                        "text": "Senor Pink",
+                        "link_title": "/wiki/Senor Pink",
+                        "is_wikipedia": false,
+                        "start": 470,
+                        "end": 484
+                    },
+                    {
+                        "text": "Sugar",
+                        "link_title": "/wiki/Sugar",
+                        "is_wikipedia": false,
+                        "start": 511,
+                        "end": 520
+                    },
+                    {
+                        "text": "Giolla",
+                        "link_title": "/wiki/Giolla",
+                        "is_wikipedia": false,
+                        "start": 560,
+                        "end": 570
+                    },
+                    {
+                        "text": "Dellinger",
+                        "link_title": "/wiki/Dellinger",
+                        "is_wikipedia": false,
+                        "start": 608,
+                        "end": 621
+                    },
+                    {
+                        "text": "Gladius",
+                        "link_title": "/wiki/Gladius",
+                        "is_wikipedia": false,
+                        "start": 651,
+                        "end": 662
+                    },
+                    {
+                        "text": "Machvise",
+                        "link_title": "/wiki/Machvise",
+                        "is_wikipedia": false,
+                        "start": 690,
+                        "end": 702
+                    },
+                    {
+                        "text": "Lao G",
+                        "link_title": "/wiki/Lao G",
+                        "is_wikipedia": false,
+                        "start": 726,
+                        "end": 735
+                    },
+                    {
+                        "text": "Buffalo",
+                        "link_title": "/wiki/Buffalo",
+                        "is_wikipedia": false,
+                        "start": 765,
+                        "end": 776
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "diamante",
+                        "trebol",
+                        "vergo",
+                        "senor_pink",
+                        "sugar",
+                        "giolla",
+                        "dellinger",
+                        "gladius",
+                        "machvise",
+                        "lao_g",
+                        "buffalo"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "excited"
+                    ],
+                    "topics": [
+                        "birthday",
+                        "Straw Hat Crew Day",
+                        "Donquixote Family members"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader proposes June 13th as Straw Hat Crew Day, and Oda jokingly approves, also listing birthdays and their associated phrases for the Donquixote Family members."
+            },
+            {
+                "number": 8,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Is this all right?",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Hey, you!! I'm sorry to say that I've taken a hard look at these, and...they pass!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "apologetic"
+                    ],
+                    "topics": [],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda approves of something the reader has shown him, indicating it's acceptable."
+            },
+            {
+                "number": 9,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "What do you think?{{-}}",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Them?!! Why?! Why would you want to know?! I mean, okay, but...!\n[[File:SBS84 Age.png|right|300px]]\n*[[Buggy]]: 39 (same as Shanks)\n*[[Kuro]]: 35\n*[[Krieg]]: 44\n*[[Wapol]]: 29\n*[[Foxy]]: 38{{-}}",
+                        "matches": [
+                            [
+                                65,
+                                99,
+                                "File:SBS84 Age.png|right|300px"
+                            ],
+                            [
+                                101,
+                                110,
+                                "Buggy"
+                            ],
+                            [
+                                133,
+                                141,
+                                "Kuro"
+                            ],
+                            [
+                                147,
+                                156,
+                                "Krieg"
+                            ],
+                            [
+                                162,
+                                171,
+                                "Wapol"
+                            ],
+                            [
+                                177,
+                                185,
+                                "Foxy"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS84 Age.png",
+                        "size": "300",
+                        "start": 65,
+                        "end": 99
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Buggy",
+                        "link_title": "/wiki/Buggy",
+                        "is_wikipedia": false,
+                        "start": 101,
+                        "end": 110
+                    },
+                    {
+                        "text": "Kuro",
+                        "link_title": "/wiki/Kuro",
+                        "is_wikipedia": false,
+                        "start": 133,
+                        "end": 141
+                    },
+                    {
+                        "text": "Krieg",
+                        "link_title": "/wiki/Krieg",
+                        "is_wikipedia": false,
+                        "start": 147,
+                        "end": 156
+                    },
+                    {
+                        "text": "Wapol",
+                        "link_title": "/wiki/Wapol",
+                        "is_wikipedia": false,
+                        "start": 162,
+                        "end": 171
+                    },
+                    {
+                        "text": "Foxy",
+                        "link_title": "/wiki/Foxy",
+                        "is_wikipedia": false,
+                        "start": 177,
+                        "end": 185
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "buggy",
+                        "shanks",
+                        "kuro",
+                        "krieg",
+                        "wapol",
+                        "foxy"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "surprised"
+                    ],
+                    "topics": [
+                        "age",
+                        "characters"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda provides ages for various One Piece characters in a humorous response to the reader's question."
+            },
+            {
+                "number": 10,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello, Oda-sensei. Please tell me the ages of Buggy, Kuro, Krieg, Wapol, and Foxy.",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Actually, it's not that they built a castle that turned all ''werrrp'', it's that they built it to the exact specifications to achieve that level of ''werrrp''. If anything, the people who live there are extremely exacting and uptight!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "buggy",
+                        "kuro",
+                        "krieg",
+                        "wapol",
+                        "foxy"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "age",
+                        "personality"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda didn't answer the reader's question about the ages of characters, but instead commented on the specifications of a castle."
+            },
+            {
+                "number": 11,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "The Germa castle is kinda ''werrrp''. Does that mean the people inside live their lives kind of ''werpy''? P.N. Luck",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Well, he's very confident in his fortune-telling, so I daresay he would wear it. His leg hair is quite thick.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [
+                        "germa_castle"
+                    ],
+                    "emotions": [
+                        "silly"
+                    ],
+                    "topics": [
+                        "fortune_telling",
+                        "leg_hair"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "The reader asks if the Germa castle residents live their lives 'werpy', and Oda responds about a character being confident in his fortune-telling and having thick leg hair."
+            },
+            {
+                "number": 12,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello, Oda Sensei! Basil Hawkins takes his horoscopes and fortunes seriously when he acts. If his lucky item for the day was a miniskirt, would he wear it? P.N. Moss Mink",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Does everyone remember Sterry? He was Sabo's foster brother in Luffy's flashback from Volume 60. Somehow, in the present day, he's worked himself into the royal family and become king! What a punk! And I figured his queen was probably a horrible person too, so I gave her a lazy name! Isntoinette! What kind of name is that?! Don't worry! I'm sure your angry wife is way better than her!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "basil_hawkins",
+                        "sterry",
+                        "sabo",
+                        "isntoinette"
+                    ],
+                    "places": [],
+                    "topics": [
+                        "fortune_telling",
+                        "character_backstory",
+                        "funny"
+                    ],
+                    "emotions": [
+                        "amused"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda teases Sterry's character and his queen, Isntoinette, while ignoring the reader's question about Basil Hawkins."
+            },
+            {
+                "number": 13,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "In chapter 823, you introduced Sarie Nantokanette, queen of Goa. Is she based on Marie Antoinette? I'm so jealous of Sterry\u2014he's ugly and horrible, yet he snagged a beautiful wife. I'm ugly and not rich, but I snagged my angry wife with my heart!! P.N. Chores Are Easy",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Ah, I see. You suspect she might be wearing tights. No worries!! Those are straight-up tattoos!!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "sarie_nantokanette",
+                        "sterry"
+                    ],
+                    "places": [
+                        "goa"
+                    ],
+                    "emotions": [
+                        "jealous",
+                        "funny"
+                    ],
+                    "topics": [
+                        "character_design",
+                        "marie_antoinette_reference"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Sarie Nantokanette is not based on Marie Antoinette, and she's actually wearing tattoos, not tights."
+            },
+            {
+                "number": 14,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Are those Reiju's bare legs? Are the 6 symbols drawn right on the skin? Isn't that kinda sexy? P.N. Takataka",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Same property. There are all biological patterns on Zou: deer with a fox child, or pandas with a panda child, etc.\n[[File:SBS84 Minks.png|right|300px]]{{-}}",
+                        "matches": [
+                            [
+                                115,
+                                151,
+                                "File:SBS84 Minks.png|right|300px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS84 Minks.png",
+                        "size": "300",
+                        "start": 115,
+                        "end": 151
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "reiju"
+                    ],
+                    "places": [
+                        "zou"
+                    ],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "biology",
+                        "minks"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reiju's bare legs have six symbols drawn on them, like the biological patterns seen on Zou, such as a deer with a fox child or pandas with a panda child."
+            },
+            {
+                "number": 15,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "According to Den's explanation on page 36 of volume 63, anyone in Fish-Man island can have any kind of child. What's the situation with the minks, then? P.N. OP Girl",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Very true!!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [
+                        "fish_man_island"
+                    ],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "minks",
+                        "den's_explanation",
+                        "fish_man_island"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda acknowledges the inconsistency between Fish-Man Island and the minks' reproductive situations."
+            },
+            {
+                "number": 16,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda Sensei! I've come to ask a question! \\(^\u2200^)/ So, I was reading volume 80 recently. And then Koala said, \"What?! We're going to bring all those intense people here again?!!\" So it occurred to me...Can you tell Koala something? Um, Koala...Pretty much everyone in One Piece is intense!! Welp, bye! P.N. Nodo",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Oh yeah, here we go. The really pointless questions! And I'm gonna answer it! Because the motto of the SBS is \"You're not missing out if you don't read it\"!!\n*Ice-Crunchers\n\nLuffy\n\nUsopp\n\nChopper\n\nRobin\n\nBrook\n\n*Non-Crunchers\n\nZoro\n\nNami\n\nSanji\n\nFranky\n\nMore people crunch their ice than I expected...",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "moneky_d_luffy",
+                        "usopp",
+                        "tony_tony_chopper",
+                        "nico_robin",
+                        "brook",
+                        "roronoa_zoro",
+                        "nami",
+                        "sanji",
+                        "franky"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "sbs_motto",
+                        "ice-crunching_habits"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader asks why Koala is surprised by 'intense' people in One Piece, Oda jokingly lists characters as ice-crunchers/non-crunchers in response."
+            },
+            {
+                "number": 17,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda Sensei!! Please tell me who from the Straw Hat Pirates like to chew their ice, and who don't? P.N. Goal and Gorilla Pupil No.19 Iona",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Okay. They're identical quadruplets. Reiju was born three years earlier, so she's 24 now. They're each slightly different in build, although it's not striking in number form. I wonder why Sanji turned out so different? It must have something to do with Germa's science.\n[[File:SBS84 Vinsmokes.png|center|300px]]{{-}}\nAnd that's the end of our time! See you in next volume's SBS!!",
+                        "matches": [
+                            [
+                                270,
+                                311,
+                                "File:SBS84 Vinsmokes.png|center|300px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS84 Vinsmokes.png",
+                        "size": "300",
+                        "start": 270,
+                        "end": 311
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "sanji",
+                        "reiju",
+                        "germa"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "germa_66",
+                        "straw_hat_pirates",
+                        "ice_chewing_habit"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "The question is not related to the SBS answer, which is about the Vinsmoke siblings' ages and Sanji's differences due to Germa's science."
+            }
+        ],
+        "page": null,
+        "chapter_number": null,
+        "page_header": null
+    }
+]

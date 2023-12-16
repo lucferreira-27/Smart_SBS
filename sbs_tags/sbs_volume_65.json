@@ -1,0 +1,823 @@
+[
+    {
+        "qa": [
+            {
+                "number": 1,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hey~~ Odacchi~~ee, you always let a reader say \"SBS begin!\"~~. I love that about Odacchi!! So, \"SBS begi...\" from S Shimei kun.",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Eh!? Can I really say it? That last letter, for my sake... you left it off for me to say? Sigh---... Thanks. Okay then I'll say it okay?! Three, two, one, \"m\". ''I SAID IT WRONG!!! (SHOCK)''",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "shock",
+                        "funny"
+                    ],
+                    "topics": [],
+                    "importance": "hight",
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader requests the usual 'SBS begin' and Oda playfully obliges, only to comically mess up the last letter."
+            },
+            {
+                "number": 2,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Panties panties panties panties panties panties panties panties panties panties panties panties panties panties panties panties... P.N. Be sure to count the number of panties",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Stop, stop. ...I said stop. Stop, stop, stop, ''STOP!!! (vein pop)'' Wheeze...wheeze.... You're back, Curse of the Panties. Worth 3 postcards. All over the surface, \"panties\" was written 3787 times (I counted)!! I'm not going to post this next time! It wasn't even a question or anything! There were even things like \"penties\" or \"panites\" in the middle!!\n\n[[File:SBS65 1 Keimi.png|right|100px]]",
+                        "matches": [
+                            [
+                                357,
+                                395,
+                                "File:SBS65 1 Keimi.png|right|100px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS65 1 Keimi.png",
+                        "size": "100",
+                        "start": 357,
+                        "end": 395
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "frustration",
+                        "funny"
+                    ],
+                    "topics": [
+                        "panties",
+                        "SBS",
+                        "joke"
+                    ],
+                    "importance": "hight",
+                    "isCharacterInsertion": true
+                },
+                "summary": "A reader repeatedly writes 'panties,' with Eiichiro Oda eventually counting 3787 instances and warning not to repeat it."
+            },
+            {
+                "number": 3,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I am a fourth grader who loves Fisher Tiger. I'm always looking forward to the releases. I have a question for Oda-sensei. What is inside Camie's backpack? P.N. Aselola No. 1",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Hmm-. ''Dreams'', probably. Oh and maybe also ''soy sauce'' and ''butter'' (for the clams).\n{{-}}\n\n[[File:SBS65 1 Swords.png|right|200px]]",
+                        "matches": [
+                            [
+                                99,
+                                138,
+                                "File:SBS65 1 Swords.png|right|200px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS65 1 Swords.png",
+                        "size": "200",
+                        "start": 99,
+                        "end": 138
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "fisher_tiger",
+                        "camie"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "character_items",
+                        "food"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A fourth grader asks Oda what's in Camie's backpack; Oda playfully suggests 'dreams,' 'soy sauce,' and 'butter' for clams."
+            },
+            {
+                "number": 4,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "This is a question, but in volume 10, Hacchan names himself, \"In Fish-Man Island with the exception of one person, The No. 1 swordsman 'Six Swords Style Hachi' \", so is that one exception Hyouzou? If I'm wrong, please kill me. P.N. Yuurakuron",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "No, it's correct! Is it really a question worth staking your life on!?(sweat) They both trained at the same sword fighting dojo, but Hachi was no match at all for Hyouzou.\n{{-}}",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "Hacchan",
+                        "Hyouzou"
+                    ],
+                    "places": [
+                        "Fish-Man Island"
+                    ],
+                    "emotions": [
+                        "humorous"
+                    ],
+                    "topics": [
+                        "swordsman",
+                        "training"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Hacchan's exception from the Fish-Man Island is Hyouzou rather than Hachi, as they both trained at the same dojo but Hachi was no match for Hyouzou."
+            }
+        ],
+        "page": "26",
+        "chapter_number": "637",
+        "page_header": "SBS65 Header 1.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 5,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "''OH--, I GET IT~~!!! (DO-N!)'' \n\nO-h, even though I didn't hear you!!! Har har!! By Setobyun",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I have not said anything yet, but. Ah hah hah hah hah (I apologize for being mean).",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "happy",
+                        "funny"
+                    ],
+                    "topics": [],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "A reader makes a joke, and Oda responds by pretending to have said something funny, apologizing for being mean."
+            },
+            {
+                "number": 6,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Allow me to ask a serious question!! So the nine members of \"The Straw Hat Pirates\" each have a jolly roger, right?? So it's been 2 years, have you thought of new designs after all!? from M Hiyuu 22 years old",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "About these--. They've already been finished. So the toy companies and stuff, they wanted to put logos on the merchandise so they came up with some of their own saying \"You cool with these!?\" but I said, \"Wrooong!!\" and made some revisions to them and all, so that's pretty much officially settled. Well, well, all sorts of companies are having their troubles too. Yep, it's this.\n\n[[File:SBS65 2 New Jolly Rogers.png|center|400px]]\n\n[[File:SBS65 2 Luffy.png|right|120px]]",
+                        "matches": [
+                            [
+                                382,
+                                432,
+                                "File:SBS65 2 New Jolly Rogers.png|center|400px"
+                            ],
+                            [
+                                434,
+                                472,
+                                "File:SBS65 2 Luffy.png|right|120px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS65 2 New Jolly Rogers.png",
+                        "size": "400",
+                        "start": 382,
+                        "end": 432
+                    },
+                    {
+                        "file": "SBS65 2 Luffy.png",
+                        "size": "120",
+                        "start": 434,
+                        "end": 472
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "jolly_roger_designs",
+                        "merchandise"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "The Straw Hat Pirates' new jolly roger designs have been finalized after some revisions by Oda due to merchandise requests."
+            },
+            {
+                "number": 7,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "In the ONE PIECE of these days, all kinds of strong ability users whom even Luffy can't compete with have been appearing, one after the other. In general manga and anime, I feel that the protagonist is established to be the strongest of all, but why did you decide to turn Luffy into a pretty weak-looking rubber Devil Fruit user? P.N. Do your best Japan",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Ahaha, that is true. It must seem like a mystery when you consider all the other strong and cool abilities. The answer is simple. I have picked the most ridiculous ability. If the protagonist were the typical strong guy, I doubt I could continue on with this for long. No matter how serious the story gets, Luffy is there to stretch and inflate. He always give me a chance to fool around. That's the kind of manga I wanted to write.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "moneky_d_luffy"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "devil_fruit"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda chose to give Luffy a ridiculous ability to keep the story light-hearted and allow for flexibility in serious situations."
+            }
+        ],
+        "page": "46",
+        "chapter_number": "638",
+        "page_header": "SBS65 Header 2.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 8,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Nice to meet you! Straight to the question! My little sister said, \"Is Ishilly, the one with the cute freckles/droopy eyes from Mermaid Cove an'' ishidai'' (striped beakfish) mermaid-chan with her trademark stripes??\" Please answer her. She also said, \"I want to know the model fish for the other girls too!\" P.N. V&UU",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Ahh. That is right. The striped girl is Ishilly the i''shidai'', one of the island girls who was kidnapped by Caribou. Actually, all the beauties from Mermaid Cove happen to be dancers at the ''Mermaid Cafe''. Well, seems the beauty of their dancing could very well bring an end to Sanji's life. Now then, I'll introduce the top five ''Mermaid Cafe Dancers''.\n\n[[File:SBS65_3_Mermaids.png|center|400px]]\n\n''Translator's Note- From left to right: Ishilly (ishidai [striped beakfish]\u007f mermaid), Kairen (karei [righteye flounder] mermaid), Hiramera (hirame [flounder]\u007f mermaid), Seira (kintchakudai [marine angelfish]\u007f mermaid), Melo (kiss [smelt-whiting]\u007f mermaid)''\n\n[[File:SBS65 3 Otohime.png|right|120px]]",
+                        "matches": [
+                            [
+                                361,
+                                403,
+                                "File:SBS65_3_Mermaids.png|center|400px"
+                            ],
+                            [
+                                666,
+                                706,
+                                "File:SBS65 3 Otohime.png|right|120px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS65_3_Mermaids.png",
+                        "size": "400",
+                        "start": 361,
+                        "end": 403
+                    },
+                    {
+                        "file": "SBS65 3 Otohime.png",
+                        "size": "120",
+                        "start": 666,
+                        "end": 706
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "ishilly",
+                        "caribou",
+                        "sanji",
+                        "kairen",
+                        "hiramera",
+                        "seira",
+                        "melo"
+                    ],
+                    "places": [
+                        "mermaid_cove",
+                        "mermaid_cafe"
+                    ],
+                    "topics": [
+                        "mermaids",
+                        "kidnapping",
+                        "dancing",
+                        "model fish"
+                    ],
+                    "emotions": [
+                        "informative"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Ishilly from Mermaid Cove is indeed a 'shidai' (striped beakfish) mermaid, along with four other dancers from the Mermaid Cafe, as revealed by Oda."
+            },
+            {
+                "number": 9,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello! My family and I always enjoy your series. So, here is a question! During your work, is there a significance to the use of katakana(\u30bf\u30a4\u30e8\u30a6) when writing the word \"sun\" instead of kanji(\u592a\u967d)? I am kind of curious about this. P.N.Makki-",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I see. This is pretty much subconscious on my part as well. I have been writing \u30bf\u30a4\u30e8\u30a6(Taiyo/sun in katakana) naturally. For example. When I'm writing childrens' conversations, AKA, stupid Luffy's conversations, I deliberately reduce the amount of kanji used in the lines and opt to write more words in hiragana. That's because I feel that writing something even the speaker himself wouldn't really understand clearly in kanji is somewhat unnatural. In the same way, for the fish-men, \"The Sun\" is something that they would never be able to see unless they swim 10,000 meters up to the surface. It's just not a part of their everyday lives. In short, it is something that they yearn for without really understanding. Therefore, rather than the use of kanji, the katakana version \"\u30bf\u30a4\u30e8\u30a6\" suits the word better for me in this context. \"The Sun Pirates\" (\u30bf\u30a4\u30e8\u30a6\u306e\u6d77\u8cca\u56e3). It's the awkward naming I enjoy.\n\n''Translator's Note: Katakana is a limited alphabet with the same amount of letters as hiragana (46). It is one of the three alphabets that the children of Japan learn prior to kanji, which in contrary, has an infinite number of characters (which it's list is still being revised) that stand for several things and is even more complicated to write as well. While hiragana (and eventually kanji where appropriate) is the standard, katakana is typically used in Japanese text when portraying foreign terms, concepts, or speakers.''",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "luffy"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "informative"
+                    ],
+                    "topics": [
+                        "writing_style",
+                        "language_use"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda explains that he uses katakana for 'sun' in One Piece to signify its foreignness to fish-men, similar to using hiragana for Luffy's speech."
+            }
+        ],
+        "page": "66",
+        "chapter_number": "639",
+        "page_header": "SBS65 Header 3.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 10,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchi~~!! Canned mackerel sure is delicious!! P.N. Macka. MackerelMan",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Mackerel es muy bueno~~! I recommend canned mackerel with scallions. It's way too good!!\n\n[[File:SBS65 4 Sorega.png|right|110px]]\n[[File:SBS65 4 Tega2tsui.png|right|110px]]",
+                        "matches": [
+                            [
+                                90,
+                                129,
+                                "File:SBS65 4 Sorega.png|right|110px"
+                            ],
+                            [
+                                130,
+                                172,
+                                "File:SBS65 4 Tega2tsui.png|right|110px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS65 4 Sorega.png",
+                        "size": "110",
+                        "start": 90,
+                        "end": 129
+                    },
+                    {
+                        "file": "SBS65 4 Tega2tsui.png",
+                        "size": "110",
+                        "start": 130,
+                        "end": 172
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "happy"
+                    ],
+                    "topics": [
+                        "food"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader Macka praises canned mackerel, Oda agrees and recommends it with scallions."
+            },
+            {
+                "number": 12,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "In the scene of volume 64 where the kids of Fish-Man Island say they want Luffy to go wild right now, I discovered a man who said \"Me too\" (\"Watahi mo sore ga ii\"; lit. \"I also want that\") and approached them wearing a shirt that says \"SOREGA I I YO\" (I agree) in romanization!! What's up with that!? P.N. Trafalgar Law <3",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes. Well I've introduced two of these letters. Just to get things over with on the matter of the girl, I didn't go as far as thinking of a specific species for her, but I think she's probably a fishgirl based on an ancient type of fish. Because they have lots of fins, the fish from long ago. And, the clothes... are quite self explanatory. With a bit of my humor around this point of drawing the gallery of onlookers, I really got into the idea of \"Situation-Explanation Shirts\", so if you search, I think you'll find a variety. Even in this volume.\n\n[[File:SBS65 4 Hostages.png|right|170px]]",
+                        "matches": [
+                            [
+                                553,
+                                594,
+                                "File:SBS65 4 Hostages.png|right|170px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS65 4 Hostages.png",
+                        "size": "170",
+                        "start": 553,
+                        "end": 594
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "trafalgar_law"
+                    ],
+                    "places": [
+                        "fish_man_island"
+                    ],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "clothing",
+                        "fish_species"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda explains the design of a character's T-shirt seen in volume 64, suggesting it's part of his 'Situation-Explanation Shirts' concept."
+            },
+            {
+                "number": 13,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "What species is the girl in chapter 663 who is wearing clothes that say \"TEGA2TSUI\" ''(\"te ga ni tsui\" lit. 2 pairs of hands)''? P.N. Takaaki T\n\n''Translator's Note: There is a misprint in the book; Reader initially meant chapter 633, not 663.)''",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "''ARE. YOU. A RETAAAARD!!! (SHOCK)'' You, the fuck are you saying--!! This is shonen manga!! Ack!! You're that pervert Shimizu Chagero from previously!! So your jail term already expired!! Ah!! Excuse me, officer--!! See, he's over there; that dude who's enjoying being tied up! Please arrest it! ........Eh!? I'm not involved! Eh!? Why!? Why do I also have to be arrested just because I'm not wearing a pair of pants and underpants! No, he comes first! ''*Clink!!*'' Ah! Wait I have approaching deadlines! Wait, Officer!? Hey---...",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "shimizu_chagero"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "shock",
+                        "funny"
+                    ],
+                    "topics": [
+                        "clothing",
+                        "misprint"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": true
+                },
+                "summary": "Oda humorously avoids the question and gets distracted, making comical comments about the reader's mistaken chapter number."
+            }
+        ],
+        "page": "86",
+        "chapter_number": "640",
+        "page_header": "SBS65 Header 4.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 14,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Who is Oda-sensei's rival among the One Piece characters? I know it's Franky. I'm only making sure. Penname Toku",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "''WHAT'S WITH THE DECISION!! (SHOCK)'' Cut it out, would you? Talking as if I'm a pervert. Well, yeah, hmm...I guess the one you could call a rival would be...Nami. When I had my chest measured while having a suit fitting recently, it turned out to be to 99 cm. Eh? Waist? The waist was, let's say somewhere between 50 and 99. In short, I'm also prettymuch a pin-up model. Okay, next postcard.\n{{-}}\n\n[[File:SBS65 5 Shirahoshi.png|right|90px]]",
+                        "matches": [
+                            [
+                                401,
+                                443,
+                                "File:SBS65 5 Shirahoshi.png|right|90px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS65 5 Shirahoshi.png",
+                        "size": "90",
+                        "start": 401,
+                        "end": 443
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "franky",
+                        "nami"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "shocked",
+                        "funny"
+                    ],
+                    "topics": [
+                        "perverted",
+                        "oda's personal life"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda jokingly denies Franky as his rival and declares Nami as his rival, mentioning his own measurements in a humorous way."
+            },
+            {
+                "number": 15,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Concerning Shirahoshi's birthday, since she's Shira (4) hoshi (4), can you make it April 4? You're cool with that right? Please I beg of you (cries). P.N. Dokkoi",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Sure.\n{{-}}\n[[File:SBS65 5 Neptune.png|right|90px]]",
+                        "matches": [
+                            [
+                                12,
+                                51,
+                                "File:SBS65 5 Neptune.png|right|90px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS65 5 Neptune.png",
+                        "size": "90",
+                        "start": 12,
+                        "end": 51
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "shirahoshi"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "happy"
+                    ],
+                    "topics": [
+                        "birthday"
+                    ],
+                    "importance": "hight",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Shirahoshi's birthday can be on April 4, as suggested by the reader, and Oda agrees with it."
+            },
+            {
+                "number": 16,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "''Monja'' wa washi no ''mon-ja''mon. P.N. Kazu\n\n''Translator's Note: Monja is a type of okonomiyaki pancake. \"Jamon\" is Neptune's verbal tic. It is a pun because a typical old timer might say \"This monja is mine\" (Monja wa washi no monja), but here, this ohhh-so-clever reader has added an extra \"mon\" to the end.''",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Right. Got it.\n{{-}}\n[[File:SBS65 5 Shanks and Rayleigh.png|right|190px]]",
+                        "matches": [
+                            [
+                                21,
+                                73,
+                                "File:SBS65 5 Shanks and Rayleigh.png|right|190px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS65 5 Shanks and Rayleigh.png",
+                        "size": "190",
+                        "start": 21,
+                        "end": 73
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "neptune"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "food",
+                        "joke"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "\"A reader shares a pun on 'monja' and 'jamon', Oda acknowledges it, and a related image is included in the response.\""
+            },
+            {
+                "number": 17,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Luffy's haoshoku haki was able to affect 50,000 men, but how many would Shanks and the others be able to defeat? P.N. Captain Nobuo",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "In exactly the same place and exact same situation as Luffy, Shanks or Rayleigh may have been capable of knocking out all 100,000. In a different setting, you can't really compare just by asking \"how many people\". Being able to knock an enemy out with haki depends entirely on having an overwhelming power gap between the two. In Luffy's case the point is the number of people that were so weak that they were not even worth him fighting. If there were 100,000 to-some-extent-strong-willed pirates before him, it's possible that he wouldn't even be able to knock out a single one. On a related note, as one's proficiency with haoshoku advances, it's even possible to target a few people in a crowd to NOT knock out.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "luffy",
+                        "shanks",
+                        "rayleigh"
+                    ],
+                    "places": [],
+                    "topics": [
+                        "haki",
+                        "power",
+                        "proficiency"
+                    ],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda explains that Shanks or Rayleigh could potentially knock out all 100,000 people with haoshoku haki in the same situation as Luffy, but it depends on the power gap and proficiency with haoshoku."
+            }
+        ],
+        "page": "126",
+        "chapter_number": "642",
+        "page_header": "SBS65 Header 5.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 18,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "To Odacchi \u2661 Draw the Marines Sengoku, Garp, Akainu, Kizaru, Aokiji as children. P\u2661L\u2661E\u2661A\u2661S\u2661E\u2661 P.N. Emukitchi",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "So you use the method of seduction--\u2661 Umm... Age isn't written huh... Let's just assume it is from a 22 year old bikini beauty... Sure--\u2661 Ah, this is the final SBS page. See you next volume~~!!\n\n\n[[File:SBS65 6 Top kids.png|center|400px]]\n\n''Translator's Note: Top left- Garp, top right- Sengoku. Bottom left to right- (Kizaru) Borsalino, (Akainu) Sakazuki, (Aokiji) Kuzan.''",
+                        "matches": [
+                            [
+                                196,
+                                238,
+                                "File:SBS65 6 Top kids.png|center|400px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS65 6 Top kids.png",
+                        "size": "400",
+                        "start": 196,
+                        "end": 238
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "sengoku",
+                        "garp",
+                        "akainu",
+                        "kizaru",
+                        "aokiji"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "playful"
+                    ],
+                    "topics": [
+                        "character_design",
+                        "fan_request"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "The reader asks Oda to draw the Marines Sengoku, Garp, Akainu, Kizaru, and Aokiji as children, and Oda responds by drawing them and mentioning it's the final SBS page."
+            }
+        ],
+        "page": "146",
+        "chapter_number": "643",
+        "page_header": "SBS65 Header 6.png"
+    }
+]

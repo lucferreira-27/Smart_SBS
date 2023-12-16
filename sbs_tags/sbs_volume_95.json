@@ -1,0 +1,1511 @@
+[
+    {
+        "qa": [
+            {
+                "number": 1,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "<span style=\"font-size:1.5em\">AH! UFO!</span> (While Odacchi is looking for it) Ready\u2014and <span style=\"font-size:1.5em\">SBS IS STARTING!!</span> P.N. Tomo and Isshou",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Eh? Where!? UFO!! I want to see it!! I want to see it super badly!! I'll go chase it with my bicycle!! Which way did it go!? Ah I saw it glow! It's spinning around! <span style=\"font-size:1.5em\">SBS HAS ALREADY STARTED!!?</span>\n\n[[File:SBS95 Sarahebi.png|thumb|200px]]",
+                        "matches": [
+                            [
+                                230,
+                                269,
+                                "File:SBS95 Sarahebi.png|thumb|200px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS95 Sarahebi.png",
+                        "size": "200",
+                        "start": 230,
+                        "end": 269
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "excited"
+                    ],
+                    "topics": [
+                        "UFO",
+                        "SBS",
+                        "funny"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader exclaims about UFO sighting, Oda joins in excitement and jokingly plans to chase it with a bicycle, then realizes SBS has started."
+            },
+            {
+                "number": 2,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchi I have a question! Is the teacher who could extend her neck an ability user? Or is she actually from a special species? P.N. Wanderer Asajiro M",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "There was someone like that wasn't there. You're talking about [[Sarahebi]]-sensei. She's very popular amongst the children who she frequently teaches but she tells them about the terrible things supposedly done by the [[Kozuki Family]], twisting history and filled it with lies. She is an underling of [[Kurozumi Orochi|Orochi]] and [[Kaidou]] after all so she isn't the best teacher. She ate snake [[SMILE]] so her neck is that of a snake.",
+                        "matches": [
+                            [
+                                63,
+                                75,
+                                "Sarahebi"
+                            ],
+                            [
+                                219,
+                                236,
+                                "Kozuki Family"
+                            ],
+                            [
+                                303,
+                                329,
+                                "Kurozumi Orochi|Orochi"
+                            ],
+                            [
+                                334,
+                                344,
+                                "Kaidou"
+                            ],
+                            [
+                                400,
+                                409,
+                                "SMILE"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Orochi",
+                        "link_title": "/wiki/Kurozumi Orochi",
+                        "is_wikipedia": false,
+                        "start": 303,
+                        "end": 329
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Sarahebi",
+                        "link_title": "/wiki/Sarahebi",
+                        "is_wikipedia": false,
+                        "start": 63,
+                        "end": 75
+                    },
+                    {
+                        "text": "Kozuki Family",
+                        "link_title": "/wiki/Kozuki Family",
+                        "is_wikipedia": false,
+                        "start": 219,
+                        "end": 236
+                    },
+                    {
+                        "text": "Kaidou",
+                        "link_title": "/wiki/Kaidou",
+                        "is_wikipedia": false,
+                        "start": 334,
+                        "end": 344
+                    },
+                    {
+                        "text": "SMILE",
+                        "link_title": "/wiki/SMILE",
+                        "is_wikipedia": false,
+                        "start": 400,
+                        "end": 409
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "Sarahebi",
+                        "Kozuki_Family",
+                        "Kurozumi_Orochi",
+                        "Kaidou"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "SMILE",
+                        "Kaidou",
+                        "Kurozumi_Orochi",
+                        "teacher",
+                        "ability_user"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Sarahebi-sensei from One Piece ate a snake SMILE fruit, giving her a snake-like neck, and is an underling of Orochi and Kaidou."
+            },
+            {
+                "number": 3,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello Oda-sensei. I know it's a lot but could you tell us the best flower and animal that represents each of the [[Worst Generation]]? P.N. Takusai",
+                        "matches": [
+                            [
+                                113,
+                                133,
+                                "Worst Generation"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Coming right up. I don't know very much about flowers so don't look too deeply into my choices in the language of flowers!\n\n[[File:SBS95 Worst Generation.png|thumb|center|400px]]\n\n<table width=\"100%\">\n<td width=\"50%\" valign=\"top\">\n*[[Monkey D. Luffy|Luffy]]: Sunflower, Monkey\n*[[Eustass Kid|Kid]]: Tulip, Fighting Bull\n*[[Trafalgar D. Water Law|Law]]: Queen of the night, Snow Leopard\n*[[Marshall D. Teach|Blackbeard]]: Red spider lily, Hippo\n*[[Roronoa Zoro|Zoro]]: Wisteria, Shark\n*[[Killer]]: Snowdrop, Weasel\n</td>\n<td width=\"50%\" valign=\"top\">\n*[[Basil Hawkins|Hawkins]]: Black lily, Horse\n*[[Jewelry Bonney|Bonney]]: Freesia, Deer\n*[[Capone Bege|Bege]]: Rose, Koala\n*[[Urouge]]: Daisy, Elephant\n*[[Scratchmen Apoo|Apoo]]: Poppy, Orangutan\n*[[X Drake|Drake]]: Gentiana, Allosaurus\n</td></table>",
+                        "matches": [
+                            [
+                                124,
+                                178,
+                                "File:SBS95 Worst Generation.png|thumb|center|400px"
+                            ],
+                            [
+                                232,
+                                257,
+                                "Monkey D. Luffy|Luffy"
+                            ],
+                            [
+                                278,
+                                297,
+                                "Eustass Kid|Kid"
+                            ],
+                            [
+                                321,
+                                351,
+                                "Trafalgar D. Water Law|Law"
+                            ],
+                            [
+                                387,
+                                419,
+                                "Marshall D. Teach|Blackbeard"
+                            ],
+                            [
+                                445,
+                                466,
+                                "Roronoa Zoro|Zoro"
+                            ],
+                            [
+                                485,
+                                495,
+                                "Killer"
+                            ],
+                            [
+                                551,
+                                576,
+                                "Basil Hawkins|Hawkins"
+                            ],
+                            [
+                                597,
+                                622,
+                                "Jewelry Bonney|Bonney"
+                            ],
+                            [
+                                639,
+                                659,
+                                "Capone Bege|Bege"
+                            ],
+                            [
+                                674,
+                                684,
+                                "Urouge"
+                            ],
+                            [
+                                703,
+                                727,
+                                "Scratchmen Apoo|Apoo"
+                            ],
+                            [
+                                747,
+                                764,
+                                "X Drake|Drake"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS95 Worst Generation.png",
+                        "size": "400",
+                        "start": 124,
+                        "end": 178
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Luffy",
+                        "link_title": "/wiki/Monkey D. Luffy",
+                        "is_wikipedia": false,
+                        "start": 232,
+                        "end": 257
+                    },
+                    {
+                        "text": "Kid",
+                        "link_title": "/wiki/Eustass Kid",
+                        "is_wikipedia": false,
+                        "start": 278,
+                        "end": 297
+                    },
+                    {
+                        "text": "Law",
+                        "link_title": "/wiki/Trafalgar D. Water Law",
+                        "is_wikipedia": false,
+                        "start": 321,
+                        "end": 351
+                    },
+                    {
+                        "text": "Blackbeard",
+                        "link_title": "/wiki/Marshall D. Teach",
+                        "is_wikipedia": false,
+                        "start": 387,
+                        "end": 419
+                    },
+                    {
+                        "text": "Zoro",
+                        "link_title": "/wiki/Roronoa Zoro",
+                        "is_wikipedia": false,
+                        "start": 445,
+                        "end": 466
+                    },
+                    {
+                        "text": "Hawkins",
+                        "link_title": "/wiki/Basil Hawkins",
+                        "is_wikipedia": false,
+                        "start": 551,
+                        "end": 576
+                    },
+                    {
+                        "text": "Bonney",
+                        "link_title": "/wiki/Jewelry Bonney",
+                        "is_wikipedia": false,
+                        "start": 597,
+                        "end": 622
+                    },
+                    {
+                        "text": "Bege",
+                        "link_title": "/wiki/Capone Bege",
+                        "is_wikipedia": false,
+                        "start": 639,
+                        "end": 659
+                    },
+                    {
+                        "text": "Apoo",
+                        "link_title": "/wiki/Scratchmen Apoo",
+                        "is_wikipedia": false,
+                        "start": 703,
+                        "end": 727
+                    },
+                    {
+                        "text": "Drake",
+                        "link_title": "/wiki/X Drake",
+                        "is_wikipedia": false,
+                        "start": 747,
+                        "end": 764
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Worst Generation",
+                        "link_title": "/wiki/Worst Generation",
+                        "is_wikipedia": false,
+                        "start": 113,
+                        "end": 133
+                    },
+                    {
+                        "text": "Killer",
+                        "link_title": "/wiki/Killer",
+                        "is_wikipedia": false,
+                        "start": 485,
+                        "end": 495
+                    },
+                    {
+                        "text": "Urouge",
+                        "link_title": "/wiki/Urouge",
+                        "is_wikipedia": false,
+                        "start": 674,
+                        "end": 684
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy",
+                        "eustass_kid",
+                        "trafalgar_d_water_law",
+                        "marshall_d_teach",
+                        "roronoa_zoro",
+                        "killer",
+                        "basil_hawkins",
+                        "jewelry_bonney",
+                        "capone_bege",
+                        "urouge",
+                        "scratchmen_apoo",
+                        "x_drake"
+                    ],
+                    "places": [],
+                    "topics": [
+                        "worst_generation",
+                        "flowers",
+                        "animals"
+                    ],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda assigns each Worst Generation character a flower and animal that represents them, but notes he doesn't know much about flowers."
+            }
+        ],
+        "page": "22",
+        "chapter_number": "954",
+        "page_header": "SBS95 Header 1.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 4,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello Oda-sensei. I have something I want to ask you. With Zoro always biting his swords, don't his teeth hurt?. My favourite character is Zoro. from N. Shinya-kun",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Hello Zoro-loving Shinya-kun! That's so nice of you to say. It's true that his teeth hurt but he still does his best and keeps biting his sword! The reason why is long ago he made the promise to be The World's Greatest to [[Kuina|someone who died]] and the sword that he bites is a keepsake from her. That's why no matter how much his teeth hurt he will keep biting! Until the day he becomes the greatest in the world!! Thank you for your postcard! I eagerly await the next one!{{-}}\n\n[[File:SBS95 Suiton no Jutsu.png|thumb|200px]]",
+                        "matches": [
+                            [
+                                222,
+                                248,
+                                "Kuina|someone who died"
+                            ],
+                            [
+                                485,
+                                531,
+                                "File:SBS95 Suiton no Jutsu.png|thumb|200px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS95 Suiton no Jutsu.png",
+                        "size": "200",
+                        "start": 485,
+                        "end": 531
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "someone who died",
+                        "link_title": "/wiki/Kuina",
+                        "is_wikipedia": false,
+                        "start": 222,
+                        "end": 248
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "roronoa_zoro",
+                        "kuina"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "touching",
+                        "hopeful"
+                    ],
+                    "topics": [
+                        "zoro's_swords",
+                        "kuina's_promise",
+                        "commitment"
+                    ],
+                    "importance": "hight",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Zoro bites his sword despite the pain as a promise to become the world's greatest, as a keepsake from Kuina who died."
+            },
+            {
+                "number": 5,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "In [[Chapter 935]], you can see somebody hidden in the bath. The truth is, this was me using my Suiton no Jutsu! P.N. Sanadacchi",
+                        "matches": [
+                            [
+                                3,
+                                18,
+                                "Chapter 935"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "<span style=\"font-size:1.5em\">It was you!!</span> I wanted to show Shinya-kun a prim and proper SBS but you've gone and ruined it!!{{-}}\n\n[[File:SBS95 Chopper.png|thumb|200px]]",
+                        "matches": [
+                            [
+                                138,
+                                176,
+                                "File:SBS95 Chopper.png|thumb|200px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS95 Chopper.png",
+                        "size": "200",
+                        "start": 138,
+                        "end": 176
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Chapter 935",
+                        "link_title": "/wiki/Chapter 935",
+                        "is_wikipedia": false,
+                        "start": 3,
+                        "end": 18
+                    }
+                ],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "hidden_character",
+                        "manga_art"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "D is revealed to have been hidden in the bath scene using a Suiton no Jutsu, to Oda's dismay."
+            },
+            {
+                "number": 6,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Whenever there is a chapter with a very moving scene, I notice that the SBS Corner on the next page never has any vulgar content on it. I think there are lots of chapters with scenes that immerse me in a lasting memory so I was wondering is this intentional or just a coincidence? P.N. Hoshito",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "You're right! Whenever there are scenes when characters cry or if there is UG Sanada and his ilk aren't welcome on the SBS after those chapters! I'm very particular about this!{{-}}",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "concerned"
+                    ],
+                    "topics": [
+                        "SBS_Corner",
+                        "vulgar_content",
+                        "emotional_scenes"
+                    ],
+                    "importance": "hight",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda confirms that the lack of vulgar content in the SBS after emotional chapters is intentional and he is particular about it."
+            }
+        ],
+        "page": "40",
+        "chapter_number": "955",
+        "page_header": "SBS95 Header 2.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 7,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei! I really want to see the human form of [[Dracule Mihawk|Mihawk]]'s cross sword! Until now all the ones you have drawn were completely uncool! Booooo! So this time please crank the coolness of this human form as much as you possibly can when you draw them! As much as you can! You'll do it for sure!! P.N. Tokaguhi",
+                        "matches": [
+                            [
+                                51,
+                                76,
+                                "Dracule Mihawk|Mihawk"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Ahh you're good! I mean the other drawings were fine too. However because you made your explanation so concrete, it made it easy to understand. Ladies are great too! Roger that!!\n\nThe human versions are complete!! My drawing doesn't quite have the maturity of a pro but this is the official version!\n\n[[File:SBS95 Yoruko and Omakeko.png|thumb|left|400px|<span style=\"font-size:0.95em;\">\nBlack Blade [[Yoru|Yoruko]] \u2013 I'll cut you partner \u2661, [[Kogatana|Omakeko]] \u2013 Roger, leave it to me!!</span>]]\n{{-}}",
+                        "matches": [
+                            [
+                                399,
+                                414,
+                                "Yoru|Yoruko"
+                            ],
+                            [
+                                441,
+                                461,
+                                "Kogatana|Omakeko"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Mihawk",
+                        "link_title": "/wiki/Dracule Mihawk",
+                        "is_wikipedia": false,
+                        "start": 51,
+                        "end": 76
+                    },
+                    {
+                        "text": "Yoruko",
+                        "link_title": "/wiki/Yoru",
+                        "is_wikipedia": false,
+                        "start": 399,
+                        "end": 414
+                    },
+                    {
+                        "text": "Omakeko",
+                        "link_title": "/wiki/Kogatana",
+                        "is_wikipedia": false,
+                        "start": 441,
+                        "end": 461
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "dracule_mihawk",
+                        "yoru",
+                        "omakeko"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "sword",
+                        "art",
+                        "drawing"
+                    ],
+                    "importance": "hight",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader requests a cool human form of Mihawk's cross sword, Oda creates one in SBS, acknowledging the request and delivering the official version."
+            }
+        ],
+        "page": "78",
+        "chapter_number": "957",
+        "page_header": "SBS95 Header 3.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 8,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei, I was just recognized in the Guinness World Records as having the largest collection of One Piece goods at 5656 items!! Hooray!! Buying those goods continuously for 18 years was not a mistake. P.N. Sanadacchi",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "<span style=\"font-size:1.5em\">Wow!! Guinness!? Congratulations...!! What!? Sanada!!?</span> I have such mixed feelings about this situation!! This is a lie right!? Is this real?? While searching the internet: It seems that this is real. Also Sanada, you're a Youtuber! Ah, probably best not to go to his channel everyone! It's the Youtube of a perverted man after all. Even still, its nice to know somebody out there loves ONE PIECE this much, even if he is a pervert. This world truly is amazing! All jokes aside, congratulations! Even if you are a pervert. And thank you! Even if you are a pervert.{{-}}",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "mixed",
+                        "happy",
+                        "funny"
+                    ],
+                    "topics": [
+                        "fan",
+                        "perverted"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda congratulates the reader for holding the record of the largest collection of One Piece goods, while joking about the reader being a pervert."
+            },
+            {
+                "number": 9,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "There are three races missing from [[Totto Land]]. [[Giants]], [[King]]'s [[Lunarians|race]], and...<span style=\"font-size:1.5em\">is it me?</span> P.N. Cola-san loves King",
+                        "matches": [
+                            [
+                                35,
+                                49,
+                                "Totto Land"
+                            ],
+                            [
+                                51,
+                                61,
+                                "Giants"
+                            ],
+                            [
+                                63,
+                                71,
+                                "King"
+                            ],
+                            [
+                                74,
+                                92,
+                                "Lunarians|race"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Nope.\n\n[[File:SBS95 Usopp and Pyonnosuke.png|thumb|200px]]",
+                        "matches": [
+                            [
+                                7,
+                                58,
+                                "File:SBS95 Usopp and Pyonnosuke.png|thumb|200px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS95 Usopp and Pyonnosuke.png",
+                        "size": "200",
+                        "start": 7,
+                        "end": 58
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "race",
+                        "link_title": "/wiki/Lunarians",
+                        "is_wikipedia": false,
+                        "start": 74,
+                        "end": 92
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Totto Land",
+                        "link_title": "/wiki/Totto Land",
+                        "is_wikipedia": false,
+                        "start": 35,
+                        "end": 49
+                    },
+                    {
+                        "text": "Giants",
+                        "link_title": "/wiki/Giants",
+                        "is_wikipedia": false,
+                        "start": 51,
+                        "end": 61
+                    },
+                    {
+                        "text": "King",
+                        "link_title": "/wiki/King",
+                        "is_wikipedia": false,
+                        "start": 63,
+                        "end": 71
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "king",
+                        "usopp",
+                        "pyonnosuke"
+                    ],
+                    "places": [
+                        "totto_land"
+                    ],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "races",
+                        "sbs"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": true
+                },
+                "summary": "The reader asks if they are the missing race from Totto Land, but Oda says no and includes an image of Usopp and Pyonnosuke."
+            },
+            {
+                "number": 10,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Can you tell us the name of the frog that sits on top of [[Usopp]]'s head as well as how they met? P.N. Macchi and Takshi",
+                        "matches": [
+                            [
+                                57,
+                                66,
+                                "Usopp"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "His name is [[Gama Pyonnosuke]]. Usopp happened to be passing by one day while he was staring down a dangerous snake so he jumped on Usopp's head as a ride away from the situation. Usopp is scared of snakes so he ferociously dashed away. Pyonnosuke realized afterwards that staying with Usopp seemed like a safe option so he just never got off.{{-}}",
+                        "matches": [
+                            [
+                                12,
+                                31,
+                                "Gama Pyonnosuke"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Usopp",
+                        "link_title": "/wiki/Usopp",
+                        "is_wikipedia": false,
+                        "start": 57,
+                        "end": 66
+                    },
+                    {
+                        "text": "Gama Pyonnosuke",
+                        "link_title": "/wiki/Gama Pyonnosuke",
+                        "is_wikipedia": false,
+                        "start": 12,
+                        "end": 31
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "usopp",
+                        "gama_pyonnosuke"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "character_backstory",
+                        "animal_companions"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "The frog on Usopp's head is named Gama Pyonnosuke; they met when the frog used Usopp as an escape from a snake, and decided to stay because Usopp seemed safer."
+            }
+        ],
+        "page": "94",
+        "chapter_number": "958",
+        "page_header": "SBS95 Header 4.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 11,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "[[Revolutionary Army]] East Commander [[Belo Betty]]'s look is so beautiful and I really like her! Is she modeled off of [[Wikipedia:Marianne|Marianne]] from the painting ''\"[[Wikipedia:Liberty Leading the People|Liberty Leading the People]]\"'' by [[Wikipedia:Eug\u00e8ne Delacroix|Eug\u00e8ne Delacroix]]? P.N.Yuito",
+                        "matches": [
+                            [
+                                0,
+                                22,
+                                "Revolutionary Army"
+                            ],
+                            [
+                                38,
+                                52,
+                                "Belo Betty"
+                            ],
+                            [
+                                121,
+                                152,
+                                "Wikipedia:Marianne|Marianne"
+                            ],
+                            [
+                                174,
+                                241,
+                                "Wikipedia:Liberty Leading the People|Liberty Leading the People"
+                            ],
+                            [
+                                248,
+                                295,
+                                "Wikipedia:Eug\u00e8ne Delacroix|Eug\u00e8ne Delacroix"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "That's right. That famous tour guide-like painting! It was from that image that Betty was born! She sure is popular.{{-}}\n\n[[File:SBS95 Den Den Mushi.png|thumb|200px]]",
+                        "matches": [
+                            [
+                                123,
+                                167,
+                                "File:SBS95 Den Den Mushi.png|thumb|200px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS95 Den Den Mushi.png",
+                        "size": "200",
+                        "start": 123,
+                        "end": 167
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Marianne",
+                        "link_title": "/wiki/Wikipedia:Marianne",
+                        "is_wikipedia": false,
+                        "start": 121,
+                        "end": 152
+                    },
+                    {
+                        "text": "Liberty Leading the People",
+                        "link_title": "/wiki/Wikipedia:Liberty Leading the People",
+                        "is_wikipedia": false,
+                        "start": 174,
+                        "end": 241
+                    },
+                    {
+                        "text": "Eug\u00e8ne Delacroix",
+                        "link_title": "/wiki/Wikipedia:Eug\u00e8ne Delacroix",
+                        "is_wikipedia": false,
+                        "start": 248,
+                        "end": 295
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Revolutionary Army",
+                        "link_title": "/wiki/Revolutionary Army",
+                        "is_wikipedia": false,
+                        "start": 0,
+                        "end": 22
+                    },
+                    {
+                        "text": "Belo Betty",
+                        "link_title": "/wiki/Belo Betty",
+                        "is_wikipedia": false,
+                        "start": 38,
+                        "end": 52
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "belo_betty"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "happy"
+                    ],
+                    "topics": [
+                        "character_design",
+                        "art_inspiration"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Belo Betty's appearance is inspired by Marianne from Eug\u00e8ne Delacroix's painting 'Liberty Leading the People', as confirmed by Oda in SBS."
+            },
+            {
+                "number": 12,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchi I have a question!! I know that [[Den Den Mushi]] take on the same appearance as their owner but I want to know more about how they work. There are moments where they look like the person on the other side of the phone and there are even moments where they start off looking like their owner then change to look like the person that the owner is talking to! There are still many mysteries with Den Den Mushi! P.N. Omame",
+                        "matches": [
+                            [
+                                40,
+                                57,
+                                "Den Den Mushi"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes. First off! Den Den Mushi have the power of mimicry. It can copy the appearance and distinguishing features of anybody nearby. Second, if someone else is on the other side of the line, the Den Den Mushi can also catch their facial expressions while they talk and can reproduce them. What they choose to reproduce and appear as is entirely dependent on the mood of each individual Den Den Mushi. They aren't machines, they're living creatures so there aren't any hard and fast rules for how they transform.{{-}}",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Den Den Mushi",
+                        "link_title": "/wiki/Den Den Mushi",
+                        "is_wikipedia": false,
+                        "start": 40,
+                        "end": 57
+                    }
+                ],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "interesting"
+                    ],
+                    "topics": [
+                        "den_den_mushi",
+                        "communication",
+                        "mystery"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Den Den Mushi have the power of mimicry, copying appearances and facial expressions, dependent on their mood as living creatures."
+            },
+            {
+                "number": 13,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchi, hello! In [[Chapter 929]], the people that bought the map of the residence were all beings that appeared in Rakugo right?\n\n[[File:SBS95 Rakugo.png|thumb|300px]]\n*[[Kumagoro]]: \"Journey to the Large Mountain\" \"Small Farewell\" etc.\n*[[Kobe]]: \"Short-story Lucky Palace Guard\"\n*[[Kisegawa]]: \"The courtesan's five customers\"\n*[[Tokijiro]]: Akegarasu (a famous monk)\n*[[Rakuda]]: rakuda\n\nThis scene was paying homage to the speech \"Sashimi is limited to tuna\" and \"The Senma of Bonin White Eyes\" right? I get the impression that Odacchi really likes Rakugo. P.N. Unagi no Taiko",
+                        "matches": [
+                            [
+                                19,
+                                34,
+                                "Chapter 929"
+                            ],
+                            [
+                                132,
+                                169,
+                                "File:SBS95 Rakugo.png|thumb|300px"
+                            ],
+                            [
+                                171,
+                                183,
+                                "Kumagoro"
+                            ],
+                            [
+                                240,
+                                248,
+                                "Kobe"
+                            ],
+                            [
+                                284,
+                                296,
+                                "Kisegawa"
+                            ],
+                            [
+                                332,
+                                344,
+                                "Tokijiro"
+                            ],
+                            [
+                                373,
+                                383,
+                                "Rakuda"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Exaaaactly right~! There really are tons of Rakugo references packed all over the place! Only the people in the know can smile when they see them though!",
+                        "matches": []
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS95 Rakugo.png",
+                        "size": "300",
+                        "start": 132,
+                        "end": 169
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Chapter 929",
+                        "link_title": "/wiki/Chapter 929",
+                        "is_wikipedia": false,
+                        "start": 19,
+                        "end": 34
+                    },
+                    {
+                        "text": "Kumagoro",
+                        "link_title": "/wiki/Kumagoro",
+                        "is_wikipedia": false,
+                        "start": 171,
+                        "end": 183
+                    },
+                    {
+                        "text": "Kobe",
+                        "link_title": "/wiki/Kobe",
+                        "is_wikipedia": false,
+                        "start": 240,
+                        "end": 248
+                    },
+                    {
+                        "text": "Kisegawa",
+                        "link_title": "/wiki/Kisegawa",
+                        "is_wikipedia": false,
+                        "start": 284,
+                        "end": 296
+                    },
+                    {
+                        "text": "Tokijiro",
+                        "link_title": "/wiki/Tokijiro",
+                        "is_wikipedia": false,
+                        "start": 332,
+                        "end": 344
+                    },
+                    {
+                        "text": "Rakuda",
+                        "link_title": "/wiki/Rakuda",
+                        "is_wikipedia": false,
+                        "start": 373,
+                        "end": 383
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "kumagoro",
+                        "kobe",
+                        "kisegawa",
+                        "tokijiro",
+                        "rakuda"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "happy"
+                    ],
+                    "topics": [
+                        "rakugo",
+                        "homage"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "In Chapter 929, the characters buying the map of the residence are all references to Rakugo, showing Oda's love for Rakugo by including many references throughout One Piece."
+            }
+        ],
+        "page": "112",
+        "chapter_number": "959",
+        "page_header": "SBS95 Header 5.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 14,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Did you ever use those apps that make your face look younger? Well for Odacchi, even if you use it now it would be okay. If my favourite characters Mihawk, [[Crocodile]], and [[Donquixote Doflamingo|Doflamingo]] used this app, what kind of baby faces would come out in the photo? P.N. Purple Panda\n\n[[File:SBS95 Brats Warlords.png|thumb|center|400px]]",
+                        "matches": [
+                            [
+                                156,
+                                169,
+                                "Crocodile"
+                            ],
+                            [
+                                175,
+                                211,
+                                "Donquixote Doflamingo|Doflamingo"
+                            ],
+                            [
+                                299,
+                                351,
+                                "File:SBS95 Brats Warlords.png|thumb|center|400px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I think I'm okay without the app so I'll pass~. I love new apps though! Yup, that's what they would look like as brats.\n\n[[File:SBS95 Kid and Killer.png|thumb|200px]]",
+                        "matches": [
+                            [
+                                121,
+                                166,
+                                "File:SBS95 Kid and Killer.png|thumb|200px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS95 Brats Warlords.png",
+                        "size": "400",
+                        "start": 299,
+                        "end": 351
+                    },
+                    {
+                        "file": "SBS95 Kid and Killer.png",
+                        "size": "200",
+                        "start": 121,
+                        "end": 166
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Doflamingo",
+                        "link_title": "/wiki/Donquixote Doflamingo",
+                        "is_wikipedia": false,
+                        "start": 175,
+                        "end": 211
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Crocodile",
+                        "link_title": "/wiki/Crocodile",
+                        "is_wikipedia": false,
+                        "start": 156,
+                        "end": 169
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "mihawk",
+                        "crocodile",
+                        "doflamingo"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "aging",
+                        "characters_as_children",
+                        "photo_app"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": true
+                },
+                "summary": "Oda declines using the face aging app and imagines Mihawk, Crocodile, and Doflamingo as kids, shown in a photo."
+            },
+            {
+                "number": 15,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchi! Why did Kid and Killer not just take a break when they were stuck underwater and couldn't breathe? P.N. 420 Land",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Certainly! If they could take a break then they wouldn't die in that situation. By the way, it seems that you're a pretty big fan of the [[Kid Pirates]]!!",
+                        "matches": [
+                            [
+                                137,
+                                152,
+                                "Kid Pirates"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Kid Pirates",
+                        "link_title": "/wiki/Kid Pirates",
+                        "is_wikipedia": false,
+                        "start": 137,
+                        "end": 152
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "kid",
+                        "killer"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "kid_pirates",
+                        "underwater_situation"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Killer and Kid couldn't take a break underwater because they would die, and Oda notes the reader's fandom of the Kid Pirates."
+            },
+            {
+                "number": 16,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchi, hello! I have something I'm curious about. Everybody in One Piece says things like \"I don't know (Shiranai \u2192 Shiranee)\" or \"I don't need it (iranai \u2192 iranee)\". Why do you use the Katakana \u201cE\u201d ? Does this carry some kind of personal meaning for you? Please let us know! P.N. Kanamaru\n\n[[File:SBS95 Akira.png|thumb|200px]]",
+                        "matches": [
+                            [
+                                293,
+                                329,
+                                "File:SBS95 Akira.png|thumb|200px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "This is a simple one! There is a manga out there called \"AKIRA\". They made an anime movie out of it and even now there are fans all over the world, it's a super famous work. In that manga, they used small letters just like the way I do now. When I was a middle school student, I took heavy influence from this because I thought it was so cool that the characters had a special trait when speaking!{{-}}",
+                        "matches": []
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS95 Akira.png",
+                        "size": "200",
+                        "start": 293,
+                        "end": 329
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "manga_influence",
+                        "writing_style"
+                    ],
+                    "importance": "high",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda was influenced by the manga 'AKIRA' which used small letters in a unique way, and he found it cool and adopted the style in One Piece."
+            }
+        ],
+        "page": "130",
+        "chapter_number": "960",
+        "page_header": "SBS95 Header 6.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 17,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Doflamingo kind of gives off the same feeling as Spiderman. Is this just me? P.N. Ebi\n\n[[File:SBS95 Kamen Rider Super-1.png|thumb|200px]]",
+                        "matches": [
+                            [
+                                87,
+                                137,
+                                "File:SBS95 Kamen Rider Super-1.png|thumb|200px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I understand. However, Spiderman has only recently become popular in Japan, at least that's my impression. The look of Doflamingo's eyes is actually based on a look that was popular when I was in Kindergarten. I found an old picture I drew from those days of \"Kamen Rider Super-1\" and I think that is probably where I got my inspiration. I love the look of those eyes!!{{-}}\n\n[[File:SBS95 SMILE.png|thumb|200px]]",
+                        "matches": [
+                            [
+                                376,
+                                412,
+                                "File:SBS95 SMILE.png|thumb|200px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS95 Kamen Rider Super-1.png",
+                        "size": "200",
+                        "start": 87,
+                        "end": 137
+                    },
+                    {
+                        "file": "SBS95 SMILE.png",
+                        "size": "200",
+                        "start": 376,
+                        "end": 412
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "doflamingo"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "inspiration",
+                        "manga_influence"
+                    ],
+                    "importance": [
+                        "high"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Doflamingo's eyes resemble Kamen Rider Super-1, inspired by Oda's childhood drawing, not Spiderman as it was popular in Japan recently."
+            },
+            {
+                "number": 18,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "In the flashback in [[Volume 94]] [[Chapter 943]], the people of Okobore town are eating SMILEs\u00a0and saying \"What delicious apples!!\". Is the deliciousness of these SMILEs different than that of the real Devil Fruits? P.N. Miketora",
+                        "matches": [
+                            [
+                                20,
+                                33,
+                                "Volume 94"
+                            ],
+                            [
+                                34,
+                                49,
+                                "Chapter 943"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "It's been said before that Devil Fruits taste\u00a0disgusting. Somehow, SMILEs\u00a0take on the flavour of normal fruits. However, it can also be said that\u00a0it's because of this that the tragedy of Ebisu Town could occur.{{-}}\n\n[[File:SBS95 Nami.png|thumb|200px]]",
+                        "matches": [
+                            [
+                                217,
+                                252,
+                                "File:SBS95 Nami.png|thumb|200px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS95 Nami.png",
+                        "size": "200",
+                        "start": 217,
+                        "end": 252
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Volume 94",
+                        "link_title": "/wiki/Volume 94",
+                        "is_wikipedia": false,
+                        "start": 20,
+                        "end": 33
+                    },
+                    {
+                        "text": "Chapter 943",
+                        "link_title": "/wiki/Chapter 943",
+                        "is_wikipedia": false,
+                        "start": 34,
+                        "end": 49
+                    }
+                ],
+                "tags": {
+                    "characters": [],
+                    "places": [
+                        "Okobore_town",
+                        "Ebisu_Town"
+                    ],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "SMILEs",
+                        "Devil_Fruits"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "SMILEs take on the flavor of normal fruits, unlike Devil Fruits, but this led to the tragedy of Ebisu Town."
+            },
+            {
+                "number": 19,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "<span style=\"font-size:1.5em\">I love seeing [[Nami]] in a kimono but I'd rather see her without her kimono.</span> P.N. Captain Nobuo",
+                        "matches": [
+                            [
+                                44,
+                                52,
+                                "Nami"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I understand! She would say \"Oh~my~\u2661\" as you unravel her Obi! This is a common scene in historical plays so I actually wanted to include a scene of this as well. It ended up being too difficult to integrate it in without the story becoming too messy so I sincerely apologize to everyone!! As a mangaka I have the power to bring to life the dreams of my readers and I will continue to polish my skills to that end!!{{-}}\n\nHa!! Nononono!! That was something Sanada would say! SBS, that's all our time! See you in next volume!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Nami",
+                        "link_title": "/wiki/Nami",
+                        "is_wikipedia": false,
+                        "start": 44,
+                        "end": 52
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "nami"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "character_design",
+                        "mangaka_apology"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda responds to a reader who wants to see Nami without her kimono, expressing regret for not being able to fulfill all reader fantasies."
+            }
+        ],
+        "page": "148",
+        "chapter_number": "961",
+        "page_header": "SBS95 Header 7.png"
+    }
+]

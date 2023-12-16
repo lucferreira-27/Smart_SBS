@@ -1,0 +1,1163 @@
+[
+    {
+        "qa": [
+            {
+                "number": 0,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "N/A",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Scary!! It's starting... (''slump'')",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "scared",
+                        "excited"
+                    ],
+                    "topics": [],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda starts his Q&A session, mentioning he's entering a 'slump' stage."
+            },
+            {
+                "number": 1,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Today's guest is Odacchi! Hey, did you cut your head off? P.N. Takataka",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Oh yea, I wanted to clear my head so <big>I cut it off!</big>\n\n[[File:SBS107 Vegapunk Bath.png|thumb|left|Vegapunk in the pool of water]]",
+                        "matches": [
+                            [
+                                63,
+                                137,
+                                "File:SBS107 Vegapunk Bath.png|thumb|left|Vegapunk in the pool of water"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS107 Vegapunk Bath.png",
+                        "size": null,
+                        "start": 63,
+                        "end": 137
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "odacchi",
+                        "odaechii"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [],
+                    "importance": [
+                        "funny"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda mentions he cut his head off to clear his mind; a reader asks about Vegapunk's appearance."
+            },
+            {
+                "number": 2,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "When Vegapunk still had his enormous head, how did he wash it? P.N. Takashi-kun",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Right. He dipped his head in a pool full of [[scrubfish]] and they cleaned his head.",
+                        "matches": [
+                            [
+                                44,
+                                57,
+                                "scrubfish"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "scrubfish",
+                        "link_title": "/wiki/scrubfish",
+                        "is_wikipedia": false,
+                        "start": 44,
+                        "end": 57
+                    }
+                ],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "vegapunk",
+                        "devil fruit"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Vegapunk cleaned his large head with scrubfish when it was still enormous."
+            },
+            {
+                "number": 3,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Is it true that Odacchi has a \"Stella\" and six \"Satellites\"? P.N. Nakayu",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes!! From left to right: \"[[York]]\" (Greed), \"York\", \"York\", \"York\", \"York\", and \"York\". There are six of them and it's the worst!\n\n[[File:SBS107 Imu.png|thumb|\"Imu\"]]",
+                        "matches": [
+                            [
+                                27,
+                                35,
+                                "York"
+                            ],
+                            [
+                                133,
+                                168,
+                                "File:SBS107 Imu.png|thumb|\"Imu\""
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS107 Imu.png",
+                        "size": null,
+                        "start": 133,
+                        "end": 168
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "York",
+                        "link_title": "/wiki/York",
+                        "is_wikipedia": false,
+                        "start": 27,
+                        "end": 35
+                    }
+                ],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "Oda's personal life"
+                    ],
+                    "importance": [
+                        "high"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda confirms he has a 'Stella' and six 'Satellites', all named 'York' except one; they're not his type."
+            },
+            {
+                "number": 4,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Could Imu's true appearance be someone with a very pointy mouth? P.N. Nori EZT",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Ok. I'll just mark this as \"read\".",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "Imu's appearance"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader asks if Imu's true appearance has a sharp mouth, Oda says he'll take note."
+            },
+            {
+                "number": 5,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "What is the name of Bonney's Devil Fruit? I know many similar questions have been sent to you but please tell us! P.N. Kuragepan",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes, I've been asked many times and I noticed and thought to myself \"I haven't revealed it yet?\" She is an \"Age Manipulation Human\" from the \"[[Toshi Toshi no Mi]]\". For the sake of those who don't read the SBS, I need to mention this in the main story too.\n\n[[File:SBS107 Boggy.png|thumb]]",
+                        "matches": [
+                            [
+                                142,
+                                163,
+                                "Toshi Toshi no Mi"
+                            ],
+                            [
+                                259,
+                                290,
+                                "File:SBS107 Boggy.png|thumb"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS107 Boggy.png",
+                        "size": null,
+                        "start": 259,
+                        "end": 290
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Toshi Toshi no Mi",
+                        "link_title": "/wiki/Toshi Toshi no Mi",
+                        "is_wikipedia": false,
+                        "start": 142,
+                        "end": 163
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "bonney"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "happy",
+                        "amused"
+                    ],
+                    "topics": [
+                        "devil_fruit"
+                    ],
+                    "importance": [
+                        "high"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Bonney's Devil Fruit is the 'Toshi Toshi no Mi' allowing her to manipulate age, not yet revealed in the main story."
+            },
+            {
+                "number": 6,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "When Luffy met Bonney he called her \"Boggy\", but he quickly changed it to \"Bonney\". Is there any particular reason for this? P.N. Machan",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Indeed, it's featured in the panel on the right, but before that, when Luffy heard that Bonney's father had been turned into a cyborg, he was excited and said \"that's cool!\" He regretted that, and he called her \"Boggy\" and was immediately corrected, which made him feel so awkward, even for Luffy, so he will never make that mistake again.\n{{-}}",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy",
+                        "bonney"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "devil_fruit",
+                        "character_interaction"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Luffy called Bonney 'Boggy' out of regret for previously calling her father's cyborg transformation 'cool,' but he will not repeat the mistake."
+            }
+        ],
+        "page": "24",
+        "chapter_number": "1077",
+        "page_header": "SBS107 Header 1.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 7,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello Oda-san! When Luffy was talking about the end of his dream, Caribou was nearby inside a barrel! Does this mean that Caribou also heard the end of Luffy's dream? P.N. Sena",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "So, a lot of people were bothered by this, but please look at the previous page. It was said in a loud voice but it was barely audible. It didn't reach inside the barrel, so it's okay. It was only the Straw Hat Pirates who heard the end of Luffy's dream!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy",
+                        "caribou"
+                    ],
+                    "places": [],
+                    "topics": [
+                        "luffy's_dream"
+                    ],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "importance": [
+                        "low"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda confirms that Caribou didn't hear Luffy's completed dream as he was inside a barrel and out of earshot."
+            },
+            {
+                "number": 8,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I have a question for Odacchi. My father's head is becoming more and more like an egghead, is there any way to stop it? P.N. Torikeka Sakiko",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I'm sorry that he's bald! But he's probably getting smarter and smarter, so pay attention to your father's scientific ability! Civilization never stops.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "egghead",
+                        "baldness",
+                        "intelligence"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader asks about their balding father, Oda suggests his baldness is due to increased intelligence from 'civilization'."
+            },
+            {
+                "number": 9,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello Oda-sensei! If the three former and present Admirals were in the real world, what kinds of professions would they have? P.N. Sakuragi",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I think all five of them would be radio presenters lol! \"All Night Nippon of the Three Admirals\"! For those who don't know, go and search for it!<br/>\n''Translator's note: Oda is referring to [[wikipedia:All Night Nippon|All Night Nippon]], a Japanese radio program broadcast from 1 to 5 am.''",
+                        "matches": [
+                            [
+                                192,
+                                239,
+                                "wikipedia:All Night Nippon|All Night Nippon"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "All Night Nippon",
+                        "link_title": "/wiki/All Night Nippon",
+                        "is_wikipedia": true,
+                        "start": 192,
+                        "end": 239
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "O: Eiichiro Oda"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "hypothetical_situation",
+                        "admirals",
+                        "professions"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda thinks all three current and former Admirals would be radio presenters, imagining 'All Night Nippon of the Three Admirals'."
+            },
+            {
+                "number": 10,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "What came out of Brook's eye sockets when he saw Zoro sleeping with Toko and Hiyori? P.N. Yutan",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "True... despite not having eyeballs...!! Because it's black... maybe coffee? Oh, or a black cat? I'll make it a black cat.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "brook",
+                        "zoro",
+                        "toko",
+                        "hiyori"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "devil_fruit"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda jokes that Brook, who has no eyeballs, saw something as a black cat, not coffee, when he looked at Zoro, Toko, and Hiyori."
+            }
+        ],
+        "page": "40",
+        "chapter_number": "1078",
+        "page_header": "SBS107 Header 2.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 11,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "In the past, Koby's goal was to become a commissioned officer of the Marines, but now he wants to be an Admiral! Would his rank still rise, even if he's now a member of SWORD, whose resignation documents are already formally submitted? P.N. Hinokuni Toppi",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes. Was the explanation about SWORD a bit complicated? In chapter 1080, Aokiji said \"formal submission of documents\" and \"they can be disavowed at any time\". This means, they entrusted their resignation but they are not disavowed yet. In the case of a Marine soldier getting caught and becoming a hostage, the Marines will acknowledge their resignation then and there and say \"that guy is not a Marine soldier!\" and forsake them. The ones who are fine with this, so they can fight as they please, are the Marine soldiers called \"SWORD\".",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "koby",
+                        "aokiji"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "marines",
+                        "sword",
+                        "rank",
+                        "aokiji's_words"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda confirms Koby's marine rank can still rise, though he's with SWORD, which submitted but hasn't been disavowed yet; SWORD soldiers accept this to fight as they please."
+            },
+            {
+                "number": 12,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello Odacchi! Everyone may not realize it, but I'm an adult, so I was shocked! Hibari-chan from SWORD is in love with Koby, right? Right? P.N. Kurubushi Taro",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "{{Nihongo|\"Honoji\"|\u307b\u306e\u5b57}}! That's an old expression! 35-year-old Kurubushi Taro! \"Honoji\" means \"in love with\". I'm dense and don't really understand.<br/>\n''Translator's note: \"Honoji\" is an older Japanese word that roughly translates \"in love with\", specifically referring to a \"[[wikipedia:Butterflies in the stomach|butterflies in the stomach]]\" feeling. It is the term used in the original question to ask about Hibari's feelings.''\n\n[[File:SBS107 Kopy-senpai.png|thumb]]",
+                        "matches": [
+                            [
+                                280,
+                                347,
+                                "wikipedia:Butterflies in the stomach|butterflies in the stomach"
+                            ],
+                            [
+                                438,
+                                475,
+                                "File:SBS107 Kopy-senpai.png|thumb"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS107 Kopy-senpai.png",
+                        "size": null,
+                        "start": 438,
+                        "end": 475
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "butterflies in the stomach",
+                        "link_title": "/wiki/Butterflies in the stomach",
+                        "is_wikipedia": true,
+                        "start": 280,
+                        "end": 347
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "koby",
+                        "hibari-chan"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "surprised"
+                    ],
+                    "topics": [
+                        "romance"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader Kurubushi Taro, 35, asks if Hibari from SWORD loves Koby; Oda, feigning ignorance, recognizes 'Honoji' as an old term for having a crush."
+            },
+            {
+                "number": 13,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "It seems like the SWORD member Hibari has a cute bear plush tory in her backpack. I want to know the details! P.N. Kurubushi Taro",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "So you noticed it! That bear is a lucky charm that Hibari treasures from when she was little. At one time, her life was saved by Koby in a battlefield, but she lost the bear. A few days later, Koby was injured and was severely told off by a superior. In Koby's hand was the bear. He had returned to the battlefield and searched for Hibari's treasure. Hibari was crying and grateful. She secretly named the bear \"Kopy-senpai\". I'm quite dense, so I don't know if she's \"head over heels\" for him or not.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "Hibari",
+                        "Koby"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "happy",
+                        "grateful"
+                    ],
+                    "topics": [
+                        "sword",
+                        "lucky charm",
+                        "backstory"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Hibari's teddy bear is a lucky charm from childhood, saved by Koby who returned it to her; she named it 'Kopy-senpai'."
+            }
+        ],
+        "page": "94",
+        "chapter_number": "1081",
+        "page_header": "SBS107 Header 3.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 14,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "To Oda-sensei. Why did you make a character like Kujaku?! We're going to have perverts like Sanada again! I like clean SBS!! P.N. Gomumera no Mi\n\n<!-- \"Heigakushi\" feels like a mistranlation, so this is the JP - SBS\u306b\u5e73\u96a0\u304c\u8a2a\u308c\u307e\u3057\u305f!!\u6d99 -->",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I don't think you'll see perverts because of Kujaku. It's okay! I haven't seen postcards from Sanada this time! Heigakushi visited SBS! ''cries''",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "odaa-sensei",
+                        "kujaku"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny",
+                        "amused"
+                    ],
+                    "topics": [
+                        "manga",
+                        "charakter creation"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader complains about perverted character Kujaku, Oda reassures them there won't be perverts, mentions no postcards from Sanada this time, and that someone called Heigakushi visited the SBS."
+            },
+            {
+                "number": 15,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Please tell me the name of Kujaku's whip. P.N. Kei",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Hmmm, wait a minute. I have other questions about her whip...",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "kujaku"
+                    ],
+                    "topics": [
+                        "whip"
+                    ],
+                    "emotions": [
+                        " curious"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda doesn't directly answer, asking for more context about the reader's question on Kujaku's whip."
+            },
+            {
+                "number": 17,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I'm curious about the material of Kujaku's favorite whip. If things go well, <big>I'd like her to train me too.</big> P.N. One Piece Consideration Circle\n\n<!-- \u5c3e\u7530\u3063\u3061\u3053\u3093\u306b\u3061\u306f!! \u6d77\u8ecd\u5c11\u5c06\u5b54\u96c0\u3067\u3059\u304c\u3001\u30e0\u30c1\u30e0\u30c1\u306e\u5b9f\u3092\u98df\u3079\u3066 \u30e0\u30c1\u30e0\u30c1\u30dc\u30c7\u30a3\u30fc\u306b\u306a\u3063\u305f\u5302\u3044\u304c\u30d7\u30f3\u30d7\u30f3\u3057\u307e\u3059\u3002 \u308f\u305f\u3057 \u3061\u3087\u3046\u304d\u3087\u3046 \u3042\u3052\u308b\u2661 \u3057\u3066 \u79c1\u3082\u8abf\u6559\u3057\u3066\u4e0b\u3055\u3044\u3002 -->",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "<big>No, are you idiots?!</big> Even though Sanada isn't here, it's really hot, you guys, the whip, the real steel, and the perverts who want to be whipped have really gathered together!! You guys, whips are scary! [[Beethoven]], used by Kujaku, is made of steel, so it can cut objects such as stone in half. No, don't do it anymore!! You perverts!!",
+                        "matches": [
+                            [
+                                215,
+                                228,
+                                "Beethoven"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Beethoven",
+                        "link_title": "/wiki/Beethoven",
+                        "is_wikipedia": false,
+                        "start": 215,
+                        "end": 228
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "kujaku",
+                        "beethoven"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny",
+                        "silly"
+                    ],
+                    "topics": [
+                        "devil_fruit",
+                        "perverted"
+                    ],
+                    "importance": "low",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda warns readers about steel whips' danger, like Kujaku's, and reveals he won't train those who requested it."
+            },
+            {
+                "number": 18,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello Odacchi! I'm Rear Admiral Kujaku, I ate the the Muchi Muchi no Mi and now I can smell whippable bodies. I'll give you some training \u2661 <big>and please train me too.</big> P.N. Tomon",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "<big>Are you threatening me to draw a man's butt?!</big>",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy",
+                        "Oda",
+                        "Rear Admiral Kujaku"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "devil_fruit"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A fan, claiming to be Rear Admiral Kujaku, asks Oda for training; Oda jokes about a threat to draw a man's butt."
+            },
+            {
+                "number": 19,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "It seems that you were researching how to draw a sexy butt. Is it just the female character's butts? What happened to the male characters'?! Pictures?! P.N. Please draw a shower scene of Law",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "<big>It's different!!!</big>",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny",
+                        "amused"
+                    ],
+                    "topics": [],
+                    "importance": [
+                        "low"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda differentiates between drawing male and female butts, and declines to draw a shower scene of Law."
+            }
+        ],
+        "page": "110",
+        "chapter_number": "1082",
+        "page_header": "SBS107 Header 4.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 20,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Why is Rear Admiral Grus' cap visor so long? P.N. Polaris",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "We go back to the time when he was a kid. Grus was a gloomy kid who always looked down when he walked. This resulted in him bumping into a lot of things. Walls, cows, people, pirates. When he bumped into pirates, he was severely hurt. His mother made him wear a cap with a long visor so he wouldn't bump into what's in front of him anymore. That's why it's long!\n\n[[File:SBS107 Pythagoras.png|thumb|Pythagoras and Robocon]]",
+                        "matches": [
+                            [
+                                364,
+                                423,
+                                "File:SBS107 Pythagoras.png|thumb|Pythagoras and Robocon"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS107 Pythagoras.png",
+                        "size": null,
+                        "start": 364,
+                        "end": 423
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "grus"
+                    ],
+                    "places": [],
+                    "topics": [
+                        "grus_backstory"
+                    ],
+                    "emotions": [
+                        "happy"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Grus' long cap visor was made by his mother to prevent him from bumping into things as a gloomy child."
+            },
+            {
+                "number": 21,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello Oda-san. When I saw Dr. Vegapunk's Pythagoras in chapter 1065, I thought that he looked exactly like Robocon from the [[wikipedia:Tokusatsu|tokusatsu]] show [[wikipedia:Ganbare!! Robocon|Ganbare!! Robocon]], so I thought it may be a reference. Is that the case? P.N. Takumi",
+                        "matches": [
+                            [
+                                124,
+                                157,
+                                "wikipedia:Tokusatsu|tokusatsu"
+                            ],
+                            [
+                                163,
+                                212,
+                                "wikipedia:Ganbare!! Robocon|Ganbare!! Robocon"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Oh, you're right! I know this TV show from more than 40 years ago, since I was in kindergarten, lol. When you think of a robot, this is the shape you want!! I remembered this and drew it. By the way, there was a guy named BaraBaraMan, who was Robocon's nemesis. I hated it when he showed up to dismantle Robocon. When I think about it now, I can't help but feel like Buggy's persistence is linked.\n\n[[File:SBS107 Jiron.png|thumb|Jiron and Jiron Amos]]",
+                        "matches": [
+                            [
+                                399,
+                                451,
+                                "File:SBS107 Jiron.png|thumb|Jiron and Jiron Amos"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS107 Jiron.png",
+                        "size": null,
+                        "start": 399,
+                        "end": 451
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "tokusatsu",
+                        "link_title": "/wiki/Tokusatsu",
+                        "is_wikipedia": true,
+                        "start": 124,
+                        "end": 157
+                    },
+                    {
+                        "text": "Ganbare!! Robocon",
+                        "link_title": "/wiki/Ganbare!! Robocon",
+                        "is_wikipedia": true,
+                        "start": 163,
+                        "end": 212
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "dr_vegapunk",
+                        "robocon",
+                        "barabarman",
+                        "luffy",
+                        "buggy"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "happy",
+                        "nostalgic"
+                    ],
+                    "topics": [
+                        "tokusatsu",
+                        "ganbare!!_robocon",
+                        "dr_vegapunk_design",
+                        "buggy_comparison"
+                    ],
+                    "importance": "medium",
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader notices Robocon-like design of Dr. Vegapunk's Pythagoras; Oda confirms it's a reference to a 40-year-old tokusatsu show."
+            },
+            {
+                "number": 22,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Does the name of the Revolutionary Army's deputy commander of the Northern Army, Jiron, come from Jiron Amos, the main character of [[wikipedia:Combat Mecha Xabungle|Combat Mecha Xabungle]]? P.N. Tokomon",
+                        "matches": [
+                            [
+                                132,
+                                189,
+                                "wikipedia:Combat Mecha Xabungle|Combat Mecha Xabungle"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "What...!! How do you know Jiron? I think he's also from an anime from about 40 years ago. I remembered that the face was round and tried to draw it. I can also sing. My childhood memories are amazing.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Combat Mecha Xabungle",
+                        "link_title": "/wiki/Combat Mecha Xabungle",
+                        "is_wikipedia": true,
+                        "start": 132,
+                        "end": 189
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "jiron",
+                        "ocombat mecha xabungle"
+                    ],
+                    "topics": [
+                        "revolutionary army",
+                        "anime",
+                        "eiichiro oda's childhood memories"
+                    ],
+                    "emotions": [
+                        "surprised",
+                        "funny"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader asks if One Piece character Jiron is named after Combat Mecha Xabungle's Jiron Amos, Oda confirms and reveals his childhood memory of the anime."
+            }
+        ],
+        "page": "144",
+        "chapter_number": "1084",
+        "page_header": "SBS107 Header 5.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 23,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "It's a pleasure to meet you, Oda-sensei. I'm happy to be on SBS. I'm getting excited. So I have a question.. (''elevator closes'') <big>Di~ng</big>. P.N. Yutan",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": ".....? Eh... Yes, then let's move on.\n\n[[File:SBS107 Iyan'eno Chinode.png|thumb|Iyan'eno Chinode, as drawn in the SBS]]",
+                        "matches": [
+                            [
+                                39,
+                                119,
+                                "File:SBS107 Iyan'eno Chinode.png|thumb|Iyan'eno Chinode, as drawn in the SBS"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS107 Iyan'eno Chinode.png",
+                        "size": null,
+                        "start": 39,
+                        "end": 119
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "happy",
+                        "excited"
+                    ],
+                    "topics": [],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader excitedly meets Oda in SBS, who responds they will move on to the questions, starting with a picture of Iyan'eno Chinode."
+            },
+            {
+                "number": 24,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei, you seem to be a little angry... please tell me the name of the girl who lent Vivi-chan her clothes on the last page of chapter 1074. \"I wanted to lend you some clothes,\" he says as he goes to board the car. P.N. Ari",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "With her life in tatters, both physically and mentally, the person who approached Vivi and lent her clothes was [[Iyan'eno Chinode]] (age 24), a reporter in charge of the World Economy News Paper's popular fashion column \"Streetcorner Collection\". She is a diligent reporter with a fiery personality, and is well-liked.",
+                        "matches": [
+                            [
+                                112,
+                                132,
+                                "Iyan'eno Chinode"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Iyan'eno Chinode",
+                        "link_title": "/wiki/Iyan'eno Chinode",
+                        "is_wikipedia": false,
+                        "start": 112,
+                        "end": 132
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy",
+                        "vivi",
+                        "iyane\u00f1o_chinode"
+                    ],
+                    "places": [
+                        "dressrosa"
+                    ],
+                    "topics": [
+                        "devil_fruit",
+                        "iyane\u00f1os_personality"
+                    ],
+                    "emotions": [
+                        "happy"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reporter, Iyan'eno Chinode, lends Vivi clothes in One Piece ch. 1074; she's 24, covers fashion, and is diligent with a fiery personality."
+            },
+            {
+                "number": 25,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "In chapter 1076, Lucky Roux said \"Gyahahaha! That's rich coming from you, Beck!! Who do you think he's mad at?!\" So... does this mean that it was Beckman who took Kid's arm? P.N. Ehara Ryota",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes, it seems like it! This is the world of pirates, where only the strong ones remain!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy",
+                        "beckman",
+                        "kid"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "happy",
+                        "funny"
+                    ],
+                    "topics": [
+                        "pirate_life",
+                        "strength"
+                    ],
+                    "importance": "high",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda confirms Beckman took Kid's arm in One Piece chapter 1076, implying it's a pirate world where the strong survive."
+            }
+        ],
+        "page": "178",
+        "chapter_number": "1086",
+        "page_header": "SBS107 Header 6.png"
+    }
+]

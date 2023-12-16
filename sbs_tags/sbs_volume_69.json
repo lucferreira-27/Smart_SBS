@@ -1,0 +1,1338 @@
+[
+    {
+        "qa": [
+            {
+                "number": 1,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Before we begin the SBS, I, [[Eiichiro Oda]], have an announcement. At last... I have achieved my heart's desire and eaten the \"[[Concepts#Ero Ero no Mi|ERO ERO NO MI]]\"! Guhehe. P.N. I'm Greenpeace",
+                        "matches": [
+                            [
+                                28,
+                                44,
+                                "Eiichiro Oda"
+                            ],
+                            [
+                                128,
+                                168,
+                                "Concepts#Ero Ero no Mi|ERO ERO NO MI"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Stop pretending to be me!! You said \"guhehe\". You're the worst!!{{-}}\n\n[[File:SBS69 1 Breast Band.png|right|200px]]",
+                        "matches": [
+                            [
+                                71,
+                                115,
+                                "File:SBS69 1 Breast Band.png|right|200px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS69 1 Breast Band.png",
+                        "size": "200",
+                        "start": 71,
+                        "end": 115
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "ERO ERO NO MI",
+                        "link_title": "/wiki/Concepts#Ero Ero no Mi",
+                        "is_wikipedia": false,
+                        "start": 128,
+                        "end": 168
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Eiichiro Oda",
+                        "link_title": "/wiki/Eiichiro Oda",
+                        "is_wikipedia": false,
+                        "start": 28,
+                        "end": 44
+                    }
+                ],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "devil_fruit",
+                        "personal_life"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "Eiichiro Oda calls out an imposter pretending to be him and also expresses a desire to have eaten the 'ERO ERO NO MI'."
+            },
+            {
+                "number": 2,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchi!! Is it alright if I ask a serious question? You'll answer this question right? Right? It's fine, isn't it?? Then here is my question.\n\n:<span style=\"font-size:1.5em\">Do you like breast bands?</span> P.N. Chi-chan \u2606",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "<span style=\"font-size:1.5em\">I like them very much \u2661</span> Guhehe \u2661\n\nWhaa!! Sorry, I didn't mean that. Not now! (*sweat*) What was that trap. The breast band is the usual sort of thing people trick me with. Ahh... that's right. The SBS has begun.{{-}}\n\n[[File:SBS69 1 Usopp.png|right|100px]]",
+                        "matches": [
+                            [
+                                255,
+                                293,
+                                "File:SBS69 1 Usopp.png|right|100px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS69 1 Usopp.png",
+                        "size": "100",
+                        "start": 255,
+                        "end": 293
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "embarrassed",
+                        "funny"
+                    ],
+                    "topics": [
+                        "clothing",
+                        "SBS",
+                        "joke"
+                    ],
+                    "importance": "low",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader asks Oda if he likes breast bands, and he playfully responds that he likes them very much, followed by a realization and change of topic."
+            },
+            {
+                "number": 3,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "About Usopp's nose, is it a [[Wikipedia:Chikuwa|chikuwa]]? Usopp's trying to listen!! P.N. Howaichi",
+                        "matches": [
+                            [
+                                28,
+                                57,
+                                "Wikipedia:Chikuwa|chikuwa"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "That's not right, is it? It's not a chikuwa, isn't that right Usopp-kun?\n\nUsopp: It's a chikuwa.",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "It's really a chikuwa!!! (It's been 15 years and I didn't know.) Guhehe \u2661{{-}}\n\n[[File:SBS69 1 Quiz Characters.png|right|80px]]",
+                        "matches": [
+                            [
+                                80,
+                                127,
+                                "File:SBS69 1 Quiz Characters.png|right|80px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "chikuwa",
+                        "link_title": "/wiki/Wikipedia:Chikuwa",
+                        "is_wikipedia": false,
+                        "start": 28,
+                        "end": 57
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "usopp"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny",
+                        "happy"
+                    ],
+                    "topics": [
+                        "usopp_nose",
+                        "funny"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "Usopp's nose is confirmed to be a chikuwa, surprising even Oda after 15 years."
+            },
+            {
+                "number": 4,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Here's a quiz, guess the answer based on the appearances from behind!! Which one is [[Vergo]]?\n\n[[File:SBS69 1 Quiz.png|left|300px]]\n\u203bAside from Vergo, \u24b6, \u24b7 and \u24b8 include [[Bentham|Bon-chan]] and [[Peepley Lulu|Lulu]]. P.N. N.I.K.U.",
+                        "matches": [
+                            [
+                                84,
+                                93,
+                                "Vergo"
+                            ],
+                            [
+                                96,
+                                132,
+                                "File:SBS69 1 Quiz.png|left|300px"
+                            ],
+                            [
+                                171,
+                                191,
+                                "Bentham|Bon-chan"
+                            ],
+                            [
+                                196,
+                                217,
+                                "Peepley Lulu|Lulu"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I'll give you my answers!\n<br />\u24b6 is Vergo with a hamburger stuck to him!\n<br />\u24b7 is Vergo having eaten it!\n<br />\u24b8 is Vergo with a shuriken stuck to his head!",
+                        "matches": []
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS69 1 Quiz.png",
+                        "size": "300",
+                        "start": 96,
+                        "end": 132
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Bon-chan",
+                        "link_title": "/wiki/Bentham",
+                        "is_wikipedia": false,
+                        "start": 171,
+                        "end": 191
+                    },
+                    {
+                        "text": "Lulu",
+                        "link_title": "/wiki/Peepley Lulu",
+                        "is_wikipedia": false,
+                        "start": 196,
+                        "end": 217
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Vergo",
+                        "link_title": "/wiki/Vergo",
+                        "is_wikipedia": false,
+                        "start": 84,
+                        "end": 93
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "vergo",
+                        "bentham",
+                        "peepley_lulu"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "playful"
+                    ],
+                    "topics": [
+                        "quiz",
+                        "appearances",
+                        "fun"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda identifies the appearances from behind: \u24b6 is Vergo with a hamburger, \u24b7 is Vergo after eating it, and \u24b8 is Vergo with a shuriken on his head."
+            },
+            {
+                "number": 6,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Answer: \u24b6 (\u24b7 is Bon-chan, \u24b8 is Lulu){{-}}",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Very good question. Normally, Doku Doku no Mi is confused as a Logia, because it seems to make its user a poison man capable of becoming such. However, it is no more than a somewhat different Paramecia, because its user can generate all kinds of poisons, but not transform into it. In this case, your current user, Magellan, covers your body with poison, and becomes immune to all types of poisons, in addition to providing a kind of protection against physical attacks. It hurts your side effect, poor Magellan spends more time in the bathroom than anywhere else!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "magellan"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "devil_fruit",
+                        "paramecia",
+                        "logia"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda explains that Doku Doku no Mi is a Paramecia and not a Logia, and elaborates on its user, Magellan, covering his body with poison."
+            }
+        ],
+        "page": "26",
+        "chapter_number": "679",
+        "page_header": "SBS69 Header 1.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 7,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "In a very cool scene in chapter 656, Zoro used his \u201cShi Shishi Sonson\u201d to beat the dragon, but in your \u201cWanted\u201d collection, in the story \u201cMonsters,\u201d the scene where the samurai Ryuuma kills a dragon is pretty similar! Did you have that in mind at the time? P.N.- Ono Rose Town Tribe",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes. Good job on noticing something from so long ago. When writing the Punk Hazard dragon scene, I thought back to my story, \u201cMonsters,\u201d from almost 20 years ago. The protagonist Ryuuma, who was Zoro\u2019s inspiration, ended up chopping the dragon\u2019s neck in a giant panel. I didn\u2019t go as far as re-reading it, but I recalled that scene and decided to do another big panel action scene. It\u2019s neck-chopping from when I was 19 and 38 years old, respectively. Please compare them (*laughs*).",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "zoro",
+                        "ryuuma"
+                    ],
+                    "places": [
+                        "punk_hazard",
+                        "rose_town"
+                    ],
+                    "topics": [
+                        "sword_techniques",
+                        "inspiration",
+                        "artistic_process"
+                    ],
+                    "emotions": [
+                        "amused"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda acknowledges the similarity between Zoro's scene and a similar one in his earlier 'Monsters' story, with Zoro's inspiration, Ryuuma, also chopping a dragon's neck."
+            },
+            {
+                "number": 8,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Before the timeskip (in volume 61), Nami was reading a book on Weatheria and said, \u201cAn island where it rains lightning!\u201d This lightning island\u2026 could it be where the G-5 ship had stopped in chapter 655 of volume 66? Please tell me! If you don\u2019t, I\u2019ll do the \u201cpew pew pew\u201d!! P.N.- P.S. I love Law",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "\u201cPew pew pew!!\u201d... don\u2019t make fun of the beam!! But that\u2019s right. It\u2019s one of the three islands that the needles pointed to (the first needle to be exact), from Fish-Man Island, and the one that Luffy wanted to go to most. It\u2019s the island where it rains lightning, Raijin Island. Near the end of volume 60, it\u2019s also the island that Urouge was headed for. Although Smoker\u2019s intuition about Luffy\u2019s mentality was spot-on, the Sunny Go met with the Whitestrom and ended up at the unmarked island, Punk Hazard. If they had gone to Raijin Island, I wonder what kind of adventures the Strawhats might have had?",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "nami",
+                        "luffy",
+                        "law",
+                        "urouge",
+                        "smoker"
+                    ],
+                    "places": [
+                        "weatheria",
+                        "g-5 ship",
+                        "fish-man island",
+                        "raiin island",
+                        "punk hazard"
+                    ],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "island_weather",
+                        "strawhats_adventures",
+                        "pre-timeskip",
+                        "raiin_island"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "Nami's lightning island from volume 61 is Raijin Island, the same island mentioned in chapter 655, volume 66, that Luffy wanted to visit and Urouge was heading towards."
+            }
+        ],
+        "page": "46",
+        "chapter_number": "680",
+        "page_header": "SBS69 Header 2.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 8,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "N/A",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I'll address the following two postcards together.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda addresses two postcards at once in the Q&A."
+            },
+            {
+                "number": 10,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei, I have a question. Please tell me the current profiles (birthday, height, age) of all of the members of the Straw Hat Pirates!",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "New readers!! Yep, that's right. I didn't realize. ''One Piece'' has been going for 15 years already. P.N. Maaa-kun is 10 years old. Then I'll tell you. When you grow up, try reading about the origins of the Straw Hat Pirates. The inset numbers are the order in which the crew members joined. This is the first time that the heights of the crew members two years later have been released in the volumes. By the way, before the [[Thousand Sunny]], the ship they sailed in was the [[Going Merry]].\n\n{| class=\"wikitable\" style=\"margin:auto\"\n| [[File:SBS69 Luffy Profile.png|120px]]\n| <u>[[Monkey D. Luffy]]</u>\n* Birthday: May 5\n* Age: 19\n* Height: 174&nbsp;cm\n* DF: [[Gomu Gomu no Mi]]\n* First Appearance: Vol. 1\n* Birthplace: East Blue\n| [[File:SBS69 Zoro Profile.png|120px]]\n| <u>[[Roronoa Zoro]]</u>\n* Birthday: November 11\n* Age: 21\n* Height: 181&nbsp;cm\n* First Appearance: Vol. 1\n* Birthplace: East Blue\n|-\n| [[File:SBS69 Nami Profile.png|120px]]\n| <u>[[Nami]]</u>\n* Birthday: July 3\n* Age: 20\n* Height: 170&nbsp;cm\n* First Appearance: Vol. 1\n* Birthplace: East Blue\n| [[File:SBS69 Usopp Profile.png|120px]]\n| <u>[[Usopp]]</u>\n* Birthday: April 1\n* Age: 19\n* Height: 176&nbsp;cm\n* First Appearance: Vol. 3\n* Birthplace: East Blue\n|-\n| [[File:SBS69 Sanji Profile.png|120px]]\n| <u>[[Sanji]]</u>\n* Birthday: March 2\n* Age: 21\n* Height: 180&nbsp;cm\n* First Appearance: Vol. 5\n* Birthplace: North Blue\n| [[File:SBS69 Chopper Profile.png|120px]]\n| <u>[[Tony Tony Chopper]]</u>\n* Birthday: December 24\n* Age: 17\n* Height: 90&nbsp;cm (Hybrid form)\n* DF: [[Hito Hito no Mi]]\n* First Appearance: Vol. 15\n* Birthplace: Grand Line\n|-\n| [[File:SBS69 Robin Profile.png|120px]]\n| <u>[[Nico Robin]]</u>\n* Birthday: February 6\n* Age: 30\n* Height: 188&nbsp;cm\n* DF: [[Hana Hana no Mi]]\n* First Appearance: Vol. 13\n* Birthplace: West Blue\n| [[File:SBS69 Franky Profile.png|120px]]\n| <u>[[Franky]]</u>\n* Birthday: March 9\n* Age: 36\n* Height: 240&nbsp;cm\n* First Appearance: Vol. 35\n* Birthplace: South Blue\n|-\n| [[File:SBS69 Brook Profile.png|120px]]\n| <u>[[Brook]]</u>\n* Birthday: April 3\n* Age: 90\n* Height: 277&nbsp;cm\n* DF: [[Yomi Yomi no Mi]]\n* First Appearance: Vol. 46\n* Birthplace: West Blue\n|}",
+                        "matches": [
+                            [
+                                427,
+                                445,
+                                "Thousand Sunny"
+                            ],
+                            [
+                                479,
+                                494,
+                                "Going Merry"
+                            ],
+                            [
+                                540,
+                                578,
+                                "File:SBS69 Luffy Profile.png|120px"
+                            ],
+                            [
+                                584,
+                                603,
+                                "Monkey D. Luffy"
+                            ],
+                            [
+                                664,
+                                683,
+                                "Gomu Gomu no Mi"
+                            ],
+                            [
+                                737,
+                                774,
+                                "File:SBS69 Zoro Profile.png|120px"
+                            ],
+                            [
+                                780,
+                                796,
+                                "Roronoa Zoro"
+                            ],
+                            [
+                                913,
+                                950,
+                                "File:SBS69 Nami Profile.png|120px"
+                            ],
+                            [
+                                956,
+                                964,
+                                "Nami"
+                            ],
+                            [
+                                1073,
+                                1111,
+                                "File:SBS69 Usopp Profile.png|120px"
+                            ],
+                            [
+                                1117,
+                                1126,
+                                "Usopp"
+                            ],
+                            [
+                                1239,
+                                1277,
+                                "File:SBS69 Sanji Profile.png|120px"
+                            ],
+                            [
+                                1283,
+                                1292,
+                                "Sanji"
+                            ],
+                            [
+                                1403,
+                                1443,
+                                "File:SBS69 Chopper Profile.png|120px"
+                            ],
+                            [
+                                1449,
+                                1470,
+                                "Tony Tony Chopper"
+                            ],
+                            [
+                                1550,
+                                1569,
+                                "Hito Hito no Mi"
+                            ],
+                            [
+                                1628,
+                                1666,
+                                "File:SBS69 Robin Profile.png|120px"
+                            ],
+                            [
+                                1672,
+                                1686,
+                                "Nico Robin"
+                            ],
+                            [
+                                1752,
+                                1771,
+                                "Hana Hana no Mi"
+                            ],
+                            [
+                                1826,
+                                1865,
+                                "File:SBS69 Franky Profile.png|120px"
+                            ],
+                            [
+                                1871,
+                                1881,
+                                "Franky"
+                            ],
+                            [
+                                1996,
+                                2034,
+                                "File:SBS69 Brook Profile.png|120px"
+                            ],
+                            [
+                                2040,
+                                2049,
+                                "Brook"
+                            ],
+                            [
+                                2112,
+                                2131,
+                                "Yomi Yomi no Mi"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei! Please tell me the order in which the members of the Straw Hat Pirates joined the crew! I'm really grateful! P.N. Yoshikawa",
+                        "matches": []
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS69 Luffy Profile.png",
+                        "size": "120",
+                        "start": 540,
+                        "end": 578
+                    },
+                    {
+                        "file": "SBS69 Zoro Profile.png",
+                        "size": "120",
+                        "start": 737,
+                        "end": 774
+                    },
+                    {
+                        "file": "SBS69 Nami Profile.png",
+                        "size": "120",
+                        "start": 913,
+                        "end": 950
+                    },
+                    {
+                        "file": "SBS69 Usopp Profile.png",
+                        "size": "120",
+                        "start": 1073,
+                        "end": 1111
+                    },
+                    {
+                        "file": "SBS69 Sanji Profile.png",
+                        "size": "120",
+                        "start": 1239,
+                        "end": 1277
+                    },
+                    {
+                        "file": "SBS69 Chopper Profile.png",
+                        "size": "120",
+                        "start": 1403,
+                        "end": 1443
+                    },
+                    {
+                        "file": "SBS69 Robin Profile.png",
+                        "size": "120",
+                        "start": 1628,
+                        "end": 1666
+                    },
+                    {
+                        "file": "SBS69 Franky Profile.png",
+                        "size": "120",
+                        "start": 1826,
+                        "end": 1865
+                    },
+                    {
+                        "file": "SBS69 Brook Profile.png",
+                        "size": "120",
+                        "start": 1996,
+                        "end": 2034
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Thousand Sunny",
+                        "link_title": "/wiki/Thousand Sunny",
+                        "is_wikipedia": false,
+                        "start": 427,
+                        "end": 445
+                    },
+                    {
+                        "text": "Going Merry",
+                        "link_title": "/wiki/Going Merry",
+                        "is_wikipedia": false,
+                        "start": 479,
+                        "end": 494
+                    },
+                    {
+                        "text": "Monkey D. Luffy",
+                        "link_title": "/wiki/Monkey D. Luffy",
+                        "is_wikipedia": false,
+                        "start": 584,
+                        "end": 603
+                    },
+                    {
+                        "text": "Gomu Gomu no Mi",
+                        "link_title": "/wiki/Gomu Gomu no Mi",
+                        "is_wikipedia": false,
+                        "start": 664,
+                        "end": 683
+                    },
+                    {
+                        "text": "Roronoa Zoro",
+                        "link_title": "/wiki/Roronoa Zoro",
+                        "is_wikipedia": false,
+                        "start": 780,
+                        "end": 796
+                    },
+                    {
+                        "text": "Nami",
+                        "link_title": "/wiki/Nami",
+                        "is_wikipedia": false,
+                        "start": 956,
+                        "end": 964
+                    },
+                    {
+                        "text": "Usopp",
+                        "link_title": "/wiki/Usopp",
+                        "is_wikipedia": false,
+                        "start": 1117,
+                        "end": 1126
+                    },
+                    {
+                        "text": "Sanji",
+                        "link_title": "/wiki/Sanji",
+                        "is_wikipedia": false,
+                        "start": 1283,
+                        "end": 1292
+                    },
+                    {
+                        "text": "Tony Tony Chopper",
+                        "link_title": "/wiki/Tony Tony Chopper",
+                        "is_wikipedia": false,
+                        "start": 1449,
+                        "end": 1470
+                    },
+                    {
+                        "text": "Hito Hito no Mi",
+                        "link_title": "/wiki/Hito Hito no Mi",
+                        "is_wikipedia": false,
+                        "start": 1550,
+                        "end": 1569
+                    },
+                    {
+                        "text": "Nico Robin",
+                        "link_title": "/wiki/Nico Robin",
+                        "is_wikipedia": false,
+                        "start": 1672,
+                        "end": 1686
+                    },
+                    {
+                        "text": "Hana Hana no Mi",
+                        "link_title": "/wiki/Hana Hana no Mi",
+                        "is_wikipedia": false,
+                        "start": 1752,
+                        "end": 1771
+                    },
+                    {
+                        "text": "Franky",
+                        "link_title": "/wiki/Franky",
+                        "is_wikipedia": false,
+                        "start": 1871,
+                        "end": 1881
+                    },
+                    {
+                        "text": "Brook",
+                        "link_title": "/wiki/Brook",
+                        "is_wikipedia": false,
+                        "start": 2040,
+                        "end": 2049
+                    },
+                    {
+                        "text": "Yomi Yomi no Mi",
+                        "link_title": "/wiki/Yomi Yomi no Mi",
+                        "is_wikipedia": false,
+                        "start": 2112,
+                        "end": 2131
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy",
+                        "roronoa_zoro",
+                        "nami",
+                        "usopp",
+                        "sanji",
+                        "tony_tony_chopper",
+                        "nico_robin",
+                        "franky",
+                        "brook"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "informative"
+                    ],
+                    "topics": [
+                        "straw_hat_pirates",
+                        "profile",
+                        "crew_members",
+                        "origins"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda shares Straw Hat Pirates' current profiles and the order in which they joined the crew while noting the ship they sailed in before the Thousand Sunny."
+            }
+        ],
+        "page": "66",
+        "chapter_number": "681",
+        "page_header": "SBS69 Header 3.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 11,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Okay, Odacchi! Please tell me the name and knacks of that strange way of running Zoro, Kinemon, Sanji, and Brook use!! P.N. Match and Takeshi\n\n(image missing- Text: ''DON. New admiral, \"Kazutoshi\"'')",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Hmm. Well, ignoring the new admiral Kazutoshi portion, you're talking about when they're running real fast like \"Dabadabadaba\". I mean, back in the day, pretty much everybody used this method in manga and anime to convey running. I guess I don't really see it being used these days. Basically, they're just running so incredibly fast that you can see the afterimages of their legs and they end up looking like they have multiple legs. As for the name, I shall name this move the \"''DabaDabaDash''\". The way to use it is to simply, move your legs at an expeditious rate. And while you're at it, please continuously keep screaming \"DABADABADABADABA!!\". It'll be a popular move in the next IAAF World Championships.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "roronoa_zoro",
+                        "kinemon",
+                        "sanji",
+                        "brook"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "running_style",
+                        "manga_and_anime",
+                        "DabaDabaDash"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda explains that the 'DabaDabaDash' is a method of running where characters move their legs at an expeditious rate, creating afterimages and appearing to have multiple legs as they run."
+            },
+            {
+                "number": 12,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchi--! I'm afraid I've just realized something. The names of \"Foxfire Kinemon\" and his son \"Momonosuke\"\u2014you took them from the superstar of the Showa Era, <span style=\"font-size:1.2em\">Mr. Nakamura Kinnosuke</span>, didn't you... Probably!! How's that!! P.N. Sacred Tree-kun",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yess! You are correct. He was famous for his roles in period dramas, and I'm an huge fan. 'Cause, like, I'd be a lot more pumped about drawing them if they were kind of references to him, y'know what I'm saying!? This is for the future and I can't hold it in so I'll just say it here, but Luffy and the crew will eventually go to the Wano Kingdom. Oh my gooosh, ever since back in the day, I just can't wait to draw that moment~~. All of my interests may end up being exposed when that happens. Heeheehee.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "momonosuke",
+                        "luffy"
+                    ],
+                    "places": [
+                        "wano"
+                    ],
+                    "emotions": [
+                        "excited",
+                        "playful"
+                    ],
+                    "topics": [
+                        "character_names",
+                        "wano_kingdom",
+                        "fan_reference"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda confirms that the names 'Foxfire Kinemon' and 'Momonosuke' are indeed inspired by the Showa Era superstar Nakamura Kinnosuke, as he is a huge fan of his."
+            },
+            {
+                "number": 13,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "One Piece has incredibly many characters, but please tell us which character is the most difficult to draw for you. P.N. Noel",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Let's see--. Franky Shogun is a pretty big pain in the ass to draw. I love designing robots and all, but redrawing them over and over isn't really a forte of mine. But that's robot talk. If we were to talk about just humans, I'd say women take longer to draw than men for me. Especially black-haired women. For black hair, there's this process called \"tsuya-beta\" (negative drawing). It's a real bugger having to color in with a brush pen whilst keeping the negatives, or the gloss, in the hair. With that said, my answer is Hancock. Knowing she had to look like the most beautiful woman in the world was the toughest part of all.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "franky_shogun",
+                        "hancock"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "frustrated"
+                    ],
+                    "topics": [
+                        "drawing",
+                        "character_design"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda finds Franky Shogun and black-haired women like Hancock the most difficult to draw due to their intricate designs and hair coloring process, especially to convey Hancock's beauty."
+            }
+        ],
+        "page": "86",
+        "chapter_number": "682",
+        "page_header": "SBS69 Header 4.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 13,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "N/A",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Huh...? ''(sweatdrop)'' What's with the warning sign? Wow, this offends me! Alright! Then how's this, I shall answer these questions with class and dignity in order to prevent people from thinking of this section as vulgar. Hum. Hum hum... now then... begin with the inquiries......",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "sweatdrop",
+                        "offended",
+                        "playful"
+                    ],
+                    "topics": [
+                        "question_answering",
+                        "vulgarity"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda reacts humorously to a warning sign, promising to answer questions with class and dignity."
+            },
+            {
+                "number": 14,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Sir Oda Eroichiro, greetings. Why did Caesar demand to have Law's heart? Logically speaking, I feel like his dick would be so much more of a vital body part to lose. \u00a0 \u00a0 \u00a0 \u00a0P.N. ikeyan",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "...Hum. Indeed... the\u00a0''willy'' (classy) would also be a vital body part. However, how would the imagery turn out looking like? Law holding his willy, and Law holding his heart. Which has the better impact...? For instance, Law... They say that he, in order to join the Shichibukai, delivered 100 hearts to the Marine Headquarters... But... if he had delivered 100 willies instead, by now, Law would have become a Shichidikai.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "caesar_clown",
+                        "trafalgar_law"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "caesar_clown",
+                        "trafalgar_law",
+                        "body_parts",
+                        "shichibukai",
+                        "marine_headquarters"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Caesar demanded Law's heart for dramatic impact, as imagery of Law holding his heart has more impact than holding his 'willy'."
+            },
+            {
+                "number": 15,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Vergo can use Busoshoku on his entire body, right? Could this mean that his \"manhood\" can also use Busoshoku? \u00a0 P.N. New Kama",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Hum... It's possible. As a man... that is quite ''fant\u00e1stico''.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "vergo"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "humorous"
+                    ],
+                    "topics": [
+                        "haki",
+                        "busoshoku",
+                        "perverted"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Vergo may be able to use Busoshoku Haki on his entire body, including his 'manhood,' according to Oda's humorous response."
+            },
+            {
+                "number": 16,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Mr. Smoker, how could you tear off Tashigi's bra in her body! (From Volume 68 SBS) Unbelievable. If it was in the way, you should have just worn it on your head like Oda-sensei! \u00a0 P.N. Yumasai",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "...Hum. ...Would you like to join me? Smoker-kun...",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "smoker",
+                        "tashigi",
+                        "oda"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "perverted",
+                        "funny"
+                    ],
+                    "topics": [
+                        "clothing",
+                        "funny",
+                        "oda's_personal_life"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "A reader questions Smoker's action towards Tashigi, and Oda teases a humorous response by suggesting Smoker should wear the bra on his head like him."
+            }
+        ],
+        "page": "106",
+        "chapter_number": "683",
+        "page_header": "SBS69 Header 5.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 17,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei, please draw the appearances of [[Magellan]], [[Hannyabal]], [[Sadi]] and [[Saldeath]] of Impel Down from when they were children. P.N. Jiikema Yaoto",
+                        "matches": [
+                            [
+                                43,
+                                55,
+                                "Magellan"
+                            ],
+                            [
+                                57,
+                                70,
+                                "Hannyabal"
+                            ],
+                            [
+                                72,
+                                80,
+                                "Sadi"
+                            ],
+                            [
+                                85,
+                                97,
+                                "Saldeath"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Alright. How about I draw\u00a0[[Domino]] too?\n\n{{Gallery|width=300|height=320|captionalign=center|position=center\n|Hannyabal as a Child.png|Hannyabal\n|Magellan as a Child.png|Magellan\n}}\n{{Gallery|width=190|height=250|captionalign=center|position=center\n|Sadi as a Child.png|Sadi-chan\n|Saldeath as a Child.png|Saldeath\n|Domino as a Child.png|Domino\n}}\n\n[[File:SBS69 Sube Sube Lola.png|thumb|right|300px|''Marry Me \u2661'']]",
+                        "matches": [
+                            [
+                                26,
+                                36,
+                                "Domino"
+                            ],
+                            [
+                                349,
+                                415,
+                                "File:SBS69 Sube Sube Lola.png|thumb|right|300px|''Marry Me \u2661''"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS69 Sube Sube Lola.png",
+                        "size": "300",
+                        "start": 349,
+                        "end": 415
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Magellan",
+                        "link_title": "/wiki/Magellan",
+                        "is_wikipedia": false,
+                        "start": 43,
+                        "end": 55
+                    },
+                    {
+                        "text": "Hannyabal",
+                        "link_title": "/wiki/Hannyabal",
+                        "is_wikipedia": false,
+                        "start": 57,
+                        "end": 70
+                    },
+                    {
+                        "text": "Sadi",
+                        "link_title": "/wiki/Sadi",
+                        "is_wikipedia": false,
+                        "start": 72,
+                        "end": 80
+                    },
+                    {
+                        "text": "Saldeath",
+                        "link_title": "/wiki/Saldeath",
+                        "is_wikipedia": false,
+                        "start": 85,
+                        "end": 97
+                    },
+                    {
+                        "text": "Domino",
+                        "link_title": "/wiki/Domino",
+                        "is_wikipedia": false,
+                        "start": 26,
+                        "end": 36
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "magellan",
+                        "hannyabal",
+                        "sadi",
+                        "saldeath",
+                        "domino"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "character_appearances",
+                        "fan_request",
+                        "illustration"
+                    ],
+                    "importance": "hight",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda fulfilled the request to draw the Impel Down characters as children and decided to include Domino as well in the drawings."
+            },
+            {
+                "number": 18,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchi x2!! If \"Marriage Proposal [[Lola]]\" ate the [[Sube Sube no Mi]] what would happen to her?<br />P.N. Nasuo",
+                        "matches": [
+                            [
+                                35,
+                                43,
+                                "Lola"
+                            ],
+                            [
+                                53,
+                                72,
+                                "Sube Sube no Mi"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I doubt she'd really look all that much different, you know? But her skin will become incredibly smooth (''sube sube'')!{{-}}",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Lola",
+                        "link_title": "/wiki/Lola",
+                        "is_wikipedia": false,
+                        "start": 35,
+                        "end": 43
+                    },
+                    {
+                        "text": "Sube Sube no Mi",
+                        "link_title": "/wiki/Sube Sube no Mi",
+                        "is_wikipedia": false,
+                        "start": 53,
+                        "end": 72
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "lola"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "devil_fruit"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "If Lola ate the Sube Sube no Mi, her skin would become incredibly smooth, but she wouldn't look much different."
+            }
+        ],
+        "page": "146",
+        "chapter_number": "685",
+        "page_header": "SBS69 Header 6.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 19,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacc-HI!! Odacchi... What did you have for breakfast? Your face has a nice glow to it. Speaking of breakfast, in volume 68 page 106, could Vergo's breakfast have been potato fries...?? Well? \u00a0 \u00a0\u00a0P.N. KBBQ straight from the morning, bro",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Man, just about everything gets stuck onto that man, doesn't it. I think it was probably his usual hamburger meal. Hamburger, fries, and a shake (strawberry flavor). This is what Vergo eats every morning for breakfast. Also, my glowing face is probably just left over illumination from the previous meal.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "vergo"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "food"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda reveals Vergo's breakfast as hamburger, fries, and a strawberry shake, while dismissing the reader's comment about his own glowing face."
+            },
+            {
+                "number": 20,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "About the mystery of Nami-san's New World bust size from volume 66, I would like to provide my opinion as an employee at LADIES' INNER. Nami-san's bust size is most likely a \"J Cup\". There is a possibility that she may have even grown bigger than this. ...If my calculations are correct, her band measurement is 63&nbsp;cm, and her bust is 98&nbsp;cm. If we were to use these measurements, she would end up being a \"K\"; however, right now in Japan, there is no such thing as a \"K\" cup. She'd have to order from overseas. Oui, in other words, non-standardized!!! Well, personally, I'd say that Nami-san is a\u00a0<span style=\"font-size:1.5em\">\"Nami Cup\"</span>. (Boiing)\n\nP.N. Shimizu Chageburo's secret fan\n\n(Translator's Note- LADIES' INNER is a Japanese female underwear chain store.)",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Alright. Boys, the day has finally come. This fire that readers started on volume 66. Thank you all for submitting these countless letters. Sanji-kun! Has your nosebleed stopped yet!? Now, give them the presentation!\n\nSanji: Yeah... sorry about last time. So it's Nami-san and Robin-chan's current 3 sizes, right? They did in fact grow in size, but don't be tricked!! In these 2 years, what really improved is their \"sexiness\"!\n\n<u>Nami- B: 98 (J Cup), W: 58, H: 88\n</u>\n\n<u>Robin- B: 100 (J Cup), W: 60, H: 90</u>",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Ahh, fantastic! This is great! So easy to remember! Thank you, Sanji-kun! Ahh I see, so this is what the \"Nami Cup\" is like. So awesome.\n\nNami: What are you doing? If you're gonna use my body as one of your conversation topics, then here... hand it over ''(sparkle)''",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Runnnnnnnnnn!! Dabadabadabadaba...\n\nWheeze...wheeze...okay then...wheeze wheeze... let's end here. The reason why there's so little content at the end of the volume this time is because I recklessly begged for a 12 chapter release this time. I got yelled at by Shueisha, scolding me to never expect something like this again. But... I just really wanted you all to read up to chapter 690... I'll do my best from now on to have less lag in my storytelling... See you in the next volume~~!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "nami",
+                        "sanji",
+                        "robin"
+                    ],
+                    "places": [],
+                    "topics": [
+                        "body_measurements",
+                        "mystery",
+                        "fan_reaction"
+                    ],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "importance": "hight",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Nami's New World bust size is debated, but Oda confirms it's a 'J Cup' and emphasizes the characters' enhanced 'sexiness' post timeskip."
+            }
+        ],
+        "page": "166",
+        "chapter_number": "686",
+        "page_header": "SBS69 Header 7.png"
+    }
+]

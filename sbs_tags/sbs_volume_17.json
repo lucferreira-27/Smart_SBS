@@ -1,0 +1,679 @@
+[
+    {
+        "qa": [
+            {
+                "number": 0,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "N/A",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Before I start the SBS, I present the CMC (Chotto Machigae Chatta, \"A Little Mistake\") Corner!! This is for anyone who bought the first printing of [[Volume 16]]. It said that [[Tony Tony Chopper|Chopper]]'s name was \"Tony-Tony Chopper\", but that was a mistake on my part. It's really supposed to be \"Tony Tony Chopper\", so please try to remember that as you read it. What?! You don't care?! Oh well, now that you mention it, it doesn't really change the name at all. And now, THE SBS...",
+                        "matches": [
+                            [
+                                148,
+                                161,
+                                "Volume 16"
+                            ],
+                            [
+                                176,
+                                205,
+                                "Tony Tony Chopper|Chopper"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Chopper",
+                        "link_title": "/wiki/Tony Tony Chopper",
+                        "is_wikipedia": false,
+                        "start": 176,
+                        "end": 205
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Volume 16",
+                        "link_title": "/wiki/Volume 16",
+                        "is_wikipedia": false,
+                        "start": 148,
+                        "end": 161
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "tony_tony_chopper"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "one_piece_volumes",
+                        "character_name"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda presents the 'mistake corner' for Volume 16's first printing's Chopper's name; it should be 'Tony Tony Chopper', and then starts the SBS."
+            },
+            {
+                "number": 1,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello, Oda-sensei. It seems that lately, everyone wants to call out the title at random. Well, I'm one of them. But I'm sure you would like to say it as well. So why don't we split it halfway? Let's go! \"START THE SB\".",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "\"S\". Ah... HUUHHHH...?!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "happy",
+                        "funny"
+                    ],
+                    "topics": [],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "A fan suggests a call-and-response with Oda for starting the SBS corner; Oda responds with 'S'."
+            },
+            {
+                "number": 2,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "WHERE IS THE OKAMA WAY? Is it my house?<ref name=chap147>''One Piece Manga'' - Vol. 17 [[Chapter 147]] page 46.</ref>",
+                        "matches": [
+                            [
+                                87,
+                                102,
+                                "Chapter 147"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Hmmm. Where? That's a difficult question... since it IS the \"path of those who have opened their eyes\". I THINK IT COULD EXIST ANYWHERE <3.... AAAH!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Chapter 147",
+                        "link_title": "/wiki/Chapter 147",
+                        "is_wikipedia": false,
+                        "start": 87,
+                        "end": 102
+                    }
+                ],
+                "tags": {
+                    "characters": [],
+                    "places": [
+                        "okama way"
+                    ],
+                    "emotions": [
+                        "amused",
+                        "puzzled"
+                    ],
+                    "topics": [
+                        "okama way",
+                        "enlightenment"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader asks where the Okama Way is, Oda answers it could exist anywhere."
+            },
+            {
+                "number": 3,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "To [[Eiichiro Oda|Oda]]-sensei. The giants [[Dorry]] and [[Brogy]]'s helmets look an awful lot like the Celts' horned helmets and the Verden-era (I forgot when) Swedish crested-helmets. Am I right?<ref name=chap147 />",
+                        "matches": [
+                            [
+                                3,
+                                23,
+                                "Eiichiro Oda|Oda"
+                            ],
+                            [
+                                43,
+                                52,
+                                "Dorry"
+                            ],
+                            [
+                                57,
+                                66,
+                                "Brogy"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes you are. The giant \"Warriors of [[Elbaf]]\"s image came from my original love for those pirates of the north, the \"Vikings\". So you are correct.\n\nALL HAIL THEIR VALOR!",
+                        "matches": [
+                            [
+                                36,
+                                45,
+                                "Elbaf"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Oda",
+                        "link_title": "/wiki/Eiichiro Oda",
+                        "is_wikipedia": false,
+                        "start": 3,
+                        "end": 23
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Dorry",
+                        "link_title": "/wiki/Dorry",
+                        "is_wikipedia": false,
+                        "start": 43,
+                        "end": 52
+                    },
+                    {
+                        "text": "Brogy",
+                        "link_title": "/wiki/Brogy",
+                        "is_wikipedia": false,
+                        "start": 57,
+                        "end": 66
+                    },
+                    {
+                        "text": "Elbaf",
+                        "link_title": "/wiki/Elbaf",
+                        "is_wikipedia": false,
+                        "start": 36,
+                        "end": 45
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "eiichiro_oda",
+                        "dorry",
+                        "brogy"
+                    ],
+                    "places": [
+                        "elbaf"
+                    ],
+                    "topics": [
+                        "one_piece_world",
+                        "historical_influences"
+                    ],
+                    "emotions": [
+                        "happy",
+                        "excited"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader notes similarity of Dorry and Brogy's helmets to Celt and Verden-era Swedish helmets, Oda confirms influence from Vikings."
+            }
+        ],
+        "page": 46,
+        "chapter_number": 147,
+        "page_header": "SBS Vol 17 header.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 4,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei!!! OHHHAAAAAAA!!!",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "OHHHAAAAAAAAA!!! (Playing along).",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "excited"
+                    ],
+                    "topics": [],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader greets Oda, who responds in kind."
+            },
+            {
+                "number": 5,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I have a question. Is [[Momoo]] a \"[[Sea King]]\"? One of my friends says \"He's a Sea King!!\", but I don't know...<ref name=chap148>''One Piece Manga'' - Vol. 17 [[Chapter 148]] page 66.</ref>",
+                        "matches": [
+                            [
+                                22,
+                                31,
+                                "Momoo"
+                            ],
+                            [
+                                35,
+                                47,
+                                "Sea King"
+                            ],
+                            [
+                                161,
+                                176,
+                                "Chapter 148"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Momoo? To be precise, Momoo is classified as a \"[[Sea Beast]]\". It's the same thing in \"One Piece\" as what we call sea-dwelling mammals in our world, like seals or whales. Therefore, simply think of \"Sea Kings\" as giant, non-mammalian animals living in the sea.",
+                        "matches": [
+                            [
+                                48,
+                                61,
+                                "Sea Beast"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Momoo",
+                        "link_title": "/wiki/Momoo",
+                        "is_wikipedia": false,
+                        "start": 22,
+                        "end": 31
+                    },
+                    {
+                        "text": "Sea King",
+                        "link_title": "/wiki/Sea King",
+                        "is_wikipedia": false,
+                        "start": 35,
+                        "end": 47
+                    },
+                    {
+                        "text": "Chapter 148",
+                        "link_title": "/wiki/Chapter 148",
+                        "is_wikipedia": false,
+                        "start": 161,
+                        "end": 176
+                    },
+                    {
+                        "text": "Sea Beast",
+                        "link_title": "/wiki/Sea Beast",
+                        "is_wikipedia": false,
+                        "start": 48,
+                        "end": 61
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "momoo"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "sea_beast",
+                        "classification"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Momoo, classified as a Sea Beast, is not a Sea King but a sea-dwelling mammal like seals or whales in One Piece."
+            },
+            {
+                "number": 6,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Does One Piece have an official home page?<ref name=chap148 />",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Hmmm. Maybe, maybe not. Not specifically for One Piece, but there is a Jump page, and in there is a One Piece corner. The name of the webpage is \"Pop Web Jump\", so if you run a search for that, you should be able to find it.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "official_home_page",
+                        "jump"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda confirms there's no official One Piece website, but suggests looking for 'Pop Web Jump' for a related site."
+            },
+            {
+                "number": 7,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Please listen to me, Oda-sensei. When I was standing around reading in a bookstore earlier, I realized something. I thought, is there some kind of connection between [[Nefertari Vivi|Vivi]]-chan and ancient Egypt? Vivi-chan's full name is Nefertari Vivi, and her father's name is [[Nefertari Cobra]]. In ancient Egypt, the name \"Nefertari\" meant \"the most beautiful\" or \"the most wonderful\", and therefore was often affixed to the portraits of queens and princesses. Also, [[Arabasta]] is a sand kingdom, and her father's name is Cobra. I'll be really happy if I got it right. If I am, please acknowledge me as a rival to Knowledgeable Himeko. By Maimai.<ref name=chap148 />",
+                        "matches": [
+                            [
+                                166,
+                                189,
+                                "Nefertari Vivi|Vivi"
+                            ],
+                            [
+                                280,
+                                299,
+                                "Nefertari Cobra"
+                            ],
+                            [
+                                473,
+                                485,
+                                "Arabasta"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I see... Is that what it means? Nefertari, I mean. Nice. I most certainly used ancient Egypt as a model for Arabasta, so I just flipped through a book about Egypt and picked out names that sounded nice. I see... I picked out a good name (for a person). Okay! I'll acknowledge it! You are a rival to Knowledgeable Himeko!! I see...",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Vivi",
+                        "link_title": "/wiki/Nefertari Vivi",
+                        "is_wikipedia": false,
+                        "start": 166,
+                        "end": 189
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Nefertari Cobra",
+                        "link_title": "/wiki/Nefertari Cobra",
+                        "is_wikipedia": false,
+                        "start": 280,
+                        "end": 299
+                    },
+                    {
+                        "text": "Arabasta",
+                        "link_title": "/wiki/Arabasta",
+                        "is_wikipedia": false,
+                        "start": 473,
+                        "end": 485
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "nefertari_vivi",
+                        "nefertari_cobra"
+                    ],
+                    "places": [
+                        "arabasta"
+                    ],
+                    "emotions": [
+                        "happy"
+                    ],
+                    "topics": [
+                        "names_meaning",
+                        "place_inspiration"
+                    ],
+                    "importance": "high",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Fan notices Vivi's name is Egyptian, Oda confirms using Egypt as model for Arabasta and picked names he liked, acknowledges fan as rival to Knowledgeable Himeko."
+            }
+        ],
+        "page": "66",
+        "chapter_number": "148",
+        "page_header": null
+    },
+    {
+        "qa": [
+            {
+                "number": 8,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "How is a volume of comics created? Like, where exactly does the \"name\" get decided, and everything? Please tell me.<ref>''One Piece Manga'' - Vol. 17 [[Chapter 149]] page 86.</ref>",
+                        "matches": [
+                            [
+                                150,
+                                165,
+                                "Chapter 149"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "The \"name\". Ah yes. I do the \"Great Name Introduction\" in these books sometimes. I'll give a full explanation of the order it goes in. The entire schedule we go through to get this book into your hands.\n\n*Step 1: Space Out\n\nSpace out dejectedly.\n\n*Step 2: Meeting\n\nTalk to the people at Jump about what will be in the next chapter.\n\n*Step 3: Planning\n\nThink about what will actually go in the chapter.\n\n*Step 4: Name\n\nWrite a \"name\" on a blank piece of paper.\n\n*Step 5: Show the Name\n\nFax the name to the boss. If he doesn't like it, we fight, or I rename it.\n\n*Step 6: Master Copy\n\nCall the assistants over to my house, and we go nuts for 2 or 3 days. We draw the master copy.\n\n*Step 7: [[Jump]] goes on Sale\n\nJump goes on sale around the country.\n\n*Step 8: Meeting\n\nNow I talk with the high-tech boss Y-san about the cover of the book and how to color it.\n\n*Step 9: Make the Extras\n\nDraw the cover pages and make the [[SBS]].\n\n*Step 10: Book goes on Sale\n\nIt's already complete a full month before it's available in stores. The end.\n\nSo this is basically how it works. Well, this is my schedule, but all artists have their own pace. Just consider trying to draw before coming up with a name for your master copy is like manga artists' block.",
+                        "matches": [
+                            [
+                                688,
+                                696,
+                                "Jump"
+                            ],
+                            [
+                                919,
+                                926,
+                                "SBS"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Chapter 149",
+                        "link_title": "/wiki/Chapter 149",
+                        "is_wikipedia": false,
+                        "start": 150,
+                        "end": 165
+                    },
+                    {
+                        "text": "Jump",
+                        "link_title": "/wiki/Jump",
+                        "is_wikipedia": false,
+                        "start": 688,
+                        "end": 696
+                    },
+                    {
+                        "text": "SBS",
+                        "link_title": "/wiki/SBS",
+                        "is_wikipedia": false,
+                        "start": 919,
+                        "end": 926
+                    }
+                ],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "dejected",
+                        "funny"
+                    ],
+                    "topics": [
+                        "one_piece_creation",
+                        "manga_production"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda explains the process of creating a manga volume, starting with spacing out, meeting with Jump, planning, naming, showing the name to the boss, creating the master copy, releasing Jump, discussing the book cover, making extras, and finally the book going on sale."
+            }
+        ],
+        "page": "86",
+        "chapter_number": "149",
+        "page_header": null
+    },
+    {
+        "qa": [
+            {
+                "number": 9,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello, Oda-sensei. I am \"Always Serious Aiko-chan!!\" In Volume 15 you suggested that we write fan letters to Toei Animation. I would like to, but I don't know what the address is. Please Oda-sensei, tell us with your Heart and Spirit.",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Okay. I've gotten a lot of postcards like this, so I got permission from Toei Animation. Here it is:\n\n''(An image of the address)''\n\nPlease send fan letters to the One Piece animators at this address. Even a single postcard with a one line sentence from the viewers (In my case it would be readers) cheers them up and gives them great energy, really. Sometimes I get letters to the animators, but I wish that you would send those sentiments directly to the people who created it.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "happy",
+                        "excited"
+                    ],
+                    "topics": [
+                        "fan letters",
+                        "toei animation",
+                        "one piece animators"
+                    ],
+                    "importance": "hight",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda provides Toei Animation's address for fans to send fan letters to One Piece animators, stating it boosts their morale and energy."
+            },
+            {
+                "number": 10,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Um, it seems like whenever [[Dalton]]-san, the Captain of the [[Drum Island|Drum]] Civilian Defense Force, is asked a question, he says something extra after it that doesn't matter at all. Is it because he's a nice person?<ref>''One Piece Manga'' Vol. 17 [[Chapter 153]] page 166.</ref>",
+                        "matches": [
+                            [
+                                27,
+                                37,
+                                "Dalton"
+                            ],
+                            [
+                                62,
+                                82,
+                                "Drum Island|Drum"
+                            ],
+                            [
+                                255,
+                                270,
+                                "Chapter 153"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "He does certainly say some unnecessary things. But I bet it's because he's just a good guy. Oh, and he likes chestnuts, by the way.\n\n''(Two images of two scenes from the manga, with the following text).''\n\nDalton: It's a lakeshore town further north of here. And also... skating is popular there.\n\n\n\nDalton: There's no denying that she has skill. But she is a rather... strange old woman... She's almost 140 years old.\n\nSanji: A... 140?!! And she's alive?!\n\nDalton: Well... yes... she does like those dried plums.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Drum",
+                        "link_title": "/wiki/Drum Island",
+                        "is_wikipedia": false,
+                        "start": 62,
+                        "end": 82
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Dalton",
+                        "link_title": "/wiki/Dalton",
+                        "is_wikipedia": false,
+                        "start": 27,
+                        "end": 37
+                    },
+                    {
+                        "text": "Chapter 153",
+                        "link_title": "/wiki/Chapter 153",
+                        "is_wikipedia": false,
+                        "start": 255,
+                        "end": 270
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "dalton",
+                        "sanji"
+                    ],
+                    "places": [
+                        "lakeshore_town"
+                    ],
+                    "topics": [
+                        "drum_civilian_defense_force",
+                        "old_woman",
+                        "dried_plums"
+                    ],
+                    "emotions": [
+                        "happy",
+                        "surprised"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader asks why Dalton adds unnecessary details in his answers, Oda explains it's because Dalton is a nice person and shares random facts about Dalton's love for chestnuts and an old woman's preference for dried plums."
+            }
+        ],
+        "page": "166",
+        "chapter_number": "153",
+        "page_header": null
+    }
+]

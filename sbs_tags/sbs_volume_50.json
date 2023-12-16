@@ -1,0 +1,885 @@
+[
+    {
+        "qa": [
+            {
+                "number": 1,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "[[File:SBS Vol 50 01.png|120px]] P.N. Many Apologies",
+                        "matches": [
+                            [
+                                0,
+                                32,
+                                "File:SBS Vol 50 01.png|120px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "[[Gecko Moria|M-Moria]]...? I didn't expect the guy barely clinging to his life to come running to start the SBS. By the way, the above title art was selected from the many that we received after [[SBS Volume 49#Chapter 478 - page 168|advertising about it in Volume 49]]. It's been fun choosing, so I picked a bunch, and I think I'll do that in the future, too. Remember, send them to the [[Usopp Gallery]] address!",
+                        "matches": [
+                            [
+                                0,
+                                23,
+                                "Gecko Moria|M-Moria"
+                            ],
+                            [
+                                196,
+                                270,
+                                "SBS Volume 49#Chapter 478 - page 168|advertising about it in Volume 49"
+                            ],
+                            [
+                                389,
+                                406,
+                                "Usopp Gallery"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS Vol 50 01.png",
+                        "size": "120",
+                        "start": 0,
+                        "end": 32
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "M-Moria",
+                        "link_title": "/wiki/Gecko Moria",
+                        "is_wikipedia": false,
+                        "start": 0,
+                        "end": 23
+                    },
+                    {
+                        "text": "advertising about it in Volume 49",
+                        "link_title": "/wiki/SBS Volume 49#Chapter 478 - page 168",
+                        "is_wikipedia": false,
+                        "start": 196,
+                        "end": 270
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Usopp Gallery",
+                        "link_title": "/wiki/Usopp Gallery",
+                        "is_wikipedia": false,
+                        "start": 389,
+                        "end": 406
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "gecko_moria",
+                        "usopp"
+                    ],
+                    "places": [
+                        "usopp_gallery"
+                    ],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "fan_art",
+                        "sbs"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda discusses selecting title art and encourages readers to continue sending in their submissions for consideration in the future."
+            },
+            {
+                "number": 2,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "[[File:SBS Vol 50 02.png|120px]] P.N. Jump Kid",
+                        "matches": [
+                            [
+                                0,
+                                32,
+                                "File:SBS Vol 50 02.png|120px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "OKAY, FORGET IT!! You're taking up WAY too much space for the opening! I want to answer QUESTIONS, dammit!",
+                        "matches": []
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS Vol 50 02.png",
+                        "size": "120",
+                        "start": 0,
+                        "end": 32
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "frustrated"
+                    ],
+                    "topics": [
+                        "author_interruption"
+                    ],
+                    "importance": [
+                        "low"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader wants a nickname, but Oda dismisses it, wanting to focus on answering questions."
+            },
+            {
+                "number": 3,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "[[File:SBS Vol 50 03.png|150px]] P.N. Kurakichi",
+                        "matches": [
+                            [
+                                0,
+                                32,
+                                "File:SBS Vol 50 03.png|150px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Okay, time to get things back on track by answering reader questions. Now we've got nine people who want in on [[CP9]], and seven people volunteering for the [[Shichibukai]]. Now I want all sixteen of you to GET THE HELL OUTTA HERE!!!",
+                        "matches": [
+                            [
+                                111,
+                                118,
+                                "CP9"
+                            ],
+                            [
+                                158,
+                                173,
+                                "Shichibukai"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS Vol 50 03.png",
+                        "size": "150",
+                        "start": 0,
+                        "end": 32
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "CP9",
+                        "link_title": "/wiki/CP9",
+                        "is_wikipedia": false,
+                        "start": 111,
+                        "end": 118
+                    },
+                    {
+                        "text": "Shichibukai",
+                        "link_title": "/wiki/Shichibukai",
+                        "is_wikipedia": false,
+                        "start": 158,
+                        "end": 173
+                    }
+                ],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "angry"
+                    ],
+                    "topics": [],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda starts the Q&A session, expressing frustration with the number of people who want to join CP9 and the Shichibukai."
+            }
+        ],
+        "page": "46",
+        "chapter_number": "483",
+        "page_header": "SBS Vol 50 Chap 483 header.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 4,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "\"I'm gonna be... the Pirate King.\" P.N. Prince TA5 of the Kingdom of Dreams",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Riiight...\n\n[[File:SBS Vol 50 04.png|right|150px]]",
+                        "matches": [
+                            [
+                                12,
+                                50,
+                                "File:SBS Vol 50 04.png|right|150px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS Vol 50 04.png",
+                        "size": "150",
+                        "start": 12,
+                        "end": 50
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "pirate_king",
+                        "dreams",
+                        "p.n.",
+                        "kingdom of dreams"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader declares he'll become Pirate King with the pseudonym Prince TA5 of the Kingdom of Dreams, Oda responds with skepticism and a visual gag."
+            },
+            {
+                "number": 5,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I think sailing these days is a lot better and the ships are built nicer, but what about in the olden days? Where would they flush the poop? Like, just send it to heaven, straight into the sea? P.N. Sorry for Speaking Frankly",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Ah, yes. On sailing ships, it was normal that there would just be a hole on the deck that you would deposit waste into. The hole would run down into the water beneath the boat. There are much fewer sailboats now than there were in the past, and the ones being built today will of course have flushing toilets, the type like on airplanes that go \"whoosh!\" when you flush them. Imagine the Sunny has that, too. However, the dudes like to dispose of their waste in various creative ways.\n\n[[File:SBS Vol 50 05.png|right|150px]]",
+                        "matches": [
+                            [
+                                486,
+                                524,
+                                "File:SBS Vol 50 05.png|right|150px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS Vol 50 05.png",
+                        "size": "150",
+                        "start": 486,
+                        "end": 524
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [
+                        "the sea"
+                    ],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "ship"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Old sailing ships had holes on the deck to deposit waste, which would run down into the water; modern ships have flushing toilets."
+            },
+            {
+                "number": 6,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "This is my first postcard. On the third panel of p. 107 in Volume 49, [[Chapter 475]], there are guys saying they're the [[Risky Brothers]]! Also, the zombie who tried to take Nami's group to Moria (V.47, C.451) was one of the Risky Brothers, too, wasn't he? P.N. Yoshiki",
+                        "matches": [
+                            [
+                                70,
+                                85,
+                                "Chapter 475"
+                            ],
+                            [
+                                121,
+                                139,
+                                "Risky Brothers"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes, that's right. Those cute lil' squirrels were being moved by the shadows of some crusty, greasy men.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Chapter 475",
+                        "link_title": "/wiki/Chapter 475",
+                        "is_wikipedia": false,
+                        "start": 70,
+                        "end": 85
+                    },
+                    {
+                        "text": "Risky Brothers",
+                        "link_title": "/wiki/Risky Brothers",
+                        "is_wikipedia": false,
+                        "start": 121,
+                        "end": 139
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "risky_brothers",
+                        "nami"
+                    ],
+                    "places": [
+                        "moria"
+                    ],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "mysterious_characters",
+                        "shadow"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "The reader points out the appearance of the Risky Brothers in One Piece, and Oda confirms their presence as moving shadows in two chapters."
+            },
+            {
+                "number": 7,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Let's split up right here. P.N. Horra the Divorcer",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Sure. There's more SBS to come!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [],
+                    "importance": [
+                        "low"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader suggests splitting up with a pen name, Oda responds with excitement for more SBS to come."
+            }
+        ],
+        "page": "66",
+        "chapter_number": "484",
+        "page_header": "SBS Vol 50 Chap 484 header.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 8,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello, Oda-sensei! I've been thinking about [[Brook]]'s birthday! Since he has the Yomi Yomi Fruit, why not use yo-mi (4-3) to make April 3 his birthday?! P.N. Lala",
+                        "matches": [
+                            [
+                                44,
+                                53,
+                                "Brook"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Okay, that's settled.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Brook",
+                        "link_title": "/wiki/Brook",
+                        "is_wikipedia": false,
+                        "start": 44,
+                        "end": 53
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "brook"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "devil_fruit"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader suggests using 'yo-mi' (4-3) for Brook's birthday, and Oda agrees to make April 3 his birthday."
+            },
+            {
+                "number": 9,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-senseeei! Look this waaay! Boobs Attack! Boinggg. P.N. Two Looks at Ka*ko and *ka's Jugs",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Wheee! What paradise! KNOCK IT OFF!!! Jeez, you guys!! Stop ruining the sanctity of the SBS!! Huff, huff...",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "annoyed",
+                        "frustrated"
+                    ],
+                    "topics": [
+                        "perverted",
+                        "SBS"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader makes a vulgar comment about a character's chest, and Oda jokingly scolds them for disrupting the Q&A."
+            },
+            {
+                "number": 10,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Congratulations on bringing Brook into the crew, Oda-sensei! I'm all jelly-legged at the thought of him... like I'm boneless! So now that the crew has reached eight other members, I was hoping you could answer all the personal questions you did earlier, for all of the folks who weren't around at the time! by Getchu Inazuma",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I see. And you listed all the questions for me, too. Thanks.\n\nRobin:\n*Animal That She Most Resembles: Crane\n\nFranky:\n*Animal That He Most Resembles: A Bucking bull\n*Number: 08\n*Smells Like: Cola\n*Color: Light blue\n*Favorite Place: Spring Island During the Summer\n\n[[File:SBS Vol 50 08.png|right|120px]]\n\nBrook:\n*Animal That He Most Resembles: Horse\n*Number: 09\n*Smells Like: Tea\n*Color: Black & white\n*Favorite Place: Spring Island During the Fall\n*If you Likened the Crew to Family he Would be the: Grandfather\n*Brook's pirate Flag ->",
+                        "matches": [
+                            [
+                                264,
+                                302,
+                                "File:SBS Vol 50 08.png|right|120px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS Vol 50 08.png",
+                        "size": "120",
+                        "start": 264,
+                        "end": 302
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "brook",
+                        "robin",
+                        "franky"
+                    ],
+                    "places": [
+                        "spring_island"
+                    ],
+                    "topics": [
+                        "crew_members",
+                        "personal_questions",
+                        "favorite_things"
+                    ],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda reveals personal details about the crew members: Robin resembles a crane, Franky a bucking bull, and Brook a horse, while sharing additional trivia for each."
+            }
+        ],
+        "page": "86",
+        "chapter_number": "485",
+        "page_header": "SBS Vol 50 Chap 485 header.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 11,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei, you always avoid the readers' \"[[Rokushiki#Shigan|Shigans]]\" and such by using \"[[Rokushiki#Soru|Soru]]\"! Did you use to be in CP9? I'm so curious, I can't spend my allowance yet! from Female CP9 Research Group",
+                        "matches": [
+                            [
+                                43,
+                                71,
+                                "Rokushiki#Shigan|Shigans"
+                            ],
+                            [
+                                92,
+                                115,
+                                "Rokushiki#Soru|Soru"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Am I busted? Oh, well... I guess there's no hiding it, then. Yes, I was once a member of CP9. Lucci's CP9 is \"Cipher Pol No. 9,\" but in my case, CP9 was \"Cadet Panties: 9 - pairs\" I mean, they're basically the same thing.\n\n[[File:SBS Vol 50 09.png|right|150px]]",
+                        "matches": [
+                            [
+                                223,
+                                261,
+                                "File:SBS Vol 50 09.png|right|150px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS Vol 50 09.png",
+                        "size": "150",
+                        "start": 223,
+                        "end": 261
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Shigans",
+                        "link_title": "/wiki/Rokushiki#Shigan",
+                        "is_wikipedia": false,
+                        "start": 43,
+                        "end": 71
+                    },
+                    {
+                        "text": "Soru",
+                        "link_title": "/wiki/Rokushiki#Soru",
+                        "is_wikipedia": false,
+                        "start": 92,
+                        "end": 115
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "robucho_lucci"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "amused"
+                    ],
+                    "topics": [
+                        "CP9",
+                        "Rokushiki",
+                        "Soru",
+                        "Oda's personal life"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda jokingly admits to being a member of CP9, referring to it as 'Cadet Panties: 9 - pairs' and alluding to avoiding reader's demands in a playful manner."
+            },
+            {
+                "number": 12,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "In Volume 47-48, who changed Nami into the wedding dress? It wasn't that old zombie dude with the measuring tape in Chapter 458, was it? Because that would be terrible. He must have seen her naked when he was changing her outfit! What a disgusting zombie! from Ariga-san",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Duhh................................... Oh!! Damn! I totally went into a daydream just now. Who could have done that?! It's just filthy. Duhh....................\n\n[[File:SBS Vol 50 10.png|right|120px]]",
+                        "matches": [
+                            [
+                                163,
+                                201,
+                                "File:SBS Vol 50 10.png|right|120px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS Vol 50 10.png",
+                        "size": "120",
+                        "start": 163,
+                        "end": 201
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "nami",
+                        "old_zombie_dude"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "surprise",
+                        "disgust",
+                        "playful"
+                    ],
+                    "topics": [
+                        "clothing",
+                        "humor"
+                    ],
+                    "importance": [
+                        "low"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda gets flustered by the question about Nami's wedding dress and responds playfully, pretending to be in a daydream and avoiding a direct answer."
+            },
+            {
+                "number": 13,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Here's my question: on p. 80 of Volume 42, Sanji says \"I was raised to never kick a woman.\" Would that have been a lesson from [[Zeff]] the Chef? Would that mean Zeff is very soft on women, as well? Tell me. from Ariga-san\n\n[[File:SBS Vol 50 11.png|right|80px]]",
+                        "matches": [
+                            [
+                                127,
+                                135,
+                                "Zeff"
+                            ],
+                            [
+                                224,
+                                261,
+                                "File:SBS Vol 50 11.png|right|80px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Oops, this one's from the same person as the last one. This is a good question though, so I'll answer it. When I drew Sanji vs Kalifa (Chapter 403), some people lauded Sanji's stance, and some people felt sorry for him. The truth is, I didn't really want to write those lines. Sanji doesn't have a \"policy\" of not kicking women; the truth is that he actually CAN'T kick them. He is a very proud man. I think he was really frustrated at that. think Nami recognized that, and chose to praise him for once. It's a scene that I hope will resonate with male readers, but everyone's free to take it as they wish. Also, Zeff is just a man among men.",
+                        "matches": []
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS Vol 50 11.png",
+                        "size": "80",
+                        "start": 224,
+                        "end": 261
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Zeff",
+                        "link_title": "/wiki/Zeff",
+                        "is_wikipedia": false,
+                        "start": 127,
+                        "end": 135
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "sanji",
+                        "nami",
+                        "zeff"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "frustrated",
+                        "proud",
+                        "sympathy"
+                    ],
+                    "topics": [
+                        "gender_roles",
+                        "character_backstory"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Sanji's inability to kick women stems from frustration and pride, not a policy; Oda hopes the scene resonates with male readers, and clarifies Zeff as 'a man among men.'"
+            }
+        ],
+        "page": "106",
+        "chapter_number": "486",
+        "page_header": "SBS Vol 50 Chap 486 header.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 14,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello, Odacchi. So here's a quick question. You said that when four Rumble Balls are eaten, YOU go crazy... but when five are eaten, the readers go crazy! (Just like me...) Choppaaaaaaaaar!!! P.S. Seems like all the readers in the SBS have eaten five.",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Whoa!! Chopper looks WEIRD! Yikes! Wow, so all those people who have been sending in postcards for the SBS were eating Rumble Balls? It all makes so much sense now.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "tony_tony_chopper"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "surprised",
+                        "funny"
+                    ],
+                    "topics": [
+                        "rumble_balls",
+                        "SBS",
+                        "reader_interaction"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda acknowledges the readers' enthusiasm for the SBS, comparing it to the effects of eating Rumble Balls, and comments on Chopper's appearance in the fan drawings."
+            },
+            {
+                "number": 15,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Please put out a CD of \"[[Binks' Sake]]\". Where it says \"Lyrics by Eiichiro Oda.\" P.N. Fusion!!! Ha!!!\n\n[[File:SBS Vol 50 12.png|right|120px]]",
+                        "matches": [
+                            [
+                                24,
+                                39,
+                                "Binks' Sake"
+                            ],
+                            [
+                                104,
+                                142,
+                                "File:SBS Vol 50 12.png|right|120px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Right. Maybe Binks' Sake WILL come out sometime. That chant was actually fully written by the very first time Brook appeared in the story. In fact, this is a great time to explain that I went to the great anime authority Kohei Tanaka-san to write the music for me ahead of time, because when it came around to the anime, I didn't want the lyrics I wrote to\nmess up the guys who had to turn that song into music. I told him, \"I'm going to do [[Thriller Bark]] in a year or so,\" and it only took what, like four or five years? Ha ha. Well, it took an hour or so, but he managed to make the lyrics from Chapter 488 (The Song of Life) match up. At first, it had a frightening sound, but by changing the performance, it became funny. Therefore, Thriller Bark owes a great debt to the incredible Kohei \"Genius\" Tanaka. Hope you like the anime! I was actually hoping to get the song in school textbooks, but since it had \"sake\" in it, I had to give up on that. I hope you all sing it, just the same. And now, END THE SBS!! See you next volume!!!",
+                        "matches": [
+                            [
+                                441,
+                                458,
+                                "Thriller Bark"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS Vol 50 12.png",
+                        "size": "120",
+                        "start": 104,
+                        "end": 142
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Binks' Sake",
+                        "link_title": "/wiki/Binks' Sake",
+                        "is_wikipedia": false,
+                        "start": 24,
+                        "end": 39
+                    },
+                    {
+                        "text": "Thriller Bark",
+                        "link_title": "/wiki/Thriller Bark",
+                        "is_wikipedia": false,
+                        "start": 441,
+                        "end": 458
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "brook"
+                    ],
+                    "places": [
+                        "thriller_bark"
+                    ],
+                    "emotions": [
+                        "happy",
+                        "funny"
+                    ],
+                    "topics": [
+                        "binks_sake",
+                        "music",
+                        "anime"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda explains the origins of 'Binks' Sake' and crediting it to Kohei Tanaka for creating the music and adjusting the lyrics to fit the anime."
+            }
+        ],
+        "page": "166",
+        "chapter_number": "489",
+        "page_header": "SBS Vol 50 Chap 489 header.png"
+    }
+]

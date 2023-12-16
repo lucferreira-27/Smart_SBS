@@ -1,0 +1,740 @@
+[
+    {
+        "qa": [
+            {
+                "number": 1,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchi... Today, when I was cleaning my room, I found a note that Cora-san left behind...\n\nWhen I saw it, I suddenly remembered about Cora-san and...\n\n<nowiki>*sniffle*</nowiki>...(tears). I wanted Odacchi to see it too, so I've sent it over. P.N. Mirucle\n\n[[File:SBS78_1_Corazon.png|thumb|left|400px|''\"gonna go start the SBS\"'']]",
+                        "matches": [
+                            [
+                                258,
+                                332,
+                                "File:SBS78_1_Corazon.png|thumb|left|400px|''\"gonna go start the SBS\"''"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Uwoooooon (cries). Cora-saaan...!! The sbs~~..\n\n<font size=\"4\">JUST STARTED!! ''(shock)''</font>",
+                        "matches": []
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS78_1_Corazon.png",
+                        "size": "400",
+                        "start": 258,
+                        "end": 332
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "corazon"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "sad"
+                    ],
+                    "topics": [
+                        "corazon",
+                        "SBS"
+                    ],
+                    "importance": "hight",
+                    "isCharacterInsertion": true
+                },
+                "summary": "A reader finds a note from Cora-san, and Eiichiro Oda expresses sadness, prompting the beginning of an SBS session."
+            },
+            {
+                "number": 2,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Whenever I chug a carbonated drink, I get an upset stomach.\n\nWhat should I do? P.N. Dog Lover",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I think it'd be fine if you didn't chug.\n\n[[File:SBS78_1_Pandaman.png|thumb|180px|''Left: The mom''<br />\n''Caption: Wooden sword''<br />\n''Right: The dad'']]",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "health",
+                        "drinks",
+                        "advice"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "To avoid an upset stomach, don't chug carbonated drinks, as suggested by Oda."
+            },
+            {
+                "number": 3,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I want Pandaman to have parents\n\n--and so I've made them!\n\nPlease check it out!! P.N. Kanahasa--",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "It really bothers me that the mom's body is clearly male.\n\nThanks for the post card (^ ^)\n\nConcept rejected.{{-}}",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "pandaman"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "bothered"
+                    ],
+                    "topics": [
+                        "character_design",
+                        "fan_request"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "Fan wants Pandaman's parents, but Oda rejects the idea due to the apparent male body of the mom in the artwork."
+            },
+            {
+                "number": 4,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I know this is sudden, but I have a question for Odacchi.\n\nWhy is it that there is an abnormally extensive number of characters in One Piece who have unknown or already deceased mothers? P.N. Navy Blue",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I see. Well. The answer is simple.\n\nThat's because <font size=\"4\">\"Mother\"</font> is the antonym for <font size=\"4\">\"Adventure\"</font>.\n\n''<nowiki>*Please don't write that on a test</nowiki>''",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "family",
+                        "adventure"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Characters in One Piece have unknown or deceased mothers because 'mother' is the antonym for 'adventure.'"
+            },
+            {
+                "number": 5,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Question, so \"Gimlet\", who appears in chapter 775 is based off of \"Gimlet\" the cocktail, right!? Oda-sensei, could it be that you're also a [[wikipedia:Raymond Chandler|Raymond Chandler]] fan? \n\nOr maybe you just really like alcohol (haha). P.N. Law's Second Assistant\n\n[[File:SBS78 2 Gimlet.png|thumb|180px]]",
+                        "matches": [
+                            [
+                                140,
+                                187,
+                                "wikipedia:Raymond Chandler|Raymond Chandler"
+                            ],
+                            [
+                                270,
+                                309,
+                                "File:SBS78 2 Gimlet.png|thumb|180px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes. That is where \"Gimlet\" came from. How to go about this, it'd be way too complicated if I tried to explain it all. Basically, it was just a play on words for my amusement using this proverb, and I'm sure people who understand what I'm talking about will get this, but there's this famous line from the novel ''[[wikipedia:The Long Goodbye (novel)|The Long Goodbye]]'' that goes\u00a0\"I suppose it's a bit too early for a Gimlet\". Uhh, in other words,\u00a0I gave him that name because I felt like I couldn't not reference the word when it came to drawing about hardboiledness. If it interests you, please go look it up. [[Russian]] is also the name of an alcoholic drink. Additionally, though I'm a Kyushu lad who draws pirates for a living and loves the concept of hardboiledness, I'm still no good at handling drinks.\n\n[[File:SBS78 2 Breasts.png|thumb|180px]]",
+                        "matches": [
+                            [
+                                314,
+                                369,
+                                "wikipedia:The Long Goodbye (novel)|The Long Goodbye"
+                            ],
+                            [
+                                614,
+                                625,
+                                "Russian"
+                            ],
+                            [
+                                815,
+                                855,
+                                "File:SBS78 2 Breasts.png|thumb|180px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS78 2 Gimlet.png",
+                        "size": "180",
+                        "start": 270,
+                        "end": 309
+                    },
+                    {
+                        "file": "SBS78 2 Breasts.png",
+                        "size": "180",
+                        "start": 815,
+                        "end": 855
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Raymond Chandler",
+                        "link_title": "/wiki/Raymond Chandler",
+                        "is_wikipedia": true,
+                        "start": 140,
+                        "end": 187
+                    },
+                    {
+                        "text": "The Long Goodbye",
+                        "link_title": "/wiki/The Long Goodbye (novel)",
+                        "is_wikipedia": true,
+                        "start": 314,
+                        "end": 369
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Russian",
+                        "link_title": "/wiki/Russian",
+                        "is_wikipedia": false,
+                        "start": 614,
+                        "end": 625
+                    }
+                ],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "amused"
+                    ],
+                    "topics": [
+                        "Gimlet_cocktail",
+                        "Raymond_Chandler",
+                        "alcohol",
+                        "name_origin",
+                        "hardboiledness"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda confirms that the character 'Gimlet' is based on the cocktail and references a line from 'The Long Goodbye' novel, but admits he's not good with drinks."
+            },
+            {
+                "number": 6,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "We realized that Robin has huge breasts.\n\nWe checked from the side, and Nami also has huge breasts.\n\nWhy do they both have such huge breasts?\n\nAnd could it be Oda-san's preference?\n\nThat was a question from us two 10-year-olds. P.N. Sakucchan & Yuzu-chan",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I keep saying this, but I'm just bringing the young boys' dreams to life! All of humanity on earth! I command your breasts to grow~!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "nico_robin",
+                        "nami"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "character_design",
+                        "oda's_preferred_style"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda explains that he's simply fulfilling the dreams of young boys and humorously commands all of humanity's breasts to grow."
+            },
+            {
+                "number": 7,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Greetings, how do you do? I'm doing great.\n\nI have a question regarding one pieces, which I love very much.\n\nI am wondering whether I should go for floral or solid.\n\nI like floral print, but it's like, solid print also seems more mature and lady-like.\n\nWhich do you think is better, Oda-san? P.N. The Unrivaled Conquerer, HaruHaru-sama",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Let's see. As for me, I usually go out wearing a frilly, floral print one piece. Then I always realize that I've somehow ended up in a police station, and the policeman is always asking me all kinds of these strange questions, but nevertheless- I'm still doing great! Gotta love one pieces!\n\n<font color=#999999>''(Translator's Note: They are referring to one piece dresses. In Japanese, since there is no difference in singular vs plural nouns and there are no capital or lower case letters, \"one pieces\" and \"One Piece\" look and sound identical.)''</font>",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "fashion",
+                        "personal_life"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda prefers frilly, floral print one pieces, although he jokingly ends up in a police station, but he loves one pieces."
+            },
+            {
+                "number": 8,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I have a question for Odacchi. In \"The White City\", chapter 762 of volume 76, during the scene where Law stabs Cora-san, I found Crocodile printed on the paper Cora-san was reading.\n\nSo what was that article about? P.N. Yamamoto\u30fbSugiyama\u30fbHori\n\n[[File:SBS78 3 Crocodile.png|thumb|200px]]",
+                        "matches": [
+                            [
+                                244,
+                                286,
+                                "File:SBS78 3 Crocodile.png|thumb|200px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes. I'm quite impressed you found this one~. As you've pointed out, if you look really closely, you can find Crocodile there.\n\nThis was from the time when Law was 10 and Doflamingo was 25; 16 years ago from now. Crocodile was 30 at the time.\n\nSimilar to Luffy, back when he was young, Crocodile's name spread across the seas with incredible momentum, but soon after he was admitted into the Shichibukai in his mid-20's, he tried to fight Whitebeard and was completely and utterly crushed by him.\n\nThough he seemingly calmed down at this point, his eyes became set on the kingdom of Alabasta, and it happened to be precisely during this time period that he was being featured in the papers as a hero who hunted down pirates. In other words, that was an article reporting the acts of heroism by Crocodile at the time!",
+                        "matches": []
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS78 3 Crocodile.png",
+                        "size": "200",
+                        "start": 244,
+                        "end": 286
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "law",
+                        "doflamingo",
+                        "crocodile",
+                        "luffy",
+                        "whitebeard"
+                    ],
+                    "places": [
+                        "alabasta"
+                    ],
+                    "emotions": [
+                        "impressed"
+                    ],
+                    "topics": [
+                        "crocodile's_past",
+                        "alabasta",
+                        "shichibukai"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda explains that the article with Crocodile was about his heroic acts as a pirate before becoming a Shichibukai."
+            },
+            {
+                "number": 9,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "What are the thorn-like things on Pica's shoulders? P.N. No. 73",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "If you put a growing watermelon into a square container, you will eventually get a square watermelon. In Pica's case, he constantly wore a shoulder guard shaped like that during puberty, so his shoulders just grew that way!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "pica"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "body_modification",
+                        "physical_appearance"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Pica's shoulder thorns are due to him constantly wearing a shoulder guard during puberty, resulting in his shoulders growing that way."
+            },
+            {
+                "number": 10,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei--!! Buggy would be able to get past the \"Bird Cage\", wouldn't he!!! P.N. Mr. DoMyChores\n\n[[File:SBS78 4 Buggy.png|thumb|200px]]",
+                        "matches": [
+                            [
+                                100,
+                                138,
+                                "File:SBS78 4 Buggy.png|thumb|200px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "You're right, he would--.\n\nEven if you put him in the bird cage with his crewmates, he'd still escape by himself!\n\nThis is a nice picture (\u2192) <font color=#999999>''badly hand-drawn illustration of buggy split in half by reader provided''</font>\n\n[[File:SBS78 4 Luffy.png|thumb|120px]]",
+                        "matches": [
+                            [
+                                246,
+                                284,
+                                "File:SBS78 4 Luffy.png|thumb|120px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS78 4 Buggy.png",
+                        "size": "200",
+                        "start": 100,
+                        "end": 138
+                    },
+                    {
+                        "file": "SBS78 4 Luffy.png",
+                        "size": "120",
+                        "start": 246,
+                        "end": 284
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "buggy",
+                        "luffy"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "bird_cage",
+                        "buggy_ability",
+                        "escape"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Buggy would be able to get past the Bird Cage, even if put in with his crewmates, he'd still escape by himself."
+            },
+            {
+                "number": 11,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "<p style=\"font-family:Mistral; font-size: 150%\">When Luffy and Doflamingo get into a fight I want Luffy to win.</p>\n\nfrom Iwate Prefecture, Taichi-kun\n\n<font color=#999999>''(Translator's Note: Written in extremely bad child's handwriting, accompanied by a distorted illustration of Luffy [by a child])''</font>",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I'm with you!! Please cheer for him with me!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy",
+                        "doflamingo"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "happy"
+                    ],
+                    "topics": [
+                        "fight",
+                        "support"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Doflamingo and Luffy getting into a fight, a reader from Iwate Prefecture wants Luffy to win, and Oda expresses his agreement and asks for support."
+            },
+            {
+                "number": 12,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Please teach us an easy way to draw Zoro! P.N. Kanahasa--",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "[[File:SBS78 4 Zoro.png|thumb|500px|center]]\n\n* Spiky grass grew.\n* Two \u201che\u201c's (\u3078) in a big sea.\n* A drop of soy sauce on the dumpling, now bless yourself with a cross before your meal and now it's time to eat!\n* Now there's 3 swords, 3 swords style!\n* Go jagged, go in circles, it's Zoro the lost child! He also grew a bit more hair.\n\n<font color=#999999>''Zoro: Who're you calling a lost child''</font>",
+                        "matches": [
+                            [
+                                0,
+                                44,
+                                "File:SBS78 4 Zoro.png|thumb|500px|center"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS78 4 Zoro.png",
+                        "size": "500",
+                        "start": 0,
+                        "end": 44
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "roronoa_zoro"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "humorous"
+                    ],
+                    "topics": [
+                        "drawing_tutorial"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "To draw Zoro, make spiky grass, two 'he's in a big sea, a drop of soy sauce on a dumpling, add 3 swords, go jagged and in circles, and give him more hair."
+            },
+            {
+                "number": 13,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Does Buffalo style his unique hairdo on his own everyday? P.N. No. 73",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "They're actually cowlicks.\n\n[[File:SBS78 5 X Drake.png|thumb|180px]]",
+                        "matches": [
+                            [
+                                28,
+                                68,
+                                "File:SBS78 5 X Drake.png|thumb|180px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS78 5 X Drake.png",
+                        "size": "180",
+                        "start": 28,
+                        "end": 68
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "buffalo"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "hairdo",
+                        "appearance"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Buffalo's unique hairdo is actually cowlicks, not styled hair, according to Oda."
+            },
+            {
+                "number": 14,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "The one who was with Barrels, the pirate called \"Dorry\", was X Drake, captain of the Drake pirates, right?! It struck me when I saw the name \"Diez\", found the scar on his chin, and discovered that he comes from the sea of the North.\n\nSo does that mean that Barrels is Drake-san's father? from Kobe Prefecture, Kazuki-kun",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes, that's correct!! Well done with your findings.\n\nX Drake, along with Luffy and the others, is a member of the youthful \"Worst Generation\" of pirates that stirred up a great deal of commotion around the world. His father, Barrels, used to be a Marine Officer and Drake admired this, dreaming of becoming a great Marine just like him one day. However; who knows what happened, but his father suddenly turned into a pirate and became a terrible man who would physically abuse even his own son. Drake, who still believed in his past father and followed him around was aged 19 at this time (13 and a half years ago). Though that's a bit too old to be calling him a boy, he probably seemed to look a lot younger while he was weakened with the fear of his father. Later, he fatefully crossed paths with Law, and the Marines soon took custody of him, leading Drake to become a Marine. The thing is, as if resigning himself to fate, after Drake made his way all the way up to becoming a Rear Admiral in the Marines, he ended up leaving the navy and becoming a pirate himself!!\n\nJust what happened? What's he thinking? Hey, you!! ---come onnnnnn.\n\nI'm interested in seeing the future of Drake, who has also made an appearance in a cover series!!",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Alright, everyone. So in the previous volume, I introduced Horikoshi-kun, the author of \"[[Wikipedia:My Hero Academia|My Hero Academia]]\" whose work was published in one of the Usopp Gallery Pirates. This time, I'm proud to announce that I've gotten a notice that P.N. Nozomu Mori who was awarded Grand Prize in [[Volume 74]] has debuted with a one-shot! Though it wasn't published by companies like Shueisha or Jump, I heard that this person debuted under the penname \"Keita Himuro\" in a magazine called \"[[Wikipedia:Monthly Afternoon|Monthly Afternoon]]\" this year! Congratulations! I'd love to see this person get one of his works serialized and for him to make a name for himself in the great sea that is the Manga World! You've got this!! (^ ^)\n\nBy the way, one of his works is featured yet again in the UG Pirates segment of this volume.",
+                        "matches": [
+                            [
+                                89,
+                                136,
+                                "Wikipedia:My Hero Academia|My Hero Academia"
+                            ],
+                            [
+                                312,
+                                325,
+                                "Volume 74"
+                            ],
+                            [
+                                506,
+                                555,
+                                "Wikipedia:Monthly Afternoon|Monthly Afternoon"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "x_drake",
+                        "barrels",
+                        "luffy",
+                        "law"
+                    ],
+                    "places": [],
+                    "topics": [
+                        "worst_generation",
+                        "marines",
+                        "pirates",
+                        "character_backstory"
+                    ],
+                    "emotions": [
+                        "interested",
+                        "proud"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "X Drake is the son of Marine Officer Barrels and admired him until Barrels became a terrible man and Drake became a Marine, then a pirate."
+            },
+            {
+                "number": 15,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello to you!! Recently, I found out from watching a television show that real marines eat [[Wikipedia:Japanese curry|curry]] every single Friday while on duty to keep track of the days of the week. \n\nDo the Marines from One Piece eat curry too?\n\nIf so, does the curry that Rika makes taste super sweet? P.N. Kagamin\n\n[[File:SBS78 6 Rika.png|thumb|150px]]",
+                        "matches": [
+                            [
+                                91,
+                                125,
+                                "Wikipedia:Japanese curry|curry"
+                            ],
+                            [
+                                318,
+                                355,
+                                "File:SBS78 6 Rika.png|thumb|150px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "You're talking about \"Marine Curry\". It's a well known story, but ONE PIECE Marines do just the same.\n\nFrom what I hear, the marines keep a balanced nutrition in mind and have delicious seafood curry once a week.\n\nAt the branch where Rika is stationed, I hear that \"Rika's sweet mild curry\" is extremely popular.\u00a0\n\nWell then, SBS will be ending here! See you in the next volume~~!!",
+                        "matches": []
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS78 6 Rika.png",
+                        "size": "150",
+                        "start": 318,
+                        "end": 355
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "curry",
+                        "link_title": "/wiki/Wikipedia:Japanese curry",
+                        "is_wikipedia": false,
+                        "start": 91,
+                        "end": 125
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "rika"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "happy"
+                    ],
+                    "topics": [
+                        "marine_curry",
+                        "food"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "One Piece marines eat seafood curry once a week, and Rika's sweet mild curry is popular at her station."
+            }
+        ],
+        "page": null,
+        "chapter_number": null,
+        "page_header": null
+    }
+]

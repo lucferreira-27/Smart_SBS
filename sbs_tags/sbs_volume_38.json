@@ -1,0 +1,778 @@
+[
+    {
+        "qa": [
+            {
+                "number": 1,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hi there, [[Eiichiro Oda|Oda]]-sensei! I was just thinking. About the \"[[Doa Doa no Mi]]\". If [[Sanji]] ate the Doa Doa no Mi... [[Nami|NAMI]] COULD NEVER TAKE A BATH. Well, good luck with your work.",
+                        "matches": [
+                            [
+                                10,
+                                30,
+                                "Eiichiro Oda|Oda"
+                            ],
+                            [
+                                71,
+                                88,
+                                "Doa Doa no Mi"
+                            ],
+                            [
+                                94,
+                                103,
+                                "Sanji"
+                            ],
+                            [
+                                129,
+                                142,
+                                "Nami|NAMI"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Man, you're so right. It would be like the end of the world. All the women in the world would live in terror of being seen in the bath. It's a horrifying thought.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Oda",
+                        "link_title": "/wiki/Eiichiro Oda",
+                        "is_wikipedia": false,
+                        "start": 10,
+                        "end": 30
+                    },
+                    {
+                        "text": "NAMI",
+                        "link_title": "/wiki/Nami",
+                        "is_wikipedia": false,
+                        "start": 129,
+                        "end": 142
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Doa Doa no Mi",
+                        "link_title": "/wiki/Doa Doa no Mi",
+                        "is_wikipedia": false,
+                        "start": 71,
+                        "end": 88
+                    },
+                    {
+                        "text": "Sanji",
+                        "link_title": "/wiki/Sanji",
+                        "is_wikipedia": false,
+                        "start": 94,
+                        "end": 103
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "sanji",
+                        "nami"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "devil_fruit"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda agrees that if Sanji ate the Doa Doa no Mi, it would be frightening as all women would live in terror of being seen in the bath."
+            },
+            {
+                "number": 2,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "The guy in the seat behind me is hitting me with the GOMU GOMU PISTOL, what should I do??",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "That's a big problem. But that would have to be Luffy. Give him some meat, and he'll behave, I bet.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "fighting",
+                        "gum_gum_pistol"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "Reader is being hit with a GOMU GOMU PISTOL, Oda suggests giving the person some meat to make them behave, likely referring to Luffy."
+            }
+        ],
+        "page": 26,
+        "chapter_number": 358,
+        "page_header": "SBS Vol 38 header.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 3,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei!! I saw Oda-sensei!! Said one of my friends!! (E-mail friend) He said you were looking at DIRTY MAGAZINES in a convenience store... don't sweat it too much. I always thought you were like that. Heheheh... I bet that's how you do research for Nami's body!!",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "SCOUNDREL!! I would not read such things in the store!! YOU SCOUNDREL!! I'D BUY IT!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "angry",
+                        "funny"
+                    ],
+                    "topics": [
+                        "Oda's_personal_life"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": true
+                },
+                "summary": "A reader claims to have seen Oda looking at dirty magazines in a convenience store, and Oda jokingly denies it and says he would buy them instead."
+            },
+            {
+                "number": 4,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello, Oda-sensei!!! I have a question. On TV, they were saying how the \"City of Water\" [[Wikipedia:Venice|Venice]] has a high tide called the \"[[Wikipedia:Acqua Alta|Acqua Alta]]\", which forces all the townspeople to wear long boots!! Is this what the [[Aqua Laguna]] in [[Water 7]] is modeled upon?",
+                        "matches": [
+                            [
+                                88,
+                                115,
+                                "Wikipedia:Venice|Venice"
+                            ],
+                            [
+                                144,
+                                179,
+                                "Wikipedia:Acqua Alta|Acqua Alta"
+                            ],
+                            [
+                                253,
+                                268,
+                                "Aqua Laguna"
+                            ],
+                            [
+                                272,
+                                283,
+                                "Water 7"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I'm sure lots of viewers must have seen that program, because I got a lot of these at the same time. Did the name \"acqua alta\" catch your attention? That's right. Venice is a very famous place in Italy for its \"water city\" nature, so I decided to make that the design model for this story. But of course, as you know, making things realistic means looking at all the problems of an area too, not just the pretty parts. And naturally, I added lots of manga-style action. But you should know that nothing like this really happens in real life, so feel free to take a vacation there. I'd like to go to Venice someday too.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Venice",
+                        "link_title": "/wiki/Wikipedia:Venice",
+                        "is_wikipedia": false,
+                        "start": 88,
+                        "end": 115
+                    },
+                    {
+                        "text": "Acqua Alta",
+                        "link_title": "/wiki/Wikipedia:Acqua Alta",
+                        "is_wikipedia": false,
+                        "start": 144,
+                        "end": 179
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Aqua Laguna",
+                        "link_title": "/wiki/Aqua Laguna",
+                        "is_wikipedia": false,
+                        "start": 253,
+                        "end": 268
+                    },
+                    {
+                        "text": "Water 7",
+                        "link_title": "/wiki/Water 7",
+                        "is_wikipedia": false,
+                        "start": 272,
+                        "end": 283
+                    }
+                ],
+                "tags": {
+                    "characters": [],
+                    "places": [
+                        "Venice",
+                        "Water 7"
+                    ],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "Aqua Laguna",
+                        "Water 7",
+                        "Venice",
+                        "realistic design",
+                        "manga-style action"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda confirms that Aqua Laguna in Water 7 is indeed modeled after the high tide phenomenon in Venice called \"Acqua Alta\", with added manga-style action."
+            }
+        ],
+        "page": "46",
+        "chapter_number": "359",
+        "page_header": null
+    },
+    {
+        "qa": [
+            {
+                "number": 5,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hey! Hey, it's me! Guess what! Oda-sensei!! I got in an accident, and I need 2 million yen right now!! Can you wire me the money? Also, I have a question. Is it possible for a lot of people to share one single fruit, or not? Can you do that? If so, what happens? Thanks for answering!!",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "What?! Oh my god! An accident?! OK, here comes your money!! YEAH RIGHT!! You swindler! Prepare to feel the wrath of the ODA SLIDING CHOP! OK, I just gave you a chop to the shin. Now, your answer. One fruit cannot be shared by many people. I get these questions often. The Devil Fruit Abilities are transferred after one bite. After that, it's just a nasty old fruit. In the instance that they take a bite at the same time, the power will belong to the one who swallows first. Nothing will happen if anyone else takes a bite. So in summation, a single fruit cannot give its powers to multiple people.\n\n[[File:SBS Vol.38 01.png|thumb|160px|Longfish: Pound it out!!]]",
+                        "matches": [
+                            [
+                                601,
+                                664,
+                                "File:SBS Vol.38 01.png|thumb|160px|Longfish: Pound it out!!"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS Vol.38 01.png",
+                        "size": "160",
+                        "start": 601,
+                        "end": 664
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "devil_fruit"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda calls out a fake money request from a reader and confirms that Devil Fruit powers cannot be shared among multiple people, explaining the transfer process and its outcome."
+            },
+            {
+                "number": 6,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "There's one thing I don't understand. What kind of fish is a \"[[Wikipedia:Longhorn cowfish|Longhorn cowfish]]\"? Obviously, [[Tom]]-san's got to be a bit overweight, right?! Can you give us one of your beautiful drawings, Ei-chan?! Thanks!",
+                        "matches": [
+                            [
+                                62,
+                                109,
+                                "Wikipedia:Longhorn cowfish|Longhorn cowfish"
+                            ],
+                            [
+                                123,
+                                130,
+                                "Tom"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yep. It looks like this. The skin is poisonous. (Tom-san's isn't.)\n\n''(Swindling money is a crime!!)''",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Longhorn cowfish",
+                        "link_title": "/wiki/Wikipedia:Longhorn cowfish",
+                        "is_wikipedia": false,
+                        "start": 62,
+                        "end": 109
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Tom",
+                        "link_title": "/wiki/Tom",
+                        "is_wikipedia": false,
+                        "start": 123,
+                        "end": 130
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "tom"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "fish",
+                        "drawings",
+                        "poisonous_skin",
+                        "crime"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "D asks about the Longhorn cowfish and comments on Tom's weight, Oda provides a drawing and notes the fish's poisonous skin and disclaims any relation to swindling money."
+            }
+        ],
+        "page": "66",
+        "chapter_number": "360",
+        "page_header": null
+    },
+    {
+        "qa": [
+            {
+                "number": 7,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hi there, Oda-sensei!! I was watching a pirate movie on DVD with subtitles, and I noticed the actors were saying something about \"[[Wikipedia:Davy Jones' Locker|Davy Jones's Locker]]\". But the subtitles said \"turned into fishfood\". Could this Davy be the Davy in [[Davy Back Fight]]?! Was Davy Jones a real life pirate? Please tell us.",
+                        "matches": [
+                            [
+                                130,
+                                182,
+                                "Wikipedia:Davy Jones' Locker|Davy Jones's Locker"
+                            ],
+                            [
+                                263,
+                                282,
+                                "Davy Back Fight"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Well, to be clear, \"Davy Back\" doesn't exist in any legend. Davy Back Fight is a game that exists only in the world of [[One Piece (Manga)|One Piece]]. But the \"Davy Jones Locker\" that Robin mentions in Volume 33 is a well-known legend among sailors in real life. There are several different accounts, but in general there was a lying, no-good pirate named Davy Jones, a greedy deck chief who was famous for putting all the crew's valuables in his own locker. He was so wicked, even for a pirate, that one day the Devil himself cursed Davy to live at the bottom of the sea forever, swabbing the deck of a sunken ship and placing all the sunken treasure into his locker, where it would never be seen again. So when pirates say \"Put 'im in Davy Jones' locker!!\" it means \"sink 'im to the bottom o' the sea!!\"",
+                        "matches": [
+                            [
+                                119,
+                                150,
+                                "One Piece (Manga)|One Piece"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Davy Jones's Locker",
+                        "link_title": "/wiki/Wikipedia:Davy Jones' Locker",
+                        "is_wikipedia": false,
+                        "start": 130,
+                        "end": 182
+                    },
+                    {
+                        "text": "One Piece",
+                        "link_title": "/wiki/One Piece (Manga)",
+                        "is_wikipedia": false,
+                        "start": 119,
+                        "end": 150
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Davy Back Fight",
+                        "link_title": "/wiki/Davy Back Fight",
+                        "is_wikipedia": false,
+                        "start": 263,
+                        "end": 282
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "robin",
+                        "davy_jones"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "pirates_legend",
+                        "Davy_Back_Fight"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda clarifies that 'Davy Back' is a One Piece creation, while 'Davy Jones' Locker' is a real legend about a wicked pirate cursed to live at the bottom of the sea."
+            }
+        ],
+        "page": "86",
+        "chapter_number": "361",
+        "page_header": "SBS Vol.38 02.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 9,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Question for Odacchi. When the [[Sea Train]] leaves in [[Chapter 354]] \"Sea Train\", is that kid with the runny nose in the bottom left [[Paulie]]?! If you don't answer me, I'll tie you up with ropes!! (totally kidding)\n\n[[File:SBS Vol.38 04.png|thumb|150px]]",
+                        "matches": [
+                            [
+                                31,
+                                44,
+                                "Sea Train"
+                            ],
+                            [
+                                55,
+                                70,
+                                "Chapter 354"
+                            ],
+                            [
+                                135,
+                                145,
+                                "Paulie"
+                            ],
+                            [
+                                220,
+                                258,
+                                "File:SBS Vol.38 04.png|thumb|150px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Oh yeah, I got a whole bunch of these. Of course, I drew them because I knew you would all notice. You're both right. Paulie took this excitement to heart and is still building ships today. Kiwi and Mozu also tried to be shipwrights, but they failed the [[Galley-La Company]] tests, turned bad, and then found work under [[Franky]]'s lead. And by the way, The other guy I've shown above is another one of the [[Franky Family]] members, [[Zambai]]. He also wanted to be a shipwright, failed, and turned to crime. The Franky Family is all of the rejects and scoundrels of Water Seven working together. To them, Franky is like a savior.{{-}}",
+                        "matches": [
+                            [
+                                254,
+                                275,
+                                "Galley-La Company"
+                            ],
+                            [
+                                321,
+                                331,
+                                "Franky"
+                            ],
+                            [
+                                409,
+                                426,
+                                "Franky Family"
+                            ],
+                            [
+                                436,
+                                446,
+                                "Zambai"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS Vol.38 04.png",
+                        "size": "150",
+                        "start": 220,
+                        "end": 258
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Sea Train",
+                        "link_title": "/wiki/Sea Train",
+                        "is_wikipedia": false,
+                        "start": 31,
+                        "end": 44
+                    },
+                    {
+                        "text": "Chapter 354",
+                        "link_title": "/wiki/Chapter 354",
+                        "is_wikipedia": false,
+                        "start": 55,
+                        "end": 70
+                    },
+                    {
+                        "text": "Paulie",
+                        "link_title": "/wiki/Paulie",
+                        "is_wikipedia": false,
+                        "start": 135,
+                        "end": 145
+                    },
+                    {
+                        "text": "Galley-La Company",
+                        "link_title": "/wiki/Galley-La Company",
+                        "is_wikipedia": false,
+                        "start": 254,
+                        "end": 275
+                    },
+                    {
+                        "text": "Franky",
+                        "link_title": "/wiki/Franky",
+                        "is_wikipedia": false,
+                        "start": 321,
+                        "end": 331
+                    },
+                    {
+                        "text": "Franky Family",
+                        "link_title": "/wiki/Franky Family",
+                        "is_wikipedia": false,
+                        "start": 409,
+                        "end": 426
+                    },
+                    {
+                        "text": "Zambai",
+                        "link_title": "/wiki/Zambai",
+                        "is_wikipedia": false,
+                        "start": 436,
+                        "end": 446
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "paulie",
+                        "kiwi",
+                        "mozu",
+                        "franky",
+                        "zambai"
+                    ],
+                    "places": [
+                        "water_seven"
+                    ],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "shipwrights",
+                        "Franky Family"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "The runny-nosed kid is Paulie, who later becomes a shipwright; Kiwi, Mozu, and Zambai also had shipwright aspirations but joined Franky's crew after failing tests."
+            }
+        ],
+        "page": "146",
+        "chapter_number": "364",
+        "page_header": "SBS Vol.38 03.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 10,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei, please draw Enel-sama without his hat! I want to see it!",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "ALL DONE!\n\nWow... look at that punch perm!!<br />He looks like some old lady... oops. I shouldn't have said that.<br />Run for it!! (escape) rumble rumble KABOOM!!! Gyaa!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "enel"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "surprised",
+                        "funny"
+                    ],
+                    "topics": [
+                        "character_design",
+                        "humor"
+                    ],
+                    "importance": "hight",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Enel is drawn without his hat, sporting a punch perm and resembling an old lady, according to Oda."
+            },
+            {
+                "number": 11,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchi! I read One Piece! And laugh! And cry! I'm such a huge x(infinity) fan! So, I have a question for Odacchi and the [[Straw Hat Pirates]]! There are Spring, Summer, Autumn and Winter Islands. Which is everyone's favorite?",
+                        "matches": [
+                            [
+                                122,
+                                143,
+                                "Straw Hat Pirates"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "A question for everyone. Let's have everyone give their answer in turn! Take it away! You have 16 choices!\n*Summer Island [Sum-Spr-Aut-Win]\n*Spring Island [Sum-Spr-Aut-Win]\n*Autumn Island [Sum-Spr-Aut-Win]\n*Winter Island [Sum-Spr-Aut-Win]\n\n*Luffy: Hmmm, well, I like summer, but snow is so great! Hmm.\n*[[Roronoa Zoro|Zoro]]: I'll take autumn. A nice autumn on an Autumn Island for good exercise. I wanna get stronger.\n*Nami: I'll take summer! How about a nice summer beach on a Spring Island.\n*[[Sanji]]: Personally, I'll take a Robin-chan on a Nami-san Island! Ooohoo!\n*[[Usopp]]: Are you stupid, that's not a choice!! So anyways, I think... summer on an Autumn Island would be best for developing weapons! While fishing.\n*[[Tony Tony Chopper|Chopper]]: I can't stand the heat... I like the spring on a Winter Island!!\n*[[Nico Robin|Robin]]: I suppose I'd take an autumn on a Spring Island, good weather for reading and relaxing.\n*Luffy: OK!! I made my choice!! ANYWHERE WHERE THERE'S MEAT!!!\n\nOda: All right. I don't know if that's a valid answer, but whatever. See you in the SBS next volume!! Goodbye!!! Oh, I'll take a winter hot spring on a Summer Island.",
+                        "matches": [
+                            [
+                                303,
+                                324,
+                                "Roronoa Zoro|Zoro"
+                            ],
+                            [
+                                495,
+                                504,
+                                "Sanji"
+                            ],
+                            [
+                                572,
+                                581,
+                                "Usopp"
+                            ],
+                            [
+                                725,
+                                754,
+                                "Tony Tony Chopper|Chopper"
+                            ],
+                            [
+                                822,
+                                842,
+                                "Nico Robin|Robin"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Zoro",
+                        "link_title": "/wiki/Roronoa Zoro",
+                        "is_wikipedia": false,
+                        "start": 303,
+                        "end": 324
+                    },
+                    {
+                        "text": "Chopper",
+                        "link_title": "/wiki/Tony Tony Chopper",
+                        "is_wikipedia": false,
+                        "start": 725,
+                        "end": 754
+                    },
+                    {
+                        "text": "Robin",
+                        "link_title": "/wiki/Nico Robin",
+                        "is_wikipedia": false,
+                        "start": 822,
+                        "end": 842
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Straw Hat Pirates",
+                        "link_title": "/wiki/Straw Hat Pirates",
+                        "is_wikipedia": false,
+                        "start": 122,
+                        "end": 143
+                    },
+                    {
+                        "text": "Sanji",
+                        "link_title": "/wiki/Sanji",
+                        "is_wikipedia": false,
+                        "start": 495,
+                        "end": 504
+                    },
+                    {
+                        "text": "Usopp",
+                        "link_title": "/wiki/Usopp",
+                        "is_wikipedia": false,
+                        "start": 572,
+                        "end": 581
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy",
+                        "roronoa_zoro",
+                        "nami",
+                        "sanji",
+                        "usopp",
+                        "tony_tony_chopper",
+                        "nico_robin"
+                    ],
+                    "places": [
+                        "summer_island",
+                        "spring_island",
+                        "autumn_island",
+                        "winter_island"
+                    ],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "preferences",
+                        "islands",
+                        "SBS"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "The Straw Hat Pirates each have their favorite island - Luffy chooses anywhere with meat, Zoro likes Autumn Island, Nami prefers Summer Island, Sanji has a unique preference, and others also make their choices."
+            }
+        ],
+        "page": "166",
+        "chapter_number": "365",
+        "page_header": "SBS Vol.38 05.png"
+    }
+]

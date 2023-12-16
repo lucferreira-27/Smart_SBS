@@ -1,0 +1,1239 @@
+[
+    {
+        "qa": [
+            {
+                "number": 1,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Did [[Streusen]]-Sama fall on his right eye? That's quite strange, isn't it!! Good morning! I'll start the SBS. -P.N. Dori",
+                        "matches": [
+                            [
+                                4,
+                                16,
+                                "Streusen"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "It's not his right eye, rather he fall on the right side of his forehead, that's probably what you're talking about. In that situation he acted like an honorable man... It started alreadyyy!!!?\n\n[[File:SBS89 Nami and Caesar.png|120px|thumb]]",
+                        "matches": [
+                            [
+                                195,
+                                241,
+                                "File:SBS89 Nami and Caesar.png|120px|thumb"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS89 Nami and Caesar.png",
+                        "size": "120",
+                        "start": 195,
+                        "end": 241
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Streusen",
+                        "link_title": "/wiki/Streusen",
+                        "is_wikipedia": false,
+                        "start": 4,
+                        "end": 16
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "streusen"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "injury",
+                        "SBS"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Streusen-Sama fell on the right side of his forehead, not his right eye, and acted honorably in that situation."
+            },
+            {
+                "number": 2,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "[[Nami]]-san called [[Caesar Clown|Caesar]] \u201cScum\u201d, \u201cGarbage\u201d, and told him that \u201cIt would be better if you died\u201d. Did she get influenced by [[Nico Robin|Robin]]-chan\u2019s potty-mouth (toxic-tongue)? -P.N. Dori",
+                        "matches": [
+                            [
+                                0,
+                                8,
+                                "Nami"
+                            ],
+                            [
+                                20,
+                                43,
+                                "Caesar Clown|Caesar"
+                            ],
+                            [
+                                141,
+                                161,
+                                "Nico Robin|Robin"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Please remember what happened on [[Punk Hazard]]. Caesar fed the children stimulants, called his subordinates guinea pigs, and dedicates his whole life to creating a weapon of genocide. He truly is a man where it would be better off if he was dead. Even though Nami is only kind to those in need (women and children), I truly think she hates Caesar from the bottom of her heart.\n\n[[File:SBS89 Katakuri.png|120px|thumb]]",
+                        "matches": [
+                            [
+                                33,
+                                48,
+                                "Punk Hazard"
+                            ],
+                            [
+                                380,
+                                419,
+                                "File:SBS89 Katakuri.png|120px|thumb"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS89 Katakuri.png",
+                        "size": "120",
+                        "start": 380,
+                        "end": 419
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Caesar",
+                        "link_title": "/wiki/Caesar Clown",
+                        "is_wikipedia": false,
+                        "start": 20,
+                        "end": 43
+                    },
+                    {
+                        "text": "Robin",
+                        "link_title": "/wiki/Nico Robin",
+                        "is_wikipedia": false,
+                        "start": 141,
+                        "end": 161
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Nami",
+                        "link_title": "/wiki/Nami",
+                        "is_wikipedia": false,
+                        "start": 0,
+                        "end": 8
+                    },
+                    {
+                        "text": "Punk Hazard",
+                        "link_title": "/wiki/Punk Hazard",
+                        "is_wikipedia": false,
+                        "start": 33,
+                        "end": 48
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "nami",
+                        "caesar clown",
+                        "nico robin"
+                    ],
+                    "places": [
+                        "punk hazard"
+                    ],
+                    "emotions": [
+                        "disgust",
+                        "serious"
+                    ],
+                    "topics": [
+                        "morality",
+                        "caesar clown",
+                        "nico robin's influence"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Nami's harsh words towards Caesar are due to his despicable actions and not influenced by Robin's 'toxic-tongue'; Oda confirms Nami's genuine hatred for Caesar."
+            },
+            {
+                "number": 3,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei, nice to meet you! About [[Charlotte Katakuri|Katakuri]], we know that he likes to eat sweets, but in matter of disliking, what is his least favorite food, is it spicy food? -P.N. Yukito",
+                        "matches": [
+                            [
+                                36,
+                                67,
+                                "Charlotte Katakuri|Katakuri"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "His least favorite food is hot ramen. When dining with others, being seen while eating is his mortal weakness, which is why he hates ramen. Spicy food is fine though.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Katakuri",
+                        "link_title": "/wiki/Charlotte Katakuri",
+                        "is_wikipedia": false,
+                        "start": 36,
+                        "end": 67
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "charlotte_katakuri"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "food"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Katakuri's least favorite food is hot ramen; being seen while eating is his weakness, which is why he hates ramen, but spicy food is fine."
+            },
+            {
+                "number": 4,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello Oda-sensei. How does Katakuri sleep? -P.N. Tattsu",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Because of his myth of \"strength\" of his back never having touched the ground, he sleeps on walls. So basically, he leans on a wall, relaxes down, stands still and falls asleep while sitting.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "katakuri"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "katakuri_sleeping_habit"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Katakuri sleeps by leaning on a wall, relaxing, standing still, and falling asleep while sitting due to his myth of strength."
+            }
+        ],
+        "page": "28",
+        "chapter_number": "890",
+        "page_header": "SBS89 Header 1.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 5,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei, will you let me marry my son (three years old) to one of [[Charlotte Linlin|Big Mom]]'s daughters? Not only would I have a big power at my service, but I would also get a suuuuperrrr powerful daughter in law! What do you say, isn't is a great idea? -P.N. The Sanada family and the Charlotte family's political marriage",
+                        "matches": [
+                            [
+                                69,
+                                97,
+                                "Charlotte Linlin|Big Mom"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes, please do not ask me, ask Big Mom herself directly! Next!\n\n[[File:SBS89 Bananawani.png|120px|thumb]]",
+                        "matches": [
+                            [
+                                64,
+                                105,
+                                "File:SBS89 Bananawani.png|120px|thumb"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS89 Bananawani.png",
+                        "size": "120",
+                        "start": 64,
+                        "end": 105
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Big Mom",
+                        "link_title": "/wiki/Charlotte Linlin",
+                        "is_wikipedia": false,
+                        "start": 69,
+                        "end": 97
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "big_mom"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "playful"
+                    ],
+                    "topics": [
+                        "political_marriage"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "D: Can I arrange a political marriage between my young son and Big Mom's daughter? O: Ask Big Mom directly, next question!"
+            },
+            {
+                "number": 6,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Please tell us what are [[Crocodile]] and [[Daz Bonez]]\u2019 favorite foods and most hated foods. I think a boss like Crocodile who likes Bananawani (Banana Crocodiles) wouldn\u2019t eat bananas or crocodile meat. My older sister thinks he dislikes mandarin oranges (mikan). We got into a fight about whether it\u2019s hard for him to remove his fake hand. P.N. Banana Me and Mandarin Sister",
+                        "matches": [
+                            [
+                                24,
+                                37,
+                                "Crocodile"
+                            ],
+                            [
+                                42,
+                                55,
+                                "Daz Bonez"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "{| style=\"margin:auto;\"\n|[[File:SBS89 Crocodile.png|80px]]||\nCrocodile:<br />\nLikes: Crocodile meat and tomatoes<br />\nDislikes: Ketchup\n|[[File:SBS89 Daz.png|80px]]||\nDaz Bones (Mr. 1):<br />\nLikes: Raw Ham<br />\nDislikes: Grilled pork\n|}\n\nThis sounds about right!! The fact that he keeps crocodiles as pets doesn\u2019t really affect what is difficult for him to eat. When you look at what these two like to eat they sure seem like an annoying pair to please.\n\n[[File:SBS89 Luffy and Gear 4.png|120px|thumb]]",
+                        "matches": [
+                            [
+                                25,
+                                58,
+                                "File:SBS89 Crocodile.png|80px"
+                            ],
+                            [
+                                138,
+                                165,
+                                "File:SBS89 Daz.png|80px"
+                            ],
+                            [
+                                458,
+                                505,
+                                "File:SBS89 Luffy and Gear 4.png|120px|thumb"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS89 Crocodile.png",
+                        "size": "80",
+                        "start": 25,
+                        "end": 58
+                    },
+                    {
+                        "file": "SBS89 Daz.png",
+                        "size": "80",
+                        "start": 138,
+                        "end": 165
+                    },
+                    {
+                        "file": "SBS89 Luffy and Gear 4.png",
+                        "size": "120",
+                        "start": 458,
+                        "end": 505
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Crocodile",
+                        "link_title": "/wiki/Crocodile",
+                        "is_wikipedia": false,
+                        "start": 24,
+                        "end": 37
+                    },
+                    {
+                        "text": "Daz Bonez",
+                        "link_title": "/wiki/Daz Bonez",
+                        "is_wikipedia": false,
+                        "start": 42,
+                        "end": 55
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "crocodile",
+                        "daz_bonez"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "food"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Crocodile likes crocodile meat and tomatoes, dislikes ketchup; Daz Bones likes raw ham, dislikes grilled pork. Their tastes make them an annoying pair to please."
+            },
+            {
+                "number": 7,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I read the manga and watched the anime and noticed that after [[Monkey D. Luffy|Luffy]] uses [[Gomu Gomu no Mi/Gear 4 Techniques|Gear 4]], he not only can\u2019t use [[Haki]] for 10 minutes but it also carries the tradeoff (risk) of being so fatigued that he can\u2019t move. However, in [[Chapter 885|Ch. 885]] he is moving totally normally right? Why isn't that tradeoff there anymore? -P.N. BUSHI",
+                        "matches": [
+                            [
+                                62,
+                                87,
+                                "Monkey D. Luffy|Luffy"
+                            ],
+                            [
+                                93,
+                                137,
+                                "Gomu Gomu no Mi/Gear 4 Techniques|Gear 4"
+                            ],
+                            [
+                                161,
+                                169,
+                                "Haki"
+                            ],
+                            [
+                                278,
+                                301,
+                                "Chapter 885|Ch. 885"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "The tradeoff of not being able to move that you\u2019re referring to never existed in the first place. If he wanted to move but couldn\u2019t use Haki during that time, he could still run from place to place to hide. In Dressrosa, after using Gear Fourth, he coincidentally ran into his allies and supporters so he could preserve his energy while they carried him to the next fight. If those people weren\u2019t there then Luffy would just have to do his best!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Luffy",
+                        "link_title": "/wiki/Monkey D. Luffy",
+                        "is_wikipedia": false,
+                        "start": 62,
+                        "end": 87
+                    },
+                    {
+                        "text": "Gear 4",
+                        "link_title": "/wiki/Gomu Gomu no Mi/Gear 4 Techniques",
+                        "is_wikipedia": false,
+                        "start": 93,
+                        "end": 137
+                    },
+                    {
+                        "text": "Ch. 885",
+                        "link_title": "/wiki/Chapter 885",
+                        "is_wikipedia": false,
+                        "start": 278,
+                        "end": 301
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Haki",
+                        "link_title": "/wiki/Haki",
+                        "is_wikipedia": false,
+                        "start": 161,
+                        "end": 169
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy"
+                    ],
+                    "places": [
+                        "dressrosa"
+                    ],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "devil_fruit",
+                        "haki",
+                        "gear_four"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Luffy's inability to move after using Gear 4 and Haki was a misunderstanding, as he could still move without Haki and coincidentally received help in Dressrosa."
+            }
+        ],
+        "page": "46",
+        "chapter_number": "891",
+        "page_header": "SBS89 Header 2.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 8,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Does semla actually exist? I want to eat it! -P.N. Odamania",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Semla is a thing. it's a Swedish sweet. There was this period of time four days before Christmas where everybody fasted. it's an old tradition. Before they fasted, they ate the aforementioned \"semla\". The tradition in Elbaf is the same as the one of that place. I've never tried semla either. I want to eat it!\n\n[[File:SBS89 Noisette and Oshimuna Town.png|120px|thumb]]",
+                        "matches": [
+                            [
+                                312,
+                                369,
+                                "File:SBS89 Noisette and Oshimuna Town.png|120px|thumb"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS89 Noisette and Oshimuna Town.png",
+                        "size": "120",
+                        "start": 312,
+                        "end": 369
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [
+                        "Elbaf"
+                    ],
+                    "emotions": [
+                        "curious",
+                        "excited"
+                    ],
+                    "topics": [
+                        "food",
+                        "tradition"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Semla is a Swedish sweet traditionally eaten four days before Christmas and is also part of Elbaf's tradition."
+            },
+            {
+                "number": 9,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-san!! Hello!! There is a place called \"Oshimuna Town\" in [[Volume 88|Vol. 88]] page 132, which means \u201cdon\u2019t be stingy\u201d town. Who is the minister of this island? - P.N. Ehara Ry\u014dta",
+                        "matches": [
+                            [
+                                61,
+                                82,
+                                "Volume 88|Vol. 88"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "It may sound strange because of this weird name, but it makes more sense with the Island's name. The full name is Oshimuna Town on [[Kinko Island]]. The minister is 15th son [[Charlotte Noisette|Noisette]]. He is in charge of the finance in Totto Land. So this town means don\u2019t be stingy about making delicious food on this Kinko Island! That's the just of it.",
+                        "matches": [
+                            [
+                                131,
+                                147,
+                                "Kinko Island"
+                            ],
+                            [
+                                174,
+                                205,
+                                "Charlotte Noisette|Noisette"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Vol. 88",
+                        "link_title": "/wiki/Volume 88",
+                        "is_wikipedia": false,
+                        "start": 61,
+                        "end": 82
+                    },
+                    {
+                        "text": "Noisette",
+                        "link_title": "/wiki/Charlotte Noisette",
+                        "is_wikipedia": false,
+                        "start": 174,
+                        "end": 205
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Kinko Island",
+                        "link_title": "/wiki/Kinko Island",
+                        "is_wikipedia": false,
+                        "start": 131,
+                        "end": 147
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "charlotte_noisette"
+                    ],
+                    "places": [
+                        "oshimuna_town",
+                        "kinko_island",
+                        "totto_land"
+                    ],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "island_names",
+                        "ministers",
+                        "food"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda explains the meaning of Oshimuna Town's name from Volume 88, revealing that the minister is Charlotte Noisette, in charge of finance in Totto Land."
+            },
+            {
+                "number": 10,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "About the Charlotte Family's 26th son, [[Charlotte Bavarois]]' hat has net glasses on it, is it like one of those old so-called \"mysterious net\" hats? -P.N. Manager\n\n[[File:SBS89 Bavarois.png|thumb|200px]]",
+                        "matches": [
+                            [
+                                39,
+                                61,
+                                "Charlotte Bavarois"
+                            ],
+                            [
+                                166,
+                                205,
+                                "File:SBS89 Bavarois.png|thumb|200px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "You've got it right! That's correct, it's from a long time ago. When I was a child, all the young boys were wearing these \"mysterious net\" hats. Upon looking it up, it appears their correct name is \"mesh\" hats. I wonder if those caps can be still found around. It made me happy you noticed it. They're cool, aren't they?",
+                        "matches": []
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS89 Bavarois.png",
+                        "size": "200",
+                        "start": 166,
+                        "end": 205
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Charlotte Bavarois",
+                        "link_title": "/wiki/Charlotte Bavarois",
+                        "is_wikipedia": false,
+                        "start": 39,
+                        "end": 61
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "charlotte_bavarois"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "happy"
+                    ],
+                    "topics": [
+                        "fashion",
+                        "clothing",
+                        "childhood_memories"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Charlotte Bavarois's hat is inspired by 'mysterious net' hats from Oda's childhood, which he recalls as 'mesh' hats and wonders if they are still available."
+            }
+        ],
+        "page": "64",
+        "chapter_number": "892",
+        "page_header": "SBS89 Header 3.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 11,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "In [[Chapter 891|Ch. 891]] [[Charlotte Flampe|Flampe]] coined the term \u201cKing of Big Brothers\u201d who turned out to be Katakuri. Among Big Mom\u2019s 85 children, who is the \u201cKing of Big Sisters\u201d, \u201cKing of Little Brothers\u201d, and \u201cKing of Little Sisters\u201d? P.N. OP Girl that asks troublesome questions",
+                        "matches": [
+                            [
+                                3,
+                                26,
+                                "Chapter 891|Ch. 891"
+                            ],
+                            [
+                                27,
+                                54,
+                                "Charlotte Flampe|Flampe"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Okay, first let\u2019s start with what Flampe said in that chapter. The \u201cBest Im\u014dto-est Award\u201d is something that Flampe selfishly hosts on her own. She is a very diligent child so she passes a survey along to everyone in the family. The final results of each sibling division are out. Let\u2019s announce the TOP 3.\n\n[[File:SBS89 Charlotte.png|thumb|320px]]\n<table width=\"50%\">\n<td width=\"25%\" valign=\"top\">\n*King of Big Brothers\n*#Katakuri\n*#[[Charlotte Oven|Oven]]\n*#[[Charlotte Perospero|Perospero]]\n*King of Little Brothers\n*#[[Charlotte Anglais|Anglais]]\n*#[[Charlotte Newgo|Newgo]]\n*#[[Charlotte Dolce|Dolce]]\n</td>\n<td width=\"25%\" valign=\"top\">\n*King of Big Sisters\n*#[[Charlotte Smoothie|Smoothie]]\n*#[[Charlotte Amande|Amande]]\n*#[[Charlotte Br\u00fbl\u00e9e|Br\u00fbl\u00e9e]]\n*King of Little Sisters\n*#Flampe\n*#[[Charlotte Pudding|Pudding]]\n*#[[Charlotte Anana|Anana]]\n</td></table>\n\nIn the first place, the contest is rigged because the number of votes each person can receive isn\u2019t equal. The \u201cKing of Younger Sister\u201d is really just something Flampe does for fun.\n\n[[File:SBS89 Smoothie.png|120px|thumb]]",
+                        "matches": [
+                            [
+                                307,
+                                347,
+                                "File:SBS89 Charlotte.png|thumb|320px"
+                            ],
+                            [
+                                433,
+                                456,
+                                "Charlotte Oven|Oven"
+                            ],
+                            [
+                                459,
+                                492,
+                                "Charlotte Perospero|Perospero"
+                            ],
+                            [
+                                520,
+                                549,
+                                "Charlotte Anglais|Anglais"
+                            ],
+                            [
+                                552,
+                                577,
+                                "Charlotte Newgo|Newgo"
+                            ],
+                            [
+                                580,
+                                605,
+                                "Charlotte Dolce|Dolce"
+                            ],
+                            [
+                                665,
+                                696,
+                                "Charlotte Smoothie|Smoothie"
+                            ],
+                            [
+                                699,
+                                726,
+                                "Charlotte Amande|Amande"
+                            ],
+                            [
+                                729,
+                                756,
+                                "Charlotte Br\u00fbl\u00e9e|Br\u00fbl\u00e9e"
+                            ],
+                            [
+                                792,
+                                821,
+                                "Charlotte Pudding|Pudding"
+                            ],
+                            [
+                                824,
+                                849,
+                                "Charlotte Anana|Anana"
+                            ],
+                            [
+                                1048,
+                                1087,
+                                "File:SBS89 Smoothie.png|120px|thumb"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS89 Charlotte.png",
+                        "size": "320",
+                        "start": 307,
+                        "end": 347
+                    },
+                    {
+                        "file": "SBS89 Smoothie.png",
+                        "size": "120",
+                        "start": 1048,
+                        "end": 1087
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Ch. 891",
+                        "link_title": "/wiki/Chapter 891",
+                        "is_wikipedia": false,
+                        "start": 3,
+                        "end": 26
+                    },
+                    {
+                        "text": "Flampe",
+                        "link_title": "/wiki/Charlotte Flampe",
+                        "is_wikipedia": false,
+                        "start": 27,
+                        "end": 54
+                    },
+                    {
+                        "text": "Oven",
+                        "link_title": "/wiki/Charlotte Oven",
+                        "is_wikipedia": false,
+                        "start": 433,
+                        "end": 456
+                    },
+                    {
+                        "text": "Perospero",
+                        "link_title": "/wiki/Charlotte Perospero",
+                        "is_wikipedia": false,
+                        "start": 459,
+                        "end": 492
+                    },
+                    {
+                        "text": "Anglais",
+                        "link_title": "/wiki/Charlotte Anglais",
+                        "is_wikipedia": false,
+                        "start": 520,
+                        "end": 549
+                    },
+                    {
+                        "text": "Newgo",
+                        "link_title": "/wiki/Charlotte Newgo",
+                        "is_wikipedia": false,
+                        "start": 552,
+                        "end": 577
+                    },
+                    {
+                        "text": "Dolce",
+                        "link_title": "/wiki/Charlotte Dolce",
+                        "is_wikipedia": false,
+                        "start": 580,
+                        "end": 605
+                    },
+                    {
+                        "text": "Smoothie",
+                        "link_title": "/wiki/Charlotte Smoothie",
+                        "is_wikipedia": false,
+                        "start": 665,
+                        "end": 696
+                    },
+                    {
+                        "text": "Amande",
+                        "link_title": "/wiki/Charlotte Amande",
+                        "is_wikipedia": false,
+                        "start": 699,
+                        "end": 726
+                    },
+                    {
+                        "text": "Br\u00fbl\u00e9e",
+                        "link_title": "/wiki/Charlotte Br\u00fbl\u00e9e",
+                        "is_wikipedia": false,
+                        "start": 729,
+                        "end": 756
+                    },
+                    {
+                        "text": "Pudding",
+                        "link_title": "/wiki/Charlotte Pudding",
+                        "is_wikipedia": false,
+                        "start": 792,
+                        "end": 821
+                    },
+                    {
+                        "text": "Anana",
+                        "link_title": "/wiki/Charlotte Anana",
+                        "is_wikipedia": false,
+                        "start": 824,
+                        "end": 849
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "charlotte_flampe",
+                        "katakuri",
+                        "charlotte_oven",
+                        "charlotte_perospero",
+                        "charlotte_anglais",
+                        "charlotte_newgo",
+                        "charlotte_dolce",
+                        "charlotte_smoothie",
+                        "charlotte_amande",
+                        "charlotte_br\u00fbl\u00e9e",
+                        "charlotte_pudding",
+                        "charlotte_anana"
+                    ],
+                    "places": [],
+                    "topics": [
+                        "family",
+                        "siblings",
+                        "Charlotte Family ranking"
+                    ],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Flampe's 'Best Im\u014dto-est Award' ranks Katakuri as the 'King of Big Brothers' and reveals Smoothie as the 'King of Big Sisters'."
+            },
+            {
+                "number": 12,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello Oda-sensei. I was reading [[Chapter 894|Ch. 894]] and isn\u2019t Smoothie really huge?? Why?? What kind of power does she have? Also why is her sword wet in the same chapter? P.N. No Name OP Fan Whose Name Can Just Be That-chan",
+                        "matches": [
+                            [
+                                32,
+                                55,
+                                "Chapter 894|Ch. 894"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "In the end, I wasn\u2019t able to draw why that page was relevant in this arc but Smoothie ate the \u201c[[Shibo Shibo no Mi]]\u201d and became a dehydration human. She can squeeze the juice out of her enemies and slice them with her sword to pull out all their water content to completely dry them out. The water she steals can be stored in her own body, causing her to increase in size. She can also shoot the water out as an attack. She\u2019s strong.",
+                        "matches": [
+                            [
+                                95,
+                                116,
+                                "Shibo Shibo no Mi"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Ch. 894",
+                        "link_title": "/wiki/Chapter 894",
+                        "is_wikipedia": false,
+                        "start": 32,
+                        "end": 55
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Shibo Shibo no Mi",
+                        "link_title": "/wiki/Shibo Shibo no Mi",
+                        "is_wikipedia": false,
+                        "start": 95,
+                        "end": 116
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "smoothie"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "curious"
+                    ],
+                    "topics": [
+                        "devil_fruit",
+                        "power",
+                        "smoothie",
+                        "dehydrating_ability"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Smoothie ate the Shibo Shibo no Mi and can dehydrate her enemies, storing the water in her body to increase in size and shoot it out as an attack."
+            }
+        ],
+        "page": "118",
+        "chapter_number": "895",
+        "page_header": "SBS89 Header 4.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 13,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I\u2019m a huge huge huge fan of Ace. If he didn\u2019t die during the Summit War, what kind of face would he have? Please draw him at age 40 and age 60, Oda Eiichiro-sama~!! P.N. Daughter of Ace of the Whitebeard Crew.",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Got it.\n[[File:SBS89 Ace.png|thumb|300px]]\n\nTop row:\n* Age 40: Yo Luffy, still the same as always.\n* Age 60: I\u2019m retired.\n\nBottom row (a future if something happened/went wrong):\n* Age 40: Osu Luffy, lend me some money.\n* Age 60: Chopper, just a little bit from the safe\u2026\n\nHard to say what would have happened over the course of his life, but I drew these two patterns (possibilities).\n\n[[File:SBS89 Hajrudin and Stansen.png|120px|thumb]]",
+                        "matches": [
+                            [
+                                8,
+                                42,
+                                "File:SBS89 Ace.png|thumb|300px"
+                            ],
+                            [
+                                387,
+                                438,
+                                "File:SBS89 Hajrudin and Stansen.png|120px|thumb"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS89 Ace.png",
+                        "size": "300",
+                        "start": 8,
+                        "end": 42
+                    },
+                    {
+                        "file": "SBS89 Hajrudin and Stansen.png",
+                        "size": "120",
+                        "start": 387,
+                        "end": 438
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "ace",
+                        "luffy",
+                        "chopper"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "ace's future",
+                        "what if scenario"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda draws two possible future scenarios for Ace at age 40 and 60, one where he's still the same and another where he's asking for money."
+            },
+            {
+                "number": 14,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchi, hello!! On P. 145 of [[Chapter 866]] ([[Volume 86]]), during the scene showing [[Hajrudin]]\u2019s early childhood, there is a boy eating snacks behind him. Is this the same giant that appears on P.184 of Ch. 500, \u201cPirate [[Stansen]]\u201d? P.N. C. Macaron",
+                        "matches": [
+                            [
+                                30,
+                                45,
+                                "Chapter 866"
+                            ],
+                            [
+                                47,
+                                60,
+                                "Volume 86"
+                            ],
+                            [
+                                88,
+                                100,
+                                "Hajrudin"
+                            ],
+                            [
+                                226,
+                                237,
+                                "Stansen"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Good eye. You\u2019re right, he\u2019s Hajrudin\u2019s childhood friend. In a very roundabout way, the man on the left (adult version) somehow ended up working under Luffy\u2019s [[Straw Hat Grand Fleet]].",
+                        "matches": [
+                            [
+                                159,
+                                184,
+                                "Straw Hat Grand Fleet"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Chapter 866",
+                        "link_title": "/wiki/Chapter 866",
+                        "is_wikipedia": false,
+                        "start": 30,
+                        "end": 45
+                    },
+                    {
+                        "text": "Volume 86",
+                        "link_title": "/wiki/Volume 86",
+                        "is_wikipedia": false,
+                        "start": 47,
+                        "end": 60
+                    },
+                    {
+                        "text": "Hajrudin",
+                        "link_title": "/wiki/Hajrudin",
+                        "is_wikipedia": false,
+                        "start": 88,
+                        "end": 100
+                    },
+                    {
+                        "text": "Stansen",
+                        "link_title": "/wiki/Stansen",
+                        "is_wikipedia": false,
+                        "start": 226,
+                        "end": 237
+                    },
+                    {
+                        "text": "Straw Hat Grand Fleet",
+                        "link_title": "/wiki/Straw Hat Grand Fleet",
+                        "is_wikipedia": false,
+                        "start": 159,
+                        "end": 184
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "hajrudin",
+                        "stansen",
+                        "luffy"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "informative"
+                    ],
+                    "topics": [
+                        "straw_hat_grand_fleet",
+                        "hajrudin_childhood"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "The boy eating snacks behind Hajrudin is indeed the same giant who appears as Pirate Stansen and is now part of Luffy's Straw Hat Grand Fleet."
+            }
+        ],
+        "page": "136",
+        "chapter_number": "896",
+        "page_header": "SBS89 Header 5.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 15,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchi, hello! I am a big fan of both Odacchi and Luffy. I have a question today for Odacchi! When he was a kid, Monkey D. Garp\u2019s eyes were the same as Luffy\u2019s, big and round. However, when he became an adult, they became narrow. So what about Luffy\u2019s eyes? Once he turns 20, will his eyes also become like Garp\u2019s? -From Gokkudzuen",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Okay, this question came from a translator in Vietnam in slightly awkward words. In short, will Luffy\u2019s eyes become skinny like Garp\u2019s once he turns 20? Since he turns 20 in only a year, I don\u2019t think Luffy will be changing too much in such a short time. Similar to the drawings for Ace, for those wondering \u201cWhat would Luffy look like at age 40 and age 60?\u201d take a look!\n[[File:SBS89 Luffy.png|thumb|300px]]\n\nTop row:\n* Age 40: Meat!!\n* Age 60: Meat!!!\n\nBottom row (a future where something happened):\n* Age 40: Pirate king? Don\u2019t be such a dreamer.\n* Age 60: Is that meat available for the taking?\n{{-}}\n\nRight, in a future where things go well, he looks quite a lot like Garp doesn\u2019t he? But in a future where something, somehow happens then who knows!! Okay, SBS is done!! Looking forward to next time!!",
+                        "matches": [
+                            [
+                                372,
+                                408,
+                                "File:SBS89 Luffy.png|thumb|300px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS89 Luffy.png",
+                        "size": "300",
+                        "start": 372,
+                        "end": 408
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy",
+                        "monkey_d_garp",
+                        "portgas_d_ace"
+                    ],
+                    "places": [],
+                    "topics": [
+                        "character_appearance",
+                        "ageing",
+                        "future",
+                        "family"
+                    ],
+                    "emotions": [
+                        "cheerful",
+                        "playful"
+                    ],
+                    "importance": [
+                        "high"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda doesn't think Luffy's eyes will change like Garp's at 20; his future drawings show Luffy at 40 and 60 resembling Garp if things go well."
+            }
+        ],
+        "page": "154",
+        "chapter_number": "897",
+        "page_header": "SBS89 Header 6.png"
+    }
+]

@@ -1,0 +1,788 @@
+[
+    {
+        "qa": [
+            {
+                "number": 1,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei! Dos Fleur!! Grasp!! Squeeze!! ...I've got a hold on you. Now, you may start the SBS. P.N. Kin-chan 2",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "HODYAAAAAA!!!! S-st...art...the...S... HODYAAAAAAA...\n\n[[image:SBS51 1 Kizaru (Imagined).png|thumb|80px|Kizaru (imagined).]]",
+                        "matches": [
+                            [
+                                55,
+                                124,
+                                "image:SBS51 1 Kizaru (Imagined).png|thumb|80px|Kizaru (imagined)."
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": ":SBS51 1 Kizaru (Imagined).png",
+                        "size": "80",
+                        "start": 55,
+                        "end": 124
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "kizaru"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "excited",
+                        "silly"
+                    ],
+                    "topics": [],
+                    "importance": "normal",
+                    "isCharacterInsertion": true
+                },
+                "summary": "Reader Kin-chan 2 initiates the SBS with an imaginary encounter, prompting Oda to respond with enthusiasm."
+            },
+            {
+                "number": 2,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Are Kizaru and Akainu stronger even than Aokiji? P.N. Osumansan",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Hahh, hahh... Sorry for the late introduction. Hello. I'm the author, who got his Balls Flattened by a Reader... you can call me Balltender. But who cares! Here's a question...YIKES!! What the hell is THIS?! Kizaru?! Get outta here! I'm gonna have nightmares! Sorry P.N. Osumansan, Kizaru's already appeared! He'll show up in the next volume. Actually, you're not that far off, though.\n\n[[image:SBS51 1 Brook.png|right|80px]]",
+                        "matches": [
+                            [
+                                387,
+                                425,
+                                "image:SBS51 1 Brook.png|right|80px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": ":SBS51 1 Brook.png",
+                        "size": "80",
+                        "start": 387,
+                        "end": 425
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "kizaru",
+                        "aokiji",
+                        "balltender"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "power_levels"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda apologizes for the delay and playfully responds to the question saying Kizaru is already in the series and the reader's assessment is not far off."
+            },
+            {
+                "number": 3,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Umm, this is my first postcard. It was love at first sight when Brook came into the story. Please tell me what his age and height are! P.N. Child Pirate",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I'll tell you. He was 38 when he died 50 years ago, so he'd be 88 now. He's 2 m 66 cm, and he also wears a hat that bumps him another 20 cm. He's quite a tall fellow.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "brook"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "character_age",
+                        "character_height"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Brook was 38 when he died, making him 88 now; he is 2m 66cm tall, and with his hat, he's 20cm taller."
+            }
+        ],
+        "page": "26",
+        "chapter_number": "492",
+        "page_header": "SBS Vol 51 Chap 492 header.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 4,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Greetings, Odacchi! Here's a question. Around Volume 46, Brook said something about \"if only my tears hadn't dried up\", but in Volume 50, he's cryin' his eyes out! Why is that?  P.N. Kyo-chan",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Because even when his tears of sadness dry... his tears of joy can still flow. Why is that? Because people are kind. Okay. Next question. (Dandy, low-pitched voice)",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "brook"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "happy"
+                    ],
+                    "topics": [],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Brook can cry tears of joy even when his tears of sadness dry up, since people are kind."
+            },
+            {
+                "number": 5,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I'LL BE MORIA'S REPLACEMENT! P.N. Little Onion",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Okay. Next question. (Dandy, low-pitched voice)",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "gecko_moria"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [],
+                    "importance": "low",
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader offers to be Moria's replacement, signing off as 'Little Onion', and Oda moves on to the next question."
+            },
+            {
+                "number": 6,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchi!! Hello! I'm a fresh young 14-year-old girl! I have a question for you, my beloved mentor! You know about yoji-jukugo, those four-character sayings? (You do, right?) What would you use to describe Luffy's pirate crew? Ishindenshin (communion of minds, telepathy)? Junintoiro (different strokes for different folks)? ...Oh!!! Is it yakiniku teishoku (yakiniku set meal)??? P.N. Gachapin's Cousin",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Do I know... yoji-jukugo? Do I know them... DO I KNOW THEM??!! YES!! My favorites are \"Snake & Crane\", \"Shaolin Soccer\", and \"Black Oolong Tea\". Now, if I were to describe the Straw Hat Crew with a yoji-jukugo, I'd say... Zendai mimon (unprecedented, unheard of) would do it. That one came up in [[Enies Lobby]]. I hope they'll always be the crew that's breaking the mold.",
+                        "matches": [
+                            [
+                                296,
+                                311,
+                                "Enies Lobby"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Enies Lobby",
+                        "link_title": "/wiki/Enies Lobby",
+                        "is_wikipedia": false,
+                        "start": 296,
+                        "end": 311
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "luffy"
+                    ],
+                    "places": [
+                        "enies_lobby"
+                    ],
+                    "emotions": [
+                        "joyful",
+                        "funny"
+                    ],
+                    "topics": [
+                        "straw_hat_crew",
+                        "yoji_jukugo"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda uses the yoji-jukugo 'Zendai mimon' to describe the Straw Hat Crew as 'unprecedented, unheard of' and hopes they'll always break the mold."
+            },
+            {
+                "number": 7,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "MARRY ME!! P.N. Man",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "No. (Dandy, low-pitched voice)",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "dismissive"
+                    ],
+                    "topics": [],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader asks author to marry them, Oda replies with a firm 'No' in a dandy, low-pitched voice."
+            }
+        ],
+        "page": "66",
+        "chapter_number": "494",
+        "page_header": "SBS Vol 51 Chap 494 header.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 8,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Smilies for the Straw Hat Crew! Send them to your friends through e-mail! Spirit! Donnn! P.N. Rosie",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Oooh! This is a good one. Really well done. I can tell all of them.\n\n<pre>\n          One Piece!!      Luffy\n          Zoro             Sanji\n          Nami             Usopp\n          Franky           Chopper\n          Robin            Brook\n</pre>\n\nVery evocative and descriptive! Chopper and Robin are especially brilliant. Bravo!\n[[File:SBS51 3 Nami Laundry.png|right|90px]]",
+                        "matches": [
+                            [
+                                333,
+                                377,
+                                "File:SBS51 3 Nami Laundry.png|right|90px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS51 3 Nami Laundry.png",
+                        "size": "90",
+                        "start": 333,
+                        "end": 377
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy",
+                        "roronoa_zoro",
+                        "sanji",
+                        "nami",
+                        "usopp",
+                        "franky",
+                        "tony_tony_chopper",
+                        "nico_robin",
+                        "brook"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "happy"
+                    ],
+                    "topics": [
+                        "fan_art",
+                        "straw_hat_crew",
+                        "compliment"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Eiichiro Oda praises a reader's Smilies for the Straw Hat Crew, admiring the detail and creativity in the provided list of emotional expressions for each crew member."
+            },
+            {
+                "number": 9,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "What's the third-most important thing on a voyage after food? Laundry. Who does it? Nami doesn't seem likely (sorry). If Sanji did it... he might ***** with the ladies' panties. Aaagh! P.N. Daze",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Laundry, huh? Well, to avoid the kind of situation we can all imagine, the boys and girls split the task. Nami and Robin take turns doing their laundry everyday. Apparently all seven men have a huge cleaning extravaganza once a week. I guess this works out for them, since they rarely change outfits anyway. Right, Chopper?\n\nC: Yeah, everyone stinks! We're all dirty!\n[[File:SBS51 3 Lola.png|right|80px]]",
+                        "matches": [
+                            [
+                                368,
+                                404,
+                                "File:SBS51 3 Lola.png|right|80px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS51 3 Lola.png",
+                        "size": "80",
+                        "start": 368,
+                        "end": 404
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "nami",
+                        "sanji",
+                        "robin",
+                        "chopper"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "voyage",
+                        "laundry",
+                        "cleaning",
+                        "teamwork"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "Nami and Robin take turns doing laundry daily, while the men have a big cleaning session once a week; Chopper confirms everyone stinks."
+            },
+            {
+                "number": 10,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Good things will happen, EVEN TO YOU!! by Underling of the God of Fortune",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Wow, really?! Sweet! I wonder what it'll be. Maybe some porno mags will fall down from the sky right into my hands. Sighhh... (depressed at his pathetic self)",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "depressed"
+                    ],
+                    "topics": [
+                        "fortune",
+                        "expectations"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda humorously responds to a reader's optimistic message by imagining receiving porno magazines as his good fortune. "
+            },
+            {
+                "number": 11,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "How can Cap'n Lola have been turned down 4,444 times, when she's so cool and awesome? What's the reason?P.N. Akie Brand",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Well, she makes a very strong impact... and she's too aggressive. Don't worry, I bet she'll be happy (in her own way).",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "lola"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "love",
+                        "rejection"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Captain Lola has been turned down 4,444 times due to her strong and aggressive personality, but she will find happiness in her own way."
+            }
+        ],
+        "page": "106",
+        "chapter_number": "496",
+        "page_header": "SBS Vol 51 Chap 496 header.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 12,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello, Oda-sensei. In Chapter 490 of Volume 50, there is a \"round rainbow\". I saw one of them at school recently. What are they made of? Please explain GRACEFULLY. Heh heh. P.N. Rag\n[[image:SBS51 4 Rainbow Explanation.png|left|100px]]",
+                        "matches": [
+                            [
+                                182,
+                                234,
+                                "image:SBS51 4 Rainbow Explanation.png|left|100px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "That's incredible. It's impossible to see circle rainbows unless a very specific set of coincidences occur. Now, to start, I realize I only put it into one little panel, but they honestly do exist. By which I mean, rainbows ARE circles. Fig. 1: Rainbows (Sun), Water Screen, Reflection of 42 degrees! Fig. 2: This might be hard to understand in the picture, but a rainbow is formed when light from the sun is refracted through water droplets into bands of color. Unless the three elements to the left (sun, water, human) are placed exactly in the circumstances shown, you can't see a rainbow. The angle that light refracts into colors of visible light is at 42 degrees. Because humans are standing on the ground, the lower half of the circle is blocked by the horizon. Therefore, seeing a rainbow in the sky above from sea would be nearly impossible on Earth, but since this was the Grand Line, I figured maybe it would happen. When I was talking to a mangaka friend of mine, he said he saw a round rainbow while flying on a plane, so according to theory, it should work if you're in the air. I suppose you might even see one from the roof of your school. Hey, what is this, a science textbook?! Don't worry, folks, we're returning you to your normally scheduled dumb manga, One Piece! Don't change the channel!!",
+                        "matches": []
+                    }
+                ],
+                "files": [
+                    {
+                        "file": ":SBS51 4 Rainbow Explanation.png",
+                        "size": "100",
+                        "start": 182,
+                        "end": 234
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "amused",
+                        "playful"
+                    ],
+                    "topics": [
+                        "rainbows",
+                        "refraction",
+                        "light",
+                        "grand_line",
+                        "science",
+                        "one_piece"
+                    ],
+                    "importance": [
+                        "high"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda explains that round rainbows are formed by specific circumstances of sunlight, water, and human positioning, and are rare but do exist."
+            }
+        ],
+        "page": "146",
+        "chapter_number": "498",
+        "page_header": "SBS Vol 51 Chap 498 header.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 13,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchi, Odacchi! Is your uncle a taxi driver? When I went to Kyoto, I got a One Piece poster and a copy of the original art from the Volume 6 cover from him! This is so fascinating to me, I can't get my exam studies done! Thanx P.N. Jana",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yep, that sounds like none other than my uncle. He tells, me, \"Ei-chan, yer uncle's always pitchin' yer story to his customers!\" He went so overboard, the company told him to tone it down, but I'm sure he's still driving around Kyoto, telling people about me. If you happen to ride with him, say hello.\n\n[[File:SBS51 5 Thriller Night.png|right|120px]]",
+                        "matches": [
+                            [
+                                304,
+                                351,
+                                "File:SBS51 5 Thriller Night.png|right|120px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS51 5 Thriller Night.png",
+                        "size": "120",
+                        "start": 304,
+                        "end": 351
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [
+                        "Kyoto"
+                    ],
+                    "emotions": [
+                        "happy",
+                        "funny"
+                    ],
+                    "topics": [
+                        "family",
+                        "personal_life"
+                    ],
+                    "importance": "hight",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Eiichiro Oda confirms that his uncle is a taxi driver in Kyoto who promotes One Piece to his customers."
+            },
+            {
+                "number": 14,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Is the Thriller Bark story inspired by things like The Addams Family and The Nightmare Before Christmas? I love the atmosphere in those films. P.N. Plate-loving Cindry-chan",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes, the films. I love them too. In order to draw Thriller Bark, I even watched a lot of zombie movies, which I've never really done before. By my nature, I don't like scary things, so even though I put a lot more black into the art, I still tried to make silly, funny zombies. When artists draw about ghosts and dead people and things that aren't meant for polite society, they always go to the shrine to pray beforehand... as did I. I mean, I don't want to get cursed or anything.\n\n[[File:SBS51 5 Franky Mark.png|thumb|Franky's Personal Jolly Rogers]]",
+                        "matches": [
+                            [
+                                484,
+                                553,
+                                "File:SBS51 5 Franky Mark.png|thumb|Franky's Personal Jolly Rogers"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS51 5 Franky Mark.png",
+                        "size": null,
+                        "start": 484,
+                        "end": 553
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "franky"
+                    ],
+                    "places": [
+                        "thriller_bark"
+                    ],
+                    "emotions": [
+                        "funny",
+                        "silly"
+                    ],
+                    "topics": [
+                        "inspiration",
+                        "zombie_movies"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda drew inspiration from The Addams Family, The Nightmare Before Christmas, and zombie movies for the Thriller Bark story, aiming to make silly and funny zombies despite not liking scary things."
+            },
+            {
+                "number": 15,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei, I'd like to inform you of something! The skull and crossbones design for Franky differs between Volume 47, p. 166, and the pamphlet for the movie, \"Episode of Chopper.\" P.N. Lemon Cola",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Busted? I noticed that afterward. Before I drew it for the volume, Toei Anime came to me and said, \"We drew a symbol for Franky, is this good?\" and I said, \"Sure it is!\" and then completely forgot about it, so we wound up with two. And hey, they're both Franky's, to be sure. Why can't he have two symbols?",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "franky"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "franky_symbol",
+                        "inconsistency"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda admitted to the different designs for Franky's skull and crossbones symbol, attributing it to forgetfulness and Toei's input, claiming both designs are valid."
+            }
+        ],
+        "page": "186",
+        "chapter_number": "500",
+        "page_header": "SBS Vol 51 Chap 500 header.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 16,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Konnichiwa, Oda-sensei! I've got a question for the guy that's kept me on the edge of my seat for the last ten years! In Chapter 501, \"As the World Begins to Roil\", there's a spot on the human market price list right below Merfolk that says \"Female, 2-legged\". Does that mean they sell mermaids that are in relationships with two men at once? I'm so flustered I can't even find a girlfriend. by Kinta",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "That's right. Prices drop on those slutty mermaids that string two guys along at once! Are... you... KIDDIN' ME!! As Kokoro-san explained in Chapter 424, Volume 44, \"the tailfin splits into two legs around age 30, and they become able to live on land after that\". That says it all. Basically, young mermaids like Camie sell for higher prices, is all. For further questions about mermaids, I plan to explain more about them in the story ahead.\n\n[[File:SBS51 6 Kuma.png|right|100px]]",
+                        "matches": [
+                            [
+                                444,
+                                481,
+                                "File:SBS51 6 Kuma.png|right|100px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS51 6 Kuma.png",
+                        "size": "100",
+                        "start": 444,
+                        "end": 481
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "kintaro",
+                        "kokoro",
+                        "camie"
+                    ],
+                    "places": [],
+                    "topics": [
+                        "mermaids",
+                        "human_market",
+                        "Kokoro's_explanation",
+                        "future_story"
+                    ],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda clarifies that the 'Female, 2-legged' on the human market price list refers to mermaids who have acquired legs to live on land."
+            },
+            {
+                "number": 17,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Doesn't your tongue get twisted when you say, \"Nikyu Nikyu no Mi no Nikukyuu Ningen\"? (A padman with Nikyu Nikyu Fruit Powers) Spill the beans, Kuma-san. P.N. Tomo-san",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Probably not. He's a Shichibukai. Right, Kuma-san? Let's have him say it three times fast! Take it away, bud!!\n\nKuma: Nikyuniku!!",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "And with that... the SBS is over... See you again... next time.\n\nKuma: Nikyu nikyu nyo!!",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Knock it off!!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "bartholomew_kuma"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "devil_fruit",
+                        "funny_conversation"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "A reader asks Kuma to say 'Nikyu Nikyu no Mi no Nikukyuu Ningen' and Kuma responds with 'Nikyuniku' and 'Nikyu nikyu nyo' before Oda ends the session."
+            }
+        ],
+        "page": "206",
+        "chapter_number": "501",
+        "page_header": "SBS Vol 51 Chap 501 header.png"
+    }
+]

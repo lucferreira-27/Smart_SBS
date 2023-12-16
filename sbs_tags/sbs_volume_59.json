@@ -1,0 +1,831 @@
+[
+    {
+        "qa": [
+            {
+                "number": 1,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello Oda Sensei. you can borrow One Piece at libraries you know--. Even if it's not in the nearest library, you can use the internet to search for it in your area and borrow it--. Even if there isn't One Piece in the area, you can actually request it by saying \"I want One Piece\". Now even little kids can read it for free. OK, starting SBS--. P.N. Honokani",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Gasp!! Hey it started all easily!! That startled me-!! I heard. Yet still, there's manga in libraries?! ohhh.. That's I don't know, first time I heard this stuff. Manga in libraries?! Well uh, I guess this is a chance for little ones without money. To the nearest library, Let's go--! Speaking of free, check out the ONE PIECE WEB while you're at it.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "surprised",
+                        "happy"
+                    ],
+                    "topics": [
+                        "One Piece in libraries",
+                        "free access",
+                        "One Piece Web"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A fan tells Oda about borrowing One Piece from libraries; Oda is surprised but encourages young fans to utilize this free option and visit the One Piece website."
+            },
+            {
+                "number": 2,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odatz!! (so old...) Stay there. put down your porn books too! Ah- about the incident of ol' Garp's disappearing scar, the (bored) me has counted up to volume 58 and... 25 TIMES!! (BAM!) is the exact number. even though he doesn't appear often... sometimes it disappears dynamically. Humans make mistakes, huh? Well I see you don't have the will to apologize, so I'll take these \u2665books\u2665 as a punishment. P.N. Shimeji SP",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "AND TO BE EXACT... if an enemy he hates is around... his scar tingles.. and floats up. I guess? If normally there is no scar, and just at times like that, it tingles and comes up... WHAT WOULD YOU DO?! >:( In other words, maybe the scarless Garp is his true form right? (although nowhere does it say that in the truth). Anyway, you shall give those books back, you. GIVEBACK! I'll be carefull from now on so GIVEBACK!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "monkey_d_garp"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "angry",
+                        "playful"
+                    ],
+                    "topics": [
+                        "Garp's scar",
+                        "punishment",
+                        "enemy"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader points out a continuity error with Garp's scar, Oda explains it tingles in presence of enemies and demands the books back."
+            }
+        ],
+        "page": "40",
+        "chapter_number": "575",
+        "page_header": "SBS59 Header 1.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 3,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "WHO YA CALLIN' FOUREYED by coveredinfire",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Okay, as if nothing happened, to the next postcard we go.\n\n\n[[File:SBS59_2_Luffy.png|right|90px]]",
+                        "matches": [
+                            [
+                                60,
+                                97,
+                                "File:SBS59_2_Luffy.png|right|90px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS59_2_Luffy.png",
+                        "size": "90",
+                        "start": 60,
+                        "end": 97
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "moneky_d_luffy"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader expressed their feelings with a humorous quote and Oda moved on to the next postcard."
+            },
+            {
+                "number": 4,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello Oda Sensei~! Out of the blue but can you write what is inside luffy's head? oh and your head too--. my friend's head is half pervert and half games. P.N. SO ODA SENSEI'S HEAD IS FULL OF PORN AFTER ALL?!",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "What, you mean like those inner brain things on the internet? Like that? Then I'll scope everyone else's brain as well.\n\n[[File:SBS59_2_Thoughts.png|center|500px]]\n\nLuffy: meat meat meat meat king<br>Zoro: sword sword strength strength strength<br>Nami: money money money money beauty<br>Usopp: warrior lies lies run run<br>Sanji: women food food nami robin<br>Chopper: doctor medicine sweet trust beast<br>Robin: learn learn history old secret<br>Franky: weird weird weird weird iron<br>Brook: panties panties laugh tea tea<br>Oda: world peace\n\nAnd so the word \"friendship\" is in everyone's soul deep down.",
+                        "matches": [
+                            [
+                                121,
+                                163,
+                                "File:SBS59_2_Thoughts.png|center|500px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS59_2_Thoughts.png",
+                        "size": "500",
+                        "start": 121,
+                        "end": 163
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy",
+                        "roronoa_zoro",
+                        "nami",
+                        "usopp",
+                        "sanji",
+                        "tony_tony_chopper",
+                        "nico_robin",
+                        "franky",
+                        "brook"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "inner_thoughts",
+                        "personality_traits",
+                        "friendship"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda shares the inner thoughts of One Piece characters, revealing their main obsessions, and he states 'world peace' is in his own head."
+            },
+            {
+                "number": 5,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "About the Whitebeard Pirates, if there are pirates from the \"Whitebeard ally groups\", is there a possibility of one of them becoming a commander of the real Whitebeard Pirates itself? Or are the commanders all from the real Whitebeard Pirates from the beginning? P.N. amanuts",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Ok, I'll explain a little about the Whitebeard Pirates. First, captain Whitebeard and the 16 commanders. All 16 commanders, despite numbers and ages have the same rank. All the same. Whitebeard Pirates are just split in 16 groups and the division number does not indicate strength. The 43 ally pirate ships are not any part of the Whitebeard Pirates and are usually all just scattered everywhere living their own little lives. Yet they are loyal to Whitebeard, and help him in desperate times. They are like that. In Ace's case, the Spade Pirates were destroyed, and all the members joined the Whitebeard Pirates, so he was able to become a commander.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "whitebeard",
+                        "ace"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "whitebeard_pirates",
+                        "ace",
+                        "pirate_groups",
+                        "loyalty"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Whitebeard Pirates have 16 commanders of equal rank, and the 43 ally ships are not part of the main crew but loyal helpers, as seen with Ace's case."
+            }
+        ],
+        "page": "96",
+        "chapter_number": "578",
+        "page_header": "SBS59 Header 2.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 6,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Ciao!! About the cover of volume 58, thanks to your words, I am now known as the \"Year of the Human-Eating Rabbit\"and \"The Demonic Goat Capricorn, Who Swallows Anacondas Whole\"... how are you gonna pay for this--?? (angry) P.N. herbivore rabbit\n\n[[File:SBS59_3_Capricorn.png|right|150px]]",
+                        "matches": [
+                            [
+                                246,
+                                288,
+                                "File:SBS59_3_Capricorn.png|right|150px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Oh dear. I see, so in other words, it's a \"since you were born as a rabbit year capricorn, your reputation was made up by some guy you don't even know\" kinda thing, huh? And yet, you don't like the one i thought of. Well since there's no choice, I shall come up with a reputation for your year and horoscope with full responsibility. I hope you like it. \"Capricorn thinking of dirty things at a factory observation\".\n\n\n[[File:Chapter 572.png|right|120px]]",
+                        "matches": [
+                            [
+                                419,
+                                455,
+                                "File:Chapter 572.png|right|120px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS59_3_Capricorn.png",
+                        "size": "150",
+                        "start": 246,
+                        "end": 288
+                    },
+                    {
+                        "file": "Chapter 572.png",
+                        "size": "120",
+                        "start": 419,
+                        "end": 455
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "angry"
+                    ],
+                    "topics": [
+                        "cover_volume",
+                        "horoscope_reputation"
+                    ],
+                    "importance": "hight",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader complains about being associated with strange nicknames from the cover of volume 58, Oda promises to create a new reputation based on reader's year and horoscope."
+            },
+            {
+                "number": 7,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello. (' V ')_I'm a Bob Dylan fan of 18 years. I think it was chapter 572, but that title.... It's that famous song's title by Bob Dylan! When I saw this, I really was surprised. Odacchi, do you also like Bob Dylan??-- Anyhow, the title matches the story, so I am happy with it!! (laugh) P.N. Bob Dylan always cheers me up.",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yess. That is right. I did something only fans would notice. Bob Dylan is a super star of America, and though i don't really know about him much, I knew this title so I kinda just borrowed it. In the Jump magazine, it was all in English, but as I thought, readers would be confused by this. I put a translation below in the actual volume.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "happy",
+                        "funny"
+                    ],
+                    "topics": [
+                        "bob_dylan",
+                        "manga_title",
+                        "music_reference"
+                    ],
+                    "importance": "hight",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda borrowed a famous Bob Dylan song title for a chapter, providing an English translation in the volume for readers' understanding."
+            }
+        ],
+        "page": "114",
+        "chapter_number": "579",
+        "page_header": "SBS59 Header 3.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 7,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "N/A",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "M.K.K. corner~~! (Matomete Kakatte Koi; Come all at once) Yes yes, it has started~!! jeez--, You all. How many times do you want to mess with the characters' birthdays!! And there has to be a good reason or I won't approve these things too easily. Come at me!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "playful",
+                        "funny"
+                    ],
+                    "topics": [
+                        "author-interaction",
+                        "birthdays"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda expresses frustration over fans messing with characters' birthdays and insists on a good reason before approving changes."
+            },
+            {
+                "number": 8,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "About Law's birthday, how is 10 (trafalgar) 6 (law) for 10/6? P.N. hamchi-",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Sure.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "trafalgar_law"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "birthday",
+                        "nicknames"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Law's birthday is 10/6 because 10 can be read as 'ten' and 6 can be read as 'roku' in Japanese, making 'Trafalgar' and 'Roku'."
+            },
+            {
+                "number": 9,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Please, for my favorite one piece character, Blackbeard Marshall D. Teach, for the yami yami fruit, can his birthday be 8(ya)/3(mi)? I wanted to make it myself but how is it?",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Sure.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "marshall_d_teach"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "devil_fruit"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "The reader asks if they can make Blackbeard Marshall D. Teach's birthday 8/3, and Oda approves."
+            },
+            {
+                "number": 10,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Sensei, listen! some time ago, a newbie in our workplace said he doesn't know Marco's birthday! (Madness) 10/5 (1st division commander 05 (maru co)) is just too easy to remember too! Right, sensei? By Whitebeard nurse type karte type marnyamu <3",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Uh.. yeah, I thought so. Yes... It's right.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "marco"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader tells Oda about easy to remember birthday of One Piece character Marco, and Oda agrees with the sentiment."
+            },
+            {
+                "number": 11,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Crocodile's birthday should be 9/5 for 9(cu)ro 5(co)dile, don't you think!! When you make birthdays, you're always so gloomy, so answer after getting Emporio Ivankov's tension hormones. From ultimate",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "HEE~~HAW~~!! THATS GOOD!! HEE~~HAW~~!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "crocodile",
+                        "emporio_ivankov"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny",
+                        "happy"
+                    ],
+                    "topics": [
+                        "birthday",
+                        "humor"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "Reader suggests a birthday for Crocodile based on wordplay, and Oda enthusiastically responds in agreement."
+            },
+            {
+                "number": 12,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "All of the sudden, but I think Iva chan's birthday should be 1(hee)/8(haw). Is it ok?",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "ALRIGHTY!! HEE~~HAW~~!!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "iva_chan"
+                    ],
+                    "emotions": [
+                        "happy",
+                        "funny"
+                    ],
+                    "topics": [],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "The reader suggests changing Iva Chan's birthday to 1/8, and Oda enthusiastically agrees with 'hee' and 'haw' sounds."
+            },
+            {
+                "number": 13,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "About the Marine admirals, along with their real models, can their birthdays be:\n\nAokiji...9/21 (Mr. Yusaku Matsuda)\n\nKizaru...11/23 (Mr. Kunie Tanaka)\n\nAkainu...8/16 (Mr. Bunta Sugawara)\n\nhow's that? P.M. Nishimura's friend",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "WHATEVER Y'ALL SAY!!!! HEE~~ HAW~~!!!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "marines",
+                        "birthdays"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "The reader suggests Marine admirals' birthdays based on real models, and Oda playfully approves."
+            }
+        ],
+        "page": "130",
+        "chapter_number": "580",
+        "page_header": "SBS59 Header 4.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 14,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I really want one of those Nami Huggable Pillows, so I'm thinking of buying one soon, and I wanted to ask you how to use it so I sent you a letter. by Nobuo",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Ah, I see--. HOW WOULD I KNOW?! I heard those things are out there--. I never saw it before so I'm not sure, but since it's a huggable pillow, shouldn't you just put it in between your legs and sleep? Everyone, you all seem to think i have control over all the ONE PIECE items, but the one who does this stuff is the media staff guy named Oonishi, and I just sit there and look at the product introduction pages and think \"Ohh so that's whats out there\" or something like that. I don't care as long as customers like the products. I do look forward to the portrait of pirates (P.O.P.) series all the time though. But they're expensive. Seriously.\n\n\n[[File:SBS59_5_Tones_1.png|right|100px]]",
+                        "matches": [
+                            [
+                                649,
+                                689,
+                                "File:SBS59_5_Tones_1.png|right|100px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS59_5_Tones_1.png",
+                        "size": "100",
+                        "start": 649,
+                        "end": 689
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "nami"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "merchandise",
+                        "portrait_of_pirates"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda jokes about not knowing how to use a Nami Huggable Pillow, recommends using it between the legs for sleep, and mentions not being involved in merchandise production."
+            },
+            {
+                "number": 15,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "A serious question. How many tones are used in ONE PIECE? Is it possibly one?? Does shonen manga use only a few tones in general? Oh, and are you able to do that \"bokashi\" thing you do by scraping the tone? Please reply straightforwardly! P.N. manga lover M.S\n\n\n[[File:SBS59_5_Tones_2.png|right|100px]]",
+                        "matches": [
+                            [
+                                262,
+                                302,
+                                "File:SBS59_5_Tones_2.png|right|100px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Hey, that's rude to say I use only one tone! I use three, sheesh! I use the famous tone called I-C SCREEN. The light one, dark one, and the one called \"sandy\". For people who don't know, \"screen tone\" is this clear sticker you put on manga. If you go to stores, they have hundreds of them, but I use only three. I haven't done the \"bokashi\" thing for years but I used to in my assistant years. Now, my assistants do it for me.\n\n[[File:SBS59_5_Tones_3.png|center|500px]]",
+                        "matches": [
+                            [
+                                428,
+                                469,
+                                "File:SBS59_5_Tones_3.png|center|500px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS59_5_Tones_2.png",
+                        "size": "100",
+                        "start": 262,
+                        "end": 302
+                    },
+                    {
+                        "file": "SBS59_5_Tones_3.png",
+                        "size": "500",
+                        "start": 428,
+                        "end": 469
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "art",
+                        "manga",
+                        "tones",
+                        "drawing"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda uses three tones in One Piece, including the I-C SCREEN tone, and used to do the 'bokashi' scraping technique in his assistant years."
+            }
+        ],
+        "page": "168",
+        "chapter_number": "582",
+        "page_header": "SBS59 Header 5.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 16,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchi! I noticed an amazing thing!!! It is that if you show the Straw Hat Devil Fruit users in numbers, it will be the numbers from 1~10!!\n\nLuffy\u2192Gomu Gomu (5.6.5.6.), Chopper\u2192Hito Hito (1.10.1.10), Robin\u2192Hana Hana (8.7.8.7.), Brook\u2192Yomi Yomi (4.3.4.3.)\n\n(1.3.4.5.6.7.8.10), but there is no (2.9), so is the one who ate the Nikyu Nikyu (2.9.2.9.) no Mi, Bartholomew Kuma, gonna be a Straw Hat next? Please tell me!!! P.N. SHANKUS.LOVE",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "WHAAAAAT?! (shock) Gosh that surprised me! Why was I surprised?! NO COMMENTTTTTTT!!!!!!!! NEXT!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "moneky_d_luffy",
+                        "tony_tony_chopper",
+                        "nico_robin",
+                        "brook",
+                        "bartholomew_kuma"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "shock",
+                        "funny"
+                    ],
+                    "topics": [
+                        "devil_fruit",
+                        "straw_hat_pirates",
+                        "new_member",
+                        "speculation"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "The reader astutely observes a numerical pattern with the Devil Fruit users, speculating that Bartholomew Kuma might join the Straw Hats, to which Oda responds with shock and no comment."
+            },
+            {
+                "number": 17,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Don't mind my letter and go on to the next one. P.N.Smart",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "....Uh... Ok. Uhm.. Alright. If you say s... WHY DID YOU EVEN SEND ONE!! (that was childish)\n\n\n[[File:SBS59_6_Ivankov_Female.png|right|100px]]",
+                        "matches": [
+                            [
+                                95,
+                                142,
+                                "File:SBS59_6_Ivankov_Female.png|right|100px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS59_6_Ivankov_Female.png",
+                        "size": "100",
+                        "start": 95,
+                        "end": 142
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "ivankov"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "childish"
+                    ],
+                    "topics": [],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader sends a peculiar message to Oda, who reacts by questioning the purpose of the letter."
+            },
+            {
+                "number": 18,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Some time earlier in the news, it said that they put hormones in a male eel and was able to make it female, but could it be that, Iwa participated in the experiment too?! Was it \"Emporio Female Hormones\"?! P.N. Newkama",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yeah, it has to be that. Now that's what I call \"Emporio Female Hormones\". In future science, they will eventually find a way to make eels high in tension!! Hee-Haw!! I want to eat that eel!!\n\n--Ok, SBS ends here, but due to the dates, we will take a break in the voice actor SBS, sorry. That takes lots of time, you know. We will do it in the next volume for sure, so next is~\n\nRobin (Yuriko Yamaguchi) and Franky (Kazuki Yao), so please send funny questions for them too, thanks. In the next volume!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "nico_robin",
+                        "franky"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "science",
+                        "Emporio_Female_Hormones",
+                        "future"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda confirms that Iwa likely participated in an experiment to change gender using 'Emporio Female Hormones,' and humorously expresses interest in eating the transformed eel."
+            }
+        ],
+        "page": "186",
+        "chapter_number": "583",
+        "page_header": "SBS59 Header 6.png"
+    }
+]

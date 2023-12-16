@@ -1,0 +1,708 @@
+[
+    {
+        "qa": [
+            {
+                "number": 1,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchi<nowiki>~~~~</nowiki>\n\n<span style=\"font-size:1.5em\">I'll just start it right away<nowiki>~~~~</nowiki> P\u30fbT\u30fbA!!</span> P.N. OriOri",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "<span style=\"font-size:1.5em\"> THE PARENT GUARDIANS!!! ''(SHOCK)(sweat)''</span>\n\nThe parent guardians have started...\n[[File:SBS75 1 Luffy.png|thumb|150px|''\"I'm gonna be!!! Pirate King!!!\"'']]\n[[File:SBS75 1 Chaton Fanart.png|thumb|150px|''Left:'' Accidentally wearing back-to-front<br />''Coat:'' Justice]]\n[[File:SBS75 1 Chaton Concept Art.png|thumb|200px|Vice Admiral \"Chaton\" (Brown Pig)]]\n\nJust what do you all want me to do!! \u00a0S\u30fbB\u30fbS!\n\nThat's what it actually is. That's right. We'll be starting now.",
+                        "matches": [
+                            [
+                                119,
+                                194,
+                                "File:SBS75 1 Luffy.png|thumb|150px|''\"I'm gonna be!!! Pirate King!!!\"''"
+                            ],
+                            [
+                                195,
+                                309,
+                                "File:SBS75 1 Chaton Fanart.png|thumb|150px|''Left:'' Accidentally wearing back-to-front<br />''Coat:'' Justice"
+                            ],
+                            [
+                                310,
+                                395,
+                                "File:SBS75 1 Chaton Concept Art.png|thumb|200px|Vice Admiral \"Chaton\" (Brown Pig)"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS75 1 Luffy.png",
+                        "size": "150",
+                        "start": 119,
+                        "end": 194
+                    },
+                    {
+                        "file": "SBS75 1 Chaton Fanart.png",
+                        "size": "150",
+                        "start": 195,
+                        "end": 309
+                    },
+                    {
+                        "file": "SBS75 1 Chaton Concept Art.png",
+                        "size": "200",
+                        "start": 310,
+                        "end": 395
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "shock",
+                        "sweat"
+                    ],
+                    "topics": [
+                        "SBS",
+                        "fanart",
+                        "Pirate King"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda humorously responds to a reader's enthusiastic greeting and introduces the start of the Q&A session in SBS volume 75."
+            },
+            {
+                "number": 2,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "As the midterm season approaches, there's only one thing that I need to be doing right now, and that's <span style=\"font-size:1.5em\">BECOMING PIRATE KING!!</span>\u00a0P.N. momotaRou",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "<span style=\"font-size:1.5em\"> NO!! ''(SHOCK)'' Just, uh, NO?!</span>\n\nI think you've just made a grave mistake. In life.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "shock"
+                    ],
+                    "topics": [
+                        "ambition",
+                        "grave_mistake"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "D wants to become Pirate King, but Oda responds with shock, saying it's a grave mistake in life."
+            },
+            {
+                "number": 3,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchi! Ello. So Marine Admiral Chaton, who asked out ''bombshell sexy dynamitz Momousagi'' from the SBS on page 86 of Volume 74 100 times and got rejected 100 times looked something like this, right? (\u2192)\u00a0P.N. The Hide-yan with the red hair",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Uhhh. So since he can't possibly be one of the admirals... Oh, it must be that dude, right?\n\nThe guy that, like Momousagi, was nominated to be an admiral; this (\u2192) guy, Vice Admiral \"Chaton\", right?!\nYou're right, you're right, I found him in my sketchbook.\u00a0There actually was a time at one point where I considered making the new admirals a \"Pig\" and \"Kappa\" to match the \"Monkey\" \"Pig\" and \"Kappa\" trio from ''[[wikipedia:Journey to the West|Journey to the West]]''. However, in the end, I decided against it and we're here now with our newest additions, the \"Tiger\" and the \"Bull\". There ''is'' an actual reason for this, but I won't tell.\u00a0{{-}}",
+                        "matches": [
+                            [
+                                412,
+                                465,
+                                "wikipedia:Journey to the West|Journey to the West"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Journey to the West",
+                        "link_title": "/wiki/Journey to the West",
+                        "is_wikipedia": true,
+                        "start": 412,
+                        "end": 465
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "chaton",
+                        "momousagi"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "marine_admirals",
+                        "sbs",
+                        "admiral_nomination",
+                        "journey_to_the_west",
+                        "new_admirals",
+                        "oda_decision"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda confirms that the rejected admirer of Momousagi is Vice Admiral Chaton, and shares his initial concept for new admirals."
+            }
+        ],
+        "page": "26",
+        "chapter_number": "743",
+        "page_header": "SBS75 Header 1.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 4,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I saw cute Shirahoshi on the cover and started reading Volume 63 when I suddenly realized something.\n\nThat one ex-slave girl that Tiger took back to her village, her name... was Koala, wasn't it?? Wasn't it!!!!?\n\nYou're gonna have to be responsible about this! Oda-Sensei!!!\n\nP.N. The Very Great Red Apple-chan\n\n[[File:SBS75 2 Adult Koala.png|right|110px]]\n[[File:SBS75 2 Arlong.png|thumb|100px|''\"When that runt grows up, she'll turn into a monster just like any other human.\"'']]",
+                        "matches": [
+                            [
+                                312,
+                                356,
+                                "File:SBS75 2 Adult Koala.png|right|110px"
+                            ],
+                            [
+                                357,
+                                481,
+                                "File:SBS75 2 Arlong.png|thumb|100px|''\"When that runt grows up, she'll turn into a monster just like any other human.\"''"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "You're absolutely right. People who didn't notice could've just treated her as a new character and carried on with their reading, but I'm really thankful to see that quite a lot of you actually noticed. I imagine that people in the \"Revolutionary Army\" all have some sort of strong feelings that go against the flow of the world, but as for the current \"Fish-Man Karate assistant instructor\", I just started thinking about the kinds of emotions that the human girl named Koala must have gone through in life after her previous appearance, and the things that came to mind just brought out all the feels inside of me.\n\nTo me, Koala is someone who leads a life that is polar opposite to that of Hody's, and I feel that, in general, she is a very special character.",
+                        "matches": []
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS75 2 Adult Koala.png",
+                        "size": "110",
+                        "start": 312,
+                        "end": 356
+                    },
+                    {
+                        "file": "SBS75 2 Arlong.png",
+                        "size": "100",
+                        "start": 357,
+                        "end": 481
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "shirahoshi",
+                        "koala",
+                        "tiger",
+                        "hody"
+                    ],
+                    "places": [
+                        "village",
+                        "fish_man_karate"
+                    ],
+                    "emotions": [
+                        "thankful",
+                        "empathetic"
+                    ],
+                    "topics": [
+                        "koala_past",
+                        "revolutinary_army",
+                        "human_emotions",
+                        "character_development"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Koala's past and role as a 'Fish-Man Karate assistant instructor' evoke strong emotions, presenting her as a special, opposite character to Hody in the 'Revolutionary Army'."
+            },
+            {
+                "number": 5,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Nice to meet you. I am a 24 year old lady who has an affection for sharks. Sharks are widely known for having 2 dicks, but does Hody also have 2 dicks? Also, how many dicks does Odacchi have? P.N. I want Shirahoshi to be my waifu\n[[File:SBS75 2 Hody.png|right|120px]]",
+                        "matches": [
+                            [
+                                230,
+                                267,
+                                "File:SBS75 2 Hody.png|right|120px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "<span style=\"font-size:1.5em\"> THEY HAVE 2 OF THEM!? ''(SHOCK)''</span>\u00a0Sharks have 2 of them!? Wow, I had no idea. They're widely known for it!? I've drawn lots of sharks in my lifetime, but I had no idea. Thank you so much. If so, Hody has 2 of them as well.\n\nHe has 2 dicks, so he must be a double dick!\n\nI guess personally, I only need one.{{-}}",
+                        "matches": []
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS75 2 Hody.png",
+                        "size": "120",
+                        "start": 230,
+                        "end": 267
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "hody",
+                        "oda"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "shocked"
+                    ],
+                    "topics": [
+                        "anatomy",
+                        "funny"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda is surprised to learn sharks have 2 dicks, confirms Hody also has 2 and jokes about himself having only one."
+            }
+        ],
+        "page": "66",
+        "chapter_number": "745",
+        "page_header": "SBS75 Header 2.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 6,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "The tail-like thing that dwarves have on their bums, just what are they?\u00a0Penname Maa-kun",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Er, they're tails. They may look very soft and brushy at first glance, but they have extremely hard cores inside made of bones and muscle that assist with their extremely quick movements, and they also have the ability to apply a great amount of brute damage that comes in handy during battle.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "dwarves_anatomy",
+                        "battle_traits"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Dwarves' tail-like things are actually tails with hard cores made of bones and muscle, aiding in quick movements and delivering brute damage in battle."
+            },
+            {
+                "number": 7,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Question. I used to think that my husband was a Beta Beta no Mi user. \n[[File:SBS75_3_Trebol.png|right|200px]]\nThis is because his face, neck, and armpits are always extremely sticky. \n\nBut then, it was revealed that Trebol is the current Beta Beta no Mi user...\n\nSo then just what is my husband's ability?\u00a0P.N. Emukichi",
+                        "matches": [
+                            [
+                                71,
+                                110,
+                                "File:SBS75_3_Trebol.png|right|200px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "It must be the abilty to excessively sweat.\n\n[[File:SBS75 3 Sanji's Lighter.png|right|200px]]",
+                        "matches": [
+                            [
+                                45,
+                                93,
+                                "File:SBS75 3 Sanji's Lighter.png|right|200px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS75_3_Trebol.png",
+                        "size": "200",
+                        "start": 71,
+                        "end": 110
+                    },
+                    {
+                        "file": "SBS75 3 Sanji's Lighter.png",
+                        "size": "200",
+                        "start": 45,
+                        "end": 93
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "trebol",
+                        "emukichi"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "amused"
+                    ],
+                    "topics": [
+                        "devil_fruit",
+                        "abilities"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "D wonders about her husband's strange stickiness, and Oda suggests his ability might be excessive sweating."
+            },
+            {
+                "number": 8,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "This may be sudden, but please tell me, is the lighter that Sanji was using in \"Z\" (the movie) and the one he uses in the beginning of the anime opening \"HANDS UP!\" the same one? P.N. Loves \u2661 the Cook way too much A.K",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "\"HANDS UP!\" seems to be the previous anime opening. I have no idea wether it was used there, but during the time around when \"Film Z\" was aired, I actually personally collaborated with a French company called \"Dupont\", and the lighter I designed made it's appearance in the movie. To tell you the truth, I also secretly slipped it into the main series on chapter 663 of Volume 67. Hm? Have I said this yet? Oh well. I think you'll be able to find the real thing on the internet if you search \"Dupont Oda\" online. Also, Sanji uses this lighter.{{-}}",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "sanji"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "sanji_lighter",
+                        "collaboration",
+                        "anime_opening",
+                        "film_z",
+                        "oda's_personal_life"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Sanji's lighter used in the movie 'Z' and the anime opening 'HANDS UP!' is the same, personally designed by Oda and featured in Chapter 663 of Volume 67."
+            }
+        ],
+        "page": "86",
+        "chapter_number": "746",
+        "page_header": "SBS75 Header 3.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 9,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Question. Oda-san. The two guys I have here who seem to be really fond of polka dots must be the same person. So this old guy had actually seen Ricky back when he was young after all, huh. P.N. Berg Taguchi\n\n[[File:SBS75 4 Mukkashimi Tower 2.png|thumb|115px|''Top:'' Volume 74 Chapter 741 P202<br />''Bottom:'' Panel in question]]",
+                        "matches": [
+                            [
+                                208,
+                                330,
+                                "File:SBS75 4 Mukkashimi Tower 2.png|thumb|115px|''Top:'' Volume 74 Chapter 741 P202<br />''Bottom:'' Panel in question"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Ok so. This must be the recent scene where this guy in the colosseum is talking about how he feels like he's seen the masked gladiator Ricky, a.k.a. King Riku, before in the past. He does, in fact, also make an appearance in the colosseum as \"Ricky\" during the flashback. So you may be wondering, \"is the guy who was in the audience back then this person?\", but so close!! Your intuition seems to be very sharp, but you can actually locate this man, who is a long time regular at the colosseum, on a different day. Don't you agree that the person from chapter 741 looks really, exactly like him? Now that we've got that down, take a look at the guy above the man in the panel you've pointed out to me. It's that dude!! (lol) Let me introduce him to you! Mr. [[Mukkashimi Tower]], age 56. He loves watching gladiator fights- so much that his wife and child left him- but he's still doing great!\n\n[[File:SBS75 4 Luffy and Hancock.png|right|105px]]",
+                        "matches": [
+                            [
+                                758,
+                                778,
+                                "Mukkashimi Tower"
+                            ],
+                            [
+                                895,
+                                945,
+                                "File:SBS75 4 Luffy and Hancock.png|right|105px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS75 4 Mukkashimi Tower 2.png",
+                        "size": "115",
+                        "start": 208,
+                        "end": 330
+                    },
+                    {
+                        "file": "SBS75 4 Luffy and Hancock.png",
+                        "size": "105",
+                        "start": 895,
+                        "end": 945
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Mukkashimi Tower",
+                        "link_title": "/wiki/Mukkashimi Tower",
+                        "is_wikipedia": false,
+                        "start": 758,
+                        "end": 778
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "king_riku",
+                        "mukkashimi_tower"
+                    ],
+                    "places": [
+                        "colosseum"
+                    ],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "character_identification",
+                        "colosseum",
+                        "gladiator_fights"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "Oda confirms that the person from the colosseum scene is in fact the same person from the flashback, Mukkashimi Tower, aged 56, a regular gladiator fight fan."
+            },
+            {
+                "number": 10,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Good morning (currently 3 AM). So about volume 57, chapter 560! Right in the scene where Luffy hugs Hancock, I understood when the marines said it was a \"Buchikamashi\" <font color=#999999>''[\u3076\u3061\u565b\u307e\u3057 - a sumo move]''</font>, but I've never heard of a move called \"Sabaori\" <font color=#999999>''[\u9bd6\u6298\u308a, written with the kanji Saba (Mackerel, which is written by combining the kanji for \"fish [\u9b5a]\" and \"blue [\u9752]\") and the word Ori (\u6298\u308a, to bend or break)]''</font>\u00a0before. What in the world kind of activity requires a move written as \"Fish Blue Break\"? P.N. \"T.T\"",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes, Fish and Blue combined. A Sabaori <font color=#999999>''[Mackerel Bend]''</font> also happens to be a sumo move. To use it, you must embrace your opponent and break his hip. Seeing how Hancock flopped onto the ground afterwards, the Marines must've thought that this was the move Luffy used on her.{{-}}",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "luffy",
+                        "hancock"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "sumo_move",
+                        "martial_arts",
+                        "japanese_culture"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Luffy's hug on Hancock was misunderstood as a sumo move, 'Sabaori', meaning 'Mackerel Bend' and involving embracing and breaking the opponent's hip."
+            }
+        ],
+        "page": "106",
+        "chapter_number": "747",
+        "page_header": "SBS75 Header 4.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 11,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I have just one thing to say to Odacchi as representative of all young maidens. \n\n<span style=\"font-size:1.5em\">SENOR PINK SHOULD NOT HAVE BEEN A THING!</span>\n\n<span style=\"font-size:1.5em\">Just, NO!!</span> That thing...\n\nC...could you possibly be into that kind of thing, Odacchi-sensei...? P.N. Ladies' Representative Matsumokkuri",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "<span style=\"font-size:1.5em\">OH, HE'S A THING!!! HE'S TOTALLY A THING!!</span>\n\nUm, could you not take Senor so lightly? It says here that you're 17 years old, and yeah I get it, you youngin's tend to always judge a book by its cover, so just you wait, I'll show you soon.\n\nThe epitome of manliness, that is!\n\nWhat it really means to be hard-boiled!!\n\nJust you wait--!\n[[File:SBS75 5 Senor Pink 2.png|right|200px]]",
+                        "matches": [
+                            [
+                                370,
+                                415,
+                                "File:SBS75 5 Senor Pink 2.png|right|200px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS75 5 Senor Pink 2.png",
+                        "size": "200",
+                        "start": 370,
+                        "end": 415
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "senor_pink"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "defensive",
+                        "playful"
+                    ],
+                    "topics": [
+                        "character_design"
+                    ],
+                    "importance": "hight",
+                    "isCharacterInsertion": true
+                },
+                "summary": "Reader criticizes Senor Pink's design, Oda defends him, calling him the epitome of manliness and promises to prove his worth soon."
+            },
+            {
+                "number": 12,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Question. What would happen if you chow down on a bunch of tomatoes at the pool and wipe your mouth down with the bikini of some random cutie walking nearby?\n\n...........That's gotta be it, right!? She'd fall head over heels for you, right!? \n\nAlright, ''Let's Pool''!! Wahoo--!!<br>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u2193<br>Odacchi... I got arrested........ Why??\n\nP.N. I want to be Shimizu Chagero's disciple",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Ouch... So someone actually went and did it...!! I understand, those feelings of longing and admiration to be like Senor.\n\nSo you're currently 13 years old. I would advise you to experience life for, say, around 30 more years, until you start reeking of ''coolness''. I promise to develop Senor's character and good side to guide you in your journey!\n\nAlso, I wouldn't go in the direction of your pen name. Just don't end up on the wrong side!{{-}}",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "amused",
+                        "playful"
+                    ],
+                    "topics": [
+                        "advice",
+                        "fan letters",
+                        "life experience"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": true
+                },
+                "summary": "A reader asks what would happen if you eat tomatoes at a pool and wipe your mouth with a girl's bikini, and Oda advises to wait 30 years before acting cool, and not to take the wrong path."
+            }
+        ],
+        "page": "124",
+        "chapter_number": "748",
+        "page_header": "SBS75 Header 5.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 13,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchi, nice to meet you! So getting right to the point! What is Sugar's true age?!\n\nIt bothers me so much that Sugar was the only thing I could think of during exams! Even though I have to get into college...\n\nThanks to you, my scores were absolute crap\u2661 P.N. Gahara",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "So they were absolute crap. Well that's absolutely crappy (ba dum tss).\n\nSo, there's more background to this, but in a nutshell if you think about all the present facts that I have to take into consideration, she's actually not that much of an old hag after all.\n\nAt the moment, her outer appearance has stopped at the age of 10, but her true age is 22 years old. That would be 2 years younger than Baby 5. -----in fact, let me just reveal the entire family's ages right here.\n\n[[File:SBS75 6 Donquixote Family Ages.png|thumb|center|450px]]With ages ranging from the 10s to the 70s, they're really just like a big, big family.\n\nAlright, and that'll be my time. SBS ends here! However, at the end of the volume, there will be a notice about the first character popularity poll in 6 whole years!! The popularity poll that, so far, only Shonen Jump readers were given voting ballots to! We've decided that the Comics readers should also be allowed to participate, so if you're interested, make sure to read the end of this volume! Now then, see you in the next volume for more SBS!{{-}}",
+                        "matches": [
+                            [
+                                478,
+                                540,
+                                "File:SBS75 6 Donquixote Family Ages.png|thumb|center|450px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS75 6 Donquixote Family Ages.png",
+                        "size": "450",
+                        "start": 478,
+                        "end": 540
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "sugar",
+                        "baby_5",
+                        "donquixote_family"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "character_age",
+                        "sbs_announcement"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Sugar's outer appearance has stopped at the age of 10, but her true age is 22; the entire Donquixote family's ages range from the 10s to the 70s."
+            }
+        ],
+        "page": "162",
+        "chapter_number": "750",
+        "page_header": "SBS75 Header 6.png"
+    }
+]

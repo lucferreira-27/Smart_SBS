@@ -1,0 +1,1739 @@
+[
+    {
+        "qa": [
+            {
+                "number": 1,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Today we would like to congratulate all our readers on [[Uta]]-chan's live performance, so I'd like to encourage all of you readers! <big>U\u2022T\u2022A! U\u2022T\u2022A! S\u2022B\u2022S!</big> Let's start!!! P.N. Tokomon",
+                        "matches": [
+                            [
+                                55,
+                                62,
+                                "Uta"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Let's! Begin! Increase! Yes! Eye! It's about start!! (shock)",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Uta",
+                        "link_title": "/wiki/Uta",
+                        "is_wikipedia": false,
+                        "start": 55,
+                        "end": 62
+                    }
+                ],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "excited"
+                    ],
+                    "topics": [],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda excitedly starts the Q&A, acknowledging a fan's congratulations and encouragement for Uta-chan's live performance."
+            },
+            {
+                "number": 2,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchi~~...you're good at drawing!! Odacchi~...you're good at drawing!!\u00d76 I wrote it because I was free P.N. Chopami\n\n[[File:SBS105 Diable Jambe.png|thumb|120px]]",
+                        "matches": [
+                            [
+                                119,
+                                163,
+                                "File:SBS105 Diable Jambe.png|thumb|120px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Thank you~~ I'm so happy~~ See you~~ Bye-byyyyye.",
+                        "matches": []
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS105 Diable Jambe.png",
+                        "size": "120",
+                        "start": 119,
+                        "end": 163
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "happy"
+                    ],
+                    "topics": [],
+                    "importance": [
+                        "high"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader compliments Oda's drawing skills, Oda thanks the reader and bids goodbye."
+            },
+            {
+                "number": 3,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei, why are flames coming out from under [[Sanji]]'s feet? from T. Ura",
+                        "matches": [
+                            [
+                                49,
+                                58,
+                                "Sanji"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Because it's cooler than a fart coming out of your body~ See you~~ Give me another postcard~~ Bye-byyyyye.\n\n[[File:SBS105 Sanji's Eyebrows.png|thumb|250px|Chapter 1029\u2192Chapter 1031\u2192Chapter 1044]]",
+                        "matches": [
+                            [
+                                108,
+                                195,
+                                "File:SBS105 Sanji's Eyebrows.png|thumb|250px|Chapter 1029\u2192Chapter 1031\u2192Chapter 1044"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS105 Sanji's Eyebrows.png",
+                        "size": "250",
+                        "start": 108,
+                        "end": 195
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Sanji",
+                        "link_title": "/wiki/Sanji",
+                        "is_wikipedia": false,
+                        "start": 49,
+                        "end": 58
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "sanji"
+                    ],
+                    "topics": [
+                        "devil_fruit"
+                    ],
+                    "emotions": [
+                        "happy",
+                        "funny"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader asked why flames appear under Sanji's feet, Oda replied it looks cooler than flatulence and signed off with a goodbye."
+            },
+            {
+                "number": 4,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I have a question, in [[Chapter 1031]] of [[Volume 102]] Sanji's eyebrows were reversed, but in [[Chapter 1044]] of [[Volume 103]] they returned back to normal. Why did they changed back to normal? P.N. Rooftop",
+                        "matches": [
+                            [
+                                22,
+                                38,
+                                "Chapter 1031"
+                            ],
+                            [
+                                42,
+                                56,
+                                "Volume 102"
+                            ],
+                            [
+                                96,
+                                112,
+                                "Chapter 1044"
+                            ],
+                            [
+                                116,
+                                130,
+                                "Volume 103"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "You noticed it well~. His eyebrows have definitely changed. Going back to the [[Whole Cake Island Arc]], all of Sanji's brothers and sister have had superhuman qualities and strong skin called \"Exoskeleton\" since they were born due to \"[[Lineage Factor]] Manipulation\". However, only Sanji was born as a normal human due to his [[Vinsmoke Sora|mother's]] resistance. Look at his brothers and sister's eyebrows.\n\n[[File:SBS105 Vinsmoke Siblings' Eyebrows.png|left|thumb|250px|[[Vinsmoke Reiju|Reiju]], [[Vinsmoke Ichiji|Ichiji]], [[Vinsmoke Niji|Niji]], [[Vinsmoke Yonji|Yonji]]]]\n\u2190Everyone has \"66\" like Yonji. Sanji is the exact opposite. That was the battle where \"the power of science\" was manifested in the wake of the raid suit! Sanji originally had an abnormal resistance to \u201cflame\u201d. It was strange. Let's keep watching.",
+                        "matches": [
+                            [
+                                78,
+                                103,
+                                "Whole Cake Island Arc"
+                            ],
+                            [
+                                236,
+                                254,
+                                "Lineage Factor"
+                            ],
+                            [
+                                328,
+                                354,
+                                "Vinsmoke Sora|mother's"
+                            ],
+                            [
+                                412,
+                                499,
+                                "File:SBS105 Vinsmoke Siblings' Eyebrows.png|left|thumb|250px|[[Vinsmoke Reiju|Reiju"
+                            ],
+                            [
+                                501,
+                                527,
+                                "Vinsmoke Ichiji|Ichiji"
+                            ],
+                            [
+                                529,
+                                551,
+                                "Vinsmoke Niji|Niji"
+                            ],
+                            [
+                                553,
+                                577,
+                                "Vinsmoke Yonji|Yonji"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS105 Vinsmoke Siblings' Eyebrows.png",
+                        "size": "250",
+                        "start": 412,
+                        "end": 499
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "mother's",
+                        "link_title": "/wiki/Vinsmoke Sora",
+                        "is_wikipedia": false,
+                        "start": 328,
+                        "end": 354
+                    },
+                    {
+                        "text": "Ichiji",
+                        "link_title": "/wiki/Vinsmoke Ichiji",
+                        "is_wikipedia": false,
+                        "start": 501,
+                        "end": 527
+                    },
+                    {
+                        "text": "Niji",
+                        "link_title": "/wiki/Vinsmoke Niji",
+                        "is_wikipedia": false,
+                        "start": 529,
+                        "end": 551
+                    },
+                    {
+                        "text": "Yonji",
+                        "link_title": "/wiki/Vinsmoke Yonji",
+                        "is_wikipedia": false,
+                        "start": 553,
+                        "end": 577
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Chapter 1031",
+                        "link_title": "/wiki/Chapter 1031",
+                        "is_wikipedia": false,
+                        "start": 22,
+                        "end": 38
+                    },
+                    {
+                        "text": "Volume 102",
+                        "link_title": "/wiki/Volume 102",
+                        "is_wikipedia": false,
+                        "start": 42,
+                        "end": 56
+                    },
+                    {
+                        "text": "Chapter 1044",
+                        "link_title": "/wiki/Chapter 1044",
+                        "is_wikipedia": false,
+                        "start": 96,
+                        "end": 112
+                    },
+                    {
+                        "text": "Volume 103",
+                        "link_title": "/wiki/Volume 103",
+                        "is_wikipedia": false,
+                        "start": 116,
+                        "end": 130
+                    },
+                    {
+                        "text": "Whole Cake Island Arc",
+                        "link_title": "/wiki/Whole Cake Island Arc",
+                        "is_wikipedia": false,
+                        "start": 78,
+                        "end": 103
+                    },
+                    {
+                        "text": "Lineage Factor",
+                        "link_title": "/wiki/Lineage Factor",
+                        "is_wikipedia": false,
+                        "start": 236,
+                        "end": 254
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "sanji",
+                        "vinsmoke_reiju",
+                        "vinsmoke_ichiji",
+                        "vinsmoke_niji",
+                        "vinsmoke_yonji",
+                        "vinsmoke_sora"
+                    ],
+                    "places": [
+                        "whole_cake_island_arc"
+                    ],
+                    "topics": [
+                        "lineage_factor_manipulation",
+                        "raidsuit",
+                        "flame_resistance"
+                    ],
+                    "emotions": [
+                        "happy",
+                        "satisfied"
+                    ],
+                    "importance": "high",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda confirms Sanji's eyebrows changed back to normal after using a raid suit in Whole Cake Island Arc; it was due to his lack of 'Lineage Factor' manipulation unlike his siblings."
+            }
+        ],
+        "page": "24",
+        "chapter_number": "1056",
+        "page_header": "SBS105 Header 1.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 5,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello. I like ONE PIECE. I  heard that [[Wano Country Arc]] is over. It's sad that people in Wano who ate failed [[Devil Fruit]] keep laugh, so I would like [[Tony Tony Chopper|Chopper]] to make a medicine for them that will cure them, and then he leave country. It's sad to see [[Killer]] is always laughing too. Oda-sensei, thank you very much. from M. Hiromi",
+                        "matches": [
+                            [
+                                39,
+                                59,
+                                "Wano Country Arc"
+                            ],
+                            [
+                                113,
+                                128,
+                                "Devil Fruit"
+                            ],
+                            [
+                                157,
+                                186,
+                                "Tony Tony Chopper|Chopper"
+                            ],
+                            [
+                                279,
+                                289,
+                                "Killer"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes. Thank you for your kind postcard. It's too painful to be able to laugh even if their parents are died. But Chopper doesn't seem to have the power to make that medicine yet. There are things in the world that can't do anything about, and this seems to be one of them. But when Killer could do nothing but laugh, the members of the [[Kid Pirates]] said, \"Let's become a fun pirate crew!\" and I laughed. It's nice to have someone who can think brightly when there's nothing can do. I believe in the strength of the people of Wano!!\n\n[[File:SBS105 Aramaki.png|thumb|150px]]\n[[File:SBS105 Tensei.png|thumb|150px]]",
+                        "matches": [
+                            [
+                                335,
+                                350,
+                                "Kid Pirates"
+                            ],
+                            [
+                                535,
+                                574,
+                                "File:SBS105 Aramaki.png|thumb|150px"
+                            ],
+                            [
+                                575,
+                                613,
+                                "File:SBS105 Tensei.png|thumb|150px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS105 Aramaki.png",
+                        "size": "150",
+                        "start": 535,
+                        "end": 574
+                    },
+                    {
+                        "file": "SBS105 Tensei.png",
+                        "size": "150",
+                        "start": 575,
+                        "end": 613
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Chopper",
+                        "link_title": "/wiki/Tony Tony Chopper",
+                        "is_wikipedia": false,
+                        "start": 157,
+                        "end": 186
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Wano Country Arc",
+                        "link_title": "/wiki/Wano Country Arc",
+                        "is_wikipedia": false,
+                        "start": 39,
+                        "end": 59
+                    },
+                    {
+                        "text": "Devil Fruit",
+                        "link_title": "/wiki/Devil Fruit",
+                        "is_wikipedia": false,
+                        "start": 113,
+                        "end": 128
+                    },
+                    {
+                        "text": "Killer",
+                        "link_title": "/wiki/Killer",
+                        "is_wikipedia": false,
+                        "start": 279,
+                        "end": 289
+                    },
+                    {
+                        "text": "Kid Pirates",
+                        "link_title": "/wiki/Kid Pirates",
+                        "is_wikipedia": false,
+                        "start": 335,
+                        "end": 350
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "Tony Tony Chopper",
+                        "Killer",
+                        "Eiichiro Oda",
+                        "Kid Pirates"
+                    ],
+                    "places": [
+                        "Wano Country"
+                    ],
+                    "topics": [
+                        "Devil Fruit",
+                        "Wano Country Arc",
+                        "Kid Pirates' crew"
+                    ],
+                    "emotions": [
+                        "sad",
+                        "happy",
+                        "funny"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda thanks a fan for their postcard and explains Chopper can't cure those who ate failed Devil Fruits. He finds it painful but thinks brightly despite nothing he can do, and believes in Wano's people."
+            },
+            {
+                "number": 6,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "[[Aramaki|Ryokugyu's]] model is actor [[wikipedia:Yoshio Harada|Yoshio Harada]]? It was so cool that I had a nosebleed. P.N. Match and Takeshi",
+                        "matches": [
+                            [
+                                0,
+                                22,
+                                "Aramaki|Ryokugyu's"
+                            ],
+                            [
+                                38,
+                                79,
+                                "wikipedia:Yoshio Harada|Yoshio Harada"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "That's right. The movie \"Ronin-gai\" is famous, but the actor is also cool. He is already dead, but he is a legendary actor.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Ryokugyu's",
+                        "link_title": "/wiki/Aramaki",
+                        "is_wikipedia": false,
+                        "start": 0,
+                        "end": 22
+                    },
+                    {
+                        "text": "Yoshio Harada",
+                        "link_title": "/wiki/Yoshio Harada",
+                        "is_wikipedia": true,
+                        "start": 38,
+                        "end": 79
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "ryokugyu",
+                        "yoshio_harada"
+                    ],
+                    "places": [],
+                    "topics": [
+                        "devil_fruit"
+                    ],
+                    "emotions": [
+                        "happy",
+                        "funny"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda confirms Ryokugyu's model is based on the late actor Yoshio Harada, known for his role in 'Ronin-gai'."
+            },
+            {
+                "number": 7,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Does the director of the Marine Criminal Investigative Service Kurouma ([[Tensei]]) who appeared in [[Chapter 1054]] have an actor model? P.N. Jinbei",
+                        "matches": [
+                            [
+                                72,
+                                82,
+                                "Tensei"
+                            ],
+                            [
+                                100,
+                                116,
+                                "Chapter 1054"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Tensei is modeled after an actor named [[wikipedia:Akira Kobayashi|Akira Kobayashi]]. I just thought about it, but when I put my favorite legendary Japanese actors in the Marine's upper echelons like this... they all don't have black hair!? I noticed that (laugh). I didn't peta. I'm also going to make Ryokugyu's hair a color other than black. If you know my favorite movie called \"[[wikipedia:Battles Without Honor and Humanity|Battles Without Honor and Humanity]]\"... \"Akainu\" and \"Kurouma\" just talk the same language, it's really exciting!! It's cool~!!",
+                        "matches": [
+                            [
+                                39,
+                                84,
+                                "wikipedia:Akira Kobayashi|Akira Kobayashi"
+                            ],
+                            [
+                                383,
+                                466,
+                                "wikipedia:Battles Without Honor and Humanity|Battles Without Honor and Humanity"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Akira Kobayashi",
+                        "link_title": "/wiki/Akira Kobayashi",
+                        "is_wikipedia": true,
+                        "start": 39,
+                        "end": 84
+                    },
+                    {
+                        "text": "Battles Without Honor and Humanity",
+                        "link_title": "/wiki/Battles Without Honor and Humanity",
+                        "is_wikipedia": true,
+                        "start": 383,
+                        "end": 466
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Tensei",
+                        "link_title": "/wiki/Tensei",
+                        "is_wikipedia": false,
+                        "start": 72,
+                        "end": 82
+                    },
+                    {
+                        "text": "Chapter 1054",
+                        "link_title": "/wiki/Chapter 1054",
+                        "is_wikipedia": false,
+                        "start": 100,
+                        "end": 116
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "tensei",
+                        "akainu",
+                        "jinbei",
+                        "akira kobayashi"
+                    ],
+                    "places": [
+                        " marine criminal investigative service"
+                    ],
+                    "topics": [
+                        "chapter 1054",
+                        "actor model",
+                        "battles without honor and humanity",
+                        "director"
+                    ],
+                    "emotions": [
+                        "happy",
+                        "excited"
+                    ],
+                    "importance": [
+                        "high"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Tensei, Marine Criminal Investigative Service's director, is modeled after actor Akira Kobayashi; Oda noticed his favorite Japanese actors in Marine's upper echelons have non-black hair, planning to make Ryokugyu's hair a different color too; Tensei and Akainu's similar mannerisms excite Oda, inspired by 'Battles Without Honor and Humanity'"
+            }
+        ],
+        "page": "42",
+        "chapter_number": "1057",
+        "page_header": "SBS105 Header 2.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 8,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Do friends who joined the crew later ([[Nico Robin|Robin]], [[Franky]], [[Brook]], [[Jinbe]]) heard stories about the East Blue adventure from the original members (mostly [[Usopp]]?) and knew what had happened so far? I am curious! P.N. Seito",
+                        "matches": [
+                            [
+                                38,
+                                58,
+                                "Nico Robin|Robin"
+                            ],
+                            [
+                                60,
+                                70,
+                                "Franky"
+                            ],
+                            [
+                                72,
+                                81,
+                                "Brook"
+                            ],
+                            [
+                                83,
+                                92,
+                                "Jinbe"
+                            ],
+                            [
+                                172,
+                                181,
+                                "Usopp"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "They either knew or they didn't know. Given the identities of the original members, [[Monkey D. Luffy|Luffy]] and [[Roronoa Zoro|Zoro]] don't talk about the past. [[Nami]], Sanji, and Chopper will speak if asked. Usopp will speak without being asked, but the adult members can sees through lies, so they ask Nami, Sanji, and Chopper to talk about anything they want to know. However, most of the [[Straw Hat Pirates]] don't care about people's past.\n\n[[File:SBS105 Picture Book.png|thumb|200px]]",
+                        "matches": [
+                            [
+                                84,
+                                109,
+                                "Monkey D. Luffy|Luffy"
+                            ],
+                            [
+                                114,
+                                135,
+                                "Roronoa Zoro|Zoro"
+                            ],
+                            [
+                                163,
+                                171,
+                                "Nami"
+                            ],
+                            [
+                                396,
+                                417,
+                                "Straw Hat Pirates"
+                            ],
+                            [
+                                451,
+                                495,
+                                "File:SBS105 Picture Book.png|thumb|200px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS105 Picture Book.png",
+                        "size": "200",
+                        "start": 451,
+                        "end": 495
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Robin",
+                        "link_title": "/wiki/Nico Robin",
+                        "is_wikipedia": false,
+                        "start": 38,
+                        "end": 58
+                    },
+                    {
+                        "text": "Luffy",
+                        "link_title": "/wiki/Monkey D. Luffy",
+                        "is_wikipedia": false,
+                        "start": 84,
+                        "end": 109
+                    },
+                    {
+                        "text": "Zoro",
+                        "link_title": "/wiki/Roronoa Zoro",
+                        "is_wikipedia": false,
+                        "start": 114,
+                        "end": 135
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Franky",
+                        "link_title": "/wiki/Franky",
+                        "is_wikipedia": false,
+                        "start": 60,
+                        "end": 70
+                    },
+                    {
+                        "text": "Brook",
+                        "link_title": "/wiki/Brook",
+                        "is_wikipedia": false,
+                        "start": 72,
+                        "end": 81
+                    },
+                    {
+                        "text": "Jinbe",
+                        "link_title": "/wiki/Jinbe",
+                        "is_wikipedia": false,
+                        "start": 83,
+                        "end": 92
+                    },
+                    {
+                        "text": "Usopp",
+                        "link_title": "/wiki/Usopp",
+                        "is_wikipedia": false,
+                        "start": 172,
+                        "end": 181
+                    },
+                    {
+                        "text": "Nami",
+                        "link_title": "/wiki/Nami",
+                        "is_wikipedia": false,
+                        "start": 163,
+                        "end": 171
+                    },
+                    {
+                        "text": "Straw Hat Pirates",
+                        "link_title": "/wiki/Straw Hat Pirates",
+                        "is_wikipedia": false,
+                        "start": 396,
+                        "end": 417
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy",
+                        "roronoa_zoro",
+                        "nami",
+                        "sanji",
+                        "chopper",
+                        "nico_robin",
+                        "franky",
+                        "brook",
+                        "jinbe",
+                        "usopp"
+                    ],
+                    "places": [
+                        "east_blue"
+                    ],
+                    "topics": [
+                        "straw_hat_pirates",
+                        "past_adventures"
+                    ],
+                    "emotions": [
+                        "curious"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Luffy and Zoro don't discuss the past, but Nami, Sanji, and Chopper share stories if asked; Usopp talks about it frequently, but the crew prefers to hear it from Nami, Sanji, and Chopper. Most Straw Hats don't show much interest in each other's past."
+            },
+            {
+                "number": 9,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "In [[Chapter 1045]] \"NEXT LEVEL\", Kaidou says \"[[Comic Strips]]\", but isn't that a manga in the OP world? Eh!? Kaidou has never read ''One Piece''? P.N. Kei",
+                        "matches": [
+                            [
+                                3,
+                                19,
+                                "Chapter 1045"
+                            ],
+                            [
+                                47,
+                                63,
+                                "Comic Strips"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "\"Picture book\" and \"comic strips\" appear in the OP. \"Picture book\" is \"picture book\", but please think of \"comic strips\" as \"manga\" in the OP world. Unlike manga, there is no concept of balloons, so the story progresses in the form of sentences and lines in a frame. Famous titles include: ''[[Sora, Warrior of the Sea]]'', ''Fire Dog'', ''Pokeemon'', ''Monkey Ball'', ''Marco-san'' and so on.\n\n[[File:SBS105 Animals.png|thumb|center|400px]]",
+                        "matches": [
+                            [
+                                292,
+                                320,
+                                "Sora, Warrior of the Sea"
+                            ],
+                            [
+                                395,
+                                441,
+                                "File:SBS105 Animals.png|thumb|center|400px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS105 Animals.png",
+                        "size": "400",
+                        "start": 395,
+                        "end": 441
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Chapter 1045",
+                        "link_title": "/wiki/Chapter 1045",
+                        "is_wikipedia": false,
+                        "start": 3,
+                        "end": 19
+                    },
+                    {
+                        "text": "Comic Strips",
+                        "link_title": "/wiki/Comic Strips",
+                        "is_wikipedia": false,
+                        "start": 47,
+                        "end": 63
+                    },
+                    {
+                        "text": "Sora, Warrior of the Sea",
+                        "link_title": "/wiki/Sora, Warrior of the Sea",
+                        "is_wikipedia": false,
+                        "start": 292,
+                        "end": 320
+                    }
+                ],
+                "tags": {
+                    "characters": [],
+                    "places": [
+                        "OP world"
+                    ],
+                    "topics": [
+                        "manga in One Piece world",
+                        "comic strips in One Piece",
+                        "famous manga titles"
+                    ],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda explains 'comic strips' in One Piece world are like manga but without speech bubbles, giving examples of popular titles."
+            }
+        ],
+        "page": "60",
+        "chapter_number": "1058",
+        "page_header": "SBS105 Header 3.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 10,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "What food does [[Yamato]] dislike? P.N. Gomu Mera no Mi",
+                        "matches": [
+                            [
+                                15,
+                                25,
+                                "Yamato"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "[[wikipedia:Pungency|Spicy food]]. If he eat something spicy such as hot peppers or wasabi, he will yell \"Hey!\".\n\n[[File:SBS105 Graves.png|thumb|200px|The inscription on the graves of Tama's parents: \"Kurozumi\".]]",
+                        "matches": [
+                            [
+                                0,
+                                33,
+                                "wikipedia:Pungency|Spicy food"
+                            ],
+                            [
+                                114,
+                                213,
+                                "File:SBS105 Graves.png|thumb|200px|The inscription on the graves of Tama's parents: \"Kurozumi\"."
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS105 Graves.png",
+                        "size": "200",
+                        "start": 114,
+                        "end": 213
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Spicy food",
+                        "link_title": "/wiki/Pungency",
+                        "is_wikipedia": true,
+                        "start": 0,
+                        "end": 33
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Yamato",
+                        "link_title": "/wiki/Yamato",
+                        "is_wikipedia": false,
+                        "start": 15,
+                        "end": 25
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "Yamato"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "food"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda reveals Yamato dislikes spicy food, making him yell 'Hey!' when eaten; Tama's parents' graves have the inscription 'Kurozumi'."
+            },
+            {
+                "number": 11,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I saw the word \"Kurozumi\" on the gravestones of O-Tama-chan's parents...! O-Tama-chan was born into the same family as [[Kurozumi Orochi|Orochi]], who followed the path of revenge from Kurozumi's discrimination, but she is a child who walks a different path from Orochi in the new Wano Country, isn't it?? P.N. Rimika",
+                        "matches": [
+                            [
+                                119,
+                                145,
+                                "Kurozumi Orochi|Orochi"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Ohhh. Did you notice such details! Let's be clear about this. O-Tama's real name is [[Kurozumi Tama]]. Should we be hate her, then? In the last scene, [[Kozuki Hiyori|Hiyori]] clearly said, \"Kurozumi were born to burn.\" Is there a ladle in it? No, if you look at her story, you will understand that Hiyori meant only Orochi. How will people react if they found out that O-Tama was from [[Kurozumi Family]]? Please imagine various things. This has always been a big social problem.",
+                        "matches": [
+                            [
+                                84,
+                                101,
+                                "Kurozumi Tama"
+                            ],
+                            [
+                                151,
+                                175,
+                                "Kozuki Hiyori|Hiyori"
+                            ],
+                            [
+                                386,
+                                405,
+                                "Kurozumi Family"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Orochi",
+                        "link_title": "/wiki/Kurozumi Orochi",
+                        "is_wikipedia": false,
+                        "start": 119,
+                        "end": 145
+                    },
+                    {
+                        "text": "Hiyori",
+                        "link_title": "/wiki/Kozuki Hiyori",
+                        "is_wikipedia": false,
+                        "start": 151,
+                        "end": 175
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Kurozumi Tama",
+                        "link_title": "/wiki/Kurozumi Tama",
+                        "is_wikipedia": false,
+                        "start": 84,
+                        "end": 101
+                    },
+                    {
+                        "text": "Kurozumi Family",
+                        "link_title": "/wiki/Kurozumi Family",
+                        "is_wikipedia": false,
+                        "start": 386,
+                        "end": 405
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "kurozumi_tama",
+                        "orochi",
+                        "kozuki_hiyori"
+                    ],
+                    "places": [
+                        "wano"
+                    ],
+                    "topics": [
+                        "kurozumi_backstory",
+                        "discrimination",
+                        "social_problems"
+                    ],
+                    "emotions": [
+                        "happy",
+                        "funny"
+                    ],
+                    "importance": "high",
+                    "isCharacterInsertion": false
+                },
+                "summary": "O-Tama's real name is Kurozumi Tama, but she's not like Orochi; Hiyori's comment about Kurozumi refers to Orochi, not O-Tama; Orochi's family line is a social problem in Wano."
+            },
+            {
+                "number": 12,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Where exactly are [[Marines]] okaki made? Where are they sold? I would like to eat it! P.N. Shinonome Tomari",
+                        "matches": [
+                            [
+                                18,
+                                29,
+                                "Marines"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I think everyone knows that in the western part of the \"[[South Blue]]\" there is a stubborn okaki artisan, [[Ayes\u00e9 Mar]]-san. \"Okaki is a rock!!\" is his motto, and [[Sengoku]] is a Marine purveyor because he likes that okaki. They are sold at [[Marine Headquarters]] shop.",
+                        "matches": [
+                            [
+                                56,
+                                70,
+                                "South Blue"
+                            ],
+                            [
+                                107,
+                                120,
+                                "Ayes\u00e9 Mar"
+                            ],
+                            [
+                                164,
+                                175,
+                                "Sengoku"
+                            ],
+                            [
+                                243,
+                                266,
+                                "Marine Headquarters"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Marines",
+                        "link_title": "/wiki/Marines",
+                        "is_wikipedia": false,
+                        "start": 18,
+                        "end": 29
+                    },
+                    {
+                        "text": "South Blue",
+                        "link_title": "/wiki/South Blue",
+                        "is_wikipedia": false,
+                        "start": 56,
+                        "end": 70
+                    },
+                    {
+                        "text": "Ayes\u00e9 Mar",
+                        "link_title": "/wiki/Ayes\u00e9 Mar",
+                        "is_wikipedia": false,
+                        "start": 107,
+                        "end": 120
+                    },
+                    {
+                        "text": "Sengoku",
+                        "link_title": "/wiki/Sengoku",
+                        "is_wikipedia": false,
+                        "start": 164,
+                        "end": 175
+                    },
+                    {
+                        "text": "Marine Headquarters",
+                        "link_title": "/wiki/Marine Headquarters",
+                        "is_wikipedia": false,
+                        "start": 243,
+                        "end": 266
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "marines",
+                        "ayes\u00e9 mar",
+                        "sengoku"
+                    ],
+                    "places": [
+                        "south blue",
+                        "marine headquarters"
+                    ],
+                    "topics": [
+                        "okaki"
+                    ],
+                    "emotions": [
+                        "happy",
+                        "funny"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Ayes\u00e9 Mar-san makes okaki in South Blue's west, selling them at Marine HQ; Sengoku is a fan. "
+            }
+        ],
+        "page": "98",
+        "chapter_number": "1060",
+        "page_header": "SBS105 Header 4.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 12,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "N/A",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes. A woman told me that she has something to say about \"Sanada\"!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "sanada"
+                    ],
+                    "topics": [
+                        "reader_comment"
+                    ],
+                    "emotions": [
+                        "surprised"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A woman wanted to tell Oda something about 'Sanada' in One Piece's SBS section"
+            },
+            {
+                "number": 13,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I wanted to say something to someone like Sanadachi. \"I worship, salivate, and am very, very, very excited in the face of <big>MY BELOVED [[Shanks|SHANKS]]-SAMA.</big>\" It's the same as Sanadacchi's weird feelings for Nami-san! That's all. Refreshing\u2661 P.N. Munechicchi",
+                        "matches": [
+                            [
+                                138,
+                                155,
+                                "Shanks|SHANKS"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "' <big>OHHH!!! NO WAY!!</big>",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "SHANKS",
+                        "link_title": "/wiki/Shanks",
+                        "is_wikipedia": false,
+                        "start": 138,
+                        "end": 155
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy",
+                        "shanks",
+                        "nami"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "worship",
+                        "excitement",
+                        "love"
+                    ],
+                    "topics": [
+                        "devil_fruit"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader Munechicchi expresses love for Shanks, Oda responds with surprise."
+            },
+            {
+                "number": 14,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Let me bite into O-Nami's extra-large dango! P.N. Sanadacchi",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "<big>HEAD OF FAMILY COUNCIL!! BOTH OF YOU ARE BANNED, GO HOME!!!</big> Are you a PTA...!?\n\n[[File:SBS105 Killer.png|thumb|200px]]",
+                        "matches": [
+                            [
+                                91,
+                                129,
+                                "File:SBS105 Killer.png|thumb|200px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS105 Killer.png",
+                        "size": "200",
+                        "start": 91,
+                        "end": 129
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy",
+                        "o-nami"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [],
+                    "importance": [
+                        "low"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A fan asked about eating O-Nami's dango, Oda responded by jokingly banning them as head of the family council."
+            },
+            {
+                "number": 15,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I have a question. Isn't Killer eating takoyaki!? He can only eat long thin noodles. P.N. Occhi",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Look carefully! I've seen this several times, but it's \"Yakisoba\"! So it's okay! It went smoothly from the hole. Recently, my astigmatism is so bad that I can't see fine details. It was my fault too!\n\n[[File:SBS105 Nami, Toko, and Sanji.png|thumb|300px]]",
+                        "matches": [
+                            [
+                                201,
+                                254,
+                                "File:SBS105 Nami, Toko, and Sanji.png|thumb|300px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS105 Nami, Toko, and Sanji.png",
+                        "size": "300",
+                        "start": 201,
+                        "end": 254
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "killer"
+                    ],
+                    "places": [],
+                    "topics": [
+                        "food",
+                        "devil_fruit"
+                    ],
+                    "emotions": [
+                        "funny",
+                        "amused"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda clarifies that Killer eats yakisoba, not takoyaki, and admits his astigmatism makes it hard to see details."
+            },
+            {
+                "number": 16,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello Oda-sensei! What was the content of the book that Nami and [[Toko]] were reading in [[Chapter 1052]]? I understand this much! It's not a book that Sanji seems to like! P.N. Yu-kun",
+                        "matches": [
+                            [
+                                65,
+                                73,
+                                "Toko"
+                            ],
+                            [
+                                90,
+                                106,
+                                "Chapter 1052"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Oh good you found it. It's a heartwarming scene. Nami loves to search for books about the places she went to at that time. It looks like she found this in the library in the castle. It's like a fashion book about kimono.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Toko",
+                        "link_title": "/wiki/Toko",
+                        "is_wikipedia": false,
+                        "start": 65,
+                        "end": 73
+                    },
+                    {
+                        "text": "Chapter 1052",
+                        "link_title": "/wiki/Chapter 1052",
+                        "is_wikipedia": false,
+                        "start": 90,
+                        "end": 106
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy",
+                        "nami",
+                        "toko"
+                    ],
+                    "places": [
+                        "dressrosa",
+                        "wano",
+                        "castle"
+                    ],
+                    "topics": [
+                        "fashion",
+                        "kimono",
+                        "library"
+                    ],
+                    "emotions": [
+                        "happy"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda confirms Nami found a fashion book about kimonos in the castle library, depicted in Chapter 1052; it's a memento of the places she's visited."
+            }
+        ],
+        "page": "114",
+        "chapter_number": "1061",
+        "page_header": "SBS105 Header 5.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 16,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "N/A",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "There were so many people who asked question \"After all, what is Zoro's lineage!?\", I don't think there's anything to explain in the main story anymore, so I'll announce it.\n\n[[File:SBS105 Zoro's Family Tree.png|center|thumb|400px]]",
+                        "matches": [
+                            [
+                                175,
+                                232,
+                                "File:SBS105 Zoro's Family Tree.png|center|thumb|400px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "The younger brother of [[Shimotsuki Furiko]], who was on the ship that set sail from Wano and who encountered \"so-and-so\" who met Yamato as child, was [[Shimotsuki Ushimaru]], a former daimyo of Ringo and the descendant of Wano's mythical samurai, [[Shimotsuki Ryuma]], whom Zoro met back at [[Thriller Bark]]. In other words.. what does that mean..?! This is a strange and mysterious story of fate that even Zoro himself does not know about.",
+                        "matches": [
+                            [
+                                23,
+                                44,
+                                "Shimotsuki Furiko"
+                            ],
+                            [
+                                151,
+                                174,
+                                "Shimotsuki Ushimaru"
+                            ],
+                            [
+                                248,
+                                268,
+                                "Shimotsuki Ryuma"
+                            ],
+                            [
+                                292,
+                                309,
+                                "Thriller Bark"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS105 Zoro's Family Tree.png",
+                        "size": "400",
+                        "start": 175,
+                        "end": 232
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy",
+                        "zoro",
+                        "shimotsuki_furiko",
+                        "yamato",
+                        "shimotsuki_ushimaru",
+                        "shimotsuki_ryuma"
+                    ],
+                    "places": [
+                        "wano",
+                        "dressrosa",
+                        "thriller_bark",
+                        "ringo"
+                    ],
+                    "topics": [
+                        "zoro_backstory",
+                        "lineage",
+                        "samurai",
+                        "fate"
+                    ],
+                    "emotions": [
+                        "excited",
+                        "surprised"
+                    ],
+                    "importance": "high",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Zoro's lineage: younger brother of Furiko, Shimotsuki Ushimaru, former daimyo of Ringo and Shimotsuki Ryuma's descendant, a connection Zoro is unaware of."
+            }
+        ],
+        "page": "132",
+        "chapter_number": "1062",
+        "page_header": null
+    },
+    {
+        "qa": [
+            {
+                "number": 17,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "<big>WHAT WILL HAPPEN IF [[Kaidou|KAIDOU]] EATS UMEBOSHI?</big> P.N. Junya",
+                        "matches": [
+                            [
+                                25,
+                                42,
+                                "Kaidou|KAIDOU"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Here\u2192{{-}}\n\n[[File:SBS105 Nami 2.png|thumb|200px]]",
+                        "matches": [
+                            [
+                                12,
+                                50,
+                                "File:SBS105 Nami 2.png|thumb|200px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS105 Nami 2.png",
+                        "size": "200",
+                        "start": 12,
+                        "end": 50
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "KAIDOU",
+                        "link_title": "/wiki/Kaidou",
+                        "is_wikipedia": false,
+                        "start": 25,
+                        "end": 42
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "kaido"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "devil_fruit"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda jokes that Kaido would get a sudden burst of energy from eating umeboshi, a type of pickled plum."
+            },
+            {
+                "number": 18,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Serious question. ONE PIECE has a chest chiller, but it doesn't have a underwear. Do you have a reason or policy for not drawing, something like Kyomi's girlfriend? P.N. Underwear God",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "No... <big>I'M NOT INTERESTED.</big> (laugh) Since I was a child, various cartoons have drawn service scenes, but the female characters tend to be passive... If so, I thought that the \u201cShiawase Punch\u201d that I showed myself would be a revolution in the image of heroines.\n\n[[File:SBS105 Kaen Daiko.png|thumb|150px]]",
+                        "matches": [
+                            [
+                                271,
+                                313,
+                                "File:SBS105 Kaen Daiko.png|thumb|150px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS105 Kaen Daiko.png",
+                        "size": "150",
+                        "start": 271,
+                        "end": 313
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "funny",
+                        "amused"
+                    ],
+                    "topics": [
+                        "author's art style",
+                        "female characters in manga"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda has no policy against drawing underwear, but he's not interested. He wants to avoid passive female characters, aiming to revolutionize the image of heroines."
+            },
+            {
+                "number": 19,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchi, did the model for \"Kaen Daiko\" in [[Chapter 1048]] come from one of the representative Rakugo performances of the Showa era, \"Kaen Daiko\"? P.N. Shinnosu",
+                        "matches": [
+                            [
+                                43,
+                                59,
+                                "Chapter 1048"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Sure! That's right! I don't think anyone would be interested anyway! (laugh) There's a rakugo manga called \"Akane Banashi\" on Jump right now. Now it's crazy but it's funny.\n\n[[File:SBS105 Teacher.png|thumb|200px]]",
+                        "matches": [
+                            [
+                                174,
+                                213,
+                                "File:SBS105 Teacher.png|thumb|200px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS105 Teacher.png",
+                        "size": "200",
+                        "start": 174,
+                        "end": 213
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Chapter 1048",
+                        "link_title": "/wiki/Chapter 1048",
+                        "is_wikipedia": false,
+                        "start": 43,
+                        "end": 59
+                    }
+                ],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "happy",
+                        "funny"
+                    ],
+                    "topics": [
+                        "kaido_backstory",
+                        "rakugo"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader asked if the 'Kaen Daiko' model in Chapter 1048 was based on a famous Rakugo performance, to which Oda confirmed and recommended reading 'Akane Banashi'."
+            },
+            {
+                "number": 20,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-san! In Chapter 1052, the man with glasses who teaches at the temple school, is the model Torazo Hirosawa-san? It seems Oda-san said he liked you on the radio a long time ago...? P.N. Negizaru",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "That's right!! It's more core than rakugo, but that's right! Rakugo, rokyoku, storytelling, historical dramas! I sent \"Wano Country\" with my hobbies fully open~!! Beben!! Yes! SBS is over! See you in the next volume~~!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [
+                        "wano"
+                    ],
+                    "emotions": [
+                        "happy",
+                        "excited"
+                    ],
+                    "topics": [
+                        "rakugo",
+                        "rokyoku",
+                        "storytelling",
+                        "historical dramas"
+                    ],
+                    "importance": [
+                        "high"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader negizaru asks if the man with glasses at the temple school in Chapter 1052 is based on Torazo Hirosawa, and Oda confirms, mentioning he enjoys storytelling and historical dramas."
+            }
+        ],
+        "page": "148",
+        "chapter_number": "1063",
+        "page_header": "SBS105 Header 6.png"
+    }
+]

@@ -1,0 +1,798 @@
+[
+    {
+        "qa": [
+            {
+                "number": 1,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Dokusha means Reader\n*",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Oda\n__TOC__\n{{-}}",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "The reader points out the meaning of \\"
+            }
+        ],
+        "page": 26,
+        "chapter_number": 337,
+        "page_header": "SBS Vol 36 header.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 2,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Is [[Pagaya]]'s catchphrase \"I'm sorry\"? Also, why is it \"I'm sorry\"?",
+                        "matches": [
+                            [
+                                3,
+                                13,
+                                "Pagaya"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I don't know. I'm sorry.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Pagaya",
+                        "link_title": "/wiki/Pagaya",
+                        "is_wikipedia": false,
+                        "start": 3,
+                        "end": 13
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "pagaya"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "catchphrase"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Pagaya's catchphrase is 'I'm sorry' for unknown reasons, even Oda apologizes for not knowing."
+            },
+            {
+                "number": 3,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "When you're low on strength, Oda-sensei, do you use afro power as well? P.N. C-kun\u2661",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Of course. You can't very well draw a weekly serial without using afro power. I wanna be the champion one day.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "afro_power",
+                        "manga_creation"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda uses 'afro power' to draw the weekly serial and aims to be the champion one day."
+            }
+        ],
+        "page": "26",
+        "chapter_number": "337",
+        "page_header": "SBS36 1 Pagaya.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 4,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei, I have one question. And that is: what is a \"cutlass\"? Is it a sword? Or a gun? Please tell me. P.N. Chopper LOVE",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Right. Well. As you can see \u2193 it's a sword. It was said to originally be a knife used for skinning animals, that eventually became a short sword that sailors (and navy men) wore. In [[One Piece (Manga)|One Piece]], they look like the figure drawn on the right.\n[[File:SBS Vol 36 01.png|thumb|center|500px|Left: ''Cutlass (Short and wide blade).'' Right: ''One Piece version'']]\n\n[[File:SBS Vol 36 02.png|right|200px]]",
+                        "matches": [
+                            [
+                                182,
+                                213,
+                                "One Piece (Manga)|One Piece"
+                            ],
+                            [
+                                261,
+                                377,
+                                "File:SBS Vol 36 01.png|thumb|center|500px|Left: ''Cutlass (Short and wide blade).'' Right: ''One Piece version''"
+                            ],
+                            [
+                                379,
+                                417,
+                                "File:SBS Vol 36 02.png|right|200px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS Vol 36 01.png",
+                        "size": "500",
+                        "start": 261,
+                        "end": 377
+                    },
+                    {
+                        "file": "SBS Vol 36 02.png",
+                        "size": "200",
+                        "start": 379,
+                        "end": 417
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "One Piece",
+                        "link_title": "/wiki/One Piece (Manga)",
+                        "is_wikipedia": false,
+                        "start": 182,
+                        "end": 213
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "tony_tony_chopper"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "informative"
+                    ],
+                    "topics": [
+                        "weapons",
+                        "One Piece version",
+                        "swords"
+                    ],
+                    "importance": [
+                        "high"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader asks Oda about 'cutlass,' Oda explains it's a type of sword resembling a short and wide blade, commonly worn by sailors and navy men."
+            },
+            {
+                "number": 5,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-san!! It seems that lately, the admiration of men about the world, the \"[[Wikipedia:Hercules beetle|Hercules]]\" and \"[[Wikipedia:Atlas beetle|Atlas]]\" are sold in normal pet shops. What do you think of this? The adults of today could not imagine such a thing when they were kids! Is it good for a \"man's wish\" to be so easily obtained? Please, say something to the children of today!! P.N. Miyama Mei",
+                        "matches": [
+                            [
+                                76,
+                                114,
+                                "Wikipedia:Hercules beetle|Hercules"
+                            ],
+                            [
+                                121,
+                                153,
+                                "Wikipedia:Atlas beetle|Atlas"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I have received this postcard from a passionate adult. Yes. Long ago, we could not hope to see insects from other countries, so boys could only look at books of insects and dream of the Hercules Beetle, the largest in the entire world. And now you can easily see it right in Japan. It's amazing. However, when you think that the reason the boys of today can see these insects in person is because today's adults have fulfilled their dreams of bringing these bugs here, I think it's a wonderful thing.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Hercules",
+                        "link_title": "/wiki/Wikipedia:Hercules beetle",
+                        "is_wikipedia": false,
+                        "start": 76,
+                        "end": 114
+                    },
+                    {
+                        "text": "Atlas",
+                        "link_title": "/wiki/Wikipedia:Atlas beetle",
+                        "is_wikipedia": false,
+                        "start": 121,
+                        "end": 153
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "nostalgic",
+                        "appreciative"
+                    ],
+                    "topics": [
+                        "nature",
+                        "insects",
+                        "adulthood"
+                    ],
+                    "importance": "hight",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda thinks it's amazing that kids today can easily see the Hercules Beetle and the Atlas Beetle in Japan, and he believes it's wonderful that adults have fulfilled their dreams."
+            }
+        ],
+        "page": "46",
+        "chapter_number": "338",
+        "page_header": null
+    },
+    {
+        "qa": [
+            {
+                "number": 6,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "When [[Roronoa Zoro|Zoro]] was being scouted for [[Baroque Works]], what did [[Mr. 7 (Previous)|Mr. 7]] look like? by Double-Piece",
+                        "matches": [
+                            [
+                                5,
+                                26,
+                                "Roronoa Zoro|Zoro"
+                            ],
+                            [
+                                49,
+                                66,
+                                "Baroque Works"
+                            ],
+                            [
+                                77,
+                                103,
+                                "Mr. 7 (Previous)|Mr. 7"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "[[File:SBS36 3 Mr. 7.png|thumb|left|400px|Mr. 7: Join meee \u2190 Like this]]\n{{-}}\n\n[[File:SBS36 3 Darts.png|right|180px]]",
+                        "matches": [
+                            [
+                                0,
+                                72,
+                                "File:SBS36 3 Mr. 7.png|thumb|left|400px|Mr. 7: Join meee \u2190 Like this"
+                            ],
+                            [
+                                80,
+                                118,
+                                "File:SBS36 3 Darts.png|right|180px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS36 3 Mr. 7.png",
+                        "size": "400",
+                        "start": 0,
+                        "end": 72
+                    },
+                    {
+                        "file": "SBS36 3 Darts.png",
+                        "size": "180",
+                        "start": 80,
+                        "end": 118
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Zoro",
+                        "link_title": "/wiki/Roronoa Zoro",
+                        "is_wikipedia": false,
+                        "start": 5,
+                        "end": 26
+                    },
+                    {
+                        "text": "Mr. 7",
+                        "link_title": "/wiki/Mr. 7 (Previous)",
+                        "is_wikipedia": false,
+                        "start": 77,
+                        "end": 103
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Baroque Works",
+                        "link_title": "/wiki/Baroque Works",
+                        "is_wikipedia": false,
+                        "start": 49,
+                        "end": 66
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "roronoa_zoro",
+                        "mr_7"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "baroque_works",
+                        "scouting"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Mr. 7 looked like a man with a pointy mustache and a pirate hat, as shown in the provided images."
+            },
+            {
+                "number": 7,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "In [[Chapter 322]], \"Puffing Tom\", Zoro calls [[Sanji]] \"Darts\". Why \"Darts\"? P.N. Lovely Eyelashes",
+                        "matches": [
+                            [
+                                3,
+                                18,
+                                "Chapter 322"
+                            ],
+                            [
+                                46,
+                                55,
+                                "Sanji"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Was it too tough to figure out? I had several people ask this question. I don't think he was referring to the darts themselves, but the dartboard. Because it's all swirly. Geez! Stupid Zoro! Make a bit more sense, would you?!\n\n\n[[File:SBS36 3 Chopper.png|right|120px]]",
+                        "matches": [
+                            [
+                                228,
+                                268,
+                                "File:SBS36 3 Chopper.png|right|120px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS36 3 Chopper.png",
+                        "size": "120",
+                        "start": 228,
+                        "end": 268
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Chapter 322",
+                        "link_title": "/wiki/Chapter 322",
+                        "is_wikipedia": false,
+                        "start": 3,
+                        "end": 18
+                    },
+                    {
+                        "text": "Sanji",
+                        "link_title": "/wiki/Sanji",
+                        "is_wikipedia": false,
+                        "start": 46,
+                        "end": 55
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "roronoa_zoro",
+                        "sanji"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "nicknames",
+                        "character_interaction"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Zoro called Sanji 'Darts' due to his swirly, dartboard-like hairstyle, which Oda finds nonsensical."
+            },
+            {
+                "number": 8,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Deer, Tanuki, Reindeer, Human. How many parts of each do you need to make a Chopper? P.N. Chopper LOVE\u2661",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "1 part deer, 7 parts tanuki, 1 part reindeer, 1 part human, please.\n\n\n[[File:SBS36 3 Enel.png|right|150px]]",
+                        "matches": [
+                            [
+                                70,
+                                107,
+                                "File:SBS36 3 Enel.png|right|150px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS36 3 Enel.png",
+                        "size": "150",
+                        "start": 70,
+                        "end": 107
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "tony_tony_chopper",
+                        "Eneru"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "chopper",
+                        "SBS"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "To make a Chopper, you need 1 part deer, 7 parts tanuki, 1 part reindeer, and 1 part human."
+            },
+            {
+                "number": 9,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Is [[Enel|God Enel]]'s favorite food apples? (P.N. Raiden-san)",
+                        "matches": [
+                            [
+                                3,
+                                20,
+                                "Enel|God Enel"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes. That's right. I like them too. Oops! You weren't asking my opinion. I like pears, too. Oops! You weren't asking my opinion.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "God Enel",
+                        "link_title": "/wiki/Enel",
+                        "is_wikipedia": false,
+                        "start": 3,
+                        "end": 20
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "enel"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "food"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "God Enel's favorite food is apples, and Oda also likes them, but he also likes pears. "
+            }
+        ],
+        "page": "86",
+        "chapter_number": "340",
+        "page_header": null
+    },
+    {
+        "qa": [
+            {
+                "number": 10,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Good day, Oda-sensei. You know, that [[Nami]]-chan is so gorgeous!!! That beauty, that figure! I'm already swooning \u2661 By the way, when you compare her to the Nami-chan in Volume 1, haven't her breasts grown somewhat? by Saori-chan",
+                        "matches": [
+                            [
+                                37,
+                                45,
+                                "Nami"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yep. I get this a lot. But when you consider that she's only 18, she's still in her growth phase. She's got more room to grow! I'll give it my best!! (\u2190?) And Robin's only 28! I'll give it my best!! (\u2190?){{-}}\n\n[[File:SBS36 4 Crocodile.png|right|120px]]",
+                        "matches": [
+                            [
+                                210,
+                                252,
+                                "File:SBS36 4 Crocodile.png|right|120px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS36 4 Crocodile.png",
+                        "size": "120",
+                        "start": 210,
+                        "end": 252
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Nami",
+                        "link_title": "/wiki/Nami",
+                        "is_wikipedia": false,
+                        "start": 37,
+                        "end": 45
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "nami",
+                        "robin"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "playful"
+                    ],
+                    "topics": [
+                        "character_design",
+                        "age",
+                        "physical_appearance"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "D: A fan compliments Nami's appearance and asks if her breasts have grown since Volume 1; Oda confirms she's 18 and still growing."
+            },
+            {
+                "number": 11,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Howdy, got a question. What are the bounties in the world of [[One Piece (Manga)|One Piece]] based on? Is it strength? But in that case, wouldn't [[Crocodile]]'s bounty of around 80 million [[Belly]] be a bit small? Or does it get higher the more bad things you do? Or is this just a mistake of yours, sensei? The answer to this question has lead to a \"Forehead-flicking contest\" that is currently spreading throughout my school. Help meeee!! P.N. Master Donuts",
+                        "matches": [
+                            [
+                                61,
+                                92,
+                                "One Piece (Manga)|One Piece"
+                            ],
+                            [
+                                146,
+                                159,
+                                "Crocodile"
+                            ],
+                            [
+                                190,
+                                199,
+                                "Belly"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "This is a tricky question, the more you consider it. The \"[[Shichibukai]]\" are on the government's side, so their bounties are removed once they are accepted. So the Shichibukai's numbers are called former bounties, but because Baroque Works was secretly formed after Crocodile became a Shichibukai, the number won't change to reflect that. If Crocodile still had an active bounty, it would probably be at least double that of 81 million.",
+                        "matches": [
+                            [
+                                58,
+                                73,
+                                "Shichibukai"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "One Piece",
+                        "link_title": "/wiki/One Piece (Manga)",
+                        "is_wikipedia": false,
+                        "start": 61,
+                        "end": 92
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Crocodile",
+                        "link_title": "/wiki/Crocodile",
+                        "is_wikipedia": false,
+                        "start": 146,
+                        "end": 159
+                    },
+                    {
+                        "text": "Belly",
+                        "link_title": "/wiki/Belly",
+                        "is_wikipedia": false,
+                        "start": 190,
+                        "end": 199
+                    },
+                    {
+                        "text": "Shichibukai",
+                        "link_title": "/wiki/Shichibukai",
+                        "is_wikipedia": false,
+                        "start": 58,
+                        "end": 73
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "crocodile"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "bounties",
+                        "shichibukai"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Bounties in One Piece are based on a combination of strength and wrongdoings, but Shichibukai's bounties are removed and considered former bounties."
+            }
+        ],
+        "page": "126",
+        "chapter_number": "342",
+        "page_header": "SBS Vol 36 03.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 12,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "In Volume 32, [[Chapter 297]], how did Luffy blow up that big zappy thing ([[Goro Goro no Mi|Raig\u014d]])?? And what is the \"curtain\" that Nami mentions?? I looked it up, but I don't get it!! Please explain to me \u2605 P.N. crush",
+                        "matches": [
+                            [
+                                14,
+                                29,
+                                "Chapter 297"
+                            ],
+                            [
+                                75,
+                                100,
+                                "Goro Goro no Mi|Raig\u014d"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Well... how should I explain? First of all, all you really need to understand is the intensity of the scene. The Raig\u014d is a mass of thunder clouds. Just think of thunder clouds as big masses of stress with electricity inside. The thunder clouds want to smash that stress into something. That's when lightning reaches down to the ground.\n\n[[File:SBS36 5 Yamada.png|thumb|right|90px|Yamada]]\nIt's like when you hear \"Lightning just fell on that tree!\" Or \"Yamada just got hit by lightning!!\" That's called discharge. However, discharge doesn't always have to occur outside the clouds. Sometimes the lightning starts zapping around within the clouds. This is called \"curtain discharge\" or \"curtain lightning\". Gold conducts electricity, so when Luffy thrust that golden ball into the Raig\u014d, the lightning all zapped through it and disappeared. But Luffy didn't really understand what it was that he did. It's all OK. Just remember, everything cleared up. And today, Skypiea is at peace.\n\nTHE SBS IS OVER!!",
+                        "matches": [
+                            [
+                                338,
+                                389,
+                                "File:SBS36 5 Yamada.png|thumb|right|90px|Yamada"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS36 5 Yamada.png",
+                        "size": "90",
+                        "start": 338,
+                        "end": 389
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Raig\u014d",
+                        "link_title": "/wiki/Goro Goro no Mi",
+                        "is_wikipedia": false,
+                        "start": 75,
+                        "end": 100
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Chapter 297",
+                        "link_title": "/wiki/Chapter 297",
+                        "is_wikipedia": false,
+                        "start": 14,
+                        "end": 29
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "luffy",
+                        "nami"
+                    ],
+                    "places": [
+                        "skypiea"
+                    ],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "devil_fruit",
+                        "skypiea",
+                        "lightning",
+                        "discharge",
+                        "SBS"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda explains that the Raig\u014d is a mass of thunder clouds, and the 'curtain' Nami mentions is a 'curtain discharge' where lightning zaps around within the clouds."
+            }
+        ],
+        "page": "166",
+        "chapter_number": "344",
+        "page_header": "SBS36 5 Raigo.png"
+    }
+]

@@ -1,0 +1,675 @@
+[
+    {
+        "qa": [
+            {
+                "number": 1,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "To the person who replied \"BECAUSE I MADE HIM LIKE ME\" when asked \"Why is Zoro so cool?\" at Jump Festa 2003, which embarrassed Zoro's voice actor Nakai Kazuya...\n\nGET OUT OF HERE IMMEDIATELY.\n\n....Are you gone, \u00a0[[Eiichiro Oda|Oda Eiichiro]]...?Now I can finally start the SBS with my heart at ease... So...\u00a0\n\nSBS, START!!",
+                        "matches": [
+                            [
+                                212,
+                                241,
+                                "Eiichiro Oda|Oda Eiichiro"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "...That was so long ago, I don't even remember it. When you say Jump Festa, you mean the event that Jump holds every year at the end of the year, right? It's a big annual event, so it's interesting. In the two days, over 100,000 people came. This time there was a One Piece musical, too. Amazing.\n\nWell then, let's start the SBS.\n\n\n[[File:SBS Vol 29 01.png|thumb]]",
+                        "matches": [
+                            [
+                                332,
+                                364,
+                                "File:SBS Vol 29 01.png|thumb"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS Vol 29 01.png",
+                        "size": null,
+                        "start": 332,
+                        "end": 364
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Oda Eiichiro",
+                        "link_title": "/wiki/Eiichiro Oda",
+                        "is_wikipedia": false,
+                        "start": 212,
+                        "end": 241
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "zoro",
+                        "nakai_kazuya"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "jump_festa",
+                        "events",
+                        "one_piece_musical"
+                    ],
+                    "importance": "hight",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda dismisses an incident from Jump Festa 2003, mentioning the event's popularity and the One Piece musical, then proceeds to start the SBS."
+            },
+            {
+                "number": 2,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello, Oda-sensei!! I've always wondered, are all the Marine Captains [Taisa] and above at the Marine Headquarters different than the Captains at the Marine Bases? Are they just raised tougher, or what\n\nBy the guy from the mask store.",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes. They're way different. The Marine Headquarters are like the super-elite of the Marines. These men who appeared at the assembly in Volume 11. These are the men in the Headquarters' \"Junior Officers\" ranks (Lieutenant [Taii], Junior Lt. [Chuui], Ensign [Shoui]) but if the former Base Captain [Taisa] \"Axe-Arm Morgan\" or \"Captain [Taisa] Nezumi\" from Nami's home were there, they would be among those men. The Headquarters and standard Base ranks are about three ranks apart, you could say. A higher Captain\u00a0[Taisa] at a Base would be a lower Lieutenant\u00a0[Taii]\u00a0at Headquarters, and a Commander [Chuusa] would be a Junior Lieutenant [Chuui].",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "nezumi",
+                        "morgan",
+                        "nami"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "informative"
+                    ],
+                    "topics": [
+                        "marine_headquarters",
+                        "ranks",
+                        "marine_bases"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Marine Captains and above at the Marine Headquarters are much tougher than those at the Marine Bases, being of super-elite status."
+            },
+            {
+                "number": 3,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "AHH AHH AAAAAAHH AHH (8)\n\nFrom the Northern Country, Sada Masashi",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "AAHH AAAAAHH AAAHH AHH AAHH AAHH AAAHH (8)\n\nRURURU?!! ALL RIGHT, THAT'S ENOUGH!!!... What am I singing for? But I do love that song from the north.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [
+                        "Northern Country"
+                    ],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "music"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Sada Masashi from the Northern Country asks about a song, and Oda responds with the song lyrics and love for it."
+            },
+            {
+                "number": 4,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Nice to meet you!! I always enjoy reading One Piece. When I'm at work, I usually listen to the radio, and the other day on Nippon Broadcast on Kitano Makoto's Quiz Corner, I heard that some unusual snow fell in France. That was pink snow!! Did you know about this beforehand and insert into the story on purpose?\n\nPenname Oyumino Chopper",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Hmm, pink snow. Yes, I knew about it. It's caused by tiny particles of dirt in the atmosphere, specifically iron, that are red in color. Then when snow falls, it can turn pink or red. I've heard that some fell in France. There are also records of yellow snow falling. It's funny how pollution in the atmosphere can create these fantastic scenes.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "oyumino_chopper"
+                    ],
+                    "places": [
+                        "france"
+                    ],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "pink_snow",
+                        "pollution",
+                        "atmosphere"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda explains that he was aware of the pink snow phenomenon and its cause, and mentions the occurrence of yellow snow due to pollution."
+            },
+            {
+                "number": 5,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello, Oda. I have a question about the priests in Skypiea. [[Gedatsu]]\u00a0(Being liberated from earthly desires), [[Shura]]\u00a0(A buddhism divinity), [[Satori]]\u00a0(Enlightenment, comprehension), and [[Yama]]\u00a0(Another Buddhism divinity)... Since it's God's Land, did you name them after religious concepts? Also, if you don't mind, could you tell us where [[Ohm]]'s name\u00a0comes from? (><) Thank you very much!",
+                        "matches": [
+                            [
+                                60,
+                                71,
+                                "Gedatsu"
+                            ],
+                            [
+                                112,
+                                121,
+                                "Shura"
+                            ],
+                            [
+                                145,
+                                155,
+                                "Satori"
+                            ],
+                            [
+                                192,
+                                200,
+                                "Yama"
+                            ],
+                            [
+                                348,
+                                355,
+                                "Ohm"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes, that's right. I'm not very religious myself. \"Ohm\" comes from a holy word in the\u00a0[[Wikipedia:Hindu|Hindu]]\u00a0faith, which is written like this:\n\n[[File:SBS_Vol_29_02.png|thumb|left|65px]]\nMy apologies to all the religious people out there.",
+                        "matches": [
+                            [
+                                86,
+                                111,
+                                "Wikipedia:Hindu|Hindu"
+                            ],
+                            [
+                                148,
+                                190,
+                                "File:SBS_Vol_29_02.png|thumb|left|65px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS_Vol_29_02.png",
+                        "size": "65",
+                        "start": 148,
+                        "end": 190
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Hindu",
+                        "link_title": "/wiki/Wikipedia:Hindu",
+                        "is_wikipedia": false,
+                        "start": 86,
+                        "end": 111
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Gedatsu",
+                        "link_title": "/wiki/Gedatsu",
+                        "is_wikipedia": false,
+                        "start": 60,
+                        "end": 71
+                    },
+                    {
+                        "text": "Shura",
+                        "link_title": "/wiki/Shura",
+                        "is_wikipedia": false,
+                        "start": 112,
+                        "end": 121
+                    },
+                    {
+                        "text": "Satori",
+                        "link_title": "/wiki/Satori",
+                        "is_wikipedia": false,
+                        "start": 145,
+                        "end": 155
+                    },
+                    {
+                        "text": "Yama",
+                        "link_title": "/wiki/Yama",
+                        "is_wikipedia": false,
+                        "start": 192,
+                        "end": 200
+                    },
+                    {
+                        "text": "Ohm",
+                        "link_title": "/wiki/Ohm",
+                        "is_wikipedia": false,
+                        "start": 348,
+                        "end": 355
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "gedatsu",
+                        "shura",
+                        "satori",
+                        "yama",
+                        "ohm"
+                    ],
+                    "places": [
+                        "skypiea"
+                    ],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "religious_concepts",
+                        "skypiea",
+                        "character_names",
+                        "hindu_faith"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "The Skypiea priests' names are based on religious concepts, and Ohm's name comes from a Hindu holy word. Oda apologizes to religious people."
+            },
+            {
+                "number": 6,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello. Nice to meet you, Oda! I've been wondering about this for a while. In Volume 22, Chapter 198, when [[Crocodile]] has [[Nefertari Vivi|Vivi-chan]] by the throat, Vivi says, \"This country... I-\". In Volume 23, Chapter 216, when Vivi is giving her speech, she says, \"I still want to journey with you, but I love this country!!!\" Is that what she said earlier?! That's it.\n\nBy I'm definitely right. Really.",
+                        "matches": [
+                            [
+                                106,
+                                119,
+                                "Crocodile"
+                            ],
+                            [
+                                124,
+                                152,
+                                "Nefertari Vivi|Vivi-chan"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes. Thank you for reading so closely. That's how it is. Vivi always felt that way. But, \u00a0the roar of the rebellion drowned out the princess feelings. In the last scene, the citizens who had been scared must have been overjoyed to hear Vivi say something like that (tear). What a great story. Yeah... yeah.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Vivi-chan",
+                        "link_title": "/wiki/Nefertari Vivi",
+                        "is_wikipedia": false,
+                        "start": 124,
+                        "end": 152
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Crocodile",
+                        "link_title": "/wiki/Crocodile",
+                        "is_wikipedia": false,
+                        "start": 106,
+                        "end": 119
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "crocodile",
+                        "nefertari_vivi"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "happy",
+                        "sad"
+                    ],
+                    "topics": [
+                        "vivi's_feelings",
+                        "rebellion",
+                        "citizens",
+                        "storytelling"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Vivi always felt conflicted but in the end, she loved her country, which was drowned out by the rebellion, bringing joy to the citizens."
+            },
+            {
+                "number": 7,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "On the Grand Line, you can't use compass directions, right? So in Volume 24, Chapter 218, when Robin asks \"Is the\u00a0[[Log Pose]]\u00a0all right?\" why does Nami respond, \"Straight forward, North by Northwest!!\"? \n\nIf you can't give a satisfactory answer, jump into an ice cold pool.\n\n[[File:SBS Vol 29 05.png|right|thumb]]",
+                        "matches": [
+                            [
+                                114,
+                                126,
+                                "Log Pose"
+                            ],
+                            [
+                                276,
+                                314,
+                                "File:SBS Vol 29 05.png|right|thumb"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Uh, it's summer now. Let' see. On the Grand Line, you can still tell directions when on land. On the previous island, Nami confirmed that the next island was in the North by Nortwest direction, and since they were proceeding that way, she said that. I'm not jumping into anything.{{-}}",
+                        "matches": []
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS Vol 29 05.png",
+                        "size": null,
+                        "start": 276,
+                        "end": 314
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Log Pose",
+                        "link_title": "/wiki/Log Pose",
+                        "is_wikipedia": false,
+                        "start": 114,
+                        "end": 126
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "nami",
+                        "robin"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "grand_line",
+                        "navigation",
+                        "log_pose"
+                    ],
+                    "importance": "high",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Nami could still use compass directions on land, as confirmed on a previous island, explaining her response to Robin's question."
+            },
+            {
+                "number": 8,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "In the\u00a0[[One Piece (Anime)|One Piece anime]], when Sanji says \"Naaami-swaaaan <3 \", try saying \"Nooomi-soooon\". It sounds exactly the same!\n\n* Use this on your friends!\n*You: \"Nooomi-soooon.\" ...What did I say?\n*Friend: Naaami-suaaan.\n*You: Bzzt. I said \"Nooomi-soooon.\"\n* Say \"Nami-san\" or \"Noumiso\" (brains) yo your friend.\n* Have them choose which one you said.\n* Continue forever (not really).\n\n''P.N. Sasuke.''",
+                        "matches": [
+                            [
+                                7,
+                                44,
+                                "One Piece (Anime)|One Piece anime"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Okay. Thank you, Sasuke. I'll do this for the rest of my life.\n\n\n[[File:SBS Vol 29 04.png|thumb|Usopp is doing the Kamen Rider pose.]]",
+                        "matches": [
+                            [
+                                65,
+                                134,
+                                "File:SBS Vol 29 04.png|thumb|Usopp is doing the Kamen Rider pose."
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS Vol 29 04.png",
+                        "size": null,
+                        "start": 65,
+                        "end": 134
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "One Piece anime",
+                        "link_title": "/wiki/One Piece (Anime)",
+                        "is_wikipedia": false,
+                        "start": 7,
+                        "end": 44
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "sanji",
+                        "nami",
+                        "usopp"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "joke"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "A reader suggests a fun game with Sanji's catchphrase, and Oda thanks the reader and agrees to do it forever."
+            },
+            {
+                "number": 9,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "In [[Chapter 251]] (Volume 27), page 91, where there's a \"Shakin!!\" SFX,\u00a0is\u00a0[[Usopp]]\u00a0doing the [[Wikipedia:Kamen Rider|Kamen Rider]]\u00a0finishing pose? Oda, how much do you like Kamen Rider?\n\nP.N. Yocchan Takoyaki",
+                        "matches": [
+                            [
+                                3,
+                                18,
+                                "Chapter 251"
+                            ],
+                            [
+                                76,
+                                85,
+                                "Usopp"
+                            ],
+                            [
+                                96,
+                                133,
+                                "Wikipedia:Kamen Rider|Kamen Rider"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Do you know this?\n\n[[File:SBS_Vol_29_06.png|thumb|left]]\nI used to watch Kamen Rider when I was a kid. It was originally adapted from\u00a0[[Wikipedia:Shotaro Ishinomori|Ishinomori Shotaro-san]]'s\u00a0manga,\u00a0though that's over now.",
+                        "matches": [
+                            [
+                                19,
+                                56,
+                                "File:SBS_Vol_29_06.png|thumb|left"
+                            ],
+                            [
+                                134,
+                                189,
+                                "Wikipedia:Shotaro Ishinomori|Ishinomori Shotaro-san"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS_Vol_29_06.png",
+                        "size": null,
+                        "start": 19,
+                        "end": 56
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Kamen Rider",
+                        "link_title": "/wiki/Wikipedia:Kamen Rider",
+                        "is_wikipedia": false,
+                        "start": 96,
+                        "end": 133
+                    },
+                    {
+                        "text": "Ishinomori Shotaro-san",
+                        "link_title": "/wiki/Wikipedia:Shotaro Ishinomori",
+                        "is_wikipedia": false,
+                        "start": 134,
+                        "end": 189
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Chapter 251",
+                        "link_title": "/wiki/Chapter 251",
+                        "is_wikipedia": false,
+                        "start": 3,
+                        "end": 18
+                    },
+                    {
+                        "text": "Usopp",
+                        "link_title": "/wiki/Usopp",
+                        "is_wikipedia": false,
+                        "start": 76,
+                        "end": 85
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "usopp"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "nostalgic"
+                    ],
+                    "topics": [
+                        "kamen_rider",
+                        "childhood"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda used to watch Kamen Rider as a kid, which was originally adapted from Ishinomori Shotaro-san's manga."
+            },
+            {
+                "number": 10,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "If Zoro and Sanji had a serious fight, who would win? [[Roronoa Zoro|Zoro]] beat [[Daz Bonez|Mr. 1]], so... he's stronger, right...?",
+                        "matches": [
+                            [
+                                54,
+                                75,
+                                "Roronoa Zoro|Zoro"
+                            ],
+                            [
+                                81,
+                                100,
+                                "Daz Bonez|Mr. 1"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Whoa! That was surprising... I thought you said \"If Zoro and Sanji had a dick fight\"...You have to be careful what you say. Someone might hear something totally wrong... Okay, see you next time!!\n\n''(serious = gachinko; dick = ga chinko)''",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Zoro",
+                        "link_title": "/wiki/Roronoa Zoro",
+                        "is_wikipedia": false,
+                        "start": 54,
+                        "end": 75
+                    },
+                    {
+                        "text": "Mr. 1",
+                        "link_title": "/wiki/Daz Bonez",
+                        "is_wikipedia": false,
+                        "start": 81,
+                        "end": 100
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "roronoa_zoro",
+                        "sanji",
+                        "daz_bonez"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "surprised",
+                        "funny"
+                    ],
+                    "topics": [
+                        "fighting",
+                        "language"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "The reader asks if Zoro is stronger than Sanji, and Oda playfully misunderstands the question before signing off."
+            }
+        ],
+        "page": null,
+        "chapter_number": null,
+        "page_header": "SBS Vol 29 header.png"
+    }
+]

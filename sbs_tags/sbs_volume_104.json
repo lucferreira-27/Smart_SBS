@@ -1,0 +1,1257 @@
+[
+    {
+        "qa": [
+            {
+                "number": 1,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I have an important message from the PTA today. Though the SBS is a free corner where anything is possible, small children will read it, so please be careful about the content of the questions and the choice of words! Now, <big>LET'S START SBS!</big> P.N. PTA Officer Sanadacchi",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Oh! It started... No... More than that.... Sanada, you... No, I want to let one person take it. Then calm down SBS... Let's do it.\n\n[[File:SBS104 Reiju and Luffy.png|thumb|200px]]",
+                        "matches": [
+                            [
+                                132,
+                                179,
+                                "File:SBS104 Reiju and Luffy.png|thumb|200px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS104 Reiju and Luffy.png",
+                        "size": "200",
+                        "start": 132,
+                        "end": 179
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy",
+                        "reiju"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "excited"
+                    ],
+                    "topics": [],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "PTA officer requests careful question content due to children reading SBS; Oda agrees to start the SBS carefully."
+            },
+            {
+                "number": 2,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello Odacchi! In [[Chapter 931|chapter 931]], [[Sanji]] says that Soba Mask's ability to become invisible is the power of the [[Raid Suit|raid suit]]. Does that mean it is the power of the raid suit that allows [[Vinsmoke Reiju|Reiju]] to create and manipulate poison? If I were to be poisoned, would Reiju be able to save me if she wasn't wearing her raid suit? P.N. Nine",
+                        "matches": [
+                            [
+                                18,
+                                45,
+                                "Chapter 931|chapter 931"
+                            ],
+                            [
+                                47,
+                                56,
+                                "Sanji"
+                            ],
+                            [
+                                127,
+                                150,
+                                "Raid Suit|raid suit"
+                            ],
+                            [
+                                212,
+                                236,
+                                "Vinsmoke Reiju|Reiju"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Em. First of all, the ability is the power of the suit, but since [[Vinsmoke Judge|Judge]] systematically started by creating a human body suitable for each \"ability\", Reiju is a person who is somewhat resistant to poison. If it's just sucking poison out of someone, she can do that without her raid suit. The rest depends on whether or not Reiju wants to save you. (laugh)\n\n[[File:SBS104 Chopper vs. Queen.png|thumb|200px]]",
+                        "matches": [
+                            [
+                                66,
+                                90,
+                                "Vinsmoke Judge|Judge"
+                            ],
+                            [
+                                375,
+                                424,
+                                "File:SBS104 Chopper vs. Queen.png|thumb|200px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS104 Chopper vs. Queen.png",
+                        "size": "200",
+                        "start": 375,
+                        "end": 424
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "chapter 931",
+                        "link_title": "/wiki/Chapter 931",
+                        "is_wikipedia": false,
+                        "start": 18,
+                        "end": 45
+                    },
+                    {
+                        "text": "raid suit",
+                        "link_title": "/wiki/Raid Suit",
+                        "is_wikipedia": false,
+                        "start": 127,
+                        "end": 150
+                    },
+                    {
+                        "text": "Reiju",
+                        "link_title": "/wiki/Vinsmoke Reiju",
+                        "is_wikipedia": false,
+                        "start": 212,
+                        "end": 236
+                    },
+                    {
+                        "text": "Judge",
+                        "link_title": "/wiki/Vinsmoke Judge",
+                        "is_wikipedia": false,
+                        "start": 66,
+                        "end": 90
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Sanji",
+                        "link_title": "/wiki/Sanji",
+                        "is_wikipedia": false,
+                        "start": 47,
+                        "end": 56
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "Oda",
+                        "Sanji",
+                        "Soba Mask",
+                        "Vinsmoke Reiju",
+                        "Vinsmoke Judge"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "raid_suit_ability",
+                        "poison_resistance",
+                        "poison_removal"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda confirms the raid suit grants Soba Mask invisibility, Reiju's resistance to poison is natural not suit-based, Reiju can suck poison without her suit but may choose not to save someone."
+            },
+            {
+                "number": 3,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I want to become a cute raccoon like [[Tony Tony Chopper|Chopper]] and have [[Nico Robin|Robin]]-san cuddle me. P.N. Ehehe",
+                        "matches": [
+                            [
+                                37,
+                                66,
+                                "Tony Tony Chopper|Chopper"
+                            ],
+                            [
+                                76,
+                                96,
+                                "Nico Robin|Robin"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "The relationship between those two is heartwarming. Right, Chopper? Chopper...!?\n\nChopper: <big>I'M NOT A RACCOON!!!</big>{{-}}",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Chopper",
+                        "link_title": "/wiki/Tony Tony Chopper",
+                        "is_wikipedia": false,
+                        "start": 37,
+                        "end": 66
+                    },
+                    {
+                        "text": "Robin",
+                        "link_title": "/wiki/Nico Robin",
+                        "is_wikipedia": false,
+                        "start": 76,
+                        "end": 96
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy",
+                        "tony_tony_chopper",
+                        "nico_robin"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "happy",
+                        "funny"
+                    ],
+                    "topics": [
+                        "relationship",
+                        "character_backstory"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": true
+                },
+                "summary": "A reader asks to become a cute raccoon like Chopper and be cuddled by Robin; Oda mentions Chopper's heartwarming relationship with Robin, prompting Chopper to deny being a raccoon."
+            }
+        ],
+        "page": "28",
+        "chapter_number": "1047",
+        "page_header": "SBS104 Header 1.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 4,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello Oda-sensei! It was revealed that the name of one of the [[CP0]] members is [[Maha]]-san, but please let me know the names of the other members as well!!! P.N. YAMATORO",
+                        "matches": [
+                            [
+                                62,
+                                69,
+                                "CP0"
+                            ],
+                            [
+                                81,
+                                89,
+                                "Maha"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Sure.\n\n{{Gallery|width=130|height=130|captionalign=center|position=center\n|Guernica Portrait.png|[[Guernica]]\n|Joseph Portrait.png|[[Joseph]]\n|Maha Portrait.png|[[Maha]]\n|Gismonda Portrait.png|[[Gismonda]]\n}}",
+                        "matches": [
+                            [
+                                97,
+                                109,
+                                "Guernica"
+                            ],
+                            [
+                                131,
+                                141,
+                                "Joseph"
+                            ],
+                            [
+                                161,
+                                169,
+                                "Maha"
+                            ],
+                            [
+                                193,
+                                205,
+                                "Gismonda"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "CP0",
+                        "link_title": "/wiki/CP0",
+                        "is_wikipedia": false,
+                        "start": 62,
+                        "end": 69
+                    },
+                    {
+                        "text": "Maha",
+                        "link_title": "/wiki/Maha",
+                        "is_wikipedia": false,
+                        "start": 81,
+                        "end": 89
+                    },
+                    {
+                        "text": "Guernica",
+                        "link_title": "/wiki/Guernica",
+                        "is_wikipedia": false,
+                        "start": 97,
+                        "end": 109
+                    },
+                    {
+                        "text": "Joseph",
+                        "link_title": "/wiki/Joseph",
+                        "is_wikipedia": false,
+                        "start": 131,
+                        "end": 141
+                    },
+                    {
+                        "text": "Maha",
+                        "link_title": "/wiki/Maha",
+                        "is_wikipedia": false,
+                        "start": 161,
+                        "end": 169
+                    },
+                    {
+                        "text": "Gismonda",
+                        "link_title": "/wiki/Gismonda",
+                        "is_wikipedia": false,
+                        "start": 193,
+                        "end": 205
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "guernica",
+                        "joseph",
+                        "maha",
+                        "gismonda"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "cp0",
+                        "onepiece_characters"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader asks about the names of CP0 members, Oda responds with names and gallery links of Guernica, Joseph, Maha, and Gismonda."
+            },
+            {
+                "number": 5,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "In ''rakugo'', there is a story called \"Y\u016bdachi Kangoro\" (\"Evening Shower Kangoro\"), but did \"Y\u016bdachi Kanjuro\" come from there? Is there an origin of [[Kurozumi Kanjuro|Kanjuro]]? P.N. 37",
+                        "matches": [
+                            [
+                                150,
+                                178,
+                                "Kurozumi Kanjuro|Kanjuro"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "It's a story in ''rakugo'', and also in ''kodan''. In Kanjuro's case, the \"Evening Shower\" is scary, because it refers to a shower of blood. Kanjuro actually had a model, a ''rakugo'' story about a sculptor named Jingoro Hidari, who made sculpture with his left hand so wonderful that they came to life and moved. In Kanjuro's case, it's the opposite. The details don't really matter, but Kanjuro draws all the bad pictures with his left hand. After his betrayal, he's right-handed. Isn't he annoying?!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Kanjuro",
+                        "link_title": "/wiki/Kurozumi Kanjuro",
+                        "is_wikipedia": false,
+                        "start": 150,
+                        "end": 178
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "kurozumi_kanjuro"
+                    ],
+                    "topics": [
+                        "rakugo",
+                        "kodan",
+                        "devil_fruit",
+                        "backstory"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Kanjuro's 'Evening Shower' name from rakugo & kodan story, originally a sculptor Jingoro Hidari who made art come to life,but Kanjuro's left-handed bad art comes alive after betrayal."
+            },
+            {
+                "number": 6,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I heard that anthropomorphizing belongings has become popular on SBS recently, so I'd like [[Roronoa Zoro|Zoro]]'s haramaki and earrings, too! I'm sure they're so beautiful that Sanji would be jealous!!! P.N. Just Hentai",
+                        "matches": [
+                            [
+                                91,
+                                112,
+                                "Roronoa Zoro|Zoro"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Oh, do you prefer women?\n\n[[File:SBS104 Zoro's haramaki and earrings.png|thumb|center|450px|''Labeled \"Haramakiko\" and \"The Piercing Sisters\" respectively'']]",
+                        "matches": [
+                            [
+                                26,
+                                158,
+                                "File:SBS104 Zoro's haramaki and earrings.png|thumb|center|450px|''Labeled \"Haramakiko\" and \"The Piercing Sisters\" respectively''"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS104 Zoro's haramaki and earrings.png",
+                        "size": "450",
+                        "start": 26,
+                        "end": 158
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Zoro",
+                        "link_title": "/wiki/Roronoa Zoro",
+                        "is_wikipedia": false,
+                        "start": 91,
+                        "end": 112
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy",
+                        "roronoa_zoro",
+                        "sanji"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "one_piece_merchandise"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader asks about Zoro's haramaki and earrings' appearances; Oda responds they don't have specific designs."
+            }
+        ],
+        "page": "46",
+        "chapter_number": "1048",
+        "page_header": "SBS104 Header 2.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 7,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Does [[Yamato]] wear... underpants? Or a loincloth? P.N. Tomon",
+                        "matches": [
+                            [
+                                5,
+                                15,
+                                "Yamato"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "It's a loincloth. He's a samurai!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Yamato",
+                        "link_title": "/wiki/Yamato",
+                        "is_wikipedia": false,
+                        "start": 5,
+                        "end": 15
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "Yamato"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "Yamato's clothes"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader asks about Yamato's undergarments, Oda confirms it's a loincloth, stating he's a samurai."
+            },
+            {
+                "number": 8,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Compared to the first chapter, I feel that the number of members of the \"[[Red Hair Pirates]]\" has decreased. Does this mean that the teams are divided and they just don't appear? P.N. Negizaru",
+                        "matches": [
+                            [
+                                73,
+                                93,
+                                "Red Hair Pirates"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I don't know what scenes you're comparing with, but [[Shanks]] actually has a big crew. All the members introduced in [[SBS Volume 101|volume 101]] are called \"senior officers\", and they have a number of separate pirate crews affiliated with their operation. It would be difficult if they all acted together all the time, so there may be times when it looks like a small number of people, but there are a lot of them. It's similar to the \"[[Straw Hat Grand Fleet]]\". But Shanks isn't a cruel tyrant ruling over them.",
+                        "matches": [
+                            [
+                                52,
+                                62,
+                                "Shanks"
+                            ],
+                            [
+                                118,
+                                147,
+                                "SBS Volume 101|volume 101"
+                            ],
+                            [
+                                439,
+                                464,
+                                "Straw Hat Grand Fleet"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "volume 101",
+                        "link_title": "/wiki/SBS Volume 101",
+                        "is_wikipedia": false,
+                        "start": 118,
+                        "end": 147
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Red Hair Pirates",
+                        "link_title": "/wiki/Red Hair Pirates",
+                        "is_wikipedia": false,
+                        "start": 73,
+                        "end": 93
+                    },
+                    {
+                        "text": "Shanks",
+                        "link_title": "/wiki/Shanks",
+                        "is_wikipedia": false,
+                        "start": 52,
+                        "end": 62
+                    },
+                    {
+                        "text": "Straw Hat Grand Fleet",
+                        "link_title": "/wiki/Straw Hat Grand Fleet",
+                        "is_wikipedia": false,
+                        "start": 439,
+                        "end": 464
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "moneky_d_luffy",
+                        "shanks",
+                        "red_hair_pirates"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "happy",
+                        "informative"
+                    ],
+                    "topics": [
+                        "red_hair_pirates_backstory",
+                        "crew_structure"
+                    ],
+                    "importance": "high",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Shanks has a large crew, including affiliates that act separately, similar to the Straw Hat Grand Fleet. He isn't a cruel ruler."
+            },
+            {
+                "number": 9,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Please tell us about the [[Beasts Pirates#Tobiroppo|Tobiroppo]]'s hobbies. P.N. Morley",
+                        "matches": [
+                            [
+                                25,
+                                63,
+                                "Beasts Pirates#Tobiroppo|Tobiroppo"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Sure.\n\n[[File:SBS104 Tobiroppo.png|thumb|center|450px]]\n\n<table width=\"100%\">\n<td width=\"50%\" valign=\"top\">\n*[[Who's-Who]]: Card games (gambling)\n*[[Black Maria]]: Boxing and romance\n*[[X Drake|Drake]]: Being a reptile maniac and study of astrophysics\n</td>\n<td width=\"50%\" valign=\"top\">\n*[[Sasaki]]: Making sake\n*[[Ulti]]: Making accessories and bullying little brother\n*[[Page One]]: Fishing (just wants to be alone)\n</td></table>",
+                        "matches": [
+                            [
+                                7,
+                                55,
+                                "File:SBS104 Tobiroppo.png|thumb|center|450px"
+                            ],
+                            [
+                                109,
+                                122,
+                                "Who's-Who"
+                            ],
+                            [
+                                147,
+                                162,
+                                "Black Maria"
+                            ],
+                            [
+                                184,
+                                201,
+                                "X Drake|Drake"
+                            ],
+                            [
+                                289,
+                                299,
+                                "Sasaki"
+                            ],
+                            [
+                                314,
+                                322,
+                                "Ulti"
+                            ],
+                            [
+                                372,
+                                384,
+                                "Page One"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS104 Tobiroppo.png",
+                        "size": "450",
+                        "start": 7,
+                        "end": 55
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Tobiroppo",
+                        "link_title": "/wiki/Beasts Pirates#Tobiroppo",
+                        "is_wikipedia": false,
+                        "start": 25,
+                        "end": 63
+                    },
+                    {
+                        "text": "Drake",
+                        "link_title": "/wiki/X Drake",
+                        "is_wikipedia": false,
+                        "start": 184,
+                        "end": 201
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Who's-Who",
+                        "link_title": "/wiki/Who's-Who",
+                        "is_wikipedia": false,
+                        "start": 109,
+                        "end": 122
+                    },
+                    {
+                        "text": "Black Maria",
+                        "link_title": "/wiki/Black Maria",
+                        "is_wikipedia": false,
+                        "start": 147,
+                        "end": 162
+                    },
+                    {
+                        "text": "Sasaki",
+                        "link_title": "/wiki/Sasaki",
+                        "is_wikipedia": false,
+                        "start": 289,
+                        "end": 299
+                    },
+                    {
+                        "text": "Ulti",
+                        "link_title": "/wiki/Ulti",
+                        "is_wikipedia": false,
+                        "start": 314,
+                        "end": 322
+                    },
+                    {
+                        "text": "Page One",
+                        "link_title": "/wiki/Page One",
+                        "is_wikipedia": false,
+                        "start": 372,
+                        "end": 384
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "Who's-Who",
+                        "Black Maria",
+                        "X Drake",
+                        "Sasaki",
+                        "Ulti",
+                        "Page One"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "Tobiroppo hobbies",
+                        "reptile maniac",
+                        "astrophysics",
+                        "sake making",
+                        "bullying"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda reveals the hobbies of the Tobiroppo: Who's-Who enjoys card games, Black Maria likes boxing and romance; Drake is a reptile maniac and studies astrophysics; Sasaki makes sake, Ulti creates accessories and bullies her brother, Page One enjoys fishing."
+            }
+        ],
+        "page": "64",
+        "chapter_number": "1049",
+        "page_header": "SBS104 Header 3.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 10,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "[[File:SBS104 Letter.png|thumb|left|300px|From left to right:<br/>''We want a respectable SBS''<br/>''Please make the sickos leave the SBS forever''<br/>''Free us from this pervert hell'']]",
+                        "matches": [
+                            [
+                                0,
+                                189,
+                                "File:SBS104 Letter.png|thumb|left|300px|From left to right:<br/>''We want a respectable SBS''<br/>''Please make the sickos leave the SBS forever''<br/>''Free us from this pervert hell''"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Wow! Those sky boats... are so beautiful! Your wishes... have been answered! There are no more perverts in the SBS...!! Did you hear that, members of the PTA? We run a very safe, very wholesome segment here!!\n\n[[File:SBS104 Hiyori.png|thumb|200px]]",
+                        "matches": [
+                            [
+                                210,
+                                248,
+                                "File:SBS104 Hiyori.png|thumb|200px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS104 Letter.png",
+                        "size": "300",
+                        "start": 0,
+                        "end": 189
+                    },
+                    {
+                        "file": "SBS104 Hiyori.png",
+                        "size": "200",
+                        "start": 210,
+                        "end": 248
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "happy",
+                        "funny"
+                    ],
+                    "topics": [],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda mentions that he answered readers' wishes to end perversion in SBS, ensuring a safe and wholesome segment; a picture of Hiyori is shown."
+            },
+            {
+                "number": 11,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello big brother Oda!! How did [[Kozuki Hiyori|Hiyori]]-chan get to [[Onigashima]]? P.N. Moki",
+                        "matches": [
+                            [
+                                32,
+                                56,
+                                "Kozuki Hiyori|Hiyori"
+                            ],
+                            [
+                                69,
+                                83,
+                                "Onigashima"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Certainly, she just showed up, didn't she? But Hiyori was always determined to do this. By going in and out of the [[Flower Capital]]'s castle as an oiran, she kept tabs on all the enemy's actions, so she hid in the \"tribute\" from [[Kurozumi Orochi|Orochi]] to [[Kaidou]] and crossed the sea. So, when she reappeared, it was in the Treasure Hall!",
+                        "matches": [
+                            [
+                                115,
+                                133,
+                                "Flower Capital"
+                            ],
+                            [
+                                231,
+                                257,
+                                "Kurozumi Orochi|Orochi"
+                            ],
+                            [
+                                261,
+                                271,
+                                "Kaidou"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Hiyori",
+                        "link_title": "/wiki/Kozuki Hiyori",
+                        "is_wikipedia": false,
+                        "start": 32,
+                        "end": 56
+                    },
+                    {
+                        "text": "Orochi",
+                        "link_title": "/wiki/Kurozumi Orochi",
+                        "is_wikipedia": false,
+                        "start": 231,
+                        "end": 257
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Onigashima",
+                        "link_title": "/wiki/Onigashima",
+                        "is_wikipedia": false,
+                        "start": 69,
+                        "end": 83
+                    },
+                    {
+                        "text": "Flower Capital",
+                        "link_title": "/wiki/Flower Capital",
+                        "is_wikipedia": false,
+                        "start": 115,
+                        "end": 133
+                    },
+                    {
+                        "text": "Kaidou",
+                        "link_title": "/wiki/Kaidou",
+                        "is_wikipedia": false,
+                        "start": 261,
+                        "end": 271
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "kozuki_hiyori",
+                        "onigashima",
+                        "flower_capital",
+                        "kurozumi_orochi",
+                        "kaidou"
+                    ],
+                    "places": [
+                        "flower_capital",
+                        "onigashima"
+                    ],
+                    "topics": [
+                        "hiyori_backstory",
+                        "kaidou_backstory"
+                    ],
+                    "emotions": [
+                        "happy",
+                        "surprised"
+                    ],
+                    "importance": "high",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Hiyori stowed away in tribute from Orochi to Kaido, traveling fromFlower Capital to Onigashima."
+            },
+            {
+                "number": 12,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Is there any reason why [[Eustass Kid|Kid]] and [[Killer]] formed a [[Kid Pirates|pirate crew]], or how they met [[Heat]] and [[Wire]]? P.N. Dragon Water\n\n[[File:SBS104 Kid Pirates.png|thumb|200px|Above: Kid and Killer<br/>Bottom: Heat and Wire]]",
+                        "matches": [
+                            [
+                                24,
+                                43,
+                                "Eustass Kid|Kid"
+                            ],
+                            [
+                                48,
+                                58,
+                                "Killer"
+                            ],
+                            [
+                                68,
+                                95,
+                                "Kid Pirates|pirate crew"
+                            ],
+                            [
+                                113,
+                                121,
+                                "Heat"
+                            ],
+                            [
+                                126,
+                                134,
+                                "Wire"
+                            ],
+                            [
+                                155,
+                                246,
+                                "File:SBS104 Kid Pirates.png|thumb|200px|Above: Kid and Killer<br/>Bottom: Heat and Wire"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Of course there is. These four were born on an island in [[South Blue]], and Kid and Killer have been friends since childhood. The country is unaffiliated with the World Government, so gangs rule the island like kings. Each of the four towns on the island has its own gang, and the four bosses were Kid, Killer, Wire, and Heat, with constant conflict every day. One day, Kid's best girlfriend was killed by a gang. Her name was \"[[Victoria Shiruton Doruyanaika|Victoria S. (Shiruton) Doruyanaika]]\". Kid, who got mad at her death, united the other gangs and defeated the country's number one gang. \"I don't want to live in such a tiny world\", he said, and became a pirate with his bad friends. Their ship is called the \"[[Victoria Punk]]\".{{-}}",
+                        "matches": [
+                            [
+                                57,
+                                71,
+                                "South Blue"
+                            ],
+                            [
+                                429,
+                                497,
+                                "Victoria Shiruton Doruyanaika|Victoria S. (Shiruton) Doruyanaika"
+                            ],
+                            [
+                                720,
+                                737,
+                                "Victoria Punk"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS104 Kid Pirates.png",
+                        "size": "200",
+                        "start": 155,
+                        "end": 246
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Kid",
+                        "link_title": "/wiki/Eustass Kid",
+                        "is_wikipedia": false,
+                        "start": 24,
+                        "end": 43
+                    },
+                    {
+                        "text": "pirate crew",
+                        "link_title": "/wiki/Kid Pirates",
+                        "is_wikipedia": false,
+                        "start": 68,
+                        "end": 95
+                    },
+                    {
+                        "text": "Victoria S. (Shiruton) Doruyanaika",
+                        "link_title": "/wiki/Victoria Shiruton Doruyanaika",
+                        "is_wikipedia": false,
+                        "start": 429,
+                        "end": 497
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Killer",
+                        "link_title": "/wiki/Killer",
+                        "is_wikipedia": false,
+                        "start": 48,
+                        "end": 58
+                    },
+                    {
+                        "text": "Heat",
+                        "link_title": "/wiki/Heat",
+                        "is_wikipedia": false,
+                        "start": 113,
+                        "end": 121
+                    },
+                    {
+                        "text": "Wire",
+                        "link_title": "/wiki/Wire",
+                        "is_wikipedia": false,
+                        "start": 126,
+                        "end": 134
+                    },
+                    {
+                        "text": "South Blue",
+                        "link_title": "/wiki/South Blue",
+                        "is_wikipedia": false,
+                        "start": 57,
+                        "end": 71
+                    },
+                    {
+                        "text": "Victoria Punk",
+                        "link_title": "/wiki/Victoria Punk",
+                        "is_wikipedia": false,
+                        "start": 720,
+                        "end": 737
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "eustass_kid",
+                        "killer",
+                        "heat",
+                        "wire",
+                        "victoria_s._(shiruton)_doruyanaika"
+                    ],
+                    "places": [
+                        "island_in_south_blue"
+                    ],
+                    "topics": [
+                        "kid_pirates_backstory",
+                        "gangs",
+                        "victoria_s._(shiruton)_doruyanaika_death"
+                    ],
+                    "emotions": [
+                        "sad",
+                        "angry"
+                    ],
+                    "importance": "high",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Kid, Killer, Heat, and Wire were childhood friends from an island in South Blue, where they led different gangs. After Kid's girlfriend Victoria S. Doruyanaika was killed, he united the gangs to defeat the top one, and they became pirates on the Victoria Punk ship to escape their small world."
+            }
+        ],
+        "page": "82",
+        "chapter_number": "1050",
+        "page_header": "SBS104 Header 4.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 13,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "What is the name of the waiter who was preparing the feast at the castle? P.N.Tomon",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "That person is the head chef, not a waiter! It's [[Sennorikyuru]], the best chef in Wano and a master of the tea ceremony.",
+                        "matches": [
+                            [
+                                49,
+                                65,
+                                "Sennorikyuru"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Sennorikyuru",
+                        "link_title": "/wiki/Sennorikyuru",
+                        "is_wikipedia": false,
+                        "start": 49,
+                        "end": 65
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "sennorikyuru"
+                    ],
+                    "places": [
+                        "wano"
+                    ],
+                    "topics": [
+                        "head_chef",
+                        "tea_ceremony"
+                    ],
+                    "emotions": [
+                        "happy"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "The head chef Sennorikyuru, not a waiter, is the best in Wano and a tea ceremony master."
+            },
+            {
+                "number": 14,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "The beauties of the SBS\u2661 [[Nami]] and Robin are very pretty, but do they wear makeup? I would like to ask you about your beauty methods. P.N. 27 year old longing for Shakky",
+                        "matches": [
+                            [
+                                25,
+                                33,
+                                "Nami"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Let's ask. They'll probably just say \"No, I don't use anything...\"\n\nNami: I do! I always wear a layer of makeup, because skin acre is important at sea! The sauna that [[Zeus]] makes are perfect, and Robin's massages are the best! Sanji takes care of my diet, Chopper makes me lotions, foundations, creams, and skin packs, and [[Brook]] is an expert in hair care. And I keep up with my fitness!",
+                        "matches": [
+                            [
+                                167,
+                                175,
+                                "Zeus"
+                            ],
+                            [
+                                326,
+                                335,
+                                "Brook"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Well, there you go. She does put the effort into it - with a lot of help from her friends!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Nami",
+                        "link_title": "/wiki/Nami",
+                        "is_wikipedia": false,
+                        "start": 25,
+                        "end": 33
+                    },
+                    {
+                        "text": "Zeus",
+                        "link_title": "/wiki/Zeus",
+                        "is_wikipedia": false,
+                        "start": 167,
+                        "end": 175
+                    },
+                    {
+                        "text": "Brook",
+                        "link_title": "/wiki/Brook",
+                        "is_wikipedia": false,
+                        "start": 326,
+                        "end": 335
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "nami",
+                        "robin",
+                        "zeus",
+                        "sanji",
+                        "chopper",
+                        "brook"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "happy",
+                        "funny"
+                    ],
+                    "topics": [
+                        "beauty",
+                        "friendship"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": true
+                },
+                "summary": "Nami wears makeup for skin care, helped by Zeus' sauna, Robin's massages, Sanji's diet, Chopper's lotions, and Brook's hair care; Oda implies it's a team effort."
+            },
+            {
+                "number": 15,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Please let me touch Nami-san's extra-large dumplings! P.N. Sanadacchi",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "? (Looks again)? Wait, <big>SANADAAAAA!!!</big> You...!! Do you have split personalities!? Resign from the PTA!! Then let's end SBS!! Damn it!! See you in next volume~~!!{{-}}",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "nami"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny",
+                        "surprised"
+                    ],
+                    "topics": [],
+                    "importance": [
+                        "high"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A fan asks to touch Nami's dumplings, Oda reacts with surprise and tells them to resign from the PTA, ending the SBS session."
+            }
+        ],
+        "page": "156",
+        "chapter_number": "1054",
+        "page_header": "SBS104 Header 5.png"
+    }
+]

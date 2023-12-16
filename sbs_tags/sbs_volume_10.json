@@ -1,0 +1,913 @@
+[
+    {
+        "qa": [
+            {
+                "number": 1,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I am \"Timmy Ueda\", from the SBS Hijacking Group! I will start the SBS Corner before Oda-sensei can!! \"Uhhh, start the SBS!!\"",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Gah! Damn. He started it first! Damn you, Timmy, damn you! How am I going to start the SBS now? Oh, wait, it just started.\n\n[[File:SBS Vol 10 mandaman.png|right|350px]]",
+                        "matches": [
+                            [
+                                124,
+                                168,
+                                "File:SBS Vol 10 mandaman.png|right|350px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS Vol 10 mandaman.png",
+                        "size": "350",
+                        "start": 124,
+                        "end": 168
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "amused",
+                        "surprised"
+                    ],
+                    "topics": [],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader, 'Timmy Ueda', starts the SBS corner before Oda; Oda expresses surprise and admiration, then starts the Q&A."
+            },
+            {
+                "number": 2,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello, Oda-sensei. You know, in [[Volume 8]], page 92, the sixth panel, you wrote \"Search for [[Pandaman]]\"? Well, I can't find him. Where is he? Please show me.",
+                        "matches": [
+                            [
+                                32,
+                                44,
+                                "Volume 8"
+                            ],
+                            [
+                                94,
+                                106,
+                                "Pandaman"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Aha. I got a whole bunch of postcards from people about this one. A bunch from people who found him, and a bunch from people who didn't find him. And I thought the words were so small that no one would notice to begin with! Well, I'll show you the answer. In the bottom circle is written the phrase, \"Search for Pandaman!!!\" And in the\u00a0upper-right circle is the man' himself. .",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Volume 8",
+                        "link_title": "/wiki/Volume 8",
+                        "is_wikipedia": false,
+                        "start": 32,
+                        "end": 44
+                    },
+                    {
+                        "text": "Pandaman",
+                        "link_title": "/wiki/Pandaman",
+                        "is_wikipedia": false,
+                        "start": 94,
+                        "end": 106
+                    }
+                ],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "amused",
+                        "helpful"
+                    ],
+                    "topics": [
+                        "pandaman",
+                        "behind the scenes"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader asks about the hidden Pandaman in One Piece Vol. 8; Oda reveals Pandaman is in the upper-right circle of page 92's sixth panel."
+            }
+        ],
+        "page": 26,
+        "chapter_number": 82,
+        "page_header": "SBS Vol 10 header.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 3,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "When the [[Arlong]] guys and the other [[Fish-Men]] give birth, do they lay eggs like fish?",
+                        "matches": [
+                            [
+                                9,
+                                19,
+                                "Arlong"
+                            ],
+                            [
+                                39,
+                                51,
+                                "Fish-Men"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "BZZZT. Fish-Men are still mammals, so they give birth the way humans do. There are fishwomen too, of course.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Arlong",
+                        "link_title": "/wiki/Arlong",
+                        "is_wikipedia": false,
+                        "start": 9,
+                        "end": 19
+                    },
+                    {
+                        "text": "Fish-Men",
+                        "link_title": "/wiki/Fish-Men",
+                        "is_wikipedia": false,
+                        "start": 39,
+                        "end": 51
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "arlong"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "fish-men"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader asks if fish-men give birth by laying eggs, Oda responds that they give birth like humans as they're still mammals."
+            },
+            {
+                "number": 4,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I wanna know the height of all five. Nami's really cute.",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "The main five, you mean? I'll get this one out of the way. First of all, Gaimon's height is... kidding. I'll start from the shortest.\n*[[Nami]]'s height is 169&nbsp;cm\n*[[Monkey D. Luffy|Luffy]] is 172&nbsp;cm\n*[[Usopp]] is 174&nbsp;cm\n*[[Sanji]] is 177&nbsp;cm\n*[[Roronoa Zoro|Zoro]] is 178&nbsp;cm. So they're all pretty much the same height.",
+                        "matches": [
+                            [
+                                135,
+                                143,
+                                "Nami"
+                            ],
+                            [
+                                169,
+                                194,
+                                "Monkey D. Luffy|Luffy"
+                            ],
+                            [
+                                211,
+                                220,
+                                "Usopp"
+                            ],
+                            [
+                                237,
+                                246,
+                                "Sanji"
+                            ],
+                            [
+                                263,
+                                284,
+                                "Roronoa Zoro|Zoro"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Luffy",
+                        "link_title": "/wiki/Monkey D. Luffy",
+                        "is_wikipedia": false,
+                        "start": 169,
+                        "end": 194
+                    },
+                    {
+                        "text": "Zoro",
+                        "link_title": "/wiki/Roronoa Zoro",
+                        "is_wikipedia": false,
+                        "start": 263,
+                        "end": 284
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Nami",
+                        "link_title": "/wiki/Nami",
+                        "is_wikipedia": false,
+                        "start": 135,
+                        "end": 143
+                    },
+                    {
+                        "text": "Usopp",
+                        "link_title": "/wiki/Usopp",
+                        "is_wikipedia": false,
+                        "start": 211,
+                        "end": 220
+                    },
+                    {
+                        "text": "Sanji",
+                        "link_title": "/wiki/Sanji",
+                        "is_wikipedia": false,
+                        "start": 237,
+                        "end": 246
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "nami",
+                        "monkey_d_luffy",
+                        "usopp",
+                        "sanji",
+                        "roronoa_zoro"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "happy",
+                        "funny"
+                    ],
+                    "topics": [
+                        "characters_heights"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda reveals the heights of the main Straw Hat Pirates: Nami is 169 cm, Luffy is 172 cm, Usopp is 174 cm, Sanji is 177 cm, and Zoro is 178 cm."
+            },
+            {
+                "number": 5,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Of all the Fish-Men, [[Hatchan]] is the cutest and funniest. But there's one thing that bugs me. Why is Hatchan's full name Hatchan, and his nickname Hachi?",
+                        "matches": [
+                            [
+                                21,
+                                32,
+                                "Hatchan"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "A lot of Chinese people have names that go **** Chan. So it should be just fine.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Hatchan",
+                        "link_title": "/wiki/Hatchan",
+                        "is_wikipedia": false,
+                        "start": 21,
+                        "end": 32
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "hatchan"
+                    ],
+                    "topics": [
+                        "chinese_names"
+                    ],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader asks why Hatchan's full name and nickname are similar, Oda explains it's common in Chinese names."
+            },
+            {
+                "number": 6,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "What is the thing that Usopp and a lot of the pirates in [[One Piece (Manga)|One Piece]] have tied around their waists? A towel? Or did they want one of Zoro's stomach bands, but they couldn't get one for themselves, so they used those instead?",
+                        "matches": [
+                            [
+                                57,
+                                88,
+                                "One Piece (Manga)|One Piece"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "[[File:SBS10 2 Decorative Sash.png|80px]] \u2190 These things? They do all have them, don't they? There's no real deep reason for them, though. I guess pirates just liked to wear these \"decorative sashes\". But sometimes they put their pistols in them, so maybe they aren't totally pointless.",
+                        "matches": [
+                            [
+                                0,
+                                41,
+                                "File:SBS10 2 Decorative Sash.png|80px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS10 2 Decorative Sash.png",
+                        "size": "80",
+                        "start": 0,
+                        "end": 41
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "One Piece",
+                        "link_title": "/wiki/One Piece (Manga)",
+                        "is_wikipedia": false,
+                        "start": 57,
+                        "end": 88
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "one_piece_universe",
+                        "pirate_culture",
+                        "decorative_sashes"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda explains that the 'decorative sashes' worn by One Piece characters, like Usopp, are just a fashion choice with occasional utility."
+            }
+        ],
+        "page": "46",
+        "chapter_number": "83",
+        "page_header": null
+    },
+    {
+        "qa": [
+            {
+                "number": 7,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Here we go! WUUUUUUUUUUN(1)! TYYYYYYYUUUUUUU(2)!! THHHUUUUURRREEEEEE(3)?!!!",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "DAAAAHHHHHHHH!!!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "excited"
+                    ],
+                    "topics": [],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader asks about sounds from characters, Oda responds with their corresponding sounds."
+            },
+            {
+                "number": 8,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "One more time!\u00a0\u2665 ONNNNNEE(1)!\u00a0\u2665\u00a0TWOOOOOO(2)!\u00a0\u2665 THREEEEE(3)\u00a0\u2665",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "DAAAAHHHHHHHH!!!! Oh...! They're playing with me.\n\n''(This chant, \"ONE, TWO, THREE, DAAAAH\", is the call of legendary wrestler Antonio Inoki).''",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "happy",
+                        "funny"
+                    ],
+                    "topics": [
+                        "wrestler"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader counts 'One, Two, Three, DAAAAH' imitating legendary wrestler Antonio Inoki, Oda recognizes and responds."
+            },
+            {
+                "number": 9,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Yo! 'Sup. One Piece is always a hurricane of emotion. This is the first time I ever wrote to a manga artist. Oda-sensei is my favorite character.",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I ain't no character.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "happy",
+                        "excited"
+                    ],
+                    "topics": [],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Fan praises One Piece for its emotional impact, calls Oda their favorite 'character'; Oda replies he is not a character."
+            },
+            {
+                "number": 10,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "A little while ago, my friend asked me to draw Shanks, so I did. Then he hit me on the head all of a sudden, and said, \"Why'd you draw Jango?!\" Is this a disease?",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes. It is a disease. \"Drawing Jango Sickness\", I believe. You're always going to draw Jango. Be careful, as the final symptom of this disease is when you draw Jango rather than signing your name for a home delivery.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "shanks",
+                        "jango"
+                    ],
+                    "topics": [
+                        "drawing_jango_sickness"
+                    ],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Fan asked Oda why friend thought fan's Shanks drawing was Jango; Oda confirmed 'Drawing Jango Sickness' exists, final symptom is delivering drawings signed as 'Jango'."
+            },
+            {
+                "number": 11,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "On page 121 in [[Volume 8]], that thing that rises above [[Zeff]]'s head is a hat, right? My mother says, \"It's too tall to be a hat. There must be a pole behind him or something.\" Sensei, please make this blockhead (age 44) agree with me.",
+                        "matches": [
+                            [
+                                15,
+                                27,
+                                "Volume 8"
+                            ],
+                            [
+                                57,
+                                65,
+                                "Zeff"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Okay, mom, listen to me now. In this world, there are certain unyielding truths that you cannot avert your eyes from. The thing that is standing on Zeff's head is the \"Tower of Faith\", supported by the spirit of the heart. It's called the \"Cook's Slice of Heaven Hat\". That's right!!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Volume 8",
+                        "link_title": "/wiki/Volume 8",
+                        "is_wikipedia": false,
+                        "start": 15,
+                        "end": 27
+                    },
+                    {
+                        "text": "Zeff",
+                        "link_title": "/wiki/Zeff",
+                        "is_wikipedia": false,
+                        "start": 57,
+                        "end": 65
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "zeff"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "devil_fruit",
+                        "one_piece_world"
+                    ],
+                    "importance": [
+                        "high"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader questions if Zeff's headpiece is a hat or a pole, Oda confirms it's a tall 'Tower of Faith' hat."
+            }
+        ],
+        "page": "86",
+        "chapter_number": "84",
+        "page_header": null
+    },
+    {
+        "qa": [
+            {
+                "number": 12,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Sensei! I thought of a new move for Luffy-chan. It goes like this... Luffy stretches his mouth and eats the enemy, then he goes to the bathroom and poops it out! How's that? It's good, right? A good idea.",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "No, it's not.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy"
+                    ],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "move"
+                    ],
+                    "importance": [
+                        "low"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader proposes a new Luffy move where he eats and poops out the enemy, Oda rejects the idea."
+            },
+            {
+                "number": 13,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I have a question for Oda-sensei. What do you call [[Bell-m\u00e8re]]-san's haircut?",
+                        "matches": [
+                            [
+                                51,
+                                64,
+                                "Bell-m\u00e8re"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "That hairstyle is called \"Women have Guts\". You should yell it out in a beauty parlor.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Bell-m\u00e8re",
+                        "link_title": "/wiki/Bell-m\u00e8re",
+                        "is_wikipedia": false,
+                        "start": 51,
+                        "end": 64
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "bell-mere"
+                    ],
+                    "topics": [
+                        "hairstyle"
+                    ],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader asks about Bell-m\u00e8re's haircut name, Oda responds it's called 'Women have Guts', suggesting to yell it in a beauty parlor."
+            },
+            {
+                "number": 14,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I'm glad Sanji is \"girl-crazy\", not \"boy-crazy\".",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Uh, totally.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "sanji"
+                    ],
+                    "topics": [
+                        "sanji's preferences"
+                    ],
+                    "emotions": [
+                        "happy"
+                    ],
+                    "importance": [
+                        "normal"
+                    ]
+                },
+                "summary": "Reader appreciates Sanji's girl preference, Oda agrees."
+            },
+            {
+                "number": 15,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "When Sanji thinks about a girl, the smoke from his cigarette turns into a heart shape. How does he do it? I want to try too!! Please (x100) tell me!",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Uh, first of all, you have to be over 20 years old. Then light your cigarette and take a big drag. When you do that, the smoke will come in contact with the \"Feeling of Love\" you put in your lungs beforehand, and then when you blow the smoke out, it will most surely come out in the shape of a heart.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "Sanji"
+                    ],
+                    "emotions": [
+                        "happy",
+                        "funny"
+                    ],
+                    "topics": [
+                        "smoking",
+                        "romance"
+                    ],
+                    "importance": "normal"
+                },
+                "summary": "Oda explains that to make smoke come out in a heart shape from a cigarette, one must be over 20 and have the 'Feeling of Love' in their lungs."
+            },
+            {
+                "number": 16,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I can't really tell if Yosaku and Johnny are strong or not. It's definitely by a hair. To be totally straight, between those two and Helmeppo, who can stretch further?",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I hope that Kaya will become a wonderful Doctor.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "yosaku",
+                        "johnny",
+                        "helmeppo"
+                    ],
+                    "topics": [
+                        "strength"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader asks about the strength of Yosaku, Johnny, and Helmeppo; Oda hopes Kaya will become a great doctor."
+            }
+        ],
+        "page": "128",
+        "chapter_number": "87",
+        "page_header": null
+    },
+    {
+        "qa": [
+            {
+                "number": 17,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "When I read your manga, Sensei, I get the feeling that I should do what I want. So I've gotten the urge to pursue my dream to build a gigantic bridge in America.",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "That's nice. A boy with a dream. I like that. Well, you know what? If anyone tries to stop you , I'll, like... put on a pair of leather boots... and kick their little toes or something. So don't worry. Try hard.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "happy",
+                        "encouraging"
+                    ],
+                    "topics": [
+                        "dreams"
+                    ],
+                    "importance": "high",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader wants to build a bridge in America, Oda supports their dream and offers encouragement."
+            },
+            {
+                "number": 18,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "BAM! BAM! Click. Helloooo? Oda-sensei...? Oh damn, he's not home!!",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "That was terrible.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [],
+                    "importance": [
+                        "low"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader playfully pretends to enter Oda's home for Q&A, Oda says their greeting was terrible."
+            },
+            {
+                "number": 19,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "What does it mean when the cook Patty says, \"Excuse me, your Hickness\"?",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "You know the saying, \"Please excuse me, sir\"? Well, he seems to be using \"Hickness\" in the place of \"Sir\". For example, you would use it like this. \"Oh my, you were in the hospital for a year? That must have been dreadful, your Hickness\". \"This man has accomplished many great deeds. A round of applause for his Hickness\". And so on...",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "patty"
+                    ],
+                    "topics": [
+                        "language",
+                        "wordplay"
+                    ],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Patty replaces 'sir' with 'Hickness' in his apologies, like saying 'your Hickness' instead of 'sir'."
+            },
+            {
+                "number": 20,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I have a question. Does Usopp have bones in his nose? Because I've seen it bent many times now...",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Well, I've never seen that. How could his nose possibly bend? What a ridiculous thing to... WHOA!! IT DOES BEND!!! THE SBS IS OVER!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "Usopp"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "amused",
+                        "surprised"
+                    ],
+                    "topics": [],
+                    "importance": [
+                        "funny"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader asks if Usopp's nose has bones and can bend; Oda says it's ridiculous, then realizes it does bend and ends the SBS."
+            }
+        ],
+        "page": "168",
+        "chapter_number": "89",
+        "page_header": null
+    }
+]

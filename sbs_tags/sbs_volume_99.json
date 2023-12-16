@@ -1,0 +1,1692 @@
+[
+    {
+        "qa": [
+            {
+                "number": 1,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Sensei, congratulations on reaching 1000 chapters of One Piece. This volume will include [[Chapter 1000]] within it. So there's only one thing I could say: LET THE SBS BEGIN! \u2013 P.N. Goemon",
+                        "matches": [
+                            [
+                                89,
+                                105,
+                                "Chapter 1000"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Aw man\u2026 Thank you so much. 1000 chapters huh, this volume truly contains such a memorable occasio\u2026 IT'S ALREADY STARTED?!!{{-}}\n\n[[File:SBS99 Pie.png|thumb|150px]]",
+                        "matches": [
+                            [
+                                129,
+                                163,
+                                "File:SBS99 Pie.png|thumb|150px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS99 Pie.png",
+                        "size": "150",
+                        "start": 129,
+                        "end": 163
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Chapter 1000",
+                        "link_title": "/wiki/Chapter 1000",
+                        "is_wikipedia": false,
+                        "start": 89,
+                        "end": 105
+                    }
+                ],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "surprised",
+                        "happy"
+                    ],
+                    "topics": [
+                        "milestone",
+                        "SBS",
+                        "1000 chapters"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Eiichiro Oda expresses gratitude for reaching 1000 chapters and is surprised that the SBS has already started in the volume."
+            },
+            {
+                "number": 2,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchi, do you know how the symbol \"\u03c0\" is read? It's read like \"pie\"! Then, please read this sentence: O-[[Nami|NAMI]]'S OP\u03c0 ARE THE BEST \u2013 P.N. Sanadacchi",
+                        "matches": [
+                            [
+                                106,
+                                119,
+                                "Nami|NAMI"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "DAMN YOUUUU!! SANADAAAA!!! Come on man\u2026 at a time like this\u2026 when I was being congratulated for reaching 1000 chapters!! Furthermore, what's up with this bust of a start to an SBS!! It's become about busty op\u03c0!! Will you ever shut up?!!! Sigh, how I wish the [[wikipedia:Parent\u2013teacher association#Japan|PTA]] liked me.{{-}}",
+                        "matches": [
+                            [
+                                259,
+                                309,
+                                "wikipedia:Parent\u2013teacher association#Japan|PTA"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "NAMI",
+                        "link_title": "/wiki/Nami",
+                        "is_wikipedia": false,
+                        "start": 106,
+                        "end": 119
+                    },
+                    {
+                        "text": "PTA",
+                        "link_title": "/wiki/Parent\u2013teacher association#Japan",
+                        "is_wikipedia": true,
+                        "start": 259,
+                        "end": 309
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "nami"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "angry",
+                        "frustrated",
+                        "annoyed"
+                    ],
+                    "topics": [
+                        "sbs",
+                        "symbols",
+                        "1000 chapters",
+                        "busty op\u03c0"
+                    ],
+                    "importance": "hight",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda reacts with frustration as he's congratulated for 1000 chapters, but a reader's message focuses on the 'busty op\u03c0' instead."
+            },
+            {
+                "number": 3,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "In [[SBS Volume 98]], you revealed [[Kaidou]]'s devil fruit name, but could you please tell us here the name of [[Eustass Kid]]'s devil fruit?! \u2013 P.N. Takumiso",
+                        "matches": [
+                            [
+                                3,
+                                20,
+                                "SBS Volume 98"
+                            ],
+                            [
+                                35,
+                                45,
+                                "Kaidou"
+                            ],
+                            [
+                                112,
+                                127,
+                                "Eustass Kid"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "[[Jiki Jiki no Mi]] (Magnet Magnet Fruit) Oh\u2026? I didn't mention it before, huh. It allows one to freely manipulate metal with magnetism. I should've mentioned it somewhere within the main story. Next time I'll draw something about it.",
+                        "matches": [
+                            [
+                                0,
+                                19,
+                                "Jiki Jiki no Mi"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "SBS Volume 98",
+                        "link_title": "/wiki/SBS Volume 98",
+                        "is_wikipedia": false,
+                        "start": 3,
+                        "end": 20
+                    },
+                    {
+                        "text": "Kaidou",
+                        "link_title": "/wiki/Kaidou",
+                        "is_wikipedia": false,
+                        "start": 35,
+                        "end": 45
+                    },
+                    {
+                        "text": "Eustass Kid",
+                        "link_title": "/wiki/Eustass Kid",
+                        "is_wikipedia": false,
+                        "start": 112,
+                        "end": 127
+                    },
+                    {
+                        "text": "Jiki Jiki no Mi",
+                        "link_title": "/wiki/Jiki Jiki no Mi",
+                        "is_wikipedia": false,
+                        "start": 0,
+                        "end": 19
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "kaidou",
+                        "eustass_kid"
+                    ],
+                    "places": [],
+                    "emotions": [],
+                    "topics": [
+                        "devil_fruit",
+                        "revealing_information"
+                    ],
+                    "importance": "hight",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Eiichiro Oda reveals Eustass Kid's devil fruit as Jiki Jiki no Mi, allowing manipulation of metal with magnetism, regretting not mentioning it before."
+            },
+            {
+                "number": 4,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I have the request of a lifetime. Please let [[Sterry]] sit on the [[Empty Throne]]. \u2013 P.N. Seito",
+                        "matches": [
+                            [
+                                45,
+                                55,
+                                "Sterry"
+                            ],
+                            [
+                                67,
+                                83,
+                                "Empty Throne"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "No.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Sterry",
+                        "link_title": "/wiki/Sterry",
+                        "is_wikipedia": false,
+                        "start": 45,
+                        "end": 55
+                    },
+                    {
+                        "text": "Empty Throne",
+                        "link_title": "/wiki/Empty Throne",
+                        "is_wikipedia": false,
+                        "start": 67,
+                        "end": 83
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "sterry"
+                    ],
+                    "places": [
+                        "empty_throne"
+                    ],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "world_government",
+                        "empty_throne"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader Seito asked Oda if Sterry could sit on the Empty Throne, to which Oda simply responded 'No'."
+            }
+        ],
+        "page": "24",
+        "chapter_number": "995",
+        "page_header": "SBS Vol. 99 Header 1.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 5,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchi! Heso! Please draw [[Nami]]'s [[Art of Weather/Sorcery Clima-Tact/Zeus|Clima-Tact]] in anthropomorphized form! Asking in the name of all fans of Nami-san. \u2013 P.N. Tsubocchi",
+                        "matches": [
+                            [
+                                27,
+                                35,
+                                "Nami"
+                            ],
+                            [
+                                38,
+                                91,
+                                "Art of Weather/Sorcery Clima-Tact/Zeus|Clima-Tact"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Sure. Here you go!{{-}}\n\n[[File:SBS99 Usopp.png|thumb|150px]]",
+                        "matches": [
+                            [
+                                25,
+                                61,
+                                "File:SBS99 Usopp.png|thumb|150px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS99 Usopp.png",
+                        "size": "150",
+                        "start": 25,
+                        "end": 61
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Clima-Tact",
+                        "link_title": "/wiki/Art of Weather/Sorcery Clima-Tact/Zeus",
+                        "is_wikipedia": false,
+                        "start": 38,
+                        "end": 91
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Nami",
+                        "link_title": "/wiki/Nami",
+                        "is_wikipedia": false,
+                        "start": 27,
+                        "end": 35
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "nami",
+                        "zeus"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "art_of_weather",
+                        "clima-tact",
+                        "character_design"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader requests Nami's Clima-Tact anthropomorphized, Oda responds with a drawing."
+            },
+            {
+                "number": 6,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "When [[Usopp]] was rescued by [[Komachiyo]] and O-[[Tama]] he said \"ODEDODADEDADODODODDEBU!\" (Chapter 996), but could he perhaps have intended to say \"Ore o dareda to omotteru!\" (\"Who do you think I am?!\")? For the moment being though, I'm just glad Nami is safe!! \u2013 P.N. Yana",
+                        "matches": [
+                            [
+                                5,
+                                14,
+                                "Usopp"
+                            ],
+                            [
+                                30,
+                                43,
+                                "Komachiyo"
+                            ],
+                            [
+                                50,
+                                58,
+                                "Tama"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Incredible!! Good job on deciphering it, you are correct~~!! Lmao{{-}}",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Usopp",
+                        "link_title": "/wiki/Usopp",
+                        "is_wikipedia": false,
+                        "start": 5,
+                        "end": 14
+                    },
+                    {
+                        "text": "Komachiyo",
+                        "link_title": "/wiki/Komachiyo",
+                        "is_wikipedia": false,
+                        "start": 30,
+                        "end": 43
+                    },
+                    {
+                        "text": "Tama",
+                        "link_title": "/wiki/Tama",
+                        "is_wikipedia": false,
+                        "start": 50,
+                        "end": 58
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "usopp",
+                        "komachiyo",
+                        "tama",
+                        "nami"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "happy",
+                        "funny"
+                    ],
+                    "topics": [
+                        "language",
+                        "rescue"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Usopp was rescued by Komachiyo and Tama, and he was actually saying 'Ore o dareda to omotteru!' ('Who do you think I am?!')."
+            },
+            {
+                "number": 7,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "When [[Kaidou]] eats fish, does he eat their skin too? \u2013 P.N. Ebi",
+                        "matches": [
+                            [
+                                5,
+                                15,
+                                "Kaidou"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "He'd say he thinks the skin is tastier. When at a table with others, usually things go like this: \"Hey man\u2026 can you skin me this fish\" and he'd be like \"Of course! Here, I ate its scales for you! WORORORO\".",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Kaidou",
+                        "link_title": "/wiki/Kaidou",
+                        "is_wikipedia": false,
+                        "start": 5,
+                        "end": 15
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "kaidou"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "food"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Kaidou believes the skin of the fish is tastier and jokes about eating the scales as well."
+            },
+            {
+                "number": 8,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchi, good evening. Among the Straw Hats, who cuts someone's hair when it grows too long? \u2013 P.N. Pumpkin",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "There's three of them who are pretty good at cutting hair, so whenever someone's in need they'll ask them. The three in question -> Usopp, [[Sanji]], and [[Nico Robin]].{{-}}",
+                        "matches": [
+                            [
+                                139,
+                                148,
+                                "Sanji"
+                            ],
+                            [
+                                154,
+                                168,
+                                "Nico Robin"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Sanji",
+                        "link_title": "/wiki/Sanji",
+                        "is_wikipedia": false,
+                        "start": 139,
+                        "end": 148
+                    },
+                    {
+                        "text": "Nico Robin",
+                        "link_title": "/wiki/Nico Robin",
+                        "is_wikipedia": false,
+                        "start": 154,
+                        "end": 168
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "usopp",
+                        "sanji",
+                        "nico_robin"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "straw_hat_crew",
+                        "haircut"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Usopp, Sanji, and Nico Robin are the Straw Hats skilled at cutting hair when needed, as revealed by Oda in response to a reader's query."
+            },
+            {
+                "number": 9,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "About O-[[Toko]]'s mom, or in other words [[Shimotsuki Yasuie|Yasuie's]] wife, what type of person was she? Is she still alive? \u2013 P.N. Goemon",
+                        "matches": [
+                            [
+                                8,
+                                16,
+                                "Toko"
+                            ],
+                            [
+                                42,
+                                72,
+                                "Shimotsuki Yasuie|Yasuie's"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Long ago, Yasuie used to be married without any children, but after he lost his wife he remained single. After losing to Kaidou and surviving, he found a little baby at Ebisu Town. That baby was Toko. O-Toko does not yet know that they are not connected by blood.{{-}}",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Yasuie's",
+                        "link_title": "/wiki/Shimotsuki Yasuie",
+                        "is_wikipedia": false,
+                        "start": 42,
+                        "end": 72
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Toko",
+                        "link_title": "/wiki/Toko",
+                        "is_wikipedia": false,
+                        "start": 8,
+                        "end": 16
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "toko",
+                        "yasuie",
+                        "kaido"
+                    ],
+                    "places": [
+                        "ebisu_town"
+                    ],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "family",
+                        "backstory"
+                    ],
+                    "importance": [
+                        "high"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Yasuie was once married with no children, but his wife passed away, leaving him single; he found Toko in Ebisu Town, but she is not his biological child."
+            }
+        ],
+        "page": "42",
+        "chapter_number": "996",
+        "page_header": "SBS Vol. 99 Header 2.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 10,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I want to know how each of the [[Straw Hat Pirates]] like their fried eggs! Do they like them boiled and cut in half, do they like them salty\u2026 etc. \u2013 P.N. Odamania",
+                        "matches": [
+                            [
+                                31,
+                                52,
+                                "Straw Hat Pirates"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I see\u2026 What a fun question\u2013! Let's find out!\n\n[[File:SBS99 SH Egg.png|center|500x500px]]\n\n{|width=\"100%\" align=\"center|-\"\n|width=\"50%\" valign=\"top\"|\n[[Monkey D. Luffy|Luffy]]\n*Sunny side up, almost raw\n*With mayonnaise\n\n[[Roronoa Zoro|Zoro]]\n*Over easy, slow-cooked\n*With shoyu\n\nNami\n*Sunny side up, coddled\n*With orange sauce\n\nUsopp\n*Over easy, coddled\n*With ketchup\n\nSanji\n*Over easy, coddled\n*With karakuchi sauce\n|valign=\"top\"|\n[[Tony Tony Chopper|Chopper]]\n*Over easy, slow-cooked\n*With syrup\n\nRobin\n*Sunny side up, steamed\n*With black pepper\n\n[[Franky]]\n*Over easy, slow-cooked\n*With butter shoyu\n\n[[Brook]]\n*Sunny side up, coddled\n*With ketchup\n\n[[Jinbe]]\n*Sunny side up, steamed\n*With salt\n|}",
+                        "matches": [
+                            [
+                                46,
+                                88,
+                                "File:SBS99 SH Egg.png|center|500x500px"
+                            ],
+                            [
+                                149,
+                                174,
+                                "Monkey D. Luffy|Luffy"
+                            ],
+                            [
+                                220,
+                                241,
+                                "Roronoa Zoro|Zoro"
+                            ],
+                            [
+                                432,
+                                461,
+                                "Tony Tony Chopper|Chopper"
+                            ],
+                            [
+                                549,
+                                559,
+                                "Franky"
+                            ],
+                            [
+                                604,
+                                613,
+                                "Brook"
+                            ],
+                            [
+                                653,
+                                662,
+                                "Jinbe"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS99 SH Egg.png",
+                        "size": "500x500",
+                        "start": 46,
+                        "end": 88
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Luffy",
+                        "link_title": "/wiki/Monkey D. Luffy",
+                        "is_wikipedia": false,
+                        "start": 149,
+                        "end": 174
+                    },
+                    {
+                        "text": "Zoro",
+                        "link_title": "/wiki/Roronoa Zoro",
+                        "is_wikipedia": false,
+                        "start": 220,
+                        "end": 241
+                    },
+                    {
+                        "text": "Chopper",
+                        "link_title": "/wiki/Tony Tony Chopper",
+                        "is_wikipedia": false,
+                        "start": 432,
+                        "end": 461
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Straw Hat Pirates",
+                        "link_title": "/wiki/Straw Hat Pirates",
+                        "is_wikipedia": false,
+                        "start": 31,
+                        "end": 52
+                    },
+                    {
+                        "text": "Franky",
+                        "link_title": "/wiki/Franky",
+                        "is_wikipedia": false,
+                        "start": 549,
+                        "end": 559
+                    },
+                    {
+                        "text": "Brook",
+                        "link_title": "/wiki/Brook",
+                        "is_wikipedia": false,
+                        "start": 604,
+                        "end": 613
+                    },
+                    {
+                        "text": "Jinbe",
+                        "link_title": "/wiki/Jinbe",
+                        "is_wikipedia": false,
+                        "start": 653,
+                        "end": 662
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy",
+                        "roronoa_zoro",
+                        "nami",
+                        "usopp",
+                        "sanji",
+                        "tony_tony_chopper",
+                        "robin",
+                        "franky",
+                        "brook",
+                        "jinbe"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "food"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "The Straw Hat Pirates' fried egg preferences are revealed, including Luffy liking them sunny side up with mayonnaise, and Chopper enjoying them over easy with syrup."
+            },
+            {
+                "number": 11,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Jinbe-san!! Congratulations on officially joining the Straw Hat Pirates! I was waiting for you!! Please tell us all the detailed character info for him that was given in the previous SBSes for the other 9 crew members!! \u2013 P.N. Yashirai",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Sure. The letter also included all that I need to answer. It's all the details I've given about Luffy and the others up until now. His favorite foods was already revealed in One Piece's [[Vivre Card - One Piece Visual Dictionary|Vivre Card databook]] are mozuku seaweed in vinegar and fruits.\n\nBeyond those, here's the rest:\n#Least Favorite Food: Parfait (because it's hard to eat)\n#Associated color and number: Ochre, 10\n#Position in the crew if they were a family: Father (so far Franky was the father, but he's now been relegated to be the pervy granny, which Jinbe is officially the father)\n#Smell: Smells like sea\n#Associated Prefecture: Kagoshima\n#Associated Country: India\n#Associated Animal: Bear\n#Cooking Specialty: Bonito Tataki (Japanese fish dish)\n#Sleep and Wake Up Time: from 3AM to 9AM\n#What goes on in his brain: \u2192[[File:SBS99 Jinbe's Mind.png|thumb|150px|Virtue, Virtue, Fist, Water, Wiseness]]\n#Profession if he wasn't a pirate: Train station attendant\n#Does he chew or swallow ice: Swallows\n#Favorite Season: Autumn on a summer island\n#Associated Flower: Peony\n{{-}}",
+                        "matches": [
+                            [
+                                186,
+                                250,
+                                "Vivre Card - One Piece Visual Dictionary|Vivre Card databook"
+                            ],
+                            [
+                                830,
+                                911,
+                                "File:SBS99 Jinbe's Mind.png|thumb|150px|Virtue, Virtue, Fist, Water, Wiseness"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS99 Jinbe's Mind.png",
+                        "size": "150",
+                        "start": 830,
+                        "end": 911
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Vivre Card databook",
+                        "link_title": "/wiki/Vivre Card - One Piece Visual Dictionary",
+                        "is_wikipedia": false,
+                        "start": 186,
+                        "end": 250
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "jinbe",
+                        "luffy",
+                        "franky"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "happy"
+                    ],
+                    "topics": [
+                        "character_info",
+                        "favorite_foods",
+                        "crew_position",
+                        "associated_prefecture",
+                        "cooking_specialty",
+                        "profession"
+                    ],
+                    "importance": [
+                        "high"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Jinbe's detailed character info includes favorite foods, least favorite food, color/number, crew position, smell, associated location, animal, cooking specialty, sleep schedule, and more."
+            }
+        ],
+        "page": "60",
+        "chapter_number": "997",
+        "page_header": "SBS Vol. 99 Header 3.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 12,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Please anthropomorphize everyone's beloved [[Yamato]]'s sideboob!! \u2013 P.N. Yashirai",
+                        "matches": [
+                            [
+                                43,
+                                53,
+                                "Yamato"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Sure~, anthropomorphization is my specialty~\u2026\u2026. AS IF!! An anthropomorphized sideboob he says!! (I still wanted to give it a shot) Honestly, geez\u2026 I received a disturbing amount of postcard asking for Yamato's sideboob or his bare breasts! Come on guys, we're almost at volume 100! Stop using your postcards for such depraved requests! Since when have they all been like this?!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Yamato",
+                        "link_title": "/wiki/Yamato",
+                        "is_wikipedia": false,
+                        "start": 43,
+                        "end": 53
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "yamato"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "exasperated",
+                        "playful"
+                    ],
+                    "topics": [
+                        "fan_request",
+                        "humor"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda refuses to anthropomorphize Yamato's sideboob, expressing frustration with inappropriate postcard requests."
+            },
+            {
+                "number": 13,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchi! Please tell us the age, height, and favorite food of Yamato! \u2013 P.N. Pumpkin",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Sure~ A very straightforward question~ Since you asked, here's the answers:\n*Age is 28 years old (was born on the same year as Momonosuke)\n*Height is 2.63m (about twice as tall as Luffy)\n*Favorite Food is, of course, Oden. However, he also really likes salmon by biting into it raw.\n\n[[File:SBS99 Color Spead.png|thumb|300px]]",
+                        "matches": [
+                            [
+                                284,
+                                326,
+                                "File:SBS99 Color Spead.png|thumb|300px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS99 Color Spead.png",
+                        "size": "300",
+                        "start": 284,
+                        "end": 326
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "yamato",
+                        "momonosuke",
+                        "luffy"
+                    ],
+                    "places": [],
+                    "topics": [
+                        "favorite_food",
+                        "age",
+                        "height"
+                    ],
+                    "emotions": [
+                        "informative"
+                    ],
+                    "importance": [
+                        "high"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Yamato is 28 years old, 2.63m tall, and loves Oden as his favorite food, but also enjoys biting into raw salmon."
+            },
+            {
+                "number": 14,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei, hello. Congratulations on reaching 1000 chapters!! By the way, was the color spread of Chapter 1000 made to look the same like the color spread for [[Chapter 100]]?! When I realized, I had non-stop goosebumps!! \u2013 P.N. Kino-san",
+                        "matches": [
+                            [
+                                160,
+                                175,
+                                "Chapter 100"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "That's exactly right~! Those who have been reading for a long time might've noticed, but those who joined along the way might have not realized. I tried to match them both as a commemoration.{{-}}\n\n[[File:SBS99 Roger.png|thumb|200px]]",
+                        "matches": [
+                            [
+                                198,
+                                234,
+                                "File:SBS99 Roger.png|thumb|200px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS99 Roger.png",
+                        "size": "200",
+                        "start": 198,
+                        "end": 234
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Chapter 100",
+                        "link_title": "/wiki/Chapter 100",
+                        "is_wikipedia": false,
+                        "start": 160,
+                        "end": 175
+                    }
+                ],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "happy"
+                    ],
+                    "topics": [
+                        "milestone",
+                        "color_spread",
+                        "commemoration"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda matched the color spread of Chapter 1000 with Chapter 100 as a commemoration, aiming to give readers goosebumps."
+            },
+            {
+                "number": 15,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "In [[Chapter 966]], [[Gol D. Roger|Roger]] and [[Silvers Rayleigh|Rayleigh]] said as they were holding up [[Kozuki Momonosuke|Momonosuke]] and [[Kozuki Hiyori|Hiyori]] \u201cI haven't spent time with a baby in ages!!\u201d and \u201cReminds me of the old days\u201d, but in those old days, whose baby did they spend time with?! It doesn't seem like there's any women aboard Roger's ship so\u2026 \u2013 P.N. Hakudeiino",
+                        "matches": [
+                            [
+                                3,
+                                18,
+                                "Chapter 966"
+                            ],
+                            [
+                                20,
+                                42,
+                                "Gol D. Roger|Roger"
+                            ],
+                            [
+                                47,
+                                76,
+                                "Silvers Rayleigh|Rayleigh"
+                            ],
+                            [
+                                106,
+                                138,
+                                "Kozuki Momonosuke|Momonosuke"
+                            ],
+                            [
+                                143,
+                                167,
+                                "Kozuki Hiyori|Hiyori"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "\u2026eh? They said that? That's just\u2026 (sweat) J-just skip that bit!! It's nothing to worry about, nothing to worry about! Fyuu~ Fyuu~ (whistle noise){{-}}",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Roger",
+                        "link_title": "/wiki/Gol D. Roger",
+                        "is_wikipedia": false,
+                        "start": 20,
+                        "end": 42
+                    },
+                    {
+                        "text": "Rayleigh",
+                        "link_title": "/wiki/Silvers Rayleigh",
+                        "is_wikipedia": false,
+                        "start": 47,
+                        "end": 76
+                    },
+                    {
+                        "text": "Momonosuke",
+                        "link_title": "/wiki/Kozuki Momonosuke",
+                        "is_wikipedia": false,
+                        "start": 106,
+                        "end": 138
+                    },
+                    {
+                        "text": "Hiyori",
+                        "link_title": "/wiki/Kozuki Hiyori",
+                        "is_wikipedia": false,
+                        "start": 143,
+                        "end": 167
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Chapter 966",
+                        "link_title": "/wiki/Chapter 966",
+                        "is_wikipedia": false,
+                        "start": 3,
+                        "end": 18
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "Gol D. Roger",
+                        "Silvers Rayleigh",
+                        "Kozuki Momonosuke",
+                        "Kozuki Hiyori"
+                    ],
+                    "places": [],
+                    "topics": [
+                        "family"
+                    ],
+                    "emotions": [
+                        "nervous"
+                    ],
+                    "importance": "low",
+                    "isCharacterInsertion": true
+                },
+                "summary": "A reader asks about a line in Chapter 966 suggesting Roger and Rayleigh spent time with a baby, Oda nervously deflects and asks to skip that part."
+            }
+        ],
+        "page": "116",
+        "chapter_number": "1000",
+        "page_header": "SBS Vol. 99 Header 4.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 16,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchi, in [[Chapter 978]], there's a Gifter with a giraffe devil fruit yelling \u201cFUNK!\u201d at the Live Floor, who is a different person from both [[Kaku]] and the Headliner [[Hamlet]], so could it be that [[SMILE]]s can produce users of many different types? Particularly, does it matter if there already is a \u201cnatural\u201d (assuming they're natural) devil fruit user of that animal? \u2013 P.N. Tarou in the Dark",
+                        "matches": [
+                            [
+                                12,
+                                27,
+                                "Chapter 978"
+                            ],
+                            [
+                                144,
+                                152,
+                                "Kaku"
+                            ],
+                            [
+                                171,
+                                181,
+                                "Hamlet"
+                            ],
+                            [
+                                203,
+                                212,
+                                "SMILE"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Sure. Ehm\u2026 SMILEs are [[Artificial Devil Fruit]]s, so they're completely different things from regular [[Devil Fruits]]. To put it roughly:\n*[[Punk Hazard]]'s [[SAD]]: A liquid made by mixing the [[Lineage Factor]]s of all types of various animals.\n*[[Dressrosa]]'s [[SMILE Factory]]: By letting plants suck up S.A.D., they produce strangely-patterned fruits.\n*In [[Wano Country]]: Only 1 in 10 of these imported fruits will grant animal abilities.\n\nSo in other words, they aren't related to the real devil fruits. That's why Gifters with the same animal exist and why ability users for \u201c[[Logia]]\u201d, \u201c[[Paramecia]]\u201d, or \u201c[[Zoan#Mythical Zoan|Mythical Zoans]]\u201d cannot appear, since lineage factors can only be extracted from already existing organisms. This is [[Caesar Clown|Caesar]]'s limit as a scientist. However, the genius scientist [[Vegapunk]] might\u2026 or might not have been able to research beyond that boundary.",
+                        "matches": [
+                            [
+                                22,
+                                48,
+                                "Artificial Devil Fruit"
+                            ],
+                            [
+                                103,
+                                119,
+                                "Devil Fruits"
+                            ],
+                            [
+                                141,
+                                156,
+                                "Punk Hazard"
+                            ],
+                            [
+                                159,
+                                166,
+                                "SAD"
+                            ],
+                            [
+                                196,
+                                214,
+                                "Lineage Factor"
+                            ],
+                            [
+                                250,
+                                263,
+                                "Dressrosa"
+                            ],
+                            [
+                                266,
+                                283,
+                                "SMILE Factory"
+                            ],
+                            [
+                                364,
+                                380,
+                                "Wano Country"
+                            ],
+                            [
+                                588,
+                                597,
+                                "Logia"
+                            ],
+                            [
+                                601,
+                                614,
+                                "Paramecia"
+                            ],
+                            [
+                                621,
+                                658,
+                                "Zoan#Mythical Zoan|Mythical Zoans"
+                            ],
+                            [
+                                760,
+                                783,
+                                "Caesar Clown|Caesar"
+                            ],
+                            [
+                                838,
+                                850,
+                                "Vegapunk"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Mythical Zoans",
+                        "link_title": "/wiki/Zoan#Mythical Zoan",
+                        "is_wikipedia": false,
+                        "start": 621,
+                        "end": 658
+                    },
+                    {
+                        "text": "Caesar",
+                        "link_title": "/wiki/Caesar Clown",
+                        "is_wikipedia": false,
+                        "start": 760,
+                        "end": 783
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Chapter 978",
+                        "link_title": "/wiki/Chapter 978",
+                        "is_wikipedia": false,
+                        "start": 12,
+                        "end": 27
+                    },
+                    {
+                        "text": "Kaku",
+                        "link_title": "/wiki/Kaku",
+                        "is_wikipedia": false,
+                        "start": 144,
+                        "end": 152
+                    },
+                    {
+                        "text": "Hamlet",
+                        "link_title": "/wiki/Hamlet",
+                        "is_wikipedia": false,
+                        "start": 171,
+                        "end": 181
+                    },
+                    {
+                        "text": "SMILE",
+                        "link_title": "/wiki/SMILE",
+                        "is_wikipedia": false,
+                        "start": 203,
+                        "end": 212
+                    },
+                    {
+                        "text": "Artificial Devil Fruit",
+                        "link_title": "/wiki/Artificial Devil Fruit",
+                        "is_wikipedia": false,
+                        "start": 22,
+                        "end": 48
+                    },
+                    {
+                        "text": "Devil Fruits",
+                        "link_title": "/wiki/Devil Fruits",
+                        "is_wikipedia": false,
+                        "start": 103,
+                        "end": 119
+                    },
+                    {
+                        "text": "Punk Hazard",
+                        "link_title": "/wiki/Punk Hazard",
+                        "is_wikipedia": false,
+                        "start": 141,
+                        "end": 156
+                    },
+                    {
+                        "text": "SAD",
+                        "link_title": "/wiki/SAD",
+                        "is_wikipedia": false,
+                        "start": 159,
+                        "end": 166
+                    },
+                    {
+                        "text": "Lineage Factor",
+                        "link_title": "/wiki/Lineage Factor",
+                        "is_wikipedia": false,
+                        "start": 196,
+                        "end": 214
+                    },
+                    {
+                        "text": "Dressrosa",
+                        "link_title": "/wiki/Dressrosa",
+                        "is_wikipedia": false,
+                        "start": 250,
+                        "end": 263
+                    },
+                    {
+                        "text": "SMILE Factory",
+                        "link_title": "/wiki/SMILE Factory",
+                        "is_wikipedia": false,
+                        "start": 266,
+                        "end": 283
+                    },
+                    {
+                        "text": "Wano Country",
+                        "link_title": "/wiki/Wano Country",
+                        "is_wikipedia": false,
+                        "start": 364,
+                        "end": 380
+                    },
+                    {
+                        "text": "Logia",
+                        "link_title": "/wiki/Logia",
+                        "is_wikipedia": false,
+                        "start": 588,
+                        "end": 597
+                    },
+                    {
+                        "text": "Paramecia",
+                        "link_title": "/wiki/Paramecia",
+                        "is_wikipedia": false,
+                        "start": 601,
+                        "end": 614
+                    },
+                    {
+                        "text": "Vegapunk",
+                        "link_title": "/wiki/Vegapunk",
+                        "is_wikipedia": false,
+                        "start": 838,
+                        "end": 850
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "kaku",
+                        "hamlet",
+                        "caesar",
+                        "vegapunk"
+                    ],
+                    "places": [
+                        "punk_hazard",
+                        "dressrosa",
+                        "wano_country"
+                    ],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "artificial_devil_fruit",
+                        "smile",
+                        "lineage_factor",
+                        "devil_fruits",
+                        "vegapunk_research"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "SMILEs are artificial Devil Fruits, made with Lineage Factors of various animals; they're unrelated to real Devil Fruits, and Gifters with the same animal can exist due to limitations of lineage factors."
+            },
+            {
+                "number": 17,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchi! Please tell us why the Kumo Kumo no Mi and Mushi Mushi no Mi are different. \u2013 P.N. Ootsukishun",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "\u201cInsect\u201d fruits fall into the Mushi Mushi no Mi category. Spiders aren't insects, so they instead fall into the Kumo Kumo no Mi category.{{-}}",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "devil_fruit"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "The Mushi Mushi no Mi pertains to insects, while the Kumo Kumo no Mi pertains to spiders, which are not considered insects."
+            }
+        ],
+        "page": "134",
+        "chapter_number": "1001",
+        "page_header": "SBS Vol. 99 Header 5.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 18,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "A question for Oda-sensei! Among the designs of the SMILE fruit users, please tell us who are your top 3! \u2013 P.N. Tarou",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I see. Man, the SMILE fruit users sure have some funny designs~! Don't you think they look dumb? It's really hard to pick a favorite\u2026!\n\n[[File:SBS99 Speed.png|thumb|left|150px]]\nRight then, number 3 is [[Speed]]! It's gotta be Umami-chan. When you think of a centaur, you usually think of a muscular beefy guy, so I wanted to make this one a sexy girl, but I felt that wouldn't be possible with horse-like legs, so by making the thighs look more human-like, they made her look more beautiful, though her laughing face is like that of a horse. It's so gap moe.\n\n[[File:SBS99 Hamlet.png|thumb|150px]]\nNumber two! The face of how to grow your fruit in a weird way, it's Hamlet!! His giraffe is always trembling and struggling to remain standing, yet despite having become a failure of a living creature, his speech is brimming with a noble prince-like confidence. You just can't help but love him.{{-}}\n\n{{Gallery|position=center\n|SBS99 Holed'em.png|\n|SBS99 Future Robot Daltanious.png|\n|SBS99 Daltanious.png|\n}}\n\nAnd finally, number 1 is\u2026!! With a lion in his belly, it's [[Holed'em]]! It's no exaggeration to say that SMILEs originated from wanting to draw this guy. A long while ago, there was this robot anime called [[wikipedia:Future Robot Daltanious|''Future Robot Daltanious'']]. There a lion robot and a humanoid robot would transform and dock together, becoming a robot with a lion face on its chest!! It's something I also loved as a child because of how cool it was. I always thought \"How I wish I was made of ''ch\u014dg\u014dkin'' robot alloy so I could transform just like him~!\", so my longing came into form here!! Haha\u2026 oh, talking about this I remembered, I also really loved this centaur robot called ''Daibajin'', so I wonder if that's why I like Umami? Yeah, SMILEs are all like dockable robots!! So cool!!",
+                        "matches": [
+                            [
+                                136,
+                                177,
+                                "File:SBS99 Speed.png|thumb|left|150px"
+                            ],
+                            [
+                                202,
+                                211,
+                                "Speed"
+                            ],
+                            [
+                                561,
+                                598,
+                                "File:SBS99 Hamlet.png|thumb|150px"
+                            ],
+                            [
+                                1070,
+                                1082,
+                                "Holed'em"
+                            ],
+                            [
+                                1218,
+                                1283,
+                                "wikipedia:Future Robot Daltanious|''Future Robot Daltanious''"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS99 Speed.png",
+                        "size": "150",
+                        "start": 136,
+                        "end": 177
+                    },
+                    {
+                        "file": "SBS99 Hamlet.png",
+                        "size": "150",
+                        "start": 561,
+                        "end": 598
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "''Future Robot Daltanious''",
+                        "link_title": "/wiki/Future Robot Daltanious",
+                        "is_wikipedia": true,
+                        "start": 1218,
+                        "end": 1283
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Speed",
+                        "link_title": "/wiki/Speed",
+                        "is_wikipedia": false,
+                        "start": 202,
+                        "end": 211
+                    },
+                    {
+                        "text": "Holed'em",
+                        "link_title": "/wiki/Holed'em",
+                        "is_wikipedia": false,
+                        "start": 1070,
+                        "end": 1082
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "Speed",
+                        "Hamlet",
+                        "Holed'em"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "devil_fruit",
+                        "SMILE_fruit",
+                        "anime"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda's top 3 SMILE fruit users are: 3rd - Speed for the unique design; 2nd - Hamlet for its noble confidence; 1st - Holed'em, inspired by a childhood robot anime."
+            }
+        ],
+        "page": "152",
+        "chapter_number": "1002",
+        "page_header": "SBS Vol 99. Header 6.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 19,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "What type of hairstyle would be called [[Kozuki Oden]]'s hairdo? Is it \"The just perfect fit for the pillow of the Wano-Countrydo\"? \u2013 P.N. Tarou in the Dark\n\n[[File:SBS99 Oden Sleeping.png|thumb|150px]]",
+                        "matches": [
+                            [
+                                39,
+                                54,
+                                "Kozuki Oden"
+                            ],
+                            [
+                                158,
+                                202,
+                                "File:SBS99 Oden Sleeping.png|thumb|150px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "It's a perfect fit for the pillows of the Wano Country indeed! Haha! Japanese culture is really fascinating, did you all know of the times when everyone had tied hair? Since everyone tied their hair on the upper side with topknots and whatnot, they had pillows like these. I remember my granny used one like this.\n\n[[File:SBS99 Oden Concept.png|thumb|left|150px]]\n\nAnyway, his original concept had a head like this. The top of his head was in the shape of a [[wikipedia:konjac|''konnyaku'']], an egg, and a ''ganmodoki'' (all ingredients that are usually put in skewers of Oden), but only the ''ganmodoki'' remained! In other words, it's called an ''Inokori-ganmodoki-doki-doki-doku-toku-mage'', or an \u201cOvertime Ganmodoki Heart-throbbing Super-duper Uniquedo\u201d.{{-}}",
+                        "matches": [
+                            [
+                                315,
+                                363,
+                                "File:SBS99 Oden Concept.png|thumb|left|150px"
+                            ],
+                            [
+                                458,
+                                491,
+                                "wikipedia:konjac|''konnyaku''"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS99 Oden Sleeping.png",
+                        "size": "150",
+                        "start": 158,
+                        "end": 202
+                    },
+                    {
+                        "file": "SBS99 Oden Concept.png",
+                        "size": "150",
+                        "start": 315,
+                        "end": 363
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "''konnyaku''",
+                        "link_title": "/wiki/konjac",
+                        "is_wikipedia": true,
+                        "start": 458,
+                        "end": 491
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Kozuki Oden",
+                        "link_title": "/wiki/Kozuki Oden",
+                        "is_wikipedia": false,
+                        "start": 39,
+                        "end": 54
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "kozuki_oden"
+                    ],
+                    "places": [
+                        "wano_country"
+                    ],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "hairstyle",
+                        "japanese_culture"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda jokingly describes Kozuki Oden's hairstyle as a 'perfect fit for the pillows of Wano Country,' sharing its history and the original concept of a konjac-shaped head."
+            },
+            {
+                "number": 20,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "A question for Odacchi\u2026 or rather, a suggestion!! A while ago, you made a \"Voice Actors SBS\" where people could ask the voice actors questions, right? Then, I think that [[wikipedia:Katsuhisa H\u014dki|Katsuhisa H\u014dki]]-san, the voice actor for the newest addition to the Straw Hat Pirates, Jinbe, should also get to do it, what do you think? \u2013 P.N. Pitterer",
+                        "matches": [
+                            [
+                                170,
+                                213,
+                                "wikipedia:Katsuhisa H\u014dki|Katsuhisa H\u014dki"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Oooh, that sounds nice~. That was a really long time ago lol. From [[SBS Volume 52|Vol. 52]] where it started with Luffy's VA Mayumi Tanaka-san to [[SBS Volume 64|Vol. 64]], the Straw Hat VA Corps did 9 SBSes total. So, we'll be taking questions for Katsuhisa H\u014dki-san, voice actor of Jinbeee~!! He's a really cool old dude who's a bit of a dandy just like Jinbe! Ask away!!\n\nRight then, today's SBS ends here!! Next time, it's Vol. 100~!!",
+                        "matches": [
+                            [
+                                67,
+                                92,
+                                "SBS Volume 52|Vol. 52"
+                            ],
+                            [
+                                147,
+                                172,
+                                "SBS Volume 64|Vol. 64"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Katsuhisa H\u014dki",
+                        "link_title": "/wiki/Katsuhisa H\u014dki",
+                        "is_wikipedia": true,
+                        "start": 170,
+                        "end": 213
+                    },
+                    {
+                        "text": "Vol. 52",
+                        "link_title": "/wiki/SBS Volume 52",
+                        "is_wikipedia": false,
+                        "start": 67,
+                        "end": 92
+                    },
+                    {
+                        "text": "Vol. 64",
+                        "link_title": "/wiki/SBS Volume 64",
+                        "is_wikipedia": false,
+                        "start": 147,
+                        "end": 172
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "jinbe",
+                        "luffy"
+                    ],
+                    "places": [],
+                    "topics": [
+                        "voice_actors",
+                        "sbs",
+                        "straw_hat_pirates"
+                    ],
+                    "emotions": [
+                        "happy",
+                        "funny"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "A reader suggests having a Q&A with Jinbe's voice actor, and Oda agrees, noting the previous Q&As with the Straw Hat VA Corps."
+            }
+        ],
+        "page": "170",
+        "chapter_number": "1003",
+        "page_header": "SBS Vol. 99 Header 7.png"
+    }
+]

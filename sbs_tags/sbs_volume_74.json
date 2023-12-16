@@ -1,0 +1,986 @@
+[
+    {
+        "qa": [
+            {
+                "number": 1,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Alriiiiiight!! I'll start on my own free will in place of Odacchi~~.\n\nLet's all stay in high spirits!! Now then!! ... Ready, set!!!\n\n<span style=\"font-size:1.5em\">\u300cSOS!!!\u300d</span>\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0P.N. ClutsyGirlCandyApple",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "<span style=\"font-size:1.5em\">HELP-----!! SOMEBODY--!!</span>\u00a0ClutsyGirlCandyApple is drowning--!! SOS!! SOS~~!!\n\n<span style=\"font-size:1.5em\">IT'S SBS Damnit!!!</span>\u00a0''(shock)''\n\n[[File:SBS74 1 Leo.png|right|70px]]",
+                        "matches": [
+                            [
+                                183,
+                                218,
+                                "File:SBS74 1 Leo.png|right|70px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS74 1 Leo.png",
+                        "size": "70",
+                        "start": 183,
+                        "end": 218
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "shock"
+                    ],
+                    "topics": [
+                        "SOS_call",
+                        "SBS"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader does a playful imitation of Oda's intro, using a pseudonym, while Oda responds in urgency, playfully scolding the reader for not starting SBS."
+            },
+            {
+                "number": 2,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "<span style=\"font-size:1.5em\">Odacchi, I forgive you-resu.</span>\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0P.N. Cosettey",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Oi oi!! ''(shock)'' You make it sound like I'm the one who messed up!! ''(frets)''\n\n[[File:SBS74 1 Cavendish.png|right|70px]]",
+                        "matches": [
+                            [
+                                84,
+                                125,
+                                "File:SBS74 1 Cavendish.png|right|70px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS74 1 Cavendish.png",
+                        "size": "70",
+                        "start": 84,
+                        "end": 125
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "shock",
+                        "frets"
+                    ],
+                    "topics": [],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader forgives Oda in a playful manner, to which Oda responds in surprise, denying any wrongdoing."
+            },
+            {
+                "number": 3,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello. I fell in love with Cavendish at first sight. So, Odacchi. I wanted to know his birthday right off the bat and I thought... Caven\u2192Cabbage\u2192Vegetable(Yasai)\u2192August 31 (8Ya 3Sa 1I) might be a good idea? C'monnn, isn't it great? \u00a0 \u00a0 \u00a0 \u00a0 \u00a0P.N. White Toothed Prince",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Hnnnnng~~... (pretends to care) hmm~~ (pretends to care) sure. (Doesn't give a damn)",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "cavendish"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "indifferent",
+                        "pretending_to_care"
+                    ],
+                    "topics": [
+                        "birthday",
+                        "funny"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "D asks about Cavendish's birthday, making a creative connection, but Oda dismisses the idea in a humorous manner."
+            },
+            {
+                "number": 4,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "In Chapter 731 during the scene where the objective of Operation SOP is being explained, Luffy, Zoro, Sanji, Chopper, Nami, Brook, (and Pandaman) are among the crowd of dwarves, aren't they! What could the meaning of this be! You are ''the''\u00a0Oda-sensei that I\u00a0look up to\u00a0after all, there must be some ''deep reason'' behind this all! If you don't tell me, I'll... \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0P.N. Start The SBS!\u00a0 \u00a0\u00a0\n[[File:SBS74 1 Straw Hat Dwarves.png|right|300px]]",
+                        "matches": [
+                            [
+                                401,
+                                451,
+                                "File:SBS74 1 Straw Hat Dwarves.png|right|300px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "It started just now!!? (shock) The SBS! Anyways... man, I'm amazed that you all find these miniscule details. Reason? Er, there is none? I just challenged my readers to see if they'd notice, yknow what I'm sayin.\n\n..They noticed. \u00a0\n{{-}}",
+                        "matches": []
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS74 1 Straw Hat Dwarves.png",
+                        "size": "300",
+                        "start": 401,
+                        "end": 451
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "luffy",
+                        "zoro",
+                        "sanji",
+                        "chopper",
+                        "nami",
+                        "brook",
+                        "pandaman"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "amazed",
+                        "shock",
+                        "funny"
+                    ],
+                    "topics": [
+                        "operation_sop",
+                        "sbs"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "Oda is amazed that readers noticed the Straw Hat crew among the dwarves, stating there is no deep reason, only a challenge to see if readers would notice."
+            }
+        ],
+        "page": "46",
+        "chapter_number": "733",
+        "page_header": "SBS74 Header 1.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 5,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "<p style=\"font-family:Mistral; font-size: 150%\">Oda-kun! Yesterday, I wore underpants on my head with my little sister and played \"the undepants man game\". Would you like to try as well, Oda-kun? To play, all you have to do is wear the underpants on your head and say \"I won't forgive you if you don't wear your underpants on your head!\"! Give it a try, ok! It's really fun!</p>\n\n\u00a0fromMaehara-san",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Sounds like tons of fun~! Woohoo~!........\n\n... Stopitttttttttt!! ''(shock)'' That's just sleazy!! Sleazy!!\n\n[[File:SBS74 2 Robin.png|right|120px]]",
+                        "matches": [
+                            [
+                                109,
+                                147,
+                                "File:SBS74 2 Robin.png|right|120px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS74 2 Robin.png",
+                        "size": "120",
+                        "start": 109,
+                        "end": 147
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "robin"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "shock",
+                        "funny"
+                    ],
+                    "topics": [
+                        "sleazy",
+                        "joke"
+                    ],
+                    "importance": "low",
+                    "isCharacterInsertion": true
+                },
+                "summary": "Reader suggests a playful activity to Oda, who initially seems enthusiastic but later responds with shock and disapproval."
+            },
+            {
+                "number": 6,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Robin-san's hands are <span style=\"font-size:1.5em\">GORGEOUS</span>, aren't they. Please let me rub against them. \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 P.N. Yoshikage0130",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "<span style=\"font-size:1.5em\">WHAT A PERVERT!!! ''(shock)''</span> For real, give me a break! These days, the PTA are after me because of this segment. Please, let's not drop the class around here!\n\n[[File:SBS74 2 Vivi.png|thumb|200px|''\"Please...!!! Stop fighting!!!\"'']]",
+                        "matches": [
+                            [
+                                199,
+                                272,
+                                "File:SBS74 2 Vivi.png|thumb|200px|''\"Please...!!! Stop fighting!!!\"''"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS74 2 Vivi.png",
+                        "size": "200",
+                        "start": 199,
+                        "end": 272
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "nico_robin"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "shock",
+                        "funny"
+                    ],
+                    "topics": [
+                        "perverted",
+                        "SBS_segment"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "D: Reader makes a cheeky comment about wanting to touch Robin's hands, Oda responds with shock and humor, urging to not be a pervert."
+            },
+            {
+                "number": 7,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei, as you were drawing this series, which scene made you cry the most so far? Please tell us. \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 P.N. ca- 100",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Woah. Splendid... This. These are the kinds of serious questions I look for.\u00a0\n\nPersonally, there really are lots of scenes that made me tear up as I drew them. There are even times where the drawing becomes so tough for me from all the feelings, that I have to leave my desk for a breather. As for the scene that made me cry the most, or rather, the scene that was especially tough for me to draw, I do remember that the scene from the Alabasta arc where Vivi keeps screaming \"Please...!!! Stop fighting!!!\" (Volume 23) was so hard to draw that I had to put my pen down. Though there are countless instances like this the more I try to recall. I guess it would have to be this one---.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "vivi"
+                    ],
+                    "places": [
+                        "alabasta"
+                    ],
+                    "emotions": [
+                        "sad"
+                    ],
+                    "topics": [
+                        "emotional_scenes",
+                        "artist_struggle"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda recounts the emotional difficulty of drawing scenes, particularly highlighting Vivi's plea to stop fighting in the Alabasta arc as a moment that made him cry."
+            },
+            {
+                "number": 8,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Question. If Marco's penis gets ripped off, will it regenerate? \u00a0 P.N. Midorikishi",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes. The penis will regenerate.\u00a0<span style=\"font-size:1.5em\">HEY!!! ''(shock)''</span>",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "marco"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "shock"
+                    ],
+                    "topics": [
+                        "regeneration",
+                        "anatomy"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Marco's penis would regenerate if it got ripped off according to Oda."
+            }
+        ],
+        "page": "66",
+        "chapter_number": "734",
+        "page_header": "SBS74 Header 2.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 9,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Can Fujitora's birthday be August 10? (8)Fuji (10)Tora P.N. torohitamanu\n[[File:SBS74 3 Fujitora.png|right|100px]]",
+                        "matches": [
+                            [
+                                73,
+                                114,
+                                "File:SBS74 3 Fujitora.png|right|100px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Hnnnnng~~... (pretends to care) hmm~~ (pretends to care) Zzz... (fell asleep) Hng!! (woke up) sure. (Doesn't give a damn)",
+                        "matches": []
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS74 3 Fujitora.png",
+                        "size": "100",
+                        "start": 73,
+                        "end": 114
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "fujitora"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "pretends_to_care",
+                        "funny"
+                    ],
+                    "topics": [
+                        "birthday",
+                        "character"
+                    ],
+                    "importance": [
+                        "low"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "D: Asks if Fujitora's birthday is August 10, based on his name, and Oda responds jokingly without confirming or denying."
+            },
+            {
+                "number": 10,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Heyo Odacchi! Is Fujitora modeled after \"Zatoichi\" played by Shintaro Katsu-san? I don't know this guy but my Maman and Papan were saying that. P.N. Mitarashi Dango",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes, that's right--. They're basically doppelgangers, so people from my era will probably realize that this guy is based off \"KatsuShin\" right away, but I suppose there's no way you boys would know~. There's actually loads of newer movies that use the same title \"Zatoichi\", but originally, this awesome actor, Shintaro Katsu, created the concept pulled from a different story's side character, and in total including all TV series and movies, this period drama has been remade over 100 times and is incredibly famous overall~. Yes. You're not interested, are you!? I know, I know! So anyways, this KatsuShin guy really hates scripts, <font color=#333333>and </font><font size=\"2.5\"><font color=#4C4C4C>in </font></font><font size=\"2\"><font color=#666666>fact </font></font><font size=\"1.5\"><font color=#808080>during </font></font><font size=\"1\"><font color=#999999>the </font></font><font size=\"0.5\"><font color=#B2B2B2>TV </font></font><font size=\"0\"><font color=#CCCCCC>series </font></font>",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "fujitora",
+                        "zatoichi",
+                        "katsu_shintaro"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "informative"
+                    ],
+                    "topics": [
+                        "movie",
+                        "actor",
+                        "Zatoichi"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Fujitora is based on the character 'Zatoichi' played by Shintaro Katsu, who was known for creating the concept from a different story's side character and hating scripts."
+            },
+            {
+                "number": 11,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Sir Oda, please tell me when marine admiral \"Momousagi\" will finally make her appearance! The one that's rumored to make everyone explod-- I mean, charm people to death with her bombshell sexy dynamitz! I'm so eager for her appearance that I can't even sleep at night anymore. P.N. Sanji's younger brother Yonji2\n\n[[File:Gion Manga Infobox.png|thumb|200px|\n''\"Usafufu\nDon't be such a stranger, boy\"'']]",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "<span style=\"font-size:1.5em\">HM?? Momousagi?......?</span>\n\nEr, right now the admirals consist of Kizaru... Fujitora... Ryokugyu...\n\n<span style=\"font-size:1.5em\">Momousagi? ''(sweatdrop)''</span> Aah! That.\n\nH...her, her, ''(frets)'' the vice-admiral, that's right! That person who was an admiral candidate, her, right? ''(frets)'' I'll just show her to you guys right now. This is Vice Admiral [[Momousagi]].\u2192\nThey say her design may be based off the youthful Michiyo Kogure.\n\n{{-}}",
+                        "matches": [
+                            [
+                                397,
+                                410,
+                                "Momousagi"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Momousagi",
+                        "link_title": "/wiki/Momousagi",
+                        "is_wikipedia": false,
+                        "start": 397,
+                        "end": 410
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "momousagi",
+                        "kizaru",
+                        "fujitora",
+                        "ryokugyu"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "surprised",
+                        "nervous"
+                    ],
+                    "topics": [
+                        "marine",
+                        "admirals",
+                        "character_design"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda confirms the existence of Marine admiral Momousagi and her design may be based on the youthful Michiyo Kogure."
+            }
+        ],
+        "page": "86",
+        "chapter_number": "735",
+        "page_header": "SBS74 Header 3.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 12,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "We are a married couple that loves ONE PIECE from the bottom of our hearts. We made a \"Trebol's face rubber stamp\" and thought up this quiz together! P.N. Yamamoto Ryo & Kyoko",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes. Thank you very much. What a close couple! Let's all try to find the correct answer!!",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Now, have you gotten it all figured out~~? The answer will be noted in the following pa-<span style=\"font-size:1.5em\">LIKE HELL I'D NEED TO DO THAT!!! ''(shock)''</span> Damned couple! It's obvious!\n\n...yes, I apologize for losing myself there. Well... content aside, the illustrations themselves were eerily humorous so I thought I'd just stick this in here. (Believe it or not, the answer is number 1)\n\n\n<nowiki>\uff0a</nowiki>By the way, in volume 72 I said that colosseums existed in \"Ancient Greece\", but that was a mistake. It's \"Ancient Rome\". My deepest apologies.\n\n{{-}}",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "apologetic",
+                        "humorous",
+                        "shocked"
+                    ],
+                    "topics": [
+                        "fan_quiz",
+                        "mistake_correction"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda acknowledges a couple's quiz and apologizes for a mistake regarding colosseums in One Piece volume 72."
+            }
+        ],
+        "page": "106",
+        "chapter_number": "736",
+        "page_header": "SBS74 Header 4.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 13,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Luffy's Haoshoku Haki can take out 50,000 people, but how many people can Nami's Happiness Punch take out?\u00a0P.N. Captain Nobuo",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Oho--. I see. This is tough showdown, isn't it. Well let's see, if we were to talk about these two using their techniques with their own bodies alone, Nami's Happiness Punch would only work among \"visible range\", so it would probably not be able to compete against Luffy's haki. However, if we are allowed to take the usage of Visual Den Den Mushi into consideration, Luffy's Haki will not be able to convert into willpower-radio waves, but Nami will be able to attack various locations around the world at once, and thus victory would become Nami's. Nevertheless, it should be noted that the \"Happiness Punch\" also deals a great amount damage to one's wallet as it requires the payment of {{B}}100,000 per person, and in this way, it can be confirmed that this attack is a great deal nastier than Haki in general.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy",
+                        "nami"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "playful",
+                        "humorous"
+                    ],
+                    "topics": [
+                        "fighting_techniques",
+                        "comparison"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Nami's Happiness Punch can attack multiple locations using Visual Den Den Mushi, making it more powerful than Luffy's Haoshoku Haki in that aspect."
+            },
+            {
+                "number": 14,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I would like to know the Straw Hats' bed times and wake up times! Penname fujiyama",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I see. A very interesting question indeed. These people don't really follow much of a schedule but. In general.\n\n{| style=\"margin:auto;\"\n|[[File:SBS72 2 Luffy.png|75px]]||\nSleep: When sleepy<br />\nWake up: When he wakes up<br />\n(Sleeps for around 5 hours)\n|[[File:SBS72 2 Zoro.png|75px]]||\nSleep: 4:00 am<br />\nWake up: 7:00 am<br />\n(+naps)\n|[[File:SBS72 2 Nami.png|75px]]||\nSleep: 11:00 pm<br />\nWake up: 7:00 am\n|-\n|[[File:SBS72 2 Usopp.png|75px]]||\nSleep: 1:00 am<br />\nWake up: 8:00 am\n|[[File:SBS72 2 Sanji.png|75px]]||\nSleep: 12:00 am<br />\nWake up: 5:00 am\n|[[File:SBS72 2 Chopper.png|75px]]||\nSleep: 9:00 pm<br />\nWake up: 7:00 am<br />\n(+naps)\n|-\n|[[File:SBS74 5 Robin.png|75px]]||\nSleep: 11:00 pm<br />\nWake up: 6:00 am\n|[[File:SBS72 2 Franky.png|75px]]||\nSleep: 1:00 am<br />\nWake up: 9:00 am\n|[[File:SBS72 2 Brook.png|75px]]||\nSleep: 12:00 am<br />\nWake up: 5:00 am\n|}\n\nAnd thus, even during instances where they have to navigate through the seas during nighttime, there will always need to be at least two people awake at all times in order to keep an eye out in both the front and back directions of the ship, hence every member alternates every 2 hours to stay on the lookout. It isn't too uncommon that these people don't get sufficient sleep.{{-}}",
+                        "matches": [
+                            [
+                                138,
+                                169,
+                                "File:SBS72 2 Luffy.png|75px"
+                            ],
+                            [
+                                258,
+                                288,
+                                "File:SBS72 2 Zoro.png|75px"
+                            ],
+                            [
+                                344,
+                                374,
+                                "File:SBS72 2 Nami.png|75px"
+                            ],
+                            [
+                                420,
+                                451,
+                                "File:SBS72 2 Usopp.png|75px"
+                            ],
+                            [
+                                493,
+                                524,
+                                "File:SBS72 2 Sanji.png|75px"
+                            ],
+                            [
+                                567,
+                                600,
+                                "File:SBS72 2 Chopper.png|75px"
+                            ],
+                            [
+                                659,
+                                690,
+                                "File:SBS74 5 Robin.png|75px"
+                            ],
+                            [
+                                733,
+                                765,
+                                "File:SBS72 2 Franky.png|75px"
+                            ],
+                            [
+                                807,
+                                838,
+                                "File:SBS72 2 Brook.png|75px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS72 2 Luffy.png",
+                        "size": "75",
+                        "start": 138,
+                        "end": 169
+                    },
+                    {
+                        "file": "SBS72 2 Zoro.png",
+                        "size": "75",
+                        "start": 258,
+                        "end": 288
+                    },
+                    {
+                        "file": "SBS72 2 Nami.png",
+                        "size": "75",
+                        "start": 344,
+                        "end": 374
+                    },
+                    {
+                        "file": "SBS72 2 Usopp.png",
+                        "size": "75",
+                        "start": 420,
+                        "end": 451
+                    },
+                    {
+                        "file": "SBS72 2 Sanji.png",
+                        "size": "75",
+                        "start": 493,
+                        "end": 524
+                    },
+                    {
+                        "file": "SBS72 2 Chopper.png",
+                        "size": "75",
+                        "start": 567,
+                        "end": 600
+                    },
+                    {
+                        "file": "SBS74 5 Robin.png",
+                        "size": "75",
+                        "start": 659,
+                        "end": 690
+                    },
+                    {
+                        "file": "SBS72 2 Franky.png",
+                        "size": "75",
+                        "start": 733,
+                        "end": 765
+                    },
+                    {
+                        "file": "SBS72 2 Brook.png",
+                        "size": "75",
+                        "start": 807,
+                        "end": 838
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy",
+                        "roronoa_zoro",
+                        "nami",
+                        "usopp",
+                        "sanji",
+                        "tony_tony_chopper",
+                        "nico_robin",
+                        "franky",
+                        "brook"
+                    ],
+                    "places": [],
+                    "topics": [
+                        "straw_hat_schedule",
+                        "sleep_patterns",
+                        "pirate_life"
+                    ],
+                    "emotions": [
+                        "informative"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "The Straw Hats have varying bed and wake up times, with Luffy sleeping when tired, Zoro from 4am to 7am, Nami from 11pm to 7am, and others following different patterns."
+            }
+        ],
+        "page": "126",
+        "chapter_number": "737",
+        "page_header": "SBS74 Header 5.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 14,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "N/A",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "So I feel highly regretful about this, but it seems I have misplaced the postcard from one of my readers that made this request ''(sweats)''. Basically, it was a postcard asking for me to draw all the pirate flags from The Worst Generation team... but I lost it somewhere while I was drawing them. I'm so sorry.\n\nNeeevertheless! I will fulfill this request! Thanks for the postcard!\n\nI won't draw the ones that have already appeared.\n\n{{Gallery|width=200|height=148|captionalign=center|position=center\n|On Air Pirates' Jolly Roger SBS.png|[[On Air Pirates]]<br />([[Scratchmen Apoo]])\n|Drake Pirates' Jolly Roger.png|[[Drake Pirates]]<br />([[X Drake]])}}\n{{Gallery|width=200|height=150|captionalign=center|position=center\n|Fallen Monk Pirates' Jolly Roger SBS.png|[[Fallen Monk Pirates]]<br />([[Urouge]])\n|Kid Pirates' Jolly Roger SBS.png|[[Kid Pirates]]<br />([[Eustass Kid|Eustass \"Captain\" Kid]])\n|Hawkins Pirates' Jolly Roger SBS.png|[[Hawkins Pirates]]<br />([[Basil Hawkins]])}}\n{{Gallery|width=200|height=150|captionalign=center|position=center\n|Fire Tank Pirates' Jolly Roger SBS.png|[[Fire Tank Pirates]]<br />([[Capone Bege|Capone \"Gang\" Bege]])\n|Bonney Pirates' Jolly Roger SBS.png|[[Bonney Pirates]]<br />([[Jewelry Bonney]])}}",
+                        "matches": [
+                            [
+                                539,
+                                557,
+                                "On Air Pirates"
+                            ],
+                            [
+                                564,
+                                583,
+                                "Scratchmen Apoo"
+                            ],
+                            [
+                                617,
+                                634,
+                                "Drake Pirates"
+                            ],
+                            [
+                                641,
+                                652,
+                                "X Drake"
+                            ],
+                            [
+                                765,
+                                788,
+                                "Fallen Monk Pirates"
+                            ],
+                            [
+                                795,
+                                805,
+                                "Urouge"
+                            ],
+                            [
+                                841,
+                                856,
+                                "Kid Pirates"
+                            ],
+                            [
+                                863,
+                                900,
+                                "Eustass Kid|Eustass \"Captain\" Kid"
+                            ],
+                            [
+                                940,
+                                959,
+                                "Hawkins Pirates"
+                            ],
+                            [
+                                966,
+                                983,
+                                "Basil Hawkins"
+                            ],
+                            [
+                                1094,
+                                1115,
+                                "Fire Tank Pirates"
+                            ],
+                            [
+                                1122,
+                                1156,
+                                "Capone Bege|Capone \"Gang\" Bege"
+                            ],
+                            [
+                                1195,
+                                1213,
+                                "Bonney Pirates"
+                            ],
+                            [
+                                1220,
+                                1238,
+                                "Jewelry Bonney"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Now it's about time I wrap things up.\n\nSBS ending---------!! See you in the next volume!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Eustass \"Captain\" Kid",
+                        "link_title": "/wiki/Eustass Kid",
+                        "is_wikipedia": false,
+                        "start": 863,
+                        "end": 900
+                    },
+                    {
+                        "text": "Capone \"Gang\" Bege",
+                        "link_title": "/wiki/Capone Bege",
+                        "is_wikipedia": false,
+                        "start": 1122,
+                        "end": 1156
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "On Air Pirates",
+                        "link_title": "/wiki/On Air Pirates",
+                        "is_wikipedia": false,
+                        "start": 539,
+                        "end": 557
+                    },
+                    {
+                        "text": "Scratchmen Apoo",
+                        "link_title": "/wiki/Scratchmen Apoo",
+                        "is_wikipedia": false,
+                        "start": 564,
+                        "end": 583
+                    },
+                    {
+                        "text": "Drake Pirates",
+                        "link_title": "/wiki/Drake Pirates",
+                        "is_wikipedia": false,
+                        "start": 617,
+                        "end": 634
+                    },
+                    {
+                        "text": "X Drake",
+                        "link_title": "/wiki/X Drake",
+                        "is_wikipedia": false,
+                        "start": 641,
+                        "end": 652
+                    },
+                    {
+                        "text": "Fallen Monk Pirates",
+                        "link_title": "/wiki/Fallen Monk Pirates",
+                        "is_wikipedia": false,
+                        "start": 765,
+                        "end": 788
+                    },
+                    {
+                        "text": "Urouge",
+                        "link_title": "/wiki/Urouge",
+                        "is_wikipedia": false,
+                        "start": 795,
+                        "end": 805
+                    },
+                    {
+                        "text": "Kid Pirates",
+                        "link_title": "/wiki/Kid Pirates",
+                        "is_wikipedia": false,
+                        "start": 841,
+                        "end": 856
+                    },
+                    {
+                        "text": "Hawkins Pirates",
+                        "link_title": "/wiki/Hawkins Pirates",
+                        "is_wikipedia": false,
+                        "start": 940,
+                        "end": 959
+                    },
+                    {
+                        "text": "Basil Hawkins",
+                        "link_title": "/wiki/Basil Hawkins",
+                        "is_wikipedia": false,
+                        "start": 966,
+                        "end": 983
+                    },
+                    {
+                        "text": "Fire Tank Pirates",
+                        "link_title": "/wiki/Fire Tank Pirates",
+                        "is_wikipedia": false,
+                        "start": 1094,
+                        "end": 1115
+                    },
+                    {
+                        "text": "Bonney Pirates",
+                        "link_title": "/wiki/Bonney Pirates",
+                        "is_wikipedia": false,
+                        "start": 1195,
+                        "end": 1213
+                    },
+                    {
+                        "text": "Jewelry Bonney",
+                        "link_title": "/wiki/Jewelry Bonney",
+                        "is_wikipedia": false,
+                        "start": 1220,
+                        "end": 1238
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "scratchmen_apoo",
+                        "x_drake",
+                        "urouge",
+                        "eustass_kid",
+                        "basil_hawkins",
+                        "capone_bege",
+                        "jewelry_bonney"
+                    ],
+                    "places": [],
+                    "topics": [
+                        "pirate_flags",
+                        "worst_generation",
+                        "postcard_request",
+                        "SBS_ending"
+                    ],
+                    "emotions": [
+                        "regretful",
+                        "apologetic"
+                    ],
+                    "importance": "hight",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda fulfills a reader's request to draw the pirate flags of The Worst Generation, excluding those already shown, in the SBS section."
+            }
+        ],
+        "page": "146",
+        "chapter_number": "738",
+        "page_header": "SBS74 Header 6.png"
+    }
+]

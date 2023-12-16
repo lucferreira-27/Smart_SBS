@@ -1,0 +1,2050 @@
+[
+    {
+        "qa": [
+            {
+                "number": 1,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei! Who would've thought there'd be an UFO in a place like this!! The SBS has started. \u2013 P.N. A man who has been acknowledged by Higuma",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "What's that\u2014-?!! Hold up, that just seems to be a grade-schooler\u2014-!! I got tricked again!! Dammit\u2014-!! Ah, and by\u2026 an 11 year old grade-schooler this time\u2026",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "surprised",
+                        "frustrated"
+                    ],
+                    "topics": [
+                        "SBS",
+                        "UFO"
+                    ],
+                    "importance": "hight",
+                    "isCharacterInsertion": false
+                },
+                "summary": "D is excited about the start of the SBS, but Oda realizes it's just a trick by an 11-year-old reader and is frustrated."
+            },
+            {
+                "number": 2,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei, hello! My mom is flatulent all day round, so I was wondering if she's the user of the Koki Koki no Mi. \u2013 P.N. Hata",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "No, I think that's just showing her internal organs are all in good health. Alright, next question.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "devil_fruit"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader asks if their mom has the Koki Koki no Mi due to flatulence, Oda replies it's just a sign of good health."
+            },
+            {
+                "number": 3,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei! Hello! According to my grandma, [[Yamato]]'s birthday is on November 3. Is that so? \u2013 P.N. Hata",
+                        "matches": [
+                            [
+                                44,
+                                54,
+                                "Yamato"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Well then, guess it is November 3.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Yamato",
+                        "link_title": "/wiki/Yamato",
+                        "is_wikipedia": false,
+                        "start": 44,
+                        "end": 54
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "yamato"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "birthday"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Yamato's birthday is confirmed to be on November 3."
+            },
+            {
+                "number": 4,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Please draw [[Trafalgar D. Water Law|Law]]'s face when he eats umeboshi!",
+                        "matches": [
+                            [
+                                12,
+                                42,
+                                "Trafalgar D. Water Law|Law"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "[[File:SBS98 1 Law Umeboshi.png|center|thumb|250px|Text: \"Simplified version\"]]",
+                        "matches": [
+                            [
+                                0,
+                                79,
+                                "File:SBS98 1 Law Umeboshi.png|center|thumb|250px|Text: \"Simplified version\""
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS98 1 Law Umeboshi.png",
+                        "size": "250",
+                        "start": 0,
+                        "end": 79
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Law",
+                        "link_title": "/wiki/Trafalgar D. Water Law",
+                        "is_wikipedia": false,
+                        "start": 12,
+                        "end": 42
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "trafalgar_d_water_law"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "drawing_request"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Law's face when eating umeboshi is shown in a simplified version drawing provided by Oda."
+            },
+            {
+                "number": 5,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I'm really, reaaaaaally curious to see how [[Eustass Kid|Kid]] and [[Killer]]'s first love, [[Shiruton Doruyanaika]], looks like! I wonder, what kind of face does she have? I bet she's a real cutie! \u2013 P.N. Onimaru",
+                        "matches": [
+                            [
+                                43,
+                                62,
+                                "Eustass Kid|Kid"
+                            ],
+                            [
+                                67,
+                                77,
+                                "Killer"
+                            ],
+                            [
+                                92,
+                                116,
+                                "Shiruton Doruyanaika"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "[[File:SBS98 Shiruton Doruyanaika.png|thumb|center|200px|''\"I've stained my shirt on broth!!!\"'']]",
+                        "matches": [
+                            [
+                                0,
+                                98,
+                                "File:SBS98 Shiruton Doruyanaika.png|thumb|center|200px|''\"I've stained my shirt on broth!!!\"''"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS98 Shiruton Doruyanaika.png",
+                        "size": "200",
+                        "start": 0,
+                        "end": 98
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Kid",
+                        "link_title": "/wiki/Eustass Kid",
+                        "is_wikipedia": false,
+                        "start": 43,
+                        "end": 62
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Killer",
+                        "link_title": "/wiki/Killer",
+                        "is_wikipedia": false,
+                        "start": 67,
+                        "end": 77
+                    },
+                    {
+                        "text": "Shiruton Doruyanaika",
+                        "link_title": "/wiki/Shiruton Doruyanaika",
+                        "is_wikipedia": false,
+                        "start": 92,
+                        "end": 116
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "eustass_kid",
+                        "killer",
+                        "shiruton_doruyanaika"
+                    ],
+                    "places": [],
+                    "topics": [
+                        "character_design",
+                        "appearance",
+                        "fan_theory"
+                    ],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda reveals the image of Shiruton Doruyanaika, showing her exclaiming 'I've stained my shirt on broth!!!"
+            }
+        ],
+        "page": "28",
+        "chapter_number": "985",
+        "page_header": "SBS98 1 Header.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 6,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei, hello!! Just recently, I used [[Haki/Haoshoku Haki|Conqueror's Haki]] on my 1-year old little sister, but she just laughed at me. Why is that. \u2013 P.N. Yucchi",
+                        "matches": [
+                            [
+                                42,
+                                81,
+                                "Haki/Haoshoku Haki|Conqueror's Haki"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "That is because she possesses the qualities to be a king.\n\n[[File:SBS98 Sanji Cries.png|200px|thumb]]",
+                        "matches": [
+                            [
+                                59,
+                                101,
+                                "File:SBS98 Sanji Cries.png|200px|thumb"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS98 Sanji Cries.png",
+                        "size": "200",
+                        "start": 59,
+                        "end": 101
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Conqueror's Haki",
+                        "link_title": "/wiki/Haki/Haoshoku Haki",
+                        "is_wikipedia": false,
+                        "start": 42,
+                        "end": 81
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "haki",
+                        "conquerors_haki",
+                        "family"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "Oda explains that the reader's baby sister's laughter when faced with Conqueror's Haki is due to possessing qualities fit for a king."
+            },
+            {
+                "number": 7,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchiiiii!!! In [[Chapter 977]], in the scene after [[Nami]] hugs [[Jinbe]], I spotted [[Sanji]] biting on a handkerchief while going like \"GHH\u2013\" out of jealousy!! \u2013 P.N. Pure-hearted middle-school student who wrote about wanting to meet Odacchi at a Tanabata festival",
+                        "matches": [
+                            [
+                                18,
+                                33,
+                                "Chapter 977"
+                            ],
+                            [
+                                54,
+                                62,
+                                "Nami"
+                            ],
+                            [
+                                68,
+                                77,
+                                "Jinbe"
+                            ],
+                            [
+                                89,
+                                98,
+                                "Sanji"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Wow, I'm amazed. Well done on spotting that~ Since it was cut off by the page format, you might have to use your imagination a little. This Sanji is very well hidden. Good job~",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Chapter 977",
+                        "link_title": "/wiki/Chapter 977",
+                        "is_wikipedia": false,
+                        "start": 18,
+                        "end": 33
+                    },
+                    {
+                        "text": "Nami",
+                        "link_title": "/wiki/Nami",
+                        "is_wikipedia": false,
+                        "start": 54,
+                        "end": 62
+                    },
+                    {
+                        "text": "Jinbe",
+                        "link_title": "/wiki/Jinbe",
+                        "is_wikipedia": false,
+                        "start": 68,
+                        "end": 77
+                    },
+                    {
+                        "text": "Sanji",
+                        "link_title": "/wiki/Sanji",
+                        "is_wikipedia": false,
+                        "start": 89,
+                        "end": 98
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "nami",
+                        "jinbe",
+                        "sanji"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "amazed",
+                        "happy"
+                    ],
+                    "topics": [
+                        "jealousy",
+                        "fan_interaction"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader points out a hidden Sanji in a scene, author praises the observation and suggests using imagination due to page format."
+            },
+            {
+                "number": 8,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "<big>IF [[Monkey D. Luffy|LUFFY]]'S [[Gomu Gomu no Mi/Gear 4 Techniques|GEAR FOUR]] IS A THING, THEN WILL GEAR FIVE BE A THING TOO?!</big> \u2013 P.N. Y\u30fbSousei-kun",
+                        "matches": [
+                            [
+                                8,
+                                33,
+                                "Monkey D. Luffy|LUFFY"
+                            ],
+                            [
+                                36,
+                                83,
+                                "Gomu Gomu no Mi/Gear 4 Techniques|GEAR FOUR"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Very well. Seeing the passion in your handwriting, I feel obligated to include this question as I received it. Will \"Five\" be a thing\u2026? Right now, the [[Kaidou|enemy]] we have to defeat is the man said to essentially be the world's strongest. Because of that, the world is in the age of transitioning from \"4G\" to \"5G\". \"G\" means \"gear\", right?\n\n[[File:SBS98 Ulti and Page One.png|right|210px|Ulti: ''\"He just called the flying six arrogant punks!! Why the nerve of that beastly man-arinsu?1\"''<br/>Page One: ''\"Is this another one of your weird trends? Stop talking like that, it's embarrassing.\"]]",
+                        "matches": [
+                            [
+                                151,
+                                167,
+                                "Kaidou|enemy"
+                            ],
+                            [
+                                346,
+                                599,
+                                "File:SBS98 Ulti and Page One.png|right|210px|Ulti: ''\"He just called the flying six arrogant punks!! Why the nerve of that beastly man-arinsu?1\"''<br/>Page One: ''\"Is this another one of your weird trends? Stop talking like that, it's embarrassing.\""
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS98 Ulti and Page One.png",
+                        "size": "210",
+                        "start": 346,
+                        "end": 599
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "LUFFY",
+                        "link_title": "/wiki/Monkey D. Luffy",
+                        "is_wikipedia": false,
+                        "start": 8,
+                        "end": 33
+                    },
+                    {
+                        "text": "GEAR FOUR",
+                        "link_title": "/wiki/Gomu Gomu no Mi/Gear 4 Techniques",
+                        "is_wikipedia": false,
+                        "start": 36,
+                        "end": 83
+                    },
+                    {
+                        "text": "enemy",
+                        "link_title": "/wiki/Kaidou",
+                        "is_wikipedia": false,
+                        "start": 151,
+                        "end": 167
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy",
+                        "kaidou",
+                        "ulti",
+                        "page_one"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "excited"
+                    ],
+                    "topics": [
+                        "devil_fruit",
+                        "kaido_backstory",
+                        "gear_techniques"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Luffy's Gear Four is now, so will Gear Five be a thing? Oda explains the transition from '4G' to '5G' due to the enemy being the world's strongest."
+            },
+            {
+                "number": 9,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "In [[Chapter 978]], when [[Ulti]]-chan starts ending her sentences with \"-arinsu\", [[Page One]] says \"is this another one of your weird trends?\", but then what were her speaking trends before this one like?! \u2013 P.N. Yotsuyaeto",
+                        "matches": [
+                            [
+                                3,
+                                18,
+                                "Chapter 978"
+                            ],
+                            [
+                                25,
+                                33,
+                                "Ulti"
+                            ],
+                            [
+                                83,
+                                95,
+                                "Page One"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Right. Ehm\u2026 she used to add \"gonsu\"  at the end of her sentences. A bit before her debut she went like \"Pay Pay, oh me poor little thing-gonsuuuu\". Right now she seems to like using \"arinsu\".",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Chapter 978",
+                        "link_title": "/wiki/Chapter 978",
+                        "is_wikipedia": false,
+                        "start": 3,
+                        "end": 18
+                    },
+                    {
+                        "text": "Ulti",
+                        "link_title": "/wiki/Ulti",
+                        "is_wikipedia": false,
+                        "start": 25,
+                        "end": 33
+                    },
+                    {
+                        "text": "Page One",
+                        "link_title": "/wiki/Page One",
+                        "is_wikipedia": false,
+                        "start": 83,
+                        "end": 95
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "ulti",
+                        "page_one"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "speaking_trends"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Ulti used to end her sentences with 'gonsu' like 'Pay Pay, oh me poor little thing-gonsuuuu', but now she uses 'arinsu'."
+            }
+        ],
+        "page": "66",
+        "chapter_number": "988",
+        "page_header": "SBS98 2 Header.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 9,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "N/A",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Hey everyone, so I made a little blunder! I lost the postcard (or was it a letter?) a reader sent me\u2026 sorry\u2026 But it's fine, because I remember the contents. It was from a fellow called eeyan-kun, who asked me to take a look at his YouTube channel! It seems he does videos where he crafts OP figures! I thought I recognized one of the figures, and I realized it was because he previously submitted to the Usopp Pirates Gallery. It's pretty fun to think some readers have become YouTubers\u2026! So please go give \"eeyan\" a look. Good luck with the channel\u2026! Ah, I've heard they did a collab with Sanadacchi, but you're better off not watching that.\n\n[[File:SBS98 Mixed Baths.png|thumb|210px]]",
+                        "matches": [
+                            [
+                                644,
+                                686,
+                                "File:SBS98 Mixed Baths.png|thumb|210px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS98 Mixed Baths.png",
+                        "size": "210",
+                        "start": 644,
+                        "end": 686
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "usopp",
+                        "sanji"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "fan_theory",
+                        "usopp_pirates_gallery",
+                        "youtube_channel"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "Oda mentions losing a postcard or letter from a reader but remembers its contents mentioning a reader who crafts OP figures on YouTube."
+            },
+            {
+                "number": 10,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "So I was studying about old mixed baths and heard that back in the day, anytime young women would come in, the grannies would protect them because the perverted bastard Odacchi would be approaching. Sheesh, you perverted bastard, always getting into trouble! Anyways, just wanted to let you know I'm changing my residence to a bathhouse. \u2013 P.N. Sanadacchi",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Hey, hold up grannies! You're in the way! I can't get there if you block me! You're stopping me from seeing what I want to see!! This is infringing on my rights, I won't stand for it!! OUCH!! Wait hold on, stop it with the cock and ball torture!! OUCH!! STO\u2026 STOP\u2026!! STOP\u2026!! <big>CORRUPTING THE SBS...!! SANADAAAA!!</big> This rascal has appeared again!! Grannies, go cock and ball torture him!! OUCH!! No, not me!! Sanadaaaaa...!! Anyways, yeah. To anyone who has heard about this thinking it was because of perverts, even all the way back in ancient times, people still felt embarrassed about bathing together, so older women made sure the young ones were properly protected, or so goes this story about Japanese culture!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "moneky_d_luffy"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "silly",
+                        "funny"
+                    ],
+                    "topics": [
+                        "bathhouse_culture",
+                        "Japanese_culture"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "Oda playfully expresses frustration at being accused of perversion and explains the cultural significance of older women protecting younger ones in traditional Japanese mixed baths."
+            }
+        ],
+        "page": "82",
+        "chapter_number": "989",
+        "page_header": "SBS98 3 Header.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 11,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "The [[Marines]] have [[Admiral]]s, [[Vice Admiral]]s, Captains, etc., but while I think the Fleet Admiral is the one at the top, in what order are the others graded? \u2013 P.N.[H.U]",
+                        "matches": [
+                            [
+                                4,
+                                15,
+                                "Marines"
+                            ],
+                            [
+                                21,
+                                32,
+                                "Admiral"
+                            ],
+                            [
+                                35,
+                                51,
+                                "Vice Admiral"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Now that you mention, I don't think I've explained before how the Marines are structured. Please see here how they are graded~\n\n[[File:SBS98 Marine.png|thumb|400px]]\n\n*{{Nihongo|Fleet Admiral|\u5143\u5e25|Gensui}}: [[Sakazuki]] (Akainu)\n*{{Nihongo|Admiral|\u5927\u5c06|Taishou}}: [[Borsalino]] (Kizaru), [[Isshou]] (Fujitora), ([[Ryokugyu]])\n*{{Nihongo|Vice Admiral|\u4e2d\u5c06|Chuujou}}: [[Monkey D. Garp]], [[Tsuru]], [[John Giant]], [[Doberman]], [[Onigumo]], [[Momonga]], [[Yamakaji]], [[Strawberry]], [[Bastille]], [[Maynard]], [[Gion]] (Momousagi), [[Tokikake]] (Chaton), [[Smoker]], [[Comil]]\n*{{Nihongo|Rear Admiral|\u5c11\u5c06|Shoushou}}: [[Hina]], [[T-Bone]]\n*{{Nihongo|Commodore|\u51c6\u5c06|Junshou}}: [[Brannew]], [[Yarisugi]]\n*{{Nihongo|Captain|\u5927\u4f50|Taisa}}: [[Tashigi]], [[Koby]]\n*{{Nihongo|Commander|\u4e2d\u4f50|Chuusa}}\n*{{Nihongo|Lieutenant Commander|\u5c11\u4f50|Shousa}}: [[Helmeppo]], [[Fullbody]], [[Jango]]\n*{{Nihongo|Lieutenant|\u5927\u5c09|Taii}}\n*{{Nihongo|Lieutenant Junior Grade|\u4e2d\u5c09|Chuui}}\n*{{Nihongo|Ensign|\u5c11\u5c09|Shoui}}\n*{{Nihongo|Warrant Officer|\u51c6\u5c09|Juni}}\n*{{Nihongo|Master Chief Petty Officer|\u66f9\u9577|Souchou}}\n*{{Nihongo|Chief Petty Officer|\u8ecd\u66f9|Gunsou}}\n*{{Nihongo|Petty Officer|\u4f0d\u9577|Gochou}}\n*{{Nihongo|Seaman First Class|\u4e00\u7b49\u5175|Ittouhei}}\n*{{Nihongo|Seaman Apprentice|\u4e8c\u7b49\u5175|Nitouhei}}\n*{{Nihongo|Seaman Recruit|\u4e09\u7b49\u5175|Santouhei}}\n*{{Nihongo|Chore Boy|\u96d1\u7528|Zatsuyou}}\n\nEXTRA:\n[[Sengoku]]: Sengoku was formerly the Fleet Admiral and is now the \"Inspector General\".\n[[Kuzan]] (Aokiji): Former Admiral, rumor says Aokiji has been in contact with [[Marshall D. Teach|Blackbeard]].\n[[X Drake]]: (Former Rear Admiral)\n[[Donquixote Rosinante|Corazon]]: (Former Commander)",
+                        "matches": [
+                            [
+                                128,
+                                165,
+                                "File:SBS98 Marine.png|thumb|400px"
+                            ],
+                            [
+                                205,
+                                217,
+                                "Sakazuki"
+                            ],
+                            [
+                                260,
+                                273,
+                                "Borsalino"
+                            ],
+                            [
+                                284,
+                                294,
+                                "Isshou"
+                            ],
+                            [
+                                308,
+                                320,
+                                "Ryokugyu"
+                            ],
+                            [
+                                360,
+                                378,
+                                "Monkey D. Garp"
+                            ],
+                            [
+                                380,
+                                389,
+                                "Tsuru"
+                            ],
+                            [
+                                391,
+                                405,
+                                "John Giant"
+                            ],
+                            [
+                                407,
+                                419,
+                                "Doberman"
+                            ],
+                            [
+                                421,
+                                432,
+                                "Onigumo"
+                            ],
+                            [
+                                434,
+                                445,
+                                "Momonga"
+                            ],
+                            [
+                                447,
+                                459,
+                                "Yamakaji"
+                            ],
+                            [
+                                461,
+                                475,
+                                "Strawberry"
+                            ],
+                            [
+                                477,
+                                489,
+                                "Bastille"
+                            ],
+                            [
+                                491,
+                                502,
+                                "Maynard"
+                            ],
+                            [
+                                504,
+                                512,
+                                "Gion"
+                            ],
+                            [
+                                526,
+                                538,
+                                "Tokikake"
+                            ],
+                            [
+                                549,
+                                559,
+                                "Smoker"
+                            ],
+                            [
+                                561,
+                                570,
+                                "Comil"
+                            ],
+                            [
+                                610,
+                                618,
+                                "Hina"
+                            ],
+                            [
+                                620,
+                                630,
+                                "T-Bone"
+                            ],
+                            [
+                                666,
+                                677,
+                                "Brannew"
+                            ],
+                            [
+                                679,
+                                691,
+                                "Yarisugi"
+                            ],
+                            [
+                                723,
+                                734,
+                                "Tashigi"
+                            ],
+                            [
+                                736,
+                                744,
+                                "Koby"
+                            ],
+                            [
+                                823,
+                                835,
+                                "Helmeppo"
+                            ],
+                            [
+                                837,
+                                849,
+                                "Fullbody"
+                            ],
+                            [
+                                851,
+                                860,
+                                "Jango"
+                            ],
+                            [
+                                1310,
+                                1321,
+                                "Sengoku"
+                            ],
+                            [
+                                1398,
+                                1407,
+                                "Kuzan"
+                            ],
+                            [
+                                1477,
+                                1509,
+                                "Marshall D. Teach|Blackbeard"
+                            ],
+                            [
+                                1511,
+                                1522,
+                                "X Drake"
+                            ],
+                            [
+                                1546,
+                                1578,
+                                "Donquixote Rosinante|Corazon"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS98 Marine.png",
+                        "size": "400",
+                        "start": 128,
+                        "end": 165
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Blackbeard",
+                        "link_title": "/wiki/Marshall D. Teach",
+                        "is_wikipedia": false,
+                        "start": 1477,
+                        "end": 1509
+                    },
+                    {
+                        "text": "Corazon",
+                        "link_title": "/wiki/Donquixote Rosinante",
+                        "is_wikipedia": false,
+                        "start": 1546,
+                        "end": 1578
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Marines",
+                        "link_title": "/wiki/Marines",
+                        "is_wikipedia": false,
+                        "start": 4,
+                        "end": 15
+                    },
+                    {
+                        "text": "Admiral",
+                        "link_title": "/wiki/Admiral",
+                        "is_wikipedia": false,
+                        "start": 21,
+                        "end": 32
+                    },
+                    {
+                        "text": "Vice Admiral",
+                        "link_title": "/wiki/Vice Admiral",
+                        "is_wikipedia": false,
+                        "start": 35,
+                        "end": 51
+                    },
+                    {
+                        "text": "Sakazuki",
+                        "link_title": "/wiki/Sakazuki",
+                        "is_wikipedia": false,
+                        "start": 205,
+                        "end": 217
+                    },
+                    {
+                        "text": "Borsalino",
+                        "link_title": "/wiki/Borsalino",
+                        "is_wikipedia": false,
+                        "start": 260,
+                        "end": 273
+                    },
+                    {
+                        "text": "Isshou",
+                        "link_title": "/wiki/Isshou",
+                        "is_wikipedia": false,
+                        "start": 284,
+                        "end": 294
+                    },
+                    {
+                        "text": "Ryokugyu",
+                        "link_title": "/wiki/Ryokugyu",
+                        "is_wikipedia": false,
+                        "start": 308,
+                        "end": 320
+                    },
+                    {
+                        "text": "Monkey D. Garp",
+                        "link_title": "/wiki/Monkey D. Garp",
+                        "is_wikipedia": false,
+                        "start": 360,
+                        "end": 378
+                    },
+                    {
+                        "text": "Tsuru",
+                        "link_title": "/wiki/Tsuru",
+                        "is_wikipedia": false,
+                        "start": 380,
+                        "end": 389
+                    },
+                    {
+                        "text": "John Giant",
+                        "link_title": "/wiki/John Giant",
+                        "is_wikipedia": false,
+                        "start": 391,
+                        "end": 405
+                    },
+                    {
+                        "text": "Doberman",
+                        "link_title": "/wiki/Doberman",
+                        "is_wikipedia": false,
+                        "start": 407,
+                        "end": 419
+                    },
+                    {
+                        "text": "Onigumo",
+                        "link_title": "/wiki/Onigumo",
+                        "is_wikipedia": false,
+                        "start": 421,
+                        "end": 432
+                    },
+                    {
+                        "text": "Momonga",
+                        "link_title": "/wiki/Momonga",
+                        "is_wikipedia": false,
+                        "start": 434,
+                        "end": 445
+                    },
+                    {
+                        "text": "Yamakaji",
+                        "link_title": "/wiki/Yamakaji",
+                        "is_wikipedia": false,
+                        "start": 447,
+                        "end": 459
+                    },
+                    {
+                        "text": "Strawberry",
+                        "link_title": "/wiki/Strawberry",
+                        "is_wikipedia": false,
+                        "start": 461,
+                        "end": 475
+                    },
+                    {
+                        "text": "Bastille",
+                        "link_title": "/wiki/Bastille",
+                        "is_wikipedia": false,
+                        "start": 477,
+                        "end": 489
+                    },
+                    {
+                        "text": "Maynard",
+                        "link_title": "/wiki/Maynard",
+                        "is_wikipedia": false,
+                        "start": 491,
+                        "end": 502
+                    },
+                    {
+                        "text": "Gion",
+                        "link_title": "/wiki/Gion",
+                        "is_wikipedia": false,
+                        "start": 504,
+                        "end": 512
+                    },
+                    {
+                        "text": "Tokikake",
+                        "link_title": "/wiki/Tokikake",
+                        "is_wikipedia": false,
+                        "start": 526,
+                        "end": 538
+                    },
+                    {
+                        "text": "Smoker",
+                        "link_title": "/wiki/Smoker",
+                        "is_wikipedia": false,
+                        "start": 549,
+                        "end": 559
+                    },
+                    {
+                        "text": "Comil",
+                        "link_title": "/wiki/Comil",
+                        "is_wikipedia": false,
+                        "start": 561,
+                        "end": 570
+                    },
+                    {
+                        "text": "Hina",
+                        "link_title": "/wiki/Hina",
+                        "is_wikipedia": false,
+                        "start": 610,
+                        "end": 618
+                    },
+                    {
+                        "text": "T-Bone",
+                        "link_title": "/wiki/T-Bone",
+                        "is_wikipedia": false,
+                        "start": 620,
+                        "end": 630
+                    },
+                    {
+                        "text": "Brannew",
+                        "link_title": "/wiki/Brannew",
+                        "is_wikipedia": false,
+                        "start": 666,
+                        "end": 677
+                    },
+                    {
+                        "text": "Yarisugi",
+                        "link_title": "/wiki/Yarisugi",
+                        "is_wikipedia": false,
+                        "start": 679,
+                        "end": 691
+                    },
+                    {
+                        "text": "Tashigi",
+                        "link_title": "/wiki/Tashigi",
+                        "is_wikipedia": false,
+                        "start": 723,
+                        "end": 734
+                    },
+                    {
+                        "text": "Koby",
+                        "link_title": "/wiki/Koby",
+                        "is_wikipedia": false,
+                        "start": 736,
+                        "end": 744
+                    },
+                    {
+                        "text": "Helmeppo",
+                        "link_title": "/wiki/Helmeppo",
+                        "is_wikipedia": false,
+                        "start": 823,
+                        "end": 835
+                    },
+                    {
+                        "text": "Fullbody",
+                        "link_title": "/wiki/Fullbody",
+                        "is_wikipedia": false,
+                        "start": 837,
+                        "end": 849
+                    },
+                    {
+                        "text": "Jango",
+                        "link_title": "/wiki/Jango",
+                        "is_wikipedia": false,
+                        "start": 851,
+                        "end": 860
+                    },
+                    {
+                        "text": "Sengoku",
+                        "link_title": "/wiki/Sengoku",
+                        "is_wikipedia": false,
+                        "start": 1310,
+                        "end": 1321
+                    },
+                    {
+                        "text": "Kuzan",
+                        "link_title": "/wiki/Kuzan",
+                        "is_wikipedia": false,
+                        "start": 1398,
+                        "end": 1407
+                    },
+                    {
+                        "text": "X Drake",
+                        "link_title": "/wiki/X Drake",
+                        "is_wikipedia": false,
+                        "start": 1511,
+                        "end": 1522
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "sakazuki",
+                        "kizaru",
+                        "fujitora",
+                        "ryokugyu",
+                        "garp",
+                        "tsuru",
+                        "john_giant",
+                        "doberman",
+                        "onigumo",
+                        "momonga",
+                        "yamakaji",
+                        "strawberry",
+                        "bastille",
+                        "maynard",
+                        "gion",
+                        "tokikake",
+                        "smoker",
+                        "comil",
+                        "hina",
+                        "t-bone",
+                        "brannew",
+                        "yarisugi",
+                        "tashigi",
+                        "koby",
+                        "helmeppo",
+                        "fullbody",
+                        "jango",
+                        "sengoku",
+                        "aokiji",
+                        "x_drake",
+                        "corazon",
+                        "blackbeard"
+                    ],
+                    "places": [],
+                    "topics": [
+                        "marines_structure",
+                        "ranks",
+                        "fleet_admiral",
+                        "admiral",
+                        "vice_admiral",
+                        "rear_admiral",
+                        "commodore",
+                        "captain",
+                        "commander",
+                        "lieutenant_commander",
+                        "lieutenant",
+                        "devil_fruit"
+                    ],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "The Marines are structured with the Fleet Admiral at the top, followed by Admirals, Vice Admirals, Rear Admirals, Commodores, Captains, and further ranks as listed."
+            }
+        ],
+        "page": "100",
+        "chapter_number": "990",
+        "page_header": "SBS98 4 Header.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 12,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "All the officers of the [[Beasts Pirates]] are named after card games, right? \u2013 P.N. Akibee",
+                        "matches": [
+                            [
+                                24,
+                                42,
+                                "Beasts Pirates"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yep, indeed. The three All Stars are pretty obvious, but all of the [[Beasts Pirates#Tboiroppo|Flying Six]], the [[Numbers]], and the Headliners, only excluding Drake, [[Scratchmen Apoo|Apoo]], and [[Basil Hawkins|Hawkins]], are all named after card games, as well as the K ([[King]]), Q ([[Queen]]), J ([[Jack]]), and 1 to 10 cards.\n\nIf I were to list them all, I'd be filling this entire page. I hadn't even heard about some of these! I imagined there were many types of games out there, but there really are many ways to play with just playing cards alone. By the way, in [[Dressrosa]] [[Donquixote Doflamingo|Doflamingo]] being called \"Joker\" is a remnant of an initial idea where Doflamingo was going to fight as a powerful companion of Kaidou in the [[Wano Country]]. He's quite the tricky opponent, so I'm glad we got rid of him at Dressrosa!!\n\n[[File:SBS98 Tama.png|180px|thumb]]",
+                        "matches": [
+                            [
+                                68,
+                                107,
+                                "Beasts Pirates#Tboiroppo|Flying Six"
+                            ],
+                            [
+                                113,
+                                124,
+                                "Numbers"
+                            ],
+                            [
+                                168,
+                                192,
+                                "Scratchmen Apoo|Apoo"
+                            ],
+                            [
+                                198,
+                                223,
+                                "Basil Hawkins|Hawkins"
+                            ],
+                            [
+                                275,
+                                283,
+                                "King"
+                            ],
+                            [
+                                289,
+                                298,
+                                "Queen"
+                            ],
+                            [
+                                304,
+                                312,
+                                "Jack"
+                            ],
+                            [
+                                575,
+                                588,
+                                "Dressrosa"
+                            ],
+                            [
+                                589,
+                                625,
+                                "Donquixote Doflamingo|Doflamingo"
+                            ],
+                            [
+                                756,
+                                772,
+                                "Wano Country"
+                            ],
+                            [
+                                852,
+                                887,
+                                "File:SBS98 Tama.png|180px|thumb"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS98 Tama.png",
+                        "size": "180",
+                        "start": 852,
+                        "end": 887
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Flying Six",
+                        "link_title": "/wiki/Beasts Pirates#Tboiroppo",
+                        "is_wikipedia": false,
+                        "start": 68,
+                        "end": 107
+                    },
+                    {
+                        "text": "Apoo",
+                        "link_title": "/wiki/Scratchmen Apoo",
+                        "is_wikipedia": false,
+                        "start": 168,
+                        "end": 192
+                    },
+                    {
+                        "text": "Hawkins",
+                        "link_title": "/wiki/Basil Hawkins",
+                        "is_wikipedia": false,
+                        "start": 198,
+                        "end": 223
+                    },
+                    {
+                        "text": "Doflamingo",
+                        "link_title": "/wiki/Donquixote Doflamingo",
+                        "is_wikipedia": false,
+                        "start": 589,
+                        "end": 625
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Beasts Pirates",
+                        "link_title": "/wiki/Beasts Pirates",
+                        "is_wikipedia": false,
+                        "start": 24,
+                        "end": 42
+                    },
+                    {
+                        "text": "Numbers",
+                        "link_title": "/wiki/Numbers",
+                        "is_wikipedia": false,
+                        "start": 113,
+                        "end": 124
+                    },
+                    {
+                        "text": "King",
+                        "link_title": "/wiki/King",
+                        "is_wikipedia": false,
+                        "start": 275,
+                        "end": 283
+                    },
+                    {
+                        "text": "Queen",
+                        "link_title": "/wiki/Queen",
+                        "is_wikipedia": false,
+                        "start": 289,
+                        "end": 298
+                    },
+                    {
+                        "text": "Jack",
+                        "link_title": "/wiki/Jack",
+                        "is_wikipedia": false,
+                        "start": 304,
+                        "end": 312
+                    },
+                    {
+                        "text": "Dressrosa",
+                        "link_title": "/wiki/Dressrosa",
+                        "is_wikipedia": false,
+                        "start": 575,
+                        "end": 588
+                    },
+                    {
+                        "text": "Wano Country",
+                        "link_title": "/wiki/Wano Country",
+                        "is_wikipedia": false,
+                        "start": 756,
+                        "end": 772
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "kaidou",
+                        "scratchmen_apoo",
+                        "basil_hawkins",
+                        "donquixote_doflamingo"
+                    ],
+                    "places": [
+                        "dressrosa",
+                        "wano"
+                    ],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "beasts_pirates",
+                        "card_games",
+                        "doflamingo_joker_renaming",
+                        "wano_country"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "The Beasts Pirates' officers are named after card games, including Flying Six, Numbers, Headliners, and others, except for a few. Doflamingo being called 'Joker' was initially tied to a different storyline."
+            },
+            {
+                "number": 13,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello, member of the SBS Discipline Committee here. I believe that Sanadacchi's behavior is unacceptable. Anyways Odacchi, I wanna eat your kibi dango!! -P.N. Fan of Sanadacchi",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Aaah\u2026 you mean from my cheeks? My beard is not that well trimmed, so it might feel gross, so let's stop. By the way, have you considered changing your pen name?\n\n[[File:SBS98 Gifter and Pleasure.png|170px|thumb]]",
+                        "matches": [
+                            [
+                                162,
+                                212,
+                                "File:SBS98 Gifter and Pleasure.png|170px|thumb"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS98 Gifter and Pleasure.png",
+                        "size": "170",
+                        "start": 162,
+                        "end": 212
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "sanji",
+                        "oda"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "pen_name_change",
+                        "kibi_dango"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A fan of Sanadacchi wants to eat Oda's kibi dango; Oda jokes about his beard and suggests changing the pen name."
+            },
+            {
+                "number": 14,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei, I have a question. Those who ate [[SMILE]]s grow horns, right? Then why do Pleasures have one horn and Gifters two horns? \u2013 P.N. Hadokku 10",
+                        "matches": [
+                            [
+                                45,
+                                54,
+                                "SMILE"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "So you noticed that, huh. That's just fashion! It's not enforced, but Pleasures are allowed to sport one horn, while Gifters and above are allowed two, or so the rule goes.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "SMILE",
+                        "link_title": "/wiki/SMILE",
+                        "is_wikipedia": false,
+                        "start": 45,
+                        "end": 54
+                    }
+                ],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "SMILE_fruits",
+                        "differences_in_horns"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Pleasures and Gifters wearing horns is just a fashion choice, with Pleasures allowed one horn and Gifters and above allowed two as a rule."
+            }
+        ],
+        "page": "118",
+        "chapter_number": "991",
+        "page_header": "SBS98 5 Header.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 15,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Please draw the perv-coo- ehm, I mean, [[Sanji]] at ages 40 and 60 in the future please. I'm counting on you. \u2013 P.N. Gomu Nara no Mi",
+                        "matches": [
+                            [
+                                39,
+                                48,
+                                "Sanji"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Very well. I received many requests about this. Enjoy!\n\n[[File:SBS98 Sanji.png|center|400px]]\n\nTop row:\n* Age 40: Whether it's a woman or food, I'm not picky.\n* Age 60: I'm going to go fishing in the All Blue.\n\nBottom row (a future where something happened):\n* Age 40: As long as it fills my stomach, all food is the same.\n* Age 60: Drain the poison into the sea!!!\n\n[[File:SBS98 Izo, Kiku and Vista.png|210px|thumb]]",
+                        "matches": [
+                            [
+                                56,
+                                93,
+                                "File:SBS98 Sanji.png|center|400px"
+                            ],
+                            [
+                                367,
+                                417,
+                                "File:SBS98 Izo, Kiku and Vista.png|210px|thumb"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS98 Sanji.png",
+                        "size": "400",
+                        "start": 56,
+                        "end": 93
+                    },
+                    {
+                        "file": "SBS98 Izo, Kiku and Vista.png",
+                        "size": "210",
+                        "start": 367,
+                        "end": 417
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Sanji",
+                        "link_title": "/wiki/Sanji",
+                        "is_wikipedia": false,
+                        "start": 39,
+                        "end": 48
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "sanji",
+                        "izo",
+                        "kiku",
+                        "vista"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "ageing",
+                        "future",
+                        "food",
+                        "All_Blue",
+                        "poison",
+                        "fishing"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda draws Sanji at ages 40 and 60; Sanji remarks on his love for food and his plans in the future, including going fishing in the All Blue."
+            },
+            {
+                "number": 16,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchi!! I have a question!! In [[Chapter 962]], \"Daimyo and Vassals\", a young [[Izou]] can be seen wielding a katana, while [[Kikunojo|Kiku]] wields a gun, but currently it's the complete opposite! Is there any reasoning behind this? \u2013 P.N. Yuu-kun",
+                        "matches": [
+                            [
+                                33,
+                                48,
+                                "Chapter 962"
+                            ],
+                            [
+                                80,
+                                88,
+                                "Izou"
+                            ],
+                            [
+                                126,
+                                143,
+                                "Kikunojo|Kiku"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "The gun Kiku was holding was just her brother's gun, nothing more to it. I'm surprised you spotted that in such a small panel~. The two of them had a debauched father and were forced by depraved adults to entertain them ever since they were small, but even if they were poor, they were very close to each other. One of the tricks they used to entertain was sharpshooting, which Izou had 10/10 flawless precision in. However, he was never very confident with the sword. As time went by and he ended up on [[Edward Newgate|Whitebeard]]'s [[Moby Dick|ship]], when he showed off his shooting, \"Flower Blades [[Vista]]\" told him \"you should use that specialty of yours to protect others!!\". What good is a samurai obsessively sticking to a sword if he cannot protect their lord with it? Samurai is a way of life after all. So Izou abandoned the sword and picked up the gun.",
+                        "matches": [
+                            [
+                                504,
+                                533,
+                                "Edward Newgate|Whitebeard"
+                            ],
+                            [
+                                536,
+                                554,
+                                "Moby Dick|ship"
+                            ],
+                            [
+                                604,
+                                613,
+                                "Vista"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Kiku",
+                        "link_title": "/wiki/Kikunojo",
+                        "is_wikipedia": false,
+                        "start": 126,
+                        "end": 143
+                    },
+                    {
+                        "text": "Whitebeard",
+                        "link_title": "/wiki/Edward Newgate",
+                        "is_wikipedia": false,
+                        "start": 504,
+                        "end": 533
+                    },
+                    {
+                        "text": "ship",
+                        "link_title": "/wiki/Moby Dick",
+                        "is_wikipedia": false,
+                        "start": 536,
+                        "end": 554
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Chapter 962",
+                        "link_title": "/wiki/Chapter 962",
+                        "is_wikipedia": false,
+                        "start": 33,
+                        "end": 48
+                    },
+                    {
+                        "text": "Izou",
+                        "link_title": "/wiki/Izou",
+                        "is_wikipedia": false,
+                        "start": 80,
+                        "end": 88
+                    },
+                    {
+                        "text": "Vista",
+                        "link_title": "/wiki/Vista",
+                        "is_wikipedia": false,
+                        "start": 604,
+                        "end": 613
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "izou",
+                        "kikunojo",
+                        "vista",
+                        "edward_newgate"
+                    ],
+                    "places": [
+                        "moby_dick"
+                    ],
+                    "topics": [
+                        "samurai",
+                        "family",
+                        "weapon_preference",
+                        "past_experience"
+                    ],
+                    "emotions": [
+                        "surprised",
+                        "sympathetic"
+                    ],
+                    "importance": "hight",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Izou was skilled in sharpshooting but lacked confidence in swordsmanship, so he abandoned the sword and picked up the gun to protect others."
+            }
+        ],
+        "page": "156",
+        "chapter_number": "993",
+        "page_header": "SBS98 6 Header.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 17,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "If [[Roronoa Zoro|Zoro]], Nami, [[Usopp]], Sanji, and [[Franky]] were to become ability users, then what kind of fruit do you think they would have eaten? -P.N. 420-land",
+                        "matches": [
+                            [
+                                3,
+                                24,
+                                "Roronoa Zoro|Zoro"
+                            ],
+                            [
+                                32,
+                                41,
+                                "Usopp"
+                            ],
+                            [
+                                54,
+                                64,
+                                "Franky"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I see, that's quite a fun question~. Hmmm\u2026 what I would like to see is\u2026\n\n[[File:SBS98 Devil Fruit.png|thumb|center|400px]]\n\n*Zoro: [[Uo Uo no Mi, Model: Seiryu]] (Fish Fish Fruit, Mythical Type Model: Seiryuu), \"I'd want the sword to turn into a dragon rather than Zoro. I think that would be insanely cool.\"\n*Nami: [[Goro Goro no Mi]] (Rumble Rumble Fruit) (lightning human), \"A true weather lady, now no one can stop her anymore (apart from Luffy).\n*Usopp: [[Poke Poke no Mi]] (Pocket Pocket Fruit) (infinite pockets in one's body), \"The perfect pocket for someone like Usopp who always has something up his sleeve.\"\n*Sanji: [[Sui Sui no Mi]] (Swim Swim Fruit), \"It allows one to slip through walls or swim on the ground. If given to Sanji, it would become quite the nasty ability.\"\n*Franky: [[Buki Buki no Mi]] (Arms Arms Fruit), \"Can't get any better than this for an ability for Franky.\"\n\n[[File:SBS98 Banzaburo.png|150px|thumb]]",
+                        "matches": [
+                            [
+                                73,
+                                122,
+                                "File:SBS98 Devil Fruit.png|thumb|center|400px"
+                            ],
+                            [
+                                131,
+                                161,
+                                "Uo Uo no Mi, Model: Seiryu"
+                            ],
+                            [
+                                316,
+                                335,
+                                "Goro Goro no Mi"
+                            ],
+                            [
+                                459,
+                                478,
+                                "Poke Poke no Mi"
+                            ],
+                            [
+                                627,
+                                644,
+                                "Sui Sui no Mi"
+                            ],
+                            [
+                                794,
+                                813,
+                                "Buki Buki no Mi"
+                            ],
+                            [
+                                894,
+                                934,
+                                "File:SBS98 Banzaburo.png|150px|thumb"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS98 Devil Fruit.png",
+                        "size": "400",
+                        "start": 73,
+                        "end": 122
+                    },
+                    {
+                        "file": "SBS98 Banzaburo.png",
+                        "size": "150",
+                        "start": 894,
+                        "end": 934
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Zoro",
+                        "link_title": "/wiki/Roronoa Zoro",
+                        "is_wikipedia": false,
+                        "start": 3,
+                        "end": 24
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Usopp",
+                        "link_title": "/wiki/Usopp",
+                        "is_wikipedia": false,
+                        "start": 32,
+                        "end": 41
+                    },
+                    {
+                        "text": "Franky",
+                        "link_title": "/wiki/Franky",
+                        "is_wikipedia": false,
+                        "start": 54,
+                        "end": 64
+                    },
+                    {
+                        "text": "Uo Uo no Mi, Model: Seiryu",
+                        "link_title": "/wiki/Uo Uo no Mi, Model: Seiryu",
+                        "is_wikipedia": false,
+                        "start": 131,
+                        "end": 161
+                    },
+                    {
+                        "text": "Goro Goro no Mi",
+                        "link_title": "/wiki/Goro Goro no Mi",
+                        "is_wikipedia": false,
+                        "start": 316,
+                        "end": 335
+                    },
+                    {
+                        "text": "Poke Poke no Mi",
+                        "link_title": "/wiki/Poke Poke no Mi",
+                        "is_wikipedia": false,
+                        "start": 459,
+                        "end": 478
+                    },
+                    {
+                        "text": "Sui Sui no Mi",
+                        "link_title": "/wiki/Sui Sui no Mi",
+                        "is_wikipedia": false,
+                        "start": 627,
+                        "end": 644
+                    },
+                    {
+                        "text": "Buki Buki no Mi",
+                        "link_title": "/wiki/Buki Buki no Mi",
+                        "is_wikipedia": false,
+                        "start": 794,
+                        "end": 813
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "roronoa_zoro",
+                        "nami",
+                        "usopp",
+                        "sanji",
+                        "franky"
+                    ],
+                    "places": [],
+                    "topics": [
+                        "devil_fruit"
+                    ],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Zoro: Uo Uo no Mi, Model: Seiryu; Nami: Goro Goro no Mi; Usopp: Poke Poke no Mi; Sanji: Sui Sui no Mi; Franky: Buki Buki no Mi."
+            },
+            {
+                "number": 18,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "The vassal who taste tested [[Kozuki Momonosuke|Momonosuke]]'s food in [[Chapter 971]] and the vassal who reported [[Kozuki Oden|Oden]]'s foul deeds to [[Kozuki Sukiyaki|Sukiyaki]] in [[Chapter 960]] are the same person, right? It seems he has been supporting the [[Kozuki Family|Kozuki family]] for generations\u2026 When I had realized that, tears started flowing out. \u2013 P.N. Hikuma",
+                        "matches": [
+                            [
+                                28,
+                                60,
+                                "Kozuki Momonosuke|Momonosuke"
+                            ],
+                            [
+                                71,
+                                86,
+                                "Chapter 971"
+                            ],
+                            [
+                                115,
+                                135,
+                                "Kozuki Oden|Oden"
+                            ],
+                            [
+                                152,
+                                180,
+                                "Kozuki Sukiyaki|Sukiyaki"
+                            ],
+                            [
+                                184,
+                                199,
+                                "Chapter 960"
+                            ],
+                            [
+                                264,
+                                295,
+                                "Kozuki Family|Kozuki family"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Indeed. That's exactly the case. His name is \"[[Banzaburo]]\" (\u756a\u4e09\u90ce), he's a samurai that was picked by Sukiyaki in his youth and who is immensely grateful for that.",
+                        "matches": [
+                            [
+                                46,
+                                59,
+                                "Banzaburo"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Momonosuke",
+                        "link_title": "/wiki/Kozuki Momonosuke",
+                        "is_wikipedia": false,
+                        "start": 28,
+                        "end": 60
+                    },
+                    {
+                        "text": "Oden",
+                        "link_title": "/wiki/Kozuki Oden",
+                        "is_wikipedia": false,
+                        "start": 115,
+                        "end": 135
+                    },
+                    {
+                        "text": "Sukiyaki",
+                        "link_title": "/wiki/Kozuki Sukiyaki",
+                        "is_wikipedia": false,
+                        "start": 152,
+                        "end": 180
+                    },
+                    {
+                        "text": "Kozuki family",
+                        "link_title": "/wiki/Kozuki Family",
+                        "is_wikipedia": false,
+                        "start": 264,
+                        "end": 295
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Chapter 971",
+                        "link_title": "/wiki/Chapter 971",
+                        "is_wikipedia": false,
+                        "start": 71,
+                        "end": 86
+                    },
+                    {
+                        "text": "Chapter 960",
+                        "link_title": "/wiki/Chapter 960",
+                        "is_wikipedia": false,
+                        "start": 184,
+                        "end": 199
+                    },
+                    {
+                        "text": "Banzaburo",
+                        "link_title": "/wiki/Banzaburo",
+                        "is_wikipedia": false,
+                        "start": 46,
+                        "end": 59
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "momonosuke",
+                        "oden",
+                        "sukiyaki",
+                        "banzaburo"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "emotional"
+                    ],
+                    "topics": [
+                        "kozuki_family",
+                        "support",
+                        "loyalty",
+                        "samurai"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Banzaburo, the samurai who tasted Momonosuke's food and reported Oden's deeds, has been supporting the Kozuki family for generations."
+            },
+            {
+                "number": 19,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I want to ask you a question -> Leave or Life? \u2013 Pen name: Negibouzu",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "THAT'S SCARY!! Eh\u2026?! I don't wanna give up lifespan! I pick leave! I'm leaving! All right, that's all for the SBS! Until next time~!! ZWOOOMM",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "scared"
+                    ],
+                    "topics": [
+                        "life",
+                        "leave"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader asks 'Leave or Life?' and Oda chooses 'Leave' over 'Life' in a playful manner to end the Q&A session."
+            }
+        ],
+        "page": "174",
+        "chapter_number": "994",
+        "page_header": "SBS98 7 Header.png"
+    }
+]

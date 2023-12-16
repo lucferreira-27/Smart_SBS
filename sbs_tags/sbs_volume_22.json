@@ -1,0 +1,858 @@
+[
+    {
+        "qa": [
+            {
+                "number": 1,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Dokusha (Reader)\n*",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Oda",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader asks about the weapon that destroys the poneglyphs, Oda reveals it's Pluton, a ship"
+            },
+            {
+                "number": 2,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "When I bought some gyudon (beef bowl) for this weird guy with glasses laying out in the street, he gave me a weird wheel and a \"how to hypnotize\" paper. And so, since you've been having trouble starting the SBS lately, I'm going to hypnotize you so that you can do it just right this time. Okay, now, watch this wheel verrrry carefully. When I say one, two, Janko you will start the SBS no matter what. Here we go! One, two, Jankooooooooo!\n\n\"RAAAAAAAAAAH!! START THE SBS!!\"",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "YOU GOT HYPNOTIZED!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "happy",
+                        "funny"
+                    ],
+                    "topics": [],
+                    "importance": [
+                        "high"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader hypnotizes Oda to start the SBS using a wheel and a hypnosis paper, resulting in Oda starting the Q&A."
+            },
+            {
+                "number": 3,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "[[Eiichiro Oda|Oda]]-sensei!! I-!! Lu-lu-lu-lu-lu-lu-lu-!! LOVE [[One Piece (Manga)|One Piece]]! I go to the store every day!! And say, \"Is it here yet?\"!! ...AND!! Therefore!! Would you!! Mind!! Telling me!! The release!! Date for!! The next voluuuuuuuuuuuuuuuuuuuuume?!!!!?!\n-by Shironeko Pirate Crew-",
+                        "matches": [
+                            [
+                                0,
+                                20,
+                                "Eiichiro Oda|Oda"
+                            ],
+                            [
+                                64,
+                                95,
+                                "One Piece (Manga)|One Piece"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Huh?! But it's such a pain. Oh, fine. For the [[Wikipedia:Tank\u014dbon|tank\u014dbon]] people, I'll tell you the rule for which months are release months so you can mark it on your calendars. One Piece [[volumes]] come out in a repeating order that goes, \"2 months\", \"2 months\", then \"3 months\". So if you say, \"There haven't been any for 3 months!\" can you tell when the next two will come out?! Good.\n\nO-II: Oh yeah, I forgot. I noticed two mistakes of my own in Volume 21. So I'll correct them for you now. First of all, the answer to the Culprit Quiz right before Chapter 190. I forgot to include the answer. It's \"Crocus-san\". The other one is the title art for the SBS. I drew Crocus and Laboon for Volume 18, but then I drew them again. I was just under a spell of Crocus Fever in Volume 21. What's that? Am I reflecting on my mistakes? Sure sure, I am, don't worry. (*picking his nose*). Okay, let's continue the SBS.",
+                        "matches": [
+                            [
+                                46,
+                                77,
+                                "Wikipedia:Tank\u014dbon|tank\u014dbon"
+                            ],
+                            [
+                                193,
+                                204,
+                                "volumes"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Oda",
+                        "link_title": "/wiki/Eiichiro Oda",
+                        "is_wikipedia": false,
+                        "start": 0,
+                        "end": 20
+                    },
+                    {
+                        "text": "One Piece",
+                        "link_title": "/wiki/One Piece (Manga)",
+                        "is_wikipedia": false,
+                        "start": 64,
+                        "end": 95
+                    },
+                    {
+                        "text": "tank\u014dbon",
+                        "link_title": "/wiki/Wikipedia:Tank\u014dbon",
+                        "is_wikipedia": false,
+                        "start": 46,
+                        "end": 77
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "volumes",
+                        "link_title": "/wiki/volumes",
+                        "is_wikipedia": false,
+                        "start": 193,
+                        "end": 204
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "Eiichiro Oda",
+                        "Crocus-san",
+                        "Laboon"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "happy",
+                        "excited"
+                    ],
+                    "topics": [
+                        "one piece manga",
+                        "volume release",
+                        "mistakes",
+                        "culprit quiz"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda reveals the release pattern for One Piece volumes: 2 months, then 2 months, then 3 months. He also corrects two mistakes in Volume 21."
+            },
+            {
+                "number": 4,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei, I've been wondering about something. What country are [[Monkey D. Luffy|Luffy]] and the others from? In Social Studies class, we learned that a Japanese pirate is called a \"[[Wikipedia:Wokou|wakou]]\". Is that like a direct interpretation into Japanese? Or is this manga completely unique in that respect? Please tell me. -PN Kuroman-\n\n[[File:SBS22_1_Japanese_Pirate.png|thumb|Japanese Pirate (as I picture him)]]",
+                        "matches": [
+                            [
+                                66,
+                                91,
+                                "Monkey D. Luffy|Luffy"
+                            ],
+                            [
+                                185,
+                                210,
+                                "Wikipedia:Wokou|wakou"
+                            ],
+                            [
+                                347,
+                                424,
+                                "File:SBS22_1_Japanese_Pirate.png|thumb|Japanese Pirate (as I picture him)"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Hmmm. First of all, Luffy's crew is all \"No-Nationality Men\". You can't say what country they come from. Now about, \"wakou\". Yes. A long time ago, there were men in Japan called \"wakou\" who were basically \"pirates\". This \"Wakou\" would get into their boats and raid the Korean peninsula and Chinese mainland. Sometimes in your textbooks, it talks about \"expeditionary forces\" to Korea, but those were really pirates. They were there to loot and plunder and all that. Yeah, they were bad guys. There's also another famous group of people around the Seto Inland Sea called \"Murakami Suigun (Navy)\" who were basically pirates. They have been a big influence on Japan throughout history, though they don't get widespread recognition. A long time ago, I was researching the differences between \"wakou\" and \"suigun\", but there were \"suigun\" who were called \"wakou\", so I got the impression that there's no need to even draw a distinction. In short, Japan has had a lot of \"pirates\".",
+                        "matches": []
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS22_1_Japanese_Pirate.png",
+                        "size": null,
+                        "start": 347,
+                        "end": 424
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Luffy",
+                        "link_title": "/wiki/Monkey D. Luffy",
+                        "is_wikipedia": false,
+                        "start": 66,
+                        "end": 91
+                    },
+                    {
+                        "text": "wakou",
+                        "link_title": "/wiki/Wikipedia:Wokou",
+                        "is_wikipedia": false,
+                        "start": 185,
+                        "end": 210
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy"
+                    ],
+                    "places": [
+                        "japan",
+                        "korean_peninsula",
+                        "chinese_mainland",
+                        "seto_inland_sea"
+                    ],
+                    "topics": [
+                        "no_nationality_men",
+                        "wakou",
+                        "suigun",
+                        "pirates",
+                        "japanese_history"
+                    ],
+                    "emotions": [
+                        "informative",
+                        "neutral"
+                    ],
+                    "importance": [
+                        "high"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Luffy and his crew are 'No-Nationality Men'. Japan had 'pirates' called 'wakou' who raided Korean peninsula and Chinese mainland; 'suigun' were also pirates but not always distinguished from 'wakou'."
+            },
+            {
+                "number": 5,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "WHAT'S THE SPEED LIMIT ON THE\u00a0[[Bentham|OKAMA WAY]]?\n-By Mr. Two Bon Curry-",
+                        "matches": [
+                            [
+                                30,
+                                51,
+                                "Bentham|OKAMA WAY"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "If you go over 300 Mascaras per hour, you can expect to be Mascarrested. (I'm good, aren't I?).",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "OKAMA WAY",
+                        "link_title": "/wiki/Bentham",
+                        "is_wikipedia": false,
+                        "start": 30,
+                        "end": 51
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "mr_two_bon_curry"
+                    ],
+                    "places": [
+                        "okama_way"
+                    ],
+                    "topics": [
+                        "mascaras"
+                    ],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "importance": [
+                        "high"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Questioner asked about speed limit on Okama Way, Oda replied 'Mascarrested' if exceeding 300 Mascaras per hour."
+            },
+            {
+                "number": 6,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "THERE WAS A MYSTERIOUS VILLAGE ON THE OTHER SIDE OF THE TUNNEL.",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Okay, next question.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [
+                        "mysterious village"
+                    ],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader asks about a mysterious village near Brachio Tunnel, Oda briefly acknowledges it with no additional details."
+            },
+            {
+                "number": 7,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Wait, wait, wait. Bon Kurei! Yes, you. Listen, I don't like your travesty of the dance! You can't even do the most basic of basics, the port de bras! There are no hands shaped that way. And start off by tying your toe shoes correctly! You twist it around your ankle like this. Twist, see? And about 2&nbsp;cm higher. And for your \"Swan Arabesque\", you're not raising your leg!! You're much too green to pull off any At-ti-tude Turns. Go back and study one more time! And shave your leg hair while you're at it! -by 10 Years of Ballet Experience-",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Uhhh, I just called for him... Here he is.\n\n''Mr. 2: Stoooooooop joking aroooooooound!! 'roooooooound!! Shave?! My legs?! NOOOOOOO WAAAAYYYYYYYYYYY!!! If I shave my legs-!! I am nothing!!! Moi = Leg Hair, understand?! SO!! Are you shaving ME?! Would you shave MYSELF?!! And so what? 10 years of ballet...?! Well, aren't youuuuu special?! BUT!! I have had 20 years of Okama Kenpo!! Any problems?! If you do, then I'm gonna spin-?!! I'm spinning!! Spinning, spinning!! I am spinninnnnnng!!''",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "...There you have it. An idiot on stage.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "bon_kurei",
+                        "mr_2"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "angry",
+                        "funny",
+                        "silly"
+                    ],
+                    "topics": [
+                        "okama_kenpo",
+                        "ballet"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": true
+                },
+                "summary": "A ballet dancer criticizes Mr. 2's dance moves, leading to a heated exchange; Oda finds it ridiculous."
+            },
+            {
+                "number": 8,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello, Oda-sensei! I am called Enari-kun. Why does [[Nefertari Vivi|Vivi]] always pull on [[Usopp]]'s nose?",
+                        "matches": [
+                            [
+                                51,
+                                74,
+                                "Nefertari Vivi|Vivi"
+                            ],
+                            [
+                                90,
+                                99,
+                                "Usopp"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Hmmm. Uh... for example. Let's say there's a \"saucepan\" right here. Now, where would you hold the saucepan? ...See what I'm saying? You hold it on the long thin part that sticks out, right? And that's the, uhh... the mentality behind it. He's a very portable person. You know. Kind of a... one-size-fits-all type of deal.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Vivi",
+                        "link_title": "/wiki/Nefertari Vivi",
+                        "is_wikipedia": false,
+                        "start": 51,
+                        "end": 74
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Usopp",
+                        "link_title": "/wiki/Usopp",
+                        "is_wikipedia": false,
+                        "start": 90,
+                        "end": 99
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "nefertari_vivi",
+                        "usopp"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "relationship"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader asks why Vivi often pulls Usopp's nose, Oda explains it's for holding him like a saucepan's handle due to his portable nature."
+            },
+            {
+                "number": 9,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I found him!! \"Pah\"!! \"Ih\"!! \"I\"!! \"Fah\"!! \"Ruh\"!! \"Ah\"!! \"Hah\"!! \"Weh\"!! \"Duh\"!! ....ugh... (Translation) [[Pandaman]]!! It's Pandaman!! I found Pandaman running away!! (First panel on page 60, volume 20) Also, I have a question. W, where does Pandaman live?? Does Pandaman like traveling??",
+                        "matches": [
+                            [
+                                107,
+                                119,
+                                "Pandaman"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "That last one sounded really strained. Are you okay? So, Pandaman's residence. I've only heard the rumors. Some say he's a pretty big-shot kinda guy. On a certain island, that is. There's a reason why he's chased around, which is why he appears running in a lot of different places... I can't tell you too much, or they'll come to get me too... AAAH!! IT'S THEM!! (runs away).",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Pandaman",
+                        "link_title": "/wiki/Pandaman",
+                        "is_wikipedia": false,
+                        "start": 107,
+                        "end": 119
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "pandaman"
+                    ],
+                    "places": [
+                        "certain island"
+                    ],
+                    "topics": [
+                        "pandaman's backstory",
+                        "devil_fruit"
+                    ],
+                    "emotions": [
+                        "happy",
+                        "funny"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader finds Pandaman in One Piece vol.20; Oda says Pandaman lives on a rumored island, is a big-shot, and appears in different places due to being chased; Oda runs away fearing 'they' will come for him."
+            },
+            {
+                "number": 10,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello, Oda-sensei. I have a question. When [[Tony Tony Chopper|Chopper]] eats the [[Rumble Ball]], he can use seven different forms. Yet, he has more than seven. Why is that?",
+                        "matches": [
+                            [
+                                43,
+                                72,
+                                "Tony Tony Chopper|Chopper"
+                            ],
+                            [
+                                82,
+                                97,
+                                "Rumble Ball"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "That's incorrect. Look, there ARE seven. No more. \n[[Image:SBS Vol 22 1.png|thumb|280px|center|From left to right Beast Form: Walk, Horn, Guard. Human/Beast: Brain, Jumping,Arm. Human Form: Heavy]]\nThere are seven up there. His normal \"beast form\" is Walk Point. His \"human/beast form\" is Brain Point. And his \"human form\" is Heavy Point. So you see, the Rumble Ball is a pill that basically adds four new forms for him to use. Does it make more sense now?",
+                        "matches": [
+                            [
+                                51,
+                                197,
+                                "Image:SBS Vol 22 1.png|thumb|280px|center|From left to right Beast Form: Walk, Horn, Guard. Human/Beast: Brain, Jumping,Arm. Human Form: Heavy"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": ":SBS Vol 22 1.png",
+                        "size": "280",
+                        "start": 51,
+                        "end": 197
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Chopper",
+                        "link_title": "/wiki/Tony Tony Chopper",
+                        "is_wikipedia": false,
+                        "start": 43,
+                        "end": 72
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Rumble Ball",
+                        "link_title": "/wiki/Rumble Ball",
+                        "is_wikipedia": false,
+                        "start": 82,
+                        "end": 97
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "tony_tony_chopper"
+                    ],
+                    "topics": [
+                        "rumble_ball",
+                        "devil_fruit"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "importance": [
+                        "relevant"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda explains Chopper's Rumble Ball forms are seven: Walk, Horn, Guard, Brain, Jumping, Arm, Heavy Points; adding four new forms to his normal 'beast' and 'human/beast' forms."
+            },
+            {
+                "number": 11,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Ding-dong. \"Ah, Odacchi? I know this work must be tough, so today I brought 8th grade Megu-chan to help you with your manuscript! No no, it's okay!! (th grade Megu-chan has a \"5\" in art class, and she wants to be a manga artist, so... PLOP (ink spilling)........ Oops, sorry! I'll be leaving now!!\"\n\n-by (th grade Megu-chan-",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "WHAT ARE YOU DOING?!! HEY!!! GET BACK HERE!!!\n\n...WAIT... AT LEAST... USE SOME WHITE-OUT TO FIX IT... (WEAK).",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "megu_chan"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "frustrated"
+                    ],
+                    "topics": [
+                        "manga_artist",
+                        "manuscript",
+                        "art_class"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader jokingly brings an 8th grader to help with the manuscript, with Oda comically reacting to the ink spillage and suggesting using white-out."
+            },
+            {
+                "number": 12,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "If you look closely at the legendary Moving Crab in volume 19, you'll see that, in order to get it to run, Chopper seems to be pulling the sides of its mouth. Why is that? Please tell meeeee!!\n\n-by Moomin-",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "That's right. The hard-to-master skill of manipulating a Moving Crab is to fully expose his right gums when you want to go right, and fully expose his left gums when you want to go left. In professional jargon, these are known as \"right grin\" and \"left grin\". When you want to go slowly, you have to use the \"right half-grin\" and \"left half-grin\" (also known as \"right smirk\" and \"left smirk\"). Also, if someone on board happens to tell a really bad joke, the Moving Crab's face will start twitching and you will be unable to control its speed. So exercise caution.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "tony_tony_chopper"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "moving_crab",
+                        "devil_fruit"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "To move a Moving Crab, Chopper exposes its gums on the side he wants to go. Different grins control speed and direction, but jokes can make it uncontrollable. (Moomin)"
+            },
+            {
+                "number": 13,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "ODA EI-DONO. WHAT DOES THE \"RAN\" IN \"GAKURAN\" MEAN? (a gakuran is a kind of school uniform).",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "SHIRAN (I don't know). Huh?!... shiRAN? maybe... that \"ran\"... nah. Maybe... ra... ranou (egg yolk)... that... \"ran\"...oh!! Ranpaku (egg white)!! How's that?!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "amused",
+                        "confused"
+                    ],
+                    "topics": [
+                        "Oda's personal life",
+                        "etymology"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader asks the meaning of 'ran' in 'gakuran', Oda responds it might mean 'ranpaku' (egg white) playfully."
+            },
+            {
+                "number": 14,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Ah, a question for Oda-sensei. On the first panel of page 174, [[Volume 20]], the scene where [[Drophy|Miss Merry Christmas]] digs herself into the ground. It says \"Hyu...\", but the horizontal line is a fish. Is this another example of your playfulness, Oda-sensei? Please tell me x2.",
+                        "matches": [
+                            [
+                                63,
+                                76,
+                                "Volume 20"
+                            ],
+                            [
+                                94,
+                                125,
+                                "Drophy|Miss Merry Christmas"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Because it's the Mole Tempo \"Mogugyo\" (Gyo can mean fish in Japanese). Yeah. Well, why don't we try reading it aloud.\n\n(1) raise your eyebrows as far up as you possibly can.\n\n(2) look as straight up as possible without moving your face.\n\n(3) extend your lower jaw. Ready, set... \"HYU...\"\n\nDid you do it? Now show it to your friends and parents.\n\nYour legend of idiocy begins!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Miss Merry Christmas",
+                        "link_title": "/wiki/Drophy",
+                        "is_wikipedia": false,
+                        "start": 94,
+                        "end": 125
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Volume 20",
+                        "link_title": "/wiki/Volume 20",
+                        "is_wikipedia": false,
+                        "start": 63,
+                        "end": 76
+                    }
+                ],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "author's creativity"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda confirms the 'Hyu' sound with a fish symbol is due to the Mole Tempo's 'Gyo' sound, suggesting a reading demonstration to create a legend of idiocy."
+            },
+            {
+                "number": 15,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Why is it that when [[Nami]] and [[Nico Robin|Miss All Sunday]] wear miniskirts and move around a LOT, you never see inside their skirts (panties)? What color are their panties? Please tell me.",
+                        "matches": [
+                            [
+                                20,
+                                28,
+                                "Nami"
+                            ],
+                            [
+                                33,
+                                63,
+                                "Nico Robin|Miss All Sunday"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "That's a dirty old man question. And yet you ask it so plainly and honestly. Almost as if you don't understand you asked anything bad... You really should stop... Though it is possible to imagine... In [[Volume 14]], I'd say her bra looked pretty black... No, really, I should stop... I fear for my life.\n\n[[File:SBS22_3_Paper.png|thumb|left]]",
+                        "matches": [
+                            [
+                                202,
+                                215,
+                                "Volume 14"
+                            ],
+                            [
+                                306,
+                                343,
+                                "File:SBS22_3_Paper.png|thumb|left"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS22_3_Paper.png",
+                        "size": null,
+                        "start": 306,
+                        "end": 343
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Miss All Sunday",
+                        "link_title": "/wiki/Nico Robin",
+                        "is_wikipedia": false,
+                        "start": 33,
+                        "end": 63
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Nami",
+                        "link_title": "/wiki/Nami",
+                        "is_wikipedia": false,
+                        "start": 20,
+                        "end": 28
+                    },
+                    {
+                        "text": "Volume 14",
+                        "link_title": "/wiki/Volume 14",
+                        "is_wikipedia": false,
+                        "start": 202,
+                        "end": 215
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy",
+                        "nico_robin"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny",
+                        "amused"
+                    ],
+                    "topics": [
+                        "author's_note",
+                        "one_piece_manga",
+                        "fan_question"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda refuses to answer a reader's question about Nami and Robin's underwear color, finding it inappropriate and implying that Robin wore black bra in Volume 14."
+            },
+            {
+                "number": 16,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello, Oda-sensei. So, what about next week's SBS? \"Usopp Creates a Lie\", \"Luffy Gets a Marble Box\", \"Chopper's Nose Turns Red\". Come back next week! Jan - Ken - Pon! Ahahahaha. And so, the SBS is over!\n\n(by the President of the SBS-Ending Club, All-Bran Kiri).",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Dammit!! I thought you were gonna show scissors!!\n\nSo I tried to catch you on that...!! CURSES!! I was SO SURE you were gonna show scissors!! Okay, see you next time. Dammit...",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "usopp",
+                        "luffy",
+                        "chopper"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "happy",
+                        "funny"
+                    ],
+                    "topics": [
+                        "sbs",
+                        "manga",
+                        "one piece",
+                        "characters' actions"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda is upset because he thought the reader would show scissors to the paper-rock-scissors game, but they didn't, and the SBS ends with Oda's disappointment."
+            }
+        ],
+        "page": null,
+        "chapter_number": null,
+        "page_header": "SBS Vol 22 Header.png"
+    }
+]

@@ -1,0 +1,1190 @@
+[
+    {
+        "qa": [
+            {
+                "number": 1,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "My SBS starts now! Ah! I let my ambition show. P.N. Hanko",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "You call that ambition, it's already fulfilled! >_< It started.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "ambitious"
+                    ],
+                    "topics": [],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "D reveals that the SBS section begins, using a pen name 'Hanko,' and Oda comments on the ambition being fulfilled."
+            },
+            {
+                "number": 2,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "When does Whitebeard use the boomerang he's got under his nose? P.N. Chiichan\n[[File:Stefan_Manga_Infobox.png|thumb|Stefan.]]",
+                        "matches": [
+                            [
+                                78,
+                                125,
+                                "File:Stefan_Manga_Infobox.png|thumb|Stefan."
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Hmmm, well... Maybe when he's in the park with his dog...<br />\"So! Go and get it! Stefan!\" *runrunrun* \"Woof?\"<br />\"It's not a frisbee, so it's coming back! Gurarararara!\"<br />...or what!?",
+                        "matches": []
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "Stefan_Manga_Infobox.png",
+                        "size": null,
+                        "start": 78,
+                        "end": 125
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "whitebeard",
+                        "stefan"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Whitebeard's boomerang under his nose is just for comedic effect, not for actual use in battle."
+            },
+            {
+                "number": 3,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I have a question. Can you put bananas in Whitebeard's mustache? Is it a banana pocket? P.N. Samusamu",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "That's right... If you open the zipper on the back side, bananas will come out. If you line them up in single file, 3 fits on the right side and 3 on the left side, so 6 is the total capacity, I guess... \"Men! Time for battle! Have bananas! Gurararara!\" What do you guys think of Whitebeard, really?",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "whitebeard"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "whitebeard",
+                        "bananas",
+                        "funny"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Whitebeard's mustache can hold bananas, with a capacity of 6, according to Oda, who humorously imagines Whitebeard offering bananas to his crew."
+            },
+            {
+                "number": 4,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello, Oda-sensei! I have a question. Is Whitebeard, Edward Newgate, a Logia or a Paramecia? I personally think he's Logia, since he took Aokiji's attack without turning to ice, but...? P.N. NY",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I guess that's difficult. The answer is [[Paramecia]]. \"Gura Gura no Mi\" is considered as one of the most powerful paramecia fruits. It's easy to think that he's an \"Earthquake Human\" and must be [[Logia]], but if that was so, he'd have to become an earthquake himself. Whitebeard ''creates'' earthquakes, in other words he's a \"Tremor Human\". That means he's a Paramecia who isn't any weaker than the Logias.<br />",
+                        "matches": [
+                            [
+                                40,
+                                53,
+                                "Paramecia"
+                            ],
+                            [
+                                196,
+                                205,
+                                "Logia"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Paramecia",
+                        "link_title": "/wiki/Paramecia",
+                        "is_wikipedia": false,
+                        "start": 40,
+                        "end": 53
+                    },
+                    {
+                        "text": "Logia",
+                        "link_title": "/wiki/Logia",
+                        "is_wikipedia": false,
+                        "start": 196,
+                        "end": 205
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "edward_newgate"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "devil_fruit"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Whitebeard, Edward Newgate, is a Paramecia user, not Logia, as the Gura Gura no Mi fruit allows him to create earthquakes, making him a 'Tremor Human'."
+            }
+        ],
+        "page": "24",
+        "chapter_number": "563",
+        "page_header": "SBS58 Header 1.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 5,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "GRRR. P.N. Hosokawa",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Eh? Wasn't that the growl of a beast? It... it was, wasn't it? Wah.... Wah.... Waaaaaaaaaaaah! Right, let's go to the next one.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "surprised"
+                    ],
+                    "topics": [],
+                    "importance": [
+                        "low"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader growls and provides an initialism, but Oda humorously responds with a beastly impression and moves on."
+            },
+            {
+                "number": 6,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Even though I'm 28 years old, I think of One Piece every day, all the time, even at work. I want to ask a question - in the One Piece artbook, Robin's face is shown appearing on the back of Chopper's head, but when would she use that? I couldn't help laughing when I saw it. P.N. Tonytony Chappy [[File:SBS Vol 58 Chap 564 01.png|right|120px]]",
+                        "matches": [
+                            [
+                                296,
+                                343,
+                                "File:SBS Vol 58 Chap 564 01.png|right|120px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I see. Well, in the bonus corner of the color illustration collection, there are a few pages where I present some original setting notes, and that picture shows up there. Actually, that was for the scene in the \"Sky Island\" arc where Robin has to carry her unconscious crewmate. I was thinking that she'd put her face, arms and legs on them to move them smoothly, but that turned out so disturbing that I didn't go with it. If you like it, I might use it some other time~",
+                        "matches": []
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS Vol 58 Chap 564 01.png",
+                        "size": "120",
+                        "start": 296,
+                        "end": 343
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "nico_robin",
+                        "tonytony_chopper"
+                    ],
+                    "places": [
+                        "sky_island"
+                    ],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "character_setting",
+                        "artbook",
+                        "original_ideas"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Robin's face appearing on the back of Chopper's head in the One Piece artbook was originally conceived for the 'Sky Island' arc where Robin would carry her unconscious crewmate."
+            },
+            {
+                "number": 7,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei, hello! I've been wondering about this for a while now - why does Ace have freckles? My mother called him \"that freckle guy\". Isn't that horrible? P.N. Rihosuke",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Speaking of the freckles, my staff tell each other to be careful because there's a pretty good chance that I forget those. This is an acknowledged fact (I forget them about 92% of the time), but it doesn't matter. It probably doesn't matter to Ace either. See, there's an old saying that goes like this: \"Don't mind the freckles!\" Yup. Youngsters who don't recognize it should ask their mother or father.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "portgas_d_ace"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "freckles",
+                        "appearance"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda explains that he often forgets to draw Ace's freckles, but it doesn't matter as Ace probably doesn't mind, referencing an old saying 'Don't mind the freckles'."
+            }
+        ],
+        "page": "42",
+        "chapter_number": "564",
+        "page_header": "SBS58 Header 2.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 9,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odaaaaaaaaaaachi! This is your task! Tell me how old all of the Shichibukai aaaaaaaaaaaare! P.N. Jichael Mackson",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I get it. Age and height, right? I'm including Crocodile, so here are the 8 of them, in height order.\n\n[[Gecko Moria|Moria]]: 48 years old, 692cm<br />[[Bartholomew Kuma|Kuma]]: 45 years old, 689cm<br />[[Marshall D. Teach|Teach]]: 38 years old, 344cm<br />[[Donquixote Doflamingo|Doflamingo]]: 39 years old, 305cm<br />[[Jinbe]]: 44 years old, 301cm<br />[[Crocodile]]: 44 years old, 253cm<br />[[Dracule Mihawk|Mihawk]]: 41 years old, 198cm<br />[[Boa Hancock|Hancock]]: 29 years old, 191cm",
+                        "matches": [
+                            [
+                                103,
+                                124,
+                                "Gecko Moria|Moria"
+                            ],
+                            [
+                                151,
+                                176,
+                                "Bartholomew Kuma|Kuma"
+                            ],
+                            [
+                                203,
+                                230,
+                                "Marshall D. Teach|Teach"
+                            ],
+                            [
+                                257,
+                                293,
+                                "Donquixote Doflamingo|Doflamingo"
+                            ],
+                            [
+                                320,
+                                329,
+                                "Jinbe"
+                            ],
+                            [
+                                356,
+                                369,
+                                "Crocodile"
+                            ],
+                            [
+                                396,
+                                421,
+                                "Dracule Mihawk|Mihawk"
+                            ],
+                            [
+                                448,
+                                471,
+                                "Boa Hancock|Hancock"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Moria",
+                        "link_title": "/wiki/Gecko Moria",
+                        "is_wikipedia": false,
+                        "start": 103,
+                        "end": 124
+                    },
+                    {
+                        "text": "Kuma",
+                        "link_title": "/wiki/Bartholomew Kuma",
+                        "is_wikipedia": false,
+                        "start": 151,
+                        "end": 176
+                    },
+                    {
+                        "text": "Teach",
+                        "link_title": "/wiki/Marshall D. Teach",
+                        "is_wikipedia": false,
+                        "start": 203,
+                        "end": 230
+                    },
+                    {
+                        "text": "Doflamingo",
+                        "link_title": "/wiki/Donquixote Doflamingo",
+                        "is_wikipedia": false,
+                        "start": 257,
+                        "end": 293
+                    },
+                    {
+                        "text": "Mihawk",
+                        "link_title": "/wiki/Dracule Mihawk",
+                        "is_wikipedia": false,
+                        "start": 396,
+                        "end": 421
+                    },
+                    {
+                        "text": "Hancock",
+                        "link_title": "/wiki/Boa Hancock",
+                        "is_wikipedia": false,
+                        "start": 448,
+                        "end": 471
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Jinbe",
+                        "link_title": "/wiki/Jinbe",
+                        "is_wikipedia": false,
+                        "start": 320,
+                        "end": 329
+                    },
+                    {
+                        "text": "Crocodile",
+                        "link_title": "/wiki/Crocodile",
+                        "is_wikipedia": false,
+                        "start": 356,
+                        "end": 369
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "gecko_moria",
+                        "bartholomew_kuma",
+                        "marshall_d_teach",
+                        "donquixote_doflamingo",
+                        "jinbe",
+                        "crocodile",
+                        "dracule_mihawk",
+                        "boa_hancock"
+                    ],
+                    "places": [],
+                    "topics": [
+                        "shichibukai",
+                        "age",
+                        "height"
+                    ],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda provides the ages and heights of the Shichibukai, starting with Gecko Moria at 48 years old and 692cm, and ending with Hancock at 29 years old and 191cm."
+            },
+            {
+                "number": 11,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I have a question for Odacchi! If you look at the Shichibukai on page 172-173 of volume 56, it seems they are all very tall. So please tell me how tall all of the Shichibukai are! P.N. Keita",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Right. I presented these two together. You perverted monsters! P.N. Erogappa-kun in particular adds a message that he always enjoys my work together with his whole family. To his father and mother: Your son sent me a postcard like this! He's a pervert! ...anyway, I asked Sanji, and here I present the Snake Princess' Three Sizes! Bust: 111! Waist: 61! Hip: 91! Mmm~marvelous! \u2665\u2665<br />And as for the cup size, Erogappa said he hoped it was J-cup, so it's J-cup! \u2665<br />I'm sorry, parents!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "sanji"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny",
+                        "perverted"
+                    ],
+                    "topics": [
+                        "manga",
+                        "erogappa",
+                        "sanji",
+                        "snake_princess",
+                        "shichibukai"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda responds by teasing the question, then provides the measurements for Snake Princess, including the cup size, and apologizes to the parents for the content."
+            }
+        ],
+        "page": "100",
+        "chapter_number": "567",
+        "page_header": "SBS58 Header 3.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 12,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei~! There's a person who promised to marry me if this was published in SBS, so please publish it. \u2665 Odacchi, please make me happy \u2665\u2665 P.N. Michibatake Shou--",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Of course. I've published it. To her boy: Keep your promises!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "happy"
+                    ],
+                    "topics": [
+                        "marriage promise"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda fulfills a reader's request to publish their message for a marriage promise and advises the recipient to keep their promise."
+            },
+            {
+                "number": 13,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "No pleasantries, but I have a question. In volume 57, chapter 556, behind Tsuru-san, there are several pirates being hung out to dry like laundry. Who hung them out to dry? Tsuru-san? I'm also curious about why. Please explain in the accent of the recently very active 3-niisan ga ne! P.N. Papa-chan of two children",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "They're definitely being hung out to dry ga ne~! There is no question that this is the work of Tsuru, Marine Vice Admiral ga ne~! She has eaten the \"Wash Wash fruit\"! She's a \"Laundry Human\" ga ne! She can wash anything, and villains who have been dried get their hearts a little bit cleaner as well - they say that their evil hearts become fainter - so that's a dangerous ability against pirates ga ne! Be careful ga ne~!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "tsuru"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "humorous"
+                    ],
+                    "topics": [
+                        "devil_fruit",
+                        "marines",
+                        "tsuru",
+                        "washing"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Tsuru, a Marine Vice Admiral, uses her 'Wash Wash fruit' powers to hang out pirates like laundry, making their evil hearts fainter."
+            },
+            {
+                "number": 14,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello for the first time, Odacchi! I have a question that is 10% serious. There are people who gets published in the Usopp Gallery Pirates over and over again, aren't there? So does that mean that you're not actually choosing these pictures?? Or are you not choosing them carefully? It's extremely suspicious! Answer with exactly three lines! P.N. Sweet Strawberry\n[[File:SBS Vol 58 Chap 568 02.png|right|120px]]",
+                        "matches": [
+                            [
+                                365,
+                                412,
+                                "File:SBS Vol 58 Chap 568 02.png|right|120px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I do choose them carefully! ....oh, that didn't even take a single line. I'll explain properly. For every volume, me, Yokoyama-san who is in charge of the tankoubons, and chairman Usopp have a meeting between the three of us where we think it over and choose which pictures to publish. I think of these pages as being created by me together with the artists who entertain the readers. Having a picture published isn't the goal - I want your published pictures to entertain the readers. Art should be born to entertain.<br />That's why I'll publish someone over and over if they're good. On the other hand, I won't give anyone the prize twice. It's always fun to choose pictures.",
+                        "matches": []
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS Vol 58 Chap 568 02.png",
+                        "size": "120",
+                        "start": 365,
+                        "end": 412
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "usopp"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "suspicious",
+                        "happy"
+                    ],
+                    "topics": [
+                        "usopp_gallery_pirates",
+                        "manga_publication_process",
+                        "artist_collaboration",
+                        "art_entertainment"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda carefully selects Usopp Gallery Pirates entries with Yokoyama-san and chairman Usopp; he values entertaining the readers and seeks art born for entertainment, even repeating artists if they're good."
+            }
+        ],
+        "page": "116",
+        "chapter_number": "568",
+        "page_header": "SBS58 Header 4.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 15,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei, hi~! I really want to know this, so could you please tell me the names and squad numbers of all of Whitebeard's divison commanders? P.N. Semaru",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Right. There were a lot of questions about things within the war this time! But remember, I'm only answering this because I was asked, and there's no need to remember anything that I supplement in an SBS. The information that I don't include in the main series are the parts that I decided would just confuse readers, so please just enjoy the SBS as a bonus. Anyway, here are the divison commanders of the Whitebeard Pirates.\n\nWhitebeard Pirates Captain - [[Edward Newgate]]<br />1st Division Commander - [[Marco]]<br />2nd Division Commander - [[Portgas D. Ace|Ace]]<br />3rd Division Commander - [[Jozu]]<br />4th Division Commander - [[Thatch]]<br />5th Division Commander - [[Vista]]<br />6th Division Commander - [[Blamenco]]<br />7th Division Commander - [[Rakuyo]]<br />8th Division Commander - [[Namur]]<br />9th Division Commander - [[Blenheim]]<br />10th Division Commander - [[Curiel]]<br />11th Division Commander - [[Kingdew]]<br />12th Division Commander - [[Haruta]]<br />13th Division Commander - [[Atmos]]<br />14th Division Commander - [[Speed Jiru]]<br />15th Division Commander - [[Fossa]]<br />16th Division Commander - [[Izo]]",
+                        "matches": [
+                            [
+                                456,
+                                474,
+                                "Edward Newgate"
+                            ],
+                            [
+                                505,
+                                514,
+                                "Marco"
+                            ],
+                            [
+                                545,
+                                567,
+                                "Portgas D. Ace|Ace"
+                            ],
+                            [
+                                598,
+                                606,
+                                "Jozu"
+                            ],
+                            [
+                                637,
+                                647,
+                                "Thatch"
+                            ],
+                            [
+                                678,
+                                687,
+                                "Vista"
+                            ],
+                            [
+                                718,
+                                730,
+                                "Blamenco"
+                            ],
+                            [
+                                761,
+                                771,
+                                "Rakuyo"
+                            ],
+                            [
+                                802,
+                                811,
+                                "Namur"
+                            ],
+                            [
+                                842,
+                                854,
+                                "Blenheim"
+                            ],
+                            [
+                                886,
+                                896,
+                                "Curiel"
+                            ],
+                            [
+                                928,
+                                939,
+                                "Kingdew"
+                            ],
+                            [
+                                971,
+                                981,
+                                "Haruta"
+                            ],
+                            [
+                                1013,
+                                1022,
+                                "Atmos"
+                            ],
+                            [
+                                1054,
+                                1068,
+                                "Speed Jiru"
+                            ],
+                            [
+                                1100,
+                                1109,
+                                "Fossa"
+                            ],
+                            [
+                                1141,
+                                1148,
+                                "Izo"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Ace",
+                        "link_title": "/wiki/Portgas D. Ace",
+                        "is_wikipedia": false,
+                        "start": 545,
+                        "end": 567
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Edward Newgate",
+                        "link_title": "/wiki/Edward Newgate",
+                        "is_wikipedia": false,
+                        "start": 456,
+                        "end": 474
+                    },
+                    {
+                        "text": "Marco",
+                        "link_title": "/wiki/Marco",
+                        "is_wikipedia": false,
+                        "start": 505,
+                        "end": 514
+                    },
+                    {
+                        "text": "Jozu",
+                        "link_title": "/wiki/Jozu",
+                        "is_wikipedia": false,
+                        "start": 598,
+                        "end": 606
+                    },
+                    {
+                        "text": "Thatch",
+                        "link_title": "/wiki/Thatch",
+                        "is_wikipedia": false,
+                        "start": 637,
+                        "end": 647
+                    },
+                    {
+                        "text": "Vista",
+                        "link_title": "/wiki/Vista",
+                        "is_wikipedia": false,
+                        "start": 678,
+                        "end": 687
+                    },
+                    {
+                        "text": "Blamenco",
+                        "link_title": "/wiki/Blamenco",
+                        "is_wikipedia": false,
+                        "start": 718,
+                        "end": 730
+                    },
+                    {
+                        "text": "Rakuyo",
+                        "link_title": "/wiki/Rakuyo",
+                        "is_wikipedia": false,
+                        "start": 761,
+                        "end": 771
+                    },
+                    {
+                        "text": "Namur",
+                        "link_title": "/wiki/Namur",
+                        "is_wikipedia": false,
+                        "start": 802,
+                        "end": 811
+                    },
+                    {
+                        "text": "Blenheim",
+                        "link_title": "/wiki/Blenheim",
+                        "is_wikipedia": false,
+                        "start": 842,
+                        "end": 854
+                    },
+                    {
+                        "text": "Curiel",
+                        "link_title": "/wiki/Curiel",
+                        "is_wikipedia": false,
+                        "start": 886,
+                        "end": 896
+                    },
+                    {
+                        "text": "Kingdew",
+                        "link_title": "/wiki/Kingdew",
+                        "is_wikipedia": false,
+                        "start": 928,
+                        "end": 939
+                    },
+                    {
+                        "text": "Haruta",
+                        "link_title": "/wiki/Haruta",
+                        "is_wikipedia": false,
+                        "start": 971,
+                        "end": 981
+                    },
+                    {
+                        "text": "Atmos",
+                        "link_title": "/wiki/Atmos",
+                        "is_wikipedia": false,
+                        "start": 1013,
+                        "end": 1022
+                    },
+                    {
+                        "text": "Speed Jiru",
+                        "link_title": "/wiki/Speed Jiru",
+                        "is_wikipedia": false,
+                        "start": 1054,
+                        "end": 1068
+                    },
+                    {
+                        "text": "Fossa",
+                        "link_title": "/wiki/Fossa",
+                        "is_wikipedia": false,
+                        "start": 1100,
+                        "end": 1109
+                    },
+                    {
+                        "text": "Izo",
+                        "link_title": "/wiki/Izo",
+                        "is_wikipedia": false,
+                        "start": 1141,
+                        "end": 1148
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "Edward_Newgate",
+                        "Marco",
+                        "Portgas_D_Ace",
+                        "Jozu",
+                        "Thatch",
+                        "Vista",
+                        "Blamenco",
+                        "Rakuyo",
+                        "Namur",
+                        "Blenheim",
+                        "Curiel",
+                        "Kingdew",
+                        "Haruta",
+                        "Atmos",
+                        "Speed_Jiru",
+                        "Fossa",
+                        "Izo"
+                    ],
+                    "places": [],
+                    "topics": [
+                        "Whitebeard_Pirates",
+                        "Division_Commanders",
+                        "SBS"
+                    ],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda lists the names and squad numbers of Whitebeard's division commanders, reminding readers that SBS answers are supplementary and non-essential to the main series."
+            }
+        ],
+        "page": "132",
+        "chapter_number": "569",
+        "page_header": "SBS58 Header 5.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 16,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I've recently started to emit \"haki\". My friends are falling over one by one. What should I do? P.N. Nenga Otoko (\"New Year Boy\")",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I see. That's pretty fantastic~ If it's the Haki of Kings, you'll have to learn to control it, or I feel sorry for the friends around you. There's another possibility - it's not impossible that your body is so smelly that your friends are falling over. In that case, take a bath.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "haki",
+                        "friendship",
+                        "personal_hygiene"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda suggests that the reader's friends may not be falling over due to 'Haki of Kings,' but rather because of body odor, and advises taking a bath."
+            },
+            {
+                "number": 17,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "There's something I want to ask you, so I brought a ballpen. Is it just me, or isn't Emporio Ivankov a lot like Doctor Frank-n-Furter in \"Rocky Horror Show\"? P.N. I love Yuu-kun \u2665 Takashi\n[[File:SBS Vol 58 Chap 570 03.png|right|120px]]",
+                        "matches": [
+                            [
+                                188,
+                                235,
+                                "File:SBS Vol 58 Chap 570 03.png|right|120px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes, that's right. \"Rocky Horror Show\" is a movie that everyone who knows B-Horror knows about, and I can't help but love it - it's the model for the entire Kama-land. Or that's what it looks like, but there's actually one more model for Ivankov. A real okama who made me want to write more okama characters after I had created Bon-chan! I first met him in the theater where Luffy's seiyuu Tanaka Mayumi works, and - wow, ''powerful''! His name is \"Imamura Norio\"-san, but I thought his face looked so much like a rock, so I mistakenly remembered it as \"Iwamura\" (iwa = rock), and then I started calling him \"Iva-san\". What surprised me even more was that Imamura-san, who knew he was the model for Iva-san, went to the seiyuu audition for the anime and brilliantly scored his part. In other words, the real okama who inspired the creation of Iva-san, Imamura Norio-san, is right now playing the part of Iva-san in the TV anime. He's ''powerful''!",
+                        "matches": []
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS Vol 58 Chap 570 03.png",
+                        "size": "120",
+                        "start": 188,
+                        "end": 235
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "emporio_ivankov",
+                        "bon-chan",
+                        "luffy",
+                        "tanaka_mayumi",
+                        "imamura_norio"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "happy",
+                        "funny"
+                    ],
+                    "topics": [
+                        "inspiration",
+                        "okama characters",
+                        "tv anime"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Ivankov is inspired by 'Rocky Horror Show' and a real okama actor, Imamura Norio-san, who plays Iva-san in the TV anime."
+            }
+        ],
+        "page": "148",
+        "chapter_number": "570",
+        "page_header": "SBS58 Header 6.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 18,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I went to study medicine, because I admire Chopper. Eh? What? You don't believe me? It... it's true. I admire Chopper who takes care of his friends in a professional way, it-it's really not because I want to have a look at Nami's body, really! P.N. Shimizu Chagero",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "P.N. Shimizu Chagero! It's you! When were you released from prison? Um! Excuse me, officer! Could you please arrest this kid? He's a pervert who always upsets the moral discipline of SBS! (See volume 55) If a someone like him became a doctor, there would be all sorts of horribly perverted incidents! ...eh? What? I'm not like that! Huh? ....why can't I be naked under my coat!? >_<",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "tony_tony_chopper",
+                        "nami",
+                        "shimizu_chagero",
+                        "eiichiro_oda"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "embarrassed",
+                        "frustrated",
+                        "funny"
+                    ],
+                    "topics": [
+                        "medicine",
+                        "perverted behavior",
+                        "SBS"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "A reader claims to study medicine because of admiration for Chopper, but Oda jokingly accuses them of being a pervert."
+            },
+            {
+                "number": 19,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello for the first time, Oda-sensei. I've read all the previous 57 volumes, and I was thinking, I don't quite understand how \"Phoenix Marco\"'s Zoan fruit of the \"legendary beast\" kind is different from Ace's \"Meramera\" fruit. P.N. CNY",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yeah, I know... I've omitted the explanation from this war arc, because I focused on the pacing and wanted to move the story forward. To explain Marco's ability just a little bit: he's Zoan, so he does have a body. But since he's got \"the blue fire of revival\" - the Phoenix's ability - wounds will regenerate, so attacks will not damage him (though there's a limit to the regeneration). In other words, the flames are for regeneration. These blue flames don't have the characteristics of actual fire - they don't spread and burn things, and they aren't hot. They're completely different from Ace's flames. I might touch on this in the main story at some point, so I'll leave it at this for now.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "phoenix_marco",
+                        "portgas_d_ace"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "devil_fruit",
+                        "character_ability"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Marco's Zoan fruit allows regeneration through blue flames, different from Ace's 'Meramera' fruit, which produces actual fire."
+            },
+            {
+                "number": 20,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei, you often seem to say some rather... perverted? things (I'm sorry ^^;). Don't your wife have anything to say about it? If not, she must be the perfect mangaka wife. I'm touched. Really. P.N. 12-year-old girl",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "It's okay, because I say even weirder things at home!<br />Alright, my SBS ends here!",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "H.D.K.!! (Hey, Domo, Konnichiwa) Number...what was it? umm, sixth! the sixth voice actor SBS!! Let it start-! This time we have a \"you're doing all the real cute japanese mascots' voices?!\" kind of person who is super good at acting flashily plus is actually small and cute herself! Our beloved doctor CHOPPER'S VOICE'S OWNER! the shorty IKUE OOTANI in the house!",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Kay' guys ya ready?? lets have her introduce herself-! its Miss Ootani!\n\nI (Ikue Otani): yo",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "THAT WAS SHORT!! that surprised me!!\n\nI: Hey Odacchi, isn't there no \"short\" in introducing yourselves?",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "You're very right. sorry. I feel bad.\n\nI: YOU SHOULD!!",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Well anyway, this is a corner called SBS. what does it stand for?\n\nI: I know~ (S) Saishyo wa guu (B) Bikuri Jankenn (S) Sore wa naani? (first is rock, surprising rockpaperscissors, what is that?)",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I WANNA KNOW! *shock* you don't know, huh? then... here's a hint. We.. TAKE IN..QUESTIONS... you know? (question= <u>S</u>hitsumon, take in = <u>B</u>oshuu)\n\nI: Oh! I see, I got it! (S) Sugoiyo (B) Bikkuri (S) Sakura no ki (woahh, shock!, cherry blossom tree)",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I'M THE ONE WHO'S SHOCKED!!...I...I don't care anymore...",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy",
+                        "ikue_otani"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "SBS_corner",
+                        "voice_actor",
+                        "japanese_culture"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "Oda and Ikue Otani have a playful banter about a voice actor, ending the SBS session. Oda says he says weirder things at home and introduces the 'SBS' meaning."
+            },
+            {
+                "number": 35,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Miss Ootani, do you voice the huge Chopper as well? P.N. Karen-\n\nI: YES, I DO. Although I don't do the Chopper who has gone berserk, I do all other \"Choppers\".",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Miss Ootani, it's about time-! Good job.....huh? Hey, did your voice change?? Hmm? You gave your voice to P.N. ToNAKAI?! Uhhh- this is a problem...!! Ah, then ToNAKAI person..., from next week, can you be voice actor for Chopper?! Aright, OK!!(OK?!) The voice actor SBS! ON NEXT VOLUME~!! Miss Ootani doesn't have a job now~!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "tonakai",
+                        "chopper"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "humorous"
+                    ],
+                    "topics": [
+                        "voice_actors",
+                        "SBS"
+                    ],
+                    "importance": [
+                        "high"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "I don't voice the berserk Chopper, but I voice all other versions. Oda jokes about changing the voice actor for Chopper in the next volume."
+            }
+        ],
+        "page": "166",
+        "chapter_number": "571",
+        "page_header": "SBS58 Header 7.png"
+    }
+]

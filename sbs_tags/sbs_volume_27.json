@@ -1,0 +1,562 @@
+[
+    {
+        "qa": [
+            {
+                "number": 1,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei! It's bad! It's horrible! SBS is starting! ......Ah! ......Aaaaah! It's already started---. SBS started *cries*. \n\n-By Rose Triangle",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Don't cry. Seriously. It's time for\u00a0SBS anyway.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "sad"
+                    ],
+                    "topics": [],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader starts the SBS session in a panic, and Oda reassures them that it's time for SBS."
+            },
+            {
+                "number": 2,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Nice to meet you. Odacchi, I found out something amazing! MARIMO BALLS (Aegagropila) GROW 10 CM IN A YEAR!! (by A**hi Newspaper) , It reaches the\u00a030 cm maximum in three years. They apparently grow better the more sunlight they have, so Zoro's head would grow really big, since he sleeps on the deck...\n\n[[File:ZoroMarimo.png|thumb|Zoro as marimo; Zoro: Eh?! Hey]]",
+                        "matches": [
+                            [
+                                303,
+                                363,
+                                "File:ZoroMarimo.png|thumb|Zoro as marimo; Zoro: Eh?! Hey"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "What~ really~?! That's horrible! 10 cm in a year?! Then it's... 1 meter in 10 years?! Ah... that's kinda cool... really now... Marimo balls grow that big... I'm looking forward to 10 years later... Ah, wait! That's a person.",
+                        "matches": []
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "ZoroMarimo.png",
+                        "size": null,
+                        "start": 303,
+                        "end": 363
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "roronoa_zoro"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "surprised",
+                        "funny"
+                    ],
+                    "topics": [
+                        "marimo_balls",
+                        "growth",
+                        "zoro's_head"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "Oda expresses surprise at the growth rate of marimo balls and jokes about Zoro's head growing big if he sleeps on the deck, before realizing the mistake."
+            },
+            {
+                "number": 3,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I want to say this to Sanji! Why do you use\u00a0\"san\" for\u00a0Nami, who's younger, and\u00a0\"chan\" for Nico Robin, who's older? Isn't it the opposite normally? Hey Sanji-kun, that's rude for Robin-chan! \n\n-By Girl same age as Sanji",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yeah. Really. What's that about? Maybe it's Nami's natural queenly-ness that makes him do it. But anyway, age doesn't matter, 'cause they're all free. Probably just random.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "sanji",
+                        "nami",
+                        "nico_robin"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "language_use",
+                        "respect"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Sanji's use of honorifics in One Piece is random, possibly influenced by Nami's 'queenly demeanor,' but ultimately, age doesn't matter in his choice."
+            }
+        ],
+        "page": 26,
+        "chapter_number": 247,
+        "page_header": "SBS Vol 27 header.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 5,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei,\u00a0Hello!! Please tell me Smoker and Hina's profiles. They're both captains and from the same time, but are their ages the same too? Or maybe success has nothing to do with age?",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Er. I introduced both of them at the same time. Birthday? Yeah, ok. Smoker's 34 and Hina's 32. They got into the Marines at the same time, but Hina was, of course, an elite. Smoker was the punk that never listened to his superiors. You might want to say that they're stuck with each other. Smoker almost gets fired, and Hina rescues him. But anyway, they both ate the Devil Fruit, so they're pretty important forces for the Marines, and one of the reasons why they're Captains at such young ages.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "smoker",
+                        "hina"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "devil_fruit",
+                        "marine",
+                        "age"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Smoker is 34 and Hina is 32, both joined the Marines around the same time, with Hina being an elite and Smoker as a rebellious punk, but they both ate Devil Fruit and became important forces for the Marines."
+            },
+            {
+                "number": 6,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Guten Tag! Oda-sensei, tell me,\u00a0what are the ages of Smoker and Hina? And I thought it'll be good if Smoker's birthday is March 14 (White Day), and Hina's is March 3 (Hinamatsuri). Tsch\u00fcs.",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "That's actually for both land and sea. The \"Billower\" is from \"billow\" (\"a large wave\"), and it's the reason why the tires are unusually wide. I'll use it for real one of these days. Wonder when that'll be?",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "smoker",
+                        "hina"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "character_age",
+                        "birthdays"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda addresses the reader's question about Smoker and Hina's ages, and adds a comment about the 'Billower' and its tires."
+            }
+        ],
+        "page": "46",
+        "chapter_number": "248",
+        "page_header": null
+    },
+    {
+        "qa": [
+            {
+                "number": 7,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I have a question for Oda-sensei. I'm always looking for Pandaman, but who's this guy that's always by him? And what's that thing he's always holding in his hand?\n\n[[File:Tomato Gang.png|thumb|right|120px|Tomato Gang (38)]]",
+                        "matches": [
+                            [
+                                164,
+                                223,
+                                "File:Tomato Gang.png|thumb|right|120px|Tomato Gang (38)"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Eh? Who that guy? He's the TOMATO GANG, DUH. Yeah, that's the Tomato Gang. There's no other answer. He's a debt collector. He's going to continue chasing Pandaman until he pays for the debt he owes. He's holding \"something like a gun\" in his hand. There are rumors that're going around that it's actually a konbu seaweed roll.",
+                        "matches": []
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "Tomato Gang.png",
+                        "size": "120",
+                        "start": 164,
+                        "end": 223
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "pandaman",
+                        "tomato_gang"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "light-hearted",
+                        "playful"
+                    ],
+                    "topics": [
+                        "pandaman",
+                        "tomato_gang",
+                        "konbu_seaweed_roll"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "The Tomato Gang is a debt collector always by Pandaman, holding something like a gun rumored to be a konbu seaweed roll."
+            },
+            {
+                "number": 8,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchi!! Heso! (Means Belly-button; Greetings used in Skypiea) In Volume 25, after Bellamy got beaten, that outfit\u00a0Shoujou was wearing! \"Cyberpanda\", what's that Ventriloquize your answer please.",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": ")@*&#$%)*@& ....... LIKE HELL I COULD DO IT!! IKKOKUDOOKAWASHAA!! Yes. Like that. That outfit is........ )*@#&%(&*^@(#\u00a0IKKOKUDOOKAWASHAA!!\u00a0Yes. Sorry for making you read that twice. I've been getting comments that the SBS these days are too random. I'm really ashamed... Really...!! Sorry. That was, er. \"Cyberpanda\". It's a fake product like the \"Dosko1 Panda\", but it's more expensive than the real \"Doskoi Panda\". Be careful.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "bellamy",
+                        "shoujou"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "apologetic"
+                    ],
+                    "topics": [
+                        "SBS",
+                        "clothing",
+                        "Cyberpanda",
+                        "Doskoi_Panda"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda explains that Shoujou's outfit 'Cyberpanda' is a fake product, more expensive than the real 'Doskoi Panda', and apologizes for the randomness in the SBS."
+            }
+        ],
+        "page": "66",
+        "chapter_number": "249",
+        "page_header": null
+    },
+    {
+        "qa": [
+            {
+                "number": 9,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Buggy says \"Yaraideka!\" before a feast, but what exactly does it mean? I've always thought that was a typo, but my mother told me that it means \"let's have a feast\", and I was convinced. Is it some kind of a dialect?",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Mmm. This was actually a pretty popular question. I hoped people would kind of get it from the context. If I must put it in the simplest terms, it is a dialect. It's the \"Edo-ben\". Tokyo's old dialect. You've probably heard \"te yandei!!\". That means \"Wha're you saying !!\". Edo people had very little patience, so \"yaraideka!\" means \"How could we NOT!\" I heard this from one of my good friends who lives in the traditional area, so I don't think it's wrong. I've been thinking about having a \"Edokko Pirates\" (Edokko means \"kids from Edo\"). It'll be funny to do that. Someday.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "buggy"
+                    ],
+                    "places": [
+                        "edo",
+                        "tokyo"
+                    ],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "language",
+                        "dialect",
+                        "culture"
+                    ],
+                    "importance": [
+                        "high"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Buggy's 'Yaraideka!' means 'Let's have a feast' in Edo-ben, a Tokyo dialect known for impatience, and Oda wants to create 'Edokko Pirates'."
+            },
+            {
+                "number": 10,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hi, Odacchi!! I heard from a friend, but apparently the \"Sokotsuya\" (Careless person) that does Karoo's voice is actually Hirata Hiroaki, who does Sanji. Is it true?!",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "\"Kueee!!\". Yes. That's Hirata-san aka Sanji doing it. And Matsuge from Alabasta's being done by Yamaguchi aka Usopp. In the anime, say, if Sanji or Zoro don't appear in the episode, then the regulars don't have lines. What they do when that happens is they play around. *laughs* Like guessing animal voices. But they don't use their real names in the credits, so they just use \"Sokotsuya\" (\"Rude Guy\") like that. But listen carefully to the animals. If the voice actor's name is \"Sokotsuya\", it's one of the Straw Hats doing it.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "karoo",
+                        "sanji",
+                        "matsuge",
+                        "usopp",
+                        "zoro",
+                        "straw_hats"
+                    ],
+                    "places": [],
+                    "topics": [
+                        "voice_acting",
+                        "anime_production",
+                        "straw_hat_members"
+                    ],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Hirata Hiroaki, the voice of Sanji, also does the voice for 'Sokotsuya' (Careless person) in One Piece, using aliases when not credited."
+            }
+        ],
+        "page": "86",
+        "chapter_number": "250",
+        "page_header": null
+    },
+    {
+        "qa": [
+            {
+                "number": 11,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "G'morning. Um... Volume 25, Chapter 235, Page 174. I read \"That's!! \"MARRON\"!!!!\" (In Japanese, this stands for \"Marron\", the French word for chestnut). I'm pretty sure others have read it that way. (Because it's a chestnut. And it's Cricket. His head)... How 'bout you to just make it \"Marron\"? \n\nPen Name: Yaguchi Mari's Cheering\u00a0Chief Bocchan.",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "NO. What're you saying? Come on... Jaya arc's theme? You know? It's \"A MAN'S ROMANCE\"!!! Ah! He is so cool. What marron... that's totally wrong. I'll say this, but that part says nothing about a marron or any chestnut. I'll say it clearly this time. The theme for the Jaya arc is \"A MAN'S MARRO... ROMANCE!!!\"",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "montblanc_cricket"
+                    ],
+                    "places": [
+                        "jaya"
+                    ],
+                    "emotions": [
+                        "defensive"
+                    ],
+                    "topics": [
+                        "author_correction",
+                        "translation"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda firmly denies the request to change 'Marron' to 'Marron', emphasizing the theme of 'A MAN'S ROMANCE' for the Jaya arc."
+            },
+            {
+                "number": 12,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei, hello! I was looking through this book about monsters, and I came upon this Chinese monkey monster called a \"Shoujou\". Is that where Shoujou's name comes from? \n\nBy Fujiko-",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Hmm. I guess if you trace it. It's written differently in Japanese, and it does point to the monster thing, but it's more commonly known as the orangutan. Yes, it's taken exactly. Oh, and Mashira's also like that. Japanese people used to call monkeys \"mashira\".",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "shoujou",
+                        "mashira"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "informative"
+                    ],
+                    "topics": [
+                        "character_names",
+                        "monsters"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Shoujou's name might be based on a Chinese monkey monster called 'Shoujou,' commonly known as an orangutan, while Mashira's name comes from the Japanese word for monkey, 'mashira'."
+            }
+        ],
+        "page": "106",
+        "chapter_number": "251",
+        "page_header": null
+    },
+    {
+        "qa": [
+            {
+                "number": 13,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello. I'm a big fan of Nami. So here's a question! Nami's wearing that bracelet even when she's taking a bath (Vol. 23)!! I thought it must be something really important, so I looked through all the volumes, and she's been wearing it since they came out of Kokoyashi Village. And, surprise, Nojiko was wearing it before that!! Did Nojiko give it to Nami when they went to Kokoyashi Village?! There must be some secret sisterly love there... *sniff sniff*? Anyway. Please tell me!!\n\nBy Bon-chan",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes. It is that bracelet. The morning of their departure (Vol. 11), the bracelet is gone from Nojiko's arm. On her shoulder are Bellemere's and Gen-san's symbols, tangerine and windmill. And on her left hand is the bracelet she got from her sister. They're not connected by blood, but Nami is always with her family.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "nami",
+                        "nojiko",
+                        "bellemere",
+                        "gen-san"
+                    ],
+                    "places": [
+                        "kokoyashi_village"
+                    ],
+                    "emotions": [
+                        "touching"
+                    ],
+                    "topics": [
+                        "family",
+                        "sisterly_love"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Nami's bracelet was a gift from Nojiko, carrying symbols of their family's past, showing the strong bond between them despite not being blood-related."
+            },
+            {
+                "number": 14,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "This may be sudden, but l love coloring. Oda-sensei, please increase the number of coloring corners for the seven main characters! (A lot of them, please!) \n\nBy Mitchi in Grade 10",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Oh! You love coloring? Yeah it's fun, coloring. I guess there haven't been many coloring corners. I'll put one on. Please go to page 166. I'll say this to coloring lovers, but black is already filled in the corners. That's because it's the stuff that never got to be color. Sorry. If you have requests of what picture you want to color, go ahead. Anyway. See you next volume.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "happy",
+                        "funny"
+                    ],
+                    "topics": [
+                        "coloring",
+                        "request",
+                        "manga"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda acknowledges a request for more coloring corners, directs the reader to page 166, and explains that black spaces are for fans to color, apologizing for the lack of color."
+            }
+        ],
+        "page": "126",
+        "chapter_number": "252",
+        "page_header": null
+    }
+]

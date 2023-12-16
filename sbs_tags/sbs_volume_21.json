@@ -1,0 +1,616 @@
+[
+    {
+        "qa": [
+            {
+                "number": 1,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello. In Volume 19, someone started the SBS the way Miss Merry Christmas would start it. So I'd like to start it the way Mr. 4 would do it. -Black Den Den Mushi Fan Club Vice President-\n\n\"SSSSSSSSSSSSSSSSSSSSSSSSS... (to be continued)\"",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Too long. Sorry.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "mr_4"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [],
+                    "importance": [
+                        "low"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader attempts to start SBS in character, but Oda stops them for being too long."
+            },
+            {
+                "number": 2,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hyello. Listen, there's something I've been thinking hard about. Whenever you begin the SBS Corner, you usually say \"Start the SBS\", right? That's so boring. SO... I thought up THIS! \"ESSUUUUUU!\" What do you think? It's a rip-off of \"Ohhaaa\" (ohayou, or good morning)! So use it!",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Hey hey hey. No, no, no no no! No one will use an imitation like that! You need a... uh... a bit more originality! Right, everyone? \"ESSUUUUUU!\" (full-face smile).",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "happy",
+                        "funny"
+                    ],
+                    "topics": [],
+                    "importance": [
+                        "low"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader suggests 'ESSUUUUU!' as a greeting for SBS Corner, Oda declines idea as not original."
+            },
+            {
+                "number": 3,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "In the SBS from [[Volume 19]], someone said \"Draw all 6 crew members with your left hand\", but you only drew [[Monkey D. Luffy|Luffy]], [[Roronoa Zoro|Zoro]] and [[Nami]]. Draw the other 3.\n\n[[File:SBS vol 21 1.png|center|Oda draw Sanji, Usopp and Chopper with his left hand]]",
+                        "matches": [
+                            [
+                                16,
+                                29,
+                                "Volume 19"
+                            ],
+                            [
+                                109,
+                                134,
+                                "Monkey D. Luffy|Luffy"
+                            ],
+                            [
+                                136,
+                                157,
+                                "Roronoa Zoro|Zoro"
+                            ],
+                            [
+                                162,
+                                170,
+                                "Nami"
+                            ],
+                            [
+                                191,
+                                276,
+                                "File:SBS vol 21 1.png|center|Oda draw Sanji, Usopp and Chopper with his left hand"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "H... here. P-please, give me a break.",
+                        "matches": []
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS vol 21 1.png",
+                        "size": null,
+                        "start": 191,
+                        "end": 276
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Luffy",
+                        "link_title": "/wiki/Monkey D. Luffy",
+                        "is_wikipedia": false,
+                        "start": 109,
+                        "end": 134
+                    },
+                    {
+                        "text": "Zoro",
+                        "link_title": "/wiki/Roronoa Zoro",
+                        "is_wikipedia": false,
+                        "start": 136,
+                        "end": 157
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Volume 19",
+                        "link_title": "/wiki/Volume 19",
+                        "is_wikipedia": false,
+                        "start": 16,
+                        "end": 29
+                    },
+                    {
+                        "text": "Nami",
+                        "link_title": "/wiki/Nami",
+                        "is_wikipedia": false,
+                        "start": 162,
+                        "end": 170
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy",
+                        "roronoa_zoro",
+                        "nami",
+                        "usopp",
+                        "sanji",
+                        "chopper"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "tired"
+                    ],
+                    "topics": [],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "In One Piece SBS Volume 19, a reader asked Oda to draw all 6 crew members with his left hand, but Oda only drew Luffy, Zoro, and Nami. In Volume 21, Oda fulfills the request by drawing Sanji, Usopp, and Chopper with his left hand, expressing exhaustion."
+            }
+        ],
+        "page": 26,
+        "chapter_number": 187,
+        "page_header": "SBS Vol 21 header.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 4,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "They don't show [[One Piece (Anime)|One Piece]] on TV where I live... How can we stand for such atrocities? Please (x2), I don't care if they're just re-runs or whatever, just have them broadcast here where I live! Though it's probably an impossible request...",
+                        "matches": [
+                            [
+                                16,
+                                47,
+                                "One Piece (Anime)|One Piece"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "It shouldn't be impossible. I've received quite a lot of these letters for a while, but I can't do anything about it. After checking with the animation company, as of Dec. 4, 2001, [[One Piece (Manga)|One Piece]] is shown on 27 stations nationwide, and it's just started running in Taiwan. There are three prefectures in which it doesn't air, however: Aomori, Yamaguchi and Oita. But even in these areas, there are some people who say they can watch it. They must be people who live close enough to other prefectures to pick up the neighbouring prefectures' broadcast signals. Here's what you can try. One Piece is a program on the Fuji TV network, so write a letter saying \"I want to see One Piece\" to the Fuji station in your prefecture. If the station hears a large outcry, they may consider it. I know there's a lot of other anime\u00a0you can't see unless you live near Tokyo. I grew up in Kyushu, so I know your pain. Damn. Tokyo's pretty mean, huh?!",
+                        "matches": [
+                            [
+                                181,
+                                212,
+                                "One Piece (Manga)|One Piece"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "One Piece",
+                        "link_title": "/wiki/One Piece (Anime)",
+                        "is_wikipedia": false,
+                        "start": 16,
+                        "end": 47
+                    },
+                    {
+                        "text": "One Piece",
+                        "link_title": "/wiki/One Piece (Manga)",
+                        "is_wikipedia": false,
+                        "start": 181,
+                        "end": 212
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [
+                        "japan",
+                        "aomori",
+                        "yamaguchi",
+                        "oita",
+                        "tokyo"
+                    ],
+                    "emotions": [
+                        "disappointed",
+                        "frustrated",
+                        "understanding"
+                    ],
+                    "topics": [
+                        "one_piece_availability",
+                        "anime_broadcasting"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda suggests readers in prefectures without One Piece on TV to write letters to their local Fuji TV station expressing their desire to watch the show, hoping to incite interest."
+            },
+            {
+                "number": 5,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "To Eiichirou Oda-sensei-sama: [OMITTED]\n\n-by Those Who Say Meguko-",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes, uhhhh. Well, why don't I get right down to it and answer this question? Uhhhhh.... Uhhhhhh... Yes. Uhhhhhhh... Yes. Uhhh...",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "nervous",
+                        "unsure"
+                    ],
+                    "topics": [],
+                    "importance": "low",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda acknowledges a fan question and admits to being in a 'slump' or uninspired stage."
+            }
+        ],
+        "page": "46",
+        "chapter_number": "188",
+        "page_header": null
+    },
+    {
+        "qa": [
+            {
+                "number": 6,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "What are \"Orange Pekoe\" and \"Apple Tea\"?",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Oh I'm sure you can figure out what Apple Tea is, right? It's a type of tea. And orange pekoe is another kind of tea. It's true that all the members of the BW like different kinds of tea. [[Galdino|Mr. 3]] likes \"Earl Grey\", [[Marianne|Miss Goldenweek]] likes \"green tea\", [[Gem|Mr.5]] likes \"gunpowder tea\", and Miss Valentine likes \"lemon tea\", and so on. They drink it at a lot of different places. But Mr. 2 likes \"takopa\".",
+                        "matches": [
+                            [
+                                188,
+                                205,
+                                "Galdino|Mr. 3"
+                            ],
+                            [
+                                225,
+                                253,
+                                "Marianne|Miss Goldenweek"
+                            ],
+                            [
+                                273,
+                                285,
+                                "Gem|Mr.5"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Mr. 3",
+                        "link_title": "/wiki/Galdino",
+                        "is_wikipedia": false,
+                        "start": 188,
+                        "end": 205
+                    },
+                    {
+                        "text": "Miss Goldenweek",
+                        "link_title": "/wiki/Marianne",
+                        "is_wikipedia": false,
+                        "start": 225,
+                        "end": 253
+                    },
+                    {
+                        "text": "Mr.5",
+                        "link_title": "/wiki/Gem",
+                        "is_wikipedia": false,
+                        "start": 273,
+                        "end": 285
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "galdino",
+                        "marianne",
+                        "gem",
+                        "miss_valentine",
+                        "mr_2"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "tea"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "Oda explains different types of tea preferences for several Baroque Works members, with Mr. 2 preferring 'takopa'."
+            },
+            {
+                "number": 7,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Nice to meet you, Oda-sensei. I noticed something when I was re-reading the books. I'm talking about this person on the left in [[Volume 18]], page 162, 2nd panel, and this person on the right in Volume 19, page 15, 5th panel. Are they the same person?",
+                        "matches": [
+                            [
+                                128,
+                                141,
+                                "Volume 18"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes. That's right. You're quite correct. If you look at the current \"Rebellion\", you'll see a lot of members of the \"[[Suna Suna Clan]]\" in it. Well spotted.\n\n[[File:SBS_vol_21_suna_clan.png|center|400px|Suna Suna Clan]]\n\nIt's pretty easy to tell when they're lined up like this, right? Oh, and just to confuse you a little, most of the people in the Rebellion call [[Koza]] \"Koza-san\", but sometimes you hear \"Koza\" or \"Leader\". Those people were probably former Suna Suna Clan members.",
+                        "matches": [
+                            [
+                                117,
+                                135,
+                                "Suna Suna Clan"
+                            ],
+                            [
+                                159,
+                                220,
+                                "File:SBS_vol_21_suna_clan.png|center|400px|Suna Suna Clan"
+                            ],
+                            [
+                                366,
+                                374,
+                                "Koza"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS_vol_21_suna_clan.png",
+                        "size": "400",
+                        "start": 159,
+                        "end": 220
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Volume 18",
+                        "link_title": "/wiki/Volume 18",
+                        "is_wikipedia": false,
+                        "start": 128,
+                        "end": 141
+                    },
+                    {
+                        "text": "Suna Suna Clan",
+                        "link_title": "/wiki/Suna Suna Clan",
+                        "is_wikipedia": false,
+                        "start": 117,
+                        "end": 135
+                    },
+                    {
+                        "text": "Koza",
+                        "link_title": "/wiki/Koza",
+                        "is_wikipedia": false,
+                        "start": 366,
+                        "end": 374
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "Oda",
+                        "Koza",
+                        "Suna Suna Clan"
+                    ],
+                    "places": [
+                        "Rebellion"
+                    ],
+                    "topics": [
+                        "Suna Suna Clan members",
+                        "Rebellion members"
+                    ],
+                    "emotions": [
+                        "happy",
+                        "satisfied"
+                    ],
+                    "importance": [
+                        "high"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader points out similarities between characters in Volumes 18 and 19; Oda confirms they're the same, members of the Suna Suna Clan in Koza's rebellion."
+            }
+        ],
+        "page": "86",
+        "chapter_number": "190",
+        "page_header": null
+    },
+    {
+        "qa": [
+            {
+                "number": 8,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei! I was astonished when I read Volume 19! Because in the first panel of page 104, [[Sam]] is among the people running about! Why is he in Alabasta? Why is he drunk again? Tell me!!\n\n-by Takashima 192-",
+                        "matches": [
+                            [
+                                92,
+                                99,
+                                "Sam"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Oooh. I was surprised, too. I totally forgot I had drawn him. That's him all right, it certainly is. [[Chapter 171]], page 104. Why is he there? Listen up... Today was his second daughter's wedding. Sam's wife left him to raise all of their daughters the summer his eldest turned 8. His second daughter was a delinquent. Quite the troublemaker... They fought often, and there were days when she ran away from home. Today, she is being married. Though he puts up a strong front by saying, \"Finally I can rest easy now that you're gone!\", he actually feels a little lonely but happy for his daughter. And so he said, \"I can't stay sober tonight!\" and he drank and drank and walked and drank, and before he knew it, he was in the middle of Alabasta. The people around him were making all kinds of noise so he started yelling too, though for a different reason than the other citizens.",
+                        "matches": [
+                            [
+                                101,
+                                116,
+                                "Chapter 171"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Sam",
+                        "link_title": "/wiki/Sam",
+                        "is_wikipedia": false,
+                        "start": 92,
+                        "end": 99
+                    },
+                    {
+                        "text": "Chapter 171",
+                        "link_title": "/wiki/Chapter 171",
+                        "is_wikipedia": false,
+                        "start": 101,
+                        "end": 116
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "sam"
+                    ],
+                    "places": [
+                        "alabasta"
+                    ],
+                    "emotions": [
+                        "surprised",
+                        "lonely",
+                        "happy"
+                    ],
+                    "topics": [
+                        "family",
+                        "alabasta",
+                        "character backstory"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda explains that Sam, who appears in Chapter 171, page 104, is in Alabasta because it's his daughter's wedding day, and he's drunk due to mixed emotions."
+            },
+            {
+                "number": 9,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Ummm, Sensei, on TV I heard someone say, \"The next big thing will be Buggy underwear\". Would you like to buy some Buggy underwear, Oda-sensei?",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "No.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "odda-sensei",
+                        "buggy"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "amused"
+                    ],
+                    "topics": [],
+                    "importance": [
+                        "low"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader asked if Oda would like to buy Buggy-themed underwear, Oda simply answered 'No'."
+            }
+        ],
+        "page": "106",
+        "chapter_number": "191",
+        "page_header": null
+    },
+    {
+        "qa": [
+            {
+                "number": 9,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "N/A",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Ahem. I've been receiving a ton of questions about the anime so I'm going to tell you how much I'm involved in it, to either answer those questions or just to let you know.\n\n1. First of all, what I MUST tell you is that I am a manga artist so I don't make anime. What I can do is help out with the character designs for anime-original episodes. Nothing major. So basically, the One Piece world I've created in my manga is entrusted to others to be adapted in the anime.\n\n2. And so, while on that topic, I want to introduce to you... \"THE\" UDA KOUNOSUKE! You'll see his name in every episode during the opening credits roll. He's listed as the \"Series Director\". That's basically \"head director\". Pretty cool, eh? \"Head director\". (DOOON!).\n\n3. For the OP anime, there are 7 directors including Uda-san that take turns making episodes because you can't make a 30-minute episode in just one week. Every episode's director is listed at the end of the ending credits. And the person who organizes all of their work is, you guessed it, THE UDA KONOSUKE (whistle!).\n\n4. If his opinions and mine do not meet, Luffy instantly ceases to be Luffy and the world becomes entirely different. Even if I create the most heart-wrenching moment in the manga, if the anime's \"directing\" is wrong, it becomes a forgettable scene. But the reason that doesn't happen, and in fact, becomes even more memorable in the anime, is thanks to Uda-san and his crew of Director-Fighters, for understanding the world of OP so well and their directing skills.\n\n5. By \"directing\", I'm talking about music, sfx, voice acting and character expressions, so I'm truly grateful to all the people involved in the anime. Oh, by the way, my very own editor Habu-yan does the \"scenario checking\".\n\n6. All in all, what I really wanted to point out were the credits that you audience probably ignore. There are a lot of hard working people on those credit rolls, and it'd be nice if you could become familiar with some of those names as well.\n\n7. I know I made him sound very formal earlier, but Uda-san is really a cool, friendly man. Sometimes when I have a meeting with the anime staff, I go out and have lunch or dinner with Uda-san and the producers (they're fun, too). Usually though, I just leave the anime work up to them and enjoy it as a viewer, just like all of you do. I even cry sometimes.\n\n8. And that concludes this SBS. See you next volume.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "udakounosuke",
+                        "luffy",
+                        "oda",
+                        "habuyan"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "happy",
+                        "grateful"
+                    ],
+                    "topics": [
+                        "onepiece_anime",
+                        "character_designs",
+                        "op_anime",
+                        "directing",
+                        "music",
+                        "sfx",
+                        "voice_acting"
+                    ],
+                    "importance": [
+                        "high"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda, manga artist for One Piece, helps with character designs for anime-original episodes; 'THE' Uda Kounosuke is the head anime director; 7 directors take turns making episodes, overseen by Uda; Oda is grateful for anime staff's music, sfx, voice acting, character expressions; Oda enjoys anime as a viewer, suggests viewers learn credits"
+            }
+        ],
+        "page": "164",
+        "chapter_number": "194",
+        "page_header": null
+    }
+]

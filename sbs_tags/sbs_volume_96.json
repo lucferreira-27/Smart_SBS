@@ -1,0 +1,1244 @@
+[
+    {
+        "qa": [
+            {
+                "number": 1,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Let us begin the SBS! By the way Odacchi, I saw a dirty magazine of hot girls over there (Odacchi runs). Alrighty, <big>THE SBS BEGINS!!!</big> P.N. Yuyucchi",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Hey, hey...!! Why did you arbitrarily write \"Odacchi runs\"?! Unthinkable! Huff...huff...pant...pant...wait, there was no magazine!!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "playful"
+                    ],
+                    "topics": [],
+                    "importance": "normal",
+                    "isCharacterInsertion": true
+                },
+                "summary": "D calls out O for running at the mention of a dirty magazine, which he denies and starts the SBS session."
+            },
+            {
+                "number": 2,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Heso! A question! [[Monkey D. Luffy|Luffy]] gives nicknames to all sorts of people, however, why doesn't he do so with his crewmates? P.N. Takataka",
+                        "matches": [
+                            [
+                                18,
+                                43,
+                                "Monkey D. Luffy|Luffy"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Ah, I see! Well...Luffy's a type of person who, basically, doesn't really care about remembering someone's name, so he'll give people a nickname based on his impression of them whether they like it or not, but with that said, when someone becomes his crewmate, he finally remembers their name. He knows their names, so he calls them by their names. That's really all there is to it.\n\n[[File:SBS96 Will of D..png|thumb|200px]]",
+                        "matches": [
+                            [
+                                384,
+                                425,
+                                "File:SBS96 Will of D..png|thumb|200px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS96 Will of D..png",
+                        "size": "200",
+                        "start": 384,
+                        "end": 425
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Luffy",
+                        "link_title": "/wiki/Monkey D. Luffy",
+                        "is_wikipedia": false,
+                        "start": 18,
+                        "end": 43
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "crewmates",
+                        "nicknames"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Luffy gives nicknames based on his impression, but once someone becomes his crewmate, he remembers their name and calls them by it."
+            },
+            {
+                "number": 3,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "A question: I've heard that the \"[[Will of D.|D.]]\" stands for \"Debeso\", is that true? Pen Name: Count Dino",
+                        "matches": [
+                            [
+                                33,
+                                50,
+                                "Will of D.|D."
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Indeed. It really is true!\n\n''Note: \"Debeso\" means protruding bellybutton in Japanese.''",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "D.",
+                        "link_title": "/wiki/Will of D.",
+                        "is_wikipedia": false,
+                        "start": 33,
+                        "end": 50
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "will_of_d",
+                        "japanese_culture"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "The Will of D. stands for 'Debeso,' meaning protruding bellybutton in Japanese."
+            },
+            {
+                "number": 4,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei! Did you know that February 22 is \"National Oden Day\" in Japan? It sort of came to me on the spot, but how about making that [[Kozuki Oden]]'s birthday? P.N. Gomu Mera no Mi",
+                        "matches": [
+                            [
+                                136,
+                                151,
+                                "Kozuki Oden"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Hey you...to choose a character's birthday so nonchalantly like that is... <big>PERFECTLY OKAY...!!</big>",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Kozuki Oden",
+                        "link_title": "/wiki/Kozuki Oden",
+                        "is_wikipedia": false,
+                        "start": 136,
+                        "end": 151
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "kozuki_oden"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "happy",
+                        "funny"
+                    ],
+                    "topics": [
+                        "birthday_celebration",
+                        "character_creation"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda approves of a reader's suggestion to make Kozuki Oden's birthday February 22, National Oden Day in Japan."
+            }
+        ],
+        "page": "24",
+        "chapter_number": "965",
+        "page_header": "SBS96 Header 1.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 5,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "[[Nami]] likes fruit in general, mikan fruits in particular, but given how oranges are similar to them, both being citrus fruits, does she like them as much? But with that said, I wonder if in the end she just has a special emotional attachment to mikan...please tell me! P.N. Emerald Bunny",
+                        "matches": [
+                            [
+                                0,
+                                8,
+                                "Nami"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Mmm! Nami's favorite food is related to her upbringing. You can see it in the \"[[Arlong Park Arc|Arlong Arc]]\" depicted in Volumes [[Volume 7|7]] through [[Volume 10|10]] of the physical release, but basically Nami grew up on a mikan farm, so they're a type of food that brings back memories of [[Bell-m\u00e8re|her late mother]]. That's why even among all fruits she loves mikan in particular. By the way, thank you for the postcard...\n\n[[File:SBS96 Nami's figurine.png|thumb|200px]]",
+                        "matches": [
+                            [
+                                79,
+                                109,
+                                "Arlong Park Arc|Arlong Arc"
+                            ],
+                            [
+                                131,
+                                145,
+                                "Volume 7|7"
+                            ],
+                            [
+                                154,
+                                170,
+                                "Volume 10|10"
+                            ],
+                            [
+                                295,
+                                324,
+                                "Bell-m\u00e8re|her late mother"
+                            ],
+                            [
+                                433,
+                                479,
+                                "File:SBS96 Nami's figurine.png|thumb|200px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS96 Nami's figurine.png",
+                        "size": "200",
+                        "start": 433,
+                        "end": 479
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Arlong Arc",
+                        "link_title": "/wiki/Arlong Park Arc",
+                        "is_wikipedia": false,
+                        "start": 79,
+                        "end": 109
+                    },
+                    {
+                        "text": "7",
+                        "link_title": "/wiki/Volume 7",
+                        "is_wikipedia": false,
+                        "start": 131,
+                        "end": 145
+                    },
+                    {
+                        "text": "10",
+                        "link_title": "/wiki/Volume 10",
+                        "is_wikipedia": false,
+                        "start": 154,
+                        "end": 170
+                    },
+                    {
+                        "text": "her late mother",
+                        "link_title": "/wiki/Bell-m\u00e8re",
+                        "is_wikipedia": false,
+                        "start": 295,
+                        "end": 324
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Nami",
+                        "link_title": "/wiki/Nami",
+                        "is_wikipedia": false,
+                        "start": 0,
+                        "end": 8
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "nami",
+                        "bell-m\u00e8re"
+                    ],
+                    "places": [
+                        "Arlong Park",
+                        "mikan farm"
+                    ],
+                    "emotions": [
+                        "nostalgic"
+                    ],
+                    "topics": [
+                        "favorite_food",
+                        "emotional_attachment",
+                        "Nami's backstory"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Nami's favorite fruit is mikan due to her upbringing on a mikan farm, with special emotional attachment to it because it reminds her of her late mother."
+            },
+            {
+                "number": 6,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Sanadacchi!! I request you to forfeit your Nami figurine collection to me. P.N. Captain Nobuo",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Hey, hey, hey!! You there, who are you talking to?!! And more importantly, hold your urges! Just when we were talking about something wholesome, at this point I refuse to ever feature Sanada here again.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "nami"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "indignant",
+                        "funny"
+                    ],
+                    "topics": [
+                        "nami_figurine_collection"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda refuses the request and expresses disapproval for the inappropriate comment, refusing to feature Sanada in the Q&A again."
+            },
+            {
+                "number": 7,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "<big>PLEASE GIVE ME THE USED TOWELS O-NAMI USED AT THE BATHHOUSE!</big> P.N. Sanadacchi\n\n<big>",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "GET THE HECK OUT OF MY SBS!! GO HOME SANADA!! POLICE!!</big>",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "nami"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "humorous"
+                    ],
+                    "topics": [
+                        "bathhouse",
+                        "SBS"
+                    ],
+                    "importance": [
+                        "low"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader asks for Nami's used towels, Oda responds with outrage and tells the reader to leave SBS immediately."
+            },
+            {
+                "number": 8,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Sorry for the weird question but, being the only female among the [[Nine Red Scabbards]], does [[Kikunojo|O-Kiku]]-san bathe separately on her own?! P.N. Crying Chushiro",
+                        "matches": [
+                            [
+                                66,
+                                88,
+                                "Nine Red Scabbards"
+                            ],
+                            [
+                                95,
+                                114,
+                                "Kikunojo|O-Kiku"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Not at all, she bathes together with everyone else. Ever since she was a child, she's always been very social.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "O-Kiku",
+                        "link_title": "/wiki/Kikunojo",
+                        "is_wikipedia": false,
+                        "start": 95,
+                        "end": 114
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Nine Red Scabbards",
+                        "link_title": "/wiki/Nine Red Scabbards",
+                        "is_wikipedia": false,
+                        "start": 66,
+                        "end": 88
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "kikunojo"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "nine_red_scabbards",
+                        "bathing_habits",
+                        "social_behavior"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "O-Kiku bathes with everyone else, as she has always been very social."
+            }
+        ],
+        "page": "62",
+        "chapter_number": "967",
+        "page_header": "SBS96 Header 2.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 9,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchi!! A question!! Several characters have appeared with the name Shimotsuki, including [[Shimotsuki Yasuie]], [[Shimotsuki Ryuma]], [[Shimotsuki Kozaburo]] and [[Shimotsuki Ushimaru]], but is there a connection with the place Zoro grew up in that bears that exact name, [[Shimotsuki Village]], and Zoro's teacher [[Koushirou]]? So given how Zoro said he was taught the term \"[[Sunacchi]]\" by a geezer in his village and how in [[SBS Volume 92|Volume 92's SBS]] you revealed how some came to the East Blue, it's starting to make sense! P.N. Yu-kun\n\n[[File:SBS96 Sunacchi.png|thumb|200px|Vol. 95, Page 31<br/>Momonosuke:''\"Zorojuro, I was told not to say the word \"Sunacchi\".<br/>Zoro:''\"This geezer in my village use to say it back in the day... So it was something that I just picked up.\"''<br/>Momonosuke:''\"Huh!?\"'']]",
+                        "matches": [
+                            [
+                                92,
+                                113,
+                                "Shimotsuki Yasuie"
+                            ],
+                            [
+                                115,
+                                135,
+                                "Shimotsuki Ryuma"
+                            ],
+                            [
+                                137,
+                                160,
+                                "Shimotsuki Kozaburo"
+                            ],
+                            [
+                                165,
+                                188,
+                                "Shimotsuki Ushimaru"
+                            ],
+                            [
+                                275,
+                                297,
+                                "Shimotsuki Village"
+                            ],
+                            [
+                                318,
+                                331,
+                                "Koushirou"
+                            ],
+                            [
+                                380,
+                                392,
+                                "Sunacchi"
+                            ],
+                            [
+                                432,
+                                465,
+                                "SBS Volume 92|Volume 92's SBS"
+                            ],
+                            [
+                                553,
+                                824,
+                                "File:SBS96 Sunacchi.png|thumb|200px|Vol. 95, Page 31<br/>Momonosuke:''\"Zorojuro, I was told not to say the word \"Sunacchi\".<br/>Zoro:''\"This geezer in my village use to say it back in the day... So it was something that I just picked up.\"''<br/>Momonosuke:''\"Huh!?\"''"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Ah, yes. You might have to follow very closely to picture this, but...let me explain! It all starts with Shimotsuki Kozaburo (swordsmith and swordsman)\n\n[[File:SBS96 Kozaburo.png|thumb|300px]]\n#He forges the \"[[Enma]]\" and bestows it to the heir of the Kozuki Family, Oden.\n#55 years ago, he sets out to sea!\n#He and the samurai of Wano have a grand adventure!!\n#They make landfall in a certain place in the East Blue.\n#They save the locals from mountain bandits.\n#They teach the villagers the way of the sword, who become enamored with swordplay.\n#They decide to settle there, founding Shimotsuki Village.\n#His son, Koushirou, is born.\n#His granddaughter, [[Kuina]], is born.\n\nTo put it in other words, who Zoro meant by \"a geezer in his village\" that he met was actually grandpa Shimotsuki Kozaburo-san himself, who comes from the Wano Country. Oh? Then could that mean...Zoro's lineage...?! Well, the story of Shimotsuki Kozaburo, the samurai who founded Shimotsuki Village, is all I'm willing to share today!",
+                        "matches": [
+                            [
+                                153,
+                                192,
+                                "File:SBS96 Kozaburo.png|thumb|300px"
+                            ],
+                            [
+                                209,
+                                217,
+                                "Enma"
+                            ],
+                            [
+                                657,
+                                666,
+                                "Kuina"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS96 Sunacchi.png",
+                        "size": "200",
+                        "start": 553,
+                        "end": 824
+                    },
+                    {
+                        "file": "SBS96 Kozaburo.png",
+                        "size": "300",
+                        "start": 153,
+                        "end": 192
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Volume 92's SBS",
+                        "link_title": "/wiki/SBS Volume 92",
+                        "is_wikipedia": false,
+                        "start": 432,
+                        "end": 465
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Shimotsuki Yasuie",
+                        "link_title": "/wiki/Shimotsuki Yasuie",
+                        "is_wikipedia": false,
+                        "start": 92,
+                        "end": 113
+                    },
+                    {
+                        "text": "Shimotsuki Ryuma",
+                        "link_title": "/wiki/Shimotsuki Ryuma",
+                        "is_wikipedia": false,
+                        "start": 115,
+                        "end": 135
+                    },
+                    {
+                        "text": "Shimotsuki Kozaburo",
+                        "link_title": "/wiki/Shimotsuki Kozaburo",
+                        "is_wikipedia": false,
+                        "start": 137,
+                        "end": 160
+                    },
+                    {
+                        "text": "Shimotsuki Ushimaru",
+                        "link_title": "/wiki/Shimotsuki Ushimaru",
+                        "is_wikipedia": false,
+                        "start": 165,
+                        "end": 188
+                    },
+                    {
+                        "text": "Shimotsuki Village",
+                        "link_title": "/wiki/Shimotsuki Village",
+                        "is_wikipedia": false,
+                        "start": 275,
+                        "end": 297
+                    },
+                    {
+                        "text": "Koushirou",
+                        "link_title": "/wiki/Koushirou",
+                        "is_wikipedia": false,
+                        "start": 318,
+                        "end": 331
+                    },
+                    {
+                        "text": "Sunacchi",
+                        "link_title": "/wiki/Sunacchi",
+                        "is_wikipedia": false,
+                        "start": 380,
+                        "end": 392
+                    },
+                    {
+                        "text": "Enma",
+                        "link_title": "/wiki/Enma",
+                        "is_wikipedia": false,
+                        "start": 209,
+                        "end": 217
+                    },
+                    {
+                        "text": "Kuina",
+                        "link_title": "/wiki/Kuina",
+                        "is_wikipedia": false,
+                        "start": 657,
+                        "end": 666
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "shimotsuki_kozaburo",
+                        "zoro",
+                        "koushirou",
+                        "kuina",
+                        "momonosuke"
+                    ],
+                    "places": [
+                        "wano",
+                        "east_blue",
+                        "shimotsuki_village"
+                    ],
+                    "topics": [
+                        "zoro's lineage",
+                        "shimotsuki_family",
+                        "east_blue",
+                        "wano_country",
+                        "swordsmith",
+                        "sbs_volume_92"
+                    ],
+                    "emotions": [
+                        "surprise"
+                    ],
+                    "importance": "hight",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Zoro's teacher Koushirou and Shimotsuki Village are linked to Shimotsuki Kozaburo from Wano, who founded the village and taught swordplay."
+            }
+        ],
+        "page": "80",
+        "chapter_number": "968",
+        "page_header": "SBS96 Header 3.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 10,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchi!! You modeled [[Shinobu]]-chan after Jane, didn't you? P.N. World Economy News Paper Part-Timer",
+                        "matches": [
+                            [
+                                22,
+                                33,
+                                "Shinobu"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Ah! You thought so?! Because yes, I thought that as well. In reality, I originally modeled her on the character of the comedian [[wikipedia:Naomi Watanabe|Naomi Watanabe-san]], who I've always been amazed by. However, midway into designing her, I realized she looked like the trademark character from my mentor Masaya Tokuhiro's \"[[wikipedia:Jungle King Tar-chan|Jungle King Tar-chan]]\" manga, Jane...and since the whole concept of Shinobu was someone who used to be pretty in her youth, I think that's why I was influenced by her! That's what came to mind as I was designing Shinobu.",
+                        "matches": [
+                            [
+                                128,
+                                175,
+                                "wikipedia:Naomi Watanabe|Naomi Watanabe-san"
+                            ],
+                            [
+                                330,
+                                385,
+                                "wikipedia:Jungle King Tar-chan|Jungle King Tar-chan"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Naomi Watanabe-san",
+                        "link_title": "/wiki/Naomi Watanabe",
+                        "is_wikipedia": true,
+                        "start": 128,
+                        "end": 175
+                    },
+                    {
+                        "text": "Jungle King Tar-chan",
+                        "link_title": "/wiki/Jungle King Tar-chan",
+                        "is_wikipedia": true,
+                        "start": 330,
+                        "end": 385
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Shinobu",
+                        "link_title": "/wiki/Shinobu",
+                        "is_wikipedia": false,
+                        "start": 22,
+                        "end": 33
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "shinobu",
+                        "naomi_watanabe",
+                        "jane"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "interesting"
+                    ],
+                    "topics": [
+                        "character_design",
+                        "influence",
+                        "comedy"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Shinobu was originally based on comedian Naomi Watanabe, but Oda realized she resembled a character from 'Jungle King Tar-chan' and drew inspiration from that as well."
+            },
+            {
+                "number": 11,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "We know [[Kawamatsu]] is not a kappa, but a fish-man, but what type of fish fish-man is he? P.N. Gomu Mera no Mi",
+                        "matches": [
+                            [
+                                8,
+                                21,
+                                "Kawamatsu"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "He's a [[wikipedia:Takifugu rubripes|Tiger pufferfish]] fish-man. However, since he insists on being called a kappa, please do so!",
+                        "matches": [
+                            [
+                                7,
+                                55,
+                                "wikipedia:Takifugu rubripes|Tiger pufferfish"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Tiger pufferfish",
+                        "link_title": "/wiki/Takifugu rubripes",
+                        "is_wikipedia": true,
+                        "start": 7,
+                        "end": 55
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Kawamatsu",
+                        "link_title": "/wiki/Kawamatsu",
+                        "is_wikipedia": false,
+                        "start": 8,
+                        "end": 21
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "kawamatsu"
+                    ],
+                    "places": [],
+                    "emotions": [],
+                    "topics": [
+                        "fish-man",
+                        "devil_fruit"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Kawamatsu is a Tiger pufferfish fish-man, but he insists on being called a kappa."
+            },
+            {
+                "number": 12,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchi! I want to see an anthropomorphized version of [[Brook]]'s blade, the [[Soul Solid]]. Like with Mihawk's blade, a female would be preferable. I feel like Brook would be happy if it were female as well. P.N. Odamania's Brother",
+                        "matches": [
+                            [
+                                55,
+                                64,
+                                "Brook"
+                            ],
+                            [
+                                78,
+                                92,
+                                "Soul Solid"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "A female, huh. Understood!\n\n[[File:SBS96 Soul Solid.png|thumb|center|400px|<span style=\"font-size:0.95em;\">Schwing!! Clank!!</span>]]{{-}}",
+                        "matches": [
+                            [
+                                28,
+                                133,
+                                "File:SBS96 Soul Solid.png|thumb|center|400px|<span style=\"font-size:0.95em;\">Schwing!! Clank!!</span>"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS96 Soul Solid.png",
+                        "size": "400",
+                        "start": 28,
+                        "end": 133
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Brook",
+                        "link_title": "/wiki/Brook",
+                        "is_wikipedia": false,
+                        "start": 55,
+                        "end": 64
+                    },
+                    {
+                        "text": "Soul Solid",
+                        "link_title": "/wiki/Soul Solid",
+                        "is_wikipedia": false,
+                        "start": 78,
+                        "end": 92
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "brook",
+                        "mihawk"
+                    ],
+                    "places": [],
+                    "topics": [
+                        "character_design",
+                        "weapons"
+                    ],
+                    "emotions": [
+                        "happy"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader requests an anthropomorphized version of Brook's blade, Soul Solid, preferably as a female, and Oda agrees."
+            }
+        ],
+        "page": "98",
+        "chapter_number": "969",
+        "page_header": "SBS96 Header 4.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 13,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchi!!! Who is this young man? Please tell me his name!! P.N. 420Rando",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Sure. The one who was part of the [[Roger Pirates]], right? There was a massive amount of questions I got regarding the members of the Roger Pirates and while I may only have rough sketches for the most important members of the crew, allow me to showcase them on this page and Page 154!! You don't have to remember these if you don't want to!!\n\n[[File:SBS96 Roger Pirates 1.png|thumb|center|400px]]",
+                        "matches": [
+                            [
+                                34,
+                                51,
+                                "Roger Pirates"
+                            ],
+                            [
+                                345,
+                                398,
+                                "File:SBS96 Roger Pirates 1.png|thumb|center|400px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS96 Roger Pirates 1.png",
+                        "size": "400",
+                        "start": 345,
+                        "end": 398
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Roger Pirates",
+                        "link_title": "/wiki/Roger Pirates",
+                        "is_wikipedia": false,
+                        "start": 34,
+                        "end": 51
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "roger_pirates"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "roger_pirates",
+                        "sketches",
+                        "fan_theory"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "D asks Oda about a young man from the Roger Pirates; Oda replies and shares rough sketches of the crew in SBS, encouraging readers to check."
+            }
+        ],
+        "page": "116",
+        "chapter_number": "970",
+        "page_header": "SBS96 Header 5.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 14,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei!! Boss Kyoshiro is really cool, isn't he?!! I love him!! I want a figurine of him!! The fact that you made such a character in such a world makes me glad to have been born. Please tell me the Boss's height and favorite food!! P.N. Majo",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Kyoshiro! You really get it, don't you~? I also feel like I gave it my all in designing him!! I received several questions regarding the Nine Red Scabbards, so you can have everybody's heights and favorite foods. While we're at it, I included Shinobu and Izou as well.\n\n[[File:SBS96 Scabbards.png|thumb|center|400px]]\n\n<table width=\"100%\">\n<td width=\"23%\" valign=\"top\">\n[[Kozuki Oden]]\n:382 cm\n:All types of oden\n\n[[Denjiro]]\n:306 cm\n:Beef tendon\n\n[[Nekomamushi]]\n:522 cm\n:Lasagna and kamaboko\n</td>\n<td width=\"17%\" valign=\"top\">\n[[Kin'emon]]\n:295 cm\n:Daikon\n\n[[Kikunojo]]\n:287 cm\n:Shirataki\n\n[[Ashura Doji]]\n:544 cm\n:Kinchaku mochi\n</td>\n<td width=\"15%\" valign=\"top\">\n[[Kurozumi Kanjuro|Kanjuro]]\n:347 cm\n:Cabbage rolls\n\n[[Kawamatsu]]\n:271 cm\n:Eggs\n\n[[Shinobu]]\n:180 cm\n:Hanpen\n</td>\n<td width=\"30%\" valign=\"top\">\n[[Raizo]]\n:311 cm\n:Gobo-maki\n\n[[Inuarashi]]\n:511 cm\n:Bones and chicken wings\n\n[[Izou]]\n:192 cm\n:Ganmodoki\n</td></table>\n\nIndeed. It seems like everyone likes ingredients that are commonly put in Oden.\n\n[[File:SBS96 Queen.png|thumb|200px]]",
+                        "matches": [
+                            [
+                                270,
+                                317,
+                                "File:SBS96 Scabbards.png|thumb|center|400px"
+                            ],
+                            [
+                                370,
+                                385,
+                                "Kozuki Oden"
+                            ],
+                            [
+                                414,
+                                425,
+                                "Denjiro"
+                            ],
+                            [
+                                448,
+                                463,
+                                "Nekomamushi"
+                            ],
+                            [
+                                530,
+                                542,
+                                "Kin'emon"
+                            ],
+                            [
+                                560,
+                                572,
+                                "Kikunojo"
+                            ],
+                            [
+                                593,
+                                608,
+                                "Ashura Doji"
+                            ],
+                            [
+                                669,
+                                697,
+                                "Kurozumi Kanjuro|Kanjuro"
+                            ],
+                            [
+                                722,
+                                735,
+                                "Kawamatsu"
+                            ],
+                            [
+                                751,
+                                762,
+                                "Shinobu"
+                            ],
+                            [
+                                815,
+                                824,
+                                "Raizo"
+                            ],
+                            [
+                                845,
+                                858,
+                                "Inuarashi"
+                            ],
+                            [
+                                893,
+                                901,
+                                "Izou"
+                            ],
+                            [
+                                1017,
+                                1053,
+                                "File:SBS96 Queen.png|thumb|200px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS96 Scabbards.png",
+                        "size": "400",
+                        "start": 270,
+                        "end": 317
+                    },
+                    {
+                        "file": "SBS96 Queen.png",
+                        "size": "200",
+                        "start": 1017,
+                        "end": 1053
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Kanjuro",
+                        "link_title": "/wiki/Kurozumi Kanjuro",
+                        "is_wikipedia": false,
+                        "start": 669,
+                        "end": 697
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Kozuki Oden",
+                        "link_title": "/wiki/Kozuki Oden",
+                        "is_wikipedia": false,
+                        "start": 370,
+                        "end": 385
+                    },
+                    {
+                        "text": "Denjiro",
+                        "link_title": "/wiki/Denjiro",
+                        "is_wikipedia": false,
+                        "start": 414,
+                        "end": 425
+                    },
+                    {
+                        "text": "Nekomamushi",
+                        "link_title": "/wiki/Nekomamushi",
+                        "is_wikipedia": false,
+                        "start": 448,
+                        "end": 463
+                    },
+                    {
+                        "text": "Kin'emon",
+                        "link_title": "/wiki/Kin'emon",
+                        "is_wikipedia": false,
+                        "start": 530,
+                        "end": 542
+                    },
+                    {
+                        "text": "Kikunojo",
+                        "link_title": "/wiki/Kikunojo",
+                        "is_wikipedia": false,
+                        "start": 560,
+                        "end": 572
+                    },
+                    {
+                        "text": "Ashura Doji",
+                        "link_title": "/wiki/Ashura Doji",
+                        "is_wikipedia": false,
+                        "start": 593,
+                        "end": 608
+                    },
+                    {
+                        "text": "Kawamatsu",
+                        "link_title": "/wiki/Kawamatsu",
+                        "is_wikipedia": false,
+                        "start": 722,
+                        "end": 735
+                    },
+                    {
+                        "text": "Shinobu",
+                        "link_title": "/wiki/Shinobu",
+                        "is_wikipedia": false,
+                        "start": 751,
+                        "end": 762
+                    },
+                    {
+                        "text": "Raizo",
+                        "link_title": "/wiki/Raizo",
+                        "is_wikipedia": false,
+                        "start": 815,
+                        "end": 824
+                    },
+                    {
+                        "text": "Inuarashi",
+                        "link_title": "/wiki/Inuarashi",
+                        "is_wikipedia": false,
+                        "start": 845,
+                        "end": 858
+                    },
+                    {
+                        "text": "Izou",
+                        "link_title": "/wiki/Izou",
+                        "is_wikipedia": false,
+                        "start": 893,
+                        "end": 901
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "kyoshiro",
+                        "shinobu",
+                        "izou",
+                        "kozuki_oden",
+                        "denjiro",
+                        "nekomamushi",
+                        "kin'emon",
+                        "kikunojo",
+                        "ashura_doji",
+                        "kurozumi_kanjuro",
+                        "kawamatsu",
+                        "raizo",
+                        "inuarashi"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "happy"
+                    ],
+                    "topics": [
+                        "nine_red_scabbards",
+                        "favorite_food",
+                        "height",
+                        "designing_characters",
+                        "oden"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda shares the heights and favorite foods of characters including Kyoshiro and the Nine Red Scabbards, and mentions they all like ingredients commonly found in Oden."
+            },
+            {
+                "number": 15,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei, hello!! In [[Volume 93]], [[Queen]] the Plague said \"If I get any thinner, I'll steal all your hearts \u266c So I choose the way I am \u266c So I sing the way I dance, that's FUNK!!\", but if we're being honest, would he really be that popular with the ladies if that were the case? I would like to see Queen with a thinner form. P.N. Morimoriman",
+                        "matches": [
+                            [
+                                23,
+                                36,
+                                "Volume 93"
+                            ],
+                            [
+                                38,
+                                47,
+                                "Queen"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Very well. Fat fellows are more charming, wouldn't you say! The SBS ends here! Until next time!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Volume 93",
+                        "link_title": "/wiki/Volume 93",
+                        "is_wikipedia": false,
+                        "start": 23,
+                        "end": 36
+                    },
+                    {
+                        "text": "Queen",
+                        "link_title": "/wiki/Queen",
+                        "is_wikipedia": false,
+                        "start": 38,
+                        "end": 47
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "queen"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "appearance",
+                        "humor"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader asks if Queen would be popular if he were thinner, Oda responds that fat fellows are more charming."
+            }
+        ],
+        "page": "172",
+        "chapter_number": "973",
+        "page_header": "SBS96 Header 7.png"
+    }
+]

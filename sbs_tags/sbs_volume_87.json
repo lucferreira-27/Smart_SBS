@@ -1,0 +1,1165 @@
+[
+    {
+        "qa": [
+            {
+                "number": 1,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Ever since I was a kid, I've liked animals, so I've really enjoyed the arrival of the Minks! To express my gratitude for this, my pet cat has one thing to say... \n[[File:SBS87 Cat.png|thumb|center|400px|<span style=\"font-size:0.95em;\">Nyaaaa! (SBS Start!)</span>]]\nP.N. Uranium Rabbit Year Y",
+                        "matches": [
+                            [
+                                163,
+                                264,
+                                "File:SBS87 Cat.png|thumb|center|400px|<span style=\"font-size:0.95em;\">Nyaaaa! (SBS Start!)</span>"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "A caaaaaat!! It was started by a caaaaaat...!!\n\n[[File:SBS87 Pez.png|thumb|150px]]",
+                        "matches": [
+                            [
+                                48,
+                                82,
+                                "File:SBS87 Pez.png|thumb|150px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS87 Cat.png",
+                        "size": "400",
+                        "start": 163,
+                        "end": 264
+                    },
+                    {
+                        "file": "SBS87 Pez.png",
+                        "size": "150",
+                        "start": 48,
+                        "end": 82
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "happy",
+                        "funny"
+                    ],
+                    "topics": [
+                        "animals",
+                        "Minks",
+                        "cat",
+                        "gratitude",
+                        "pet"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": true
+                },
+                "summary": "Reader expresses gratitude for the Minks with a cat's 'Nyaa!' and a pet cat photo; Oda responds with excitement over the cat's contribution."
+            },
+            {
+                "number": 2,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchi!! Hello!!! [[Capone Bege|Bege]]'s child has a face just like his and there appears to be facial hair under his nose, but as a baby, how does he already have facial hair? How far down does it go...? If... that... is how it is... changing diapers, does [[Charlotte Chiffon|Chiffon]] not dislike it? P.N. Portgas D Ayasu",
+                        "matches": [
+                            [
+                                19,
+                                39,
+                                "Capone Bege|Bege"
+                            ],
+                            [
+                                259,
+                                288,
+                                "Charlotte Chiffon|Chiffon"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Firstly, Chiffon doesn't dislike it. Because she's his mother! Now, the triangular part under Baby [[Capone Pez|Pez]]'s nose. Well, if you think about it normally, it's like Don Takosu, right? Well I think so. It looks like whiskers. Now the answer is! Do....Beard....Chin hair....!! <big>I WON'T TELL!!</big>",
+                        "matches": [
+                            [
+                                99,
+                                117,
+                                "Capone Pez|Pez"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Bege",
+                        "link_title": "/wiki/Capone Bege",
+                        "is_wikipedia": false,
+                        "start": 19,
+                        "end": 39
+                    },
+                    {
+                        "text": "Chiffon",
+                        "link_title": "/wiki/Charlotte Chiffon",
+                        "is_wikipedia": false,
+                        "start": 259,
+                        "end": 288
+                    },
+                    {
+                        "text": "Pez",
+                        "link_title": "/wiki/Capone Pez",
+                        "is_wikipedia": false,
+                        "start": 99,
+                        "end": 117
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "capone_bege",
+                        "charlotte_chiffon",
+                        "capone_pez"
+                    ],
+                    "places": [],
+                    "topics": [
+                        "baby_beard",
+                        "parenting",
+                        "facial_hair"
+                    ],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Chiffon doesn't mind changing the baby's diapers, and the facial hair under Baby Pez's nose is a secret left to the imagination."
+            },
+            {
+                "number": 3,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Is it alright if I lick [[Charlotte Smoothie|Smoothie]]'s legs? said Shimizucha Moro. \u200bP.N. Match and Takeshi",
+                        "matches": [
+                            [
+                                24,
+                                55,
+                                "Charlotte Smoothie|Smoothie"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "That bastard!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Smoothie",
+                        "link_title": "/wiki/Charlotte Smoothie",
+                        "is_wikipedia": false,
+                        "start": 24,
+                        "end": 55
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "charlotte_smoothie"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "angry"
+                    ],
+                    "topics": [],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader asks if they can lick Smoothie's legs, to which Oda responds with 'That bastard!!'"
+            },
+            {
+                "number": 4,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Have more pink scenes!! Gao!! said Simizucha Moro. P.N. Match and Takeshi",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "That bastard!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "angry"
+                    ],
+                    "topics": [
+                        "fan_request"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader requests more pink scenes, author Oda reacts with humor."
+            }
+        ],
+        "page": "24",
+        "chapter_number": "870",
+        "page_header": "SBS87 Header 1.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 5,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchi, hello! In [[Chapter 858]], there's a scene where [[Monkey D. Luffy|Luffy]] and [[Brook]] restore their teeth with milk, I think, but... can everyone in the [[Straw Hat Pirates]] fix their teeth with milk? P.N. Makizou",
+                        "matches": [
+                            [
+                                19,
+                                34,
+                                "Chapter 858"
+                            ],
+                            [
+                                58,
+                                83,
+                                "Monkey D. Luffy|Luffy"
+                            ],
+                            [
+                                88,
+                                97,
+                                "Brook"
+                            ],
+                            [
+                                165,
+                                186,
+                                "Straw Hat Pirates"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yep. That'll fix it.\n\n: All you good children have to go to the dentist. Luffy and his crew are strange people.\n\n[[File:SBS87 Shanks, Koby, and Sakazuki.png|thumb|250px]]",
+                        "matches": [
+                            [
+                                113,
+                                170,
+                                "File:SBS87 Shanks, Koby, and Sakazuki.png|thumb|250px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS87 Shanks, Koby, and Sakazuki.png",
+                        "size": "250",
+                        "start": 113,
+                        "end": 170
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Luffy",
+                        "link_title": "/wiki/Monkey D. Luffy",
+                        "is_wikipedia": false,
+                        "start": 58,
+                        "end": 83
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Chapter 858",
+                        "link_title": "/wiki/Chapter 858",
+                        "is_wikipedia": false,
+                        "start": 19,
+                        "end": 34
+                    },
+                    {
+                        "text": "Brook",
+                        "link_title": "/wiki/Brook",
+                        "is_wikipedia": false,
+                        "start": 88,
+                        "end": 97
+                    },
+                    {
+                        "text": "Straw Hat Pirates",
+                        "link_title": "/wiki/Straw Hat Pirates",
+                        "is_wikipedia": false,
+                        "start": 165,
+                        "end": 186
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy",
+                        "brook"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "dental_care",
+                        "straw_hat_pirates",
+                        "milk_teeth_restoration"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Yes, everyone in the Straw Hat Pirates can restore their teeth with milk, but they should still visit the dentist."
+            },
+            {
+                "number": 6,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Reveal the name of Red-Haired [[Shanks]]'s sword. P.N. Kooshi",
+                        "matches": [
+                            [
+                                30,
+                                40,
+                                "Shanks"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Sure. I think it's called \"[[Gryphon]]\". We've known Shanks ever since the very [[Chapter 1|first chapter]], but I wonder how does he actually fight.",
+                        "matches": [
+                            [
+                                27,
+                                38,
+                                "Gryphon"
+                            ],
+                            [
+                                80,
+                                107,
+                                "Chapter 1|first chapter"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "first chapter",
+                        "link_title": "/wiki/Chapter 1",
+                        "is_wikipedia": false,
+                        "start": 80,
+                        "end": 107
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Shanks",
+                        "link_title": "/wiki/Shanks",
+                        "is_wikipedia": false,
+                        "start": 30,
+                        "end": 40
+                    },
+                    {
+                        "text": "Gryphon",
+                        "link_title": "/wiki/Gryphon",
+                        "is_wikipedia": false,
+                        "start": 27,
+                        "end": 38
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "shanks"
+                    ],
+                    "places": [],
+                    "emotions": [],
+                    "topics": [
+                        "sword",
+                        "fighting_style"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Shanks's sword is named Gryphon, and Oda wonders about his fighting style despite being in the story since the first chapter."
+            },
+            {
+                "number": 7,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-san, hello!! [[Vinsmoke Judge]] and [[Sanji]]'s hair are yellow. If this is so, did the remaining four children in the [[Vinsmoke Family]] dye their hair when they were little? Or was it caused by the [[Lineage Factor]]? from Kunlun Pretzel",
+                        "matches": [
+                            [
+                                17,
+                                35,
+                                "Vinsmoke Judge"
+                            ],
+                            [
+                                40,
+                                49,
+                                "Sanji"
+                            ],
+                            [
+                                123,
+                                142,
+                                "Vinsmoke Family"
+                            ],
+                            [
+                                205,
+                                223,
+                                "Lineage Factor"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "This question is from overseas, huh. Certainly the brothers having different hair colors is odd, I guess. You've already given the answer. This is because of the manipulated Lineage Factor. Sanji was the only one not affected, so he and his father have the same hair color.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Vinsmoke Judge",
+                        "link_title": "/wiki/Vinsmoke Judge",
+                        "is_wikipedia": false,
+                        "start": 17,
+                        "end": 35
+                    },
+                    {
+                        "text": "Sanji",
+                        "link_title": "/wiki/Sanji",
+                        "is_wikipedia": false,
+                        "start": 40,
+                        "end": 49
+                    },
+                    {
+                        "text": "Vinsmoke Family",
+                        "link_title": "/wiki/Vinsmoke Family",
+                        "is_wikipedia": false,
+                        "start": 123,
+                        "end": 142
+                    },
+                    {
+                        "text": "Lineage Factor",
+                        "link_title": "/wiki/Lineage Factor",
+                        "is_wikipedia": false,
+                        "start": 205,
+                        "end": 223
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "vinsmoke_judge",
+                        "sanji"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "vinsmoke_family",
+                        "lineage_factor"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "The Vinsmoke siblings' hair colors differ due to the manipulated Lineage Factor, with Sanji being the only one unaffected, thus sharing the same hair color as his father."
+            },
+            {
+                "number": 8,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "I know [[Charlotte Pudding|Pudding]]'s true form, but I still love her. P.N. Cute is Justice",
+                        "matches": [
+                            [
+                                7,
+                                36,
+                                "Charlotte Pudding|Pudding"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "You're going down an evil path. Men are sad things.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Pudding",
+                        "link_title": "/wiki/Charlotte Pudding",
+                        "is_wikipedia": false,
+                        "start": 7,
+                        "end": 36
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "charlotte_pudding"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "sad"
+                    ],
+                    "topics": [
+                        "love",
+                        "appearance"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader confesses love for character Pudding, Oda warns about an 'evil path' and mentions men are 'sad things'."
+            }
+        ],
+        "page": "62",
+        "chapter_number": "872",
+        "page_header": "SBS87 Header 2.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 9,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sen... Odacchi, hello! I was reading volume 86 and really became a fan of Katakuri. In chapter 873, why did Daifuku (the third son) refer to Katakuri (the second son) without a honorific? Are they twins who don't resemble one another? Why is Katakuri the only one who is not a minister? Please tell me his age and height!! -P.N. C(Charlotte) Yurie",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yeees. That's a bunch of Katakuri questions coming in fast!! There's no way Daifuku is his twin! Actually, they're triplets! They're 48 years old.\n\n: [[Charlotte Katakuri]] [509 cm] [[Komugi Island]] (Hakuriki Town) \"Minister of Flour\" Second Son\n\n: [[Charlotte Daifuku]] [489 cm] [[Poripori Island]] (Mame Mame Town) \"Minister of Beans\" Third Son\n\n: [[Charlotte Oven]] [492 cm] [[Yakigashi Island]] (Fukkura Town) \"Minister of Browned Food\" Fourth Son\n\nThere are 34 islands with 34 Ministers in Totto Land. It's all handled by Big Mom's children although that's what I have decided, but I'm not sure whether to show all information or not. There are just too many profound/background settings.",
+                        "matches": [
+                            [
+                                150,
+                                172,
+                                "Charlotte Katakuri"
+                            ],
+                            [
+                                182,
+                                199,
+                                "Komugi Island"
+                            ],
+                            [
+                                250,
+                                271,
+                                "Charlotte Daifuku"
+                            ],
+                            [
+                                281,
+                                300,
+                                "Poripori Island"
+                            ],
+                            [
+                                351,
+                                369,
+                                "Charlotte Oven"
+                            ],
+                            [
+                                379,
+                                399,
+                                "Yakigashi Island"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Charlotte Katakuri",
+                        "link_title": "/wiki/Charlotte Katakuri",
+                        "is_wikipedia": false,
+                        "start": 150,
+                        "end": 172
+                    },
+                    {
+                        "text": "Komugi Island",
+                        "link_title": "/wiki/Komugi Island",
+                        "is_wikipedia": false,
+                        "start": 182,
+                        "end": 199
+                    },
+                    {
+                        "text": "Charlotte Daifuku",
+                        "link_title": "/wiki/Charlotte Daifuku",
+                        "is_wikipedia": false,
+                        "start": 250,
+                        "end": 271
+                    },
+                    {
+                        "text": "Poripori Island",
+                        "link_title": "/wiki/Poripori Island",
+                        "is_wikipedia": false,
+                        "start": 281,
+                        "end": 300
+                    },
+                    {
+                        "text": "Charlotte Oven",
+                        "link_title": "/wiki/Charlotte Oven",
+                        "is_wikipedia": false,
+                        "start": 351,
+                        "end": 369
+                    },
+                    {
+                        "text": "Yakigashi Island",
+                        "link_title": "/wiki/Yakigashi Island",
+                        "is_wikipedia": false,
+                        "start": 379,
+                        "end": 399
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "charlotte_katakuri",
+                        "charlotte_daifuku",
+                        "charlotte_oven",
+                        "big_mom"
+                    ],
+                    "places": [
+                        "komugi_island",
+                        "poripori_island",
+                        "yakigashi_island",
+                        "totto_land"
+                    ],
+                    "emotions": [
+                        "informative"
+                    ],
+                    "topics": [
+                        "charlotte_family",
+                        "twin_triplets",
+                        "totto_land_ministers"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Katakuri and Daifuku are triplets, Katakuri is 48 years old, 509cm tall, and not a minister in Totto Land, which has 34 islands with 34 ministers."
+            },
+            {
+                "number": 10,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Baron Tamago has the power of the Tama Tama no Mi, so after he turns into Count Niwatori, how does he turn back into Baron Tamago? -P.N. Match and Takeshi",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Here it is. Tamago comes after Niwatori. This is for anyone who doesn't understand.\n\n[[File:SBS87 Tama Tama.png|center|400px]]\n\nBaron Tamago gets killed -> Hiyoko is born. Viscount Hiyoko gets killed -> Niwatori is born. Count Niwatori gets killed -> Tamago is born. Baron Tamago... and continue.",
+                        "matches": [
+                            [
+                                85,
+                                126,
+                                "File:SBS87 Tama Tama.png|center|400px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS87 Tama Tama.png",
+                        "size": "400",
+                        "start": 85,
+                        "end": 126
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "baron_tamago",
+                        "count_niwatori",
+                        "hiyoko"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "tama_tama_no_mi",
+                        "baron_tamago",
+                        "count_niwatori",
+                        "resurrection"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Baron Tamago transforms into Hiyoko after being killed, then Viscount Hiyoko, then Niwatori, and finally, when Niwatori is killed, Baron Tamago is reborn."
+            }
+        ],
+        "page": "100",
+        "chapter_number": "874",
+        "page_header": "SBS87 Header 3.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 11,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchi!! Hello!! This is sudden, but there's something I want. That is Kizaru, Fujitora, Akainu, and Aokiji as the opposite gender!! Can you even do that?",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Sure. I regret it!!\n\n[[File:SBS87 GB Admirals.png|thumb|center|400px]]\n\n: Kizaru: Shall I share the speed of light?\n: Fujitora: I wonder if you can bear it\n: Akainu: It's a little anti-aging\n: Aokiji: Ice Nail!!\n\n[[File:SBS87 Shanks, Ace, and Sabo.png|thumb|300px]]",
+                        "matches": [
+                            [
+                                21,
+                                70,
+                                "File:SBS87 GB Admirals.png|thumb|center|400px"
+                            ],
+                            [
+                                213,
+                                265,
+                                "File:SBS87 Shanks, Ace, and Sabo.png|thumb|300px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS87 GB Admirals.png",
+                        "size": "400",
+                        "start": 21,
+                        "end": 70
+                    },
+                    {
+                        "file": "SBS87 Shanks, Ace, and Sabo.png",
+                        "size": "300",
+                        "start": 213,
+                        "end": 265
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "kizaru",
+                        "fujitora",
+                        "akainu",
+                        "aokiji"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "regret",
+                        "funny"
+                    ],
+                    "topics": [
+                        "gender_swap",
+                        "admirals"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "The reader asks Oda to draw the admirals as the opposite gender, and Oda complies with sketches of the female versions, along with some humorous commentary."
+            },
+            {
+                "number": 12,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-san, hello! In the color cover for [[Chapter 874]], [[Portgas D. Ace|Ace]] and [[Sabo]] are making angry faces, but what happened? Shanks is laughing... P.N. Sakuraki Chisaki",
+                        "matches": [
+                            [
+                                39,
+                                54,
+                                "Chapter 874"
+                            ],
+                            [
+                                56,
+                                78,
+                                "Portgas D. Ace|Ace"
+                            ],
+                            [
+                                83,
+                                91,
+                                "Sabo"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Let's listen carefully.\n\n: Ace: Master Red Hair! Thanks for keeping an eye out for our little brother, you bast- I mean sir!!\n\n: Sabo: My name's Sabo. It's nice to meet you. I'm also Luffy's big brother! You have my thanks too! Thank you very much. As for the future...\n\n: Shanks: Ahahaha! Oi, let's go, you guys! I get it. We're good now, so come drink!!",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "That's why Ace learned manners from Makino long ago, to thank Shanks.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Ace",
+                        "link_title": "/wiki/Portgas D. Ace",
+                        "is_wikipedia": false,
+                        "start": 56,
+                        "end": 78
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Chapter 874",
+                        "link_title": "/wiki/Chapter 874",
+                        "is_wikipedia": false,
+                        "start": 39,
+                        "end": 54
+                    },
+                    {
+                        "text": "Sabo",
+                        "link_title": "/wiki/Sabo",
+                        "is_wikipedia": false,
+                        "start": 83,
+                        "end": 91
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "portgas_d_ace",
+                        "sabo",
+                        "shanks",
+                        "makino"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "grateful",
+                        "funny"
+                    ],
+                    "topics": [
+                        "brotherhood",
+                        "manners",
+                        "family"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "Ace and Sabo were thanking Shanks, with Ace learning manners from Makino long ago, explaining their angry and thankful expressions on the cover."
+            }
+        ],
+        "page": "118",
+        "chapter_number": "875",
+        "page_header": "SBS87 Header 4.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 13,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei, hello. In chapter 852, there's a scene where Jinbe saves Luffy and Nami. At the time, Nami's clothes are ruined. But I turn the page and she's dressed! Moreover, in the previous panel it goes \"goso goso (sound effect)\" and is that Nami changing clothes!? What is she doing? Tell me, Odacchi. -P.N. Save Me from Summer Break Homework",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yep, she got new clothes. Because the old ones were ruined.\n\n{{Gallery|captionalign=center|position=center\n|Nami Change 2.png|Here's the \"goso goso\" part.\n|Nami Change 1.png|Look here in the previous panel. Nami notices something. It's the defeated soldier's clothes.\n|Nami Change 3.png|From the goso goso part, she's wearing too big clothes. In other words, she took the big soldier's clothes by force.\n}}\n\nIt's okay.\n\n[[File:SBS87 Cards.png|right|100px]]",
+                        "matches": [
+                            [
+                                420,
+                                456,
+                                "File:SBS87 Cards.png|right|100px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS87 Cards.png",
+                        "size": "100",
+                        "start": 420,
+                        "end": 456
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "jinbe",
+                        "luffy",
+                        "nami"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "clothing",
+                        "mystery"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Nami changed into new clothes because her old ones were ruined, she took the defeated soldier's clothes by force, as seen in the 'goso goso' part."
+            },
+            {
+                "number": 14,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-san, in the cover for chapter 862, Shanks has Hanafuda cards! A \"Shikou\" (kanji is four light)! ... \"Just a Yonko (kanji is four stars)\"!! -P.N. Shinboku-kun",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Nooo you noticed that- amazing!\n\nYes, that hand in Hanafuda is called a \"Shikou (kanji for four light).\"\u00a0\n\nIt is read as \"Shikou,\" but it does seem to suggest Shanks's future as one of the Yonko. Well done.{{-}}",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "shanks"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "amazed"
+                    ],
+                    "topics": [
+                        "syanks_future",
+                        "hanafuda_cards"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Shanks holding Hanafuda cards with 'Shikou' (kanji for four light) foreshadows his role as one of the Yonko."
+            }
+        ],
+        "page": "136",
+        "chapter_number": "876",
+        "page_header": "SBS87 Header 5.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 15,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchi, what's up! My birthday's on the 24th of May, but no character has the same birthday! (Cry) This might be really selfish, (5) ''Go''han [meal] (2) ''Ni''njin [carrot] (4) ''Shi''ro Usagi [White Rabbit] for [[Carrot]]'s birthday! How's that sound? P.N. Cool",
+                        "matches": [
+                            [
+                                214,
+                                224,
+                                "Carrot"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "What!? It's fine. What a cute problem.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Carrot",
+                        "link_title": "/wiki/Carrot",
+                        "is_wikipedia": false,
+                        "start": 214,
+                        "end": 224
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "carrot"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "selfish",
+                        "cute",
+                        "happy"
+                    ],
+                    "topics": [
+                        "birthday",
+                        "character_birthdays"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader suggests a birthday idea for a character, and Oda finds it cute and acceptable."
+            },
+            {
+                "number": 16,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello. I want to fill the Birthday Calender!\n\n: [[Rebecca]]: [REB(8)ECCA] {B looks like an 8} Phantom [Maboro''shi'' ->(4)] Princess for the 8/4 {August 4th}\n: [[Scarlett]]: [Sukaret''to''(10) is Rebek(2)ka's Haha{mom}(8)] for the 10/28 {October 28th}\n\nHow are these birthdays? -P.N. Shin",
+                        "matches": [
+                            [
+                                48,
+                                59,
+                                "Rebecca"
+                            ],
+                            [
+                                160,
+                                172,
+                                "Scarlett"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Hey, hey, hey, deciding that's... fine.\n\nYes here! Because I can't explain the birthday deciding postcards, I think you should go look at the online presentation. Use a proper pen name at ONEPIECE.COM's official page where you can go fill out the birthday days. Is your birthday taken? Anyways, please take a look at the home page. What is wanted in SBS is unchanged.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Rebecca",
+                        "link_title": "/wiki/Rebecca",
+                        "is_wikipedia": false,
+                        "start": 48,
+                        "end": 59
+                    },
+                    {
+                        "text": "Scarlett",
+                        "link_title": "/wiki/Scarlett",
+                        "is_wikipedia": false,
+                        "start": 160,
+                        "end": 172
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "rebecca",
+                        "scarlett"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "birthday_calender",
+                        "SBS",
+                        "pen_name",
+                        "online_presentation"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda directs the reader to an online presentation to determine character birthdays and suggests using a proper pen name at ONEPIECE.COM's official page."
+            },
+            {
+                "number": 17,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "[[Eustass Kid|Kid]] and [[Killer]] are the two who dislike curry udon, but what happened in the past to cause that...??' -from Rebell-chan",
+                        "matches": [
+                            [
+                                0,
+                                19,
+                                "Eustass Kid|Kid"
+                            ],
+                            [
+                                24,
+                                34,
+                                "Killer"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Those two are good friends, and at the same time they loved being partners from the beginning, they took on Shiruton Doruyanaika-chan together, that day they ate curry udon, and when they finished saw Doruyanaika-chan, her whole body was dyed brown, the two laughed and she hit them both real good. It's a bitter memory of their youth. Yes! Until next volume.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Kid",
+                        "link_title": "/wiki/Eustass Kid",
+                        "is_wikipedia": false,
+                        "start": 0,
+                        "end": 19
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Killer",
+                        "link_title": "/wiki/Killer",
+                        "is_wikipedia": false,
+                        "start": 24,
+                        "end": 34
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "eustass_kid",
+                        "killer",
+                        "shiruton_doruyanaika-chan"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny",
+                        "nostalgic"
+                    ],
+                    "topics": [
+                        "friendship",
+                        "youth_experience"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Kid and Killer's dislike for curry udon stems from a funny incident in their youth when they ate it with their friend, Shiruton Doruyanaika-chan."
+            }
+        ],
+        "page": "174",
+        "chapter_number": "878",
+        "page_header": "SBS87 Header 6.png"
+    }
+]

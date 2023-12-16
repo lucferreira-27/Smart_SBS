@@ -1,0 +1,781 @@
+[
+    {
+        "qa": [
+            {
+                "number": 1,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello Oda-sensei \u2665 Lately my father (age 50) has been getting obsessed with the [[One Piece (Anime)|One Piece anime]], and he watches it fanatically every week. It's so great that One Piece can be enjoyed by anyone, from child to adult! (By the way, my whole family loves it) P.S. Begin the SBS. P.N. Kuri",
+                        "matches": [
+                            [
+                                80,
+                                117,
+                                "One Piece (Anime)|One Piece anime"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Aww gee... your dad likes it too? Thanks, that's so HEY!!! THE SBS IS ON!!! Oh my God!! I thought this was just a normal fan letter!! All right! Let's go, then!\n\n\n[[File:SBS Vol 40 01.png|right|120px]]",
+                        "matches": [
+                            [
+                                163,
+                                201,
+                                "File:SBS Vol 40 01.png|right|120px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS Vol 40 01.png",
+                        "size": "120",
+                        "start": 163,
+                        "end": 201
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "One Piece anime",
+                        "link_title": "/wiki/One Piece (Anime)",
+                        "is_wikipedia": false,
+                        "start": 80,
+                        "end": 117
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [
+                        "Kuri"
+                    ],
+                    "emotions": [
+                        "surprised",
+                        "enthusiastic"
+                    ],
+                    "topics": [
+                        "One_Piece_popularity",
+                        "family"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "Oda is surprised by the fan letter and starts the SBS session in excitement."
+            },
+            {
+                "number": 2,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "To Oda-sensei. You know what butt-chins are, right? What kind of chin does [[Franky]] have? P.N. Freddie",
+                        "matches": [
+                            [
+                                75,
+                                85,
+                                "Franky"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Oh. Yeah, it's split in three. Well, two would be a \"butt-chin\" so I guess three is called a \"butt-butt-chin\". (labels point out butts and butthairs){{-}}\n\n[[File:SBS_Vol_40_08.png|right|150px]]",
+                        "matches": [
+                            [
+                                156,
+                                194,
+                                "File:SBS_Vol_40_08.png|right|150px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS_Vol_40_08.png",
+                        "size": "150",
+                        "start": 156,
+                        "end": 194
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Franky",
+                        "link_title": "/wiki/Franky",
+                        "is_wikipedia": false,
+                        "start": 75,
+                        "end": 85
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "franky"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "appearance",
+                        "silly"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Franky's chin is split in three, which Oda humorously labels as a 'butt-butt-chin' in reference to the 'butt-chin' concept."
+            },
+            {
+                "number": 3,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "To Oda-sensei. Hello, I am about to have my fourth child. My daughter hopes it's another girl, but if it's a boy, I intend to teach him Okama Kenpo just like [[Bentham|Bon Kurei]]. Where should I take him to learn this? Please tell me. (P.N. Bon Kurei Fanclub President)",
+                        "matches": [
+                            [
+                                158,
+                                179,
+                                "Bentham|Bon Kurei"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Ballet \u2192 Karate \u2192 Working at one of \"those\" places. Follow the steps in that order.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Bon Kurei",
+                        "link_title": "/wiki/Bentham",
+                        "is_wikipedia": false,
+                        "start": 158,
+                        "end": 179
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "bentham"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "okama_kenpo",
+                        "parenting"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader wants to teach son Okama Kenpo like Bon Kurei; Oda advises starting with ballet, then karate, before working at 'those' places."
+            }
+        ],
+        "page": 46,
+        "chapter_number": 379,
+        "page_header": "SBS Vol 40 header.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 6,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hi there, Odacchi! I've wondering about something you might be able to answer for me! Since [[Chapter 334]], Nami's been wearing the same tanktop with a 3 on it. What does it mean? P.N. Hyu",
+                        "matches": [
+                            [
+                                92,
+                                107,
+                                "Chapter 334"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes, yes. There's a 3 on it. I combined all these questions into one. Each one's number, color and smell (according to Chopper).\n\n{| class=\"wikitable\" style=\"margin:auto;\"\n|-\n|[[Monkey D. Luffy|Luffy]]:\n*01\n*56 'Rubber' (5=Go - 6=mu)\n*[Red]\n*Smells like Meat\n|[[Sanji]]:\n*05\n*32 'Sanji' (3=San - 2=ji)\n*59 'Cook' (5=Ko - 9=kku)\n*[Blue]\n*Smells like Cigarettes and Seafood\n|-\n|[[Roronoa Zoro|Zoro]]:\n*02\n*[Green]\n*Smells like Steel\n|[[Tony Tony Chopper|Chopper]]:\n*06\n*[Pink]\n*How Should I Know?\n|-\n|[[Nami]]:\n*03\n*73 'Nami' (7=Na - 3=mi)\n*[Orange]\n*Smells like Oranges (and Money)\n|[[Nico Robin|Robin]]:\n*07\n*[Purple]\n*Smells like Flowers\n|-\n|[[Usopp]]:\n*04\n*[Yellow]\n*Smells like Gunpowder\n|}",
+                        "matches": [
+                            [
+                                176,
+                                201,
+                                "Monkey D. Luffy|Luffy"
+                            ],
+                            [
+                                260,
+                                269,
+                                "Sanji"
+                            ],
+                            [
+                                376,
+                                397,
+                                "Roronoa Zoro|Zoro"
+                            ],
+                            [
+                                432,
+                                461,
+                                "Tony Tony Chopper|Chopper"
+                            ],
+                            [
+                                499,
+                                507,
+                                "Nami"
+                            ],
+                            [
+                                582,
+                                602,
+                                "Nico Robin|Robin"
+                            ],
+                            [
+                                643,
+                                652,
+                                "Usopp"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Luffy",
+                        "link_title": "/wiki/Monkey D. Luffy",
+                        "is_wikipedia": false,
+                        "start": 176,
+                        "end": 201
+                    },
+                    {
+                        "text": "Zoro",
+                        "link_title": "/wiki/Roronoa Zoro",
+                        "is_wikipedia": false,
+                        "start": 376,
+                        "end": 397
+                    },
+                    {
+                        "text": "Chopper",
+                        "link_title": "/wiki/Tony Tony Chopper",
+                        "is_wikipedia": false,
+                        "start": 432,
+                        "end": 461
+                    },
+                    {
+                        "text": "Robin",
+                        "link_title": "/wiki/Nico Robin",
+                        "is_wikipedia": false,
+                        "start": 582,
+                        "end": 602
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Chapter 334",
+                        "link_title": "/wiki/Chapter 334",
+                        "is_wikipedia": false,
+                        "start": 92,
+                        "end": 107
+                    },
+                    {
+                        "text": "Sanji",
+                        "link_title": "/wiki/Sanji",
+                        "is_wikipedia": false,
+                        "start": 260,
+                        "end": 269
+                    },
+                    {
+                        "text": "Nami",
+                        "link_title": "/wiki/Nami",
+                        "is_wikipedia": false,
+                        "start": 499,
+                        "end": 507
+                    },
+                    {
+                        "text": "Usopp",
+                        "link_title": "/wiki/Usopp",
+                        "is_wikipedia": false,
+                        "start": 643,
+                        "end": 652
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy",
+                        "sanji",
+                        "roronoa_zoro",
+                        "tony_tony_chopper",
+                        "nami",
+                        "nico_robin",
+                        "usopp"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "clothing",
+                        "scent",
+                        "characteristics"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Nami's tank top with a 3 on it represents her number (03), color (orange), and the smell of oranges and money, according to Chopper's peculiar abilities."
+            }
+        ],
+        "page": "66",
+        "chapter_number": "380",
+        "page_header": "SBS Vol 40 02.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 7,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "*click* You BIG BOOB LOVER!!! (Ahem, pardon me.) *slam*... *click* *smack* (blown kiss) *slam* P.N. marimo",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Whoa. The girls are rebelling. What are you gonna do about that, guys?! OK, leave it to me! I'll lay down the law for us all. What the hell are you talking about? I'm a goddamn shonen manga-ka! A MAN'S DREAM!! NEVER ENDS!!! (That was good)\n\n\n[[File:SBS_Vol_40_09.png|right|60px]]",
+                        "matches": [
+                            [
+                                242,
+                                279,
+                                "File:SBS_Vol_40_09.png|right|60px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS_Vol_40_09.png",
+                        "size": "60",
+                        "start": 242,
+                        "end": 279
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "playful"
+                    ],
+                    "topics": [],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader insults the author playfully, to which Oda responds by emphasizing his focus on creating a 'shonen' manga for all males."
+            },
+            {
+                "number": 8,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchi! Hello! I enjoy One Piece very much! But!! I always wonder about that trick of Robin's! \"Cien Fleur\" and \"Seis Fleur\" and all that! What language is that? Please tell ussssssss (Please?!) P.N. Pe",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Cien = 100, Seis = 6. The numbers are Spanish. Fleur is French for \"flower.\" And stuff like Clutch is all English. It's a big jumble, but as long as it sounds good I'm happy.\n\n\n[[File:SBS_Vol_40_10.png|right|100px]]",
+                        "matches": [
+                            [
+                                177,
+                                215,
+                                "File:SBS_Vol_40_10.png|right|100px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS_Vol_40_10.png",
+                        "size": "100",
+                        "start": 177,
+                        "end": 215
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "robin"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "informative"
+                    ],
+                    "topics": [
+                        "language",
+                        "robin_technique"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Robin's attacks are named using Spanish and French numbers, along with English words, chosen for their sound rather than a specific language."
+            },
+            {
+                "number": 9,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "To Oda-sensei. Aren't you going to draw Robin's flashback? Robin: \"Cinco Fleur!!\" by Nami-n",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Look out! I barely dodged Robin's attack. Her flashback? Sounds like a lot of readers are curious. I'm drawing it now! Yes, right now!! Which means it should be in the next volume. I'll do my best.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "robin",
+                        "nami"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "curious",
+                        "excited"
+                    ],
+                    "topics": [
+                        "robin_flashback",
+                        "upcoming_volume"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "Oda confirms he will draw Robin's flashback in the next volume due to readers' curiosity."
+            }
+        ],
+        "page": "86",
+        "chapter_number": "381",
+        "page_header": null
+    },
+    {
+        "qa": [
+            {
+                "number": 10,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Why is Franky's fuel cola? from Shuu",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "COLA IS GOOD.",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "franky"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "franky_fuel",
+                        "cola"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Franky's fuel is cola because cola is good, according to Oda."
+            },
+            {
+                "number": 11,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda teacher, how is the manga-drawing going? Well? Good. Anyways, I thought of a new attack for Luffy. It's called Gomu Gomu no Rain. What does it do? Well, he floats in the air with Gomu Gomu no Storm, then splutters a bunch of spit all over the place. How's that?Hehehehe. from Ryuta",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "THAT'S DIGUSTING!! AND IN A WAY EFFECTIVE!!\n\n\n[[File:SBS Vol 40 07.png|right|100px]]",
+                        "matches": [
+                            [
+                                46,
+                                84,
+                                "File:SBS Vol 40 07.png|right|100px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS Vol 40 07.png",
+                        "size": "100",
+                        "start": 46,
+                        "end": 84
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "disgust",
+                        "funny"
+                    ],
+                    "topics": [
+                        "new_attack",
+                        "gomu_gomu_no_rain",
+                        "manga_drawing"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "D: Ryuta suggests a new attack for Luffy, 'Gomu Gomu no Rain', but Oda finds it disgusting yet effective."
+            },
+            {
+                "number": 12,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei... hey! I have a little request... On the first panel of p. 65 in [[Volume 26]], Chopper is squeezing his hand in a fist, but! It still looks the same as it always does! Therefore! Can you show us what it looks like when he does Rock Paper Scissors?! Bye. P.N. Kachiwari-gori",
+                        "matches": [
+                            [
+                                77,
+                                90,
+                                "Volume 26"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Ahaa... the same...? You think it's the same when he makes a fist. All right, get out here Chopper!! Show 'em you can do Rock Scissors and Paper!\n\n[[File:SBS Vol 40 05.png|right|200px]]\nC: Hey! I can do that! (Rock, Scissors, Paper)",
+                        "matches": [
+                            [
+                                147,
+                                185,
+                                "File:SBS Vol 40 05.png|right|200px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "See that? Look how obviously different they... YOU CHEATED!! You did it in Human Form!! Of course that works!!\n\n[[File:SBS Vol 40 04.png|right|200px]]\nC: Fine, fine. You want me to do it with my hooves, right? (Rock, Scissors, Paper)",
+                        "matches": [
+                            [
+                                112,
+                                150,
+                                "File:SBS Vol 40 04.png|right|200px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "OK Chopper!! Thanks!!!",
+                        "matches": []
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS Vol 40 05.png",
+                        "size": "200",
+                        "start": 147,
+                        "end": 185
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Volume 26",
+                        "link_title": "/wiki/Volume 26",
+                        "is_wikipedia": false,
+                        "start": 77,
+                        "end": 90
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "tony_tony_chopper"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny",
+                        "playful"
+                    ],
+                    "topics": [
+                        "chopper's_animation",
+                        "character_request"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": true
+                },
+                "summary": "A reader asks Oda to show what Chopper's hand looks like in Rock Paper Scissors, Chopper first does it in human form and then with his hooves."
+            }
+        ],
+        "page": "146",
+        "chapter_number": "384",
+        "page_header": "SBS_Vol_40_03.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 13,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Odacchi, Wanze is really something. I mean, he can make noodles just by putting flour into his mouth!! But... don't you need water, too?? So instead of water... it's SALIVA? Still, it's amazing. He just shoots the noodles out of his nose, ready to eat!! BUT THEY'RE RAW!! Not cooked? Even a ramen lover like myself would not eat this. What about you, Odacchi? A little dinner? P.N. Umi",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yep. My dinner every night is a bowl of deeelectable Wanze Ramen! Yaaay! I mean, no!! You can't draw manga with a weak stomach. But the Wanze Ramen has earned itself a surging wave of hatred, and I think Green Gum Allergy-chan from Osaka has something to say about it too!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "wanze",
+                        "green_gum_allergy_chan"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "food"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Wanze can make noodles with saliva, but Oda jokes about eating it; he mentions the noodles have earned a lot of hatred."
+            },
+            {
+                "number": 14,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Message for [[Wanze]]!! In [[Chapter 368]], he tells Sanji's group to \"eat up\" in one panel. But look at his finger! His thumb's stuck in the bowl! You can't eat that! No wonder they're all mad! You tell Wanze that. Reader Name: Green Gum Allergy",
+                        "matches": [
+                            [
+                                12,
+                                21,
+                                "Wanze"
+                            ],
+                            [
+                                27,
+                                42,
+                                "Chapter 368"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "THAT'S THE WRONG PART TO COMPLAIN ABOUT!!! (GONNN!!)",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Wanze",
+                        "link_title": "/wiki/Wanze",
+                        "is_wikipedia": false,
+                        "start": 12,
+                        "end": 21
+                    },
+                    {
+                        "text": "Chapter 368",
+                        "link_title": "/wiki/Chapter 368",
+                        "is_wikipedia": false,
+                        "start": 27,
+                        "end": 42
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "wanze",
+                        "sanji"
+                    ],
+                    "places": null,
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "chapter_368",
+                        "food"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Green Gum Allergy points out a mistake with Wanze's finger in Chapter 368, Oda humorously deflects the complaint by emphasizing a different issue."
+            },
+            {
+                "number": 15,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Does every single person in One Piece have their nails cut down to the quick?! by Basil",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "WHO CARES?!! (GOGONNN!!) THE SBS IS OVER!! (See you next time)",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "irrelevant"
+                    ],
+                    "topics": [
+                        "nail_cutting"
+                    ],
+                    "importance": "low",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader asks about the characters' manicures in One Piece, Oda dismisses the question and ends the Q&A session abruptly."
+            }
+        ],
+        "page": "166",
+        "chapter_number": "385",
+        "page_header": "SBS Vol 40 06.png"
+    }
+]

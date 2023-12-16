@@ -1,0 +1,1014 @@
+[
+    {
+        "qa": [
+            {
+                "number": 1,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Well, I'd like to start the SBS, but I mustn't do it on my own, so I'll go ask Oda-sensei to start it... Sensei? Sensei!! Start the Corner!! Oh!! He's sleeping?! Oh well. Guess I'll have to do it, then. And now, \"Start the SBS!!\"",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "ZZZZZZZZ... AHH!! Crap, I slept in. Oh, time for the SBS. Great, it started without me again!!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy",
+                        "oda_sensei"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "happy",
+                        "funny"
+                    ],
+                    "topics": [],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda fell asleep and missed starting the SBS, author's Q&A corner, so the fan started it without him."
+            },
+            {
+                "number": 2,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Heya, Sensei, I gots a question for ya. I can't sleep at night cuz I think about it so much. Listen to me, man. WHAT DOES THE PURA IN TEMPURA STAND FOR?",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Shut up!! Who cares what the hell Pura means?! (< Just woke up)",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "amused",
+                        "surprised"
+                    ],
+                    "topics": [],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader asks what 'Pura' in 'Tempura' means, Oda jokes around and says he just woke up."
+            },
+            {
+                "number": 3,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Good day, [[Eiichiro Oda|Oda]]-sensei. I am Kazuya, butler for Yano-sama. According to my friend K-Bayashi S-Hei (Kobayashi Shohei?, in [[Volume 10]], on [[Nami]]'s clothes on page 87 and [[Helmeppo]]'s hat on page 109, it says \"[[Doskoi Panda|DOSKOI PANDA]]\". Where does this animal come from?\n\n[[File:Doskoi Panda Infobox.png|thumb|100px]]",
+                        "matches": [
+                            [
+                                10,
+                                30,
+                                "Eiichiro Oda|Oda"
+                            ],
+                            [
+                                136,
+                                149,
+                                "Volume 10"
+                            ],
+                            [
+                                154,
+                                162,
+                                "Nami"
+                            ],
+                            [
+                                188,
+                                200,
+                                "Helmeppo"
+                            ],
+                            [
+                                229,
+                                258,
+                                "Doskoi Panda|DOSKOI PANDA"
+                            ],
+                            [
+                                296,
+                                341,
+                                "File:Doskoi Panda Infobox.png|thumb|100px"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "That's a brand name. It's very popular in [[East Blue]] right now. And pretty expensive. Very high class. One shirt might cost you over 10,000 [[Belly]]. Beware of the imposter brand \"DOSKO1 PANDA\".\n\nDOSKOI PANDA's headquarters are located on [[Mirror Ball Island]] in East Blue.",
+                        "matches": [
+                            [
+                                42,
+                                55,
+                                "East Blue"
+                            ],
+                            [
+                                143,
+                                152,
+                                "Belly"
+                            ],
+                            [
+                                243,
+                                265,
+                                "Mirror Ball Island"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "Doskoi Panda Infobox.png",
+                        "size": "100",
+                        "start": 296,
+                        "end": 341
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Oda",
+                        "link_title": "/wiki/Eiichiro Oda",
+                        "is_wikipedia": false,
+                        "start": 10,
+                        "end": 30
+                    },
+                    {
+                        "text": "DOSKOI PANDA",
+                        "link_title": "/wiki/Doskoi Panda",
+                        "is_wikipedia": false,
+                        "start": 229,
+                        "end": 258
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Volume 10",
+                        "link_title": "/wiki/Volume 10",
+                        "is_wikipedia": false,
+                        "start": 136,
+                        "end": 149
+                    },
+                    {
+                        "text": "Nami",
+                        "link_title": "/wiki/Nami",
+                        "is_wikipedia": false,
+                        "start": 154,
+                        "end": 162
+                    },
+                    {
+                        "text": "Helmeppo",
+                        "link_title": "/wiki/Helmeppo",
+                        "is_wikipedia": false,
+                        "start": 188,
+                        "end": 200
+                    },
+                    {
+                        "text": "East Blue",
+                        "link_title": "/wiki/East Blue",
+                        "is_wikipedia": false,
+                        "start": 42,
+                        "end": 55
+                    },
+                    {
+                        "text": "Belly",
+                        "link_title": "/wiki/Belly",
+                        "is_wikipedia": false,
+                        "start": 143,
+                        "end": 152
+                    },
+                    {
+                        "text": "Mirror Ball Island",
+                        "link_title": "/wiki/Mirror Ball Island",
+                        "is_wikipedia": false,
+                        "start": 243,
+                        "end": 265
+                    }
+                ],
+                "tags": {
+                    "characters": [],
+                    "places": [
+                        "East Blue",
+                        "Mirror Ball Island"
+                    ],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "brand name",
+                        "high class",
+                        "imposter brand"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda mentions DOSKOI PANDA is an expensive, high class brand from East Blue, headquartered on Mirror Ball Island, with an imposter version 'DOSKO1 PANDA'."
+            }
+        ],
+        "page": 26,
+        "chapter_number": 118,
+        "page_header": "SBS Vol 14 header.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 4,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Your attention, please. I would like to ask Oda-kun something about the photo on the inside of [[Volume 13]]. Isn't that the exact same picture from the inside of Volume 8 of \"[[Wikipedia:Shaman King|Shaman King]]\"? Huh? Huh?! HUH?!! from a guy who wants to be called Mocchi.",
+                        "matches": [
+                            [
+                                95,
+                                108,
+                                "Volume 13"
+                            ],
+                            [
+                                176,
+                                213,
+                                "Wikipedia:Shaman King|Shaman King"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Yes. I've decided not to show my face in the volume flap pictures (because if I do, it will make my everyday life much harder). That picture is Mr. Takei's, who draws the comic \"Shaman King\", which also runs in [[Weekly Shonen Jump]]. We made up a scheme to put the same photo in both of our books, on the occasion that we both had books out the same day. So, the one sitting cross-legged is me, and the one smoking is Mr. Takei.{{-}}\n\n[[File:SBS14 2 Miss Valentine.png|thumb|right|150px|\"It's a lemon. Kyahahaha.\"]]",
+                        "matches": [
+                            [
+                                211,
+                                233,
+                                "Weekly Shonen Jump"
+                            ],
+                            [
+                                436,
+                                516,
+                                "File:SBS14 2 Miss Valentine.png|thumb|right|150px|\"It's a lemon. Kyahahaha.\""
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS14 2 Miss Valentine.png",
+                        "size": "150",
+                        "start": 436,
+                        "end": 516
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Shaman King",
+                        "link_title": "/wiki/Wikipedia:Shaman King",
+                        "is_wikipedia": false,
+                        "start": 176,
+                        "end": 213
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Volume 13",
+                        "link_title": "/wiki/Volume 13",
+                        "is_wikipedia": false,
+                        "start": 95,
+                        "end": 108
+                    },
+                    {
+                        "text": "Weekly Shonen Jump",
+                        "link_title": "/wiki/Weekly Shonen Jump",
+                        "is_wikipedia": false,
+                        "start": 211,
+                        "end": 233
+                    }
+                ],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "photo",
+                        "mashiro",
+                        "authorship",
+                        "flap pictures"
+                    ],
+                    "importance": [
+                        "hight"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Oda explains that the photo in Volume 13 is the same one from 'Shaman King', as they both decided to use it to avoid showing their faces."
+            },
+            {
+                "number": 5,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "The dress [[Mikita|Miss Valentine]] wears is so cute. Is the design on that one piece an orange? I'm curious.",
+                        "matches": [
+                            [
+                                10,
+                                35,
+                                "Mikita|Miss Valentine"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "That's a lemon. Kyahahahaha. A lemon slice. Kyahahaha.{{-}}",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Miss Valentine",
+                        "link_title": "/wiki/Mikita",
+                        "is_wikipedia": false,
+                        "start": 10,
+                        "end": 35
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "mikita",
+                        "miss_valentine"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "one_piece_clothing"
+                    ],
+                    "importance": [
+                        "high"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A lemon slice, not an orange, is on Miss Valentine's dress, Oda confirms."
+            },
+            {
+                "number": 6,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "In Volume 13, [[Gem|Mr. 5]]'s \"[[Bomu Bomu no Mi|Nose Fancy Cannon]]\" is spelled \"\u9f3b\u7a7a\u60f3\u7832 (Hanak\u016bs\u014dh\u014d)\". Doesn't that really mean (sorry, I know it's\u00a0vulgar) \"Booger (Hanakuso) Cannon (H\u014d)\"?",
+                        "matches": [
+                            [
+                                14,
+                                27,
+                                "Gem|Mr. 5"
+                            ],
+                            [
+                                31,
+                                68,
+                                "Bomu Bomu no Mi|Nose Fancy Cannon"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "It's a booger. Kyahahaha. I laughed my ass off when I made it up.\n[[File:SBS Vol 14 Mr5.png|thumb|center|500px|Nose Fancy (*roll roll*) Cannon!! (flick - DOOON!!)]]",
+                        "matches": [
+                            [
+                                66,
+                                164,
+                                "File:SBS Vol 14 Mr5.png|thumb|center|500px|Nose Fancy (*roll roll*) Cannon!! (flick - DOOON!!)"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS Vol 14 Mr5.png",
+                        "size": "500",
+                        "start": 66,
+                        "end": 164
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "Mr. 5",
+                        "link_title": "/wiki/Gem",
+                        "is_wikipedia": false,
+                        "start": 14,
+                        "end": 27
+                    },
+                    {
+                        "text": "Nose Fancy Cannon",
+                        "link_title": "/wiki/Bomu Bomu no Mi",
+                        "is_wikipedia": false,
+                        "start": 31,
+                        "end": 68
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "amused",
+                        "funny"
+                    ],
+                    "topics": [
+                        "devil_fruit"
+                    ],
+                    "importance": "high",
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader points out that Mr. 5's Devil Fruit power, 'Bomu Bomu no Mi,' can also be read as 'Hanakuso' or 'booger.' Oda confirms it and says he found it amusing when he came up with it."
+            }
+        ],
+        "page": "46",
+        "chapter_number": "119",
+        "page_header": "SBS Vol 14 01.png"
+    },
+    {
+        "qa": [
+            {
+                "number": 7,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello, Odacchi-sama!! I am called \"Sayaka\"! Please answer this!! On page 79 of [[Volume 11]], 4th panel, there's an old drunk guy! Why is he there?! Answer please, Ei-chan!\n\n[[File:SBS14 3 Sam.png|thumb|center|500px|<div style=float:left>In this scene...</div><div style=float:right>this guy.</div>]]",
+                        "matches": [
+                            [
+                                79,
+                                92,
+                                "Volume 11"
+                            ],
+                            [
+                                174,
+                                300,
+                                "File:SBS14 3 Sam.png|thumb|center|500px|<div style=float:left>In this scene...</div><div style=float:right>this guy.</div>"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Well spotted. I'm so happy. Well, I'll tell you. His name is [[Sam]]. He's drunk. On his way home from his eldest daughter's wedding, swaying back and forth across the road, he accidentally came to [[Arlong Park]]. All around him, he saw people joyfully celebrating. So he got excited too and starting running with them. That's our Sam.",
+                        "matches": [
+                            [
+                                61,
+                                68,
+                                "Sam"
+                            ],
+                            [
+                                198,
+                                213,
+                                "Arlong Park"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS14 3 Sam.png",
+                        "size": "500",
+                        "start": 174,
+                        "end": 300
+                    }
+                ],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Volume 11",
+                        "link_title": "/wiki/Volume 11",
+                        "is_wikipedia": false,
+                        "start": 79,
+                        "end": 92
+                    },
+                    {
+                        "text": "Sam",
+                        "link_title": "/wiki/Sam",
+                        "is_wikipedia": false,
+                        "start": 61,
+                        "end": 68
+                    },
+                    {
+                        "text": "Arlong Park",
+                        "link_title": "/wiki/Arlong Park",
+                        "is_wikipedia": false,
+                        "start": 198,
+                        "end": 213
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "sam"
+                    ],
+                    "places": [
+                        "arlong_park"
+                    ],
+                    "topics": [
+                        "backstory",
+                        "one_piece_characters"
+                    ],
+                    "emotions": [
+                        "happy",
+                        "funny"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader asks about a drunk man in One Piece volume 11, Oda reveals his name is Sam, enjoying a wedding and unintentionally arrived at Arlong Park."
+            },
+            {
+                "number": 8,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "What are those \"Raw Ham Melons\" that appeared in Volume 11?",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "It's an italian hors d'oeuvre with moderately salted, thinly sliced raw ham and sweet melon, which combines in a miraculous harmony. They can come in many appearances, but as long as it's raw ham on top of melon, it's a \"Raw Ham Melon\".",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "food"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader asks about 'Raw Ham Melons' in Volume 11, Oda explains it's an Italian appetizer with raw ham and melon."
+            },
+            {
+                "number": 9,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Where do you learn [[Fish-Man Karate]]? Please tell me.",
+                        "matches": [
+                            [
+                                19,
+                                38,
+                                "Fish-Man Karate"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "At \"[[Fish-Man Island]]\". It's about halfway down the Grand Line. It'll probably come around at some point, so just take it easy and wait.",
+                        "matches": [
+                            [
+                                4,
+                                23,
+                                "Fish-Man Island"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Fish-Man Karate",
+                        "link_title": "/wiki/Fish-Man Karate",
+                        "is_wikipedia": false,
+                        "start": 19,
+                        "end": 38
+                    },
+                    {
+                        "text": "Fish-Man Island",
+                        "link_title": "/wiki/Fish-Man Island",
+                        "is_wikipedia": false,
+                        "start": 4,
+                        "end": 23
+                    }
+                ],
+                "tags": {
+                    "characters": [],
+                    "places": [
+                        "Fish-Man Island"
+                    ],
+                    "emotions": [
+                        "neutral"
+                    ],
+                    "topics": [
+                        "Fish-Man Karate"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Fish-Man Karate is learned on Fish-Man Island, revealed by Oda when asked by a reader."
+            }
+        ],
+        "page": "86",
+        "chapter_number": "121",
+        "page_header": null
+    },
+    {
+        "qa": [
+            {
+                "number": 10,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Please continue the SBS.",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "...Okay. Yep. Wayyy ahead of ya..",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "playful"
+                    ],
+                    "topics": [],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader asks to continue SBS, Oda agrees."
+            },
+            {
+                "number": 11,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Oda-sensei!! What's the heck is this all about?! In [[Volume 13]], on page 97, on the faces of the dummies the\u00a0[[Wikipedia:Chikuwa|chikuwa]] guy's carrying, it says\"[[Wikipedia:Henohenomoheji|Henohenou_chi]]\"!! What is this?! What is it? What is the meaning of this?! \"The Cry of a Reader's Soul\"",
+                        "matches": [
+                            [
+                                52,
+                                65,
+                                "Volume 13"
+                            ],
+                            [
+                                111,
+                                140,
+                                "Wikipedia:Chikuwa|chikuwa"
+                            ],
+                            [
+                                165,
+                                207,
+                                "Wikipedia:Henohenomoheji|Henohenou_chi"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "That's nonsense... Henohenou_chi!? Hahaha... I wouldn't write something like that. This scene, right?\n\n[[File:SBS14 4 Igaram.png|left|350px]] \nAh!! You're right!! Damn you, Igaram!! I can't forgive you for commiting such a tyrannical act in this refined manga, \"One Piece\"!! And what's with that make-up?! Hey!! There, I scolded him, okay? Please forgive him.{{-}}",
+                        "matches": [
+                            [
+                                103,
+                                141,
+                                "File:SBS14 4 Igaram.png|left|350px"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "file": "SBS14 4 Igaram.png",
+                        "size": "350",
+                        "start": 103,
+                        "end": 141
+                    }
+                ],
+                "character_names": [
+                    {
+                        "text": "chikuwa",
+                        "link_title": "/wiki/Wikipedia:Chikuwa",
+                        "is_wikipedia": false,
+                        "start": 111,
+                        "end": 140
+                    },
+                    {
+                        "text": "Henohenou_chi",
+                        "link_title": "/wiki/Wikipedia:Henohenomoheji",
+                        "is_wikipedia": false,
+                        "start": 165,
+                        "end": 207
+                    }
+                ],
+                "normal_links": [
+                    {
+                        "text": "Volume 13",
+                        "link_title": "/wiki/Volume 13",
+                        "is_wikipedia": false,
+                        "start": 52,
+                        "end": 65
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "odasensei",
+                        "igaram"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "amused",
+                        "playful"
+                    ],
+                    "topics": [
+                        "chikuwa",
+                        "henohenomoheji",
+                        "onepiece"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader points out gibberish written on dummies in One Piece Vol. 13; Oda jokes it's the work of Igaram, scolding him for ruining the manga's refined nature."
+            },
+            {
+                "number": 12,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Why does [[Igaram|Igarappoi]] go \"ahem, maaa-maaa-maaa\"? I'm so interested I can't sleep.",
+                        "matches": [
+                            [
+                                9,
+                                29,
+                                "Igaram|Igarappoi"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "\"Maaa-maaa-maaa\". It's the very first thing you practice when you take singing lessons.\n\nMaaa (\u2192) Maaa (\u2197) Maaa (\u2191) Maaa (\u2197) Maa (\u2192)\n\nSo he does that singing thing when he speaks. His throat is strug...!! Ahem!! Ahem!!\n\nMaaa-maaa-maaa-maaa-maaa!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [
+                    {
+                        "text": "Igarappoi",
+                        "link_title": "/wiki/Igaram",
+                        "is_wikipedia": false,
+                        "start": 9,
+                        "end": 29
+                    }
+                ],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "igaram"
+                    ],
+                    "topics": [
+                        "singing lessons",
+                        "devil fruit (maybe)"
+                    ],
+                    "emotions": [
+                        "funny",
+                        "light-hearted"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader asks why Igarappoi says 'maaa-maaa-maaa', Oda explains it's the first singing exercise, implying Igarappoi's throat is strained from too much singing."
+            }
+        ],
+        "page": "126",
+        "chapter_number": "123",
+        "page_header": null
+    },
+    {
+        "qa": [
+            {
+                "number": 13,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Sensei!! Hey-ey-o!! I love Usopp! Hey, Eiichiro!!! Look over here!!! USOOOOOOPP RUBBER BAND!!!",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "........",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [
+                        "monkey_d_luffy",
+                        "usopp"
+                    ],
+                    "places": [],
+                    "topics": [],
+                    "emotions": [
+                        "excited",
+                        "happy"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "Reader expresses love for Usopp, Oda briefly acknowledges with silence."
+            },
+            {
+                "number": 14,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello, Oda-sensei. I just noticed something odd in the [[Usopp Gallery Pirates]]. Let's say I buy the new [[Volume 13]]. So how is it that some people have already drawn the new characters? Is it ESP? How do they know? Goodbye.",
+                        "matches": [
+                            [
+                                55,
+                                80,
+                                "Usopp Gallery Pirates"
+                            ],
+                            [
+                                106,
+                                119,
+                                "Volume 13"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "......BAH!! Whoa, that scared me. I thought I was gonna get hit by a rubber band!! Huh? Oh, the new characters. Well, you see, those people read \"Jump\". I've been reading it ever since I was a kid, too. Even now. It's a magazine. Pretty good one, too!",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Usopp Gallery Pirates",
+                        "link_title": "/wiki/Usopp Gallery Pirates",
+                        "is_wikipedia": false,
+                        "start": 55,
+                        "end": 80
+                    },
+                    {
+                        "text": "Volume 13",
+                        "link_title": "/wiki/Volume 13",
+                        "is_wikipedia": false,
+                        "start": 106,
+                        "end": 119
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "odasensei",
+                        "usopp"
+                    ],
+                    "places": [],
+                    "emotions": [
+                        "happy",
+                        "surprised"
+                    ],
+                    "topics": [
+                        "onepiece_manga",
+                        "jump_magazine"
+                    ],
+                    "importance": "normal",
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader asks how people already drew new Usopp Gallery Pirates characters in Volume 13, Oda explains they likely saw them in Jump magazine where One Piece is serialized."
+            },
+            {
+                "number": 15,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "So yesterday, I'm sitting watching television, and this fellow\u00a0cosplaying as an\u00a0Egyptian pharoah (like Tutankhamen) had a striped mushroom thing on his CHIN, just like [[Jango]]. So my question is, what's the relationship between ancient Egypt and Jango?",
+                        "matches": [
+                            [
+                                168,
+                                177,
+                                "Jango"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "answer",
+                        "text": "I can't deny that there actually is a relationship. Jango is the captain of the [[Black Cat Pirates]]. All the crew members wear cat ears on their heads, but he has a striped-mushroom chin. Why is that? Well, look at all the cats we have in Japan. If you go back far enough, they all came from Egypt. So I gave him a sort of Egyptian style. But that's all, so I guess it doesn't really matter very much.",
+                        "matches": [
+                            [
+                                80,
+                                101,
+                                "Black Cat Pirates"
+                            ]
+                        ]
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [
+                    {
+                        "text": "Jango",
+                        "link_title": "/wiki/Jango",
+                        "is_wikipedia": false,
+                        "start": 168,
+                        "end": 177
+                    },
+                    {
+                        "text": "Black Cat Pirates",
+                        "link_title": "/wiki/Black Cat Pirates",
+                        "is_wikipedia": false,
+                        "start": 80,
+                        "end": 101
+                    }
+                ],
+                "tags": {
+                    "characters": [
+                        "Jango",
+                        "Black Cat Pirates"
+                    ],
+                    "places": [
+                        "Egypt",
+                        "Japan"
+                    ],
+                    "topics": [
+                        "Jango's design",
+                        "Black Cat Pirates"
+                    ],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader asks about Jango's Egyptian-style chin stripes, and Oda reveals it's a reference to Jango's cat pirate theme and Egypt being the origin of cats in Japan."
+            },
+            {
+                "number": 16,
+                "dialog": [
+                    {
+                        "type": "question",
+                        "text": "Hello, you squid-bastard. Excuse me, your Hickness. Hey Timmy Ueda, I know you're watching! Let's fight!! Shiritori! MIKAN... AW, CRAP! THE SBS IS OVER.",
+                        "matches": []
+                    },
+                    {
+                        "type": "answer",
+                        "text": "Hey, wait a minute. What does the Pura in Tempura mean? And what about the Tem? Tempura... What the heck does that mean?\n\n''(Shiritori is a Japanese word game in which each player must say a word beginning with the last syllable of the previous player's word. You lose when you say a word that ends with the solitary \"n\", because that doesn't start any words in Japanese - Any word that starts with an \"n\" is actually a combination like \"na\" \"ni\" \"no\", which are entirely different letters in the Japanese alphabet.)''",
+                        "matches": []
+                    }
+                ],
+                "files": [],
+                "character_names": [],
+                "normal_links": [],
+                "tags": {
+                    "characters": [],
+                    "places": [],
+                    "emotions": [
+                        "funny"
+                    ],
+                    "topics": [
+                        "shiritori",
+                        "japanese_word_game"
+                    ],
+                    "importance": [
+                        "normal"
+                    ],
+                    "isCharacterInsertion": false
+                },
+                "summary": "A reader playfully challenges Oda to Shiritori, but fails quickly; Oda wonders about the meaning of 'Tempura'."
+            }
+        ],
+        "page": "146",
+        "chapter_number": "124",
+        "page_header": null
+    }
+]
